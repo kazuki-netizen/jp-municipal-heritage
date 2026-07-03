@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>jp-municipal-heritage — Iwate</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <style>
+    :root { --panel: 320px; }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; }
+    #app { display: flex; height: 100%; }
+    #panel {
+      width: var(--panel); flex: 0 0 var(--panel); overflow-y: auto;
+      padding: 16px; border-right: 1px solid #e2e2e2; background: #fafafa;
+    }
+    #map { flex: 1 1 auto; }
+    h1 { font-size: 18px; margin: 0 0 4px; }
+    .sub { font-size: 12px; color: #666; margin: 0 0 14px; line-height: 1.5; }
+    .sub a { color: #2a6; }
+    label { display: block; font-size: 12px; font-weight: 600; margin: 12px 0 4px; color: #333; }
+    select, input[type=search] { width: 100%; padding: 6px 8px; font-size: 13px; border: 1px solid #ccc; border-radius: 4px; }
+    .stat { font-size: 12px; color: #444; margin-top: 14px; padding-top: 12px; border-top: 1px solid #e2e2e2; }
+    .stat b { color: #111; }
+    .legend { font-size: 11px; color: #666; margin-top: 10px; line-height: 1.6; }
+    .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; vertical-align: middle; }
+    .popup h3 { margin: 0 0 6px; font-size: 14px; }
+    .popup .meta { font-size: 12px; color: #333; line-height: 1.5; }
+    .popup .tag { display: inline-block; background: #eef; color: #335; border-radius: 3px; padding: 1px 6px; font-size: 11px; margin: 2px 3px 2px 0; }
+    .popup a { font-size: 11px; }
+    .approx { font-style: italic; color: #a60; }
+    @media (max-width: 720px) {
+      #app { flex-direction: column; }
+      #panel { width: 100%; flex: 0 0 auto; max-height: 42vh; border-right: none; border-bottom: 1px solid #e2e2e2; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="panel">
+      <h1>Iwate municipal cultural properties</h1>
+      <p class="sub">
+        岩手県 市町村指定文化財 &middot; <span id="total">…</span> designations.<br>
+        Open data (CC-BY-4.0). Source: <a href="https://github.com/kazuki-netizen/jp-municipal-heritage">jp-municipal-heritage</a>.
+      </p>
+
+      <label for="f-muni">Municipality 市町村</label>
+      <select id="f-muni"><option value="">All</option></select>
+
+      <label for="f-cat">Category 大分類</label>
+      <select id="f-cat"><option value="">All</option></select>
+
+      <label for="f-q">Search name / 名称</label>
+      <input type="search" id="f-q" placeholder="e.g. 神楽, 五百羅漢" />
+
+      <div class="stat">
+        Showing <b id="shown">0</b> of <b id="grand">0</b> points.<br>
+        <span id="approxnote"></span>
+      </div>
+      <div class="legend">
+        <span class="dot" style="background:#3388ff"></span>address-precise point<br>
+        <span class="dot" style="background:#e69138"></span>municipality-approx (no address in source)
+      </div>
+      <p class="sub" style="margin-top:14px">
+        Points geocoded via the GSI (国土地理院) address search. Basemap &copy; OpenStreetMap contributors.
+      </p>
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script>
+    const map = L.map('map').setView([39.5, 141.4], 8);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    const cluster = L.markerClusterGroup({ maxClusterRadius: 45, chunkedLoading: true });
+    map.addLayer(cluster);
+
+    let ALL = [];
+    const esc = s => (s == null ? '' : String(s).replace(/[&<>"]/g, c =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])));
+
+    function color(p) { return p.geo_precision === 'municipality' ? '#e69138' : '#3388ff'; }
+
+    function popup(p) {
+      const approx = p.geo_precision === 'municipality'
+        ? '<div class="approx">Location approximate (municipality centroid — source published no address).</div>' : '';
+      return `<div class="popup">
+        <h3>${esc(p.name)}</h3>
+        <div class="meta">
+          <span class="tag">${esc(p.designation)}</span>
+          <span class="tag">${esc(p.category)}</span>
+          ${p.subcategory ? `<span class="tag">${esc(p.subcategory)}</span>` : ''}<br>
+          <b>${esc(p.municipality)}</b>${p.location ? ' &middot; ' + esc(p.location) : ''}<br>
+          ${p.designated_date ? 'Designated: ' + esc(p.designated_date) + '<br>' : ''}
+          ${p.description ? esc(p.description) + '<br>' : ''}
+          ${approx}
+          <a href="${esc(p.source_url)}" target="_blank" rel="noopener">source</a>
+        </div>
+      </div>`;
+    }
+
+    function populate(sel, values) {
+      values.sort();
+      for (const v of values) {
+        const o = document.createElement('option');
+        o.value = v; o.textContent = v; sel.appendChild(o);
+      }
+    }
+
+    function render() {
+      const muni = document.getElementById('f-muni').value;
+      const cat = document.getElementById('f-cat').value;
+      const q = document.getElementById('f-q').value.trim().toLowerCase();
+      cluster.clearLayers();
+      let shown = 0;
+      const markers = [];
+      for (const f of ALL) {
+        const p = f.properties;
+        if (muni && p.municipality !== muni) continue;
+        if (cat && p.category !== cat) continue;
+        if (q && !(p.name && p.name.toLowerCase().includes(q))) continue;
+        const [lon, lat] = f.geometry.coordinates;
+        const m = L.circleMarker([lat, lon], {
+          radius: 5, color: color(p), weight: 1, fillColor: color(p), fillOpacity: 0.75
+        });
+        m.bindPopup(popup(p), { maxWidth: 300 });
+        markers.push(m);
+        shown++;
+      }
+      cluster.addLayers(markers);
+      document.getElementById('shown').textContent = shown.toLocaleString();
+    }
+
+    fetch('../data/iwate.geojson')
+      .then(r => r.json())
+      .then(fc => {
+        ALL = fc.features;
+        const munis = new Set(), cats = new Set();
+        let approx = 0;
+        for (const f of ALL) {
+          munis.add(f.properties.municipality);
+          cats.add(f.properties.category);
+          if (f.properties.geo_precision === 'municipality') approx++;
+        }
+        populate(document.getElementById('f-muni'), [...munis]);
+        populate(document.getElementById('f-cat'), [...cats]);
+        document.getElementById('total').textContent = ALL.length.toLocaleString();
+        document.getElementById('grand').textContent = ALL.length.toLocaleString();
+        document.getElementById('approxnote').textContent =
+          approx + ' point(s) are municipality-approx.';
+        for (const el of ['f-muni', 'f-cat', 'f-q'])
+          document.getElementById(el).addEventListener('input', render);
+        render();
+      })
+      .catch(e => {
+        document.getElementById('panel').insertAdjacentHTML('beforeend',
+          '<p style="color:#c00">Could not load data/iwate.geojson. Run <code>python3 site/build_data.py</code> first, and serve the repo root over http (e.g. <code>python3 -m http.server</code>).</p>');
+      });
+  </script>
+</body>
+</html>
