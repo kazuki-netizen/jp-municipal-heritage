@@ -7,32 +7,38 @@ but the ~1,700 municipalities that also designate their own 文化財 publish th
 scattered, inconsistent formats — HTML tables, booklet PDFs, the occasional open-data CSV,
 and sometimes nothing at all. This project unifies them into one clean, documented dataset.
 
-**This release covers Iwate Prefecture (岩手県): `data/iwate.jsonl`, 1,778 designations
-across 24 of 33 municipalities.** More prefectures are planned; the schema is designed to
-scale nationally (see [`SCHEMA.md`](SCHEMA.md)).
+**This release covers Tohoku 3 prefectures: 岩手県・宮城県・青森県 — 3,641 designations
+across 84 municipalities.** The schema is designed to scale nationally (see [`SCHEMA.md`](SCHEMA.md)).
+
+## Coverage at a glance
+
+| Prefecture | File | Rows | Municipalities covered / total |
+|---|---|---|---|
+| 岩手県 | [`data/iwate.jsonl`](data/iwate.jsonl) | 1,778 | 24 / 33 |
+| 宮城県 | [`data/miyagi.jsonl`](data/miyagi.jsonl) | 1,138 | 32 / 35 |
+| 青森県 | [`data/aomori.jsonl`](data/aomori.jsonl) | 725 | 28 / 40 |
+| **合計** | [`data/all.geojson`](data/all.geojson) | **3,641** | **84 / 108** |
 
 ## What's here
 
 | Path | Description |
 |---|---|
-| [`data/iwate.jsonl`](data/iwate.jsonl) | **Canonical dataset.** One JSON object per property (1,778 rows). |
-| [`data/iwate.csv`](data/iwate.csv) | Same columns as the JSONL, UTF-8 **with BOM** so Excel opens it cleanly. |
-| [`data/iwate.geojson`](data/iwate.geojson) | Geocoded points for the map (via GSI address search). |
+| `data/{pref}.jsonl` | **Canonical datasets.** One JSON object per property. |
+| `data/{pref}.csv` | Same columns as the JSONL, UTF-8 **with BOM** so Excel opens it cleanly. |
+| `data/{pref}.geojson` | Geocoded points per prefecture (via GSI address search). |
+| [`data/all.geojson`](data/all.geojson) | Combined geojson across all three prefectures. |
 | [`SCHEMA.md`](SCHEMA.md) | Field definitions (v1), normalization rules, and the v2 roadmap. |
-| [`docs/coverage.md`](docs/coverage.md) | Honest per-municipality coverage — including the 9 zero-yield municipalities and the method used for each. |
+| [`docs/coverage.md`](docs/coverage.md) | Honest per-municipality coverage — including the zero-yield municipalities and the method used for each. |
 | [`docs/sources.md`](docs/sources.md) | Per-municipality source URL, format, and fetch date. |
-| [`site/index.html`](site/index.html) | Static Leaflet map of the dataset. |
+| [`site/index.html`](site/index.html) | Static Leaflet map of the dataset (prefecture filter included). |
 | [`notes/`](notes/) | Working notes from the pilot (schema-fit analysis, raw coverage log). |
 
 ## Data at a glance
 
-- **1,778 designations** — `市指定` 1,527 / `町指定` 244 / `村指定` 7.
-- **Categories** (文化庁大分類): 有形文化財 760 · 民俗文化財 545 · 記念物(史跡・名勝・天然記念物) 468 · 無形文化財 4 · その他 1.
-- **Date coverage**: 1,655 / 1,778 rows (93%) carry a normalized 西暦 designation date. Missing dates
-  are almost all cases where the *source itself* publishes none — documented, not hidden.
-- **Coverage**: 24 / 33 municipalities yielded records. The 9 that did not are listed explicitly
-  in [`docs/coverage.md`](docs/coverage.md) with the reason for each — that transparency is the
-  point of the dataset.
+- **3,641 designations total** across 岩手・宮城・青森.
+- **jmh_id**: all rows carry a unique `JMH-XXXXXX-NNNN` identifier; existing Iwate IDs unchanged.
+- **Coverage**: 84 / 108 municipalities yielded records. Zero-yield municipalities are listed
+  in [`docs/coverage.md`](docs/coverage.md) with the reason for each.
 
 ## Design principles
 
@@ -47,18 +53,31 @@ scale nationally (see [`SCHEMA.md`](SCHEMA.md)).
 
 ## Using the map locally
 
-The map reads `data/iwate.geojson` via `fetch`, so serve the repo root over HTTP:
+The map reads `data/all.geojson` via `fetch`, so serve the repo root over HTTP:
 
 ```bash
 python3 -m http.server 8000
 # then open http://localhost:8000/site/index.html
 ```
 
-To regenerate the derived files (`iwate.csv`, `iwate.geojson`) from the canonical JSONL:
+To regenerate the derived files (CSV, per-pref geojson, all.geojson) from the canonical JSONLs:
 
 ```bash
-python3 site/build_data.py            # rebuild csv + geojson (geocodes as needed, cached)
+python3 site/build_data.py            # rebuild csv + geojson for all prefs (geocodes as needed, cached)
 python3 site/build_data.py --csv-only # rebuild only the csv (no network)
+python3 site/build_data.py iwate      # rebuild only one prefecture
+```
+
+To assign JMH IDs to new rows (idempotent — existing IDs never change):
+
+```bash
+python3 site/assign_ids.py            # process all three prefectures
+```
+
+To regenerate detail pages:
+
+```bash
+python3 site/build_pages.py           # ~3,641 pages under site/p/
 ```
 
 Geocoding uses the read-only public address-search API of the Geospatial Information Authority
@@ -71,7 +90,7 @@ of Japan (国土地理院 / GSI), with a polite delay and an on-disk cache
 - **Code** (`site/`) — **MIT**. See [`site/LICENSE`](site/LICENSE).
 
 Suggested attribution:
-> jp-municipal-heritage (Iwate), CC-BY-4.0, kazuki-netizen — compiled from Japanese municipal
+> jp-municipal-heritage (Tohoku 3-pref), CC-BY-4.0, kazuki-netizen — compiled from Japanese municipal
 > open sources listed in `docs/sources.md`.
 
 Underlying source materials remain the responsibility of the originating municipalities.
@@ -86,16 +105,20 @@ Underlying source materials remain the responsibility of the originating municip
 HTML表・冊子PDF・稀にオープンデータCSV……と形式がバラバラで、そもそも公開されていない自治体もあります。
 本プロジェクトは、それらを統一された、出典明記のデータセットにまとめます。
 
-**本リリースは岩手県が対象です（`data/iwate.jsonl`、33市町村中24市町村・計1,778件）。**
+**本リリースは東北3県（岩手・宮城・青森）が対象です。計3,641件、84市町村。**
 スキーマは全国展開を見据えて設計しています（[`SCHEMA.md`](SCHEMA.md) 参照）。
 
 ### 収録データ
 
-- **1,778件** — 市指定 1,527 / 町指定 244 / 村指定 7。
-- **大分類**: 有形文化財 760 / 民俗文化財 545 / 記念物 468 / 無形文化財 4 / その他 1。
-- **指定年月日**: 1,778件中1,655件（93%）を西暦へ正規化。欠損の大半は「出典自体が日付を掲載していない」
-  ケースで、[`docs/coverage.md`](docs/coverage.md) に明記しています。
-- **カバレッジ**: 24/33市町村。データが得られなかった9市町村も理由付きで明示しています。
+| 県 | ファイル | 件数 | カバレッジ |
+|---|---|---|---|
+| 岩手県 | `data/iwate.jsonl` | 1,778 | 24 / 33市町村 |
+| 宮城県 | `data/miyagi.jsonl` | 1,138 | 32 / 35市町村 |
+| 青森県 | `data/aomori.jsonl` | 725 | 28 / 40市町村 |
+| 合計 | `data/all.geojson` | **3,641** | 84 / 108市町村 |
+
+- **jmh_id**: 全行に `JMH-XXXXXX-NNNN` 形式の固有IDを付与（岩手の既存IDは不変）。
+- **カバレッジ**: データが得られなかった市町村も理由付きで [`docs/coverage.md`](docs/coverage.md) に明示しています。
 
 ### 方針
 
@@ -106,14 +129,14 @@ HTML表・冊子PDF・稀にオープンデータCSV……と形式がバラバ�
 
 ### 地図の閲覧（ローカル）
 
-地図は `fetch` で `data/iwate.geojson` を読むため、リポジトリ直下をHTTPで配信してください：
+地図は `fetch` で `data/all.geojson` を読むため、リポジトリ直下をHTTPで配信してください：
 
 ```bash
 python3 -m http.server 8000
 # http://localhost:8000/site/index.html を開く
 ```
 
-派生ファイル（CSV / GeoJSON）の再生成は `python3 site/build_data.py`。
+派生ファイル（CSV / GeoJSON / all.geojson）の再生成は `python3 site/build_data.py`。
 ジオコーディングは国土地理院（GSI）の住所検索API（読み取りのみ）を、待機時間とキャッシュ付きで利用します。
 
 ### ライセンス
@@ -122,4 +145,4 @@ python3 -m http.server 8000
 - **コード**（`site/`）— **MIT**（[`site/LICENSE`](site/LICENSE)）。
 
 表示例：
-> jp-municipal-heritage (Iwate), CC-BY-4.0, kazuki-netizen — `docs/sources.md` 記載の各市町村の公開情報より作成。
+> jp-municipal-heritage (Tohoku 3-pref), CC-BY-4.0, kazuki-netizen — `docs/sources.md` 記載の各市町村の公開情報より作成。

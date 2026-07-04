@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>森山弥七郎供養碑 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>森山弥七郎供養碑</h1>
+    <p class="jmh-id">JMH-022012-0020</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>青森県</dd>
+      <dt>市町村</dt><dd>青森市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>有形文化財</dd>
+      <dt>指定年月日</dt><dd>1991-08-20</dd>
+      <dt>所在地</dt><dd>青森県青森市大字油川字大浜249-1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定物件は、湊町青森のまちづくりに携わった森山弥七郎を供養するために建立された石碑である。弘前藩主二代津軽信枚は、寛永2年(1625)、幕府より津軽から江戸への廻船運航を許可された。翌、寛永3年（1626）4月には、家臣森山弥七郎に青森のまちづくりを命じた。新たに開かれた湊町青森には、積極的な人寄と、10年間の年貢等の免除、また外浜（そとがはま）一帯の商船を集中させるなど、藩主導によるまちづくりが進められた。この供養碑は当初、油川村の寺内野（現在の青森市立油川中学校校庭付近）に建立され、昭和10年(1935)青森飛行場建設により野木和公園入口付近へ移転された。その後、昭和23年(1948)に油川町民の手で現在の浄満寺境内に移されたものである。供養碑の建立年代は特定できないが、外浜の中心港を、それまでの大浜（油川）から青森へ移転させたことを考えると、当地の人々が建立したとは考えにくい。一説によれば、3代目弥七郎が油川湊目付を務めた際に、先々代の遺徳を偲んで建立したものとも言われている。しかしながら、この供養碑は、青森開港の恩人と言われる森山弥七郎と深い関わりがあることだけは確かであり、江戸初期の青森を物語る貴重な文化財である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html" target="_blank" rel="noopener">https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"森山弥七郎供養碑" (JMH-022012-0020), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([40.852058, 140.697433], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([40.852058, 140.697433]).addTo(m);
+  </script>
+</body>
+</html>

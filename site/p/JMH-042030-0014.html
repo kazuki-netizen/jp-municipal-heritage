@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>石燈籠 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>石燈籠</h1>
+    <p class="jmh-id">JMH-042030-0014</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>宮城県</dd>
+      <dt>市町村</dt><dd>塩竈市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>歴史資料</dd>
+      <dt>指定年月日</dt><dd>2018-09-01</dd>
+      <dt>所在地</dt><dd>宮城県塩竈市一森山1番1号 鹽竈神社境内</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数: 2基 / 所有者等: 志波彦神社鹽竈神社 / 仙台藩第4代藩主伊達綱村（肯山）の治世に、仙台への物流を円滑にするため、塩竈と蒲生を結ぶ御舟入堀が完成しました。御舟入堀は、明治以降も拡幅や護岸整備が続けられ、「貞山堀」「貞山運河」の一部として市民に親しまれています。この一対の燈籠は、寛文13年（1673）、工事に関わった仙台藩士伊達半之助房長によって鹽竈神社に献じられたもので、御船入堀の竣工時期を示す史料であるとともに、同神社に向けられた信仰を示す史料としても貴重です。現在、一基は鹽竈神社門外の西回廊寄りに、もう一基は左右宮拝殿の東側に設置されています。伊達綱村の300年遠忌年に合わせ、塩竈市の有形文化財に指定されました。平成30年10月1日指定。年代：寛文13年（1673）。収蔵場所：鹽竈神社 塩竈市一森山1-1 見学可（5:00～20：00まで）</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://miyagi.dataeye.jp/resources/866" target="_blank" rel="noopener">https://miyagi.dataeye.jp/resources/866</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"石燈籠" (JMH-042030-0014), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.319618, 141.013718], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.319618, 141.013718]).addTo(m);
+  </script>
+</body>
+</html>

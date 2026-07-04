@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>青森市森林博物館 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>青森市森林博物館</h1>
+    <p class="jmh-id">JMH-022012-0024</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>青森県</dd>
+      <dt>市町村</dt><dd>青森市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>有形文化財</dd>
+      <dt>指定年月日</dt><dd>2004-11-17</dd>
+      <dt>所在地</dt><dd>青森県青森市柳川2-4-37</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定物件は、明治41年11月13日に青森大林区署（大正13年に青森営林局と改称）庁舎として落成した。ルネッサンス風建築様式で、木造二階建。建築材料は、構造材から造作材に至るまで、津軽・下北両半島の国有林からの精選されたヒバ材を使用している。青森ヒバ造りの代表的な建造物である。本市を代表する明治期の洋風木造建築であり、また、当時の建築技術を今に伝える貴重かつ優れた建造物として、価値が高い。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html" target="_blank" rel="noopener">https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"青森市森林博物館" (JMH-022012-0024), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([40.831158, 140.725525], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([40.831158, 140.725525]).addTo(m);
+  </script>
+</body>
+</html>

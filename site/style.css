@@ -1,0 +1,114 @@
+:root {
+  --accent: #2a6;
+  --muted: #666;
+  --border: #e2e2e2;
+  --bg: #fafafa;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #111;
+  background: #fff;
+}
+
+body {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 16px 48px;
+}
+
+nav {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 24px;
+}
+
+nav a {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 14px;
+}
+
+nav a:hover { text-decoration: underline; }
+
+h1 {
+  font-size: 22px;
+  margin: 0 0 4px;
+}
+
+.jmh-id {
+  font-size: 13px;
+  color: var(--muted);
+  font-family: monospace;
+  margin: 0 0 20px;
+}
+
+dl.meta {
+  margin: 0 0 24px;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 4px 16px;
+  font-size: 14px;
+}
+
+dl.meta dt {
+  color: var(--muted);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+dl.meta dd { margin: 0; }
+
+section {
+  margin-bottom: 24px;
+}
+
+section h2 {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+}
+
+section.description p {
+  margin: 0;
+  font-size: 14px;
+}
+
+section.source p {
+  margin: 0;
+  font-size: 13px;
+  color: #333;
+}
+
+section.source a {
+  color: var(--accent);
+  word-break: break-all;
+}
+
+.cite-block {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 10px 14px;
+  font-size: 13px;
+  font-family: monospace;
+  color: #333;
+}
+
+#mini-map {
+  height: 260px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  margin-bottom: 24px;
+  overflow: hidden;
+}

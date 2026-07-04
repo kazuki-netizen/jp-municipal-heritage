@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>塚沢Ａ地区横穴墓群 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>塚沢Ａ地区横穴墓群</h1>
+    <p class="jmh-id">JMH-042056-0020</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>宮城県</dd>
+      <dt>市町村</dt><dd>気仙沼市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1975-09-17</dd>
+      <dt>所在地</dt><dd>宮城県気仙沼市塚沢113-11</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者等: 個人 / 奈良・平安時代に造営された横穴墓 / 月立小学校付近の丘陵斜面に位置し、八瀬川の左側に分布する奈良時代から平安時代初初頭にかけて造営された墓群で、太平洋沿岸で最北の横穴墓である。（7基）</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://miyagi.dataeye.jp/resources/916" target="_blank" rel="noopener">https://miyagi.dataeye.jp/resources/916</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"塚沢Ａ地区横穴墓群" (JMH-042056-0020), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.956947, 141.51741], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.956947, 141.51741]).addTo(m);
+  </script>
+</body>
+</html>

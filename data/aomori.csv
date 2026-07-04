@@ -1,0 +1,726 @@
+﻿pref,municipality,name,category,subcategory,designation,designated_date,location,description,source_url,source_format,fetched_at,jmh_id
+青森県,おいらせ町,日ヶ久保虎舞,民俗文化財,無形文化財（芸能）,町指定,,,町の無形文化財。本州最北端の虎舞といわれる。9月の百石祭りで演じられる。,https://www.town.oirase.aomori.jp/soshiki/2220/higakubotoramai.html,html,2026-07-03T12:00:00Z,JMH-024121-0001
+青森県,おいらせ町,本村鶏舞,民俗文化財,無形文化財（芸能）,町指定,,,町の無形文化財。天保年間に五戸町切谷内地方から伝承されたとされる念仏踊りの一種。,https://www.town.oirase.aomori.jp/soshiki/2220/keimai.html,html,2026-07-03T12:00:00Z,JMH-024121-0003
+青森県,おいらせ町,本村獅子舞,民俗文化財,無形文化財（芸能）,町指定,,,町の無形文化財。江戸時代初期の山伏神楽の流れをくむ。本村神明宮境内で大晦日に舞われる。,https://www.town.oirase.aomori.jp/soshiki/2220/keimai.html,html,2026-07-03T12:00:00Z,JMH-024121-0002
+青森県,つがる市,千代の松,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1985-04-04,木造千代町101‐3,弘前藩4代藩主・津軽信政お手植えの松,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0006
+青森県,つがる市,公孫樹,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1985-04-04,木造千代町99‐1 (銀杏ヶ丘公園),弘前藩4代藩主・津軽信政お手植えの銀杏,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0005
+青森県,つがる市,書蹟掛軸,有形文化財,書跡,市指定,1985-04-04,木造千代町82,蓮如上人真筆の書 (六字名号),https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0007
+青森県,つがる市,扁額,有形文化財,書跡,市指定,1987-03-05,木造日向62‐1,松平定信直筆の書 (旧木作代官所御仮屋),https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0008
+青森県,つがる市,旧制木造中学校講堂,有形文化財,建造物,市指定,1992-05-08,木造若緑52,青森県立木造中学校(現・木造高校)の講堂 昭和4(1929)年築,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0009
+青森県,つがる市,「藤の木」三本,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1978-12-18,森田町上相野若鷺70,樹齢400年以上といわれる藤の古木,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0001
+青森県,つがる市,増田家住宅母屋,有形文化財,建造物,市指定,1996-06-17,森田町床舞稚桜4 (道の駅「もりた」内),木造茅葺一部2階建、床面積430平方メートル 明治中期～後期の建築,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0013
+青森県,つがる市,久米川遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1979-04-01,稲垣町沼崎幾米川,平安時代後期の集落遺跡および出土品,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0002
+青森県,つがる市,松枝遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1979-08-01,稲垣町吉出吉田・稲富,平安時代後期の集落遺跡および出土品,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0003
+青森県,つがる市,ヤチダモ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1981-09-30,稲垣町豊川千代島107‐18,樹齢1000年といわれるヤチダモの古木,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0004
+青森県,つがる市,欅,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1993-03-10,稲垣町下繁田磯繁11‐9,樹齢300年以上といわれる欅の古木,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0010
+青森県,つがる市,旧尾野家住宅,有形文化財,建造物,市指定,1994-04-28,稲垣町豊川宮川145‐1 (稲穂いこいの里),木造茅葺一部2階建 明治25(1892)年の建築,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0011
+青森県,つがる市,銀杏,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1994-12-16,稲垣町豊川初瀬33,樹齢300年以上といわれる銀杏の古木,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0012
+青森県,つがる市,黒印状,有形文化財,古文書,市指定,2003-02-19,牛潟町,牛潟村の開村に関する元和6(1620)年付の藩令(鳴海小四郎宛),https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0014
+青森県,むつ市,山本家文書,有形文化財,歴史資料,市指定,1972-02-16,むつ市文化財収蔵庫 ◀ ◀,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Yamamoto.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0005
+青森県,むつ市,和鏡(梅花双雀鏡),有形文化財,歴史資料,市指定,1984-07-01,むつ市,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/japanese-mirror-plum-blossom.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0013
+青森県,むつ市,和鏡(菊枝散雙鳥鏡),有形文化財,歴史資料,市指定,1984-07-01,むつ市大字田名部字最花,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Saibana-japanese-mirror.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0014
+青森県,むつ市,俳諧額,有形文化財,歴史資料,市指定,1990-03-20,むつ市川内町川内324番地,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Kawauchi-haiku-flame.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0016
+青森県,むつ市,青面金剛塔,有形文化財,歴史資料,市指定,1990-03-20,むつ市川内町川内324番地,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/koshin-pagoda.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0019
+青森県,むつ市,呑香稲荷神社奉納物 俳諧額,有形文化財,歴史資料,市指定,2008-01-09,むつ市旭町275番地,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Donko-haiku-flame.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0027
+青森県,むつ市,原始謾筆風土年表,有形文化財,歴史資料,市指定,2012-03-08,むつ市,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/chronicle.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0028
+青森県,むつ市,海祥山慈眼寺 喚鐘,有形文化財,工芸品,市指定,1972-02-16,むつ市田名部町4番8号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/bell.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0006
+青森県,むつ市,鈴木誠作記念館(旧大湊ホテル),有形文化財,建造物,市指定,1997-10-01,むつ市中央二丁目13番地 る。,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Ominato-hotel.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0022
+青森県,むつ市,旧大湊要港部乙第10号･11号官舎(石造),有形文化財,建造物,市指定,1997-10-01,むつ市桜木町5番64号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/No_10-11-official-residence.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0021
+青森県,むつ市,一ノ谷屋島合戦図屏風,有形文化財,絵画,市指定,1972-02-16,むつ市田名部4番8号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/war-folding-screen.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0001
+青森県,むつ市,川内風景図屏風土岐蓑虫(蓑虫山人筆),有形文化財,絵画,市指定,1990-03-20,むつ市川内町川内90番地,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Kawauchi-folding-screen.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0017
+青森県,むつ市,第一田名部小学校校庭遺跡出土土器,有形文化財,考古資料,市指定,1972-02-16,むつ市文化財収蔵庫,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Tanabu-No_1-pottery.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0011
+青森県,むつ市,女館貝塚出土土器,有形文化財,考古資料,市指定,1972-02-16,むつ市文化財収蔵庫,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Onnadate-pottery.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0003
+青森県,むつ市,女館貝塚石器,有形文化財,考古資料,市指定,1972-02-16,むつ市金谷一丁目1番10号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Onnadate-stone-tool.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0004
+青森県,むつ市,弥生式土器 壷,有形文化財,考古資料,市指定,1980-02-20,むつ市,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Omagari-yayoi-pot.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0012
+青森県,むつ市,香炉峯見送り幕「紅毛唐人憩図」,有形文化財,有形文化財（その他）,市指定,1986-11-01,むつ市新町15番3号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/float-curtain.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0015
+青森県,むつ市,田名部海辺三十三番順禮札所標示板,民俗文化財,有形民俗文化財,市指定,1972-02-16,むつ市新町4番11号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/sign-board.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0010
+青森県,むつ市,田名部海辺三十三番順禮札所,民俗文化財,有形民俗文化財,市指定,1972-02-16,むつ市,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/bodhisattva.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0009
+青森県,むつ市,兵主神社奉納物 絵馬,民俗文化財,有形民俗文化財,市指定,1972-02-16,むつ市大湊上町21番34号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Hyosu-ema.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0002
+青森県,むつ市,生活用具,民俗文化財,有形民俗文化財,市指定,1972-02-16,むつ市金谷一丁目1番10号 江戸時代末期から昭和初期にかけて使用されて,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Okunai-life-tool.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0008
+青森県,むつ市,海祥山慈眼寺 棟札,民俗文化財,有形民俗文化財,市指定,1972-02-16,むつ市田名部町4番8号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/building-tag.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0007
+青森県,むつ市,宿野部水車小屋,民俗文化財,有形民俗文化財,市指定,1992-02-26,むつ市川内町宿野部上野平192番地,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/water-wheel.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0020
+青森県,むつ市,木造和漁船,民俗文化財,有形民俗文化財,市指定,1997-11-19,むつ市脇野沢九艘泊476番地,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/japanese-fishing-boat.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0023
+青森県,むつ市,近川稲荷神社金刀比羅神社奉納物 絵馬,民俗文化財,有形民俗文化財,市指定,2005-03-15,むつ市大湊浜町1番1号,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/Chikagawakotohira-ema.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0026
+青森県,むつ市,奥内歌舞伎,民俗文化財,無形民俗文化財,市指定,2003-01-16,,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/kabuki.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0025
+青森県,むつ市,一里塚,記念物(史跡・名勝・天然記念物),史跡,市指定,2002-01-11,むつ市大字田名部字赤川,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/milestone.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0024
+青森県,むつ市,銀杏木の大イチョウ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1990-03-20,むつ市川内町銀杏木54番地 1570～1572年に、イチョウのこずえに金色のしめ,,https://www.city.mutsu.lg.jp/bunka/bunka/bunkazai/files/ginkgo.pdf,pdf,2026-07-03T23:42:51+09:00,JMH-022080-0018
+青森県,三戸町,弘法大師坐像,その他,,町指定,,三戸町同心町字諏訪内,悟真寺ページ内で江戸時代（町指定文化財）と記載。指定年月日・種別は未掲載。,https://www.town.sannohe.aomori.jp/soshiki/kyouikuiinkaijimukyoku/rekishi_bunka/1/1767.html,html,2026-07-04T10:28:59+09:00,JMH-024511-0001
+青森県,三沢市,野口コレクション,有形文化財,有形文化財(美術工芸品),市指定,1993-02-06,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0014
+青森県,三沢市,土偶,有形文化財,有形文化財(美術工芸品),市指定,1993-02-06,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0008
+青森県,三沢市,根井沼式土器,有形文化財,有形文化財(美術工芸品),市指定,1993-02-06,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0012
+青森県,三沢市,小田内沼(4)遺跡出土 第Ⅰ群３類土器,有形文化財,有形文化財(美術工芸品),市指定,1993-02-06,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0009
+青森県,三沢市,鞅掌録 首巻,有形文化財,有形文化財(美術工芸品),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0022
+青森県,三沢市,囚中八首,有形文化財,有形文化財(美術工芸品),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0017
+青森県,三沢市,刀剣,有形文化財,有形文化財(美術工芸品),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0015
+青森県,三沢市,斗南繪図,有形文化財,有形文化財(美術工芸品),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0019
+青森県,三沢市,廣澤安任肖像写真ガラス原版,有形文化財,有形文化財(美術工芸品),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0018
+青森県,三沢市,勝海舟書「六十九種艸堂」扁額,有形文化財,有形文化財(美術工芸品),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0016
+青森県,三沢市,松方正義書「牧艸々堂」扁額,有形文化財,有形文化財(美術工芸品),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0020
+青森県,三沢市,開祖堂,有形文化財,有形文化財(建造物),市指定,2016-03-24,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0021
+青森県,三沢市,上北地方の紡織用具及び麻布,民俗文化財,有形民俗文化財,市指定,1987-11-10,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0006
+青森県,三沢市,上北地方の食生活用具,民俗文化財,有形民俗文化財,市指定,1988-07-12,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0007
+青森県,三沢市,根井神楽,民俗文化財,無形民俗文化財,市指定,1973-04-25,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0002
+青森県,三沢市,塩釜神楽,民俗文化財,無形民俗文化財,市指定,1973-04-25,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0001
+青森県,三沢市,浜三沢神楽,民俗文化財,無形民俗文化財,市指定,1973-04-25,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0003
+青森県,三沢市,織笠神楽,民俗文化財,無形民俗文化財,市指定,1981-03-25,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0005
+青森県,三沢市,浜三沢豊年踊,民俗文化財,無形民俗文化財,市指定,1993-02-06,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0013
+青森県,三沢市,山中神楽,民俗文化財,無形民俗文化財,市指定,1993-02-06,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0010
+青森県,三沢市,岡三沢鹿子踊,民俗文化財,無形民俗文化財,市指定,1993-02-06,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0011
+青森県,三沢市,寺屋敷のツキ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1977-05-27,,,"https://www.city.misawa.lg.jp/index.cfm/21,19396,c,html/19396/20221024_siryou3.pdf",pdf,2026-07-03T23:44:14+09:00,JMH-022071-0004
+青森県,五戸町,五戸代官所の門,有形文化財,建造物,町指定,1974-09-20,歴史みらいパーク内五戸町図書館近く,文久年間（1861～1863）の建築と推定。明治初年に三浦重吉が払い下げを受け運搬・修理し建てたと伝わる。町所有。,https://www.town.gonohe.aomori.jp/info/bunkazai.html,html,2026-07-03T12:00:00Z,JMH-024520-0001
+青森県,五戸町,石冠,有形文化財,考古資料,町指定,2023-04-13,上蛇沢(2)遺跡（五戸町大字切谷内字上蛇沢）出土／ごのへ郷土館展示,"縄文時代中期（約5,000年前）の代表的遺物である石冠の要素を持ち、特異な石材を用いた完形品。町所有。",https://www.town.gonohe.aomori.jp/info/bunkazai.html,html,2026-07-03T12:00:00Z,JMH-024520-0002
+青森県,五所川原市,楠美家住宅,有形文化財,建造物,市指定,2000-11-02,五所川原市持子沢隠川695番地4,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0005
+青森県,五所川原市,妙竜寺七面大明神宮殿,有形文化財,建造物,市指定,2001-12-20,五所川原市飯詰字福泉29番地,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0012
+青森県,五所川原市,毛内翁土功之碑,有形文化財,有形,市指定,2000-11-02,五所川原市錦町1番地5 （久須志神社）,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0006
+青森県,五所川原市,岩偶,有形文化財,有形,市指定,2018-10-25,五所川原市字布屋町41番地1,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0019
+青森県,五所川原市,伊勢海利助追慕碑,有形文化財,有形,市指定,2000-11-02,五所川原市錦町1番地5 （久須志神社）,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0004
+青森県,五所川原市,千立山願昌寺念仏供養塔,有形文化財,有形,市指定,2023-03-20,五所川原市川端町10 （千立山願昌寺）,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0022
+青森県,五所川原市,御郡中惣絵図,有形文化財,有形,市指定,2023-03-20,ー,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0023
+青森県,五所川原市,虫おくり,民俗文化財,民俗,市指定,1992-06-08,五所川原市,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0003
+青森県,五所川原市,漆川獅子舞,民俗文化財,民俗,市指定,2000-11-02,五所川原市漆川,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0007
+青森県,五所川原市,五所川原甚句,民俗文化財,民俗,市指定,2001-12-20,五所川原市（立佞武多広場）,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0011
+青森県,五所川原市,五所川原立佞武多,民俗文化財,民俗,市指定,2010-12-22,立佞武多の館 五所川原市大町21番地1,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0015
+青森県,五所川原市,飯詰獅子舞,民俗文化財,民俗,市指定,2017-07-20,五所川原市大字飯詰字福泉166番地1,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0017
+青森県,五所川原市,飯詰稲荷神社裸参り,民俗文化財,民俗,市指定,2018-10-25,五所川原市飯詰福泉405,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0020
+青森県,五所川原市,ホロムイイチゴ,記念物(史跡・名勝・天然記念物),天然 記念物,市指定,1975-08-27,五所川原市長富(二ノ沢溜池内）,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0001
+青森県,五所川原市,川倉賽の河原地蔵尊,記念物(史跡・名勝・天然記念物),史跡,市指定,1982-08-10,五所川原市川倉七夕野426番地1,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0002
+青森県,五所川原市,三縞こぎん,有形文化財,有形,市指定,2022-01-26,五所川原市金木町菅原・嘉瀬,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0021
+青森県,五所川原市,十三・湊迎寺の五輪塔,有形文化財,有形,市指定,2001-03-02,市浦歴史民俗資料館 五所川原市十三土佐1番地298,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0008
+青森県,五所川原市,相内・蓮華庵の板碑,有形文化財,有形,市指定,2001-03-02,五所川原市相内（蓮華庵境内）,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0009
+青森県,五所川原市,人面形浅鉢,有形文化財,有形,市指定,2018-10-25,五所川原市字布屋町41番地1,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0018
+青森県,五所川原市,五月女萢遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,2017-07-20,五所川原市相内545番地,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0016
+青森県,五所川原市,相内の坊様踊り,民俗文化財,民俗,市指定,2002-02-28,五所川原市相内,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0014
+青森県,五所川原市,十三の砂山踊り,民俗文化財,民俗,市指定,2002-02-28,五所川原市十三,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0013
+青森県,五所川原市,磯松の一本松,記念物(史跡・名勝・天然記念物),天然 記念物,市指定,2001-03-02,五所川原市磯松磯野54番地,,https://www.city.goshogawara.lg.jp/kyouiku/bunka/ichiran.html,html,2026-07-03T23:43:13+09:00,JMH-022055-0010
+青森県,今別町,今別荒馬,民俗文化財,無形民俗文化財,町指定,1980-02-01,〒030-1502 今別町大字今別字今別,,https://www.town.imabetsu.lg.jp/education/bunka/arauma.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0001
+青森県,今別町,大川平荒馬,民俗文化財,無形民俗文化財,町指定,1980-02-01,〒030-1505 今別町大字大川平,,https://www.town.imabetsu.lg.jp/education/bunka/arauma.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0002
+青森県,今別町,二股荒馬,民俗文化財,無形民俗文化財,町指定,1986-07-26,〒030-1505 今別町大字大川平字二股,,https://www.town.imabetsu.lg.jp/education/bunka/arauma.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0007
+青森県,今別町,大銀杏の木,記念物(史跡・名勝・天然記念物),有形文化財－天然記念物,町指定,1980-02-01,〒030-1505 今別町大字大川平字村元,,https://www.town.imabetsu.lg.jp/education/bunka/ginnan.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0003
+青森県,今別町,大開城跡,記念物(史跡・名勝・天然記念物),有形文化財－史跡,町指定,1981-05-11,〒030-1505 今別町大川平字西大川平山国有林,,https://www.town.imabetsu.lg.jp/education/bunka/oobiraki.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0004
+青森県,今別町,今別八幡宮狛犬2対,有形文化財,有形文化財－彫刻,町指定,1986-05-01,〒030-1502 今別町大字今別字今別,,https://www.town.imabetsu.lg.jp/education/bunka/hachiman.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0005
+青森県,今別町,貞伝上人作石佛,有形文化財,有形文化財－彫刻,町指定,1986-05-01,〒030-1502 今別町大字今別字今別119,,https://www.town.imabetsu.lg.jp/education/bunka/ishi.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0006
+青森県,今別町,善導大師・圓光大師の座像,有形文化財,有形文化財－彫刻,町指定,1990-03-30,〒030-1501 今別町大字浜名字浜名,,https://www.town.imabetsu.lg.jp/education/bunka/zazou.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0009
+青森県,今別町,鉦鼓,有形文化財,有形文化財－工芸品,町指定,1990-03-30,〒030-1501 今別町大字浜名字浜名,,https://www.town.imabetsu.lg.jp/education/bunka/shoko.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0013
+青森県,今別町,石仏薬師如来像,有形文化財,有形文化財－彫刻,町指定,1990-03-30,〒030-1502 今別町大字今別字西田,,https://www.town.imabetsu.lg.jp/education/bunka/nyorai.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0011
+青森県,今別町,愍栄上人作観音像,有形文化財,有形文化財－彫刻,町指定,1990-03-30,〒030-1505 今別町大字大川平字二股,,https://www.town.imabetsu.lg.jp/education/bunka/kannon.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0010
+青森県,今別町,阿弥陀如来像貞伝金仏（貞伝万体仏）,有形文化財,有形文化財－彫刻,町指定,2018-04-27,,,https://www.town.imabetsu.lg.jp/education/bunka/2018-0601-0930-1.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0015
+青森県,今別町,船絵馬,民俗文化財,有形文化財－民俗文化財,町指定,1990-03-30,〒030-1513 今別町大字袰月字袰村元,,https://www.town.imabetsu.lg.jp/education/bunka/ema.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0012
+青森県,今別町,ホウノキ,記念物(史跡・名勝・天然記念物),有形文化財－天然記念物,町指定,1990-03-20,〒030-1501 今別町大字浜名字浜名,,https://www.town.imabetsu.lg.jp/education/bunka/hounoki.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0008
+青森県,今別町,ハリギリ,記念物(史跡・名勝・天然記念物),有形文化財－天然記念物,町指定,2017-05-30,〒030-1504 今別町大字鍋田字関口1,,https://www.town.imabetsu.lg.jp/education/bunka/harigiri.html,html,2026-07-04T10:28:59+09:00,JMH-023027-0014
+青森県,佐井村,廻船卸客帳 一帖,有形文化財,有形文化財（歴史資料）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0003
+青森県,佐井村,鉄扇 一柄,有形文化財,有形文化財（歴史資料）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0009
+青森県,佐井村,菅江真澄直筆 三葉,有形文化財,有形文化財（書籍）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0005
+青森県,佐井村,菅江真澄直筆 一葉,有形文化財,有形文化財（書籍）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0004
+青森県,佐井村,蓑虫山人の書 一幅,有形文化財,有形文化財（書籍）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0006
+青森県,佐井村,勝海舟の書 ニ幅,有形文化財,有形文化財（書籍）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0002
+青森県,佐井村,蓑虫山人の絵 三帖,有形文化財,有形文化財（絵画）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0007
+青森県,佐井村,蓑虫山人の絵 六帖,有形文化財,有形文化財（絵画）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0008
+青森県,佐井村,オシラサマ 二躯,有形文化財,有形文化財（信仰）,村指定,,,,https://www.vill.sai.lg.jp/about-saimura/history-culture/,html,2026-07-04T10:28:59+09:00,JMH-024341-0001
+青森県,八戸市,旧八戸城東門,有形文化財,建造物,市指定,1993-06-03,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0050
+青森県,八戸市,八戸二十景屏風,有形文化財,絵画,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0001
+青森県,八戸市,名花十二客図屏風,有形文化財,絵画,市指定,1998-06-23,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0053
+青森県,八戸市,阿弥陀如来像（浄生寺）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0031
+青森県,八戸市,地蔵菩薩像（伝昌寺）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0026
+青森県,八戸市,地蔵菩薩像（松館大慈寺）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0029
+青森県,八戸市,毘沙門天像（小田八幡宮）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0030
+青森県,八戸市,五智如来像（上野町内会）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0025
+青森県,八戸市,地蔵菩薩像（十王院）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0027
+青森県,八戸市,魚籃観音菩薩像（常現寺）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0032
+青森県,八戸市,地蔵菩薩像（来迎寺）,有形文化財,彫刻,市指定,1973-04-13,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0028
+青森県,八戸市,大黒天像（個人）,有形文化財,彫刻,市指定,2008-09-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0064
+青森県,八戸市,海有鞍・両咲鐙及び障泥,有形文化財,工芸,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0012
+青森県,八戸市,千両箱,有形文化財,工芸,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0009
+青森県,八戸市,御拝領御鏡,有形文化財,工芸,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0011
+青森県,八戸市,杉戸・桐戸,有形文化財,工芸,市指定,1963-09-26,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0015
+青森県,八戸市,二十五条袈裟,有形文化財,工芸,市指定,1963-09-26,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0014
+青森県,八戸市,青銅擬宝珠,有形文化財,工芸,市指定,1979-09-06,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0039
+青森県,八戸市,本小札勝色威二枚胴具足 附具足櫃,有形文化財,工芸,市指定,1981-04-28,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0042
+青森県,八戸市,旧八戸藩主軍装用具,有形文化財,工芸,市指定,1981-04-28,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0041
+青森県,八戸市,梨子地螺鈿金装太刀,有形文化財,工芸,市指定,1981-04-28,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0043
+青森県,八戸市,日本刀 銘 精壮斎宗有,有形文化財,工芸,市指定,1986-02-21,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0044
+青森県,八戸市,八戸藩領内境塚大絵図,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0008
+青森県,八戸市,八戸城内図（古御殿御絵図面）,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0002
+青森県,八戸市,八戸城内図（新規御普請御殿御絵図面）,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0003
+青森県,八戸市,八戸藩政時代市街図（八戸藩城下町図）,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0007
+青森県,八戸市,陸奥国三戸郡八戸町全図,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0013
+青森県,八戸市,八戸藩初代直房公領地御拝領之節御礼御奉書,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0006
+青森県,八戸市,八戸藩二代直政公御家督之節御礼御奉書,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0004
+青森県,八戸市,八戸藩二代直政公御遺訓（直政書）,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0005
+青森県,八戸市,奥南温古集,有形文化財,書跡・典籍・古文書,市指定,1959-09-15,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0010
+青森県,八戸市,写経紺紙金泥法華経一部,有形文化財,書跡・典籍・古文書,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0017
+青森県,八戸市,福士文書,有形文化財,書跡・典籍・古文書,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0023
+青森県,八戸市,真法弟算記,有形文化財,書跡・典籍・古文書,市指定,2002-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0055
+青森県,八戸市,諸国神社仏閣掛所算術,有形文化財,書跡・典籍・古文書,市指定,2002-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0056
+青森県,八戸市,欄間,有形文化財,歴史資料,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0021
+青森県,八戸市,和算用算木（ 博物館 、 南宗寺 ）,有形文化財,歴史資料,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0018
+青森県,八戸市,算額,有形文化財,歴史資料,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0024
+青森県,八戸市,万年暦,有形文化財,歴史資料,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0016
+青森県,八戸市,乙因追善俳諧献額,有形文化財,歴史資料,市指定,1979-01-19,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0037
+青森県,八戸市,千風庵百々評俳諧献額,有形文化財,歴史資料,市指定,1979-01-19,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0038
+青森県,八戸市,千石船万徳丸図,有形文化財,歴史資料,市指定,1981-04-28,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0040
+青森県,八戸市,鬼瓦,有形文化財,歴史資料,市指定,1993-06-03,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0051
+青森県,八戸市,五梅庵畔李公「国光の発句」献額,有形文化財,歴史資料,市指定,2005-11-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0063
+青森県,八戸市,八戸藩伝神道無念流居合,無形文化財,無形文化財,市指定,1991-10-14,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0045
+青森県,八戸市,泉清水えんぶり,民俗文化財,無形民俗文化財,市指定,1978-04-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0036
+青森県,八戸市,中野神楽,民俗文化財,無形民俗文化財,市指定,1978-04-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0033
+青森県,八戸市,大平大神楽,民俗文化財,無形民俗文化財,市指定,1978-04-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0034
+青森県,八戸市,島守小学校神楽,民俗文化財,無形民俗文化財,市指定,1978-04-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0035
+青森県,八戸市,島守駒踊,民俗文化財,無形民俗文化財,市指定,1999-07-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0054
+青森県,八戸市,島守虎舞,民俗文化財,無形民俗文化財,市指定,2003-12-05,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0062
+青森県,八戸市,白銀四頭権現神楽,民俗文化財,無形民俗文化財,市指定,2016-06-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0065
+青森県,八戸市,八太郎おしまこ,民俗文化財,無形民俗文化財,市指定,2018-08-01,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0066
+青森県,八戸市,清水寺奉納絵馬,民俗文化財,有形民俗文化財,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0022
+青森県,八戸市,太公望と屋台一式（人形、屋台、飾り幕）,民俗文化財,有形民俗文化財,市指定,2003-07-29,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0058
+青森県,八戸市,武田信玄と屋台一式（人形、屋台、飾り幕）,民俗文化財,有形民俗文化財,市指定,2003-07-29,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0059
+青森県,八戸市,享保六年記年銘鉾先,民俗文化財,有形民俗文化財,市指定,2003-07-29,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0057
+青森県,八戸市,神功皇后と武之内宿禰（人形、飾り幕）,民俗文化財,有形民俗文化財,市指定,2003-07-29,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0061
+青森県,八戸市,為朝と嶋人（人形、雛形）,民俗文化財,有形民俗文化財,市指定,2003-07-29,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0060
+青森県,八戸市,敷石供養塔,記念物(史跡・名勝・天然記念物),史跡,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0019
+青森県,八戸市,杉の木,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-01-24,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0020
+青森県,八戸市,イチイの木（市野沢）,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1992-01-31,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0047
+青森県,八戸市,クリの木,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1992-01-31,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0048
+青森県,八戸市,モミの木,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1992-01-31,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0049
+青森県,八戸市,イチイの木（島守）,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1992-01-31,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0046
+青森県,八戸市,アカマツの木,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1994-01-31,,,https://www.city.hachinohe.aomori.jp/soshikikarasagasu/shakaikyoikuka/bunka/2/5984.html,html,2026-07-03T23:38:46+09:00,JMH-022039-0052
+青森県,十和田市,法心和尚像,有形文化財,彫刻,市指定,1965-03-30,十和田市大字洞内字前田,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0002
+青森県,十和田市,道無和尚像,有形文化財,彫刻,市指定,1965-03-30,十和田市大字洞内字前田,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0004
+青森県,十和田市,伽羅聖観世音菩薩像,有形文化財,彫刻,市指定,1965-03-30,十和田市大字洞内字前田,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0001
+青森県,十和田市,法心塚,記念物(史跡・名勝・天然記念物),史跡,市指定,1965-03-30,十和田市大字洞内字沼田野,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0003
+青森県,十和田市,新山神社の記録及び修験道の古記録類,有形文化財,古文書,市指定,1968-04-03,十和田市大字赤沼字下平,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0008
+青森県,十和田市,一里塚,記念物(史跡・名勝・天然記念物),史跡,市指定,1980-01-31,十和田市大字相坂字白上,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0012
+青森県,十和田市,新渡戸記念館収蔵品及び新渡戸家文書,有形文化財,古文書,市指定,1981-04-24,十和田市東三番町,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0014
+青森県,十和田市,板石塔婆,記念物(史跡・名勝・天然記念物),史跡,市指定,1990-08-23,十和田市大字大不動字柏木,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0018
+青森県,十和田市,六十六部日本廻国巡礼納経札,有形文化財,古文書,市指定,1990-08-23,十和田市大字伝法寺字平窪,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0016
+青森県,十和田市,山神の石碑,記念物(史跡・名勝・天然記念物),史跡,市指定,1990-08-23,十和田市大字三本木字倉出,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0017
+青森県,十和田市,金毘羅山の石碑,記念物(史跡・名勝・天然記念物),史跡,市指定,1990-08-23,十和田市大字三本木字倉出,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0019
+青森県,十和田市,寛文三本木村絵図,有形文化財,絵図,市指定,1998-06-19,十和田市元町西一丁目,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0024
+青森県,十和田市,三本木原実測図,有形文化財,歴史資料,市指定,1999-08-23,十和田市東二十一番町,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0025
+青森県,十和田市,日本廻国納経供養塔,記念物(史跡・名勝・天然記念物),史跡,市指定,2014-11-28,十和田市大字深持,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0030
+青森県,十和田市,廻国奉納経帳,有形文化財,古文書,市指定,2014-11-28,十和田市大字奥瀬,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0029
+青森県,十和田市,南部駒踊（南部駒踊米田保存会）,民俗文化財,民俗芸能,市指定,1965-10-08,十和田市大字米田,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0007
+青森県,十和田市,南部駒踊（南部駒踊滝沢保存会）,民俗文化財,民俗芸能,市指定,1965-10-08,十和田市大字滝沢,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0005
+青森県,十和田市,南部駒踊（南部駒踊立崎保存会）,民俗文化財,民俗芸能,市指定,1965-10-08,十和田市大字立崎,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0006
+青森県,十和田市,藤島獅子舞（藤島獅子舞保存会）,民俗文化財,民俗芸能,市指定,1971-12-13,十和田市大字藤島,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0010
+青森県,十和田市,南部駒踊（南部駒踊相坂若駒会）,民俗文化財,民俗芸能,市指定,1971-12-13,十和田市大字相坂,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0009
+青森県,十和田市,南部洞内神楽（洞内南部神楽保存会）,民俗文化財,民俗芸能,市指定,1980-01-31,十和田市大字洞内,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0013
+青森県,十和田市,沢田鶏舞（沢田鶏舞保存会）,民俗文化財,民俗芸能,市指定,1993-07-05,十和田市大字沢田,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0021
+青森県,十和田市,三日市神楽（三日市神楽保存会）,民俗文化財,民俗芸能,市指定,1993-07-05,十和田市大字沢田,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0020
+青森県,十和田市,六日町鶏舞（六日町鶏舞保存会）,民俗文化財,民俗芸能,市指定,1995-03-22,十和田市大字相坂,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0022
+青森県,十和田市,南部駒踊（南部駒踊上舘保存会）,民俗文化財,民俗芸能,市指定,1995-03-22,十和田市大字切田,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0023
+青森県,十和田市,晴山獅子舞（晴山獅子舞保存会）,民俗文化財,民俗芸能,市指定,2004-10-19,十和田市大字深持,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0028
+青森県,十和田市,南部深持神楽（南部深持神楽保存会）,民俗文化財,民俗芸能,市指定,2004-10-19,十和田市大字深持,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0026
+青森県,十和田市,大不動鶏舞（大不動鶏舞保存会）,民俗文化財,民俗芸能,市指定,2004-10-19,十和田市大字大不動,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0027
+青森県,十和田市,板ノ沢のカヤ人形作り,民俗文化財,民俗慣習,市指定,2014-11-28,十和田市大字深持,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0031
+青森県,十和田市,いちょう,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1980-01-31,十和田市大字大不動字八幡,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0011
+青森県,十和田市,赤松,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1981-04-24,十和田市大字大不動字柏木,,https://www.city.towada.lg.jp/bunka/bunka/bunkazai.html,html,2026-07-03T23:40:40+09:00,JMH-022063-0015
+青森県,南部町,恵海上人五輪塔,有形文化財,有形文化財建造物,町指定,1983-03-05,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0025
+青森県,南部町,桜場安房の墓石,有形文化財,有形文化財建造物,町指定,2005-09-28,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0041
+青森県,南部町,岩舘右京の墓石,有形文化財,有形文化財建造物,町指定,2005-09-28,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0040
+青森県,南部町,八木橋藤十郎の墓石,有形文化財,有形文化財建造物,町指定,2005-09-28,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0039
+青森県,南部町,早稲田観音像,有形文化財,有形文化財彫刻,町指定,1978-10-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0019
+青森県,南部町,隅ノ観音像,有形文化財,有形文化財彫刻,町指定,1978-10-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0021
+青森県,南部町,観音菩薩立像（奇峯学秀作）,有形文化財,有形文化財彫刻,町指定,1991-04-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0028
+青森県,南部町,鰐口,有形文化財,有形文化財工芸品,町指定,1984-03-13,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0026
+青森県,南部町,櫛払,有形文化財,有形文化財考古資料,町指定,1997-06-27,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0032
+青森県,南部町,上名久井諏訪神社棟札,有形文化財,有形文化財歴史資料,町指定,2000-10-31,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0035
+青森県,南部町,木造僧形山神半跏像,有形文化財,彫刻,町指定,2009-11-18,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0045
+青森県,南部町,木造薬師如来像,有形文化財,彫刻,町指定,2015-02-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0047
+青森県,南部町,木造牛頭天王像,有形文化財,彫刻,町指定,2015-02-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0046
+青森県,南部町,木造薬師如来立像,有形文化財,彫刻,町指定,2015-02-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0048
+青森県,南部町,牛頭天王棟札,有形文化財,歴史資料,町指定,2015-02-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0049
+青森県,南部町,向鶴銅製品,有形文化財,考古資料,町指定,2016-05-18,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0051
+青森県,南部町,金箔土器,有形文化財,考古資料,町指定,2016-05-18,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0052
+青森県,南部町,相内神明宮お神楽（獅子頭）,有形文化財,彫刻,町指定,2017-03-15,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0053
+青森県,南部町,西有穆山関係資料,有形文化財,歴史資料,町指定,2019-03-20,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0057
+青森県,南部町,剣吉諏訪神社棟札,有形文化財,有形文化財・歴史資料,町指定,2019-11-20,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0061
+青森県,南部町,木造阿弥陀如来立像,有形文化財,有形文化財・彫刻,町指定,2020-03-18,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0065
+青森県,南部町,木造薬師如来立像,有形文化財,有形文化財・彫刻,町指定,2020-03-18,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0064
+青森県,南部町,花厳院文書,有形文化財,有形文化財・歴史資料,町指定,2021-02-17,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0067
+青森県,南部町,木造如来坐像,有形文化財,有形文化財・彫刻,町指定,2021-05-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0070
+青森県,南部町,木造男女神像,有形文化財,有形文化財・彫刻,町指定,2021-05-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0072
+青森県,南部町,木造十一面観音立像,有形文化財,有形文化財・彫刻,町指定,2021-05-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0069
+青森県,南部町,木造毘沙門天立像,有形文化財,有形文化財・彫刻,町指定,2021-05-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0071
+青森県,南部町,木造不動明王立像,有形文化財,有形文化財・彫刻,町指定,2021-05-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0068
+青森県,南部町,剣吉諏訪神社文書,有形文化財,有形文化財・歴史資料,町指定,2022-09-20,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0073
+青森県,南部町,五榜の掲示 第二札,有形文化財,有形文化財・歴史資料,町指定,2023-03-15,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0074
+青森県,南部町,木造観音菩薩立像 5躯,有形文化財,有形文化財・彫刻,町指定,2023-11-15,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0075
+青森県,南部町,つけたり むなふだにじゅうよんまい,有形文化財,有形文化財・建造物,町指定,2025-11-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0078
+青森県,南部町,本三戸八幡宮懸仏,有形文化財,有形文化財・工芸品,町指定,2025-11-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0079
+青森県,南部町,つけたり かんれんしょぶつとういっしき,有形文化財,有形文化財・工芸品,町指定,2025-11-19,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0077
+青森県,南部町,隅ノ観音堂関係資料,有形文化財,有形文化財・歴史資料,町指定,2026-04-15,,,https://www.town.aomori-nanbu.lg.jp/page/1653.html,html,2026-07-03T12:00:00Z,JMH-024554-0080
+青森県,南部町,剣吉諏訪神社神楽,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0012
+青森県,南部町,剣吉諏訪神社鹿踊,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0013
+青森県,南部町,上斗賀南部虎舞,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0007
+青森県,南部町,虎渡杵舞,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0015
+青森県,南部町,剣吉諏訪神社商宮律,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0011
+青森県,南部町,下斗賀熊野神社権現舞,民俗文化財,無形民俗文化財,町指定,1984-10-31,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0027
+青森県,南部町,上名久井諏訪神社神楽,民俗文化財,無形民俗文化財,町指定,2004-04-01,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0036
+青森県,南部町,剣吉下町内朳組,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0010
+青森県,南部町,森越朳組,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0014
+青森県,南部町,下斗賀朳組,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0009
+青森県,南部町,上斗賀朳組,民俗文化財,無形民俗文化財,町指定,1976-02-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0008
+青森県,南部町,南部手踊（七踊り）,民俗文化財,無形民俗文化財,町指定,1994-12-22,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0030
+青森県,南部町,南部七大民謡（南部七唄）,民俗文化財,無形民俗文化財,町指定,1998-11-18,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0034
+青森県,南部町,高瀬町内朳組,民俗文化財,無形民俗文化財,町指定,2004-04-01,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0038
+青森県,南部町,片岸えんぶり組,民俗文化財,無形民俗文化財,町指定,2018-02-21,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0055
+青森県,南部町,玉掛えんぶり組,民俗文化財,無形民俗文化財,町指定,2018-02-21,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0056
+青森県,南部町,大向えんぶり組,民俗文化財,無形民俗文化財,町指定,2018-02-21,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0054
+青森県,南部町,下斗賀稲荷神社宮太鼓,民俗文化財,有形民俗文化財,町指定,1994-12-22,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0029
+青森県,南部町,茶臼,民俗文化財,有形民俗文化財,町指定,1997-06-27,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0033
+青森県,南部町,高瀬町内会朳太鼓,民俗文化財,有形民俗文化財,町指定,2004-04-01,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0037
+青森県,南部町,剣吉諏訪神社御輿,民俗文化財,有形民俗文化財,町指定,2019-11-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0060
+青森県,南部町,剣吉諏訪神社商宮律鉦,民俗文化財,有形民俗文化財,町指定,2019-11-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0059
+青森県,南部町,剣吉諏訪神社神楽太鼓,民俗文化財,有形民俗文化財,町指定,2019-11-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0062
+青森県,南部町,剣吉諏訪神社鏡,民俗文化財,有形民俗文化財,町指定,2019-11-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0063
+青森県,南部町,剣吉諏訪神社のぼり旗,民俗文化財,有形民俗文化財,町指定,2019-11-20,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0058
+青森県,南部町,相内熊野神社の祭礼行事,民俗文化財,無形民俗文化財,町指定,2020-10-21,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0066
+青森県,南部町,名川秋まつり（剣吉諏訪神社の祭礼行事と山車踊り）,民俗文化財,無形民俗文化財,町指定,2025-01-15,,,https://www.town.aomori-nanbu.lg.jp/page/1654.html,html,2026-07-03T12:00:00Z,JMH-024554-0076
+青森県,南部町,馬場館跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1974-07-22,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0006
+青森県,南部町,平良ヶ崎城跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1974-07-22,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0002
+青森県,南部町,相内館跡（一夜堀跡）,記念物(史跡・名勝・天然記念物),史跡,町指定,1974-07-22,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0004
+青森県,南部町,塚ノ越古塚（2基）,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-10-17,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0017
+青森県,南部町,大向館跡（鎧神館・衣甲館・中山構館）,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-10-17,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0018
+青森県,南部町,赤石館跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-10-17,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0020
+青森県,南部町,腰掛石（2基）,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-03-26,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0024
+青森県,南部町,一里塚,記念物(史跡・名勝・天然記念物),史跡,町指定,1996-05-29,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0031
+青森県,南部町,八木田の十三塚,記念物(史跡・名勝・天然記念物),史跡,町指定,2016-05-18,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0050
+青森県,南部町,三光寺いちょう,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1974-07-22,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0001
+青森県,南部町,正寿寺おんこ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1974-07-22,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0003
+青森県,南部町,赤石けやき,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1974-07-22,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0005
+青森県,南部町,しだれ栗,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1976-03-26,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0016
+青森県,南部町,夫婦杉（二股杉）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1979-07-10,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0022
+青森県,南部町,八幡大杉,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1980-03-26,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0023
+青森県,南部町,モミの木（トピコの木）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2009-11-18,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0042
+青森県,南部町,伊勢沢の笠松,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2009-11-18,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0043
+青森県,南部町,山神の松,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2009-11-18,,,https://www.town.aomori-nanbu.lg.jp/page/1655.html,html,2026-07-03T12:00:00Z,JMH-024554-0044
+青森県,外ヶ浜町,武者絵懸額,有形文化財,有形文化財,町指定,1995-12-18,外ヶ浜町蟹田大平山元,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0006
+青森県,外ヶ浜町,付合い句懸額,有形文化財,有形文化財,町指定,1995-12-18,外ヶ浜町蟹田田ノ沢,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0004
+青森県,外ヶ浜町,漁労懸額,有形文化財,有形文化財,町指定,1995-12-18,外ヶ浜町蟹田塩越,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0007
+青森県,外ヶ浜町,赤平清兵衛塔,有形文化財,有形文化財,町指定,1995-12-18,外ヶ浜町蟹田塩越,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0010
+青森県,外ヶ浜町,蟹田奉行所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1995-12-18,外ヶ浜町蟹田上蟹田,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0009
+青森県,外ヶ浜町,外ケ浜道跡（あかふら峠）,記念物(史跡・名勝・天然記念物),史跡,町指定,1995-12-18,外ヶ浜町蟹田塩越,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0005
+青森県,外ヶ浜町,鍛冶屋の一本松,記念物(史跡・名勝・天然記念物),名勝,町指定,1995-12-18,外ヶ浜町蟹田鰐ヶ淵,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0011
+青森県,外ヶ浜町,皀莢,記念物(史跡・名勝・天然記念物),名勝,町指定,1995-12-18,外ヶ浜町蟹田小国山崎,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0008
+青森県,外ヶ浜町,専念寺山門と仁王尊像,有形文化財,有形文化財,町指定,2002-05-10,外ヶ浜町蟹田下蟹田,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0015
+青森県,外ヶ浜町,外ケ浜道跡（観瀾山下）,記念物(史跡・名勝・天然記念物),史跡,町指定,2002-05-10,外ヶ浜町蟹田中師宮本,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0014
+青森県,外ヶ浜町,東風留舘跡,記念物(史跡・名勝・天然記念物),史跡,町指定,2002-05-10,外ヶ浜町蟹田塩越,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0016
+青森県,外ヶ浜町,観音菩薩坐像,有形文化財,有形文化財,町指定,1989-03-31,外ヶ浜町平舘門の沢,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0003
+青森県,外ヶ浜町,推定樹齢600年の黒松「長寿の松」,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2001-08-02,外ヶ浜町平舘田の沢,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0013
+青森県,外ヶ浜町,夫婦松,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2001-08-02,外ヶ浜町平舘田の沢,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0012
+青森県,外ヶ浜町,藤嶋の藤,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1985-02-01,外ヶ浜町宇鉄藤嶋,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0002
+青森県,外ヶ浜町,荒馬,民俗文化財,無形民俗文化財,町指定,1985-02-01,外ヶ浜町三厩増川,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0001
+青森県,外ヶ浜町,太刀振,民俗文化財,無形民俗文化財,町指定,2008-03-19,外ヶ浜町三厩下平5-1（外ヶ浜町立三厩中学校）,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0017
+青森県,外ヶ浜町,平舘陣屋跡（お仮屋）,記念物(史跡・名勝・天然記念物),史跡,町指定,2018-03-31,外ヶ浜町平舘門の沢,,https://www.town.sotogahama.lg.jp/bunka/bunka/files/bunkazaiichiran_20250926.pdf,pdf,2026-07-04T10:28:59+09:00,JMH-023051-0018
+青森県,平内町,ケヤキ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,平内町小湊字小湊77（浄尊寺内）,推定樹齢520年、高さ20m、直径2.4m。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0003
+青森県,平内町,観音のオンコ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,平内町小湊字観音地内,推定樹齢300年のイチイ、高さ11m、直径1.1m。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0008
+青森県,平内町,ご家中のマツ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,平内町小湊字小湊地内（旧法務局前）,推定樹齢400年のクロマツ、高さ19m、直径1.1m。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0001
+青森県,平内町,タタラの五本松,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,平内町白砂字白砂地内,推定樹齢110年のクロマツ5本。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0004
+青森県,平内町,オンコ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,平内町大字東滝字滝48,推定樹齢250年のイチイ、高さ10.4m、直径0.78m。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0002
+青森県,平内町,松野木剣舞踊り,民俗文化財,無形民俗文化財,町指定,,,約130年前に平内郷に伝わる。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0006
+青森県,平内町,藤沢獅子舞,民俗文化財,無形民俗文化財,町指定,,,約700年前の踊り念仏に由来。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0007
+青森県,平内町,内童子獅子舞・太刀振り,民俗文化財,無形民俗文化財,町指定,,,天明の頃に藩から指導を受けたもの。指定年月日は平成8年3月（日不明）,https://www.town.hiranai.aomori.jp/soshiki/shogai/1/7/machi-bunkazai/2093.html,html,2026-07-03T12:00:00Z,JMH-023019-0005
+青森県,平川市,薬師如来,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,大坊,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0055
+青森県,平川市,棟札,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,広船,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0036
+青森県,平川市,鰐口,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,広船,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0068
+青森県,平川市,五大力菩薩,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,広船,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0007
+青森県,平川市,薬師如来立像,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,広船,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0056
+青森県,平川市,優婆尊座像,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,大坊,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0009
+青森県,平川市,観音絵馬,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,沖館,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0058
+青森県,平川市,絵 馬,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,沖館,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0051
+青森県,平川市,鏡,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0065
+青森県,平川市,新屋家伝来の武具,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,新屋,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0029
+青森県,平川市,羽織,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,小杉,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0052
+青森県,平川市,観音立像,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,尾崎,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0057
+青森県,平川市,卯辰両歳餓死者供養塔〔ヘビ塚〕,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,岩館,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0015
+青森県,平川市,石敢当,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,広船,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0048
+青森県,平川市,追分石,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,唐竹,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0061
+青森県,平川市,棟札,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,本町,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0037
+青森県,平川市,青い目の人形「ドロシー・ベル・アルバニー」,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,沖館,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0067
+青森県,平川市,木村日記（乾・坤）,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,小杉,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0031
+青森県,平川市,梵鐘,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,広船,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0034
+青森県,平川市,一光三尊来迎阿弥陀如来,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,猿賀,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0002
+青森県,平川市,金剛力士,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,猿賀,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0063
+青森県,平川市,比叡山回峯行発願文,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,高木,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0038
+青森県,平川市,阿弥陀如来絵像,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,高木,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0066
+青森県,平川市,十一面観音菩薩像,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,南田中,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0013
+青森県,平川市,真言宗山伏笈および不動明王,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,八幡崎,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0047
+青森県,平川市,卯辰両年供養塔,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,長田,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0014
+青森県,平川市,貞傳上人の万体仏,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,日沼,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0059
+青森県,平川市,貞傳上人の千体仏,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,高木,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0060
+青森県,平川市,御領分中御山絵図,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,猿賀,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0027
+青森県,平川市,津軽藩造林元帳および留帳,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,猿賀,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0040
+青森県,平川市,猿賀神社棟札,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,猿賀,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0041
+青森県,平川市,左向不動尊外,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,碇ヶ関古懸,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0023
+青森県,平川市,八代藩主信明公の文書,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,碇ヶ関,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0010
+青森県,平川市,巡遣使下向の御触書,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,碇ヶ関,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0022
+青森県,平川市,通行手形,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0062
+青森県,平川市,舊護摩堂八大龍天井画,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,碇ヶ関古懸,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0053
+青森県,平川市,古文書,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0017
+青森県,平川市,不浪寄八幡御神像,有形文化財,有形文化財（歴史資料）,市指定,2006-01-01,碇ヶ関古懸,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0004
+青森県,平川市,刀,有形文化財,有形文化財（美術工芸品）,市指定,2006-01-01,新屋,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0012
+青森県,平川市,井沢遺跡出土品,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0008
+青森県,平川市,石棺,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0049
+青森県,平川市,甕棺,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0043
+青森県,平川市,土偶,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0020
+青森県,平川市,蕨手刀,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0054
+青森県,平川市,弥生前期合甕棺第１号,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0025
+青森県,平川市,弥生前期合甕棺第２号,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0026
+青森県,平川市,弥生中期単甕棺,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0024
+青森県,平川市,四戸橋遺跡出土品岩偶,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0019
+青森県,平川市,四戸橋遺跡出土品土偶,有形文化財,有形文化財（考古資料）,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0018
+青森県,平川市,古山伏獅子頭,民俗文化財,有形民俗文化財,市指定,2006-01-01,尾上,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0016
+青森県,平川市,鉦ノ緒,民俗文化財,有形民俗文化財,市指定,2006-01-01,八幡崎,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0064
+青森県,平川市,梵鐘,民俗文化財,有形民俗文化財,市指定,2006-01-01,尾上,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0035
+青森県,平川市,鶴亀石,民俗文化財,有形民俗文化財,市指定,2006-01-01,八幡崎,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0069
+青森県,平川市,惣染堂塔,民俗文化財,有形民俗文化財,市指定,2006-01-01,長田,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0028
+青森県,平川市,八股鹿子踊諷本,民俗文化財,有形民俗文化財,市指定,2006-01-01,光城,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0011
+青森県,平川市,百万遍の鉦,民俗文化財,有形民俗文化財,市指定,2006-01-01,原田,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0046
+青森県,平川市,獅子頭,民俗文化財,有形民俗文化財,市指定,2006-01-01,大坊,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0042
+青森県,平川市,大光寺獅子踊,民俗文化財,無形民俗文化財,市指定,2006-01-01,大光寺,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0021
+青森県,平川市,石郷獅子舞,民俗文化財,無形民俗文化財,市指定,2006-01-01,石郷,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0050
+青森県,平川市,新屋獅子踊,民俗文化財,無形民俗文化財,市指定,2006-01-01,新屋,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0030
+青森県,平川市,柏木町荒馬踊,民俗文化財,無形民俗文化財,市指定,2006-01-01,柏木町,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0033
+青森県,平川市,松明流し,民俗文化財,無形民俗文化財,市指定,2006-01-01,岩館,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0032
+青森県,平川市,沖館獅子踊,民俗文化財,無形民俗文化財,市指定,2006-01-01,沖館,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0039
+青森県,平川市,町居獅子踊,民俗文化財,無形民俗文化財,市指定,2006-01-01,町居,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0044
+青森県,平川市,ボーノ神送り,民俗文化財,無形民俗文化財,市指定,2006-01-01,平田森,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0001
+青森県,平川市,疫ノ神送り,民俗文化財,無形民俗文化財,市指定,2006-01-01,八幡崎,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0045
+青森県,平川市,久吉駒踊,民俗文化財,無形民俗文化財,市指定,2006-01-01,碇ヶ関久吉,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0006
+青森県,平川市,三重塔址,記念物(史跡・名勝・天然記念物),記念物（史跡）,市指定,2006-01-01,本町,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0003
+青森県,平川市,丑盛,記念物(史跡・名勝・天然記念物),記念物（史跡）,市指定,2006-01-01,猿賀,,https://www.city.hirakawa.lg.jp/bunka/shiseki/shiteibunkazai.html,html,2026-07-03T23:45:36+09:00,JMH-022101-0005
+青森県,弘前市,黒門,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0116
+青森県,弘前市,栄螺堂,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0067
+青森県,弘前市,藤原信政公霊所 瑞垣・木柵,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0100
+青森県,弘前市,高照神社文庫,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0111
+青森県,弘前市,高照神社神饌殿,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0112
+青森県,弘前市,揚亀園揚亀庵,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0043
+青森県,弘前市,乳井神社社殿（旧毘沙門堂）,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0012
+青森県,弘前市,旧小山内家住宅,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0049
+青森県,弘前市,旧青森銀行津軽支店,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0051
+青森県,弘前市,旧藤田家住宅(太宰治学生時代の下宿),有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0050
+青森県,弘前市,平川家住宅,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0038
+青森県,弘前市,普門院本堂,有形文化財,建造物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0052
+青森県,弘前市,津軽為信公画像,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0069
+青森県,弘前市,紙本墨画淡彩松に虎の図,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0082
+青森県,弘前市,屏風,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0037
+青森県,弘前市,信政公葬送図絵巻,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0017
+青森県,弘前市,甲州廿四将之図,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0075
+青森県,弘前市,お山参詣図襖絵,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0002
+青森県,弘前市,刺繍両界曼荼羅,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0023
+青森県,弘前市,紙本著色元三大師縁起絵巻・慈眼大師縁起絵巻,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0085
+青森県,弘前市,絹本墨画淡彩 返魂香之図 附箱・「游魂図説」,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0091
+青森県,弘前市,絹本著色津軽為信・信枚・信義像,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0093
+青森県,弘前市,紙本著色仙桃院像 附 紙本著色仙桃院像（模本）,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0084
+青森県,弘前市,絹本著色満天姫像,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0094
+青森県,弘前市,紙本著色津軽信著像,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0086
+青森県,弘前市,絹本著色津軽寧親像,有形文化財,絵画,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0092
+青森県,弘前市,木造豊太閤坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0062
+青森県,弘前市,木造十一面観音坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0056
+青森県,弘前市,木造素木龍頭,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0061
+青森県,弘前市,木造不朱塗獅子頭,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0054
+青森県,弘前市,石造狛犬（弘前八幡宮・熊野奥照神社・多賀神社）,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0080
+青森県,弘前市,木造釈迦涅槃像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0063
+青森県,弘前市,円空作 十一面観音像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0020
+青森県,弘前市,石造両界大日如来坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0079
+青森県,弘前市,木造津軽信明坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0057
+青森県,弘前市,木造津軽寧親坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0058
+青森県,弘前市,木造津軽監物親守坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0059
+青森県,弘前市,木造伝覚範法印坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0055
+青森県,弘前市,木造笠原八郎兵衛坐像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0060
+青森県,弘前市,木造金剛力士立像,有形文化財,彫刻,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0064
+青森県,弘前市,高照神社刀剣類,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0109
+青森県,弘前市,大太刀・大薙刀,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0033
+青森県,弘前市,日本刀 銘 相模守藤原来國吉,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0048
+青森県,弘前市,大脇差 銘 相模守来國吉,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0034
+青森県,弘前市,刀 銘 陸奥大掾橘盛宗,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0022
+青森県,弘前市,日本刀 銘 奥州津軽波岡之住森宗,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0047
+青森県,弘前市,紺糸威具足兜付,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0090
+青森県,弘前市,色々威黒漆塗具足兜付,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0098
+青森県,弘前市,紺糸威五枚胴具足兜付,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0088
+青森県,弘前市,色々威胴丸大袖兜付,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0097
+青森県,弘前市,紺糸威五枚胴具足兜大袖付,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0089
+青森県,弘前市,弘前城館神厨子堂,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0042
+青森県,弘前市,鉄鐔,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0104
+青森県,弘前市,鞍,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0107
+青森県,弘前市,梨地蒔絵文台・硯箱,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0068
+青森県,弘前市,銅製獅子耳花入,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0105
+青森県,弘前市,唐櫃,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0026
+青森県,弘前市,能面,有形文化財,工芸品,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0096
+青森県,弘前市,神社微細社司由緒調書上帳,有形文化財,書跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0081
+青森県,弘前市,弘前城の絵図,有形文化財,書跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0041
+青森県,弘前市,津軽為信墨付,有形文化財,書跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0070
+青森県,弘前市,中臣祓,有形文化財,書跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0009
+青森県,弘前市,源氏物語之詞,有形文化財,書跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0071
+青森県,弘前市,衝立,有形文化財,書跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0101
+青森県,弘前市,近衛龍山筆津軽富姫弔歌,有形文化財,書跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0103
+青森県,弘前市,お告書付,有形文化財,古文書,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0001
+青森県,弘前市,高照神社収蔵古文書類,有形文化財,古文書,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0110
+青森県,弘前市,文永の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0044
+青森県,弘前市,国吉板碑群,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0028
+青森県,弘前市,三世寺板碑群,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0008
+青森県,弘前市,板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0066
+青森県,弘前市,外崎の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0032
+青森県,弘前市,熊野奥照神社板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0073
+青森県,弘前市,兼平天満宮の板碑群,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0019
+青森県,弘前市,伝一町田壱岐守信建公の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0015
+青森県,弘前市,伝安東義季一族の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0016
+青森県,弘前市,新岡田中家宅地内種子バンの板碑・新岡八幡宮の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0045
+青森県,弘前市,建武二年の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0039
+青森県,弘前市,熊嶋熊野宮の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0072
+青森県,弘前市,如来瀬神明宮の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0035
+青森県,弘前市,弘前八幡宮の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0040
+青森県,弘前市,小野家墓所の板碑,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0036
+青森県,弘前市,乳井神社の板碑群,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0011
+青森県,弘前市,薬師堂愛宕神社の板碑群,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0099
+青森県,弘前市,乳井古堂の板碑群,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0010
+青森県,弘前市,珠洲焼経容器及び蓋石,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0074
+青森県,弘前市,土偶（砂沢遺跡出土）,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0030
+青森県,弘前市,ヒスイ大珠（湯口長根遺跡出土）,有形文化財,考古資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0007
+青森県,弘前市,図像板碑,有形文化財,歴史資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0027
+青森県,弘前市,刀 朱銘 延寿國時,有形文化財,歴史資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0021
+青森県,弘前市,餓死供養名号塔・餓死供養題目塔,有形文化財,歴史資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0108
+青森県,弘前市,青面金剛像庚申塔,有形文化財,歴史資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0106
+青森県,弘前市,光明真言庚申塔,有形文化財,歴史資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0018
+青森県,弘前市,旗指物,有形文化財,歴史資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0046
+青森県,弘前市,貴田稲城氏奉納資料,有形文化財,歴史資料,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0102
+青森県,弘前市,卜傳流剣術,無形文化財,古武道,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0024
+青森県,弘前市,當田流剣術,無形文化財,古武道,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0076
+青森県,弘前市,紙本淡彩四季農耕の図,民俗文化財,有形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0083
+青森県,弘前市,聖観音石像,民俗文化財,有形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0095
+青森県,弘前市,石川獅子舞,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0078
+青森県,弘前市,鬼沢獅子踊,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0114
+青森県,弘前市,松森町津軽獅子舞,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0065
+青森県,弘前市,五代獅子舞,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0013
+青森県,弘前市,国吉獅子踊,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0029
+青森県,弘前市,鳥井野獅子踊,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0115
+青森県,弘前市,鬼沢のハダカ参り,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0113
+青森県,弘前市,紙漉沢獅子舞,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0087
+青森県,弘前市,吉田松陰来遊の地 附 松陰室,記念物(史跡・名勝・天然記念物),史跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0025
+青森県,弘前市,曹洞宗津軽山革秀寺,記念物(史跡・名勝・天然記念物),史跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0053
+青森県,弘前市,堂ヶ平経塚,記念物(史跡・名勝・天然記念物),史跡,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0031
+青森県,弘前市,五本杉,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0014
+青森県,弘前市,シダレザクラ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0006
+青森県,弘前市,ウラジロモミ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0003
+青森県,弘前市,サワラ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0005
+青森県,弘前市,石割ナラ及びハリギリ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0077
+青森県,弘前市,コブシ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,,,https://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/shi/index.html,html,2026-07-03T23:39:27+09:00,JMH-022021-0004
+青森県,新郷村,田中鶏舞,民俗文化財,民俗文化財 民俗芸能,村指定,1962-08-16,西越田中鶏舞保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0008
+青森県,新郷村,田中獅子舞,民俗文化財,民俗文化財 民俗芸能,村指定,1962-08-16,田中獅子舞保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0007
+青森県,新郷村,西越獅子舞,民俗文化財,民俗文化財 民俗芸能,村指定,1962-08-16,西越獅子舞保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0009
+青森県,新郷村,中里神楽,民俗文化財,民俗文化財 民俗芸能,村指定,1962-08-16,中里神楽保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0003
+青森県,新郷村,中崎神楽,民俗文化財,民俗文化財 民俗芸能,村指定,1962-08-16,中崎神楽保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0002
+青森県,新郷村,間明田駒踊り,民俗文化財,民俗文化財 民俗芸能,村指定,1962-08-16,間明田駒踊り保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0012
+青森県,新郷村,大谷地神楽,民俗文化財,民俗文化財 民俗芸能,村指定,1962-08-16,大谷地神楽保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0005
+青森県,新郷村,栃窪逆栃,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 天然記念物,村指定,1962-08-16,西越字栃窪,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0006
+青森県,新郷村,大石上方位石,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 名勝,村指定,1962-08-16,戸来字雨池,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0004
+青森県,新郷村,金沢山長泉寺旧跡,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 史跡,村指定,1962-08-16,戸来字獅子神,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0011
+青森県,新郷村,赤坂森環状列石,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 史跡,村指定,1962-08-16,戸来字赤坂森,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0010
+青森県,新郷村,三嶽神社御神木欅,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 天然記念物,村指定,1962-08-16,戸来字三嶽下,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0001
+青森県,新郷村,水芭蕉群生地,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 天然記念物,村指定,1977-05-14,戸来字雨池,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0013
+青森県,新郷村,金ケ沢獅子舞,民俗文化財,民俗文化財 民俗芸能,村指定,1977-05-14,金ヶ沢獅子舞保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0014
+青森県,新郷村,中国古銭,有形文化財,有形文化財 工芸品,村指定,1979-05-23,戸来字女ケ崎,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0015
+青森県,新郷村,えんぶり烏帽子,有形文化財,有形文化財 工芸品,村指定,1988-10-26,小坂地区,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0016
+青森県,新郷村,鹿頭,有形文化財,有形文化財 工芸品,村指定,1988-10-26,鹿田地区,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0017
+青森県,新郷村,神楽面,有形文化財,有形文化財 工芸品,村指定,1991-04-30,田中獅子舞保存会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0018
+青森県,新郷村,野沢温泉 ひばの木,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 天然記念物,村指定,1991-07-20,西越財産区議会,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0019
+青森県,新郷村,神楽面,有形文化財,有形文化財 工芸品,村指定,1995-10-23,西越地区,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0020
+青森県,新郷村,香の木,記念物(史跡・名勝・天然記念物),史跡名勝天然記念物 天然記念物,村指定,1995-10-23,西越字北向,,https://www.vill.shingo.aomori.jp/public/ikujikyouiku/kyouiku_main/page-27153/,html,2026-07-04T10:28:59+09:00,JMH-024601-0021
+青森県,東北町,銀杏（樹齢800年）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,樹齢800年のイチョウ。町文化財（天然記念物）に指定。指定年月日は情報源に記載なし。,https://ja.wikipedia.org/wiki/東北町,html,2026-07-03T12:00:00Z,JMH-024082-0003
+青森県,東北町,銀杏（樹齢650年）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,樹齢650年のイチョウ。町文化財（天然記念物）に指定。指定年月日は情報源に記載なし。,https://ja.wikipedia.org/wiki/東北町,html,2026-07-03T12:00:00Z,JMH-024082-0002
+青森県,東北町,日本中央の碑,有形文化財,有形文化財,町指定,,青森県上北郡東北町大字家ノ下タ,1949年発見の「日本中央」と刻まれた石碑。複数の二次情報では町指定有形文化財第1号（昭和64年/平成元年＝1989年12月7日指定）とされるが、東北町公式ページ・Wikipediaでは指定区分・年月日が明示されていないため日付はnull。,https://www.town.tohoku.lg.jp/chousei/info/info_shisetsu_05.html,html,2026-07-03T12:00:00Z,JMH-024082-0001
+青森県,板柳町,北畠家関係資料（北畠家旧家屋・錦旗・直垂の袖・永禄日記・古舘城址見取図扁額・北畠家に関する古文書）,有形文化財,,町指定,1984-10-26,,指定文化財第一号。北畠家旧家屋、錦旗、直垂の袖、永禄日記、菅江真澄作と伝わる古舘城址見取図扁額、北畠家に関する古文書の一括。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0001
+青森県,板柳町,五雲山正休寺山門,有形文化財,建造物,町指定,1986-03-20,,一棟。寛政年間の建立と推定。切妻造、四脚門。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0002
+青森県,板柳町,旧役場庁舎正面玄関,有形文化財,建造物,町指定,1986-03-20,,一棟。棟梁堀江佐吉。明治32年新築の板柳尋常高等小学校正面玄関。現在は郷土資料館に移転保存。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0003
+青森県,板柳町,表町七福神舞,民俗文化財,民俗芸能,町指定,1987-05-22,,一組。祝い事に招かれ演じる七福神の舞。囃子詞「みさいな」が特徴。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0005
+青森県,板柳町,五林平太刀振り,民俗文化財,民俗芸能,町指定,1987-05-22,,一組。虫追いの願いを込めた太刀を振る踊り。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0004
+青森県,板柳町,サワラとイチイ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1993-02-19,,一対。須郷家（石野）先祖が1600年頃須郷崎より移住時に持参した記念木。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0006
+青森県,板柳町,寶量大權現大幟,有形文化財,,町指定,2003-02-26,,二流。安政六年(1859)御蔵町氏子中が寶量宮に奉納した麻製の大幟。12.35m×1.2m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0007
+青森県,板柳町,アカマツ（深味）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字深味字深宮4番地,杉山屋敷に生育。樹齢約400年、樹高約17.25m、幹周囲約2.77m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0008
+青森県,板柳町,サイカチ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字掛落林字宮本111番地,樹齢約300年、樹高約8.0m、幹周囲約4.48m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0011
+青森県,板柳町,イチョウ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字小幡字柳田45番地,町内随一の巨木。樹齢約350年、樹高約36.0m、幹周囲約5.15m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0010
+青森県,板柳町,ハルニレ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字石野字宮本1番地,全国第三位の巨木。樹齢約500年、樹高約26.5m、幹周囲約6.68m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0013
+青森県,板柳町,アカマツ（赤田）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字赤田字松下無番地,赤田集落南入口。地上1.5mで二股、股からニワトコが生える。樹齢約300年、樹高約12.5m、幹周囲約3.55m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0009
+青森県,板柳町,トチノキ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字夕顔関字長田34番地2,十川堤防沿い。樹齢約450年、樹高約20.0m、幹周囲約4.53m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0012
+青森県,板柳町,古文書（板屋野木中屋敷並堤之間数、同寺屋敷宮地書付控之帳他九点）,有形文化財,古文書,町指定,2007-07-05,,貞享元年の領内総検地に関する資料。絵図面に明治初期の町の状況がうかがえる。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0014
+青森県,板柳町,板柳町獅子踊り,民俗文化財,民俗芸能,町指定,2009-02-25,,一組。津軽藩ゆかりの踊り。兄獅子・弟獅子・雌獅子・オカシコの4人1組、十曲。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0015
+青森県,板柳町,板柳町どだればぢ踊り,民俗文化財,民俗芸能,町指定,2012-06-25,,一組。故葛西喜十郎氏が昭和32年頃創作。板柳町正調盆踊り・流し踊り。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0016
+青森県,板柳町,海童神社,有形文化財,建造物,町指定,2012-06-25,,文禄2年(1593)創建の宝量宮を前身とし、承応元年(1653)現在地に遷宮、明治6年海童神社と改称。拝殿・本殿・中門・神楽殿・御神輿・宝量宮額面・神明宮・淡嶋宮を含む。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0017
+青森県,板柳町,海童神社神輿渡御,民俗文化財,風俗慣習,町指定,2015-06-24,,一組。元禄15年(1702)豪商若狭屋儀兵衛の神輿奉納を契機に始まる。神主が獅子頭を伴い氏子を訪問し祈祷、夜は神楽舞を奉納。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0018
+青森県,横浜町,岩倉不動尊,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-09-20,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0001
+青森県,横浜町,牛ノ沢舘跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-09-20,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0002
+青森県,横浜町,桧木在八幡神社 海浜殖生自然林,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1985-03-20,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0003
+青森県,横浜町,神明宮跡地大ケヤキ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1986-08-29,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0004
+青森県,横浜町,下北の能舞（塚名平神楽会）,民俗文化財,無形民俗,町指定,1999-02-23,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0005
+青森県,横浜町,横浜町の獅子舞（浜町神楽会）,民俗文化財,無形民俗,町指定,1999-02-23,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0006
+青森県,横浜町,横浜町の神楽（舘町神楽会）,民俗文化財,無形民俗,町指定,2002-07-09,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0009
+青森県,横浜町,横浜町の神楽（新丁神楽会）,民俗文化財,無形民俗,町指定,2002-07-09,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0008
+青森県,横浜町,横浜町の南部手踊り（横浜町南部手踊保存会）,民俗文化財,無形民俗,町指定,2002-07-09,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0007
+青森県,横浜町,八幡神社 社殿,有形文化財,有形,町指定,2018-04-01,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0010
+青森県,横浜町,八幡神社 神幸祭,民俗文化財,無形民俗,町指定,2018-04-01,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0011
+青森県,横浜町,ホオジロザメの歯の有孔装身具,有形文化財,有形,町指定,2023-03-01,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0012
+青森県,横浜町,獣面突起付土器,有形文化財,有形,町指定,2023-03-01,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0013
+青森県,田子町,閻魔大王像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字七日市 釜淵観音堂蔵,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0024
+青森県,田子町,十王像一号～六号,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字七日市 釜淵観音堂蔵,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0003
+青森県,田子町,観音菩薩像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字七日市 釜淵観音堂蔵,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0021
+青森県,田子町,正観音菩薩像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字七日市,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0011
+青森県,田子町,千体仏像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字七日市,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0004
+青森県,田子町,恵比須像・大黒像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字七日市,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0008
+青森県,田子町,薬師如来像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字衣更 衣更薬師堂蔵,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0020
+青森県,田子町,阿弥陀如来像・観世音菩薩像・勢至菩薩像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字上野 上野阿弥陀堂蔵,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0025
+青森県,田子町,十一面観音像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字下田子 真清田神社蔵,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0002
+青森県,田子町,薬師像・毘沙門像・弥陀像,有形文化財,彫刻,町指定,1984-03-06,田子町大字田子字下田子 真清田神社蔵,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0019
+青森県,田子町,仁王像,有形文化財,彫刻,町指定,1985-03-28,田子町大字関字関,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0026
+青森県,田子町,恵比須・大黒像,有形文化財,彫刻,町指定,1985-03-28,田子町大字田子字清水頭,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0028
+青森県,田子町,山の神像,有形文化財,彫刻,町指定,1985-03-28,田子町大字田子字池振上平,,"https://www.town.takko.lg.jp/index.cfm/11,154,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0027
+青森県,田子町,真清田神社棟札一号～七号,その他,史料,町指定,1984-03-06,田子町大字田子字下田子 真清田神社蔵,,"https://www.town.takko.lg.jp/index.cfm/11,155,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0015
+青森県,田子町,釜淵観音堂棟札一号～四号,その他,史料,町指定,1984-03-06,田子町大字田子字七日市 釜淵観音堂蔵,,"https://www.town.takko.lg.jp/index.cfm/11,155,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0022
+青森県,田子町,千体仏完成記念碑,その他,史料,町指定,1984-03-06,田子町大字田子字七日市 釜淵観音堂蔵,,"https://www.town.takko.lg.jp/index.cfm/11,155,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0005
+青森県,田子町,真田泰幸遊歴日記第十号,その他,史料,町指定,1984-03-06,田子町大字関字関,,"https://www.town.takko.lg.jp/index.cfm/11,155,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0016
+青森県,田子町,梅内文書,その他,史料,町指定,1984-03-06,田子町大字田子字土橋道ノ上,,"https://www.town.takko.lg.jp/index.cfm/11,155,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0010
+青森県,田子町,佐藤家文書,その他,史料,町指定,1984-03-06,田子町大字田子字天神堂向,,"https://www.town.takko.lg.jp/index.cfm/11,155,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0001
+青森県,田子町,北地吟哦十首献額,その他,史料,町指定,1985-07-04,田子町大字原字原 諏訪神社蔵,,"https://www.town.takko.lg.jp/index.cfm/11,155,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0032
+青森県,田子町,田子前館,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字田子字風張,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0012
+青森県,田子町,田子館,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字相米字相米向,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0013
+青森県,田子町,日ノ沢館,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字田子字野月及び日ノ沢,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0009
+青森県,田子町,茂市館,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字茂市字桜館,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0018
+青森県,田子町,原館,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字原字諏訪ノ平,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0006
+青森県,田子町,相米館,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字相米字太田平,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0014
+青森県,田子町,石亀館,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字石亀字道地及び舘,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0017
+青森県,田子町,夏坂御番所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字夏坂字夏坂,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0007
+青森県,田子町,関御番所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-03-06,田子町大字関字関,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0023
+青森県,田子町,九戸亀千代斬殺の場,記念物(史跡・名勝・天然記念物),史跡,町指定,1985-07-04,田子町大字石亀字道地,,"https://www.town.takko.lg.jp/index.cfm/11,156,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0031
+青森県,田子町,洞円寺山門,有形文化財,建造物,町指定,1985-03-28,田子町大字関字関,,"https://www.town.takko.lg.jp/index.cfm/11,157,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0029
+青森県,田子町,三十六歌仙彩色画像,有形文化財,絵画,町指定,1985-07-04,田子町大字原字原 諏訪神社蔵,,"https://www.town.takko.lg.jp/index.cfm/11,157,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0030
+青森県,田子町,石亀神楽,民俗文化財,無形民俗,町指定,1990-05-01,,,"https://www.town.takko.lg.jp/index.cfm/11,158,34,159,html",pdf,2026-07-04T10:28:59+09:00,JMH-024538-0033
+青森県,田舎館村,垂柳獅子踊り,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0008
+青森県,田舎館村,田舎舘城址,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0010
+青森県,田舎館村,サイカチ大樹,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0002
+青森県,田舎館村,二本柳一族の墓碑,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0005
+青森県,田舎館村,中村喜時の資料と家筋関係資料,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0003
+青森県,田舎館村,極楽寺大日堂文書,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0009
+青森県,田舎館村,エゾエノキ大樹,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0001
+青森県,田舎館村,嘉暦の古碑,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0007
+青森県,田舎館村,二津屋の板碑,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0006
+青森県,田舎館村,中村喜時著「耕作噺」,その他,,村指定,,,,http://www.vill.inakadate.lg.jp/docs/2012022300370/,html,2026-07-04T10:28:59+09:00,JMH-023647-0004
+青森県,野辺地町,野辺地の山車行事,民俗文化財,無形民俗文化財,町指定,,,,https://www.town.noheji.aomori.jp/kanko/spot/0175,html,2026-07-04T10:28:59+09:00,JMH-024015-0007
+青森県,野辺地町,客船帳,有形文化財,有形文化財,町指定,,,,https://www.town.noheji.aomori.jp/kanko/spot/824,html,2026-07-04T10:28:59+09:00,JMH-024015-0001
+青森県,野辺地町,西光寺のしだれ桜,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.town.noheji.aomori.jp/kanko/spot/375,html,2026-07-04T10:28:59+09:00,JMH-024015-0006
+青森県,野辺地町,松尾芭蕉の句碑,有形文化財,有形文化財,町指定,,,,https://www.town.noheji.aomori.jp/kanko/spot/371,html,2026-07-04T10:28:59+09:00,JMH-024015-0004
+青森県,野辺地町,花鳥号銅像,有形文化財,有形文化財,町指定,,,,https://www.town.noheji.aomori.jp/kanko/spot/370,html,2026-07-04T10:28:59+09:00,JMH-024015-0005
+青森県,野辺地町,本州最北にあるエドヒガン,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.town.noheji.aomori.jp/kanko/spot/369,html,2026-07-04T10:28:59+09:00,JMH-024015-0003
+青森県,野辺地町,常夜燈,記念物(史跡・名勝・天然記念物),史跡,町指定,,,,https://www.town.noheji.aomori.jp/kanko/spot/293,html,2026-07-04T10:28:59+09:00,JMH-024015-0002
+青森県,階上町,栁沢家のアサダ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2017-03-27,角柄折字柳平,,"https://www.town.hashikami.lg.jp/index.cfm/6,8,80,html",html,2026-07-04T10:28:59+09:00,JMH-024562-0002
+青森県,階上町,道仏神楽,民俗文化財,無形民俗文化財,町指定,2008-03-21,,,"https://www.town.hashikami.lg.jp/index.cfm/6,1400,80,html",html,2026-07-04T10:28:59+09:00,JMH-024562-0001
+青森県,青森市,額,有形文化財,有形文化財,市指定,1962-10-26,青森県青森市問屋町1-18-27,大星神社は、青森市内で最も古い縁起を持つ神社として、古くから崇敬を集めている。指定物件は、津軽藩九代藩主寧親の真筆で、社号である「妙見堂」の文字が記されており、文化6年(1809)蝦夷地警備を命ぜられた際に、社殿を再建し、国家安泰を祈願し、奉納したものである。また、境内には見事な枝垂桜があり、一般の人々に広く親しまれてきた。なお、木造舞楽面9面うち8面と木造能面1面は、学術的価値が高いことから、平成11年1月22日に市指定有形文化財指定解除となり、県重宝に指定された。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0003
+青森県,青森市,井戸茶碗,有形文化財,有形文化財,市指定,1962-10-26,青森県青森市,高麗茶碗の一種である指定物件は、朝鮮、李朝時代に作られた碗形陶器で、桃山時代以降、茶道で抹茶茶碗として用いられた。明治3年(1870)頃、斗南藩が県内で米を買い集めたとき、青森市に居住していた現所有者の先代がそれに援助尽力したので、当時の松平斗南藩知事からその謝礼に本茶碗を送られたものと伝えられている。なお、この茶碗には玉室和尚の墨跡がついている。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0002
+青森県,青森市,木彫釈迦牟尼如来座像（円空作）,有形文化財,有形文化財,市指定,1963-10-25,青森県青森市大字油川字大浜249-1,江戸時代初期の遊行僧円空の作品である。円空は若くして母を洪水で亡くし、その供養のため仏門に入り、30歳を過ぎてから布教伝道により庶民の嘆き苦しみを救おうと、辺境の地を巡ったと伝えられている。その足跡には数多くの作仏が残され、青森県内では十数体発見されている。円空仏の特徴は、一本の素木をそのまま鉈で裁ち彫り上げ、仏像彫刻の伝統にとらわれないところにあるといわれているが、この像にも無限の生命感があり、素朴さと暖かさの中に祈りの心が秘められている。指定物件は、円空の比較的初期の作と考えられており、宗教的信仰と慈悲の心が率直明快に表現された貴重な作品である。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0005
+青森県,青森市,掛軸「見返りの松」,有形文化財,有形文化財,市指定,1967-06-26,青森県青森市本町1-5-5,指定物件は安政2年(1855)、蓮心寺10世住職智海師【ちかいし】が京都の画家塩川文鵬に、蓮心寺の庭の松を写生させたものである。画題の松は蓮心寺開祖敬念上人【きょうねんしょうにん】により植えられたもので、明治9年(1876)7月明治天皇がご来青の時に、あまりの見事さに何度も振り返って眺めたということから「見返りの松」と呼ばれるようになった。しかしこの松は、残念がら明治43年(1910)5月3日の大火により焼失した。この掛軸は、青森市の歴史的一面を伝える郷土資料として貴重なものである。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0006
+青森県,青森市,法華堂茶釜,有形文化財,有形文化財,市指定,1967-06-26,青森県青森市本町1-5-12,指定物件は、元禄後期に作製されたものと推定され、胴部の「法華堂」という文字は、中国の儒学者朱舜水【しゅしゅんすい】の書とされている。この茶釜は、水戸光圀の愛用していたものを水戸藩儒学者藤田東湖が拝領し、蓮華寺第26世住職角田堯現が東湖のもとで学び、帰郷の際に賜ってきたものといわれている。朱舜水は明朝復興に失敗し、万次2年(1659)日本へ亡命帰化した人で、徳川光圀に迎えられ、水戸学の発達に貢献している。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0007
+青森県,青森市,狛犬,有形文化財,有形文化財,市指定,1972-06-30,青森県青森市大字入内字駒田,薄緑色したこの一対の狛犬は、寛文5年(1665)に越前国新保の中村新兵衛から寄進されたもので、それぞれの右足にそのことが彫字されている。指定物件の特徴は、頭髪が垂れ下がっているところである。狛犬の石の材質は、福井市足羽山【あすわやま】産出の凝灰岩の一種、笏谷石であるという。開港以来四十年という歴史の浅い当時の青森港と、北陸地方との交易、海運事情を解明する上でも貴重な存在である。なお、隣接の観音堂は、津軽三十三観音の第二十四番札所で信仰を集めているところである。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0010
+青森県,青森市,木彫阿弥陀如来坐像,有形文化財,有形文化財,市指定,1973-08-03,青森県青森市大字奥内字宮田37,寺伝によると、指定物件は、聖徳太子が生母供養のために彫ったもので、江戸時代徳川五代将軍綱吉の生母桂昌院によって法隆寺から江戸に移され、戦後、芝の増上寺から清岸寺に下付されたものといわれている。指定物件は木像で全体に金箔が塗られ、背には舟形光背を負った寄木造りの座像である。印相は十巻抄という「定印」または「開敷蓮」と言われるもので、真言密教の経軌となっている。衣紋は両肩を蔽い、その線は大小の波が翻転するような彫痕から翻波式と呼ばれ、青森市内でこの型式は他に類例がない。光背には瑞雲がかかり、その先端には燭懸大二、小二が備わり火が灯されると、嵩厳な雰囲気に包まれる。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0011
+青森県,青森市,土偶,有形文化財,有形文化財,市指定,1980-04-28,青森県青森市,指定物件は、青森市浪岡大字五本松字羽黒平地内で、明治時代に出土したと言われている。腕を組み立ち膝する特殊な形で出土例もたいへん少なく、当時の精神文化を知る上で貴重な資料である。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0014
+青森県,青森市,延文二年銘の碑,有形文化財,有形文化財,市指定,1981-07-31,青森県青森市大字宮田字玉水65,青森市に存する数少ない板碑の1つであり、弥陀三尊（キリーク、サ、サク）の種子の下に延文二季(1357)の紀年名が刻まれている。金石文として、中世の文献資料が極めて少ない当地方史上極めて重要である。また、津軽地方の板碑の種子はバン（金剛界大日如来）が圧倒的に多いが、この碑は関東の武蔵型板碑に多いキリーク（弥陀三尊）が刻まれているのも特徴的である。東岳の安山岩で製作されているが、当時この地域に板碑を建立できるだけの経済力を持った豪族・名主等がいたことがうかがえ、歴史的資料としても貴重である。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0017
+青森県,青森市,石器土器図絵六曲屏風,有形文化財,有形文化財,市指定,1980-11-21,青森県青森市,作者の「土岐蓑虫」は、美濃国（岐阜県）に天保7年（1836）に生まれ、嘉永2年（1849）から明治29年（1896）まで漂泊の生活を送った。自製の野宿用テントを持って移動したので、自ら「蓑虫」と称した。明治11年（1878）秋、青森県に来訪し、津軽に長期間滞在した。青森県つがる市（旧木造町）の亀ヶ岡遺跡を度々訪ね、出土品の収集と発掘を行っている。この屏風絵は、明治前半に描かれたもので、考古学的な資料としても貴重である。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0016
+青森県,青森市,石器図絵屏風・土器図絵屏風,有形文化財,有形文化財,市指定,1983-11-21,青森県青森市,「石器土器図絵六曲屏風」と同様、土岐蓑虫の筆によるものである。両者とも、モチーフが似ているが屏風各図での遺物の組み合わせや配置に差が見られる。いずれにせよ、ほぼ同時期に描かれたものであると推察される。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0019
+青森県,青森市,波状文四耳壷,有形文化財,有形文化財,市指定,1983-11-21,青森県青森市,13世紀頃の珠洲（現在の石川県）系の陶器である。釉薬（うわぐすり）をかけない焼きしめの壷で、櫛で胴部の上半に波状の文様が横方向に描かれている。肩には、4ヶ所に横向きの耳（取っ手状のもの）がつく。源常平遺跡の南の斜面（源常館の空壕の周囲）から出土したとされ、当時の日本海を経た交易が推測される。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0018
+青森県,青森市,森山弥七郎供養碑,有形文化財,有形文化財,市指定,1991-08-20,青森県青森市大字油川字大浜249-1,指定物件は、湊町青森のまちづくりに携わった森山弥七郎を供養するために建立された石碑である。弘前藩主二代津軽信枚は、寛永2年(1625)、幕府より津軽から江戸への廻船運航を許可された。翌、寛永3年（1626）4月には、家臣森山弥七郎に青森のまちづくりを命じた。新たに開かれた湊町青森には、積極的な人寄と、10年間の年貢等の免除、また外浜（そとがはま）一帯の商船を集中させるなど、藩主導によるまちづくりが進められた。この供養碑は当初、油川村の寺内野（現在の青森市立油川中学校校庭付近）に建立され、昭和10年(1935)青森飛行場建設により野木和公園入口付近へ移転された。その後、昭和23年(1948)に油川町民の手で現在の浄満寺境内に移されたものである。供養碑の建立年代は特定できないが、外浜の中心港を、それまでの大浜（油川）から青森へ移転させたことを考えると、当地の人々が建立したとは考えにくい。一説によれば、3代目弥七郎が油川湊目付を務めた際に、先々代の遺徳を偲んで建立したものとも言われている。しかしながら、この供養碑は、青森開港の恩人と言われる森山弥七郎と深い関わりがあることだけは確かであり、江戸初期の青森を物語る貴重な文化財である。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0020
+青森県,青森市,歩兵第五聯隊第二大隊遭難記念碑（八甲田山雪中行軍遭難後藤伍長銅像）,有形文化財,有形文化財,市指定,1999-02-22,青森県青森市大字駒込字深沢,指定物件は、犠牲者の多いことで世界の山岳遭難史上例を見ないと言われ、全国的にも広く知られている青森歩兵第五連隊第二大隊の八甲田雪中行軍遭難事件を後世へ伝える資料として貴重である。また、作者大熊氏広氏は日本における洋風彫刻の第一人者であり、この作品は記念碑彫刻としての観点からも日本有数の傑作群に入るものである。台座とのバランスも見事であり、八甲田山を背にしての起立はこの上ない景観となっている。指定物件は20作目、47才の作である。その細部は的確な技術に支えられており､時代考証も極めて確かなものである。何よりも、全体像が力に満ち、そして気品に満ちている。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0022
+青森県,青森市,青森市森林博物館,有形文化財,有形文化財,市指定,2004-11-17,青森県青森市柳川2-4-37,指定物件は、明治41年11月13日に青森大林区署（大正13年に青森営林局と改称）庁舎として落成した。ルネッサンス風建築様式で、木造二階建。建築材料は、構造材から造作材に至るまで、津軽・下北両半島の国有林からの精選されたヒバ材を使用している。青森ヒバ造りの代表的な建造物である。本市を代表する明治期の洋風木造建築であり、また、当時の建築技術を今に伝える貴重かつ優れた建造物として、価値が高い。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0024
+青森県,青森市,浪岡八幡宮再興棟札,有形文化財,有形文化財,市指定,2004-12-21,青森県青森市浪岡大字浪岡字林本123,江戸時代前期に製作された、全国的にも極めて珍しい全面黒漆塗で、文字が陰刻された棟札である。弘前藩が全面的に後押しして行った浪岡八幡宮再興事業に際し奉納された。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0026
+青森県,青森市,浪岡八幡宮茸替鳥居新造棟札,有形文化財,有形文化財,市指定,2004-12-22,青森県青森市浪岡大字浪岡字林本123,江戸時代前期に製作され、ヒバ材に墨書で記された棟札である。屋根の葺替事業を行った際に奉納された。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0028
+青森県,青森市,浪岡八幡宮新造棟札,有形文化財,有形文化財,市指定,2004-12-23,青森県青森市浪岡大字浪岡字林本123,江戸時代前期に製作され、ヒバ材に墨書で記された棟札である。八幡宮を新しく建立した際に奉納された。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0029
+青森県,青森市,細野雪田家文書,有形文化財,有形文化財,市指定,2004-12-21,青森県青森市,旧浪岡町細野地区で庄屋及び戸長役場を勤めた雪田家に代々伝わる文書である。貞享4年の文書は、天保13（1842）年に作成された検地水帳の写しであるが、他に田畑、仕立山（したてやま）、抱山（かかえやま）や「切支丹改帳」・「宗門人別帳」に関する文書が含まれている。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0027
+青森県,青森市,小牧野遺跡の縄文後期の遺物,有形文化財,有形文化財,市指定,2013-04-01,青森県青森市大字野沢字沢部108-3,土器や石器、土製品、石製品から構成され、縄文時代の生活や祭祀、環状列石の用途・性格を考える上で貴重な資料。 人骨収納用の壺をはじめとする土器 11点 動物の彫刻を有する石皿などの石器 8点 土偶や耳飾などの土製品 27点 小牧野遺跡の特色を示す三角形岩版などの石製品 21点,http://komakinosite.jp ,csv,2026-07-03T23:37:34+09:00,JMH-022012-0031
+青森県,青森市,小牧野遺跡の続縄文土器,有形文化財,有形文化財,市指定,2013-04-01,青森県青森市大字野沢字沢部108-3,北海道において縄文時代の後に続く、続縄文時代に使用されていた土器。環状列石が使われなくなった後の小牧野遺跡の様子を知ることができる貴重な資料です。,http://komakinosite.jp ,csv,2026-07-03T23:37:34+09:00,JMH-022012-0030
+青森県,青森市,伝北畠氏墓所（一）（二）,記念物(史跡・名勝・天然記念物),史跡,市指定,1980-04-28,青森県青森市浪岡大字北中野,（1）は浪岡城主である北畠氏一族の墓（北畠累代の墓）、（2）は分家である北畠守親（もりちか）の墓であると伝えられている。現在は、墓所（1）（2）ともに柵の中に五輪塔の一部が残り、墓所（1）には平成10年度に石碑が建てられた。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0013
+青森県,青森市,幸畑陸軍墓地,記念物(史跡・名勝・天然記念物),史跡天然記念物,市指定,1963-07-19,青森県青森市大字幸畑字阿部野,明治35年(1902)1月23日、八甲田山中において遭難した青森歩兵第五連隊第二連隊の将兵210人のうち、死亡した199人の英霊を埋葬した墓地である。この事件は、世界山岳遭難史上最大の惨事と言われ、全国的にも知られている。参道から入って南側正面に大隊長山口少佐の碑があり、それを中心に士官10名、東側に95人、西側に94人の碑が建てられている。昭和37年(1962)、大隊長碑西側に奇跡的に救助された11名をその名とともに合祀している。同墓地をめぐらす周囲土塁に植えられている多行松はアカマツの園芸変種の一つで、根元及びその付近から分かれた多数の枝が斜め上に伸び、丸みのある傘形の樹冠をつくる特徴を持つ。この墓地の多行松は四国産のものといわれ、当地方では大変珍しいものである。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0004
+青森県,青森市,いちょう,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1962-10-26,青森県青森市大字宮田字山下,青森市内に現存するいちょうの中では最も大きく、その樹齢は800年といわれている。いつ頃、誰によって植えられたのかは不明であるが、遠い昔からご神木として人々の信仰を集めていたようである。近隣の言い伝えでは、母乳の不足がちな女性がこの木に酒、米、お菓子など供物を供えて祈願し、この木を削って持ち帰って米と一緒に炊き、炊き上がりを神棚へお供えし、木屑を取り除いて食べたところ、次第に乳が出るようになったという。それでも乳が出ない人は、ごはんのノリ状の部分を乳児に食べさせるなどし、多くの乳児が救われたといわれている。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0001
+青森県,青森市,黒松,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1967-06-26,青森県青森市大字六枚橋字不浪知1-1,現所有者の家は、代々松前藩の参勤交代の宿泊所を務めていた。何代目かの時、松前藩主がそれまでの業績をたたえて、愛蔵の松の盆栽を一鉢贈り、労をねぎらった。その後自邸の庭に移植したものが成長し、現在の姿になったものと伝えられている。指定物件は樹勢が盛んで、龍が天に昇るような偉容と、龍の鱗のような樹皮から別名「昇龍の松」とも呼ばれている。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0008
+青森県,青森市,田代平湿原植物群落,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1968-11-07,青森県青森市大字駒込字深沢,田代平湿原は、市の中心部から南東約20km、八甲田赤倉山の北東斜面、海抜約560mに位置する高位泥炭地域である。植生は、ヤチヤナギやヌマガヤを主体とする中間湿原土台となっているが、大小の池塘が点在し、ミズゴケ類を伴う高層湿原やヨシ、スゲを主体とする低層湿原が見られ植物相は多彩である。またこの地に生息するモリアオガエルやトウホクサンショウウオなどの両生類や、キイロマツモムシ、メススジゲンゴロウなどの昆虫はいずれも希少である。特にゴマシジミは生息地が極限され、東北地方では青森県と岩手県でのみ生息が確認されている希少種である。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0009
+青森県,青森市,三内稲荷神社の杜,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1977-06-29,青森県青森市大字三内字丸山37,三内稲荷神社の建立年月日は不詳であるが、延宝元年(1673)に五穀豊穣を祈願し、村中で再建したという記録が残っている。この神社近くには、かつての豪族の館といわれる「お城ながれ」と呼ばれている地域があることなどから、かなり昔から大規模な集落があったと推察される。この神社を取囲む黒松、銀杏、針桐は樹齢200年から400年と推定され、戦火や枯死などによりその風致を失いつつあるものが多い本市の樹木群の中で、大樹としての風格を備えた有数の古木群として貴重である。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0012
+青森県,青森市,源常林の銀杏,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1980-04-28,青森県青森市浪岡大字北中野字沢田107,この銀杏の木は、「天和の絵図」や菅江真澄の紀行文「すみかの山」（寛政3年・1791）にも記載されている。浪岡城落城に際し、勝者の大浦氏が堀越城で祝宴を設けたとき家臣の一人が草刈唄の一つとして「浪岡の源常林の銀杏の木は、枝は浪岡、葉は黒石、花は弘前（堀越）の城で咲く。」と唄い、これが津軽山唱の基になったと伝えられている。いずれにせよ、戦国時代からこの銀杏については広く知れ渡っていたようである。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0015
+青森県,青森市,楊子杉,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1998-08-07,青森県青森市浪岡大字五本松字羽黒平1,羽黒神社の境内にあり、天和の絵図（1681～1683）に「杉一本九尺廻り」と記述が見られる大木が、この楊子杉であるとして天然記念物に指定された。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0021
+青森県,青森市,又八沼に生息するシナイモツゴ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2000-10-31,青森県青森市大字羽白字野木和,シナイモツゴは、昭和5年宮城県志田郡鹿島台町の品井沼（しないぬま）で発見された日本固有種である。コイ目コイ科モツゴ属の淡水魚で、全長6cmから8cm、オスがメスより大きい傾向があり、水圧や速さを感じる側線部が不完全であるのが特徴である。かつては関東以北から秋田県、岩手県まで広く生息していたが、外来種のブラックバスによる食害等により、全国的に生息が脅かされており、関東地方では絶滅したとされている希少種である。これまで秋田県、岩手県が北限とされていたが、平成5年通称又八沼で釣り人により生息が確認され、今日では本市が自然分布の北限と考えられている。地元住民に「沼チカ」と呼ばれて親しまれ、生活に密着に関係しており、生物学的にも歴史的にも非常に価値の高いものである。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0023
+青森県,青森市,黒松,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2004-11-17,青森県青森市合浦二丁目17,指定物件は、三誉（みよ）の松と呼ばれ、地域住民に親しまれてきた。主幹は、根元から3本立になっている。江戸期、弘前藩主が地方巡見のため、この地を訪れた際に、藩主自らが杯酒を捧げたとの伝承がある。明治期に入り、水原衛作によりこの松を中心として公園建設が計画され、合浦公園が完成した。樹齢400年を超える老木であるにもかかわらず、樹勢も旺盛で、枝葉の繁茂、密度ともに健全であることに加え、合浦公園のシンボルツリーとして地域とのかかわりも深いことから、価値が高い。,https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html,csv,2026-07-03T23:37:34+09:00,JMH-022012-0025
+青森県,鰺ヶ沢町,鰺ヶ沢雪景図,有形文化財,絵画,町指定,1991-10-21,本町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0047
+青森県,鰺ヶ沢町,館地蔵堂の板碑,有形文化財,考古資料,町指定,1983-04-20,舞戸町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0027
+青森県,鰺ヶ沢町,館の板碑,有形文化財,考古資料,町指定,1991-10-21,舞戸町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0046
+青森県,鰺ヶ沢町,無量庵跡の板碑,有形文化財,考古資料,町指定,1983-04-20,田中町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0014
+青森県,鰺ヶ沢町,松源寺の板碑,有形文化財,考古資料,町指定,1983-04-20,赤石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0012
+青森県,鰺ヶ沢町,日照田の板碑,有形文化財,考古資料,町指定,1983-04-20,日照田町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0010
+青森県,鰺ヶ沢町,種里旧墓地の板碑,有形文化財,考古資料,町指定,1983-04-20,種里町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0023
+青森県,鰺ヶ沢町,永禄の墓石,有形文化財,考古資料,町指定,1983-04-20,中村町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0013
+青森県,鰺ヶ沢町,種里八幡宮棟札,有形文化財,歴史資料,町指定,1983-04-20,種里町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0020
+青森県,鰺ヶ沢町,種里八幡宮身正体,有形文化財,歴史資料,町指定,1983-04-20,種里町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0022
+青森県,鰺ヶ沢町,種里八幡宮弓具,有形文化財,歴史資料,町指定,1983-04-20,種里町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0019
+青森県,鰺ヶ沢町,種里八幡宮獅子頭,有形文化財,歴史資料,町指定,1983-04-20,種里町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0021
+青森県,鰺ヶ沢町,白八幡宮絵馬群,有形文化財,歴史資料,町指定,1991-10-21,本町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0044
+青森県,鰺ヶ沢町,白八幡宮玉垣,有形文化財,歴史資料,町指定,1983-04-20,本町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0017
+青森県,鰺ヶ沢町,常灯碑,有形文化財,歴史資料,町指定,1983-04-20,本町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0008
+青森県,鰺ヶ沢町,明和地震供養塔,有形文化財,歴史資料,町指定,1989-05-19,富根町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0041
+青森県,鰺ヶ沢町,堀切沢の天明飢饉供養塔,有形文化財,歴史資料,町指定,1983-04-20,舞戸町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0005
+青森県,鰺ヶ沢町,岸文靖墓道表,有形文化財,歴史資料,町指定,1991-10-21,釣町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0043
+青森県,鰺ヶ沢町,日蔭塚,有形文化財,歴史資料,町指定,1983-04-20,舞戸町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0011
+青森県,鰺ヶ沢町,保村晩杏句碑,有形文化財,歴史資料,町指定,1983-04-20,舞戸町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0002
+青森県,鰺ヶ沢町,化石塚,有形文化財,歴史資料,町指定,1983-04-20,釣町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0004
+青森県,鰺ヶ沢町,芭蕉塚,有形文化財,歴史資料,町指定,1983-04-20,七ッ石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0024
+青森県,鰺ヶ沢町,禽翁齋宗全墓,有形文化財,歴史資料,町指定,1983-04-20,新町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0018
+青森県,鰺ヶ沢町,塩越屋羽扇墓,有形文化財,歴史資料,町指定,1983-04-20,七ッ石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0006
+青森県,鰺ヶ沢町,生駒き員墓,有形文化財,歴史資料,町指定,1983-04-20,釣町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0015
+青森県,鰺ヶ沢町,豊島佳兮墓,有形文化財,歴史資料,町指定,1983-04-20,所在不明,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0025
+青森県,鰺ヶ沢町,日和山の岩木山遥拝所碑,民俗文化財,有形民俗文化財,町指定,1983-04-20,舞戸町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0009
+青森県,鰺ヶ沢町,八衢神碑,民俗文化財,有形民俗文化財,町指定,1991-10-21,七ッ石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0042
+青森県,鰺ヶ沢町,大然大山祇神社社標（マタギ記念銘）,民俗文化財,有形民俗文化財,町指定,1983-04-20,一ッ森町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0007
+青森県,鰺ヶ沢町,白八幡宮神輿渡御,民俗文化財,無形民俗文化財,町指定,1981-05-21,,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0001
+青森県,鰺ヶ沢町,正調鰺ヶ沢甚句,民俗文化財,無形民俗文化財,町指定,1984-09-19,,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0028
+青森県,鰺ヶ沢町,鰺ヶ沢くどき,民俗文化財,無形民俗文化財,町指定,1984-09-19,,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0029
+青森県,鰺ヶ沢町,目内崎獅子舞,民俗文化財,無形民俗文化財,町指定,1991-10-21,,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0045
+青森県,鰺ヶ沢町,赤石の追分碑,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-04-20,赤石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0026
+青森県,鰺ヶ沢町,田村麻呂の腰掛石,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-04-20,本町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0016
+青森県,鰺ヶ沢町,公墓跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-04-20,南浮田町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0003
+青森県,鰺ヶ沢町,鬼神神社のクロマツ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,建石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0040
+青森県,鰺ヶ沢町,願行寺のクロマツ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,新町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0039
+青森県,鰺ヶ沢町,松源寺のクロマツ・ケヤキ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,赤石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0034
+青森県,鰺ヶ沢町,石神神社のクロマツ・セン,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,建石町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0035
+青森県,鰺ヶ沢町,中村久須志神社のスギ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,中村町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0031
+青森県,鰺ヶ沢町,種里八幡宮のスギ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,種里町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0036
+青森県,鰺ヶ沢町,種里御廟所のスギ・アカマツ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,種里町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0037
+青森県,鰺ヶ沢町,日照田高倉神社のイチョウ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,日照田町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0032
+青森県,鰺ヶ沢町,来生寺のイチョウ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,釣町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0033
+青森県,鰺ヶ沢町,一ッ森のサイカチ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,一ッ森町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0030
+青森県,鰺ヶ沢町,細ヶ平のイチイ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1987-08-20,深谷町,,https://www.town.ajigasawa.lg.jp/kyoiku_shogai/bunka_rekishi/bunkazai/ajigasawabunkazai.html,html,2026-07-04T10:28:59+09:00,JMH-023213-0038
+青森県,鶴田町,旧鶴田町立水元小学校校舎（鶴田町歴史文化伝承館）,有形文化財,,町指定,,北津軽郡鶴田町大字妙堂崎,明治9年創立・昭和11年（1936年）築造のヒバ造り木造校舎。平成16年閉校後、平成17年（2005年）に町文化財に指定。現在は鶴田町歴史文化伝承館として活用。指定の正確な月日は未確認のためdesignated_dateはnull。,https://www.medetai-tsuruta.jp/spot/sightseeing/culturalmuseum.html,html,2026-07-03T12:00:00Z,JMH-023833-0001
+青森県,黒石市,浄仙寺仁王像,有形文化財,有形文化財,市指定,1984-10-12,黒石市大字南中野字黒森下,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0005
+青森県,黒石市,藩祖信英公書状,有形文化財,有形文化財,市指定,1986-01-07,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0010
+青森県,黒石市,藩祖信英公書状（２）,有形文化財,有形文化財,市指定,1986-08-07,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0011
+青森県,黒石市,木庵性瑫像,有形文化財,有形文化財,市指定,1992-03-06,黒石市大字温湯字鶴泉,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0019
+青森県,黒石市,日蓮上人断簡,有形文化財,有形文化財,市指定,1986-01-07,黒石市京町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0009
+青森県,黒石市,隠元隆琦像,有形文化財,有形文化財,市指定,1992-03-06,黒石市大字温湯字鶴泉,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0020
+青森県,黒石市,法眼寺開山堂,有形文化財,有形文化財,市指定,1992-07-07,黒石市大字山形町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0022
+青森県,黒石市,法眼寺山門,有形文化財,有形文化財,市指定,1992-07-07,黒石市大字山形町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0021
+青森県,黒石市,鳴海家住宅,有形文化財,有形文化財,市指定,1998-04-10,黒石市大字中町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0023
+青森県,黒石市,剣,有形文化財,有形文化財,市指定,1999-01-05,黒石市大字山形町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0024
+青森県,黒石市,御神刀,有形文化財,有形文化財,市指定,2000-03-04,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0025
+青森県,黒石市,釣燈籠,有形文化財,有形文化財,市指定,2000-03-24,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0026
+青森県,黒石市,石燈籠,有形文化財,有形文化財,市指定,2000-12-06,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0028
+青森県,黒石市,駕籠,有形文化財,有形文化財,市指定,2000-12-06,黒石市大字山形町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0029
+青森県,黒石市,津軽信敏建立の石碑,有形文化財,有形文化財,市指定,2005-03-14,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0031
+青森県,黒石市,藩祖信英公頌徳碑,有形文化財,有形文化財,市指定,2005-03-14,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0032
+青森県,黒石市,黒石神社の神門,有形文化財,有形文化財,市指定,2008-05-08,黒石市大字市ノ町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/yuukei-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0033
+青森県,黒石市,黒石よされ踊元踊,民俗文化財,民俗文化財,市指定,1982-11-04,黒石市,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0001
+青森県,黒石市,上十川の追分石,民俗文化財,民俗文化財,市指定,1984-10-12,黒石市大字上十川字北原,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0004
+青森県,黒石市,薬師寺の石敢當碑,民俗文化財,民俗文化財,市指定,1984-10-12,黒石市大字温湯字鶴泉,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0007
+青森県,黒石市,赤坂の庚申塔,民俗文化財,民俗文化財,市指定,1984-10-12,黒石市大字赤坂字東池田,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0008
+青森県,黒石市,竹鼻の五庚申塔,民俗文化財,民俗文化財,市指定,1984-10-12,黒石市大字竹鼻字宮元,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0006
+青森県,黒石市,竹鼻の廻国納経塔,民俗文化財,民俗文化財,市指定,1989-03-03,黒石市大字竹鼻字宮元,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0015
+青森県,黒石市,竹鼻の百観音碑,民俗文化財,民俗文化財,市指定,1989-03-03,黒石市大字竹鼻字宮元,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0016
+青森県,黒石市,獅子が沢のしし石,民俗文化財,民俗文化財,市指定,1987-01-10,黒石市大字上十川字長谷沢,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0012
+青森県,黒石市,馬場尻の庚申塔,民俗文化財,民俗文化財,市指定,1989-03-03,黒石市大字東馬場尻字馬場尻,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0017
+青森県,黒石市,法眼寺の砂踏之碑,民俗文化財,民俗文化財,市指定,1989-03-03,黒石市大字山形町,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/minzoku-bunkazai.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0014
+青森県,黒石市,大杉,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1983-02-01,黒石市大字南中野字不動館,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/tennen-kinenbutsu.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0003
+青森県,黒石市,中野のモミジ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1983-02-01,黒石市大字南中野字不動館,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/tennen-kinenbutsu.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0002
+青森県,黒石市,袋のイチョウ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1988-03-04,黒石市大字袋字富山,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/tennen-kinenbutsu.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0013
+青森県,黒石市,村上家のイチイ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1990-12-06,黒石市大字上十川字柳沢,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/tennen-kinenbutsu.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0018
+青森県,黒石市,サルスベリ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2000-12-06,黒石市京町字寺町15,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/tennen-kinenbutsu.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0027
+青森県,黒石市,高田家の糸ヒバ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2001-12-06,黒石市大字二双子字十川,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/tennen-kinenbutsu.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0030
+青森県,黒石市,安入のハリギリ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2017-04-26,黒石市大字高館字乙高原,,https://www.city.kuroishi.aomori.jp/kankou/bunkazai/bunkazai/tennen-kinenbutsu.html,html,2026-07-03T23:45:04+09:00,JMH-022047-0034

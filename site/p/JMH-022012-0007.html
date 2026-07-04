@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>法華堂茶釜 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>法華堂茶釜</h1>
+    <p class="jmh-id">JMH-022012-0007</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>青森県</dd>
+      <dt>市町村</dt><dd>青森市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>有形文化財</dd>
+      <dt>指定年月日</dt><dd>1967-06-26</dd>
+      <dt>所在地</dt><dd>青森県青森市本町1-5-12</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定物件は、元禄後期に作製されたものと推定され、胴部の「法華堂」という文字は、中国の儒学者朱舜水【しゅしゅんすい】の書とされている。この茶釜は、水戸光圀の愛用していたものを水戸藩儒学者藤田東湖が拝領し、蓮華寺第26世住職角田堯現が東湖のもとで学び、帰郷の際に賜ってきたものといわれている。朱舜水は明朝復興に失敗し、万次2年(1659)日本へ亡命帰化した人で、徳川光圀に迎えられ、水戸学の発達に貢献している。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html" target="_blank" rel="noopener">https://www.city.aomori.aomori.jp/bunkaisan/bunka-sports-kanko/bunka/bunka-geijutsu/inishie/bunkazai/01.html</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"法華堂茶釜" (JMH-022012-0007), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([40.824902, 140.749161], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([40.824902, 140.749161]).addTo(m);
+  </script>
+</body>
+</html>

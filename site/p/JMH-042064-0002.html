@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>堂田遺跡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>堂田遺跡</h1>
+    <p class="jmh-id">JMH-042064-0002</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>宮城県</dd>
+      <dt>市町村</dt><dd>白石市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1973-07-25</dd>
+      <dt>所在地</dt><dd>宮城県白石市西益岡町6-52福岡八宮字堂田13-2</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数: 1 / 所有者等: 白石市 / 平安時代の草葺きか檜皮葺きの仏堂風の建物と推定されます。 / 白石市福岡八宮、国道4号線を白石市街から北上し白鳥橋を渡ってすぐの交差点を西に1Km ほど行ったところ、児捨川北岸の水田の中にあります。1メートル前後の自然石が5列6行に据えられています。礎石の間隔は1メートル60センチないし1メートル80センチで、その配置から平安時代の草葺きか檜皮葺きの仏堂風の建物と推定されます。この地域は、古くから山岳信仰や神々に関する伝説等も多く、堂田遺跡もそうした古代信仰上の中心的施設のひとつと考えられています。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://miyagi.dataeye.jp/resources/1189" target="_blank" rel="noopener">https://miyagi.dataeye.jp/resources/1189</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"堂田遺跡" (JMH-042064-0002), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.004932, 140.614899], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.004932, 140.614899]).addTo(m);
+  </script>
+</body>
+</html>

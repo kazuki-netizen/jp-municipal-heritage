@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>jp-municipal-heritage — Iwate</title>
+  <title>jp-municipal-heritage — Tohoku 3-Pref</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
@@ -41,11 +41,19 @@
 <body>
   <div id="app">
     <div id="panel">
-      <h1>Iwate municipal cultural properties</h1>
+      <h1>Tohoku municipal cultural properties</h1>
       <p class="sub">
-        岩手県 市町村指定文化財 &middot; <span id="total">…</span> designations.<br>
+        東北3県 市町村指定文化財 &middot; <span id="total">…</span> designations.<br>
         Open data (CC-BY-4.0). Source: <a href="https://github.com/kazuki-netizen/jp-municipal-heritage">jp-municipal-heritage</a>.
       </p>
+
+      <label for="f-pref">Prefecture 都道府県</label>
+      <select id="f-pref">
+        <option value="">All 全県</option>
+        <option value="岩手県">岩手県</option>
+        <option value="宮城県">宮城県</option>
+        <option value="青森県">青森県</option>
+      </select>
 
       <label for="f-muni">Municipality 市町村</label>
       <select id="f-muni"><option value="">All</option></select>
@@ -75,7 +83,7 @@
           integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script>
-    const map = L.map('map').setView([39.5, 141.4], 8);
+    const map = L.map('map').setView([39.8, 141.0], 7);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; OpenStreetMap contributors'
@@ -94,7 +102,7 @@
       const approx = p.geo_precision === 'municipality'
         ? '<div class="approx">Location approximate (municipality centroid — source published no address).</div>' : '';
       return `<div class="popup">
-        <h3>${esc(p.name)}</h3>
+        <h3>${p.jmh_id ? `<a href="p/${esc(p.jmh_id)}.html">${esc(p.name)}</a>` : esc(p.name)}</h3>
         <div class="meta">
           <span class="tag">${esc(p.designation)}</span>
           <span class="tag">${esc(p.category)}</span>
@@ -117,6 +125,7 @@
     }
 
     function render() {
+      const pref = document.getElementById('f-pref').value;
       const muni = document.getElementById('f-muni').value;
       const cat = document.getElementById('f-cat').value;
       const q = document.getElementById('f-q').value.trim().toLowerCase();
@@ -125,6 +134,7 @@
       const markers = [];
       for (const f of ALL) {
         const p = f.properties;
+        if (pref && p.pref !== pref) continue;
         if (muni && p.municipality !== muni) continue;
         if (cat && p.category !== cat) continue;
         if (q && !(p.name && p.name.toLowerCase().includes(q))) continue;
@@ -140,30 +150,50 @@
       document.getElementById('shown').textContent = shown.toLocaleString();
     }
 
-    fetch('../data/iwate.geojson')
+    // Rebuild the municipality dropdown based on the selected prefecture filter
+    function updateMuniDropdown() {
+      const pref = document.getElementById('f-pref').value;
+      const sel = document.getElementById('f-muni');
+      const prev = sel.value;
+      while (sel.options.length > 1) sel.remove(1);
+      const munis = new Set();
+      for (const f of ALL) {
+        if (!pref || f.properties.pref === pref) munis.add(f.properties.municipality);
+      }
+      [...munis].sort().forEach(v => {
+        const o = document.createElement('option');
+        o.value = v; o.textContent = v; sel.appendChild(o);
+      });
+      sel.value = (munis.has(prev) ? prev : '');
+    }
+
+    fetch('../data/all.geojson')
       .then(r => r.json())
       .then(fc => {
         ALL = fc.features;
-        const munis = new Set(), cats = new Set();
+        const cats = new Set();
         let approx = 0;
         for (const f of ALL) {
-          munis.add(f.properties.municipality);
           cats.add(f.properties.category);
           if (f.properties.geo_precision === 'municipality') approx++;
         }
-        populate(document.getElementById('f-muni'), [...munis]);
+        updateMuniDropdown();
         populate(document.getElementById('f-cat'), [...cats]);
         document.getElementById('total').textContent = ALL.length.toLocaleString();
         document.getElementById('grand').textContent = ALL.length.toLocaleString();
         document.getElementById('approxnote').textContent =
           approx + ' point(s) are municipality-approx.';
+        document.getElementById('f-pref').addEventListener('input', () => {
+          updateMuniDropdown();
+          render();
+        });
         for (const el of ['f-muni', 'f-cat', 'f-q'])
           document.getElementById(el).addEventListener('input', render);
         render();
       })
       .catch(e => {
         document.getElementById('panel').insertAdjacentHTML('beforeend',
-          '<p style="color:#c00">Could not load data/iwate.geojson. Run <code>python3 site/build_data.py</code> first, and serve the repo root over http (e.g. <code>python3 -m http.server</code>).</p>');
+          '<p style="color:#c00">Could not load data/all.geojson. Run <code>python3 site/build_data.py</code> first, and serve the repo root over http (e.g. <code>python3 -m http.server</code>).</p>');
       });
   </script>
 </body>

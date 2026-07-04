@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>遠藤家資料・中島家資料 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>遠藤家資料・中島家資料</h1>
+    <p class="jmh-id">JMH-042064-0018</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>宮城県</dd>
+      <dt>市町村</dt><dd>白石市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>美術工芸品</dd>
+      <dt>指定年月日</dt><dd>2011-03-11</dd>
+      <dt>所在地</dt><dd>宮城県白石市益岡町2-7</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数: 約6000点 / 所有者等: 個人 / 伊達輝宗の重臣であった遠藤基信から代々遠藤家に伝わるものと、伊達晴宗の時に伊達氏に仕え、後に一族の家格までになった中島家の文書群です。 / 遠藤家資料・中島家資料は、伊達輝宗の重臣であった遠藤基信から代々遠藤家に伝わるものと、伊達晴宗の時に伊達氏に仕え、後に一族の家格までになった中島家の文書群です。この文書群は戦国期だけにとどまらず、中世や、近世、近代の文書まであり、総数6000点以上におよびます。この文書群の中心的な存在となる遠藤基信は、伊達氏の外交役を担っていたため、会津の蘆名氏をはじめとする伊達氏を取り巻く周辺の大名から、遠藤基信宛に書状が届いており、伊達輝宗時代の南奥羽の情勢をうかがい知ることができる貴重な資料です。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://miyagi.dataeye.jp/resources/1189" target="_blank" rel="noopener">https://miyagi.dataeye.jp/resources/1189</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"遠藤家資料・中島家資料" (JMH-042064-0018), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.000767, 140.618042], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.000767, 140.618042]).addTo(m);
+  </script>
+</body>
+</html>

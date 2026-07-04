@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>貞享特令写 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>貞享特令写</h1>
+    <p class="jmh-id">JMH-042030-0015</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>宮城県</dd>
+      <dt>市町村</dt><dd>塩竈市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡・典籍</dd>
+      <dt>指定年月日</dt><dd>2018-09-01</dd>
+      <dt>所在地</dt><dd>宮城県塩竈市旭町4番1号 東園寺</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数: 1巻 / 所有者等: 志波彦神社鹽竈神社 / 神仏への信仰が厚く、鹽竈神社を深く崇敬していた仙台藩第4代藩主伊達綱村（肯山）は、御舟入堀の完成などにより経済情勢が悪化していた門前町塩竈を救うため、貞享2年（1685）に9箇条からなる塩竈振興令を発しました。「貞享特令」と呼ばれるこの振興令は、年250両に及ぶ金子の下賜や年貢の免除、商人荷物・魚・材木などを積んだ舟は必ず塩竈へ入港するよう定めたことなど、異例と言える内容で、衰退していた塩竈が息を吹き返す契機となりました。綱村の死後、塩竈の人々は東園寺に位牌をまつって命日前日に毎年法要を続けるとともに、「肯山講」という組織を作って塩竈発展のための様々な活動に取り組みました。本資料は、弘化4年（1847）頃、塩竈出身で仙台四大画家の一人である小池曲江が貞享特令の全文を写し取ったものです。伊達綱村の300年遠忌に合わせ、塩竈市の有形文化財に指定されました。平成30年10月1日指定。年代：弘化4年（1847）頃。収蔵場所：鹽竈神社博物館 塩竈市一森山1-1。見学可（年中無休、8：30開館、閉館時刻は時期によって変更あり）</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://miyagi.dataeye.jp/resources/866" target="_blank" rel="noopener">https://miyagi.dataeye.jp/resources/866</a><br>
+      形式: csv &middot; 取得日: 2026-07-03</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"貞享特令写" (JMH-042030-0015), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-03.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.315834, 141.020508], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.315834, 141.020508]).addTo(m);
+  </script>
+</body>
+</html>
