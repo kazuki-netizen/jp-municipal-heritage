@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>大間越関所跡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>大間越関所跡</h1>
+    <p class="jmh-id">JMH-023230-0019</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>青森県</dd>
+      <dt>市町村</dt><dd>深浦町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>記念物</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1976-12-24</dd>
+      <dt>所在地</dt><dd>大間越字山科</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>慶長8年(1603年)津軽藩と秋田藩の国境の画定が行われ、大間越に関所が設置されるようになった。碇ケ関、野内とともに津軽三関の一つとして国境警備の大きな役割を果たした。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.fukaura.lg.jp/doc/2022120100031/file_contents/2022120100031_fixed_docs_2022120100031_file_contents_2022.pdf" target="_blank" rel="noopener">https://www.town.fukaura.lg.jp/doc/2022120100031/file_contents/2022120100031_fixed_docs_2022120100031_file_contents_2022.pdf</a><br>
+      形式: pdf &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"大間越関所跡" (JMH-023230-0019), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([40.467773, 139.946548], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([40.467773, 139.946548]).addTo(m);
+  </script>
+</body>
+</html>

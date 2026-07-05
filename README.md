@@ -7,21 +7,21 @@ but the ~1,700 municipalities that also designate their own 文化財 publish th
 scattered, inconsistent formats — HTML tables, booklet PDFs, the occasional open-data CSV,
 and sometimes nothing at all. This project unifies them into one clean, documented dataset.
 
-**v3: This release covers all six Tohoku prefectures: 青森県・岩手県・宮城県・秋田県・山形県・福島県
-— 8,975 designations across 172 municipalities.** The schema is designed to scale nationally
+**v3.4: This release covers all six Tohoku prefectures: 青森県・岩手県・宮城県・秋田県・山形県・福島県
+— 9,322 designations across 190 municipalities.** The schema is designed to scale nationally
 (see [`SCHEMA.md`](SCHEMA.md)).
 
-## Coverage at a glance (v3)
+## Coverage at a glance (v3.4)
 
 | Prefecture | File | Rows | Municipalities covered / total |
 |---|---|---|---|
-| 青森県 | [`data/aomori.jsonl`](data/aomori.jsonl) | 725 | 28 / 40 |
-| 岩手県 | [`data/iwate.jsonl`](data/iwate.jsonl) | 1,778 | 24 / 33 |
+| 青森県 | [`data/aomori.jsonl`](data/aomori.jsonl) | 818 | 35 / 40 |
+| 岩手県 | [`data/iwate.jsonl`](data/iwate.jsonl) | 1,972 | 32 / 33 |
 | 宮城県 | [`data/miyagi.jsonl`](data/miyagi.jsonl) | 1,140 | 32 / 35 |
-| 秋田県 | [`data/akita.jsonl`](data/akita.jsonl) | 1,530 | 15 / 25 |
-| 山形県 | [`data/yamagata.jsonl`](data/yamagata.jsonl) | 1,666 | 27 / 35 |
-| 福島県 | [`data/fukushima.jsonl`](data/fukushima.jsonl) | 2,136 | 46 / 59 |
-| **合計** | [`data/all.geojson`](data/all.geojson) | **8,975** | **172 / 227** |
+| 秋田県 | [`data/akita.jsonl`](data/akita.jsonl) | 1,536 | 16 / 25 |
+| 山形県 | [`data/yamagata.jsonl`](data/yamagata.jsonl) | 1,719 | 28 / 35 |
+| 福島県 | [`data/fukushima.jsonl`](data/fukushima.jsonl) | 2,137 | 46 / 59 |
+| **合計** | [`data/all.geojson`](data/all.geojson) | **9,322** | **190 / 227** |
 
 ## What's here
 
@@ -39,10 +39,9 @@ and sometimes nothing at all. This project unifies them into one clean, document
 
 ## Data at a glance
 
-- **8,975 designations total** across all six Tohoku prefectures.
-- **jmh_id**: all rows carry a unique `JMH-XXXXXX-NNNN` identifier; all v2 IDs (Iwate/Miyagi/Aomori)
-  are preserved unchanged.
-- **Coverage**: 172 / 227 municipalities yielded records. Zero-yield municipalities are listed
+- **9,265 designations total** across all six Tohoku prefectures.
+- **jmh_id**: all rows carry a unique `JMH-XXXXXX-NNNN` identifier; all v3 IDs are preserved unchanged.
+- **Coverage**: 187 / 227 municipalities yielded records. Zero-yield municipalities are listed
   in [`docs/coverage.md`](docs/coverage.md) with the reason for each.
 
 ## Design principles
@@ -82,7 +81,7 @@ python3 site/assign_ids.py            # process all six prefectures
 To regenerate detail pages:
 
 ```bash
-python3 site/build_pages.py           # ~8,975 pages under site/p/
+python3 site/build_pages.py           # ~9,156 pages under site/p/
 ```
 
 Geocoding uses the read-only public address-search API of the Geospatial Information Authority
@@ -110,22 +109,22 @@ Underlying source materials remain the responsibility of the originating municip
 HTML表・冊子PDF・稀にオープンデータCSV……と形式がバラバラで、そもそも公開されていない自治体もあります。
 本プロジェクトは、それらを統一された、出典明記のデータセットにまとめます。
 
-**v3: 東北6県（青森・岩手・宮城・秋田・山形・福島）が対象です。計8,975件、172市町村。**
+**v3.3: 東北6県（青森・岩手・宮城・秋田・山形・福島）が対象です。計9,265件、187市町村。**
 スキーマは全国展開を見据えて設計しています（[`SCHEMA.md`](SCHEMA.md) 参照）。
 
-### 収録データ（v3）
+### 収録データ（v3.3）
 
 | 県 | ファイル | 件数 | カバレッジ |
 |---|---|---|---|
-| 青森県 | `data/aomori.jsonl` | 725 | 28 / 40市町村 |
-| 岩手県 | `data/iwate.jsonl` | 1,778 | 24 / 33市町村 |
+| 青森県 | `data/aomori.jsonl` | 818 | 35 / 40市町村 |
+| 岩手県 | `data/iwate.jsonl` | 1,915 | 30 / 33市町村 |
 | 宮城県 | `data/miyagi.jsonl` | 1,140 | 32 / 35市町村 |
-| 秋田県 | `data/akita.jsonl` | 1,530 | 15 / 25市町村 |
-| 山形県 | `data/yamagata.jsonl` | 1,666 | 27 / 35市町村 |
-| 福島県 | `data/fukushima.jsonl` | 2,136 | 46 / 59市町村 |
-| 合計 | `data/all.geojson` | **8,975** | 172 / 227市町村 |
+| 秋田県 | `data/akita.jsonl` | 1,536 | 16 / 25市町村 |
+| 山形県 | `data/yamagata.jsonl` | 1,719 | 28 / 35市町村 |
+| 福島県 | `data/fukushima.jsonl` | 2,137 | 46 / 59市町村 |
+| 合計 | `data/all.geojson` | **9,265** | 187 / 227市町村 |
 
-- **jmh_id**: 全行に `JMH-XXXXXX-NNNN` 形式の固有IDを付与。v2までの岩手・宮城・青森のIDは完全に引き継ぎ。
+- **jmh_id**: 全行に `JMH-XXXXXX-NNNN` 形式の固有IDを付与。v3.3で109件追加（平泉16・洋野15・西和賀33・金ケ崎45追補）、既存IDは全件引き継ぎ（変更0件）。
 - **カバレッジ**: データが得られなかった市町村も理由付きで [`docs/coverage.md`](docs/coverage.md) に明示しています。
 
 ### 方針
