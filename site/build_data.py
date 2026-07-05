@@ -34,7 +34,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "site", "geocode_cache.json")
 
-PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido"]
 
 COLUMNS = [
     "pref", "municipality", "name", "category", "subcategory",
@@ -45,8 +45,10 @@ COLUMNS = [
 GSI_URL = "https://msearch.gsi.go.jp/address-search/AddressSearch"
 DELAY_SEC = 0.5  # polite delay between geocode requests
 
-# Generous Tohoku bounding box (lat N, lon E) — covers all 6 prefectures
-BBOX = {"lat_min": 36.7, "lat_max": 41.7, "lon_min": 139.1, "lon_max": 142.2}
+# Generous bounding box (lat N, lon E) — covers all 6 Tohoku prefectures + Hokkaido.
+# Tohoku:  lat 36.7–41.7 N, lon 139.1–142.2 E
+# Hokkaido: lat 41.3–45.6 N, lon 139.2–146.0 E  (overlap at ~41.3–41.7 handled by union)
+BBOX = {"lat_min": 36.7, "lat_max": 45.6, "lon_min": 139.1, "lon_max": 146.0}
 
 
 def load_rows(pref):

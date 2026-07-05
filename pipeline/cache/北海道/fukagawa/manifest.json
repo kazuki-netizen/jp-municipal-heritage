@@ -1,0 +1,18 @@
+{
+  "04742063260d3c6a": {
+    "url": "https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html",
+    "filename": "04742063260d3c6a.html",
+    "sha256": "b605ad0a7dcde5ec2d08a3451d8474f9f4f87d707b02b3e454f3cc6693f47b71",
+    "fetched_at": "2026-07-05T14:09:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6690b10b6ffabd57": {
+    "url": "https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000ls03.html",
+    "filename": "6690b10b6ffabd57.html",
+    "sha256": "a117f15a42216f609eafe411fcd8fc64ab4351e1d21d9e3f4c0fef0b8c2f46a3",
+    "fetched_at": "2026-07-05T14:09:47Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

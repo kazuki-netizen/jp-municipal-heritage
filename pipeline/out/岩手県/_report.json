@@ -1,0 +1,33 @@
+{
+  "batch_id": "msgbatch_01UrZBwTLG2qFEtyvKtJFHGX",
+  "municipalities": {
+    "yamada": {
+      "status": "succeeded",
+      "rows": 7,
+      "stated_official_count": 7,
+      "official_count_source": 7,
+      "notes": "岩手県指定（タブノキ自生地、船越海岸、臥竜梅、房の沢古墳群出土品、山田の神幸行事）は対象外のため除外。町指定の合計は原文の表で7件と記載されている。"
+    },
+    "kamaishi": {
+      "status": "succeeded",
+      "rows": 68,
+      "stated_official_count": null,
+      "official_count_source": 68,
+      "notes": "すべて市指定文化財。国・県指定の記載はなし。件数の明示なし。"
+    },
+    "yahaba": {
+      "status": "succeeded",
+      "rows": 40,
+      "stated_official_count": null,
+      "official_count_source": 40,
+      "notes": "国指定（徳丹城跡）および県指定（藤沢狄森古墳、藤沢狄森古墳群出土品、徳丹城跡出土品）は除外した。指定年月日・所在地の記載は原文になし。件数の明記もなし。"
+    },
+    "ninohe": {
+      "status": "succeeded",
+      "rows": 73,
+      "stated_official_count": null,
+      "official_count_source": 73,
+      "notes": "国指定・国選定・国登録・県指定は除外した。市指定文化財のみ全件抽出。指定年月日・所在地は原文に記載がないため全てnull。似鳥のサイトギは市指定欄に記載があったため含めた。"
+    }
+  }
+}

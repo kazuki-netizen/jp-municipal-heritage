@@ -1,0 +1,18 @@
+{
+  "b8c6ef8c641cc237": {
+    "url": "https://jmapps.ne.jp/matsumae01/",
+    "filename": "b8c6ef8c641cc237.html",
+    "sha256": "f44e4eebd9fd9b42a0113e6f3824b0e23b48aab80600ab291b107e66dc20268b",
+    "fetched_at": "2026-07-05T14:09:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "61fffdbd080671c2": {
+    "url": "https://www.town.matsumae.hokkaido.jp/bunkazai/",
+    "filename": "61fffdbd080671c2.html",
+    "sha256": "30c16fb7c62f1484b4f2d153d2808c145ba8d588936e08a68202305cd89a7fae",
+    "fetched_at": "2026-07-05T14:09:53Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

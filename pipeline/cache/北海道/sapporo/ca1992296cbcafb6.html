@@ -1,0 +1,707 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="keywords" content="文化財データベース,札幌市" />
+
+<meta name="description" content="札幌市の文化財データベースです" />
+
+<meta name="referrer" content="origin"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=4.0, user-scalable=yes">
+
+<title>検索結果一覧 | 文化財データベース | 札幌市</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/common/func/import.css?v=1213a" />
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/common/list.css?v=1213a" />
+
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/design/SIM003BLA.css" />
+
+<link rel=stylesheet type="text/css" href="./font-awesome-4.6.3/css/font-awesome.css" media="screen, print">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/common/func/old_ie.css" />
+<script type="text/javascript" src="ver_2/website00/js/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="ver_2/website00/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="ver_2/website00/js/common.js?v=106f"></script>
+
+<script type="text/javascript" src="ver_2/website00/js/jquery/jquery.leanModal.min.js"></script>
+
+<script type="text/javascript" src="ver_2/website00/js/jquery/ofi.min.js"></script>
+
+
+
+<style type="text/css">
+<!--
+
+-->
+</style>
+
+<style type="text/css">
+<!--
+body.FOR001 #areaContents,
+html:not(.FOR001) {
+}
+body.FOR001 #areaContents,
+html:not(.FOR001) {
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-repeat:repeat;
+	
+}
+
+/*サイト幅*/
+body.SIM003 header,
+body.SIM003 .wrapper-contents,
+body.SIM003 footer,
+body.FOR001 #header,
+body.FOR001 #footer,
+body.FOR001 .wrapper-contents,
+body:not(.FOR001):not(.SIM003):not(.ELE001) #wrapperAll {
+	width:95%;
+}
+
+/* 画像クロップ */
+
+ul.type-pict li dl img {
+
+}
+ul.type-mix li img {
+}
+
+canvas#model_canvas,
+iframe#videoYoutubeIframe,
+#blockPhoto img#pict,
+#blockPhoto img#bookpict{
+/* 初期値 幅:360px×高:300px はdet.css で定義 */
+			height:300px;
+	
+	width:360px;
+}
+
+
+#blockPhoto {
+	width:360px;
+
+}
+
+canvas#model_canvas,
+#blockPhoto img#pict,
+#blockPhoto img#bookpict{
+	object-fit:contain;
+  	font-family: 'object-fit: contain;'
+}
+
+
+
+-->
+</style>
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 770px)" href="ver_2/website00/css/design/theme/sp/sim003_sp.css?v=1213a">
+<script type="text/javascript" src="ver_2/website00/js/sp.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 430px)" href="ver_2/website00/css/common/func/det_pict_sp.css?v=202210
+31a">
+
+
+
+<script type="text/javascript">
+ 	var defaultValue = "";
+	//var isCrop = "";
+	var isResponsive = "1";
+	var listType = "LLA";
+	var themeId = "SIM003";
+</script>
+
+<script type="text/javascript">
+<!--
+function sw_page(p) {
+	document.search.page.value = p;
+	$("#listResultNaviCategory").val('f11');
+	document.search.submit();
+}
+
+function quick_sort(item) {
+	// #991
+	var sort_type = 'asc';
+	var sort_field = 'f11';
+	var direction = 'asc';
+	if (sort_field == item && sort_type == 'asc') direction = 'desc';
+	$('#listResultNaviCategory').val(item);
+	document.search.sort_type.value = direction;
+	document.search.submit();
+}
+
+function locate_by_order() {
+	if ($('#listResultNaviCategory').val() == '') return;
+
+    var asc_or_desc = "asc";
+    if ($('#listResultNaviCategory option:selected').hasClass("desc")) {
+        asc_or_desc = "desc";
+    }
+
+	document.search.sort_type.value = asc_or_desc;
+	document.search.submit();
+}
+
+function change_list_count() {
+	$("#listResultNaviCategory").val('f11');
+	document.search.page.value = 1;
+	document.search.submit();
+}
+
+function locate_by_list(list_type) {
+	document.search.list_type.value = list_type;
+	document.search.btn_list_type.value = "yes";
+	document.search.submit();
+}
+function popup_pict_view(data_id, shiryo_data_id) {
+	window.open("pictview.html?data_id="+data_id+"&shiryo_data_id="+shiryo_data_id, "_blank", "width=700px,height=500px");
+}
+
+-->
+</script>
+
+<script type="text/javascript">
+$(function(){
+	$(".menu").click(function(e) {
+		window.location.href = "./det.html?data_id=" + $(this).find("input[type=hidden]").val();
+		e.preventDefault();
+    });
+});
+
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $('.accordion_head').click(function() {
+        $(this).next().slideToggle();
+		$(this).toggleClass("open");
+    }).next().hide();
+});
+</script>
+
+
+<meta property="og:locale" content="ja_JP">
+
+
+<meta property="og:site_name" content="札幌市 - 文化財データベース">
+<meta property="og:title" content="検索結果一覧 | 文化財データベース | 札幌市">
+<meta property="og:url" content="https://jmapps.ne.jp/sapporo_bunka/">
+
+<meta property="og:type" content="article">
+
+<meta property="og:description" content="札幌市の文化財データベースです">
+
+<meta property="og:image" content="">
+<meta name="twitter:card" content="summary_large_image">
+
+
+</head>
+
+<body id="list" class="SIM003 SIM003BLA ja responsive">
+
+
+
+
+<div id="wrapperAll" class="LLA">
+
+	  
+
+	<header id="header">
+		<hgroup id="headerTop">
+			<h1 id="siteId"><a href="./index.html" target="_self" rel="noopener noreferrer"><img src="./opt_img/6990/header_image1.png" alt="札幌市　文化財データベース" /></a></h1>
+			<h2 id="siteOutline" class="clearTxt">札幌市</h2>
+		</hgroup>
+        
+		
+
+
+    
+    
+	
+
+
+
+<script type="text/javascript">
+<!--
+	$(function(){
+	    $('a[rel*=popup_optional_contents2]').leanModal({closeButton: ".modal_close" });
+	});
+-->
+</script>
+
+<div id="popup_optional_contents2" class="popup_optional_contents">
+	<div id="wrap">
+        <div id="popup-header">
+            <h2></h2>
+            <a class="modal_close" id="modal_close" href="#" onclick="javascript:clear_selected_bunrui()"></a>
+        </div><!--/#popup-header -->
+        <div id="popup-body">
+			<table border="0" cellpadding="0" cellspacing="10" style="border-image:none; border:1px solid rgb(179, 179, 179); margin-bottom:10px; padding:10px; width:100%">
+	<tbody>
+		<tr>
+			<td><br>
+			  ・キーワード検索のカナ、記号、英数は、全角・半角を区別して入力ください 。<br>
+			  ・本サイトで紹介する建造物等は、一般に公開されているものを除き、内部の観覧や敷地への立ち入りは出来ません。 <br>
+			  ・郷土資料館収蔵品を閲覧希望する場合、事前に名称等を郷土資料館までお伝えいただいた上で、ご来館いただけると、<br>
+			  　お待たせする時間が少なくなります。  各郷土資料館の連絡先は<a href="http://www.city.sapporo.jp/shimin/bunkazai/kyoudoshiryoukan.html">こちら</a>です。 <br>
+			  </td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:12px">【問い合わせ先】札幌市市民文化局文化部文化財課   〒060-0001 札幌市中央区北１条西２丁目札幌時計台ビル10階   TEL:011-211-2312   FAX:011-218-5157</span></p>
+
+<p><span style="font-size:12px">【ご利用上の注意】本データベースのテキスト・画像の無断での転用・転載・加工等の行為を固く禁じます。</span></p>
+        </div>
+    </div>
+</div><!--/#modal_message -->
+
+		<div class="wrapper">
+		</div><!-- /.wrapper-->
+	</header>
+
+
+<script type="text/javascript">
+	var color = $('#headerTop p').css('color');
+	$('#header_opt_contents_1').css('color', color);
+	$('#header_opt_contents_2').css('color', color);
+	$('#header_opt_anchor_1').css('color', color);
+	$('#header_opt_anchor_2').css('color', color);
+	$('#blockFontSize').css('color', color); //#990
+	$('#fsdcl_small').css('color', color); //#990
+	$('#fsdcl_standard').css('color', color); //#990
+	$('#fsdcl_large').css('color', color); //#990	
+</script>
+
+	<div id="areaContents">
+	<article class="wrapper-contents">
+
+		<form action="./list.html" method="get" name="search">
+			
+															<input type="hidden" id="is_pub_mode" name="is_pub_mode" value="1" />
+																		<input type="hidden" id="museum_sub_domain" name="museum_sub_domain" value="sapporo_bunka" />
+									<input type="hidden" id="hlvl" name="hlvl" value="1" />
+			<input type="hidden" id="bunrui" name="bunrui" value="0" />
+
+						<input type="hidden" id="uni_museum" name="uni_museum" value="" />
+			
+						<input type="hidden" id="attach_img" name="attach_img" value="" />
+						<input type="hidden" id="keywords" name="keywords" value="" />
+            <input type="hidden" id="kwd_and_or" name="kwd_and_or" value="or" />
+			<input type="hidden" id="search_type" name="search_type" value="keyword" />
+			<input type="hidden" id="sort_type" name="sort_type" value="asc" />
+			<input type="hidden" id="page" name="page" value="1" />
+			<input type="hidden" id="list_type" name="list_type" value="LLA" />
+			<input type="hidden" id="btn_list_type" name="btn_list_type" value="yes" />
+			<input type="hidden" id="list_count" name="list_count" value="10" />
+
+			<input type="hidden" id="title_query" name="title_query" value="no" />
+
+            <section id="blockUpper">
+				
+
+
+<nav id="panList">
+	<ul>
+    	<li><a href="./index.html" id="panListHome"><i class="fa fa-home"></i>検索トップ</a></li>
+	        <li><strong>検索結果一覧</strong></li>
+    
+	    </ul>
+</nav><!--/panList -->
+
+				
+				<article id="blockOption">
+                    <p id="msgHitCnt">検索条件[なし]で10890件ヒット<span>しました</span>。 1件目～10件目<span>を表示しています</span>。</p>
+
+                        <div class="wrapper">
+
+                            <div id="blockSort">
+                            	<!--並べ替え -->
+								<label for="listResultNaviCategory">並べ替え</label>
+                                <select name="sort_field" id="listResultNaviCategory" onchange="locate_by_order();">
+                                	<option value=""><span class="default">並べ替え</span>&nbsp;</option>
+                                    <option value="title" class="asc"  ><span class="default">名称 昇順</span>&nbsp;</option>
+                                    <option value="title" class="desc" ><span                >名称 降順</span>&nbsp;</option>
+                                                                    <option value="f11" class="asc"  selected>分類 昇順&nbsp;</option>
+                                    <option value="f11" class="desc" >分類 降順&nbsp;</option>
+                                                                    <option value="f5" class="asc"  >ふるさと文化百選区分 昇順&nbsp;</option>
+                                    <option value="f5" class="desc" >ふるさと文化百選区分 降順&nbsp;</option>
+                                                                    <option value="f6" class="asc"  >文化財指定区分 昇順&nbsp;</option>
+                                    <option value="f6" class="desc" >文化財指定区分 降順&nbsp;</option>
+                                                                    <option value="f3" class="asc"  >郷土資料館 昇順&nbsp;</option>
+                                    <option value="f3" class="desc" >郷土資料館 降順&nbsp;</option>
+                                                                    <option value="f4" class="asc"  >郷土資料館分類 昇順&nbsp;</option>
+                                    <option value="f4" class="desc" >郷土資料館分類 降順&nbsp;</option>
+                                                                </select>
+                        	</div><!--/blockSort -->
+
+						                            <p id="changeCnt">
+								<label for="list_count">表示件数</label>
+                            	<select id="list_count" name="list_count" onChange="change_list_count()">
+								                                                                    <option id="list_count5" value="5">5</option>
+                                                                    <option id="list_count10" value="10" selected>10</option>
+                                                                    <option id="list_count20" value="20">20</option>
+                                                                    <option id="list_count50" value="50">50</option>
+                                                                    <option id="list_count100" value="100">100</option>
+                                                                </select>件ずつ表示                            </p><!--/changeCnt -->
+                        
+                            <ul id="changeListType">
+                                <li id="btnLLC" class="link-on"><a href="javascript:locate_by_list('LLC')">文字画像一覧</a></li>
+                                <li id="btnLLG"><a href="javascript:locate_by_list('LLG')">画像一覧</a></li>
+                                <li id="btnLLM"><a href="javascript:locate_by_list('LLM')">文字一覧</a></li>
+                            </ul><!--/changeListType -->
+                        
+                            <nav id="navPager">
+                            	<!--ページめくりボタン -->
+                                <ul>
+                                    <li id="navFirst" class="no-link"><a href="javascript:sw_page(1)"><span class="arrow">&#171;</span>最初&nbsp;</a></li><li id="navPrev" class="no-link"><a href="javascript:sw_page(1)"><span class="arrow">&#139;</span>前へ&nbsp;</a></li><li id="nowPage">1<span>/</span>1089</li><li id="navNext"><a href="javascript:sw_page(2)">&nbsp;&nbsp;次へ<span class="arrow">&#155;</span></a></li><li id="navLast"><a href="javascript:sw_page(1089)">&nbsp;&nbsp;最後<span class="arrow">&#187;</span></a></li>                                </ul>
+                            </nav><!--/navPager -->
+                         </div><!--/wrapper -->
+
+                 </article><!--/blockOption -->
+
+            </section><!--/blockUpper -->
+
+			<section id="blockDoc">
+                 <article>
+
+
+                <div id="listResult">
+
+                
+<script type="text/javascript">
+$(function(){
+	var pict_w = 80;
+	var pict_h = 80;
+	
+
+	var txt_w = $('ul.type-mix dl').width();	//テキストエリアサイズ
+	listMix(pict_w, pict_h, txt_w);
+
+	
+	var timer = false;
+	$(window).resize(function() {
+		if (timer !== false) {
+			clearTimeout(timer);
+		}
+		timer = setTimeout(function() {
+			console.log('resized');
+		listMix(pict_w, pict_h, txt_w);
+		}, 200);
+	});
+
+	
+});
+</script>
+
+						<ul class="type-mix">
+                        
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8396&dt=20210226_3" alt="『旧札幌農学校演武場（時計台）』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5917">旧札幌農学校演武場（時計台）</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5917" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8398&dt=20210226_2" alt="『豊平館』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5918">豊平館</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5918" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8400&dt=20210226_2" alt="『八窓庵（旧舎那院忘筌）』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5919">八窓庵（旧舎那院忘筌）</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5919" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8402&dt=20210226_2" alt="『北海道庁旧本庁舎（赤れんが庁舎）』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5920">北海道庁旧本庁舎（赤れんが庁舎）</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5920" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8403&dt=20210226_2" alt="『北海道大学農学部（旧東北帝国大学農科大学）第二農場』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5921">北海道大学農学部（旧東北帝国大学農科大学）第二農場</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5921" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8404&dt=20210226_2" alt="『北海道大学農学部植物園・博物館』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5922">北海道大学農学部植物園・博物館</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5922" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8410&dt=20210226_2" alt="『旧開拓使工業局庁舎』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5923">旧開拓使工業局庁舎</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5923" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./pict.html?pict_size=m&data_id=8413&dt=20210308_3" alt="『旧札幌控訴院庁舎（札幌市資料館）』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5924">旧札幌控訴院庁舎（札幌市資料館）</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5924" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./ver_2/website00/cmn_img/no_image_m.jpg" alt="『太刀　銘国俊』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5925">太刀　銘国俊</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5925" />
+                                </div>
+                            </li>
+
+                            <li class="menu">
+
+								<div class="container">
+                                    <p>
+										<img src="ver_2/website00/cmn_img/copy_guard.png" class="gurd-dmy-img" alt="" />
+										<img src="./ver_2/website00/cmn_img/no_image_m.jpg" alt="『刀　無銘伝来国行』の画像" oncontextmenu="return false" />
+									</p>
+                                    <dl>
+                                        <dt><a href="./det.html?data_id=5926">刀　無銘伝来国行</a></dt>
+                                        <dd>
+                                            分類：01：指定・登録文化財<br />                                            文化財指定区分：国指定重要文化財<br />                                                                                </dd>
+                                    </dl><input type="hidden" value="5926" />
+                                </div>
+                            </li>
+
+						</ul>        
+                        
+
+                </div><!-- /listResult -->
+				
+                <nav id="navPager" class="block-bottom">
+                    <!--ページめくりボタン -->
+                    <ul>
+                        <li id="navFirst" class="no-link"><a href="javascript:sw_page(1)"><span class="arrow">&#171;</span>最初&nbsp;</a></li><li id="navPrev" class="no-link"><a href="javascript:sw_page(1)"><span class="arrow">&#139;</span>前へ&nbsp;</a></li><li id="nowPage">1<span>/</span>1089</li><li id="navNext"><a href="javascript:sw_page(2)">&nbsp;&nbsp;次へ<span class="arrow">&#155;</span></a></li><li id="navLast"><a href="javascript:sw_page(1089)">&nbsp;&nbsp;最後<span class="arrow">&#187;</span></a></li>                    </ul>
+                </nav><!--/navPager -->
+
+
+				</article>
+                
+				
+
+
+    
+
+                <div class="footer_opt_contents">
+					<table border="0" cellpadding="0" cellspacing="10" style="border-image:none; border:1px solid rgb(179, 179, 179); margin-bottom:10px; padding:10px; width:100%">
+	<tbody>
+		<tr>
+			<td><br>
+			  ・キーワード検索のカナ、記号、英数は、全角・半角を区別して入力ください 。<br>
+			  ・本サイトで紹介する建造物等は、一般に公開されているものを除き、内部の観覧や敷地への立ち入りは出来ません。 <br>
+			  ・郷土資料館収蔵品を閲覧希望する場合、事前に名称等を郷土資料館までお伝えいただいた上で、ご来館いただけると、<br>
+			  　お待たせする時間が少なくなります。  各郷土資料館の連絡先は<a href="http://www.city.sapporo.jp/shimin/bunkazai/kyoudoshiryoukan.html">こちら</a>です。 <br>
+			  </td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:12px">【問い合わせ先】札幌市市民文化局文化部文化財課   〒060-0001 札幌市中央区北１条西２丁目札幌時計台ビル10階   TEL:011-211-2312   FAX:011-218-5157</span></p>
+
+<p><span style="font-size:12px">【ご利用上の注意】本データベースのテキスト・画像の無断での転用・転載・加工等の行為を固く禁じます。</span></p>
+                </div><!--/.footer_opt_contents-->
+
+
+
+
+<script type="text/javascript">
+<!--
+	$(function(){
+	    $('a[rel*=popup_optional_contents2]').leanModal({closeButton: ".modal_close" });
+	});
+-->
+</script>
+
+<div id="popup_optional_contents2" class="popup_optional_contents">
+	<div id="wrap">
+        <div id="popup-header">
+            <h2></h2>
+            <a class="modal_close" id="modal_close" href="#" onclick="javascript:clear_selected_bunrui()"></a>
+        </div><!--/#popup-header -->
+        <div id="popup-body">
+			<table border="0" cellpadding="0" cellspacing="10" style="border-image:none; border:1px solid rgb(179, 179, 179); margin-bottom:10px; padding:10px; width:100%">
+	<tbody>
+		<tr>
+			<td><br>
+			  ・キーワード検索のカナ、記号、英数は、全角・半角を区別して入力ください 。<br>
+			  ・本サイトで紹介する建造物等は、一般に公開されているものを除き、内部の観覧や敷地への立ち入りは出来ません。 <br>
+			  ・郷土資料館収蔵品を閲覧希望する場合、事前に名称等を郷土資料館までお伝えいただいた上で、ご来館いただけると、<br>
+			  　お待たせする時間が少なくなります。  各郷土資料館の連絡先は<a href="http://www.city.sapporo.jp/shimin/bunkazai/kyoudoshiryoukan.html">こちら</a>です。 <br>
+			  </td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:12px">【問い合わせ先】札幌市市民文化局文化部文化財課   〒060-0001 札幌市中央区北１条西２丁目札幌時計台ビル10階   TEL:011-211-2312   FAX:011-218-5157</span></p>
+
+<p><span style="font-size:12px">【ご利用上の注意】本データベースのテキスト・画像の無断での転用・転載・加工等の行為を固く禁じます。</span></p>
+        </div>
+    </div>
+</div><!--/#modal_message -->
+                
+        		<p id="pageTop"><a href="#header">PageTop</a></p>
+                
+			</section><!--/blockDoc -->
+		</form>
+
+    </article><!--/wrapper-contents -->
+	</div><!-- /areaContents -->
+
+
+    
+
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/js/jquery/jquery.treeview.css" />
+<script type="text/javascript" src="ver_2/website00/js/jquery/jquery.treeview.js"></script>
+
+<script type="text/javascript">
+<!--
+	var isResponsive = "1";
+
+	function clear_selected_bunrui() {
+		var win_w = $(window).width();
+		document.getElementById('hlvl').value = "";
+		document.getElementById('bunrui').value = "";
+		$("div#selected_bunrui_name span").html(namePath.split('|').join(' > '));
+	  	
+		if (isResponsive == "1" && win_w <= 770) {
+			bunruiLabelOnOff();
+		}
+	}
+	function selectBunrui(hlvl, idPath, namePath){
+		document.getElementById('hlvl').value = hlvl;
+		document.getElementById('bunrui').value = idPath;
+		$("div#selected_bunrui_name span").html(namePath.split('|').join(' > '));
+		close_modal('#modal_message');
+	}
+	function close_modal(modal_id){
+		var win_w = $(window).width();
+		$("#lean_overlay").fadeOut(200);
+		$(modal_id).css({ 'display' : 'none' });
+		
+		if (isResponsive == "1" && win_w <= 770) {
+			bunruiLabelOnOff();
+		}
+	}
+	$(function(){
+	    $('a[rel*=leanModal]').leanModal({closeButton: ".modal_close" });
+	});
+	$(document).ready(function(){ $("#type_tree").treeview({ collapsed : true, animated : "fast" }); });
+-->
+</script>
+
+<div id="modal_message" style="display:none;" class="search_bunrui">
+	<div id="wrap">
+        
+        <div id="popup-header">
+            <h2><span>■</span>分類を選択してください</h2>
+            <a class="modal_close" id="modal_close" href="#" onclick="javascript:clear_selected_bunrui()"></a>
+        </div><!--/#popup-header -->
+        
+        <p class="msg">ボタンをクリックすると、その下の階層が展開します。</p>
+        
+        <div id="popup-body">
+                </div><!--/#popup-body -->
+    </div><!--/#wrap -->
+</div><!--/#modal_message -->
+    
+
+	
+<footer id="footer">
+	<div class="wrapper">
+		<a href="http://www.city.sapporo.jp/shimin/bunkazai/index.html" target='_blank'>札幌市役所市民文化局文化部文化財課ホームページ</a>
+
+       	<p>Powered By<strong>I.B.MUSEUM SaaS</strong></p>
+    
+	</div><!--/.wrapper -->
+</footer>
+</div><!-- /wrapperAll -->
+</body>
+</html>

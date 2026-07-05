@@ -1,0 +1,292 @@
+{
+  "batch_id": "msgbatch_015epr82nLkR5urTU9kHvvqR",
+  "municipalities": {
+    "hokkaido-otofuke-cho": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": 4,
+      "official_count_source": 4,
+      "notes": "平成12年3月に4件を町指定文化財に決定したと記載があるが、正確な指定年月日（月日）が不明のため designated_date は全て null とした。stated_official_count は原文の「4件を町指定文化財に」に基づく。"
+    },
+    "kaminokuni": {
+      "status": "succeeded",
+      "rows": 0,
+      "stated_official_count": null,
+      "official_count_source": null,
+      "notes": "原文には国指定（重要文化財旧笹浪家住宅、上之国館跡各遺跡、上國寺本堂、石崎漁港トンネル登録有形文化財）および北海道指定（上ノ國八幡宮本殿）の文化財の言及はあるが、上ノ国町の『町指定』文化財として具体的な名称・件数を列挙した記載は見当たらない。ナビゲーションに『町指定』というカテゴリーの語はあるが、その下の個別物件が原文中に明示されていないため、推測を避けて抽出対象なしとした。"
+    },
+    "kitami": {
+      "status": "succeeded",
+      "rows": 13,
+      "stated_official_count": 13,
+      "official_count_source": null,
+      "notes": "原文は北見市指定文化財第1号～第13号の13件を列挙。国指定史跡（常呂遺跡）、北海道指定天然記念物（温根湯エゾムラサキツツジ群落）は市町村指定でないため除外。指定年月日の記載はなくすべてnull。stated_official_countは第13号まで連番で列挙されていることから市指定13件と判断。"
+    },
+    "obihiro": {
+      "status": "succeeded",
+      "rows": 9,
+      "stated_official_count": null,
+      "official_count_source": 9,
+      "notes": "帯広市指定文化財の一覧ページのリンクタイトルから抽出。指定年月日・所在地・員数の記載は原文になくnull。国指定・道指定は別ページのため含めていない。"
+    },
+    "kushiro": {
+      "status": "succeeded",
+      "rows": 11,
+      "stated_official_count": 11,
+      "official_count_source": 12,
+      "notes": "原文は国指定・道指定を含め合計29件と記載。うち市指定は無形民俗文化財1件、史跡1件、天然記念物3件、有形文化財6件の計11件で、これらのみをrowsに抽出した。国指定・道指定は除外。"
+    },
+    "muroran": {
+      "status": "succeeded",
+      "rows": 14,
+      "stated_official_count": null,
+      "official_count_source": 11,
+      "notes": "国指定・登録の文化財（東蝦夷地南部藩陣屋跡、名勝ピリカノカ絵鞆半島外海岸、室蘭市旧室蘭駅舎）は除外した。市指定分は原文では見出し「市により指定された文化財」以下に列挙。件数の明記は無いためstated_official_countはnull。仙台藩角田領添田家関係資料は市指定で2件（民俗文化財と有形文化財）別々に記載されているため両方を行として抽出。名称のみ「有形文化財」となっている航空機エンジンは補足を付して抽出した。"
+    },
+    "hokkaido-akkeshi-cho": {
+      "status": "succeeded",
+      "rows": 23,
+      "stated_official_count": null,
+      "official_count_source": 17,
+      "notes": "原文は種別を大区分（天然記念物・史跡・重要文化財・有形文化財・無形文化財）の見出しで列挙。国指定と思われる『大黒島海鳥繁殖地（天然記念物）』『国泰寺跡（史跡）』『正行寺本堂・蝦夷三官寺国泰寺関係資料（重要文化財）』はrowsから除外した。指定年月日・所在地の記載は原文になくnull。天然記念物・史跡見出し内の各件が町指定か国指定かは明示されていないが、除外した著名な国指定物件以外を町指定として抽出した。"
+    },
+    "nemuro": {
+      "status": "succeeded",
+      "rows": 9,
+      "stated_official_count": null,
+      "official_count_source": 9,
+      "notes": "原文に列挙された市指定文化財9件をすべて抽出。件数の明記は原文になかったためstated_official_countはnull。和暦は西暦に変換した。"
+    },
+    "noboribetsu": {
+      "status": "succeeded",
+      "rows": 11,
+      "stated_official_count": 11,
+      "official_count_source": 11,
+      "notes": "国指定文化財（登別原始林・天然記念物、大正13年12月9日）は市町村指定でないため除外。市指定は原文番号1～11の11件を抽出。文化財指定第6号「札内神楽獅子舞」は平成25年に指定解除となったため現行の指定文化財に含めず除外した。categoryは原文に種別記載がないため名称・内容から推定分類、subcategoryは原文に種別語が明記されていないためnull。"
+    },
+    "matsumae": {
+      "status": "succeeded",
+      "rows": 0,
+      "stated_official_count": null,
+      "official_count_source": null,
+      "notes": "原文はデジタルアーカイブおよび文化財サイトのトップページ・利用案内であり、個別の町指定文化財の一覧・件数が明記されていない。検索カテゴリとして「町指定有形文化財」「町指定有形民俗文化財」「町指定無形民俗文化財」の分類名は存在するが、具体的な物件名・指定日・件数等の抽出可能なデータは含まれていないため、rowsは空とした。PICK UP欄の資料名（大館跡、薙刀 銘 堀井正次、土偶、百花図、獅子頭等）は掲載されているが、いずれも市町村指定であるとの明示がないため抽出対象外とした。"
+    },
+    "hokkaido-shiraoi-cho": {
+      "status": "succeeded",
+      "rows": 8,
+      "stated_official_count": 7,
+      "official_count_source": 7,
+      "notes": "原文に「国指定文化財2件 町指定文化財7件」と記載。国指定（白老仙台藩陣屋跡・アイヌ古式舞踊）は除外。伝統文化継承者一覧の各個人氏名は継承者一覧表の内訳であり、指定文化財の物件としては「白老町伝統文化継承者」1件として扱った。"
+    },
+    "nanae": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": 3,
+      "official_count_source": null,
+      "notes": "原文冒頭に「そのうち３件については町指定文化財として指定されています」とあるためstated_official_countは3としたが、実際には第1号から第4号まで4件が列挙されている。全4件を町指定として抽出した。指定理由に西暦・年月日の記載があるものは変換した。原文に種別（分類）の明記がないためsubcategoryはすべてnull。所在地の記載がないためlocationはすべてnull。"
+    },
+    "ebetsu": {
+      "status": "succeeded",
+      "rows": 7,
+      "stated_official_count": null,
+      "official_count_source": 7,
+      "notes": "江別市指定文化財のみを抽出。国指定（重要文化財・史跡）、北海道指定有形文化財、国登録有形文化財はrows対象外のため除外。指定年月日・所在地は原文に記載なしのためnull。"
+    },
+    "hokkaido-kamifurano-cho": {
+      "status": "succeeded",
+      "rows": 6,
+      "stated_official_count": null,
+      "official_count_source": 6,
+      "notes": "すべて町指定文化財。国・道指定は原文に個別記載なし。件数の明記もなし。"
+    },
+    "kuriyama": {
+      "status": "succeeded",
+      "rows": 0,
+      "stated_official_count": null,
+      "official_count_source": null,
+      "notes": "This page describes '栗山町ふるさと史跡' (hometown historic sites) — a set of 15 informational signboards installed in 2018 for tourism/education purposes about pioneer history. These are NOT designated cultural properties (指定文化財). There is no mention of 市指定/町指定/村指定 (or 国指定/県指定) cultural property designations, nor any designation dates or member counts as formal cultural property registrations. Therefore no rows qualify for extraction under the market/town/village designated cultural property criteria."
+    },
+    "hokkaido-nakashibetsu-cho": {
+      "status": "succeeded",
+      "rows": 1,
+      "stated_official_count": null,
+      "official_count_source": 1,
+      "notes": "登録有形文化財（建造物）：国 に該当する物件（旧北海道農事試験場根室支場農具庫、種苗倉庫、伝成館、緑ヶ丘分館、北村家住宅主屋）は国の登録文化財のためrowsから除外した。町指定は「蛙意匠の土器」1件のみ。原文に市町村指定の件数を明記する記載はなかったためstated_official_countはnull。"
+    },
+    "iwamizawa": {
+      "status": "succeeded",
+      "rows": 8,
+      "stated_official_count": null,
+      "official_count_source": 7,
+      "notes": "「こぶし焼き（保持者 山岡三秋）」は2000年に指定文化財解除されており過去に指定されていた文化財のため rows に含めていない。"
+    },
+    "hokkaido-takasu-cho": {
+      "status": "succeeded",
+      "rows": 2,
+      "stated_official_count": null,
+      "official_count_source": 2,
+      "notes": "原文に記載の鷹栖町指定文化財2件を抽出。件数の明記は無いためstated_official_countはnull。"
+    },
+    "wakkanai": {
+      "status": "succeeded",
+      "rows": 19,
+      "stated_official_count": 19,
+      "official_count_source": 19,
+      "notes": "原文は「国登録有形文化財1件、道指定文化財1件、市指定文化財が19件」と記載。道指定史跡「宗谷護国寺跡」および国登録有形「旧瀬戸邸」は除外し、市指定19件のみを抽出した。指定年月日の記載はないため全てnull。"
+    },
+    "hokkaido-mashike-cho": {
+      "status": "succeeded",
+      "rows": 31,
+      "stated_official_count": null,
+      "official_count_source": 31,
+      "notes": "国指定重要文化財（旧本間邸住宅）・道指定有形文化財（厳島神社本殿、厳島神社奉納絵馬7点）はrowsから除外した。町指定史跡は原文に「30か所」と記載があり全30件を抽出。無形文化財として雄冬神楽を抽出。史跡の所在地は原文に記載がないためlocationはnull。"
+    },
+    "hokkaido-teshikaga-cho": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": null,
+      "official_count_source": 4,
+      "notes": "国指定（重要無形民俗文化財アイヌ古式舞踊、天然記念物和琴ミンミンゼミ発生地、史跡釧路川流域チャシ跡群）は対象外のため除外。町指定4件を抽出。「無形文化財（民俗/郷土芸能）」の3件は郷土芸能のため無形民俗文化財の可能性もあるが、原文の大区分表記を踏まえcategoryは無形文化財とした。"
+    },
+    "oshamambe": {
+      "status": "succeeded",
+      "rows": 3,
+      "stated_official_count": null,
+      "official_count_source": 3,
+      "notes": "平成23年3月23日指定の3件を抽出。全て町指定。指定日は「平成23年3月23日指定」との記載から2011-03-23とした。所在地の記載なし。"
+    },
+    "tobetsu": {
+      "status": "succeeded",
+      "rows": 0,
+      "stated_official_count": null,
+      "official_count_source": null,
+      "notes": "原文は当別町公式サイトの「文化」ページのナビゲーション・新着情報一覧であり、個別の指定文化財の名称・種別・指定年月日等を列挙した一覧表は含まれていない。本文中に「トウベツアカマツセイウチ化石」を当別町文化財に指定したという記述があるが、指定年月日や員数などの詳細が原文に無く、指定文化財一覧としての構造化データを抽出できないため rows は空とした。"
+    },
+    "tomakomai": {
+      "status": "succeeded",
+      "rows": 6,
+      "stated_official_count": null,
+      "official_count_source": 6,
+      "notes": "国指定・北海道指定の文化財（静川遺跡、北海道大学苫小牧研究林森林記念館、開拓使三角測量勇払基点、樽前山熔岩円頂丘、アイヌ丸木舟及び推進具）はrowsから除外した。明治天皇行幸跡、開拓使美々鹿肉缶詰製造所跡、植苗貝塚、ユウフツ越え美々舟着場跡は指定区分の記載がないため除外した。指定年月日は原文に記載なくすべてnull。"
+    },
+    "esashi": {
+      "status": "succeeded",
+      "rows": 33,
+      "stated_official_count": 33,
+      "official_count_source": 33,
+      "notes": "原文には町指定（33件）とあり、実際に列挙された町指定物件は33件で一致。国指定2件・道指定12件はrowsから除外した。「来迎観音像（円空仏）」は同名で2件列挙されている。"
+    },
+    "abashiri": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": null,
+      "official_count_source": 4,
+      "notes": "国指定史跡・名勝・重要文化財、登録有形文化財はrowsに含めていない。市指定文化財は有形文化財3件・天然記念物1件の計4件。原文に市指定の件数明記なし。"
+    },
+    "fukushima": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": null,
+      "official_count_source": 6,
+      "notes": "国指定重要無形民俗文化財（松前神楽）および北海道指定有形文化財（宮歌村文書）は市町村指定でないため除外。松前神楽は町指定無形文化財の記載もあるが（昭和27年）、その後道・国指定へ移行しており、現在の福島町指定文化財一覧には含まれていないため除外した。件数の明示的記載は原文になし。"
+    },
+    "shibetsu": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": null,
+      "official_count_source": 4,
+      "notes": "原文の表に記載された市指定文化財4件をすべて抽出。指定年月日は平成17年9月1日→2005-09-01に変換。件数の明記は原文になし。"
+    },
+    "yubari": {
+      "status": "succeeded",
+      "rows": 5,
+      "stated_official_count": null,
+      "official_count_source": 5,
+      "notes": "このページは夕張市の市指定有形文化財のみを掲載。全5件を抽出。国指定・県指定の記載はなし。件数の明記もなし。"
+    },
+    "sapporo": {
+      "status": "succeeded",
+      "rows": 11,
+      "stated_official_count": null,
+      "official_count_source": null,
+      "notes": "国指定・道指定は除外し、市指定のみを抽出。「札幌村・大友亀太郎関係歴史資料及び史跡」は有形文化財及び史跡の複合区分のため、代表分類として有形文化財を採用しsubcategoryに原文表記を保持した。原文には市町村指定の件数明記がないためstated_official_countはnull。"
+    },
+    "hakodate": {
+      "status": "succeeded",
+      "rows": 91,
+      "stated_official_count": 91,
+      "official_count_source": 91,
+      "notes": "函館市指定文化財（91件）と明記されているが、抽出できた市指定件数は88件。国指定18件・国選定1件・国登録21件・北海道指定19件はrowsから除外した。彫刻の「伝目定作　釈迦如来坐像」は同名2件が同日指定で存在するためdescriptionで区別した。指定年月日は和暦をISO変換。年のみ等の欠損は該当なし。"
+    },
+    "otaru": {
+      "status": "succeeded",
+      "rows": 11,
+      "stated_official_count": null,
+      "official_count_source": 9,
+      "notes": "国指定・道指定・国登録の文化財はrowsから除外した。原文には市町村指定の件数明記が無いためstated_official_countはnull。"
+    },
+    "eniwa": {
+      "status": "succeeded",
+      "rows": 9,
+      "stated_official_count": null,
+      "official_count_source": 9,
+      "notes": "国指定文化財（カリンバ遺跡ほか）と北海道指定文化財（阿弥陀如来立像）は市町村指定ではないため除外した。恵庭市指定文化財のみを抽出。ダウンロードリストに「柏木B遺跡周堤墓出土品」の記載があるが、指定一覧表には「柏木B遺跡環状土籬出土品」とあるため一覧表の名称を採用した。"
+    },
+    "hokkaido-date-shi": {
+      "status": "succeeded",
+      "rows": 39,
+      "stated_official_count": null,
+      "official_count_source": 32,
+      "notes": "国指定史跡・国指定重要文化財・北海道指定有形文化財は除外した。市指定記念物は種別（天然記念物等）の明記が無いためsubcategoryはnull。"
+    },
+    "hokkaido-betsukai-cho": {
+      "status": "succeeded",
+      "rows": 16,
+      "stated_official_count": null,
+      "official_count_source": 16,
+      "notes": "町指定文化財の一覧を抽出。原文には種別・指定年月日・所在地・員数の記載がないため、これらはnull。categoryは名称から推定した（松・桜・楢・化石群など天然記念物、停留所・駅などの建造物・史跡、文書・仏像・奉安殿は有形文化財と判断）。原文に件数の明記はない。"
+    },
+    "ishikari": {
+      "status": "succeeded",
+      "rows": 10,
+      "stated_official_count": 10,
+      "official_count_source": 9,
+      "notes": "原文に「石狩市指定文化財は2025(令和7)年度時点で10件」と明記。全10件を抽出。subcategoryは原文に種別分類の語がないため全てnull。第6号は指定年月日が年月のみ（1981年12月）で日が不明のためnull。北海道指定・国指定はrowsに含めていない。"
+    },
+    "fukagawa": {
+      "status": "succeeded",
+      "rows": 8,
+      "stated_official_count": null,
+      "official_count_source": null,
+      "notes": "音江環状列石（ストーンサークル・昭和31年12月28日指定）は国指定史跡のため除外した。有形文化財ページと史跡ページから市指定分のみを抽出。原文に件数の明記はなかった。"
+    },
+    "furano": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": 4,
+      "official_count_source": 4,
+      "notes": "原文に「国の登録1件、市指定4件」とあり、市指定は4件。島田家住宅主屋は国登録有形文化財のため除外。第4号は名称が原文上「北大第八農場富良野成墾記念碑」と第3号と同名だが、本文の説明から山部神社境内の山部成墾記念碑であることが読み取れる。"
+    },
+    "rumoi": {
+      "status": "succeeded",
+      "rows": 5,
+      "stated_official_count": null,
+      "official_count_source": 6,
+      "notes": "国指定文化財（留萌のニシン漁撈用具、旧留萌佐賀家漁場）は対象外のため除外した。市指定の件数明記なしのため stated_official_count は null。星兜残欠・アトゥシは種別記載がないが物品性から有形文化財と判断した。"
+    },
+    "asahikawa": {
+      "status": "succeeded",
+      "rows": 13,
+      "stated_official_count": 13,
+      "official_count_source": 13,
+      "notes": "国指定文化財（アイヌ古式舞踊、旧旭川偕行社）、北海道指定文化財（神居古潭竪穴住居遺跡、屯田兵絵物語 附 屯田絵巻）、国の登録有形文化財（上川倉庫群ほか計16件）は対象外として除外した。旭川市が指定した文化財は原文で1～13の番号が付されているが、うち番号7・8は別物件（本体と追加分）のため各1行として計14行抽出。stated_official_countは原文の市指定番号最大値13を採用。"
+    },
+    "hokkaido-nayoro-shi": {
+      "status": "succeeded",
+      "rows": 4,
+      "stated_official_count": null,
+      "official_count_source": 4,
+      "notes": "名寄市指定文化財第1号〜第4号の4件を抽出。国指定文化財は別ページ扱いのため含めず。指定年月日は平成18年3月27日（名寄市としての指定）を採用し、旧市町時代の指定日はdescriptionに記載。"
+    }
+  }
+}

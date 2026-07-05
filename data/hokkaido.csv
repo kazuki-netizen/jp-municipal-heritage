@@ -1,0 +1,465 @@
+﻿pref,municipality,name,category,subcategory,designation,designated_date,location,description,source_url,source_format,fetched_at,jmh_id
+北海道,小樽市,日本銀行旧小樽支店,有形文化財,有形文化財（建造物）,市指定,2002-09-17,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0006
+北海道,小樽市,木造聖観音立像,有形文化財,有形文化財（美術工芸品・彫刻）,市指定,1999-11-03,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0004
+北海道,小樽市,西川家文書,有形文化財,有形文化財（美術工芸品・歴史資料）,市指定,2021-09-30,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0009
+北海道,小樽市,稲垣益穂日誌,有形文化財,有形文化財（美術工芸品・歴史資料）,市指定,2021-09-30,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0007
+北海道,小樽市,花園公園設計図,有形文化財,有形文化財（美術工芸品・歴史資料）,市指定,2021-09-30,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0008
+北海道,小樽市,林家旧蔵アイヌ風俗画画稿,有形文化財,有形文化財（美術工芸品・歴史資料）,市指定,2023-01-26,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0010
+北海道,小樽市,海岸ノ漁場屏風（鰊盛業図屏風）,有形文化財,有形文化財（美術工芸品・歴史資料）,市指定,2024-03-28,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0011
+北海道,小樽市,忍路鰊漁労の行事,民俗文化財,無形民俗文化財,市指定,1980-10-08,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0002
+北海道,小樽市,高島越後盆踊りの行事,民俗文化財,無形民俗文化財,市指定,2001-07-23,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0005
+北海道,小樽市,向井流水法,無形文化財,無形文化財,市指定,1991-09-02,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0003
+北海道,小樽市,北海道鉄道開通起点,記念物(史跡・名勝・天然記念物),史跡,市指定,1966-11-03,,,https://www.city.otaru.lg.jp/docs/2020101500016/,html,2026-07-05T14:09:39Z,JMH-012033-0001
+北海道,旭川市,上川郡農作試験所事務所棟(忠別太駅逓第一美英舎),有形文化財,有形文化財（建造物）,市指定,1966-01-15,神居1条1丁目,員数1棟。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0001
+北海道,旭川市,近文山国見の碑,記念物(史跡・名勝・天然記念物),記念物（史跡）,市指定,1966-01-15,江丹別町嵐山,員数1基。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0003
+北海道,旭川市,梅の木,記念物(史跡・名勝・天然記念物),記念物（天然記念物）,市指定,1966-01-15,東旭川町米原 旭川第一小校庭,員数1本（白梅）。所有者:旭川市。紅梅は平成12年枯死確認、平成13年4月伐採,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0002
+北海道,旭川市,神居古潭おう穴群,記念物(史跡・名勝・天然記念物),記念物（天然記念物）,市指定,1966-07-25,神居町神居古潭 石狩川河川敷,所有者:北海道開発局,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0004
+北海道,旭川市,永山屯田兵屋,有形文化財,有形文化財（建造物）,市指定,1970-07-06,神楽3条7丁目 旭川市博物館,員数1棟。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0005
+北海道,旭川市,養蚕民家,有形文化財,有形文化財（建造物）,市指定,1973-03-19,東旭川町瑞穂1576-1,員数1棟。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0006
+北海道,旭川市,旭川兵村（東旭川屯田）中隊記録,有形文化財,有形文化財（歴史資料）,市指定,1981-02-20,東旭川南1条6丁目 旭川兵村記念館,員数:旭川兵村中隊記録121冊。所有者:旭川兵村記念館。追加分は別項目参照,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0007
+北海道,旭川市,旭川兵村（東旭川屯田）中隊記録（追加分）,有形文化財,有形文化財（歴史資料）,市指定,2006-03-30,東旭川南1条6丁目 旭川兵村記念館,員数:旭川兵村中隊記録26冊（追加分）。所有者:旭川兵村記念館,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0011
+北海道,旭川市,錦町5遺跡出土の斧柄,有形文化財,有形文化財（考古資料）,市指定,1986-08-20,神楽3条7丁目 旭川市博物館,員数1。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0009
+北海道,旭川市,蕨手刀,有形文化財,有形文化財（考古資料）,市指定,1986-08-20,神楽3条7丁目 旭川市博物館,員数1。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0008
+北海道,旭川市,旧神居古潭駅舎,有形文化財,有形文化財（建造物）,市指定,1991-03-15,江丹別町春日197-1,員数:旧駅舎1棟、便所1棟。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0010
+北海道,旭川市,第七師団関係記録,有形文化財,有形文化財（歴史資料）,市指定,2006-03-30,春光町国有無番地 陸上自衛隊第二師団旭川駐屯地 北鎮記念館,員数7冊。所有者:陸上自衛隊旭川駐屯地,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0013
+北海道,旭川市,知里幸恵遺稿ノート,有形文化財,有形文化財（歴史資料）,市指定,2006-03-30,神楽3条7丁目 旭川市博物館,員数1冊。所有者:旭川市,https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/353/p000162.html,html,2026-07-05T14:09:38Z,JMH-012041-0012
+北海道,登別市,円空作観音像,有形文化財,,市指定,1993-09-02,,員数：1体。寛文6年（1666年）に円空が道南各地を巡りながら作ったとされる観音像。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0002
+北海道,登別市,円空作聖観音像,有形文化財,,市指定,1993-09-02,,員数：1体。円空の中期多作時代の観音像。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0001
+北海道,登別市,高村東雲作観音像,有形文化財,,市指定,1993-09-02,,員数：34体。三代目高村東雲が製作した観音像。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0005
+北海道,登別市,日野愛憙の「明治2年以降片倉家北海道移住顛末」,有形文化財,,市指定,1993-09-02,,員数：1点。片倉家家臣の日野愛憙が片倉家の入植した明治2年以降の出来事をまとめたもの。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0004
+北海道,登別市,幌別鉱山獅子舞,民俗文化財,,市指定,1993-09-02,,員数：ー。鉱山町で働く人々の安全と鉱山の増産を願った獅子舞。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0003
+北海道,登別市,黒澤家史料,有形文化財,,市指定,1998-02-10,,員数：33点。仙台藩白石城主片倉家の家臣で、主家とともに北海道に移住した黒澤家に代々伝わった武家文書。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0006
+北海道,登別市,登別化石林の炭化木（トドマツ）,記念物(史跡・名勝・天然記念物),,市指定,2017-02-01,,"員数：1点。約43,580年前のクッタラ火山の噴火堆積物により形成されたトドマツの炭化木。",https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0007
+北海道,登別市,幌別村役場文書,有形文化財,,市指定,2019-04-26,,員数：96点。旧幌別村から登別市に引き継がれた、明治5年から昭和20年代までの公文書。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0008
+北海道,登別市,片倉家主従開拓記念碑,記念物(史跡・名勝・天然記念物),,市指定,2022-03-30,,員数：1基。大正15年（1926）に仙台藩の片倉家主従の子孫等によって建てられた石碑。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0009
+北海道,登別市,丈草の記,有形文化財,,市指定,2023-02-24,,員数：1点。明治15年（1882）に現香川県丸亀市から現登別市へ移住した宮武藤之助による回想録。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0010
+北海道,登別市,石川脩次コレクション,有形文化財,,市指定,2025-06-04,,員数：223点。石川脩次が登別温泉を訪れたさまざまな分野の著名人からもらった揮毫のコレクション。,https://www.city.noboribetsu.lg.jp/docs/shiteibunkazai/,html,2026-07-05T14:09:48Z,JMH-012300-0011
+北海道,長万部町,円空作「観音菩薩坐像」1体,有形文化財,有形文化財,町指定,2011-03-23,,1体。寛文期（1661年～1673年）の間に製作された円空作像の代表的作品。北海道立近代美術館「円空展」ほか、道外の美術館等にも展示(貸出）実績も多い。,https://www.town.oshamambe.lg.jp/soshiki/16/229.html,html,2026-07-05T14:09:52Z,JMH-013455-0003
+北海道,長万部町,アイヌ民族衣装「ルウンペ」2着、「チヂリ」2着／計4着,民俗文化財,有形民俗文化財,町指定,2011-03-23,,「ルウンペ」2着、「チヂリ」2着／計4着。長万部に在住されていたアイヌ民族の方々が実際に着用していた衣服。,https://www.town.oshamambe.lg.jp/soshiki/16/229.html,html,2026-07-05T14:09:52Z,JMH-013455-0001
+北海道,長万部町,丸木舟,民俗文化財,有形民俗文化財,町指定,2011-03-23,,昭和50年の台風による水害で偶然発見された丸木舟。長さに対して幅が広いという特徴がある。,https://www.town.oshamambe.lg.jp/soshiki/16/229.html,html,2026-07-05T14:09:52Z,JMH-013455-0002
+北海道,室蘭市,輪西屯田兵旧火薬庫,有形文化財,有形文化財,市指定,1972-03-23,宮の森町(中嶋神社境内),明治19年（1886年）、第一回屯田兵村建設時に中隊本部とともに建てられた。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0002
+北海道,室蘭市,輪西屯田兵記念碑,有形文化財,有形文化財,市指定,1972-03-23,宮の森町(中嶋神社境内),明治42年（1909年）、屯田兵中隊本部の記念碑が建立された。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0003
+北海道,室蘭市,輪西屯田兵関係資料,民俗文化財,民俗文化財,市指定,1972-03-23,宮の森町(中嶋神社社務所),中隊本部が使用していた印鑑、軍服等,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0004
+北海道,室蘭市,仙台藩角田領添田家関係資料,民俗文化財,民俗文化財,市指定,1972-03-23,陣屋町(民俗資料館),明治3年（1870年）に仙台から入植した添田龍吉らは室蘭開拓の事業に当たった。その時に持参した刀、陣羽織等。（第1回指定昭和47年3月23日、第2回指定昭和48年3月27日。指定年月日は第1回指定日を採用）,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0001
+北海道,室蘭市,室蘭神楽,民俗文化財,民俗文化財,市指定,1998-05-07,海岸町(室蘭神楽保存会),明治34年（1901年）、新潟県の三条神楽が室蘭八幡宮に奉納され、今日まで伝承されている。昭和初期に、ご当地神楽「鯨神の舞」が創作された。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0006
+北海道,室蘭市,御供獅子舞,民俗文化財,民俗文化財,市指定,1998-05-07,香川町(室蘭市香川町郷土保存会),明治25年（1892年）に香川県から入植した開拓者によって始められ、今日まで受け継がれている。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0007
+北海道,室蘭市,瑞泉鍛刀所の鞴(ふいご),民俗文化財,民俗文化財,市指定,2000-11-02,茶津町(日本製鋼所室蘭製作所内瑞泉鍛刀所),堀井家歴代の刀匠は、明治28年（1895年）に製作されたこの用具を使って、数々の名刀を生み出してきている。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0009
+北海道,室蘭市,石川家不動明王像,民俗文化財,民俗文化財,市指定,2003-01-09,神代町(地蔵堂),旧角田領主石川氏が奉じていたものと伝えられる。高さ51.5センチメートル(台座含む)、幅約24～31センチメートル、厚さ約18センチメートル。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0011
+北海道,室蘭市,仙台藩角田領添田家関係資料,有形文化財,有形文化財,市指定,1998-05-07,本町(市立図書館),室蘭開拓の経緯等を記した古文書,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0005
+北海道,室蘭市,国産第1号航空機エンジン,有形文化財,有形文化財,市指定,1999-09-02,茶津町(日本製鋼所室蘭製作所),（室0号。画像alt:日本製鋼所室蘭製作所製造 複葉機エンジン「室0号」）名称は原文で「有形文化財」とのみ記載。国産第1号の航空機エンジンで室蘭の企業が大正7年（1918年）に完成させた。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0008
+北海道,室蘭市,南部藩陣屋跡出土砲弾,有形文化財,有形文化財,市指定,2010-03-03,陣屋町(民俗資料館),国指定史跡東蝦夷地南部藩陣屋跡モロラン陣屋跡の内陣から出土した鉄製の球形砲弾。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0012
+北海道,室蘭市,胆振国室蘭郡全図,有形文化財,有形文化財,市指定,2010-03-03,本町(市立図書館),明治初年に製作されたと推測される絵図。当時の地名や産物などを記載。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0013
+北海道,室蘭市,青い目の人形（友情人形）,有形文化財,有形文化財,市指定,2010-03-03,陣屋町(民俗資料館),昭和2年（1927年）日米友好親善のためアメリカから贈られた人形。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0014
+北海道,室蘭市,白鳥大橋海底部等出土の材化石及び貝化石の標本,記念物(史跡・名勝・天然記念物),記念物,市指定,2000-11-02,祝津町(みたら室蘭)、陣屋町(民俗資料館)、本町(青少年科学館),これらの化石を調査したところ、室蘭港はかつて湖であったことなど、3万9千年前以降における室蘭の地形の形成過程が明らかになった。,https://www.city.muroran.lg.jp/culture/?content=812,html,2026-07-05T14:09:47Z,JMH-012050-0010
+北海道,函館市,旧イギリス領事館,有形文化財,有形文化財（建造物）,市指定,1979-10-23,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0066
+北海道,函館市,小林源之助著　蝦夷地草木写生図,有形文化財,有形文化財（絵画）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0013
+北海道,函館市,小玉貞良筆　蝦夷国風図絵,有形文化財,有形文化財（絵画）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0014
+北海道,函館市,アイヌ風俗12カ月屏風1双（うち7月～12月は平沢屏山筆，1月～6月は宮原柳僊模写）,有形文化財,有形文化財（絵画）,市指定,1962-11-03,,1双,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0008
+北海道,函館市,梁川八景,有形文化財,有形文化財（絵画）,市指定,1963-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0023
+北海道,函館市,唐美人,有形文化財,有形文化財（絵画）,市指定,1963-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0022
+北海道,函館市,蕗下コロポックル人の図,有形文化財,有形文化財（絵画）,市指定,1963-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0024
+北海道,函館市,維摩,有形文化財,有形文化財（絵画）,市指定,1964-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0029
+北海道,函館市,アイヌ絵巻,有形文化財,有形文化財（絵画）,市指定,1964-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0026
+北海道,函館市,蓬莱図,有形文化財,有形文化財（絵画）,市指定,1964-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0030
+北海道,函館市,絹本着色　春雨桜雉図　蠣崎波響筆（旧花光コレクション）,有形文化財,有形文化財（絵画）,市指定,1965-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0036
+北海道,函館市,絹本着色　厳上鴛鴦図　蠣崎波響筆（旧花光コレクション）,有形文化財,有形文化財（絵画）,市指定,1965-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0035
+北海道,函館市,絹本着色　五節句図　蠣崎波響筆（旧花光コレクション）,有形文化財,有形文化財（絵画）,市指定,1965-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0034
+北海道,函館市,絹本着色　牡丹睡猫図　蠣崎波響筆（旧花光コレクション）,有形文化財,有形文化財（絵画）,市指定,1965-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0037
+北海道,函館市,紙本単彩　雁来紅図　蠣崎波響筆（旧花光コレクション）,有形文化財,有形文化財（絵画）,市指定,1965-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0033
+北海道,函館市,黒百合　松浦武四郎筆,有形文化財,有形文化財（絵画）,市指定,1966-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0046
+北海道,函館市,蝦夷人亜寒山遙拝の図　松浦武四郎筆,有形文化財,有形文化財（絵画）,市指定,1966-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0042
+北海道,函館市,弁天島八千代橋の図,有形文化財,有形文化財（絵画）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0058
+北海道,函館市,川汲温泉薬王殿奉納絵馬　竜の図,有形文化財,有形文化財（絵画）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0056
+北海道,函館市,川汲温泉薬王殿奉納絵馬　馬の図,有形文化財,有形文化財（絵画）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0057
+北海道,函館市,川汲稲荷神社奉納絵馬『楠木正成正行父子桜井驛の別れの図』,有形文化財,有形文化財（絵画）,市指定,2000-08-10,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0078
+北海道,函館市,江差屏風,有形文化財,有形文化財（絵画）,市指定,2023-04-12,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0090
+北海道,函館市,菅原透ほか鍔23点，唐草文ほか小物5点,有形文化財,有形文化財（工芸）,市指定,1962-11-03,,鍔23点，小物5点,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0018
+北海道,函館市,函館八幡宮大神輿,有形文化財,有形文化財（工芸）,市指定,2002-06-05,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0081
+北海道,函館市,恵山貝塚出土品を中心とする恵山文化期骨角器製品一括資料506点並びに恵山貝塚出土遺物を中心とする恵山式土器一括資料62点（いずれも旧能登川コレクション）,有形文化財,有形文化財（考古資料）,市指定,1962-11-03,,骨角器製品一括資料506点，恵山式土器一括資料62点,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0015
+北海道,函館市,日ノ浜遺跡出土　硬玉製玉（縄文晩期）,有形文化財,有形文化財（考古資料）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0016
+北海道,函館市,有舌尖頭器類73点,有形文化財,有形文化財（考古資料）,市指定,1964-11-03,,73点,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0028
+北海道,函館市,臼尻Ｂ遺跡出土『シカ絵画土器』,有形文化財,有形文化財（考古資料）,市指定,2000-08-10,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0080
+北海道,函館市,八木Ｂ遺跡出土『注口土器及び下部有孔土器』,有形文化財,有形文化財（考古資料）,市指定,2000-08-10,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0077
+北海道,函館市,ブラキストンの大形磨製石斧,有形文化財,有形文化財（考古資料）,市指定,2006-04-12,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0083
+北海道,函館市,臼尻Ｃ遺跡出土の赤彩土器,有形文化財,有形文化財（考古資料）,市指定,2017-05-10,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0088
+北海道,函館市,戸井貝塚出土品,有形文化財,有形文化財（考古資料）,市指定,2019-12-25,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0089
+北海道,函館市,古川古松軒筆　松前蝦夷地之図,有形文化財,有形文化財（古文書）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0012
+北海道,函館市,蝦夷嶋図説,有形文化財,有形文化財（古文書）,市指定,1964-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0031
+北海道,函館市,蝦夷嶋奇観,有形文化財,有形文化財（古文書）,市指定,1964-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0032
+北海道,函館市,羽太庄左衛門正養　手沢本　休明光記9冊,有形文化財,有形文化財（古文書）,市指定,1965-11-03,,9冊,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0038
+北海道,函館市,羽太庄左衛門正養　手沢本　休明光記付録12冊,有形文化財,有形文化財（古文書）,市指定,1965-11-03,,12冊,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0039
+北海道,函館市,蝦夷日誌　松浦武四郎著,有形文化財,有形文化財（古文書）,市指定,1966-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0044
+北海道,函館市,実験北蝦夷山川地理取調図　松浦武四郎著,有形文化財,有形文化財（古文書）,市指定,1966-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0040
+北海道,函館市,蝦夷家財図説　松浦武四郎稿,有形文化財,有形文化財（古文書）,市指定,1966-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0043
+北海道,函館市,蝦夷隯奇観　松浦武四郎写,有形文化財,有形文化財（古文書）,市指定,1966-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0045
+北海道,函館市,奉納経神社仏閣順拝帳,有形文化財,有形文化財（古文書）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0052
+北海道,函館市,飯田屋漁場文書,有形文化財,有形文化財（古文書）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0063
+北海道,函館市,ヲタハマ稲荷文書,有形文化財,有形文化財（古文書）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0050
+北海道,函館市,尾札部稲荷神社文書,有形文化財,有形文化財（古文書）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0054
+北海道,函館市,熊泊稲荷文書,有形文化財,有形文化財（古文書）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0061
+北海道,函館市,詩書　榎本武揚筆,有形文化財,有形文化財（書跡）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0062
+北海道,函館市,カムチャッカ出土　マンモス牙,有形文化財,有形文化財（地質鉱物）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0010
+北海道,函館市,樺太出土　マンモス下顎骨と臼歯,有形文化財,有形文化財（地質鉱物）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0017
+北海道,函館市,十一面観音立像,有形文化財,有形文化財（彫刻）,市指定,1963-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0021
+北海道,函館市,阿弥陀如来像,有形文化財,有形文化財（彫刻）,市指定,1963-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0025
+北海道,函館市,不動明王立像,有形文化財,有形文化財（彫刻）,市指定,1963-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0020
+北海道,函館市,巌島神社旧社殿彫刻,有形文化財,有形文化財（彫刻）,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0055
+北海道,函館市,伝目定作　釈迦如来坐像,有形文化財,有形文化財（彫刻）,市指定,1979-12-07,,（昭和54年12月7日指定・複数の同名坐像あり）,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0070
+北海道,函館市,伝目定作　釈迦如来立像,有形文化財,有形文化財（彫刻）,市指定,1979-12-07,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0072
+北海道,函館市,伝目定作　脇侍形菩薩立像,有形文化財,有形文化財（彫刻）,市指定,1979-12-07,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0069
+北海道,函館市,伝目定作　釈迦如来坐像,有形文化財,有形文化財（彫刻）,市指定,1979-12-07,,（昭和54年12月7日指定・同名坐像2件目）,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0071
+北海道,函館市,伝目定作　恵比須像,有形文化財,有形文化財（彫刻）,市指定,1979-12-07,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0068
+北海道,函館市,伝目定作　恵比須大黒神像,有形文化財,有形文化財（彫刻）,市指定,2000-08-10,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0076
+北海道,函館市,円空作仏像観音像,有形文化財,有形文化財（彫刻）,市指定,2012-02-08,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0087
+北海道,函館市,イワン・マホフ著　ろしやのいろは,有形文化財,有形文化財（典籍）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0009
+北海道,函館市,函館新聞綴込一括,有形文化財,有形文化財（典籍）,市指定,1964-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0027
+北海道,函館市,セイウチ（海象）剥製,有形文化財,有形文化財（動物）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0011
+北海道,函館市,近藤重蔵書翰,有形文化財,有形文化財（筆跡）,市指定,1962-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0019
+北海道,函館市,短冊　松浦武四郎筆,有形文化財,有形文化財（筆跡）,市指定,1966-11-03,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0041
+北海道,函館市,伝ゴローニンの書,有形文化財,有形文化財（筆跡）,市指定,1968-12-04,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0047
+北海道,函館市,ペリー提督寄贈の洋酒びん2本（小島家旧蔵・旧花光コレクション）,有形文化財,有形文化財（歴史資料）,市指定,1979-10-23,,2本,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0065
+北海道,函館市,日米親善人形,有形文化財,有形文化財（歴史資料）,市指定,2000-08-10,,平成29年5月10日追加指定4点,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0079
+北海道,函館市,高松凌雲の医療器具,有形文化財,有形文化財（歴史資料）,市指定,2006-04-12,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0084
+北海道,函館市,五稜郭初度設計図,有形文化財,有形文化財（歴史資料）,市指定,2008-10-08,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0085
+北海道,函館市,五稜郭平面図,有形文化財,有形文化財（歴史資料）,市指定,2008-10-08,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0086
+北海道,函館市,ヘレン・ケラーが函館盲啞院で触れた社寺模型,有形文化財,有形文化財（歴史資料）,市指定,2025-07-23,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0091
+北海道,函館市,高田屋嘉兵衛碑,記念物(史跡・名勝・天然記念物),史跡,市指定,1959-08-01,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0007
+北海道,函館市,日の浜遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1959-08-01,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0004
+北海道,函館市,北海道建網大謀網発祥の地及び記念碑,記念物(史跡・名勝・天然記念物),史跡,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0051
+北海道,函館市,東エゾ箱館在六箇場所臼尻会所跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0060
+北海道,函館市,恵山,記念物(史跡・名勝・天然記念物),名勝,市指定,1959-08-01,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0001
+北海道,函館市,道南金剛,記念物(史跡・名勝・天然記念物),名勝,市指定,1959-08-01,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0006
+北海道,函館市,賽の河原,記念物(史跡・名勝・天然記念物),名勝,市指定,1959-08-01,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0005
+北海道,函館市,恵山高山植物群,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1959-08-01,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0003
+北海道,函館市,恵山断層,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1959-08-01,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0002
+北海道,函館市,イチョウの大樹,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0049
+北海道,函館市,「大船の杉」大樹,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0048
+北海道,函館市,旧臼尻村役場のエゾヤマザクラ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2004-03-10,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0082
+北海道,函館市,コディアック・アリュート3人乗皮舟　付かい3本,民俗文化財,有形民俗文化財,市指定,1979-10-23,,付かい3本,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0064
+北海道,函館市,木直稲荷神社　第1号～第6号棟札,民俗文化財,有形民俗文化財,市指定,1979-12-07,,第1号～第6号棟札,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0075
+北海道,函館市,川汲稲荷神社　第1号～第4号棟札,民俗文化財,有形民俗文化財,市指定,1979-12-07,,第1号～第4号棟札,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0074
+北海道,函館市,巌島神社　第1号～第6号棟札,民俗文化財,有形民俗文化財,市指定,1979-12-07,,第1号～第6号棟札,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0073
+北海道,函館市,ヲタハマ稲荷神社　第1号～第2号棟札,民俗文化財,有形民俗文化財,市指定,1979-12-07,,第1号～第2号棟札,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0067
+北海道,函館市,安浦駒踊り,民俗文化財,無形民俗文化財,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0053
+北海道,函館市,木直大正神楽,民俗文化財,無形民俗文化財,市指定,1978-02-28,,,https://www.city.hakodate.hokkaido.jp/docs/2016072500056/,html,2026-07-05T14:09:39Z,JMH-012025-0059
+北海道,苫小牧市,勇払会所の跡,記念物(史跡・名勝・天然記念物),史跡,市指定,,,,https://www.city.tomakomai.hokkaido.jp/kyoiku/shogaigakushu/bunka/bunkazai/shinobunkazai/,html,2026-07-05T14:09:48Z,JMH-012130-0001
+北海道,苫小牧市,蝦夷地開拓移住隊士の墓,記念物(史跡・名勝・天然記念物),史跡,市指定,,,,https://www.city.tomakomai.hokkaido.jp/kyoiku/shogaigakushu/bunka/bunkazai/shinobunkazai/,html,2026-07-05T14:09:48Z,JMH-012130-0005
+北海道,苫小牧市,勇払恵比須神社奉納品21点,民俗文化財,民俗文化財,市指定,,,員数21点,https://www.city.tomakomai.hokkaido.jp/kyoiku/shogaigakushu/bunka/bunkazai/shinobunkazai/,html,2026-07-05T14:09:48Z,JMH-012130-0002
+北海道,苫小牧市,林重右衛門墓碑,有形文化財,有形文化財,市指定,,,,https://www.city.tomakomai.hokkaido.jp/kyoiku/shogaigakushu/bunka/bunkazai/shinobunkazai/,html,2026-07-05T14:09:48Z,JMH-012130-0004
+北海道,苫小牧市,錦岡樽前山神社 円空作樽前権現像および奉納品7点,有形文化財,有形文化財,市指定,,錦岡樽前山神社,円空作樽前権現像および奉納品7点,https://www.city.tomakomai.hokkaido.jp/kyoiku/shogaigakushu/bunka/bunkazai/shinobunkazai/,html,2026-07-05T14:09:48Z,JMH-012130-0006
+北海道,苫小牧市,勇武津不動及び奉納品7点,民俗文化財,民俗文化財,市指定,,,不動及び奉納品7点,https://www.city.tomakomai.hokkaido.jp/kyoiku/shogaigakushu/bunka/bunkazai/shinobunkazai/,html,2026-07-05T14:09:48Z,JMH-012130-0003
+北海道,増毛町,雄冬神楽,無形文化財,町指定無形文化財,町指定,1990-04-01,増毛町雄冬,明治12年（1879年）に雄冬地域に神楽舞が伝承され、明治24年に再編成された踊り。松前神楽や八戸地方の太神楽の影響がみられる。現在14の演目が現存。,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0029
+北海道,増毛町,御料局札幌支庁増毛出張所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号1,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0004
+北海道,増毛町,御料局札幌支庁増毛出張所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号2,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0005
+北海道,増毛町,秋田藩増毛元陣屋第一台場跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号3,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0007
+北海道,増毛町,普伝寺跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-07-01,,史跡番号4,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0021
+北海道,増毛町,増毛治安裁判所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号5,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0001
+北海道,増毛町,開拓使増毛他五郡役所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号6,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0009
+北海道,増毛町,秋田藩増毛元陣屋跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号7,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0008
+北海道,増毛町,増毛税務署跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1992-12-04,,史跡番号8,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0030
+北海道,増毛町,増毛新廓跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1981-07-25,,史跡番号9,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0025
+北海道,増毛町,津軽藩勤番越年陣屋跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号10,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0006
+北海道,増毛町,増毛土木派出所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号11,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0012
+北海道,増毛町,官立札幌病院増毛出張所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号12,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0003
+北海道,増毛町,増毛運上屋跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号13,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0002
+北海道,増毛町,水戸藩主一行宿営の地,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-07-01,,史跡番号14,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0022
+北海道,増毛町,開拓使増毛船改所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1978-06-30,,史跡番号15,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0010
+北海道,増毛町,入舟町浜茶屋跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号16,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0011
+北海道,増毛町,秋田藩元陣屋第二台場,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-07-01,,史跡番号17,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0023
+北海道,増毛町,リンゴ栽培の父藤原筆吉翁の碑,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-07-21,,史跡番号18,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0028
+北海道,増毛町,天塩国水産会さけます孵化場跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1999-02-10,,史跡番号19,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0031
+北海道,増毛町,雄冬冷清水,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号20,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0017
+北海道,増毛町,雄冬遺跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号21,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0018
+北海道,増毛町,舎熊遺跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-07-01,,史跡番号22,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0024
+北海道,増毛町,旧高橋農場跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号23,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0015
+北海道,増毛町,別苅発祥の地,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-07-01,,史跡番号24,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0020
+北海道,増毛町,旧増毛山道入口,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号25,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0014
+北海道,増毛町,増毛郡役所出張所跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号26,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0013
+北海道,増毛町,阿分発祥の地,記念物(史跡・名勝・天然記念物),史跡,町指定,1981-07-25,,史跡番号27,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0026
+北海道,増毛町,松浦武四郎信砂越えの地,記念物(史跡・名勝・天然記念物),史跡,町指定,1979-07-25,,史跡番号28,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0016
+北海道,増毛町,信砂水田発祥の地,記念物(史跡・名勝・天然記念物),史跡,町指定,1982-08-20,,史跡番号29,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0027
+北海道,増毛町,仁奈良山道・仁奈良駅逓跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-07-01,,史跡番号30,https://www.town.mashike.hokkaido.jp/division/kyouiku/bunkazai.html,html,2026-07-05T14:09:58Z,JMH-014818-0019
+北海道,石狩市,第1号 石狩弁天社,有形文化財,,市指定,1967-12-22,石狩市弁天町18,松前藩から派遣された秋味上乗役の山下半右衛門により1694年（元禄7年）創建。主神は弁財天（厳島大明神）、合殿に妙亀法鮫大明神、稲荷大明神。妙亀法鮫大明神像は2007年3月に北海道有形民俗文化財に指定。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0001
+北海道,石狩市,第2号 チョウザメのはく製,有形文化財,,市指定,1982-03-31,石狩市弁天町30-4(砂丘の風資料館)、所蔵：石狩市教育委員会,昭和44年に石狩川で捕獲され剥製にされた。体長1.9mのダウリアチョウザメ。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0002
+北海道,石狩市,第3号 石狩八幡町遺跡ワッカオイ出土の土器9点,有形文化財,,市指定,1982-03-31,所蔵：石狩市教育委員会,員数9点。石狩八幡町遺跡ワッカオイ地点(現：若生C遺跡)第20号墓から出土。続縄文時代後半期の代表的なもの。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0003
+北海道,石狩市,第4号 旧長野商店,有形文化財,,市指定,1994-03-28,石狩市弁天町30-5（砂丘の風資料館の隣）,店舗は1894（明治27）年、蔵は明治10年代(推定)に長野徳太郎が建造。和洋折衷の木骨石造。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0004
+北海道,石狩市,第5号 金子家文書,有形文化財,,市指定,1999-04-22,所蔵：石狩市教育委員会,金子仲久が寄贈した文書1600点余りのうち、1892（明治25）年から1900（明治33）年までの記録など10点が指定。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0005
+北海道,石狩市,第6号 旧白鳥番屋,有形文化財,,市指定,,石狩市浜益区浜益77,指定年月日1981（昭和56）年12月（日不明のためnull）。1899（明治32）年白鳥浅吉建設のニシン番屋。現：はまます郷土資料館。1981年浜益村指定文化財に指定（現石狩市指定文化財）。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0010
+北海道,石狩市,第7号 石狩弁天社の手水鉢,有形文化財,,市指定,2013-03-28,石狩市弁天町30-4(砂丘の風資料館)、所蔵：石狩市教育委員会,1789（寛政元）年の年号が刻まれた手水鉢。江戸本材木町の小林店喜兵衛が奉納。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0006
+北海道,石狩市,第8号 石狩紅葉山49号遺跡出土の木製品,有形文化財,,市指定,2015-07-24,所蔵：石狩市教育委員会,員数18点。縄文文化の木製品。約4000年前。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0007
+北海道,石狩市,第9号 古潭龍澤寺の鰐口,有形文化財,,市指定,2016-10-27,所在地1：石狩市厚田98-2(道の駅石狩あいろーど厚田2階)／所在地2：札幌市厚別区厚別町小野幌53-2(北海道博物館に寄託),鰐口2点。うち1点に「松前城下村山傳兵衛」「寛政三年亥年三月吉日」、もう1点に「寛政四壬子歳八月廿日」と刻銘。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0008
+北海道,石狩市,第10号 紅葉山33号遺跡出土の漆塗り弓（文様入り）,有形文化財,,市指定,2025-06-30,所蔵：石狩市教育委員会,続縄文文化前半期の墓に副葬された漆塗り弓（約2000年前）。全体に朱色の漆を塗り文様を描いた。,https://www.city.ishikari.hokkaido.jp/bunka/bunkazai/1001895/1003501.html,html,2026-07-05T14:09:50Z,JMH-012351-0009
+北海道,厚岸町,厚岸床潭沼の緋鮒生息地,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0006
+北海道,厚岸町,色古丹松,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0020
+北海道,厚岸町,老桜樹,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0019
+北海道,厚岸町,逆水松,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0022
+北海道,厚岸町,太田屯田の赤松,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0011
+北海道,厚岸町,太田屯田の桑並木,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0010
+北海道,厚岸町,厚岸神岩砦跡及び竪穴群,記念物(史跡・名勝・天然記念物),史跡,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0008
+北海道,厚岸町,お供山チャシ跡群,記念物(史跡・名勝・天然記念物),史跡,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0001
+北海道,厚岸町,チカラコタン竪穴群,記念物(史跡・名勝・天然記念物),史跡,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0002
+北海道,厚岸町,ホロニタイ竪穴群,記念物(史跡・名勝・天然記念物),史跡,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0003
+北海道,厚岸町,筑紫恋入口竪穴群,記念物(史跡・名勝・天然記念物),史跡,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0018
+北海道,厚岸町,筑紫恋チャシ跡,記念物(史跡・名勝・天然記念物),史跡,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0017
+北海道,厚岸町,太田屯田兵屋,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0012
+北海道,厚岸町,国泰寺什器書画古文書,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0009
+北海道,厚岸町,仏牙舎利塔,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0004
+北海道,厚岸町,太田屯田兵遺品,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0013
+北海道,厚岸町,池田家古文書,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0016
+北海道,厚岸町,太田西野家行のう帳,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0014
+北海道,厚岸町,厚岸湖牡蠣島弁天神社弁財天座像,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0007
+北海道,厚岸町,鹿島稲荷神社祭神御堂,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0023
+北海道,厚岸町,蝦夷錦,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0021
+北海道,厚岸町,正行寺鐘楼,有形文化財,有形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0015
+北海道,厚岸町,厚岸かぐら,無形文化財,無形文化財,町指定,,,,https://www.akkeshi-town.jp/syoukai/rekishi_bunka/culture/,html,2026-07-05T14:09:59Z,JMH-016624-0005
+北海道,釧路市,佐野家文書,有形文化財,美術工芸品　古文書,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0003
+北海道,釧路市,市河文書,有形文化財,美術工芸品　古文書,市指定,1976-12-09,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0010
+北海道,釧路市,星兜（残欠）,有形文化財,美術工芸品　考古資料,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0004
+北海道,釧路市,永久保秀二郎日誌,有形文化財,美術工芸品　歴史資料,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0005
+北海道,釧路市,釧路新聞,有形文化財,美術工芸品　歴史資料,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0008
+北海道,釧路市,鳥取村本籍簿,有形文化財,美術工芸品　歴史資料,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0009
+北海道,釧路市,紀ノ丘神楽,民俗文化財,無形民俗文化財,市指定,1986-10-05,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0011
+北海道,釧路市,三津浦古谷遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0002
+北海道,釧路市,キタサンショウウオ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0001
+北海道,釧路市,砂岩脈（サンド・ストーン・ダイク）,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0006
+北海道,釧路市,谷地坊主（ヤチボウズ）,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1975-12-12,,,https://www.city.kushiro.lg.jp/museum/bunkazai/1005708/1005716.html,html,2026-07-05T14:09:40Z,JMH-012068-0007
+北海道,根室市,寛政の蜂起和人殉難墓碑,有形文化財,有形文化財,市指定,1967-07-25,根室市納沙布岬,明治45年5月珸瑶瑁で発見。当初は「寛政の乱和人殉難墓碑」として指定されていたが、昭和63年に現在の名称に変更された。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0001
+北海道,根室市,和田屯田兵碑,有形文化財,有形文化財,市指定,1975-07-29,根室市東和田954－2,明治22年6月建立。屯田兵歩兵第一中隊・第二中隊の業績を後世に伝えるための碑。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0004
+北海道,根室市,旧根室牧場大金庫,有形文化財,有形文化財,市指定,1969-01-09,根室市花咲港209 根室市歴史と自然の資料館,明治30年頃から山県根室牧場にあったもの。越年資金を保管していた。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0002
+北海道,根室市,恵比寿像,有形文化財,有形文化財,市指定,1976-06-25,根室市花咲港209 根室市歴史と自然の資料館,旧松前藩福山城の守護神として祀られていたと伝わる。座り像で高さ2メートル余りの組立式。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0005
+北海道,根室市,俄羅斯舩之圖及びワシレイラフロウ之圖,有形文化財,有形文化財,市指定,1993-06-29,根室市花咲港209 根室市歴史と自然の資料館,1792年にラクスマン一行が乗ってきた帆船「エカテリーナ号」の絵図。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0006
+北海道,根室市,穂香竪穴群出土の動物意匠付土器,有形文化財,有形文化財,市指定,2003-03-07,根室市花咲港209 根室市歴史と自然の資料館,平成13年の穂香竪穴群発掘調査で出土。縄文時代後期初頭のもの。道東で最も古い動物意匠土器とされる。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0008
+北海道,根室市,アイヌ生活用具,民俗文化財,有形民俗文化財,市指定,2007-04-11,根室市花咲港209 根室市歴史と自然の資料館,木綿衣1点、樹皮衣3点、前掛け1点が含まれる。明治20年代にホロモシリアイヌが作ったもの。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0009
+北海道,根室市,珸瑶瑁獅子神楽,民俗文化財,無形民俗文化財,市指定,1969-01-09,根室市,富山県黒部市からの移住者を指導者として珸瑶瑁1区の青年が習い始めた。大正2年に歯舞光明寺の入仏式で舞ったのがきっかけとされる。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0003
+北海道,根室市,ミズナラの風衝林,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1999-02-25,根室市豊里及び牧の内,根室半島特有の強い季節風で枝が斜めに変形し丘状となった特異な景観のミズナラ群落。,https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/siryoukann/bunkazai/1315.html,html,2026-07-05T14:09:42Z,JMH-012238-0007
+北海道,名寄市,風連獅子舞,民俗文化財,,市指定,2006-03-27,名寄市風連町字瑞生4164番地3（下多寄神社）,名寄市指定文化財第1号。旧風連町指定 昭和52年4月1日。総勢30人以上で舞う郷土芸能。風連獅子舞保存会により継承。,http://www.city.nayoro.lg.jp/section/museum/prkeql000002obz1.html,html,2026-07-05T14:09:51Z,JMH-012211-0004
+北海道,名寄市,グイマツ,記念物(史跡・名勝・天然記念物),,市指定,2006-03-27,名寄市風連町字東風連3395番地（東風連子供と老人福祉館南側）,名寄市指定文化財第2号。旧風連町指定 昭和53年4月1日。樹齢110年、樹高10m、枝の長さ15m、胸高直径54cm。,http://www.city.nayoro.lg.jp/section/museum/prkeql000002obz1.html,html,2026-07-05T14:09:51Z,JMH-012211-0001
+北海道,名寄市,名寄教会会堂,有形文化財,,市指定,2006-03-27,名寄市大通南2丁目,名寄市指定文化財第3号。旧名寄市指定 平成14年11月27日。日本基督教団名寄教会の会堂。明治42年建築の市内最古の洋風木造建築。,http://www.city.nayoro.lg.jp/section/museum/prkeql000002obz1.html,html,2026-07-05T14:09:51Z,JMH-012211-0003
+北海道,名寄市,ミズナラ林,記念物(史跡・名勝・天然記念物),,市指定,2006-03-27,名寄市字緑丘3番地ほか　名寄公園およびその周辺,名寄市指定文化財第4号。旧名寄市指定 平成14年11月27日。周辺を含め10haにわたり1200本を数える。,http://www.city.nayoro.lg.jp/section/museum/prkeql000002obz1.html,html,2026-07-05T14:09:51Z,JMH-012211-0002
+北海道,白老町,社台1遺跡出土の朱塗土器,有形文化財,有形文化財,町指定,1986-04-04,白老町,,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0003
+北海道,白老町,アヨロ遺跡出土の装身具等,有形文化財,有形文化財,町指定,1986-04-04,白老町,,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0001
+北海道,白老町,仙台藩白老元陣屋を描いた絵図面,有形文化財,有形文化財,町指定,2023-06-13,白老町,,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0007
+北海道,白老町,ルウンペ,民俗文化財,有形民俗文化財,町指定,1986-04-04,アイヌ民族博物館,,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0002
+北海道,白老町,白老八幡神社社宝5点,民俗文化財,有形民俗文化財,町指定,1996-06-05,白老八幡神社,員数：5点,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0004
+北海道,白老町,アイヌ生活用具コレクション（児玉コレクション）,民俗文化財,有形民俗文化財,町指定,2000-03-31,アイヌ民族博物館,,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0005
+北海道,白老町,虎杖浜越後盆踊り,民俗文化財,無形民俗文化財,町指定,2000-10-03,虎杖浜越後盆踊り保存会,,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0006
+北海道,白老町,白老町伝統文化継承者,民俗文化財,無形民俗文化財,町指定,,別表に記載,認定年月日が複数：2007年3月8日、2008年12月12日、2011年3月30日、2013年3月28日、2015年3月30日、2017年3月23日等。伝統文化継承者一覧が別表に記載。初回認定は2007-03-08だが指定年月日は複数あり単一に確定できないためnull,https://www.town.shiraoi.hokkaido.jp/docs/page2013012200618.html,html,2026-07-05T14:09:58Z,JMH-015784-0008
+北海道,江別市,千古園,記念物(史跡・名勝・天然記念物),史跡,市指定,,,,https://www.city.ebetsu.hokkaido.jp/site/kyouiku/2920.html,html,2026-07-05T14:09:49Z,JMH-012173-0001
+北海道,江別市,火薬庫,記念物(史跡・名勝・天然記念物),史跡,市指定,,,,https://www.city.ebetsu.hokkaido.jp/site/kyouiku/2920.html,html,2026-07-05T14:09:49Z,JMH-012173-0006
+北海道,江別市,野幌太々神楽,民俗文化財,無形民俗文化財,市指定,,,,https://www.city.ebetsu.hokkaido.jp/site/kyouiku/2920.html,html,2026-07-05T14:09:49Z,JMH-012173-0007
+北海道,江別市,扁額「對鴈學校」,有形文化財,有形文化財,市指定,,,,https://www.city.ebetsu.hokkaido.jp/site/kyouiku/2920.html,html,2026-07-05T14:09:49Z,JMH-012173-0004
+北海道,江別市,扁額「冨貴在苦學労力」,有形文化財,有形文化財,市指定,,,,https://www.city.ebetsu.hokkaido.jp/site/kyouiku/2920.html,html,2026-07-05T14:09:49Z,JMH-012173-0003
+北海道,江別市,坊主山遺跡出土江別式土器,有形文化財,有形文化財,市指定,,,,https://www.city.ebetsu.hokkaido.jp/site/kyouiku/2920.html,html,2026-07-05T14:09:49Z,JMH-012173-0002
+北海道,江別市,旧岡田倉庫,有形文化財,有形文化財,市指定,,,,https://www.city.ebetsu.hokkaido.jp/site/kyouiku/2920.html,html,2026-07-05T14:09:49Z,JMH-012173-0005
+北海道,稚内市,釣鐘（1基）,有形文化財,有形文化財,市指定,,宗谷,員数：1基,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0019
+北海道,稚内市,木製懸額（1基）,有形文化財,有形文化財,市指定,,宗谷,員数：1基,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0017
+北海道,稚内市,しょうご（1基）,有形文化財,有形文化財,市指定,,宗谷,員数：1基,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0001
+北海道,稚内市,古文書（5冊）,有形文化財,有形文化財,市指定,,宗谷,員数：5冊,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0007
+北海道,稚内市,オンコロマナイ2遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,,清浜,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0002
+北海道,稚内市,富磯貝塚,記念物(史跡・名勝・天然記念物),史跡,市指定,,富磯,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0010
+北海道,稚内市,シュプントー遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,,声問,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0003
+北海道,稚内市,恵北1遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,,下声問,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0012
+北海道,稚内市,抜海岩陰遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,,抜海,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0013
+北海道,稚内市,弁天1･2号チャシ,記念物(史跡・名勝・天然記念物),史跡,市指定,,港2･3丁目,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0011
+北海道,稚内市,ピリカタイチャシ,記念物(史跡・名勝・天然記念物),史跡,市指定,,清浜,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0004
+北海道,稚内市,大岬旧海軍望楼,記念物(史跡・名勝・天然記念物),史跡,市指定,,宗谷岬,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0008
+北海道,稚内市,文化寛政の頃の宗谷絵図,有形文化財,有形文化財,市指定,,宗谷,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0014
+北海道,稚内市,内藤源助愛刀の鍔,有形文化財,有形文化財,市指定,,北方記念館,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0006
+北海道,稚内市,目梨高山植物群落,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,目梨,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0018
+北海道,稚内市,メクマミズナラ群落,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,増幌,,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0005
+北海道,稚内市,宗谷厳島神社（1社）,有形文化財,有形文化財,市指定,,宗谷,員数：1社,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0009
+北海道,稚内市,旧海軍大湊通信隊稚内分遣隊幕別送信所（B棟）,有形文化財,有形文化財,市指定,,恵北,B棟,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0015
+北海道,稚内市,旧海軍大湊通信隊稚内分遣隊幕別送信所（C棟）,有形文化財,有形文化財,市指定,,恵北,C棟,https://www.city.wakkanai.hokkaido.jp/kyoiku/supotsushogaigakushu/bunkarekishi/bunkakenzo.html,html,2026-07-05T14:09:41Z,JMH-012149-0016
+北海道,七飯町,迫田家文書,有形文化財,,町指定,1984-11-07,,第1号文化財 1件235点。元官園職員迫田喜二が残した筆記録で、主に書籍、辞令書、地券等235点からなる文書類。明治8年から同15年まで七重官園で教授された内容が記されている。,http://www2.town.nanae.hokkaido.jp/rekisikan/menu_1/bunkazai/shitei.html,html,2026-07-05T14:09:52Z,JMH-013374-0001
+北海道,七飯町,飯田甚兵衛の地蔵,有形文化財,,町指定,1991-09-03,,第2号文化財。飯田郷の頭取飯田甚兵衛が母を供養するために建立した地蔵尊。背面に銘文が刻まれている。,http://www2.town.nanae.hokkaido.jp/rekisikan/menu_1/bunkazai/shitei.html,html,2026-07-05T14:09:52Z,JMH-013374-0002
+北海道,七飯町,官私山林区別絵図,有形文化財,,町指定,2005-05-13,,第3号文化財。明治初期の七重村における土地利用状況が詳細に描かれている絵図。作成年は明治10年（1877）から明治14年（1881）に限定される。,http://www2.town.nanae.hokkaido.jp/rekisikan/menu_1/bunkazai/shitei.html,html,2026-07-05T14:09:52Z,JMH-013374-0003
+北海道,七飯町,峠下村絵図,有形文化財,,町指定,2013-01-15,,第4号文化財。江戸時代末期に峠下村並びに大沼地区の様子を描いた絵図。,http://www2.town.nanae.hokkaido.jp/rekisikan/menu_1/bunkazai/shitei.html,html,2026-07-05T14:09:52Z,JMH-013374-0004
+北海道,北見市,屯田兵屋,有形文化財,有形文化財,市指定,,北見市公園町1番地北網圏北見文化センター,北見市指定文化財第1号。明治30年から31年にかけて、屯田兵の各戸主に与えられた屯田兵屋。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0008
+北海道,北見市,屯田兵人形,民俗文化財,民俗文化財,市指定,,北見市川東412番地信善光寺,北見市指定文化財第2号。人形は全75体あり、全て実在の屯田兵をモデルにしている。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0007
+北海道,北見市,ピーボディ・マルチニー銃,有形文化財,有形文化財,市指定,,北見市公園町1番地北網圏北見文化センター,北見市指定文化財第3号。プロビデンス兵器会社（アメリカ合衆国）製で、昭和44年に北見市青葉町で発見された。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0003
+北海道,北見市,広郷遺跡の出土遺物,有形文化財,有形文化財,市指定,,北見市公園町1番地北網圏北見文化センター,北見市指定文化財第4号。旧石器時代終末期（約1万年前）。広郷型細石刃・広郷型細石刃核と呼称される。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0009
+北海道,北見市,中ノ島遺跡の出土遺物,有形文化財,有形文化財,市指定,,北見市公園町1番地北網圏北見文化センター,北見市指定文化財第5号。縄文早期からアイヌ期にかけての複合遺跡。縄文晩期末に編年される土器群。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0004
+北海道,北見市,北進遺跡の出土遺物,有形文化財,有形文化財,市指定,,北見市公園町1番地北網圏北見文化センター,北見市指定文化財第6号。旧石器時代終末期（約1万3千年前）。峠下型細石刃石核・荒屋型彫器を中心とする石器組成。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0006
+北海道,北見市,鎖塚の区域,記念物(史跡・名勝・天然記念物),史跡,市指定,,北見市端野町緋牛内842番地8,北見市指定文化財第7号。中央道路開削に動員され斃死した囚人が埋葬されたと言われている区域。3基の土饅頭、供養碑、六地蔵等がある。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0013
+北海道,北見市,旧野付牛屯田第四大隊第一中隊本部被服糧秣庫,有形文化財,有形文化財,市指定,,北見市端野町一区649番地8,北見市指定文化財第8号。明治29年建造。市内に残る唯一の屯田兵関連の公的建築物。現在も一区神社拝殿として使用。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0010
+北海道,北見市,緋牛内の大カシワ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,北見市端野町緋牛内780番地8,北見市指定文化財第9号。幹周は約5メートル。株立ちが1本のものでは全国一。樹齢300～350年以上と推定。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0012
+北海道,北見市,ピアソン記念館,有形文化財,有形文化財,市指定,,北見市幸町7丁目4番28号,北見市指定文化財第10号。大正3年、ピアソン宣教師夫妻の住宅として建設。設計はW.M.ヴォーリズ氏。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0002
+北海道,北見市,北見ハッカ記念館,有形文化財,有形文化財,市指定,,北見市南仲町1丁目7番28号,北見市指定文化財第11号。昭和9年、北聯北見薄荷工場の事務所兼研究室として建築。ハーフテンバースタイルの洋風建築。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0005
+北海道,北見市,武華駅逓,有形文化財,有形文化財,市指定,,北見市留辺蘂町滝の湯127番地,北見市指定文化財第12号。大正9年、官設駅逓として改札された。保存良好な代表的北海道駅逓建築物。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0011
+北海道,北見市,カタクリ及び周囲の北方性落葉広葉樹林,記念物(史跡・名勝・天然記念物),天然記念物,市指定,,北見市端野町,北見市指定文化財第13号。カタクリは日本のほぼ東限に分布。自家和合性を獲得。観察会の時のみ公開。,https://www.city.kitami.lg.jp/administration/education/detail.php?content=9557,html,2026-07-05T14:09:40Z,JMH-012084-0001
+北海道,上富良野町,東中尋常高等小学校御真影奉置所,有形文化財,有形文化財,町指定,1973-06-15,上富良野町東８線北18号,員数1棟。所有者：東中住民会。構造：木造（総水松材）、形式：不明、面積2.78m2、高さ3.09m。建築年代：大正4年10月。八幡神社境内に保存。,https://www.town.kamifurano.hokkaido.jp/index.php?id=2056,html,2026-07-05T14:09:57Z,JMH-014605-0001
+北海道,上富良野町,憩いの楡,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-02-26,上富良野町西３線北29号,員数5m2。所有者：上富良野町。明治30年4月、三重県からの団体移住の際、田中常次郎一行8名が楡の木の下で一夜を過ごしたことを記念した石碑。,https://www.town.kamifurano.hokkaido.jp/index.php?id=2056,html,2026-07-05T14:09:57Z,JMH-014605-0002
+北海道,上富良野町,富原地区地神及び山の神,記念物(史跡・名勝・天然記念物),史跡,町指定,1980-12-09,上富良野町東７線北24号,員数2体。所有者：富原住民会。四国出身者により創祀されたとされ、富良野地方で最も古い史跡。,https://www.town.kamifurano.hokkaido.jp/index.php?id=2056,html,2026-07-05T14:09:57Z,JMH-014605-0003
+北海道,上富良野町,上富良野町郷土館,有形文化財,有形文化財/建造物,町指定,2022-01-24,上富良野町富町1丁目3番30号,"員数1棟。所有者：上富良野町。昭和53年開館、大正8年当時の役場庁舎をモデルに建設。郷土資料約25,000点所蔵。",https://www.town.kamifurano.hokkaido.jp/index.php?id=2056,html,2026-07-05T14:09:57Z,JMH-014605-0004
+北海道,上富良野町,上富良野町開拓記念館,有形文化財,有形文化財/建造物,町指定,2022-01-24,上富良野町西３線北28号,員数1棟。所有者：上富良野町。平成9年開館、村長吉田貞次郎の住宅を解体復元したもの。,https://www.town.kamifurano.hokkaido.jp/index.php?id=2056,html,2026-07-05T14:09:57Z,JMH-014605-0005
+北海道,上富良野町,後藤純男の絵画作品,有形文化財,有形文化財/美術工芸品,町指定,2022-01-24,上富良野町東４線北21号,員数371点。所有者：上富良野町。後藤純男氏（1930～2016）の作品371点が町へ寄贈された。,https://www.town.kamifurano.hokkaido.jp/index.php?id=2056,html,2026-07-05T14:09:57Z,JMH-014605-0006
+北海道,弟子屈町,屈斜路湖マリゴケ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1969-07-11,,,https://www.town.teshikaga.hokkaido.jp/kurashi/soshikiichiran/kyoikuiinkai_shakaikyoikuka/2/2/658.html,html,2026-07-05T14:09:59Z,JMH-016659-0001
+北海道,弟子屈町,鐺別獅子舞,無形文化財,無形文化財（民俗/郷土芸能）,町指定,1971-07-31,,,https://www.town.teshikaga.hokkaido.jp/kurashi/soshikiichiran/kyoikuiinkai_shakaikyoikuka/2/2/658.html,html,2026-07-05T14:09:59Z,JMH-016659-0003
+北海道,弟子屈町,仁多獅子舞,無形文化財,無形文化財（民俗/郷土芸能）,町指定,1971-07-31,,,https://www.town.teshikaga.hokkaido.jp/kurashi/soshikiichiran/kyoikuiinkai_shakaikyoikuka/2/2/658.html,html,2026-07-05T14:09:59Z,JMH-016659-0002
+北海道,弟子屈町,川湯ばやし,無形文化財,無形文化財（民俗/郷土芸能）,町指定,2025-02-26,,,https://www.town.teshikaga.hokkaido.jp/kurashi/soshikiichiran/kyoikuiinkai_shakaikyoikuka/2/2/658.html,html,2026-07-05T14:09:59Z,JMH-016659-0004
+北海道,別海町,西別開基の松,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0012
+北海道,別海町,野付の千島桜,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0014
+北海道,別海町,試作場の桜,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0013
+北海道,別海町,オクユキウスの大楢,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0001
+北海道,別海町,風連の楢林・開墾記念のスモモ,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0016
+北海道,別海町,奥行臼駅,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0005
+北海道,別海町,蝋山の松,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0011
+北海道,別海町,本別海一本松,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0010
+北海道,別海町,役場支所の柏,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0007
+北海道,別海町,旧別海村営軌道風連線奥行臼停留所,記念物(史跡・名勝・天然記念物),,町指定,,,目次では「旧別海村営軌道風蓮線奥行臼停留所」とも表記,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0008
+北海道,別海町,広野開拓六気の柏,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0006
+北海道,別海町,上西春別小学校の柏,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0002
+北海道,別海町,加賀家文書,有形文化財,,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0003
+北海道,別海町,野付半島沖マンモスゾウ化石群,記念物(史跡・名勝・天然記念物),,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0015
+北海道,別海町,厨子入南矢臼別馬頭観世音菩薩坐像,有形文化財,,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0004
+北海道,別海町,旧柏野尋常小学校奉安殿,有形文化財,,町指定,,,,https://betsukai.jp/kyoiku/culture/bunkazai/cho_bunkazai/,html,2026-07-05T14:10:00Z,JMH-016918-0009
+北海道,留萌市,黄金岬の日和山烽火台跡,記念物(史跡・名勝・天然記念物),,市指定,1999-09-27,留萌市大町2丁目（平成元年度に標柱設置）,夜になると黄金岬の高台に積まれた薪に火が入れられ、岬から海を照らし、沖行く弁財船の男たちに航海の安全を知らせた。,https://www.e-rumoi.jp/syougaigakusyu/page29_00025.html,html,2026-07-05T14:09:42Z,JMH-012122-0004
+北海道,留萌市,三泊漁港遺跡,記念物(史跡・名勝・天然記念物),,市指定,1999-09-27,留萌市三泊町（平成2年度標柱設置）,標高2.5m～3mの砂丘上に乗る遺跡。砂丘の形成期は縄文時代前期（約5500年前）あたりと推測される。,https://www.e-rumoi.jp/syougaigakusyu/page29_00025.html,html,2026-07-05T14:09:42Z,JMH-012122-0002
+北海道,留萌市,星兜残欠,有形文化財,,市指定,1999-09-27,留萌市大町2丁目（海のふるさと館にて展示中）,平安時代末期に作られたといわれる兜。一緒に出土した杏葉（胴丸鎧の肩や腕を守る付属品）も展示。,https://www.e-rumoi.jp/syougaigakusyu/page29_00025.html,html,2026-07-05T14:09:42Z,JMH-012122-0003
+北海道,留萌市,アトゥシ（2点）,有形文化財,,市指定,1999-09-27,留萌市大町2丁目（海のふるさと館）【現在、公開しておりません】,員数2点。アイヌの樹皮衣で、オヒョウニレの内皮の繊維を撚った糸で織った布で作った服。,https://www.e-rumoi.jp/syougaigakusyu/page29_00025.html,html,2026-07-05T14:09:42Z,JMH-012122-0001
+北海道,留萌市,旧五十嵐億太郎邸跡地,記念物(史跡・名勝・天然記念物),,市指定,2017-05-16,留萌市大町3丁目37－2内,留萌市特別功労者五十嵐億太郎の邸宅があった場所で、昭和43年（1968）に旧留萌湊神社が建設された場所。留萌の歴史を語る史跡。,https://www.e-rumoi.jp/syougaigakusyu/page29_00025.html,html,2026-07-05T14:09:42Z,JMH-012122-0005
+北海道,岩見沢市,辻村家ガラス乾板写真及び関連資料,有形文化財,,市指定,2025-12-24,,明治30年代後半から昭和10年代前半にかけて撮影されたガラス乾板写真と、ガラス乾板を入れていた紙箱等の関連資料。被写体は家族、農場、道内観光地等多岐にわたる。令和7年12月24日新規指定。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0008
+北海道,岩見沢市,石器群,有形文化財,,市指定,1968-11-03,岩見沢郷土科学館（岩見沢市志文町809番地）,縄文時代中頃から後期旧石器時代のもの。展示先：岩見沢郷土科学館。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0003
+北海道,岩見沢市,巖見澤紀碑,有形文化財,,市指定,1968-11-03,岩見沢神社境内（岩見沢市12条西1丁目）,岩見沢開拓の苦労を伝える碑 明治38年石黒長平氏建立。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0002
+北海道,岩見沢市,一の沢水源池取水塔,有形文化財,,市指定,1978-12-08,三笠市萱野東,水道施設として、全国でも16番目、取水塔を持つ施設としては道内初。明治41年竣工、水道史上貴重な施設として近代水道百選に選ばれる。所有者：岩見沢市。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0005
+北海道,岩見沢市,旧國兼家住宅,有形文化財,,市指定,1978-12-08,岩見沢市北本町東1丁目64番地,大正初期に建てられた土縁付き縁側回りの構成で、この形式の遺構は道央地方では珍しい住宅である。所有者：岩見沢市。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0006
+北海道,岩見沢市,阿弥陀如来立像,有形文化財,,市指定,1991-10-01,岩見沢市大願町131番地,藤原彫刻を踏襲した流れをくむ鎌倉時代中期の地方仏師の刀痕によるものと推定され、衣文の構成や彫法は快慶様式の顕著で、体内には数々の貴重な資料が納入されている。所有者：成就山 大願寺。随時拝観可能、見学等は0126-25-0625（大願寺）。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0007
+北海道,岩見沢市,岩見沢雅楽会,無形文化財,,市指定,1968-11-03,,明治末期、農業開拓者として入植された方々が営農の余暇に奏楽、宮廷雅楽の伝統を継承している。会長 高松 重徳（岩見沢市鳩が丘1丁目）。現在活動休止中。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0001
+北海道,岩見沢市,砺波獅子舞,無形文化財,,市指定,1972-11-03,,富山県から入植と同時に郷里より伝承されたもので、開拓の御神霊を慰め奉り、悪魔を払い願いごとのかなえられる行事として保存伝承する。現在活動休止中。,https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/3/3/4464.html,html,2026-07-05T14:09:43Z,JMH-012106-0004
+北海道,福島町,福島大神宮祭礼行列,民俗文化財,無形民俗文化財,町指定,1968-11-03,,毎年福島大神宮例大祭に行われる祭礼行列。四ケ散米行列と奴行列がある。京風の影響を受けた開拓初期の松前文化の特色を備える。,https://www.town.fukushima.hokkaido.jp/kyouiku/%E7%A6%8F%E5%B3%B6%E7%94%BA%E3%81%AE%E6%96%87%E5%8C%96%E8%B2%A1/,html,2026-07-05T14:09:54Z,JMH-013323-0002
+北海道,福島町,白符荒馬踊,民俗文化財,無形民俗文化財,町指定,1968-11-03,,毎年7月、白符大神宮例大祭で行われる郷土芸能。「荒馬踊」「杵振舞」「棒振舞」「ヤセヤセ踊」の四つの踊りからなる。,https://www.town.fukushima.hokkaido.jp/kyouiku/%E7%A6%8F%E5%B3%B6%E7%94%BA%E3%81%AE%E6%96%87%E5%8C%96%E8%B2%A1/,html,2026-07-05T14:09:54Z,JMH-013323-0001
+北海道,福島町,神楽用獅子頭,民俗文化財,有形民俗文化財,町指定,1995-11-03,,松前神楽に使用される獅子頭。文化4年（1807年）福島大神宮本殿の火事で神楽道具が消失したため各村有志の氏子らによって寄進された。松前の彫物師清兵衛が制作。,https://www.town.fukushima.hokkaido.jp/kyouiku/%E7%A6%8F%E5%B3%B6%E7%94%BA%E3%81%AE%E6%96%87%E5%8C%96%E8%B2%A1/,html,2026-07-05T14:09:54Z,JMH-013323-0004
+北海道,福島町,円空作観世音菩薩像,有形文化財,有形文化財,町指定,1990-07-13,,江戸前期の行脚僧円空が寛文6年（1666年）に彫った木像。鉈彫り観音。「来迎観音像」と呼ばれる。,https://www.town.fukushima.hokkaido.jp/kyouiku/%E7%A6%8F%E5%B3%B6%E7%94%BA%E3%81%AE%E6%96%87%E5%8C%96%E8%B2%A1/,html,2026-07-05T14:09:54Z,JMH-013323-0003
+北海道,深川市,芽生神社本殿,有形文化財,有形文化財,市指定,1971-05-20,深川市メム6号本通り,明治33年に建立。ヤチダモを素材に用い、1.4メートルの竜の彫刻をはじめ壁や破風に彫刻が施されている。昭和12年10月にさや掛け施工。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0001
+北海道,深川市,屯田兵屋,有形文化財,有形文化財,市指定,1977-06-21,深川市西町3番15号 生きがい文化センター敷地内,明治28年と29年に一已と納内に入植した屯田兵の住居を復元移築した建物。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0002
+北海道,深川市,旧鷲田農場事務所,有形文化財,有形文化財,市指定,1977-06-21,深川市音江町2丁目11番38号,鷲田軍蔵氏が事務所と住居を兼ねて明治43年から3年かけて建てた。平成13年に改修。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0003
+北海道,深川市,音江法華駅逓所跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1980-07-03,深川市音江町字音江42番地3,明治22年6月に建物が完成し、音江法華駅逓所事業が始まった。上川街道の中継点として重要な役割を果たした。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0007
+北海道,深川市,屯田歩兵第一大隊本部跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1980-07-03,深川市一已町字一已4151番地3-5,屯田歩兵第一大隊の本部がおかれていた場所。現在教円寺の境内にある。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0005
+北海道,深川市,監的壕（カンテキゴウ）,記念物(史跡・名勝・天然記念物),史跡,市指定,1980-07-03,深川市一已町字一已2527番地10,屯田兵の射撃訓練場跡。昭和7年に在郷軍人分会によりコンクリート造りになった。丸山寺の裏手にある。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0006
+北海道,深川市,先住民族の竪穴住居跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1980-07-03,深川市納内町字納内4168番地地先,納内東端に位置する約千年前の擦文時代の住居跡。発掘調査で掘立柱穴やかまど跡を発見、土器などが出土。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0004
+北海道,深川市,深川市水稲発祥の地,記念物(史跡・名勝・天然記念物),史跡,市指定,1982-04-01,深川市音江町字音江400番地12,明治23年に高橋惣吉氏が音江川沿いの湿地に種もみをおろし、深川市での最初の水稲栽培といわれる。,https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lriq.html,html,2026-07-05T14:09:45Z,JMH-012289-0008
+北海道,中標津町,蛙意匠の土器（1点）,有形文化財,,町指定,1997-12-22,中標津町郷土館（中標津町）,"1点。土器、深鉢（４ケ所の頂点を持つ波状口縁）。寸法：高さ49.5㎝、口径36.7㎝、底径12㎝。製作年代：続縄文時代初頭（弥生時代初頭に相当、約2,200～2,300年前）。採集・発見年月日：昭和38年10月。採集・発見場所：中標津町46線北６号、字当幌1475,1476番地（中標津町西竹遺跡N-03-3）。蛙意匠部分の計測地及び文様①高さ5.9㎝、幅4.0㎝、厚さ1.7㎝、文様（左より４・８・４の３列に刺突文）②高さ5.5㎝、幅4.4㎝、厚さ1.8㎝、文様（左より１・４・10・４・１の５列に刺突文）。郷土館内に常設展示中",https://www.nakashibetsu.jp/kyoudokan_web/bunkazai.htm,html,2026-07-05T14:10:00Z,JMH-016926-0001
+北海道,江差町,法華寺・八方睨みの龍の壁画,有形文化財,有形文化財,町指定,1971-12-05,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0002
+北海道,江差町,法華寺・山門,有形文化財,有形文化財,町指定,1971-12-05,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0003
+北海道,江差町,阿弥陀如来像（円空仏）,有形文化財,有形文化財,町指定,1977-02-17,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0009
+北海道,江差町,来迎観音像（円空仏）,有形文化財,有形文化財,町指定,1977-02-17,,同名物件のうち1件目,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0007
+北海道,江差町,来迎観音像（円空仏）,有形文化財,有形文化財,町指定,1977-02-17,,同名物件のうち2件目,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0008
+北海道,江差町,霰庵の句碑,有形文化財,有形文化財,町指定,1977-02-17,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0010
+北海道,江差町,関川家別荘,有形文化財,有形文化財,町指定,1981-07-14,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0013
+北海道,江差町,金丸家住宅　母屋及び土蔵,有形文化財,有形文化財,町指定,1982-07-22,,母屋及び土蔵,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0016
+北海道,江差町,子安地蔵菩薩像（木喰仏）,有形文化財,有形文化財,町指定,1987-10-27,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0019
+北海道,江差町,地蔵菩薩像（木喰仏）,有形文化財,有形文化財,町指定,1987-10-27,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0018
+北海道,江差町,江差八勝の額,有形文化財,有形文化財,町指定,1987-10-27,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0020
+北海道,江差町,「隆民殿」の額,有形文化財,有形文化財,町指定,1987-10-27,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0017
+北海道,江差町,松沢伊八翁紀念碑,有形文化財,有形文化財,町指定,1991-11-26,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0023
+北海道,江差町,瓊江丸紀念碑,有形文化財,有形文化財,町指定,1991-11-26,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0025
+北海道,江差町,尾山徹三先生之墓,有形文化財,有形文化財,町指定,1991-11-26,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0022
+北海道,江差町,開陽丸出土遺物,有形文化財,有形文化財,町指定,1991-11-26,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0027
+北海道,江差町,贈従五位鈴鹿甚右衛門之碑,有形文化財,有形文化財,町指定,1991-11-26,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0026
+北海道,江差町,船絵馬　2枚,民俗文化財,有形民俗文化財,町指定,1981-07-14,,2枚,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0012
+北海道,江差町,船絵馬,民俗文化財,有形民俗文化財,町指定,1987-10-27,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0021
+北海道,江差町,祭礼山車蛭子山水引猩々緋水引,民俗文化財,有形民俗文化財,町指定,1999-04-19,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0031
+北海道,江差町,祭礼山車蛭子山人形御面相及び付属品,民俗文化財,有形民俗文化財,町指定,1999-04-19,,人形御面相及び付属品,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0030
+北海道,江差町,祭礼山車豊年山水引唐子春秋之図,民俗文化財,有形民俗文化財,町指定,1999-04-19,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0032
+北海道,江差町,祭礼山車豊年山水引日本三景之図,民俗文化財,有形民俗文化財,町指定,1999-04-19,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0033
+北海道,江差町,祭礼山車聖武山人形御面相及び付属品,民俗文化財,有形民俗文化財,町指定,1999-04-19,,人形御面相及び付属品,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0029
+北海道,江差町,江差土場鹿子舞,民俗文化財,無形民俗文化財,町指定,1973-02-05,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0004
+北海道,江差町,江差田沢鹿子舞,民俗文化財,無形民俗文化財,町指定,1973-02-05,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0005
+北海道,江差町,江差鹿子舞,民俗文化財,無形民俗文化財,町指定,1973-02-05,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0006
+北海道,江差町,江差鮫踊り,民俗文化財,無形民俗文化財,町指定,1991-11-26,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0024
+北海道,江差町,江差追分踊り,民俗文化財,無形民俗文化財,町指定,1995-06-13,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0028
+北海道,江差町,戊辰の役戦死者の墳墓,記念物(史跡・名勝・天然記念物),史跡,町指定,1971-12-05,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0001
+北海道,江差町,かもめ島砲台跡　2ケ所,記念物(史跡・名勝・天然記念物),史跡,町指定,1981-07-14,,2ケ所,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0011
+北海道,江差町,北前係船柱及び同跡（かもめ島周辺）,記念物(史跡・名勝・天然記念物),史跡,町指定,1982-07-22,かもめ島周辺,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0014
+北海道,江差町,北前船飲用井戸,記念物(史跡・名勝・天然記念物),史跡,町指定,1982-07-22,,,https://www.hokkaido-esashi.jp/modules/towninfo/content0084.html,html,2026-07-05T14:09:55Z,JMH-013609-0015
+北海道,音更町,十勝駒踊,民俗文化財,郷土芸能,町指定,,十勝駒踊保存会,大正5年に、十勝種馬所の職員らにより始められた。洞内南部駒踊を継承し、毎年駒場神社の秋祭りに奉納される。,https://www.town.otofuke.hokkaido.jp/kyoiku/bunka/tyousiteibunkazai.html,html,2026-07-05T14:09:59Z,JMH-016314-0002
+北海道,音更町,東士狩獅子舞,民俗文化財,郷土芸能,町指定,,東士狩獅子舞保存会,郷里富山県から道具衣装を取り寄せ、明治35年に始められた。毎年東士狩神社の秋祭りに奉納。獅子は「百足獅子」。,https://www.town.otofuke.hokkaido.jp/kyoiku/bunka/tyousiteibunkazai.html,html,2026-07-05T14:09:59Z,JMH-016314-0003
+北海道,音更町,矢部獅子舞,民俗文化財,郷土芸能,町指定,,矢部獅子舞保存会,郷里富山県での経験者が指導者になり、明治37年に始められた。毎年住吉神社の秋祭りに奉納。獅子は「百足獅子」。,https://www.town.otofuke.hokkaido.jp/kyoiku/bunka/tyousiteibunkazai.html,html,2026-07-05T14:09:59Z,JMH-016314-0004
+北海道,音更町,十勝坊主,記念物(史跡・名勝・天然記念物),構造土,町指定,,字東音更東6線41番地　所有者：音更町,2～4千年前の寒冷期に生成した化石土。土まんじゅうの形で群生をなし、この地に300個余りが確認されている。,https://www.town.otofuke.hokkaido.jp/kyoiku/bunka/tyousiteibunkazai.html,html,2026-07-05T14:09:59Z,JMH-016314-0001
+北海道,夕張市,登川神社木彫掲額,有形文化財,美術工芸品,市指定,1985-05-21,夕張市住初7番地,所有者：夕張神社。明治27年に出雲大社から登川神社に寄進されたもの。欅の材にトレースし「登川神社」と彫刻、文字を金箔で貼り付けた額。,https://www.city.yubari.lg.jp/soshiki/14/1705.html,html,2026-07-05T14:09:43Z,JMH-012092-0003
+北海道,夕張市,東郷平八郎直筆の書,有形文化財,美術工芸品,市指定,1985-05-21,夕張市住初7番地,所有者：夕張神社。東郷元帥が揮毫し夕張神社に寄贈したもの。,https://www.city.yubari.lg.jp/soshiki/14/1705.html,html,2026-07-05T14:09:43Z,JMH-012092-0001
+北海道,夕張市,欅の大杯,有形文化財,美術工芸品,市指定,1985-05-21,夕張市住初7番地,所有者：夕張神社。直径62.5センチメートル、容量21.6リットル。松竹梅に鶴亀を描いた輪島塗。,https://www.city.yubari.lg.jp/soshiki/14/1705.html,html,2026-07-05T14:09:43Z,JMH-012092-0002
+北海道,夕張市,採炭救国坑夫の像,有形文化財,美術工芸品,市指定,1987-03-09,夕張市高松6番地,所有者：夕張市。中村直人氏と地元協力者により昭和19年に制作。コンクリート製、高さ3.63メートル。,https://www.city.yubari.lg.jp/soshiki/14/1705.html,html,2026-07-05T14:09:43Z,JMH-012092-0004
+北海道,夕張市,労働のモニュメント,有形文化財,美術工芸品,市指定,1993-03-22,夕張市南清水沢4丁目48番地12（オリジナル）、夕張市高松7番地（複製）,所有者：夕張市。山内壮夫氏制作。縦1.90メートル、横1.10メートル、幅0.20メートル、18個のテラコッタ製ブロック。オリジナルは一般非公開、複製（ブロンズ製）は夕張市石炭博物館にて公開。,https://www.city.yubari.lg.jp/soshiki/14/1705.html,html,2026-07-05T14:09:43Z,JMH-012092-0005
+北海道,鷹栖町,北野神社獅子舞,民俗文化財,民俗,町指定,1978-12-12,,由来は旧金沢五社の筆頭たる金沢椿原天満宮の獅子舞が加賀藩内に伝わり、富山県砺波郡旧東野尻村苗加のものが伝承。獅子頭に1人、胴体に5人が入る。鷹栖町文化財の第1回に指定。,https://www.town.takasu.hokkaido.jp/page/1217.html,html,2026-07-05T14:09:58Z,JMH-014524-0001
+北海道,鷹栖町,治水の碑,記念物(史跡・名勝・天然記念物),史跡,町指定,1984-08-30,13線9号のヨンカシュッペ川瑞穂橋近くの町有地,昭和2年6月1日に治水工事落成を記念して建立。碑石は高さ4m、幅1.4m、厚さ0.28m、地上から頂上まで6.24m。材石は宮城県稲井産。碑文の撰および書は当時の北海道農会長の南鷹次郎。昭和59年に河川敷地の拡幅により碑石の位置が北側へ移動。,https://www.town.takasu.hokkaido.jp/page/1217.html,html,2026-07-05T14:09:58Z,JMH-014524-0002
+北海道,札幌市,清華亭,有形文化財,有形文化財,市指定,1961-06-07,北海道札幌市北区北7条西7丁目,札幌最初の公園「偕楽園」に明治13年貴賓接待所として建築。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0001
+北海道,札幌市,新琴似屯田兵中隊本部,有形文化財,有形文化財,市指定,1974-04-20,北海道札幌市北区新琴似8条3丁目,明治19年に新琴似屯田兵村の本部として建築されたもので、週番所（中隊本部）としては札幌に残る唯一のもの。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0002
+北海道,札幌市,旧黒岩家住宅（旧簾舞通行屋）,有形文化財,有形文化財,市指定,1984-03-28,北海道札幌市南区簾舞1条2丁目,明治5年に有珠新道の交通の要所となるミソマップ（簾舞）に建築されたもので、札幌における通行屋の唯一の遺構。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0006
+北海道,札幌市,木造日蓮聖人坐像,有形文化財,有形文化財,市指定,1981-07-21,北海道札幌市中央区南11条西9丁目豊葦山妙心寺,彩色寄木造りで、僧日住が厄除けのため寛文6年（1666年）に造立させたもの。所有者:豊葦山妙心寺,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0005
+北海道,札幌市,旧琴似川流域の竪穴住居跡分布図,有形文化財,有形文化財,市指定,2004-08-25,北海道札幌市中央区南22条西13丁目札幌市埋蔵文化財センタ一,明治27・28年頃高畑宜一氏により作成された、市内都心部から北区麻生町付近までの擦文時代（約1300年～800年前）の竪穴住居跡の窪みを約720カ所記録した分布図。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0008
+北海道,札幌市,札幌市N30遺跡出土品,有形文化財,有形文化財,市指定,2004-08-25,北海道札幌市中央区南22条西13丁目札幌市埋蔵文化財センタ一,平成7・8年に、西区二十四軒4条1丁目で発掘調査した縄文時代後期から晩期（約3700～2300年前）の出土品（1413点）。縄文時代晩期末の墓からは、土偶やサメの歯も出土。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0009
+北海道,札幌市,札幌独立キリスト教会文書,有形文化財,有形文化財,市指定,2016-07-28,北海道札幌市中央区大通西22丁目札幌独立キリスト教会,クラ一ク博士起草の「イエスを信ずる者の契約」等、明治初期の文書計7点。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0010
+北海道,札幌市,旧札幌控訴院,有形文化財,有形文化財,市指定,2018-03-08,北海道札幌市中央区大通西13丁目,大正15年に建てられた、煉瓦・軟石・RC構造の洋風建築物。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0011
+北海道,札幌市,丘珠獅子舞,無形文化財,無形文化財,市指定,1974-10-25,北海道札幌市東区丘珠（保持団体住所）,明治25年に富山県からの移住者によって伝えられ、伝承してきた獅子舞。所有者:丘珠獅子舞保存会,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0003
+北海道,札幌市,手稲山口バッタ塚,記念物(史跡・名勝・天然記念物),史跡,市指定,1978-08-21,北海道札幌市手稲区手稲山口324-308,明治16年にトノサマバッタの大群を駆除するために、大量の卵のうを埋めた畝状の塚跡。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0004
+北海道,札幌市,札幌村・大友亀太郎関係歴史資料及び史跡,有形文化財,有形文化財及び史跡,市指定,1987-02-20,北海道札幌市東区北13条東16丁目札幌村郷土記念館,種類:市指定有形文化財及び史跡。慶応2年（1866年）、札幌村は大友亀太郎によって開拓が進められ、その後、玉葱栽培の先進地として発展した。これらの歴史資料及び役宅跡。,https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv,html,2026-07-05T14:09:35Z,JMH-011002-0007
+北海道,網走市,永専寺山門,有形文化財,有形文化財,市指定,1979-02-10,網走市南6条東2丁目,明治末期に作られた旧網走刑務所正門で、大正11年に永専寺山門として移築された。和風と洋風混合の独特のつくり。,https://www.city.abashiri.hokkaido.jp/soshiki/2/1062.html,html,2026-07-05T14:09:41Z,JMH-012114-0001
+北海道,網走市,鱒浦稲荷神社絵馬,有形文化財,有形文化財,市指定,1979-02-10,網走市字鱒浦78番地,漁業場所請負人であった又十藤野が守護神であった鱒浦稲荷神社に奉納した絵馬で、弘化2年から明治8年まで奉納された。,https://www.city.abashiri.hokkaido.jp/soshiki/2/1062.html,html,2026-07-05T14:09:41Z,JMH-012114-0002
+北海道,網走市,網走神社絵馬,有形文化財,有形文化財,市指定,1979-09-10,網走市桂町2丁目1,又十藤野が航海の安全と大願成就の感謝のしるしとして奉納した絵馬で、文政4年から明治6年まで奉納された。,https://www.city.abashiri.hokkaido.jp/soshiki/2/1062.html,html,2026-07-05T14:09:41Z,JMH-012114-0003
+北海道,網走市,ポンモイ柱状節理,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1983-03-05,網走市台町3丁目,大規模に広がっている安山岩の柱状節理。地質学上貴重な価値がある。,https://www.city.abashiri.hokkaido.jp/soshiki/2/1062.html,html,2026-07-05T14:09:41Z,JMH-012114-0004
+北海道,富良野市,富良野獅子舞,民俗文化財,民俗文化財,市指定,1969-02-19,,第1号。富山県砺波市五郎丸にルーツをもつ砺波獅子。頭1・中足6・尾1の8名で舞う百足獅子。演目は「宮まいり」「七五三」「祇園ばやし」「吉作」「狂振り」「にらみ」。,https://www.city.furano.hokkaido.jp/life/docs/801900.html,html,2026-07-05T14:09:51Z,JMH-012297-0001
+北海道,富良野市,北海道中央経緯度観測標,記念物(史跡・名勝・天然記念物),,市指定,1971-07-13,富良野尋常小学校（現富良野小学校）校庭,第2号。1914年（大正3年）「北海道No.114下富良野」測定点として設置。長さ95センチメートル・幅65センチメートルのコンクリート製台座。1992年（平成4年）指定理由の一部を改正。,https://www.city.furano.hokkaido.jp/life/docs/801900.html,html,2026-07-05T14:09:51Z,JMH-012297-0002
+北海道,富良野市,北大第八農場富良野成墾記念碑,記念物(史跡・名勝・天然記念物),,市指定,2003-12-22,市内中五区の天満宮境内,第3号。1909年（明治42年）5月建立、市内最古の歴史的な開発記念碑。軟石を積み上げた台座と石柱で構成。成墾記念碑額「沃穣嘉穀」(佐藤昌介)、台字「成墾記念碑」(南鷹次郎)、碑文は伊藤廣幾初代所長による。第4号（山部成墾記念碑）と同年設置。,https://www.city.furano.hokkaido.jp/life/docs/801900.html,html,2026-07-05T14:09:51Z,JMH-012297-0003
+北海道,富良野市,北大第八農場富良野成墾記念碑,記念物(史跡・名勝・天然記念物),,市指定,2003-12-22,市内中五区の山部神社境内,第4号。1909年（明治42年）5月建立。軟石を積み上げた台座と石柱で構成。成墾記念碑額「沃穣嘉穀」(佐藤昌介)、台字「成墾記念碑」(南鷹次郎)、碑文は伊藤廣幾初代所長による。第3号（富良野成墾記念碑）と同年設置。,https://www.city.furano.hokkaido.jp/life/docs/801900.html,html,2026-07-05T14:09:51Z,JMH-012297-0004
+北海道,伊達市,旧伊達邸庭園,記念物(史跡・名勝・天然記念物),史跡,市指定,1973-12-27,北海道伊達市梅本町61番地2,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0015
+北海道,伊達市,鍬入れの碑,記念物(史跡・名勝・天然記念物),史跡,市指定,1973-12-27,北海道伊達市梅本町37番地4,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0017
+北海道,伊達市,館山チャシ,記念物(史跡・名勝・天然記念物),史跡,市指定,1973-12-27,北海道伊達市館山町6番地,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0018
+北海道,伊達市,バッタ塚,記念物(史跡・名勝・天然記念物),史跡,市指定,1973-12-27,北海道伊達市松ヶ枝町217番地,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0012
+北海道,伊達市,有珠会所跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1973-12-27,北海道伊達市有珠町86番地1の内,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0016
+北海道,伊達市,創治記念碑,記念物(史跡・名勝・天然記念物),史跡,市指定,1981-03-11,北海道伊達市梅本町57番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0019
+北海道,伊達市,ポンチャシ,記念物(史跡・名勝・天然記念物),史跡,市指定,1987-03-27,北海道伊達市向有珠町163番地2,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0022
+北海道,伊達市,茶飲み場遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1997-04-25,北海道伊達市北黄金町75番地103,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0032
+北海道,伊達市,北黄金3遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,1997-04-25,北海道伊達市北黄金町75番地の内,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0030
+北海道,伊達市,有珠6遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,2007-06-22,北海道伊達市有珠町274番地1の内,所有者:個人,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0034
+北海道,伊達市,胆振縦貫鉄道 徳舜瞥駅（国鉄胆振線 新大滝駅）跡,記念物(史跡・名勝・天然記念物),史跡,市指定,2024-07-18,北海道伊達市大滝区本町63番地6の内,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0039
+北海道,伊達市,迎賓館,有形文化財,有形文化財,市指定,1992-09-28,北海道伊達市梅本町61番地2,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0025
+北海道,伊達市,旧伊達家蔵,有形文化財,有形文化財,市指定,1992-09-28,北海道伊達市梅本町61番地2,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0024
+北海道,伊達市,バチラー夫妻記念堂,有形文化財,有形文化財,市指定,1992-09-28,北海道伊達市向有珠町119番地,所有者:日本聖公会北海道教区,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0023
+北海道,伊達市,旧もんべつ製糖所製糖機械,有形文化財,有形文化財,市指定,2004-04-23,北海道伊達市館山下町1番地8,所有者:北海道糖業道南製糖所,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0033
+北海道,伊達市,亘理伊達家指小旗,有形文化財,有形文化財,市指定,2012-09-28,北海道伊達市梅本町57番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0037
+北海道,伊達市,小野潭筆 開拓絵画資料,有形文化財,有形文化財,市指定,2024-07-18,北海道伊達市梅本町57番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0038
+北海道,伊達市,カシワ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市中稀府町85番地,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0003
+北海道,伊達市,サイカチ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市弄月町191番地2,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0007
+北海道,伊達市,サイカチ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市松ヶ枝町88番地10,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0008
+北海道,伊達市,一本柏,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市舟岡町46番地8,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0014
+北海道,伊達市,ニレ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市舟岡町143番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0010
+北海道,伊達市,ケヤキ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市元町78番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0005
+北海道,伊達市,ニレ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市元町78番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0011
+北海道,伊達市,ヒノキ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市末永町228番地2,所有者:個人,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0013
+北海道,伊達市,イチョウ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市末永町8番地24,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0002
+北海道,伊達市,カシワ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市長和町630番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0004
+北海道,伊達市,ケヤキ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市鹿島町28番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0006
+北海道,伊達市,スギ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1973-12-27,北海道伊達市向有珠町64番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0009
+北海道,伊達市,シナサワグルミ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1983-07-19,北海道伊達市鹿島町28番地1,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0020
+北海道,伊達市,カシワ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1997-04-25,北海道伊達市北黄金町75番地10,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0028
+北海道,伊達市,三本杉,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1997-04-25,北海道伊達市有珠町124番地,所有者:善光寺,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0029
+北海道,伊達市,イチョウ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1997-04-25,北海道伊達市有珠町124番地,所有者:善光寺,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0026
+北海道,伊達市,石割桜,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1997-04-25,北海道伊達市有珠町124番地,所有者:善光寺,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0031
+北海道,伊達市,イチョウ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1997-04-25,北海道伊達市元町18番地2,所有者:伊達市,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0027
+北海道,伊達市,ハルニレ,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2007-11-22,北海道伊達市大滝区本郷町10番地1,所有者:大滝開発,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0035
+北海道,伊達市,仙台神楽,民俗文化財,無形民俗文化財,市指定,1971-08-27,北海道伊達市,所有者:伊達市仙台神楽保存会,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0001
+北海道,伊達市,柳心介冑流,民俗文化財,無形民俗文化財,市指定,1984-03-10,北海道伊達市,所有者:柳心介冑流保存会,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0021
+北海道,伊達市,さんさ時雨,民俗文化財,無形民俗文化財,市指定,2008-06-27,北海道伊達市,所有者:伊達市さんさ時雨保存会,https://www.city.date.hokkaido.jp/kyoiku/detail/00001368.html,html,2026-07-05T14:09:48Z,JMH-012335-0036
+北海道,帯広市,依田勉三直筆の書「留別の詩」,有形文化財,有形文化財(美術工芸品),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0003
+北海道,帯広市,十勝監獄石油庫,有形文化財,有形文化財(建造物),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0006
+北海道,帯広市,帯広カムイトウウポポ保存会,無形文化財,無形文化財（芸能),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0008
+北海道,帯広市,ランダーの油絵,有形文化財,有形文化財(美術工芸品),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0001
+北海道,帯広市,暁遺跡出土の遺物,有形文化財,有形文化財(美術工芸品),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0009
+北海道,帯広市,八千代A遺跡出土遺物,有形文化財,有形文化財(美術工芸品),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0005
+北海道,帯広市,十勝鉄道蒸気機関車4号及び客車コハ23号,有形文化財,,市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0007
+北海道,帯広市,ロープ伝導式手押豆播機,有形文化財,有形文化財(美術工芸品),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0002
+北海道,帯広市,備忘（依田勉三自筆日記）,有形文化財,有形文化財(美術工芸品),市指定,,,,https://www.city.obihiro.hokkaido.jp/bunka/rekishi/bunkazai/1011028/index.html,html,2026-07-05T14:09:40Z,JMH-012076-0004
+北海道,恵庭市,柏木B遺跡出土品,有形文化財,有形文化財,市指定,1993-03-26,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0002
+北海道,恵庭市,有蓋須恵器坏,有形文化財,有形文化財,市指定,1993-03-26,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0001
+北海道,恵庭市,蕨手刀,有形文化財,有形文化財,市指定,1993-03-26,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0003
+北海道,恵庭市,両頭石槍,有形文化財,有形文化財,市指定,2005-06-16,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0004
+北海道,恵庭市,隆平永寶,有形文化財,有形文化財,市指定,2005-06-16,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0005
+北海道,恵庭市,カリンバ遺跡土坑墓出土品,有形文化財,有形文化財,市指定,2008-07-17,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0006
+北海道,恵庭市,柏木B遺跡環状土籬出土品,有形文化財,有形文化財,市指定,2013-05-07,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0007
+北海道,恵庭市,西島松5遺跡土坑墓出土品,有形文化財,有形文化財,市指定,2013-05-07,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0009
+北海道,恵庭市,柏木川4遺跡土坑墓・旧河道出土品,有形文化財,有形文化財,市指定,2013-05-07,恵庭市郷土資料館,,https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/kyouikuiinkaikyouikubu/kyodoshiryokan/eniwashikyodoshiryokan/3/3/1304.html,html,2026-07-05T14:09:49Z,JMH-012319-0008
+北海道,士別市,屯田兵屋,有形文化財,有形文化財,市指定,2005-09-01,西士別町ふどう公園,指定番号第1号。川津万次郎氏宅（兵屋番号67番）を復元。明治32年北海道最後の屯田入植による兵屋。平成19年改修工事完成。,https://www.city.shibetsu.lg.jp/soshikikarasagasu/shakaikyoikuka/shakaikyoikukakari/990.html,html,2026-07-05T14:09:50Z,JMH-012203-0002
+北海道,士別市,上士別遺跡,記念物(史跡・名勝・天然記念物),史跡,市指定,2005-09-01,上士別町13線南14番地,"指定番号第2号。縄文時代前期（推定7,000年前）の住居址。昭和46年発掘調査で平地式住居址4基、平地式貼床住居址1基等発見。",https://www.city.shibetsu.lg.jp/soshikikarasagasu/shakaikyoikuka/shakaikyoikukakari/990.html,html,2026-07-05T14:09:50Z,JMH-012203-0001
+北海道,士別市,祖神の松,記念物(史跡・名勝・天然記念物),天然記念物,市指定,2005-09-01,西士別町学田道有林,指定番号第3号。幹回り7.5メートル、直径2.4メートル、樹高18メートルのイチイの銘木。樹齢1千数百年と推定。,https://www.city.shibetsu.lg.jp/soshikikarasagasu/shakaikyoikuka/shakaikyoikukakari/990.html,html,2026-07-05T14:09:50Z,JMH-012203-0004
+北海道,士別市,瑞穂獅子舞,無形文化財,無形文化財,市指定,2005-09-01,朝日町中央,指定番号第4号。富山県からの移住者による越中獅子舞。大正5年奥士別神社祭典に奉納されたのが始まり。,https://www.city.shibetsu.lg.jp/soshikikarasagasu/shakaikyoikuka/shakaikyoikukakari/990.html,html,2026-07-05T14:09:50Z,JMH-012203-0003

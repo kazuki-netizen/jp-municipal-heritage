@@ -7,21 +7,22 @@ but the ~1,700 municipalities that also designate their own 文化財 publish th
 scattered, inconsistent formats — HTML tables, booklet PDFs, the occasional open-data CSV,
 and sometimes nothing at all. This project unifies them into one clean, documented dataset.
 
-**v3.4: This release covers all six Tohoku prefectures: 青森県・岩手県・宮城県・秋田県・山形県・福島県
-— 9,322 designations across 190 municipalities.** The schema is designed to scale nationally
+**v4: This release covers all six Tohoku prefectures plus 北海道: 青森県・岩手県・宮城県・秋田県・山形県・福島県・北海道
+— 9,786 designations across 227 municipalities.** The schema is designed to scale nationally
 (see [`SCHEMA.md`](SCHEMA.md)).
 
-## Coverage at a glance (v3.4)
+## Coverage at a glance (v4)
 
 | Prefecture | File | Rows | Municipalities covered / total |
 |---|---|---|---|
+| 北海道 | [`data/hokkaido.jsonl`](data/hokkaido.jsonl) | 464 | 37 / 179 (note: low online-publication rate) |
 | 青森県 | [`data/aomori.jsonl`](data/aomori.jsonl) | 818 | 35 / 40 |
 | 岩手県 | [`data/iwate.jsonl`](data/iwate.jsonl) | 1,972 | 32 / 33 |
 | 宮城県 | [`data/miyagi.jsonl`](data/miyagi.jsonl) | 1,140 | 32 / 35 |
 | 秋田県 | [`data/akita.jsonl`](data/akita.jsonl) | 1,536 | 16 / 25 |
 | 山形県 | [`data/yamagata.jsonl`](data/yamagata.jsonl) | 1,719 | 28 / 35 |
 | 福島県 | [`data/fukushima.jsonl`](data/fukushima.jsonl) | 2,137 | 46 / 59 |
-| **合計** | [`data/all.geojson`](data/all.geojson) | **9,322** | **190 / 227** |
+| **合計** | [`data/all.geojson`](data/all.geojson) | **9,786** | **227 / 406** |
 
 ## What's here
 
@@ -30,7 +31,7 @@ and sometimes nothing at all. This project unifies them into one clean, document
 | `data/{pref}.jsonl` | **Canonical datasets.** One JSON object per property. |
 | `data/{pref}.csv` | Same columns as the JSONL, UTF-8 **with BOM** so Excel opens it cleanly. |
 | `data/{pref}.geojson` | Geocoded points per prefecture (via GSI address search). |
-| [`data/all.geojson`](data/all.geojson) | Combined geojson across all six Tohoku prefectures. |
+| [`data/all.geojson`](data/all.geojson) | Combined geojson across all seven prefectures (Tohoku + Hokkaido). |
 | [`SCHEMA.md`](SCHEMA.md) | Field definitions (v1), normalization rules, and the v2 roadmap. |
 | [`docs/coverage.md`](docs/coverage.md) | Honest per-municipality coverage — including the zero-yield municipalities and the method used for each. |
 | [`docs/sources.md`](docs/sources.md) | Per-municipality source URL, format, and fetch date. |
@@ -39,9 +40,9 @@ and sometimes nothing at all. This project unifies them into one clean, document
 
 ## Data at a glance
 
-- **9,265 designations total** across all six Tohoku prefectures.
-- **jmh_id**: all rows carry a unique `JMH-XXXXXX-NNNN` identifier; all v3 IDs are preserved unchanged.
-- **Coverage**: 187 / 227 municipalities yielded records. Zero-yield municipalities are listed
+- **9,786 designations total** across seven prefectures (Tohoku 6 + Hokkaido).
+- **jmh_id**: all rows carry a unique `JMH-XXXXXX-NNNN` identifier; all v3/v3.4 IDs are preserved unchanged.
+- **Coverage**: 227 municipalities yielded records. Zero-yield municipalities are listed
   in [`docs/coverage.md`](docs/coverage.md) with the reason for each.
 
 ## Design principles
@@ -81,7 +82,7 @@ python3 site/assign_ids.py            # process all six prefectures
 To regenerate detail pages:
 
 ```bash
-python3 site/build_pages.py           # ~9,156 pages under site/p/
+python3 site/build_pages.py           # ~9,786 pages under site/p/
 ```
 
 Geocoding uses the read-only public address-search API of the Geospatial Information Authority
@@ -109,22 +110,23 @@ Underlying source materials remain the responsibility of the originating municip
 HTML表・冊子PDF・稀にオープンデータCSV……と形式がバラバラで、そもそも公開されていない自治体もあります。
 本プロジェクトは、それらを統一された、出典明記のデータセットにまとめます。
 
-**v3.3: 東北6県（青森・岩手・宮城・秋田・山形・福島）が対象です。計9,265件、187市町村。**
+**v4: 東北6県（青森・岩手・宮城・秋田・山形・福島）＋北海道が対象です。計9,786件、227市町村。**
 スキーマは全国展開を見据えて設計しています（[`SCHEMA.md`](SCHEMA.md) 参照）。
 
-### 収録データ（v3.3）
+### 収録データ（v4）
 
-| 県 | ファイル | 件数 | カバレッジ |
+| 道県 | ファイル | 件数 | カバレッジ |
 |---|---|---|---|
+| 北海道 | `data/hokkaido.jsonl` | 464 | 37 / 179市町村（※公開率低め） |
 | 青森県 | `data/aomori.jsonl` | 818 | 35 / 40市町村 |
-| 岩手県 | `data/iwate.jsonl` | 1,915 | 30 / 33市町村 |
+| 岩手県 | `data/iwate.jsonl` | 1,972 | 32 / 33市町村 |
 | 宮城県 | `data/miyagi.jsonl` | 1,140 | 32 / 35市町村 |
 | 秋田県 | `data/akita.jsonl` | 1,536 | 16 / 25市町村 |
 | 山形県 | `data/yamagata.jsonl` | 1,719 | 28 / 35市町村 |
 | 福島県 | `data/fukushima.jsonl` | 2,137 | 46 / 59市町村 |
-| 合計 | `data/all.geojson` | **9,265** | 187 / 227市町村 |
+| 合計 | `data/all.geojson` | **9,786** | 227 / 406市町村 |
 
-- **jmh_id**: 全行に `JMH-XXXXXX-NNNN` 形式の固有IDを付与。v3.3で109件追加（平泉16・洋野15・西和賀33・金ケ崎45追補）、既存IDは全件引き継ぎ（変更0件）。
+- **jmh_id**: 全行に `JMH-XXXXXX-NNNN` 形式の固有IDを付与。v4で北海道464件追加、既存IDは全件引き継ぎ（変更0件）。
 - **カバレッジ**: データが得られなかった市町村も理由付きで [`docs/coverage.md`](docs/coverage.md) に明示しています。
 
 ### 方針

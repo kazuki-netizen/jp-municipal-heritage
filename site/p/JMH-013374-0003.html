@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>官私山林区別絵図 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>官私山林区別絵図</h1>
+    <p class="jmh-id">JMH-013374-0003</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>北海道</dd>
+      <dt>市町村</dt><dd>七飯町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>指定年月日</dt><dd>2005-05-13</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>第3号文化財。明治初期の七重村における土地利用状況が詳細に描かれている絵図。作成年は明治10年（1877）から明治14年（1881）に限定される。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://www2.town.nanae.hokkaido.jp/rekisikan/menu_1/bunkazai/shitei.html" target="_blank" rel="noopener">http://www2.town.nanae.hokkaido.jp/rekisikan/menu_1/bunkazai/shitei.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"官私山林区別絵図" (JMH-013374-0003), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([41.895721, 140.694412], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([41.895721, 140.694412]).addTo(m);
+  </script>
+</body>
+</html>

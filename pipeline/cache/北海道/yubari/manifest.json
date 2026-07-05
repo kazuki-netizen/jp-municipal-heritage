@@ -1,0 +1,18 @@
+{
+  "103c9d9ceb6a1358": {
+    "url": "https://www.city.yubari.lg.jp/soshiki/14/1705.html",
+    "filename": "103c9d9ceb6a1358.html",
+    "sha256": "d237e36048e33d47d94d58d9e61c019ea8afd3169479044fd92f7fd74073897f",
+    "fetched_at": "2026-07-05T14:09:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "947c378703fb0931": {
+    "url": "https://www.city.yubari.lg.jp/shisetsuannai/bunkakyoiku/bunkazai/shiteibunkazai/index.html",
+    "filename": "947c378703fb0931.html",
+    "sha256": null,
+    "fetched_at": "2026-07-05T14:09:45Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}

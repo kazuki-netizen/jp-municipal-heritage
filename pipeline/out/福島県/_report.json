@@ -1,0 +1,19 @@
+{
+  "batch_id": "msgbatch_01UrZBwTLG2qFEtyvKtJFHGX",
+  "municipalities": {
+    "tanagura": {
+      "status": "succeeded",
+      "rows": 9,
+      "stated_official_count": 9,
+      "official_count_source": 9,
+      "notes": "原文の「国・県・町指定文化財一覧」から町指定のみ抽出。国指定・県指定は除外。原文末尾に「町指定:9件」と明記されており、抽出件数と一致。「緑の文化財一覧」は指定文化財区分が不明なため除外した。"
+    },
+    "ishikawa": {
+      "status": "succeeded",
+      "rows": 24,
+      "stated_official_count": null,
+      "official_count_source": 24,
+      "notes": "福島県指定文化財および国登録有形文化財は市町村指定ではないため除外した。町指定文化財のみを抽出。原文に町指定の件数明記なしのため stated_official_count は null。"
+    }
+  }
+}

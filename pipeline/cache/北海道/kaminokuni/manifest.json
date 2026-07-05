@@ -1,0 +1,18 @@
+{
+  "36071a1cec50e09d": {
+    "url": "https://adeac.jp/kaminokuni-town/top/",
+    "filename": "36071a1cec50e09d.html",
+    "sha256": "1a6b2a144014102adac93d403bfef2e64f69ed3ffc80dd36d40936a244156370",
+    "fetched_at": "2026-07-05T14:09:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "af9a11a2e374351d": {
+    "url": "https://www.town.kaminokuni.lg.jp/hotnews/category/266.html",
+    "filename": "af9a11a2e374351d.html",
+    "sha256": "c9d56e55b163ca8c47c2b89aea16e080a8bf6ecff354539756ebc3cd9c0c2b33",
+    "fetched_at": "2026-07-05T14:09:56Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

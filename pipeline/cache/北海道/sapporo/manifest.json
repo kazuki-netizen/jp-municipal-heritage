@@ -1,0 +1,26 @@
+{
+  "51ef307f3832f1ea": {
+    "url": "https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo/resource/d605ec7d-e6b3-4645-a9a3-0e4eba24f738/download/shiteibunkazai20180601.csv",
+    "filename": "51ef307f3832f1ea.csv",
+    "sha256": "54fb037812b2d65d5a82ecd8bd5ec9d5694c53f56f9e3e582b076f176d03bb03",
+    "fetched_at": "2026-07-05T14:09:35Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "fc9f60082a0f34a0": {
+    "url": "https://ckan.pf-sapporo.jp/dataset/bunkazai_sapporo",
+    "filename": "fc9f60082a0f34a0.html",
+    "sha256": "1b6b299278d3f27930169780bbb9a1cafc65a6cbf404e9f7e02f78e8efe3710d",
+    "fetched_at": "2026-07-05T14:09:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ca1992296cbcafb6": {
+    "url": "https://jmapps.ne.jp/sapporo_bunka/list.html",
+    "filename": "ca1992296cbcafb6.html",
+    "sha256": "6e230ec040b881b2ef03bf631b3bdf6704925c6e46d7abf9d6fe8904416371b9",
+    "fetched_at": "2026-07-05T14:09:38Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

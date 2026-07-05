@@ -17,7 +17,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CODES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "muni_codes.json")
 
-PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido"]
 
 
 def load_codes():
@@ -62,7 +62,11 @@ def process_file(src, codes, serial_max_global):
     assigned = 0
     missing_code = set()
     for muni, indices in needs_id.items():
-        mcode = codes.get(muni)
+        # Try pref-prefixed key first (handles same-name municipalities in different prefs,
+        # e.g. 伊達市 exists in both Fukushima and Hokkaido).
+        # Determine pref from first row with this municipality.
+        pref_name = rows[indices[0]].get("pref", "") if indices else ""
+        mcode = codes.get(pref_name + muni) or codes.get(muni)
         if not mcode:
             missing_code.add(muni)
             continue

@@ -1,0 +1,6 @@
+{"pref": "岩手県", "municipality": "二戸市", "slug": "ninohe", "urls": [{"url": "http://www.edu.city.ninohe.iwate.jp/~maibun/siteibunkazai.html", "format": "html", "note": "二戸市埋蔵文化財センター 市指定文化財一覧"}], "strategy": "html", "official_count": 73}
+{"pref": "岩手県", "municipality": "矢巾町", "slug": "yahaba", "urls": [{"url": "https://www.town.yahaba.iwate.jp/soshiki/kyouiku/manabi/2016021600011/", "format": "html", "note": "矢巾町 指定文化財一覧"}], "strategy": "html", "official_count": 40}
+{"pref": "岩手県", "municipality": "釜石市", "slug": "kamaishi", "urls": [{"url": "https://www.city.kamaishi.iwate.jp/docs/2025052700041/", "format": "html", "note": "釜石市 指定文化財一覧"}], "strategy": "html", "official_count": 68}
+{"pref": "岩手県", "municipality": "山田町", "slug": "yamada", "urls": [{"url": "https://www.town.yamada.iwate.jp/docs/7164.html", "format": "html", "note": "山田町 指定文化財一覧"}], "strategy": "html", "official_count": 7}
+{"pref": "福島県", "municipality": "棚倉町", "slug": "tanagura", "urls": [{"url": "https://www.town.tanagura.fukushima.jp/jumin/bunkazai/page002058.html", "format": "html", "note": "棚倉町 指定文化財一覧"}], "strategy": "html", "official_count": 9}
+{"pref": "福島県", "municipality": "石川町", "slug": "ishikawa", "urls": [{"url": "https://www.town.ishikawa.fukushima.jp/admin/hall/02/01/01/09.html", "format": "html", "note": "石川町 指定文化財一覧"}], "strategy": "html", "official_count": 24}

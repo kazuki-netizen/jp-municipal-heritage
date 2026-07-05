@@ -1,0 +1,13 @@
+{
+  "batch_id": "msgbatch_015epr82nLkR5urTU9kHvvqR",
+  "requests": 41,
+  "succeeded": 41,
+  "errored": 0,
+  "usage": {
+    "input_tokens": 225860,
+    "output_tokens": 52076,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  },
+  "batch_cost_usd": 1.2156
+}
