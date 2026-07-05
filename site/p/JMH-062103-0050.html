@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>袖無編衣（阿弥衣） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>袖無編衣（阿弥衣）</h1>
+    <p class="jmh-id">JMH-062103-0050</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>工芸品</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>小路</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 佛向寺; 概要: 材質 麻 丈104㎝ 肩幅約59㎝; 製作年代: 鎌倉時代; 編衣、縫い目無しの衣といわれている。袖無編衣は一向俊聖（いっこうしゅんじょう）が着したものと伝えられている。俊聖は、一向専修（せんじゅ）の行者として文永（ぶんえい）10年（1273）、衆生救済のため一所不住の諸国遊行に出立した。俊聖の教えに帰依するものたちにより時衆（じしゅう）一向派が形成されていく。俊聖は出雲（いずも）国（島根県）水尾宮（みずおみや）に詣で、東普円崇法師（とうしんえんすうほうし）より袖無編衣の法衣を賜ったと伝えられる。 編衣は古く縄文時代までさかのぼる。アンギンはこの編衣の流れをくむ。新潟県魚沼市塩沢町出身の鈴木牧之（ぼくし）が記した『秋山紀行（あきやまきこう）』（文政（ぶんせい）11年 〔1828〕）や『北越雪譜（ほくえつせっぷ）』（天保（てんぽう）８年 〔1837〕）にはアンギンのことが記されている。 袖無編衣の、アミゴロモの呼び名は、時宗の僧侶が着した阿弥衣からきたものと考えられる。阿弥衣は麻をむしろ編みにしたもので、時宗僧の法衣（ほうえ）として用いられた。時宗開祖一遍智真と同じ時代に生きた俊聖も同じ衣を着していたのだろう。 なお、一遍智真ゆかりの寺である京都市山科区の歓喜光寺（かんぎこうじ）（六条道場）には、元亀（げんき）３年（1572）銘のある袖付阿弥衣が伝えられる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"袖無編衣（阿弥衣）" (JMH-062103-0050), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.356258, 140.372147], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.356258, 140.372147]).addTo(m);
+  </script>
+</body>
+</html>

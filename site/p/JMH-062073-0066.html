@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>美咲町建武二年三尊板碑 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>美咲町建武二年三尊板碑</h1>
+    <p class="jmh-id">JMH-062073-0066</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>上山市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>考古資料</dd>
+      <dt>指定年月日</dt><dd>1995-02-01</dd>
+      <dt>所在地</dt><dd>上山市美咲町二丁目289-1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 個人; 土山に建武2年（1335年）造立の石碑。梵字は胎蔵界大日、観音、勢至が並び造立年月、趣旨が刻されている。「為遠忌也」の刻字は当市唯一。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.kaminoyama.yamagata.jp/soshiki/25/km201301222.html" target="_blank" rel="noopener">https://www.city.kaminoyama.yamagata.jp/soshiki/25/km201301222.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"美咲町建武二年三尊板碑" (JMH-062073-0066), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.151745, 140.282013], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.151745, 140.282013]).addTo(m);
+  </script>
+</body>
+</html>

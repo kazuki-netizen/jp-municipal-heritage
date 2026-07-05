@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>清池の六面幢 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>清池の六面幢</h1>
+    <p class="jmh-id">JMH-062103-0031</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字清池</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 天童市; 概要: 幢身245㎝ 笠石径181㎝; 製作年代: 室町時代; 山形市山寺から流れ下る立谷川の右岸、山寺から清池、高擶、寺津を結ぶ街道沿いに、「清池の大日板碑(だいにちいたび)」とともに建つ。本六面幢付近は字笠仏(かさぼとけ)と呼ばれており、近くには、永正年間(1504～21)に建立されたと伝えられる永源寺(ようげんじ)（現大字高擶）があった。 幢(どう)とは仏堂に飾る旗を意味するが、村境など往来の要衝に目印として石造の六角柱のものが建てられるようになる。この地は立谷川河原地であり、また旧清池集落西外れであったと思われる。このような境界の地は葬送の場であり、疫病(えきびょう)が侵入する場所でもあった。本六面幢は疫病の侵入を防ぐ役割を果たすカミとして建立された可能性があろう。「清池の大日板碑」と同じ凝灰岩製で上部に穿孔(せんこう)がある。穴には地蔵が納められていたようだ。境の地は賽(さい)の河原の信仰と結びつく。六面幢上部の六地蔵は賽の河原に立つ六地蔵信仰を表している。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"清池の六面幢" (JMH-062103-0031), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.326237, 140.351074], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.326237, 140.351074]).addTo(m);
+  </script>
+</body>
+</html>

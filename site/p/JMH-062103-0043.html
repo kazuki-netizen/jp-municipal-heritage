@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>絹本着色田野文仲像 歌川広重 筆 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>絹本着色田野文仲像 歌川広重 筆</h1>
+    <p class="jmh-id">JMH-062103-0043</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>老野森</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 天童市美術館; 概要: 縦70．９㎝ 横28．２㎝; 製作年代: 江戸時代後期; 田野文仲利和の画像は、黒地の衣服に黒の羽織を着た法体の姿である。羽織の紋は剣木瓜(けんもっこう)で、右手に扇子を持ち、大小の刀を置いてある。文仲の人柄を偲(しの)ばせる秀れた作品である。当時、天童藩は２万石の小藩であり、高畠より天童への移封で財政が逼迫(ひっぱく)したため、江戸で評判の歌川広重に肉筆画を依頼した。家臣の吉田専左衛門(文歌堂真名富)、木村宮之助(調歌堂真枝)が、東海道歌重の名を持つ広重の狂歌仲間といわれているが、田野文仲との親交も見逃すことができない。 田野文仲の墓所が三寳寺(さんぽうじ)にあり、その曾孫(会田孝(あいたこう)氏)が、２画像を天童市に寄贈された。天童広重としての四条派的風景画と異なった、大和絵風の人物画で、技法的にも丹念に描かれており、広重肉筆画の資料として貴重である。画面左下に「一立斎」の白文長方印と松平康邦像とは異なる「広重」の朱文方印が捺されている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"絹本着色田野文仲像 歌川広重 筆" (JMH-062103-0043), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.369514, 140.384903], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.369514, 140.384903]).addTo(m);
+  </script>
+</body>
+</html>

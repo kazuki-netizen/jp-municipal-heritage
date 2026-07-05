@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>柳鴉之図(紙本墨画雨烏図) 郷目貞繁 筆 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>柳鴉之図(紙本墨画雨烏図) 郷目貞繁 筆</h1>
+    <p class="jmh-id">JMH-062103-0028</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字寺津</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 法体寺; 概要: 縦111．５㎝ 横37．２㎝; 製作年代: 室町時代; 雨に濡れそぼる一羽の鴉。その冷たさに負けることなく、身を震わせて雨粒を振り払い、毅然として立ちつくす烏の姿に生命の真実をみたのか、水墨画の画題として好まれてきた。 描いたのは山形県の美術史上、画家として最初に名が登場する郷目貞繁である。郷目は寒河江(さがえ)城主大江氏の家臣であり、永正(えいしょう)17年（1520）に伊達軍との戦で捕虜となった記録が残っている。制作年のわかるものには、享禄(きょうろく)２年（1529）銘の「瀟相八景図(しょうそうはっけいず)」や永禄(えいろく)６年（1563）の年紀がある「神馬図」（若松寺、重要文化財）があり、郷目の活躍期はこの前後を含む約50年間と推定される。また、郷目の遺作には、細密描写による色彩画から枯淡な水墨画まで、多様な表現と画域の広さがみられ、京都で本格的な修業を経験したとも考えられている。 本図を見ると、黒々とした強い筆致の鴉に対して、薄墨色による伸びやかで早い筆致の柳を巧みに配しており、初春の雨の情景が見事に表現されている。孤絶した鴉の凛とした存在感と相まって、郷目の到達した境地が示されている晩年の作と見ることができよう。落款はなく、画面左下に朱文の壺印が捺されている。本作品の指定名称は「柳鴉之図(りゅうあのず)」であるが、画のもつ情景内容から「雨烏図」とした。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"柳鴉之図(紙本墨画雨烏図) 郷目貞繁 筆" (JMH-062103-0028), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.345284, 140.320877], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.345284, 140.320877]).addTo(m);
+  </script>
+</body>
+</html>

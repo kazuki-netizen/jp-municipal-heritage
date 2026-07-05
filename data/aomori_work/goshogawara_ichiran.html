@@ -1,0 +1,958 @@
+<!doctype html>
+<html>
+<head>
+
+<meta http-equiv="Content-Language" content="ja">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT" />
+<meta name="msvalidate.01" content="C55470F23388C90CE150DA078EE27B19" />
+
+<title>市の文化財 - 五所川原市</title>
+
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+
+<script src="/js/jquery.min.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/smartphone.js"></script>
+
+<!-- 文字サイズ変更 -->
+<script type="text/javascript">
+//文字サイズ変更
+$(document).ready(function(){
+	font_size_init();
+});
+/* ------ 共通------ */
+var uniq_name = "fcmn_";	//クッキー名称の冠[変更可]
+var keepdays = 0;			//クッキーの保存期間[変更可]
+
+/* ------ フォントサイズ変更------ */
+var step = 10;			//このパーセント刻みで文字の大小を変えます[変更可]
+var defSize = 100;		//初期値（パーセント）[変更可]
+var cookie_fs = uniq_name + "fontsize";
+
+/*------------------------------------------------------------------------------*/
+var crtSize = defSize;
+
+function font_size_init(){
+	//フォント設定が残っていたら反映する
+	var tmp_fs= $.cookie(cookie_fs);
+	if (tmp_fs) {
+		crtSize = parseInt(tmp_fs);
+		fsChange(crtSize);
+	}
+
+}
+
+
+function setCookie(key, value){
+	$.cookie(key, value, {expires:365, path:'/'});
+}
+
+function deleteCookie(key){
+	$.cookie(key, "", {expires: -1, path:'/'});
+}
+
+function fsChange(arg){
+	//未対応ブラウザ対応
+	if(!document.body){
+		s_message("n_use");
+	}else{
+		//現在のフォントサイズ値を変更
+		if(arg == "d"){
+			crtSize = defSize;
+			deleteCookie(cookie_fs);
+		}
+		else if(arg == "s"){
+			if (parseInt(crtSize) > parseInt(step) ){
+				crtSize -= parseInt(step);
+				setCookie(cookie_fs, crtSize);
+			}
+		}
+		else if(arg == "l"){
+			crtSize += parseInt(step);
+			setCookie(cookie_fs, crtSize);
+		}
+		//フォントサイズを変更
+		$('#detail,#koukoku,#footer').css('fontSize', crtSize + "%");
+	}
+}
+
+function bgChange(node_id,url_id){
+	var target = document.getElementById(node_id);
+	//未対応ブラウザ対応
+	if(!target || !target.cloneNode){
+		s_message("n_use");
+	}else{
+		target.href = eval(url_id);			//DBPSでは相対パスでURLを設定するので、毎回パスを受け取りなおします
+		setCookie(cookie_bgurl, url_id);
+		setCookie(cookie_bgid, node_id);
+	}
+}
+
+function s_message(arg){
+	if(arg == "n_use"){
+		alert("お使いのブラウザではこの機能を使用できません");
+	}
+}
+</script>
+
+<!-- アイコン付与 -->
+<script type="text/javascript">
+<!--
+
+$(document).ready(function(){
+		
+	// news icon
+	function addClass($a, _class){
+		var $tr = $a.parent().parent();
+		var $td = $($tr.children()[0]);
+		var $span = $td.find('span');
+		$span.addClass(_class);
+	}
+	var newsArr = $('#news').find('a');
+	$.each(newsArr, function(i, row){
+		var $row = $(row);
+		
+		if($row.attr('href').indexOf("kurashi/") >= 0){
+			addClass($row, 'icon-kurashi');
+		}else if($row.attr('href').indexOf("kankou/") >= 0){
+			addClass($row, 'icon-kankou');
+		}else if($row.attr('href').indexOf("kurashi/") >= 0){
+			addClass($row, 'icon-kurashi');
+		}else if($row.attr('href').indexOf("kyouiku/") >= 0){
+			addClass($row, 'icon-kyouiku');
+		}else if($row.attr('href').indexOf("kenkou/") >= 0){
+			addClass($row, 'icon-kenkou');
+		}else if($row.attr('href').indexOf("shigoto/") >= 0){
+			addClass($row, 'icon-shigoto');
+		}else if($row.attr('href').indexOf("jouhou/") >= 0){
+			addClass($row, 'icon-jouhou');
+		}else{
+			// etc
+			addClass($row, 'icon-sonota');
+		}
+	});
+});
+
+//-->
+</script>
+
+<!-- 背景色切り替え -->
+<script src="../../js/styleswitch.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/white.css" title="white" />
+<link rel="alternate stylesheet" type="text/css" href="/css/blue.css" title="blue" />
+<link rel="alternate stylesheet" type="text/css" href="/css/black.css" title="black" />
+
+<!-- 一瞬ウィンク -->
+<script type="text/javascript">
+$(function(){
+	$(".wink img, .user a").mouseover(function(){
+        $(this).css({
+            opacity: "0.6",
+            filter: "alpha(opacity=200)"
+        });
+		$(this).fadeTo("slow", 1.0);
+	});
+});
+</script>
+
+<!-- スクロールページトップ -->
+<script type="text/javascript">
+$(function() {
+	var showFlag = false;
+	var topBtn = $('#page-top');	
+	topBtn.css('bottom', '-100px');
+	var showFlag = false;
+	//スクロールが500に達したらボタン表示
+	$(window).scroll(function () {
+      if ($(this).scrollTop() > 500) {
+			if (showFlag == false) {
+				showFlag = true;
+				topBtn.stop().animate({'bottom' : '80px'}, 600); 
+			}
+		} else {
+			if (showFlag) {
+				showFlag = false;
+				topBtn.stop().animate({'bottom' : '-100px'}, 600); 
+			}
+		}
+	});
+	//スクロールしてトップ
+    topBtn.click(function () {
+		$('body,html').animate({
+			scrollTop: 0
+		}, 500);
+		return false;
+    });
+});
+</script>
+
+<!-- スクロールページバック -->
+<script type="text/javascript">
+$(function() {
+	var showFlag = false;
+	var topBtn = $('#page-back');	
+	topBtn.css('bottom', '-100px');
+	var showFlag = false;
+	//スクロールが500に達したらボタン表示
+	$(window).scroll(function () {
+      if ($(this).scrollTop() > 500) {
+			if (showFlag == false) {
+				showFlag = true;
+				topBtn.stop().animate({'bottom' : '80px'}, 600); 
+			}
+		} else {
+			if (showFlag) {
+				showFlag = false;
+				topBtn.stop().animate({'bottom' : '-100px'}, 600); 
+			}
+		}
+	});
+});
+</script>
+
+<!-- Googleアナリティクス -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38831328-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SVG0EP1BTM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SVG0EP1BTM');
+</script>
+
+
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/css/ie8.css">
+<link rel="stylesheet" type="text/css" href="/css/pc_ie8.css">
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="/js/css3-mediaqueries.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/pc.css">
+<![endif]-->
+</head>
+
+<body>
+
+<div id="contents">
+
+<!-- ▼ヘッダー▼ -->
+<p class="shadow"><a href="#navigation">ナビゲーションをスキップして本文へ</a></p>
+
+<div id="header">
+<div class="logo"><a href="/"><img src="/contents_image/logo.png" width="350" height="94" alt="青森県五所川原市"/></a></div>
+
+<div class="user">
+
+<ul class="pc">
+<li>文字</li>
+<li class="button font_m"><a class="fontsize" href="javascript:void();" onclick="fsChange('d'); return false;">標準</a></li>
+<li class="button font_l"><a class="fontsize" href="javascript:void();" onclick="fsChange('l'); return false;">大</a></li>
+<li>背景</li>
+<li class="button blue"><a href="../../?style=blue" rel="blue" class="styleswitch" title="青">A</a></li>
+<li class="button black"><a href="../../?style=black" rel="black" class="styleswitch" title="黒">A</a></li>
+<li class="button white"><a href="../../?style=white" rel="white" class="styleswitch" title="白">A</a></li>
+</ul>
+
+<div class="search">
+<!-- Google検索　画像ボタンVer -->
+<FORM method="GET" action="//www.google.co.jp/search">
+<INPUT type="text" class="search_text" name="q" maxlength=255 value="" placeholder="サイト内検索">
+<input type="image" class="search_button" src="/contents_image/search_button.png" width="30" height="30" alt="Search" title="検索" align="top" value=""/>
+<INPUT type="hidden" name="hl" value="ja">
+<INPUT type="hidden" name="as_sitesearch" value="www.city.goshogawara.lg.jp">
+<INPUT type="hidden" name="ie" value="UTF-8">
+<INPUT type="hidden" name="oe" value="UTF-8">
+</FORM>
+<!-- Google検索 -->
+</div>
+
+<div class="lang pc"><a href="/language.html">language</a></div>
+
+<div style="clear:both;"></div>
+<div class="navi_menu">｜<a href="/toiawase/">お問い合わせ</a>｜<a href="/access.html">アクセス</a>｜</div>
+</div>
+
+<div style="clear:both;"></div>
+</div><!-- ▲ヘッダー▲ -->
+
+
+
+<!-- ▼メインメニュー▼ -->
+<div id="main_menu">
+<ul>
+<li><h2><a href="/tourism/" target="_blank"><img alt="観光情報" height="30" src="/contents_image/main_menu/menu_kankou.png" width="122"></a></h2></li>
+<li><h2><a href="/kurashi/"><img src="/contents_image/main_menu/menu_kurashi.png" width="90" height="30" alt="くらし"/></a></h2></li>
+<li class="menu2"><h2><a href="/kyouiku/"><img src="/contents_image/main_menu/menu_kyouiku.png" width="142" height="50" alt="教育・文化・スポーツ"/></a></h2></li>
+<li><h2><a href="/kenkou/"><img src="/contents_image/main_menu/menu_kenkou.png" width="140" height="30" alt="健康・福祉"/></a></h2></li>
+<li><h2><a href="/shigoto/"><img src="/contents_image/main_menu/menu_shigoto.png" width="92" height="30" alt="しごと"/></a></h2></li>
+<li><h2><a href="/jouhou/"><img src="/contents_image/main_menu/menu_jouhou.png" width="120" height="30" alt="市の情報"/></a></h2></li>
+</ul>
+<div style="clear:both;"></div>
+</div>
+
+<p class="shadow"><a name="navigation">ここから本文です。</a></p><!-- ▲メインメニュー▲ -->
+
+
+<div id="detail">
+
+<!-- ▼パンくず▼ -->
+<div id="pankuzu">現在の位置：<a href="../../index.html">ホーム</a>  &gt;  <a href="../">教育・文化・スポーツ</a>  &gt;  <a href="./">文化</a>  &gt;  市の文化財</div>
+<!-- ▲パンくず▲ -->
+
+	<div id="containerInner">
+	
+<!-- ▼記事▼ -->
+<div id="page">
+
+<h1>市の文化財</h1>
+<div class="inner">
+<p>&nbsp;</p>
+
+<h2>市の文化財一覧</h2>
+
+<h3>五所川原地区</h3>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 900px;" width="666">
+	<colgroup>
+		<col>
+		<col>
+		<col>
+		<col>
+		<col>
+	</colgroup>
+	<thead>
+		<tr height="32">
+			<th height="32" scope="col" style="width: 170px; height: 32px;">名　　　　　称</th>
+			<th scope="col" style="width: 120px;">区　分</th>
+			<th scope="col" style="width: 57px;">種　類</th>
+			<th scope="col" style="width: 170px;">指　定・登　録<br>
+			年　月　日</th>
+			<th scope="col" style="width: 280px;">所　　在　　地</th>
+			<th scope="col" style="width: 170px;">所有者・管理者</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="kyuhirayamake.html"><strong>旧平山家住宅</strong></a></td>
+			<td style="width: 110px;">国指定<br>
+			重要文化財</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">昭和53年1月21日</td>
+			<td style="width: 233px;">五所川原市湊字千鳥144番地1</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="iidumehachimangu.html"><strong>飯詰八幡宮本殿</strong></a></td>
+			<td style="width: 84px;">県重宝</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">平成6年1月21日</td>
+			<td style="width: 233px;">五所川原市飯詰字福泉148番地1</td>
+			<td style="width: 233px;">
+			<p>飯詰八幡宮</p>
+			</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="kusumikejutaku.html"><strong>楠美家住宅</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">平成12年11月2日</td>
+			<td style="width: 233px;">五所川原市持子沢隠川695番地4</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="myoryuji.html"><strong>妙竜寺七面大明神宮殿</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">平成13年12月20日</td>
+			<td style="width: 233px;">五所川原市飯詰字福泉29番地</td>
+			<td style="width: 233px;">妙竜寺</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;">
+			<p><a href="abekejutaku.html"><strong>阿部家住宅主屋・文庫蔵</strong></a></p>
+			</td>
+			<td style="width: 84px;">国登録有形<br>
+			文化財</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">平成26年4月25日</td>
+			<td style="width: 233px;">五所川原市羽野木沢（個人宅）</td>
+			<td style="width: 233px;">個人</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="bonsho.html"><strong>梵鐘</strong></a></td>
+			<td style="width: 84px;">県重宝</td>
+			<td style="width: 57px;">工芸品</td>
+			<td style="width: 132px;">昭和37年11月16日</td>
+			<td style="width: 233px;">
+			<p>五所川原市飯詰字福泉224番地</p>
+
+			<p>（長円寺）</p>
+			</td>
+			<td style="width: 233px;">長円寺</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="mounaiou.html"><strong>毛内翁土功之碑</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">平成12年11月2日</td>
+			<td style="width: 233px;">
+			<p>五所川原市錦町1番地5</p>
+
+			<p>（久須志神社）</p>
+			</td>
+			<td style="width: 233px;">久須志神社</td>
+		</tr>
+		<tr>
+			<td height="36" style="width: 160px; height: 36px;"><strong><a href="ganguu.html">岩偶</a></strong></td>
+			<td style="width: 84px;">
+			<p>市指定</p>
+
+			<p>文化財</p>
+			</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">平成30年10月25日</td>
+			<td style="width: 233px;">五所川原市字布屋町41番地1</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="isenoumirisuke.html"><strong>伊勢海利助追慕碑</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">平成12年11月2日</td>
+			<td style="width: 233px;">
+			<p>五所川原市錦町1番地5</p>
+
+			<p>（久須志神社）</p>
+			</td>
+			<td style="width: 233px;">久須志神社</td>
+		</tr>
+		<tr>
+			<td height="36" style="width: 160px; height: 36px;"><a href="chiryuzannenbutsukuyotou.html">千立山願昌寺念仏供養塔</a></td>
+			<td style="width: 84px;">
+			<p>市指定<br>
+			文化財</p>
+			</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">令和５年３月20日</td>
+			<td style="width: 233px;">
+			<p>五所川原市川端町10</p>
+
+			<p>（千立山願昌寺）</p>
+			</td>
+			<td style="width: 233px;">千立山願昌寺</td>
+		</tr>
+		<tr>
+			<td height="36" style="width: 160px; height: 36px;"><a href="ongunchusoezu.html">御郡中惣絵図</a></td>
+			<td style="width: 84px;">
+			<p>市指定<br>
+			文化財&nbsp;</p>
+			</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">令和５年３月20日</td>
+			<td style="width: 233px; text-align: center;">ー</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="sueki.html"><strong>五所川原須恵器窯跡</strong></a></td>
+			<td style="width: 84px;">国指定史跡<br>
+			名勝記念物</td>
+			<td style="width: 57px;">史跡</td>
+			<td style="width: 132px;">平成16年9月30日</td>
+			<td style="width: 233px;">五所川原市持子沢字隠川695番地2他</td>
+			<td style="width: 233px;">五所川原市他</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="asaishishiodori.html"><strong>浅井獅子（鹿）踊</strong></a></td>
+			<td style="width: 84px;">県指定無形<br>
+			民俗文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">昭和37年1月12日</td>
+			<td style="width: 233px;">五所川原市浅井</td>
+			<td style="width: 233px;">浅井獅子踊保存会</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="mushiokuri.html"><strong>虫おくり</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成4年6月8日</td>
+			<td style="width: 233px;">五所川原市</td>
+			<td style="width: 233px;">五所川原市虫おくり保存会</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="urushikawashishimai.html"><strong>漆川獅子舞</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成12年11月2日</td>
+			<td style="width: 233px;">五所川原市漆川</td>
+			<td style="width: 233px;">五所川原漆川獅子舞保存会</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="jinku.html"><strong>五所川原甚句</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成13年12月20日</td>
+			<td style="width: 233px;">五所川原市（立佞武多広場）</td>
+			<td style="width: 233px;">五所川原甚句保存会</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="tachineputa.html"><strong>五所川原立佞武多</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成22年12月22日</td>
+			<td style="width: 233px;">立佞武多の館<br>
+			五所川原市大町21番地1</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr>
+			<td height="36" style="width: 160px; height: 36px;"><a href="iidsumeshishimai.html"><strong>飯詰獅子舞</strong></a></td>
+			<td style="width: 84px;">
+			<p>市指定</p>
+
+			<p>文化財</p>
+			</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成29年7月20日</td>
+			<td style="width: 233px;">五所川原市大字飯詰字福泉166番地1</td>
+			<td style="width: 233px;">飯詰獅子会</td>
+		</tr>
+		<tr>
+			<td height="36" style="width: 160px; height: 36px;"><strong><a href="hadakamairi.html">飯詰稲荷神社裸参り</a></strong></td>
+			<td style="width: 84px;">
+			<p>市指定</p>
+
+			<p>文化財</p>
+			</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成30年10月25日</td>
+			<td style="width: 233px;">五所川原市飯詰福泉405</td>
+			<td style="width: 233px;">飯詰稲荷神社総代会</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="horomuiichigo.html"><strong>ホロムイイチゴ</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">天然<br>
+			記念物</td>
+			<td style="width: 132px;">昭和50年8月27日</td>
+			<td style="width: 233px;">五所川原市長富(二ノ沢溜池内）</td>
+			<td style="width: 233px;">浮き島を守る会</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="numasugi.html"><strong>ヌマスギ</strong></a></td>
+			<td style="width: 84px;">指定第1号　 名木</td>
+			<td style="width: 57px;">名木</td>
+			<td style="width: 132px;">昭和51年10月1日</td>
+			<td style="width: 233px;">五所川原市栄町（菊ヶ丘運動公園）</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="tsurumasaki.html"><strong>ツルマサキ</strong></a></td>
+			<td style="width: 84px;">指定第2号　 名木</td>
+			<td style="width: 57px;">名木</td>
+			<td style="width: 132px;">昭和51年10月1日</td>
+			<td style="width: 233px;">個人宅</td>
+			<td style="width: 233px;">個人</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="kuromatsu.html"><strong>クロマツ</strong></a></td>
+			<td style="width: 84px;">指定第4号 　名木</td>
+			<td style="width: 57px;">名木</td>
+			<td style="width: 132px;">昭和51年10月1日</td>
+			<td style="width: 233px;">五所川原市長富字鎧石無番地</td>
+			<td style="width: 233px;">国</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="keyaki.html"><strong>ケヤキ</strong></a></td>
+			<td style="width: 84px;">指定第6号 　名木</td>
+			<td style="width: 57px;">名木</td>
+			<td style="width: 132px;">昭和51年10月1日</td>
+			<td style="width: 233px;">五所川原市持子沢字笠野前357番地</td>
+			<td style="width: 233px;">香取神社</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="shidareyanagi.html"><strong>シダレヤナギ</strong></a></td>
+			<td style="width: 84px;">指定第7号 　名木</td>
+			<td style="width: 57px;">名木</td>
+			<td style="width: 132px;">昭和51年10月1日</td>
+			<td style="width: 233px;">五所川原市柳町</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="icho.html"><strong>イチョウ</strong></a></td>
+			<td style="width: 84px;">指定第9号 　古木</td>
+			<td style="width: 57px;">古木</td>
+			<td style="width: 132px;">昭和51年10月1日</td>
+			<td style="width: 233px;">五所川原市梅田字平野16番地</td>
+			<td style="width: 233px;">教円寺</td>
+		</tr>
+		<tr height="36">
+			<td height="36" style="width: 160px; height: 36px;"><a href="kuromatsuokiiidume.html"><strong>クロマツ</strong></a></td>
+			<td style="width: 84px;">指定第10号　名木</td>
+			<td style="width: 57px;">名木</td>
+			<td style="width: 132px;">平成元年11月30日</td>
+			<td style="width: 233px;">五所川原市沖飯詰字男鹿159番地</td>
+			<td style="width: 233px;">個人</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>金木地区</h3>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 900px;" width="666">
+	<colgroup>
+		<col>
+		<col>
+		<col>
+		<col>
+		<col>
+	</colgroup>
+	<thead>
+		<tr height="32">
+			<th height="32" scope="col" style="width: 170px; height: 32px;">名　　　　　称</th>
+			<th scope="col" style="width: 120px;">区　分</th>
+			<th scope="col" style="width: 57px;">種　類</th>
+			<th scope="col" style="width: 170px;">指　定・登　録<br>
+			年　月　日</th>
+			<th scope="col" style="width: 280px;">所　　在　　地</th>
+			<th scope="col" style="width: 170px;">所有者・管理者</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr height="37">
+			<td height="37" style="width: 160px; height: 37px;">
+			<p><a href="syayokan.html"><strong>旧津島家住宅</strong></a></p>
+			</td>
+			<td style="width: 84px;">国指定<br>
+			重要文化財</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">平成16年12月10日</td>
+			<td style="width: 233px;">五所川原市金木町朝日山412番地1</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="37">
+			<td height="37" style="width: 160px; height: 37px;"><a href="kyunishizawake.html"><strong>旧西沢家住宅</strong></a></td>
+			<td style="width: 84px;">国登録<br>
+			有形文化財</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">平成20年3月7日</td>
+			<td style="width: 233px;">五所川原市金木町朝日山411番地5</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="37">
+			<td height="37" style="width: 160px; height: 37px;"><a href="ekisha.html"><strong>津軽鉄道<br>
+			旧芦野公園駅本屋</strong></a></td>
+			<td style="width: 84px;">国登録<br>
+			有形文化財</td>
+			<td style="width: 57px;">建造物</td>
+			<td style="width: 132px;">平成26年12月19日</td>
+			<td style="width: 233px;">五所川原市金木町芦野84番地171</td>
+			<td style="width: 233px;">津軽鉄道株式会社</td>
+		</tr>
+		<tr height="37">
+			<td height="37" style="width: 160px; height: 37px;"><a href="sainogawara.html"><strong>川倉賽の河原地蔵尊</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">史跡</td>
+			<td style="width: 132px;">昭和57年8月10日</td>
+			<td style="width: 233px;">五所川原市川倉七夕野426番地1</td>
+			<td style="width: 233px;">賽の河原地蔵尊講中</td>
+		</tr>
+		<tr height="37">
+			<td height="37" style="width: 160px; height: 37px;"><a href="kaseyakko.html"><strong>嘉瀬奴踊</strong></a></td>
+			<td style="width: 84px;">県指定無形<br>
+			民俗文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">昭和44年12月15日</td>
+			<td style="width: 233px;">五所川原市金木町嘉瀬</td>
+			<td style="width: 233px;">嘉瀬奴踊保存会</td>
+		</tr>
+		<tr height="37">
+			<td height="37" style="width: 160px; height: 37px;"><a href="kanagiarauma.html"><strong>金木さなぶり荒馬踊</strong></a></td>
+			<td style="width: 84px;">県指定無形<br>
+			民俗文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">昭和56年9月26日</td>
+			<td style="width: 233px;">五所川原市金木町朝日山</td>
+			<td style="width: 233px;">金木さなぶり荒馬保存会</td>
+		</tr>
+		<tr height="37">
+			<td height="37" style="width: 160px; height: 37px;"><a href="gyokkaishi.html"><strong>金木町玉鹿石</strong></a></td>
+			<td style="width: 84px;">県天然<br>
+			記念物</td>
+			<td style="width: 57px;">天然<br>
+			記念物</td>
+			<td style="width: 132px;">昭和55年1月24日</td>
+			<td style="width: 233px;">五所川原市金木町喜良市小田川国有林</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr>
+			<td height="37" style="width: 160px; height: 37px;"><a href="mishimakogin.html"><strong>三縞こぎん</strong></a></td>
+			<td style="width: 84px;">
+			<p>市指定</p>
+
+			<p>文化財</p>
+			</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">令和４年1月26日</td>
+			<td style="width: 233px;">五所川原市金木町菅原・嘉瀬</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>市浦地区</h3>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width: 900px;" width="666">
+	<colgroup>
+		<col>
+		<col>
+		<col>
+		<col>
+		<col>
+	</colgroup>
+	<thead>
+		<tr height="33">
+			<th height="33" scope="col" style="width: 170px; height: 33px;">名　　　　　称</th>
+			<th scope="col" style="width: 120px;">区　分</th>
+			<th scope="col" style="width: 57px;">種　類</th>
+			<th scope="col" style="width: 170px;">指 定 年 月 日</th>
+			<th scope="col" style="width: 280px;">所　　在　　地</th>
+			<th scope="col" style="width: 170px;">所有者・管理者</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr height="32">
+			<td height="32" style="width: 160px; height: 32px;"><a href="gorinto.html"><strong>十三・湊迎寺の五輪塔</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">平成13年3月2日</td>
+			<td style="width: 233px;">市浦歴史民俗資料館<br>
+			五所川原市十三土佐1番地298</td>
+			<td style="width: 233px;">湊迎寺</td>
+		</tr>
+		<tr height="38">
+			<td height="38" style="width: 160px; height: 38px;"><a href="rengeanitabi.html"><strong>相内・蓮華庵の板碑</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">平成13年3月2日</td>
+			<td style="width: 233px;">五所川原市相内（蓮華庵境内）</td>
+			<td style="width: 233px;">蓮華庵</td>
+		</tr>
+		<tr>
+			<td height="38" style="width: 160px; height: 38px;"><strong><a href="asabachi.html">人面形浅鉢</a></strong></td>
+			<td style="width: 84px;">
+			<p>市指定</p>
+
+			<p>文化財</p>
+			</td>
+			<td style="width: 57px;">有形</td>
+			<td style="width: 132px;">平成30年10月25日</td>
+			<td style="width: 233px;">五所川原市字布屋町41番地1</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="32">
+			<td height="32" style="width: 160px; height: 32px;"><a href="tosaminatoiseki.html"><strong>十三湊遺跡</strong></a></td>
+			<td style="width: 84px;">国指定史跡<br>
+			名勝記念物</td>
+			<td style="width: 57px;">史跡</td>
+			<td style="width: 132px;">平成17年7月14日</td>
+			<td style="width: 233px;">五所川原市十三地内</td>
+			<td style="width: 233px;">五所川原市他</td>
+		</tr>
+		<tr>
+			<td height="32" style="width: 160px; height: 32px;"><strong><a href="sannobo.html">山王坊遺跡</a></strong></td>
+			<td style="width: 84px;">
+			<p>国指定史跡</p>
+
+			<p>名勝記念物</p>
+			</td>
+			<td style="width: 57px;">史跡</td>
+			<td style="width: 132px;">平成29年2月9日</td>
+			<td style="width: 233px;">五所川原市相内岩井</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr>
+			<td height="32" style="width: 160px; height: 32px;"><a href="sotomeyachi.html"><strong>五月女萢遺跡</strong></a></td>
+			<td style="width: 84px;">
+			<p>市指定</p>
+
+			<p>文化財</p>
+			</td>
+			<td style="width: 57px;">史跡</td>
+			<td style="width: 132px;">平成29年7月20日</td>
+			<td style="width: 233px;">五所川原市相内545番地</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="38">
+			<td height="38" style="width: 160px; height: 38px;"><a href="aiuchimushiokuri.html"><strong>相内の虫送り</strong></a></td>
+			<td style="width: 84px;">県指定無形<br>
+			民俗文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成23年4月6日</td>
+			<td style="width: 233px;">五所川原市相内</td>
+			<td style="width: 233px;">相内青年団</td>
+		</tr>
+		<tr height="38">
+			<td height="38" style="width: 160px; height: 38px;"><a href="bosamaodori.html"><strong>相内の坊様踊り</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成14年2月28日</td>
+			<td style="width: 233px;">五所川原市相内</td>
+			<td style="width: 233px;">相内民俗芸能保存会</td>
+		</tr>
+		<tr height="38">
+			<td height="38" style="width: 160px; height: 38px;"><a href="sunayamaodori.html"><strong>十三の砂山踊り</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">民俗</td>
+			<td style="width: 132px;">平成14年2月28日</td>
+			<td style="width: 233px;">五所川原市十三</td>
+			<td style="width: 233px;">十三の砂山保存会</td>
+		</tr>
+		<tr height="38">
+			<td height="38" style="width: 160px; height: 38px;"><a href="hakucho.html"><strong>十三湖の白鳥</strong></a></td>
+			<td style="width: 84px;">県天然<br>
+			記念物</td>
+			<td style="width: 57px;">天然<br>
+			記念物</td>
+			<td style="width: 132px;">昭和35年3月26日</td>
+			<td style="width: 233px;">十三湖</td>
+			<td style="width: 233px;">五所川原市</td>
+		</tr>
+		<tr height="38">
+			<td height="38" style="width: 160px; height: 38px;"><a href="ipponnmatsu.html"><strong>磯松の一本松</strong></a></td>
+			<td style="width: 84px;">市指定<br>
+			文化財</td>
+			<td style="width: 57px;">天然<br>
+			記念物</td>
+			<td style="width: 132px;">平成13年3月2日</td>
+			<td style="width: 233px;">五所川原市磯松磯野54番地</td>
+			<td style="width: 233px;">脇元財産区</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>その他</h3>
+
+<table border="1" style="width: 900px;" width="608">
+	<tbody>
+		<tr>
+			<td colspan="2" height="12"><strong>ニホンカモシカ</strong></td>
+			<td height="12">特別天然記念物（国指定）</td>
+			<td>S30.2.15指定</td>
+			<td>青森県ほか29都道府県所有</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h6>五所川原市の文化財ガイドブック</h6>
+
+<ul>
+	<li><a href="files/guidobook.pdf">ガイドブック<img alt="PDFファイル" class="wcv_ww_fileicon" src="../../_wcv/images/icon/pdf.gif"><span class="wcv_ww_filesize">(4086KB)</span></a></li>
+	<li><a href="files/guidemap.pdf">ガイドマップ<img alt="PDFファイル" class="wcv_ww_fileicon" src="../../_wcv/images/icon/pdf.gif"><span class="wcv_ww_filesize">(6716KB)</span></a></li>
+</ul>
+
+
+
+</div>
+
+
+
+</div>
+<!-- ▲トップ中央▲ -->
+	</div>
+	
+	
+<!-- ▼サブメニュー左▼ -->
+<div id="cat_menu">
+<div class="in_box">
+<h2>教育・文化・スポーツ</h2>
+<div class="inner list">
+<ul>
+	<li><a href="../kyouikuiinkai/index.html">教育委員会</a></li>
+	<li><a href="../kyouiku/index.html">学校教育</a></li>
+	<li><a href="../kyoikushinkokai_shogakukin.html">奨学金</a></li>
+	<li><a href="../syakaikyouiku/index.html">社会教育</a></li>
+	<li><a href="../kyouiku/kondate.html">学校給食</a></li>
+	<li><a href="index.html">文化</a></li>
+	<li><a href="../sports/index.html">スポーツ</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.city.goshogawara.lg.jp/lib/" target="_blank"><img alt="" height="133" src="../images/library1.png" width="200"></a></p>
+</div>
+</div></div>
+<!-- ▲サブメニュー左▲ -->
+	
+
+
+<div style="clear:both;"></div>
+</div>
+
+
+
+
+<!-- ▼フッター▼ -->
+<div id="footer">
+<div class="info">
+<h2>五所川原市</h2>
+<p>〒037-8686 青森県五所川原市字布屋町41番地1</p>
+<p>電話番号 0173-35-2111</p>
+<p><a href="../../qa/other/mail.html">メールでのお問い合わせについて</a></p>
+<p>開庁時間：月曜日から金曜日の8時30分から17時15分（祝日、12月29日から1月3日を除く）</p>
+</div>
+<div class="footer_navi pc">｜<a href="/copyright.html">著作権</a>｜<a href="/security.html">セキュリティ</a>｜<a href="/privacy.html">個人情報利用規定</a>｜<a href="/language.html">language</a>｜<a href="/link.html">リンク集</a>｜<a href="/toiawase/">お問い合わせ</a>｜<a href="/access.html">アクセス</a>｜<a href="/sitemap.html">サイトマップ</a>｜</div>
+<div class="copyright">Copyright(c) Goshogawara City.All Rights Reserved</div>
+</div>
+
+<p id="page-top"><a href="#wrap"><img src="/contents_image/icon_top.png" width="70" height="70" alt="ページの先頭へ"/></a></p>
+<p id="page-back"><a href="/"><img src="/contents_image/icon_home.png" width="70" height="70" alt="ホームへ戻る"/></a></p>
+
+<div><div><!-- ▲フッター▲ -->
+
+
+</div>
+</div>
+</div>
+</body>
+</html>

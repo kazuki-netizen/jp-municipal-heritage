@@ -1,0 +1,804 @@
+<!doctype html>
+<html lang="ja">
+<head>
+
+  <!-- CSRF Token -->
+  <meta name="csrf-token" content="YIyGsoCjMOUQKjdkPiB4hcSgiXZHaFsCXSVHUCRR">
+
+  
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+
+  <title>データカタログ | 宮城県及び市町村共同オープンデータポータルサイト</title>
+
+  <!-- *** favicon *** -->
+      <link rel="shortcut icon" href="https://miyagi.dataeye.jp/img/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="apple-touch-icon-precomposed" href="https://miyagi.dataeye.jp/img/apple-touch-icon.png">
+
+  <link href="https://miyagi.dataeye.jp/css/modaal.min.css" rel="stylesheet" type="text/css" media="all">
+
+      <!-- *** stylesheet *** -->
+    <link href="https://miyagi.dataeye.jp/css/style.css?v2306=2306" rel="stylesheet" type="text/css" media="all">
+  
+  <!-- *** javascript *** -->
+  <script src="https://miyagi.dataeye.jp/js/jquery.min.js"></script>
+
+  
+  <script nonce="">
+    jQuery.event.special.touchstart = {
+      setup: function(_, ns, handle) {
+        this.addEventListener('touchstart', handle, { passive: !ns.includes('noPreventDefault') });
+      }
+    };
+    jQuery.event.special.touchmove = {
+      setup: function(_, ns, handle) {
+        this.addEventListener('touchmove', handle, { passive: !ns.includes('noPreventDefault') });
+      }
+    };
+  </script>
+
+  
+  
+  <style nonce="">
+    .u-hidden { display: none !important; }
+    .u-visible { display: block !important; }
+    .u-mt-xs { margin-top: 4px; }
+    .u-mt-sm { margin-top: .5em; }
+    .u-iframe-map { width: 100%; height: 500px; border: 1px solid #e5e5e5; }
+    .u-canvas-full { width: 100%; height: 500px; }
+  </style>
+
+  
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2MM8MXB3MR"></script>
+    <script nonce="">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      
+              gtag('config', 'G-2MM8MXB3MR', {
+          'custom_map': {
+            'dimension1': 'ip_address',
+            'dimension2': 'access_time',
+          },
+          'ip_address': '16.0.1.41',
+          'access_time': '2026/07/03 23:32:05',
+        });
+      
+    </script>
+  
+  
+  
+</head>
+<body>
+
+<header class="l-header is-fixed">
+    <div class="p-header-inner">
+
+      <div class="p-mobile-head">
+        
+        <p class="p-head-region">宮城県及び市町村共同オープンデータポータルサイト</p>
+
+        
+        <h1 class="p-logo is-type2">
+          <a href="https://miyagi.dataeye.jp"><img src="https://miyagi.dataeye.jp/img/header_logo.png" alt="dataeye DASHBOARD"></a>
+          <p class="p-logo-region">
+
+              <span class="p-region-txt">宮城県及び市町村共同<br>オープンデータポータルサイト</span>
+              <span class="p-corner p-c-1"></span>
+              <span class="p-corner p-c-2"></span>
+              <span class="p-corner p-c-3"></span>
+              <span class="p-corner p-c-4"></span>
+
+          </p>
+        </h1>
+
+        <div class="p-nav-toggle">
+          <div>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="p-global">
+        <ul class="p-global__nav">
+          <!-- InstanceBeginEditable name="global nav" -->
+          <li class="p-dropdown"><a href="#" class="no-arrow "><span class="p-global-icon-txt">このサイトについて</span></a>
+            <ul class="">
+              <li><a href="https://miyagi.dataeye.jp/pages/about">dataeyeについて</a></li>
+              <li><a href="https://miyagi.dataeye.jp/pages/opendata">オープンデータとは</a></li>
+            </ul>
+          </li>
+          <li><a href="https://miyagi.dataeye.jp/datasets_condition" class="is-active"><span>データカタログ</span></a></li>
+
+          <li><a href="https://miyagi.dataeye.jp/graphs"><span class="p-global-icon-txt">データから見えるもの</span></a></li>
+
+          <li><a href="https://miyagi.dataeye.jp/ideabox" class=""><span class="p-global-icon-txt">アイデアボックス</span></a></li>
+          <!-- InstanceEndEditable -->
+        </ul>
+      </div>
+
+    </div>
+  </header>
+
+<div class="l-container is-first p-contents-bg">
+
+  <div class="l-contents">
+    <ul class="p-topicpath">
+      <li><a href="https://miyagi.dataeye.jp">HOME</a></li>
+      <!-- InstanceBeginEditable name="topicpath" -->
+      <li><a href="https://miyagi.dataeye.jp/datasets_condition">データカタログ</a></li>
+      <li>データセット一覧</li>
+      <!-- InstanceEndEditable -->
+    </ul>
+  </div>
+
+
+  <div class="l-contents">
+    <div class="l-contents__inner">
+
+      <div class="p-page-head">
+        <div class="l-row">
+          <div class="p-page-head__l">
+            <h1 class="p-page-ttl"><span class="is-jp">データカタログ</span><span class="is-en">DATA<span class="is-en__pl">CATALOG</span></span></h1>
+          </div>
+          <div class="p-page-head__r">
+            <form method="GET" action="https://miyagi.dataeye.jp/datasets" class="p-cs-wrap">
+            <dl class="p-head-search">
+              <dt><input type="text" name="keyword" value="文化財" placeholder="キーワードを入力"></dt>
+              <dd><button></button></dd>
+            </dl>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="l-row">
+
+        <div class="l-main">
+          <!-- InstanceBeginEditable name="main" -->
+          <h1 class="p-ttl1">
+            データセット一覧
+
+                        「文化財」
+                      </h1>
+          <div class="p-count-set">
+            <p class="p-count-set__l"><span>20</span>件</p>
+            <div class="p-count-set__r">
+              <form id="sort-form" method="GET" action="https://miyagi.dataeye.jp/datasets" class="p-cs-wrap">
+
+                
+                <div class="u-hidden">
+
+                                      <input type="checkbox" name="organization_id[]" value="1" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="2" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="3" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="4" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="5" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="6" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="7" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="8" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="9" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="10" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="11" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="12" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="13" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="14" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="15" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="16" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="17" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="18" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="19" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="20" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="21" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="22" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="23" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="24" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="25" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="26" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="27" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="28" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="29" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="30" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="31" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="32" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="33" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="34" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="35" class="condition_organization" >
+                                      <input type="checkbox" name="organization_id[]" value="36" class="condition_organization" >
+                  
+                                      <input type="checkbox" name="group[]" value="gr_0100" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_0200" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_0700" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_0800" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_0900" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_1000" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_1100" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_1200" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_1300" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_1400" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_1500" class="condition_group" >
+                                      <input type="checkbox" name="group[]" value="gr_1700" class="condition_group" >
+                  
+                                        <input type="checkbox" name="tag[]" value="AED" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="オープンデータ一覧" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="ごみ・環境保全" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="その他" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="バス" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="ペット・動物" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="レジャー" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="世帯" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="交通" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="人口" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="介護" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="企業" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="企業・家計・経済" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="企業立地・企業誘致" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="会計" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="位置情報,推奨データセット" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="住宅・土地・建設" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="保育園" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="健康・医療" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="公共施設" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="公衆トイレ" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="公衆無線LAN" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="医療機関" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="土地取得・建設" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="子育て" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="学校教育" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="学校給食" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="幼稚園" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="政策・計画・取組" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="救急・消防" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="教育" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="教育・文化・スポーツ・生活" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="文化財" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="歴史・文化" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="民間委託等の推進" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="消防水利" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="産業連関表" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="社会保障・衛生" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="福祉" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="経済" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="経済波及効果" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="統計・調査・報告・観測データ" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="緊急輸送道路" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="自然" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="行事・イベント" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="衛生" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="観光名所" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="農林水産業" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="通学区" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="運輸・観光" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="選挙" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="避難所・避難場所" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="防災・災害" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="食品・衛生" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="駐輪・駐車" class="condition_tag" >
+                                        <input type="checkbox" name="tag[]" value="高齢者支援" class="condition_tag" >
+                  
+                </div>
+
+                <input type="hidden" name="keyword" value="文化財">
+                <input type="hidden" name="license_id" value="">
+                <input type="hidden" name="file_format_id" value="">
+
+                <p class="select-wrap">
+                  <select name="sort" id="sort">
+                    <option value="" selected>リリース日</option>
+                    <option value="name" >データセット名</option>
+                  </select>
+                </p>
+              </form>
+
+              <script nonce="">
+                $('#sort').on('change', function(){
+                  $('#sort-form').submit()
+                })
+              </script>
+
+            </div>
+          </div>
+          <ul class="p-dataset-list">
+
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/511">
+                <dl class="p-dataset-item">
+                  <dt>【仙台市】文化財一覧</dt>
+                  <dd>仙台市内の文化財一覧です。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/1105">
+                <dl class="p-dataset-item">
+                  <dt>【登米市】文化財一覧</dt>
+                  <dd>【登米市】文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                          <span class="p-label u-bgc-xls">XLSX</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/428">
+                <dl class="p-dataset-item">
+                  <dt>【多賀城市】文化財一覧</dt>
+                  <dd>多賀城市内にある文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/542">
+                <dl class="p-dataset-item">
+                  <dt>【石巻市】文化財一覧</dt>
+                  <dd>石巻市の文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/488">
+                <dl class="p-dataset-item">
+                  <dt>【岩沼市】文化財一覧</dt>
+                  <dd>岩沼市の文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/383">
+                <dl class="p-dataset-item">
+                  <dt>【大崎市】文化財一覧</dt>
+                  <dd>【大崎市】文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/894">
+                <dl class="p-dataset-item">
+                  <dt>【柴田町】文化財一覧</dt>
+                  <dd>柴田町における文化財（R7.3.18）</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-xls">XLSX</span>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/859">
+                <dl class="p-dataset-item">
+                  <dt>【大和町】文化財一覧</dt>
+                  <dd>大和町の文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/789">
+                <dl class="p-dataset-item">
+                  <dt>【栗原市】文化財一覧</dt>
+                  <dd>国もしくは地方公共団体が指定、登録、選定等を行った文化財についての一覧。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/474">
+                <dl class="p-dataset-item">
+                  <dt>【松島町】文化財一覧</dt>
+                  <dd>松島町の文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/596">
+                <dl class="p-dataset-item">
+                  <dt>【名取市】文化財一覧</dt>
+                  <dd>名取市の文化財一覧のデータです。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/628">
+                <dl class="p-dataset-item">
+                  <dt>【白石市】文化財一覧</dt>
+                  <dd>白石市の文化財の一覧です。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/573">
+                <dl class="p-dataset-item">
+                  <dt>【大衡村】文化財一覧</dt>
+                  <dd>大衡村の文化財一覧です。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/532">
+                <dl class="p-dataset-item">
+                  <dt>【涌谷町】文化財一覧</dt>
+                  <dd>涌谷町の文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/528">
+                <dl class="p-dataset-item">
+                  <dt>【気仙沼市】文化財一覧</dt>
+                  <dd>気仙沼市の文化財一覧です。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/470">
+                <dl class="p-dataset-item">
+                  <dt>【塩竈市】文化財一覧</dt>
+                  <dd>塩竈市の文化財一覧です。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/440">
+                <dl class="p-dataset-item">
+                  <dt>【東松島市】文化財一覧</dt>
+                  <dd>東松島市の文化財一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/258">
+                <dl class="p-dataset-item">
+                  <dt>【村田町】文化財一覧（R5.10.1）</dt>
+                  <dd>村田町における文化財の一覧</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-csv">CSV</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/277">
+                <dl class="p-dataset-item">
+                  <dt>【宮城県】宮城県遺跡地図情報（指定文化財）のシェープデータ</dt>
+                  <dd>宮城県遺跡地図情報（指定文化財）のシェープデータです。
+GISソフト（ArcGIS、QGIS等）などで読み込むことができます。
+
+※リンク先「１．利用規約」を参照の上、「４．宮城県遺跡地図情報のシェープデータ」からダウンロード願います。
+※データの更新日はリンク先で確認願います。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-other">ZIP</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+                        <li>
+              <a href="https://miyagi.dataeye.jp/datasets/275">
+                <dl class="p-dataset-item">
+                  <dt>【宮城県】宮城県遺跡地図情報（埋蔵文化財包蔵地）のシェープデータ</dt>
+                  <dd>宮城県遺跡地図情報（埋蔵文化財包蔵地）のシェープデータです。
+GISソフト（ArcGIS、QGIS等）などで読み込むことができます。
+
+※リンク先「１．利用規約」を参照の上、「４．宮城県遺跡地図情報のシェープデータ」からダウンロード願います。
+※データの更新日はリンク先で確認願います。</dd>
+                  <dd>
+                                          <span class="p-label u-bgc-other">ZIP</span>
+                                      </dd>
+                </dl>
+              </a>
+            </li>
+            
+          </ul>
+
+
+          
+          <!-- InstanceEndEditable -->
+        </div><!-- /.l-main -->
+
+        <div class="l-side">
+          <!-- InstanceBeginEditable name="side" -->
+          <div class="p-side-count">
+            <dl>
+              <dt>データセット数</dt>
+              <dd>344</dd>
+            </dl>
+          </div>
+
+          <div class="p-accordion-box">
+            <dl class="p-accordion-list">
+              <dt class="clearfix">
+                <p class="p-accordion-txt">組織</p>
+                <p class="p-accordion-icon"><span></span><span></span></p>
+              </dt>
+              <dd>
+                <ul>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="1">宮城県（50）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="2">仙台市（13）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="3">石巻市（19）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="4">塩竈市（12）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="5">気仙沼市（8）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="6">白石市（12）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="7">名取市（32）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="8">角田市（4）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="9">多賀城市（12）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="10">岩沼市（8）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="11">登米市（12）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="12">栗原市（13）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="13">東松島市（11）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="14">大崎市（9）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="15">富谷市（5）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="16">蔵王町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="17">七ヶ宿町（3）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="18">大河原町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="19">村田町（13）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="20">柴田町（22）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="21">川崎町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="22">丸森町（3）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="23">亘理町（7）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="24">山元町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="25">松島町（12）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="26">七ヶ浜町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="27">利府町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="28">大和町（13）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="29">大郷町（3）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="30">大衡村（7）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="31">色麻町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="32">加美町（2）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="33">涌谷町（12）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="34">美里町（8）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="35">女川町（3）</a></li>
+                                    <li><a href="#" class="side_condition side_organization" data-type="organization" data-id="36">南三陸町（2）</a></li>
+                                  </ul>
+              </dd>
+              <dt class="clearfix">
+                <p class="p-accordion-txt">分類</p>
+                <p class="p-accordion-icon"><span></span><span></span></p>
+              </dt>
+              <dd>
+                <ul>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_0100">国土・気象（8）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_0200">人口・世帯（44）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_0700">企業・家計・経済（3）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_0800">住宅・土地・建設（2）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_0900">エネルギー・水（1）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_1000">運輸・観光（26）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_1100">情報通信・科学技術（15）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_1200">教育・文化・スポーツ・生活（42）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_1300">行財政（29）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_1400">司法・安全・環境（67）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_1500">社会保障・衛生（44）</a></li>
+                                    <li><a href="#" class="side_condition side_group" data-type="group" data-id="gr_1700">その他（54）</a></li>
+                                  </ul>
+              </dd>
+              <dt class="clearfix">
+                <p class="p-accordion-txt">タグ</p>
+                <p class="p-accordion-icon"><span></span><span></span></p>
+              </dt>
+              <dd>
+                <ul>
+                                                          <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="AED">AED（15）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="オープンデータ一覧">オープンデータ一覧（19）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="ごみ・環境保全">ごみ・環境保全（8）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="その他">その他（2）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="バス">バス（5）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="ペット・動物">ペット・動物（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="レジャー">レジャー（18）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="世帯">世帯（27）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="交通">交通（5）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="人口">人口（30）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="介護">介護（5）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="企業">企業（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="企業・家計・経済">企業・家計・経済（3）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="企業立地・企業誘致">企業立地・企業誘致（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="会計">会計（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="位置情報,推奨データセット">位置情報,推奨データセット（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="住宅・土地・建設">住宅・土地・建設（5）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="保育園">保育園（16）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="健康・医療">健康・医療（23）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="公共施設">公共施設（27）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="公衆トイレ">公衆トイレ（15）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="公衆無線LAN">公衆無線LAN（15）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="医療機関">医療機関（6）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="土地取得・建設">土地取得・建設（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="子育て">子育て（19）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="学校教育">学校教育（3）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="学校給食">学校給食（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="幼稚園">幼稚園（16）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="政策・計画・取組">政策・計画・取組（3）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="救急・消防">救急・消防（15）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="教育">教育（17）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="教育・文化・スポーツ・生活">教育・文化・スポーツ・生活（2）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="文化財">文化財（20）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="歴史・文化">歴史・文化（20）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="民間委託等の推進">民間委託等の推進（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="消防水利">消防水利（14）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="産業連関表">産業連関表（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="社会保障・衛生">社会保障・衛生（2）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="福祉">福祉（5）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="経済">経済（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="経済波及効果">経済波及効果（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="統計・調査・報告・観測データ">統計・調査・報告・観測データ（40）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="緊急輸送道路">緊急輸送道路（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="自然">自然（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="行事・イベント">行事・イベント（2）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="衛生">衛生（15）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="観光名所">観光名所（19）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="農林水産業">農林水産業（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="通学区">通学区（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="運輸・観光">運輸・観光（2）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="選挙">選挙（2）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="避難所・避難場所">避難所・避難場所（36）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="防災・災害">防災・災害（46）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="食品・衛生">食品・衛生（1）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="駐輪・駐車">駐輪・駐車（4）</a></li>
+                                                                              <li><a href="#" class="side_condition side_tag" data-type="tag" data-id="高齢者支援">高齢者支援（5）</a></li>
+                                                      </ul>
+              </dd>
+
+            </dl>
+          </div>
+          <!-- InstanceEndEditable -->
+        </div><!-- /.l-side -->
+      </div><!-- /.l-row -->
+
+    </div><!-- /.l-contents__inner -->
+
+  </div><!-- /.l-contents -->
+</div><!-- /.l-container -->
+
+<footer class="l-footer">
+  <div class="p-footer">
+
+    <div class="p-footer__inner">
+
+      <div class="l-banner-list">
+        <ul class="p-footer-banner">
+
+            
+                          
+                          
+        </ul>
+      </div>
+
+      <div class="p-footer__nav">
+        <ul>
+          <li><a href="https://miyagi.dataeye.jp/datasets_condition">データカタログ</a></li>
+
+                      <li><a href="https://miyagi.dataeye.jp/graphs">データから見えるもの</a></li>
+          
+          <li><a href="https://miyagi.dataeye.jp/ideabox">アイデアボックス</a></li>
+
+                  </ul>
+      </div>
+
+      <div class="p-footer__subnav clearfix">
+        <div class="p-footer__subnav--l">
+          <dl>
+            <dt>このサイトについて</dt>
+            <dd>
+              <ul>
+                <li><a href="https://miyagi.dataeye.jp/pages/about">宮城県及び市町村共同オープンデータポータルサイトについて</a></li>
+                <li><a href="https://miyagi.dataeye.jp/pages/opendata">オープンデータとは</a></li>
+                <li><a href="https://miyagi.dataeye.jp/pages/developer">開発者向け情報</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div class="p-footer__subnav--r"><a href="https://dataeye.jp/" target="_blank"><img src="https://miyagi.dataeye.jp/img/footer_logo.png" alt="powerted by dataye DASHBOARD"></a></div>
+      </div>
+
+    </div>
+  </div>
+
+  <p class="p-pagetop"><a href="#"></a></p>
+  <div class="p-footer__copy clearfix">
+    <div class="p-footer__inner">
+
+      <ul class="p-footer__copy--l" >
+        <li><a href="https://miyagi.dataeye.jp/pages/terms">利用規約</a></li>
+        <li><a href="https://miyagi.dataeye.jp/pages/privacy">プライバシーポリシー</a></li>
+      </ul>
+      <p class="p-footer__copy--r">&copy; 2026 一般社団法人データクレイドル</p>
+    </div>
+  </div>
+</footer>
+
+<!-- Particles -->
+<script src="https://miyagi.dataeye.jp/js/particles.js"></script>
+<script src="https://miyagi.dataeye.jp/js/set.js"></script>
+
+<!-- for main  -->
+<script src="https://miyagi.dataeye.jp/js/main.js"></script>
+
+  <script nonce="">
+
+
+    
+    $('.side_condition').on('click', function(e) {
+
+      var sideButton = $(e.target)
+
+      
+      var conditionEl = $('.condition_'+sideButton.data('type')+'[value="'+sideButton.data('id')+'"]');
+
+      conditionEl.prop('checked', function(index, prop){
+        return !prop;
+      })
+
+      
+      $('#sort-form').submit()
+
+      return false
+    })
+
+
+    
+    $('.side_condition').each(function(index, el) {
+
+      var sideButton = $(el);
+
+      
+      var conditionEl = $('.condition_'+sideButton.data('type')+'[value="'+sideButton.data('id')+'"]');
+
+      
+      if (conditionEl.prop('checked')) {
+        sideButton.addClass('is-active')
+      }
+    })
+
+
+  </script>
+
+
+</body>
+</html>

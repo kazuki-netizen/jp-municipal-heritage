@@ -17,7 +17,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CODES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "muni_codes.json")
 
-PREFS = ["iwate", "miyagi", "aomori"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima"]
 
 
 def load_codes():

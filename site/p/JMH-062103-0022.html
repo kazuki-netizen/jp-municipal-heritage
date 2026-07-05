@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>最上義光の書翰 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>最上義光の書翰</h1>
+    <p class="jmh-id">JMH-062103-0022</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字山元</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 来吽院; 概要: 長さ95㎝ 幅15㎝; 製作年代: 江戸時代（慶長年間）; この書翰は戦国の武将山形城主最上義光が、山形付近を統一した後、庄内遠征中に、庄内より若松寺の別当来吽院へ与えた書状である。書翰の体裁は和紙に草体で走り書きした極めて難解な文章であるが、来吽院が義光の求めによっての祈禱（きとう）に対する感謝状である。義光に限らず戦国武将は戦勝祈願やその他について神社や修験者に加持祈禱を依頼するのは常の事であり、その願望が達せられると神仏に礼拝奉謝するのが通例であった。この文面から見て義光の庄内平定の宿意がほぼ達せられた時に送った感謝の書翰である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"最上義光の書翰" (JMH-062103-0022), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.360462, 140.409607], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.360462, 140.409607]).addTo(m);
+  </script>
+</body>
+</html>

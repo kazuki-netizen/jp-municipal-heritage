@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="ja" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>川俣町公式ホームページ トップページ</title>
+	<style type="text/css" media="all">
+		@import url("/ssi/css/top.css");
+	</style>
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
+
+<script type="text/javascript" src="/ssi/js/jquery.js"></script>
+<script type="text/javascript" src="/ssi/js/jquery-migrate.js"></script>
+
+	<script type="text/javascript" src="/ssi/js/color.js"></script>
+	<script type="text/javascript" src="/ssi/js/swfobject.js"></script>
+	<script type="text/javascript" src="/ssi/js/fontsize.js"></script>
+	<link rel="stylesheet" type="text/css" media="print" href="/ssi/css/print-top.css" />
+	<!-- slider -->
+	<script type="text/javascript" src="/ssi/js/slick-min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/ssi/css/slick.css" />
+	<link rel="stylesheet" type="text/css" href="/ssi/css/slick-theme.css" />
+	<!-- sp -->
+	<script type="text/javascript" src="/ssi/js/cookie.js"></script>
+	<script type="text/javascript" src="/ssi/js/kawamata-top.js?2024aug091010"></script>
+
+	<script type="text/javascript" src="/bosai/bosai-info.js"></script>
+	<style type="text/css" media="all">
+		#main_box_bosai {
+			width: 100%;
+			margin: 0 0 15px 0;
+			padding: 0px 0px 0.3em;
+			background-color: #FFEAEA;
+			overflow: hidden;
+		}
+
+		#main_box_bosai h2 {
+			color: #FFF;
+			background-color: #F74D44;
+			margin: 0px 0px 0.3em;
+			padding: 9px 10px 6px 10px;
+		}
+
+		#list_top_bosai ul {
+			margin: 10px;
+			padding: 0;
+		}
+
+		#list_top_bosai ul li {
+			margin: 0 0 5px 0;
+			padding: 10px 10px 7px 10px;
+			background-color: #FFF;
+			list-style-type: none;
+			clear: both;
+		}
+
+		#list_top_bosai ul li .span_a {
+			width: 14em;
+			float: left;
+			list-style-type: none;
+			letter-spacing: 0;
+		}
+
+		#list_top_bosai ul li .span_b {
+			display: block;
+			padding-left: 10em;
+			padding-right: 1em;
+		}
+	</style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CGEYBEJGBE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CGEYBEJGBE');
+  gtag('config', 'UA-24802666-1');
+</script>
+
+</head>
+
+<body>
+	<!-- コンテナここから -->
+	<div id="container">
+		<span class="hide"><a name="pagetop" id="pagetop">ページの先頭です。</a></span>
+		<span class="hide"><a href="#skip">メニューを飛ばして本文へ</a></span>
+		<noscript>
+			<p>JavaScriptが無効のため、文字の大きさ・背景色を変更する機能を使用できません。</p>
+		</noscript>
+		<!-- ヘッダーここから -->
+		<div id="header_box">
+			<div id="h_top"> みどりの中に光る絹の町川俣
+				<ul>
+					<li><a href="/site/site/topgaiyou.html">はじめての方へ</a></li>
+					<!-- 文字の大きさ変更ここから -->
+					<li><span>文字サイズ</span><a href="javascript:fsc('larger');"><img src="/img/btn1_001.png" alt="拡大" width="40" height="22" /></a><a href="javascript:fsc('default');"><img src="/img/btn1_002.png" alt="標準" width="40" height="22" /></a></li>
+					<!-- 文字の大きさ変更ここまで -->
+					<!-- 背景の変更ここから -->
+					<li><span>背景色変更</span><a href="javascript:SetCss(1);"><img src="/img/btn2_001.png" alt="白色" width="26" height="22" /></a><a href="javascript:SetCss(2);"><img src="/img/btn2_002.png" alt="黒色" width="26" height="22" /></a><a href="javascript:SetCss(3);"><img src="/img/btn2_003.png" alt="青色" width="26" height="22" /></a></li>
+					<!-- 背景の変更ここまで -->
+				</ul>
+			</div>
+			<div id="header">
+				<!--ロゴここから-->
+				<h1><img src="/img/top-parts/logo.png" alt="川俣町" width="231" height="70" /></h1>
+				<div class="otehime"><a href="/site/chosei-shisetsu/otechan.html"><img src="/img/top-parts/otehime.png" alt="川俣町公式キャラクターおてひめ様" width="149" height="93" /></a></div>
+				<!--ロゴここまで-->
+				<!-- 検索パーツここから -->
+				<div id="he_right">
+					<div id="top_search">
+						<div id="top_search_btn">
+							<ul>
+								<li><a href="/soshiki/">組織でさがす</a></li>
+								<li><a href="/site/map/01yakuba.html">地図で探す</a></li>
+								<li><a href="/sitemap.html">サイトマップ</a></li>
+							</ul>
+						</div>
+						<div id="top_search_keyword">
+							<form action="/search.html" id="cse-search-box" name="cse-search-box">
+								<input type="hidden" name="cx" value="001374101527147557989:xzvlx3urwk4" />
+								<input type="hidden" name="cof" value="FORID:11" />
+								<input type="hidden" name="ie" value="UTF-8" />
+								<input type="text" name="q" value="" id="tmp_query" size="200px" /><input type="image" src="/img/button_kensaku.png" alt="検索" id="submit" name="sa" />
+							</form>
+							<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box"></script>
+						</div>
+						<div id="top_search_btn_sp"></div>
+					</div>
+				</div>
+				<!-- 検索パーツここまで -->
+			</div>
+		</div>
+		<!-- ヘッダーここまで -->
+		<!-- スライドショーここから -->
+		<div id="main-slide">
+			<ul class="slick-box center-item">
+				<li><a href="/site/kosodate-iryo/kensin.html"><img src="/img/top-parts/slide/kenshin202603.jpg" alt="川俣町住民けんしんのお知らせ"></a></li>
+
+<li><a href="https://kawamata-gurashi.jp/"><img src="/img/top-parts/slide/izyu.jpg" alt="川俣町移住定住ポータルサイト"></a><span class="external_link_text">＜外部リンク＞</span></li>
+			</ul>
+		</div>
+		<!-- スライドショーここまで -->
+		<!-- グローバルNavここから -->
+		<div id="gNav">
+			<ul id="globalNaviM">
+				<li class="gNav01"><a href="/" title="ホーム">ホーム</a></li>
+				<li class="gNav02"><a href="/site/kurashi-tetsuzuki/" title="くらし・手続き">くらし・手続き</a></li>
+				<li class="gNav03"><a href="/site/kosodate-iryo/" title="子育て・医療">子育て・医療</a></li>
+				<li class="gNav04"><a href="/site/kanko-event/" title="観光・イベント">観光・イベント</a></li>
+				<li class="gNav05"><a href="/site/chosei-shisetsu/" title="町政・施設">町政・施設</a></li>
+				<li class="gNav06"><a href="/site/jigyoshamuke/" title="事業所向け">事業所向け</a></li>
+			</ul>
+		</div>
+		<!-- グローバルnavここまで -->
+		<div class="menu_list_e2 sp_submenu"></div>
+		<!-- メインここから -->
+		<div id="mymainback">
+			<!-- サイドバー1ここから -->
+			<div id="sidebar1">
+				<!-- menu1ここから -->
+				<!-- いざというときに -->
+				<div class="iza_box">
+					<h2>いざというときに</h2>
+					<ul>
+						<li><a href="/site/kurashi-tetsuzuki/list58-510.html">防災関連情報</a></li>
+						<li><a href="/site/kosodate-iryo/list63-523.html">休日当番医</a></li>
+						<li><a href="/site/sinsai-saigai/">東日本大震災・原子力災害関連</a></li>
+					</ul>
+				</div>
+				<!-- オンラインサービス -->
+				<div class="online_box">
+					<h2>オンラインサービス</h2>
+					<ul class="online">
+						<li><a href="/site/online/online.html">休日交付予約サービス</a></li>
+						<li><a href="https://lib-finder.net/bookkawamata2025/" target="_blank">図書情報検索サービス</a><span class="external_link_text">＜外部リンク＞</span></li>
+						<li><a href="/site/online/taiikukan-yoyaku.html">体育館施設予約</a></li>
+						<li><a href="/site/online/info-kawamata.html">メール配信サービス</a></li>
+						<li><a href="/site/online/kominkan-shisetsuyoyaku2024.html">公民館施設予約</a></li>
+					</ul>
+				</div>
+				<div class="bnrFb" style="margin-bottom: 15px;text-align: center;"><a href="/site/chosei-shisetsu/ka-line.html" target="_blank"><img src="/img/top-parts/bnr_line.png" alt="川俣町公式LINE" class="img_b" style="width: 216px;"></a></div>
+				<div class="bnrFb" style="margin-bottom: 15px;text-align: center;"><a href="/site/chosei-shisetsu/instagram.html" target="_blank"><img src="/img/top-parts/bnr_instagram.png" alt="川俣町公式Instagram" class="img_b" style="width: 216px;"></a></div>
+				<div class="bnrFb" style="margin-bottom: 15px;text-align: center;"><a href="https://www.facebook.com/kawamatatown/" target="_blank"><img src="/img/top-parts/bnr_fb.gif" alt="川俣町公式facebook" class="img_b" style="width: 216px;"></a><span class="external_link_text">＜外部リンク＞</span></div>
+				<div class="bnrFb" style="margin-bottom: 15px;text-align: center;"><a href="/site/chosei-shisetsu/x.html"><img src="/img/top-parts/bnr_x.png" alt="川俣町公式X" class="img_b" style="width: 216px;"></a></div>
+				<div class="koho_box">
+					<h2>広報かわまた最新号</h2>
+					<!--広報誌ここから-->
+					<a href="/site/chosei-shisetsu/kouhou202607.html"><img src="/data/kouhoushi/img/202607/202607.jpg" width="280" alt="広報かわまた2026年7月号表紙"></a>
+					<!--広報誌ここまで-->
+				</div>
+				<div class="jinko_box">
+					<h2>人口・世帯数（前月比）</h2>
+					<table>
+  <tr>
+    <th scope="row">男</th>
+    <td>5,159人（-22人）</td>
+  </tr>
+  <tr>
+    <th scope="row">女</th>
+    <td>5,296人（-13人）</td>
+  </tr>
+  <tr>
+    <th scope="row">計</th>
+    <td>10,455人（-35人）</td>
+  </tr>
+  <tr>
+    <th scope="row">世帯</th>
+    <td>4,601世帯（-17世帯）</td>
+  </tr>
+  <tr>
+    <th scope="row">面積</th>
+    <td>127.7平方km</td>
+  </tr>
+</table>
+<p class="zinkou">
+<a href="/site/chosei-shisetsu/jinkou08mon06.html">2026年6月1日現在※</a>
+</p>
+				</div>
+				
+				<!-- menu1ここまで -->
+			</div>
+			<!-- サイドバー1ここまで -->
+			<div id="main">
+				<div id="main_a">
+					<hr class="hide" />
+					<p class="hide"><a id="skip" name="skip">本文</a></p>
+
+					<!-- 防災情報ここから -->
+					<div id="main_box_bosai" style="display: none;">
+						<h2>防災情報</h2>
+						<div id="list_top_bosai"></div>
+					</div>
+					<!-- 防災情報ここまで -->
+
+					<!-- 重要なお知らせここから -->
+					
+					<div class="main_box_important">
+						<h2>重要なお知らせ</h2>
+						<!--<span class="text_g4"><a href="/rss/10/list3.xml"><img src="/img/logo_rss.gif" alt="RSS配信" width="42" height="17" /></a></span>-->
+						<div class="list_top_impo">
+							
+							<ul>
+								
+								<li><span class="span_a">2026年7月1日更新</span><span class="span_b"><a href="/site/chosei-shisetsu/0701-bosyuu-kousotu.html">令和９年度町職員募集（高校卒程度　一般行政事務）</a></span></li>
+								
+							</ul>
+							
+							
+						</div>
+					</div>
+					<!-- <p><a href="/soshiki/list3-1.html">重要なお知らせの一覧を見る</a></p> 一覧 -->
+					
+					<!-- 重要なお知らせここまで -->
+					<!-- 新着更新情報ここから -->
+					
+					<div id="news_box">
+						<div id="news">
+							<h2>新着情報</h2>
+							<!--<span class="text_g4"><a href="/rss/10/list1.xml"><img src="/img/logo_rss.gif" alt="RSS配信" width="42" height="17" /></a></span>-->
+							<div class="list_top">
+								
+								<ul>
+									
+									<li><span class="span_a">2026年7月2日更新</span><span class="span_b"><a href="/site/kosodate-iryo/wakuwaku.html">おてひめわくわくランド（川俣町子どもの屋内運動場）</a></span></li>
+									
+									<li><span class="span_a">2026年7月1日更新</span><span class="span_b"><a href="/site/chosei-shisetsu/0701-bosyuu-kousotu.html">令和９年度町職員募集（高校卒程度　一般行政事務）</a></span></li>
+									
+									<li><span class="span_a">2026年7月1日更新</span><span class="span_b"><a href="/site/kanko-event/r8otona-camera.html">【おとな講座】カメラ講座開催のお知らせ</a></span></li>
+									
+									<li><span class="span_a">2026年7月1日更新</span><span class="span_b"><a href="/site/sinsai-saigai/reiwa8nenntyounai83kasyopdf.html">令和８年度　町内環境放射線量測定結果</a></span></li>
+									
+									<li><span class="span_a">2026年7月1日更新</span><span class="span_b"><a href="/site/sinsai-saigai/housyasenn-news-saishinn.html">放射線モニタリングニュース　最新号</a></span></li>
+									
+								</ul>
+								
+								
+								
+							</div>
+						</div>
+						<p class="newslist"><a href="/soshiki/list1-1.html">新着更新情報の一覧を見る</a></p>
+					</div>
+					
+					<!-- 新着更新情報ここまで -->
+					<!--ライフシーンここから-->
+					<div id="lifescene">
+						<h2>ライフシーンで探す</h2>
+						<ul>
+							<li id="lifestage1_on"><a href="/site/kosodate-iryo/list66-528.html"><img src="/img/top/scene01_2015.gif" alt="妊娠・出産" width="88px" height="100px" /></a></li>
+							<li id="lifestage2_on"><a href="/site/kosodate-iryo/list66-529.html"><img src="/img/top/scene02_2015.gif" alt="子育て" width="88px" height="100px" /></a></li>
+							<li id="lifestage3_on"><a href="/site/kosodate-iryo/list66-531.html"><img src="/img/top/scene03_2015_1.gif" alt="就学" width="88px" height="100px" /></a></li>
+							<li id="lifestage4_on"><a href="/site/kurashi-tetsuzuki/list91.html"><img src="/img/top/scene04_2015_1.gif" alt="就職" width="88px" height="100px" /></a></li>
+							<li id="lifestage5_on"><a href="/site/kurashi-tetsuzuki/list55-499.html"><img src="/img/top/scene05_2015.gif" alt="結婚・離婚" width="88px" height="100px" /></a></li>
+							<li id="lifestage6_on"><a href="/site/kurashi-tetsuzuki/list136.html"><img src="/img/top/scene06_2015.gif" alt="引越し・住宅" width="88px" height="100px" /></a></li>
+							<li id="lifestage7_on"><a href="/site/kosodate-iryo/list65-527.html"><img src="/img/top/scene07_2015.gif" alt="高齢・介護" width="88px" height="100px" /></a></li>
+							<li id="lifestage8_on"><a href="/site/kurashi-tetsuzuki/list59-514.html"><img src="/img/top/scene08_2015.gif" alt="おくやみ" width="88px" height="100px" /></a></li>
+						</ul>
+					</div>
+					<!--ライフシーンここまで -->
+					<!-- トピックスここから -->
+					<div id="topics_box">
+						<div id="topics">
+							<h2><img src="/img/top-parts/h2_topics.png" alt="トピックス" width="325px" height="19px" /></h2>
+							<!--<span class="text_g4"><a href="/rss/10/list6.xml"><img src="/img/logo_rss.gif" alt="RSS配信" width="42" height="17" /></a></span>-->
+							
+							<!-- レタリングここから -->
+							
+							<div id="topi">
+								
+								<div id="lettering">
+									<div id="lettering2"><img src="/uploaded/life/s/61200_83373_img.jpg" alt="ここでも窓口の写真" width="200" /></div><!-- サムネイル -->
+								</div><!-- #lettering -->
+								
+								
+								<div id="lettering3">
+									<div id="lettering3-contents">
+										<a href="/site/chosei-shisetsu/kokomado.html">ここでも窓口のご利用について</a>
+										<!-- 新着記事タイトル -->
+										<!-- <span>[[section_name_link]]</span> 担当課 -->
+										<p class="tit_list">2025年11月4日更新</p><!-- 新着記事日付 -->
+										<!-- <span>ここでも窓口の写真...</span>新着記事冒頭 -->
+									</div><!-- #lettering3-contents -->
+								</div><!-- #lettering3 -->
+								
+								
+								<!-- <p class="tit_list"><a href="/site/chosei-shisetsu/kokomado.html">ここでも窓口のご利用について</a></p> 詳しく見る -->
+								
+							</div><!-- #topi -->
+							
+							<div id="topi">
+								
+								<div id="lettering">
+									<div id="lettering2"><img src="/uploaded/image/s/19260.jpg" alt="ＨＯＯＫバナー" width="200" /></div><!-- サムネイル -->
+								</div><!-- #lettering -->
+								
+								
+								<div id="lettering3">
+									<div id="lettering3-contents">
+										<a href="/site/kurashi-tetsuzuki/ijuteiju-hook.html">福島県の求人・移住メディア「ＨＯＯＫ」について</a>
+										<!-- 新着記事タイトル -->
+										<!-- <span>[[section_name_link]]</span> 担当課 -->
+										<p class="tit_list">2022年3月3日更新</p><!-- 新着記事日付 -->
+										<!-- <span>「ＨＯＯＫ」について　ＨＯＯＫは、福島県の求人・移住メディアとして、福島県でイキイキ生活されている方のインタビュー記事や談話などを掲載しております。　川俣町を含めた被災12市町村の移住情報や求人情報を掲載しておりますので川俣町移住・定住ポータルサイトと合わせてご覧いただきますようお願いいたします。　上部にあるロゴをクリックするとポータルサイトを見ることができます。...</span>新着記事冒頭 -->
+									</div><!-- #lettering3-contents -->
+								</div><!-- #lettering3 -->
+								
+								
+								<!-- <p class="tit_list"><a href="/site/kurashi-tetsuzuki/ijuteiju-hook.html">福島県の求人・移住メディア「ＨＯＯＫ」について</a></p> 詳しく見る -->
+								
+							</div><!-- #topi -->
+							
+							<!-- レタリングここまで -->
+							
+							
+							<!-- 改行ＮＧ -->
+							
+							<!-- [[topics_no_image_list_all_start]] -->
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							<p class="topicslist"><a href="/soshiki/list6-1.html">トピックスの一覧を見る</a></p><!-- 一覧を見る -->
+							
+							
+							
+							<!-- [[topics_no_image_list_all_end]] -->
+						</div><!-- #topics -->
+					</div><!-- #topics_box -->
+					<!-- トピックスここまで -->
+				</div>
+			</div>
+			<!-- メインここまで -->
+			<!-- サイドバー2ここから -->
+			<div id="sidebar2">
+				<div class="menu_list_e2">
+					<ul>
+						<li><a href="/site/chosei-shisetsu/list69.html"><img src="/img/top-parts/btn_mayor.jpg" width="216" height="45" alt="町長室" class="img_b" /></a></li>
+<li><a href="/site/gikai/"><img src="/img/top-parts/btn_gikai.jpg" width="216" height="45" alt="川俣町議会" class="img_b" /></a></li>
+<li><a href="/site/kosodate-iryo/kawamata-school.html"><img src="/img/top-parts/btn_school.jpg" width="216" height="45" alt="町立小・中学校" class="img_b" /></a></li>
+<li><a href="/site/nyusatsu-keiyaku/list142.html"><img src="/img/top-parts/btn_nyusatsu.jpg" width="216" height="45" alt="入札情報" class="img_b" /></a></li>
+<li><a href="/site/kurashi-tetsuzuki/hurusato-kihukin.html"><img src="/img/top-parts/btn_furusato.jpg" width="216" height="45" alt="ふるさと納税" class="img_b" /></a></li>
+					</ul>
+				</div>
+				<div class="town_box">
+					<h2>川俣町について</h2>
+					<ul>
+						<li><a href="/site/chosei-shisetsu/list71-542.html">町のプロフィール</a></li>
+						<li><a href="/site/chosei-shisetsu/access.html">町へのアクセス</a></li>
+						<li><a href="http://www1.g-reiki.net/kawamata/reiki_menu.html">例規集</a><span class="external_link_text">＜外部リンク＞</span></li>
+					</ul>
+				</div>
+				<div class="menu_list_e2">
+					<ul class="online">
+						<li><a href="/site/chosei-shisetsu/list73-551.html"><img src="/img/top-parts/btn_boshu.png" width="216" height="45" alt="職員募集" /></a></li>
+						<li><a href="/site/kurashi-tetsuzuki/bus-koukyoukoutsuu.html"><img src="/img/top-parts/btn_kotsu.png" width="216" height="45" alt="公共交通運行状況" /></a></li>
+					</ul>
+				</div>
+				<div class="event_box">
+					<h2>イベント・観光・物産</h2>
+					<ul class="online">
+						<li><a href="/site/kanko-event/list78-561.html"><img src="/img/top-parts/btn_e_cosquin.png" width="216" height="40" alt="コスキン・エン・ハボン" /></a></li>
+						<li><a href="/site/kanko-event/list79-568.html"><img src="/img/top-parts/btn_e_syamo.png" width="216" height="40" alt="川俣シャモ" /></a></li>
+						<li><a href="/site/chosei-shisetsu/hayamanomori.html"><img src="/img/top-parts/btn_e_museum.png" width="216" height="40" alt="羽山の森美術館" /></a></li>
+						<li><a href="/site/kanko-event/silkpia-shisetsuannai.html"><img src="/img/top-parts/btn_e_michinoeki.png" width="216" height="40" alt="道の駅かわまた" /></a></li>
+						<li><a href="/site/chosei-shisetsu/ojimafurusatokouryuukann.html"><img src="/img/top-parts/btn_e_koryukan.png" width="216" height="40" alt="おじまふるさと交流館" /></a></li>
+						<li><a href="/site/sinsai-saigai/tonya12.html"><img src="/img/top-parts/btn_e_tonya.png" width="216" height="40" alt="とんやの郷" /></a></li>
+					</ul>
+				</div>
+				<!-- バナーここから-->
+				<div class="bn_boshu_box">
+					<h2><img src="/img/top-parts/h2_bn_boshu.jpg" width="216" height="35" alt="バナー募集" /></h2>
+					
+					<ul class="banner_c">
+						
+						<li>
+							<a href="/site/jigyoshamuke/banner-bosyu.html" onclick="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/20'});" onkeypress="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/20'});" rel="nofollow"><img src="/uploaded/banner/20_img1.jpg" alt="ホームページ掲載バナー募集中" width="120" height="60" /></a></li>
+						
+					</ul>
+					
+				</div>
+				<!--バナーここまで -->
+				<!-- 関連リンクここから-->
+
+				<!--関連リンクここまで -->
+			</div>
+			<!-- サイドバー2ここまで -->
+		</div><!-- 3カラム終わり -->
+		<div class="rwd">
+			<p>[表示切替]<br /><a href="javascript:void(0);" class="rwd_sp hidden_sp">モバイル</a> | <a href="javascript:void(0);" class="rwd_pc hidden">パソコン</a> | <a href="#">トップに戻る</a></p>
+		</div>
+		<p id="page-top"><a href="#pagetop" title="トップへ戻る">▲</a></p>
+		<!-- フッターここから -->
+		<hr class="hide" />
+		<div id="footer">
+			<!-- author_infoここから -->
+			<div id="author_info">
+				<div class="footer_tit">
+					<div class="footer_tit-left">　</div>
+					<!--<div class="footer_tit-center">　</div>-->
+					<div class="footer_tit-right">　</div>
+				</div>
+				<div id="author_box">
+					<div id="footer_address">
+						<p><span class="footerline"><strong>川俣町役場</strong> （<a href="/site/chosei-shisetsu/access.html">町へのアクセス</a>）</span> <span class="footerline">〒960-1492</span><span class="footerline">福島県伊達郡川俣町字五百田30番地</span><br />
+							<span class="footerline">業務時間：午前8時30分～午後5時15分</span> <span class="footerline">閉庁日：土曜・日曜日、祝日、休日、年末年始</span><br />
+							<span class="footerline">電話：024-566-2111（代表）</span> <span class="footerline">FAX：024-566-2438</span><span class="footerline_clear">（<a href="/soshiki/">組織別連絡先</a>）</span></p>
+					</div><!-- #footer_address -->
+					<div class="footer_navi">
+						<ul>
+							<li><a href="/site/site/privacypolicy.html">プライバシーポリシー</a></li>
+							<li><a href="/site/site/menseki.html">免責事項</a></li>
+							<li><a href="/site/site/copyright.html">著作権・リンクについて</a></li>
+							<li><a href="/site/site/otoiawase.html">お問い合わせについて</a></li>
+						</ul>
+					</div><!-- .footer_navi -->
+				</div><!-- #author_box -->
+				<div class="footer_bot">
+					<div class="footer_bot-left">　</div>
+					<!--<div class="footer_tit-center">　</div>-->
+					<div class="footer_bot-right">　</div>
+				</div>
+			</div>
+			<!-- author_infoここまで -->
+			<p id="copyright">Copyright © 2022 KawamataTown All rights reserved.</p>
+		</div>
+		<!-- フッターここまで -->
+	</div><!-- コンテナここまで -->
+</body>
+
+</html>

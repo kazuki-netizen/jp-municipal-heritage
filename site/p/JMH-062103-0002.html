@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>伝勝軍地蔵菩薩像（木造地蔵菩薩坐像） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>伝勝軍地蔵菩薩像（木造地蔵菩薩坐像）</h1>
+    <p class="jmh-id">JMH-062103-0002</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>彫刻</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字道満</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 新源寺; 概要: 像高 84．７㎝; 製作年代: 江戸時代; 本像は元愛宕神社の宿院（しゅくいん）であった大輪寺（だいりんじ）に伝わったものである。貞享（じょうきょう）５年（1688）に寳幢寺（ほうどうじ）住職亮辯（りょうべん）時代、桐木（きりきの）に居住し京都七条仏所に所属する大佛師井関念正法印によって造立された。台座に、「貞享二二丁卯年御素木加持於 寶幢寺道場法印亮辯 勤修之貞享五戌辰年五月吉日 刻彫之功畢 山城京七条方桐木大佛師井関氏 念正法師彫之 羽州最上山形寶幢寺住侍 法印亮辯二世之願求之」、「奉刻彫地蔵大菩薩（以下の文字は併記）御素木榧木・御長座二尺五寸」との墨書が確認される。七条仏所については、仏師定朝（じょうちょう）やその一族、子弟が居住していた所と伝えられており、井関念正法印は定朝様式の流れを受け継いだ仏師であったと考えられる。 本像の発願者である亮辮は寛文元年（1661）から元禄（げんろく）11年（1698）在職）まで愛宕神社の別当を務めた。『出羽国最上郡山形城東大黒山宝幢寺新彫刻本尊及弘法大師像記』に記されている「天童邑愛宕山大輪寺本堂地蔵菩薩金色坐像、（省略）貞享五年戊辰之秋新彫功竣」は、本像を指すものであると思われる。 朝日町大谷の永林寺の山門には、元禄５年（1692）に京都の大仏師井関宗意及び同念性の２人によって制作された仁王尊像が見られるが、この仁王尊像は、本像の４年後に製作されていることから、井関念正と井関念性は、同一人物であろう。また、中山町個人宅に、台座に井関念性の名が記された阿弥陀如来座像（中山町指定有形文化財）が見られる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"伝勝軍地蔵菩薩像（木造地蔵菩薩坐像）" (JMH-062103-0002), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.389492, 140.393494], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.389492, 140.393494]).addTo(m);
+  </script>
+</body>
+</html>

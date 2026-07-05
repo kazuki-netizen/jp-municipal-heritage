@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>木造不動明王立像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>木造不動明王立像</h1>
+    <p class="jmh-id">JMH-062103-0023</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>彫刻</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字山元</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 若松寺; 概要: 像高 36．４㎝; 製作年代: 鎌倉時代後期; 不動明王は、平安時代、空海が中国（唐代）から請来したと伝えられる。大日如来(だいにちにょらい)の化身ともされ、密教(みっきょう)を代表する仏として、また五大明王の主尊として盛んに信仰された。 形態は、独特の髪形をとり、憤怒形(ふんぬぎょう)で、右手には剣を左手には索(さく)を持つ姿が多い。面相は、髪は総髪で顔の横に垂れて弁髪(べんぱつ)とする。両眼は開き、口もとは上唇で下唇を噛み、正面を見据えるものが一般的である。後に、髪を巻毛とし左目を閉じ、右下の牙と左上の牙をむきだすものが多く見られるようになった。 本像は寄木造(よせぎづくり)で、後代補修の跡がみられ、彩色は江戸時代に行われている。火焔光背(かえんこうはい)の傷みが激しく、台座の須弥座(しゅみざ)・岩座ともに後補である。頭部に大き目の蓮華をいただき、髪は巻髪にして顔の左側に垂れて弁髪にしている。正面を見据え、上唇で下唇を噛み上の牙と下の牙を左右に出す。腰を多少右にひねり、ふくよかな姿で、全体に鎌倉期の写実的な雰囲気がうかがえるとされていた。近年の調査では、体躯のバランスが不均衡であること、誇張(こちょう)した表現が見られるところがあるなど、江戸時代制作との見解が出ている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"木造不動明王立像" (JMH-062103-0023), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.360462, 140.409607], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.360462, 140.409607]).addTo(m);
+  </script>
+</body>
+</html>

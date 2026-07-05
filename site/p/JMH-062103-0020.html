@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>愛宕神社社殿 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>愛宕神社社殿</h1>
+    <p class="jmh-id">JMH-062103-0020</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字北目</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 愛宕神社; 製作年代: 江戸時代; 舞鶴山山頂に建つ愛宕神社は天正(てんしょう)12年（1584）、天童頼久(よりひさ)（頼澄(よりずみ)）との戦いに勝利した最上義光が建立した。舞鶴山は愛宕山とも呼ばれるようになる。「愛宕神社由緒」に、天正年間創立より後「二十年過ギ候テ焼失ス。慶長八年亥年ノ再建スル所ナリ」とある。さらに、二度目建立と書かれた慶長(けいちょう)８年（1603）の棟札(むなふだ)と、慶長８年建立より70年が過ぎ、建物が傷んだため修理を施した旨を記す寛文(かんぶん)12年（1672）の棟札が伝わる。この時の愛宕神社は本殿・拝殿が未分離であったようだ。幣殿(へいでん)と拝殿は、前書に延宝(えんぽう)６年（1678）建立とある。寛文12年の棟札から、本殿柱などには慶長８年の白木建物と異なり、彩色や彫刻が施されたことがうかがえる。その後社殿は、明治35年（1902）９月28日、風害により倒壊し、同39年（1906）７月２日に再建された。本殿一丈四面白木による神明造り、幣殿は15坪（約50㎡）、拝殿は28坪（約92㎡）と記録にある。 本殿前階段には、寛文13年（1673）銘の「擬宝珠(ぎぼし)」二基が確認され、江戸時代前期の作と思われる幣殿の板壁絵「鷹(たか)の巣籠り(すごもり)図」には金泥(きんでい)が確認される。また、萩が描かれた板壁絵も見られる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"愛宕神社社殿" (JMH-062103-0020), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.344963, 140.358032], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.344963, 140.358032]).addTo(m);
+  </script>
+</body>
+</html>

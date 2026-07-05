@@ -1,0 +1,394 @@
+{
+  "仙台市": {
+    "rows": 117,
+    "excluded": {
+      "national": 40,
+      "pref": 79,
+      "registered": 105,
+      "blank": 2,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "国宝": 4,
+      "重要文化財": 18,
+      "重要無形文化財": 1,
+      "重要無形民俗文化財": 1,
+      "史跡": 7,
+      "名勝": 3,
+      "特別天然記念物": 1,
+      "天然記念物": 5,
+      "県指定有形文化財": 64,
+      "県指定無形民俗文化財": 12,
+      "県指定天然記念物": 3,
+      "市指定有形文化財": 87,
+      "市指定有形民俗文化財": 9,
+      "市指定無形民俗文化財": 5,
+      "市指定史跡": 9,
+      "市指定天然記念物": 7,
+      "登録有形文化財": 62,
+      "市登録有形文化財": 38,
+      "市登録無形民俗文化財": 5
+    },
+    "source": "https://miyagi.dataeye.jp/resources/903",
+    "file": "data/miyagi_work/dataeye_csv/511_903__.csv"
+  },
+  "塩竈市": {
+    "rows": 17,
+    "excluded": {
+      "national": 6,
+      "pref": 5,
+      "registered": 1,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "重要文化財": 3,
+      "特別名勝": 1,
+      "天然記念物": 1,
+      "名勝": 1,
+      "登録有形文化財": 1,
+      "県指定 天然記念物": 1,
+      "県指定 有形文化財": 1,
+      "県指定 無形民俗文化財": 1,
+      "県指定 有形民俗文化財": 2,
+      "市指定 有形文化財": 13,
+      "市指定 史跡": 1,
+      "市指定 天然記念物": 1,
+      "市指定 有形民俗文化財": 1,
+      "市指定 無形民俗文化財": 1
+    },
+    "source": "https://miyagi.dataeye.jp/resources/866",
+    "file": "data/miyagi_work/dataeye_csv/866___042030_cultural_property.csv"
+  },
+  "気仙沼市": {
+    "rows": 49,
+    "excluded": {
+      "national": 4,
+      "pref": 17,
+      "registered": 17,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "国指定無形民俗文化財": 2,
+      "国指定名勝": 1,
+      "国指定天然記念物": 1,
+      "県指定有形文化財": 2,
+      "県指定有形文化財（彫刻）": 1,
+      "県指定有形文化財（絵画）": 2,
+      "県指定史跡": 1,
+      "県指定無形民俗文化財": 5,
+      "県指定名勝": 1,
+      "県指定天然記念物（樹木）": 4,
+      "県指定天然記念物": 1,
+      "市指定有形文化財": 1,
+      "市指定有形文化財；登録有形文化財": 3,
+      "市指定有形文化財（彫刻）": 6,
+      "市指定有形文化財（工芸品）": 1,
+      "市指定有形文化財（絵画）": 2,
+      "市指定有形文化財（歴史資料）": 6,
+      "市指定有形文化財（考古資料）": 2,
+      "市指定無形民俗文化財": 8,
+      "市指定史跡": 13,
+      "市指定天然記念物（樹木）": 7,
+      "登録有形文化財": 17
+    },
+    "source": "https://miyagi.dataeye.jp/resources/916",
+    "file": "data/miyagi_work/dataeye_csv/916___042056_20230331_cutural_property.csv"
+  },
+  "白石市": {
+    "rows": 23,
+    "excluded": {
+      "national": 5,
+      "pref": 4,
+      "registered": 10,
+      "blank": 0,
+      "ambiguous_excluded": 2
+    },
+    "classes": {
+      "天然記念物": 5,
+      "県指定史跡": 1,
+      "県指定有形文化財": 2,
+      "県指定天然記念物": 1,
+      "市指定史跡": 5,
+      "市指定有形文化財": 8,
+      "市指定無形文化財": 2,
+      "市指定天然記念物": 6,
+      "指定有形文化財": 2,
+      "登録有形文化財": 10,
+      "記録作成等の措置を講ずべき無形の民俗文化財": 2
+    },
+    "source": "https://miyagi.dataeye.jp/resources/1189",
+    "file": "data/miyagi_work/dataeye_csv/1189___042064_cultural_property.csv"
+  },
+  "名取市": {
+    "rows": 27,
+    "excluded": {
+      "national": 7,
+      "pref": 5,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "国指定記念物": 2,
+      "重要文化財": 5,
+      "県指定有形文化財": 2,
+      "県指定民俗文化財": 3,
+      "市指定記念物": 8,
+      "市指定有形文化財": 12,
+      "市指定民俗文化財": 7
+    },
+    "source": "https://miyagi.dataeye.jp/resources/1200",
+    "file": "data/miyagi_work/dataeye_csv/1200___042072_cultural_property_20240630.csv"
+  },
+  "多賀城市": {
+    "rows": 11,
+    "excluded": {
+      "national": 14,
+      "pref": 5,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "史跡": 1,
+      "国指定重要文化財": 11,
+      "市指定史跡": 3,
+      "県指定有形民俗文化財": 1,
+      "県指定建造物": 1,
+      "国宝": 1,
+      "県指定重要文化財": 1,
+      "県指定考古資料": 2,
+      "市指定古文書": 2,
+      "市指定考古資料": 6,
+      "特別名勝;天然記念物": 1
+    },
+    "source": "https://miyagi.dataeye.jp/resources/718",
+    "file": "data/miyagi_work/dataeye_csv/718___042099_cultural_property.csv"
+  },
+  "登米市": {
+    "rows": 21,
+    "excluded": {
+      "national": 1,
+      "pref": 2,
+      "registered": 3,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "重要文化財": 1,
+      "県指定重要有形文化財": 1,
+      "市指定有形文化財": 21,
+      "県指定有形民俗文化財": 1,
+      "国登録有形文化財": 3
+    },
+    "source": "https://miyagi.dataeye.jp/resources/32596",
+    "file": "data/miyagi_work/dataeye_csv/32596___042129_cultural_property.csv"
+  },
+  "栗原市": {
+    "rows": 219,
+    "excluded": {
+      "national": 12,
+      "pref": 19,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "重要文化財": 3,
+      "重要無形民俗文化財": 1,
+      "史跡": 5,
+      "天然記念物": 3,
+      "県指定有形文化財": 13,
+      "県指定民俗文化財": 1,
+      "県指定無形民俗文化財": 1,
+      "県指定史跡": 2,
+      "県指定天然記念物": 2,
+      "市指定有形文化財": 96,
+      "市指定無形文化財": 1,
+      "市指定民俗文化財": 37,
+      "市指定記念物": 85
+    },
+    "source": "https://miyagi.dataeye.jp/resources/1393",
+    "file": "data/miyagi_work/dataeye_csv/1393___042137_cultural_property.csv"
+  },
+  "石巻市": {
+    "rows": 59,
+    "excluded": {
+      "national": 9,
+      "pref": 13,
+      "registered": 6,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "重要文化財": 4,
+      "史跡": 1,
+      "天然記念物": 2,
+      "重要無形民俗文化財": 1,
+      "名勝": 1,
+      "登録有形文化財": 6,
+      "県指定無形民俗文化財": 6,
+      "県指定史跡": 2,
+      "県指定有形文化財": 4,
+      "県指定天然記念物": 1,
+      "市指定有形文化財": 31,
+      "市指定天然記念物": 8,
+      "市指定無形民俗文化財": 17,
+      "市指定民俗文化財": 2,
+      "市指定記念物": 1
+    },
+    "source": "https://miyagi.dataeye.jp/resources/32363",
+    "file": "data/miyagi_work/dataeye_csv/32363___042021_cultural_property_20250401.csv"
+  },
+  "大崎市": {
+    "rows": 96,
+    "excluded": {
+      "national": 12,
+      "pref": 13,
+      "registered": 32,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "重要文化財": 1,
+      "国指定史跡名勝天然記念物": 11,
+      "県指定有形文化財": 6,
+      "県指定民俗文化財": 2,
+      "県指定史跡名勝天然記念物": 5,
+      "市指定有形文化財": 53,
+      "市指定無形文化財": 1,
+      "市指定民俗文化財": 11,
+      "市指定史跡名勝天然記念物": 13,
+      "市指定天然記念物": 18,
+      "国登録有形文化財": 32
+    },
+    "source": "https://miyagi.dataeye.jp/resources/496",
+    "file": "data/miyagi_work/dataeye_csv/496_____20250401.csv"
+  },
+  "東松島市": {
+    "rows": 33,
+    "excluded": {
+      "national": 4,
+      "pref": 3,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "特別名勝": 1,
+      "史跡": 2,
+      "重要無形民俗文化財": 1,
+      "県指定史跡": 1,
+      "県指定天然記念物": 2,
+      "市指定有形文化財": 18,
+      "市指定無形民俗文化財": 2,
+      "市指定史跡": 5,
+      "市指定天然記念物": 8
+    },
+    "source": "https://miyagi.dataeye.jp/resources/736",
+    "file": "data/miyagi_work/dataeye_csv/736___042145_caltural_property.csv"
+  },
+  "柴田町": {
+    "rows": 36,
+    "excluded": {
+      "national": 0,
+      "pref": 4,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "天然記念物": 6,
+      "県指定有形文化財": 4,
+      "史跡": 18,
+      "町指定有形文化財": 10,
+      "町指定無形文化財": 2
+    },
+    "source": "https://miyagi.dataeye.jp/resources/32930",
+    "file": "data/miyagi_work/dataeye_csv/32930___043231_cultural_property.csv"
+  },
+  "村田町": {
+    "rows": 57,
+    "excluded": {
+      "national": 1,
+      "pref": 1,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 1
+    },
+    "classes": {
+      "重要伝統的建造物群保存地区": 1,
+      "重要文化財": 1,
+      "県指定史跡": 1,
+      "町指定有形文化財": 19,
+      "町指定有形民俗文化財": 1,
+      "町指定無形民俗文化財": 9,
+      "町指定史跡": 21,
+      "町指定名勝": 1,
+      "町指定天然記念物": 6
+    },
+    "source": "https://miyagi.dataeye.jp/resources/263",
+    "file": "data/miyagi_work/dataeye_csv/263___043222_cultural_property.csv"
+  },
+  "松島町": {
+    "rows": 101,
+    "excluded": {
+      "national": 14,
+      "pref": 14,
+      "registered": 0,
+      "blank": 870,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "国宝": 2,
+      "重要文化財": 10,
+      "特別名勝": 1,
+      "史跡": 1,
+      "県指定文化財": 14,
+      "町指定文化財": 101
+    },
+    "source": "https://miyagi.dataeye.jp/resources/854",
+    "file": "data/miyagi_work/dataeye_csv/854__044016_cultural_property.csv"
+  },
+  "大衡村": {
+    "rows": 3,
+    "excluded": {
+      "national": 0,
+      "pref": 0,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "村指定史跡名勝": 1,
+      "村指定無形民俗文化財": 1,
+      "村指定有形文化財": 1
+    },
+    "source": "https://miyagi.dataeye.jp/resources/1032",
+    "file": "data/miyagi_work/dataeye_csv/1032___044245_cultural_property.csv"
+  },
+  "涌谷町": {
+    "rows": 33,
+    "excluded": {
+      "national": 2,
+      "pref": 5,
+      "registered": 0,
+      "blank": 0,
+      "ambiguous_excluded": 0
+    },
+    "classes": {
+      "県指定重要文化財": 4,
+      "町指定重要文化財": 12,
+      "町指定重要有形民俗文化財": 1,
+      "県指定重要無形民俗文化財": 1,
+      "町指定重要無形民俗文化財": 1,
+      "史跡": 2,
+      "町指定史跡": 3,
+      "町指定天然記念物": 16
+    },
+    "source": "https://miyagi.dataeye.jp/resources/919",
+    "file": "data/miyagi_work/dataeye_csv/919____045012__cultural_property.xlsx"
+  }
+}

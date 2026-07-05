@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>徳正寺山門 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>徳正寺山門</h1>
+    <p class="jmh-id">JMH-062103-0018</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字奈良沢</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 徳正寺; 製作年代: 江戸時代中期; 市内はもちろん、近郷に数少ない古建築の山門である。 三間一戸(さんげんいっこ)、四脚門(しきゃくもん)形式の楼門(ろうもん)（２階建の門だが、下層に屋根がない）である。戸口は２．８ｍ、屋根は萱葺(かやぶき)、入母屋造(いりもやづくり)、高欄(こうらん)の四隅に擬宝珠(ぎぼし)をのせ、釣り燈籠(どうろう)の痕跡として、その環(わ)が残っている。 この山門は、天明(てんめい)３年（1783）、徳正寺門徒の若講中(わかこうちゅう)が寄進し、山寺立石寺南門を移築したものといわれるが、徳正寺に残る棟札から疑問が残っている。建築細工の面においては、中世的要素と近世的要素が溶け合った素朴な趣のある山門である。 昭和38年（1963）に建立当初よりの萱葺屋根を亜鉛鉄板覆(おおい)とし、昭和59年（1984）に門扉(もんぴ)、回廊、高欄等の修復が行われた。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"徳正寺山門" (JMH-062103-0018), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.333637, 140.397583], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.333637, 140.397583]).addTo(m);
+  </script>
+</body>
+</html>

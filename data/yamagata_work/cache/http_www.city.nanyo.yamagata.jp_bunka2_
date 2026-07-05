@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>文化係 - 南陽市ホームページ</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="google" value="notranslate">
+
+	<!-- styles -->
+	<link rel="stylesheet" href="/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="/css/nanyo/common.css?20180308" class="notranslate" title="common">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_black.css"  class="notranslate" title="black">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_blue.css"   class="notranslate" title="blue">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_yellow.css" class="notranslate" title="yellow">
+	<link rel="stylesheet" href="/css/nanyo/style.css?20260704" class="notranslate">
+
+
+	<!-- scripts -->
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/jquery.cookie.js"></script>
+	<script src="/js/jquery.fontsize.js"></script>
+	<script src="/js/jquery.cssswitch.js"></script>
+</head>
+<body class="Nanyo Category">
+
+<header id="header">
+	<div id="top">
+		<div class="container">
+			<p class="sub sub-title">子育て支援宣言都市なんよう</p>
+			<ul class="nav sr-only" id="skip-nav">
+			  <li><a href="#main">メインコンテンツへ</a></li>
+			  <li><a href="#header-nav">グローバルナビへ</a></li>
+			  <li><a href="#footer">フッターエリアへ</a></li>
+			  <li><a href="#top">ページの先頭へ</a></li>
+			</ul>
+			<p class="nav sankaku"><a href="/sitemap">サイトマップ</a></p>
+			<!-- LINE Tag Base Code -->
+			<!-- Do Not Modify -->
+			<script>
+			(function(g,d,o){
+			  g._ltq=g._ltq||[];g._lt=g._lt||function(){g._ltq.push(arguments)};
+			  var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net';
+			  var s=d.createElement('script');s.async=1;
+			  s.src=o||h+'/n/line_tag/public/release/v1/lt.js';
+			  var t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);
+			    })(window, document);
+			_lt('init', {
+			  customerType: 'account',
+			  tagId: '97f25dcd-dd3c-4291-bbf3-df49fb92115a'
+			});
+			_lt('send', 'pv', ['97f25dcd-dd3c-4291-bbf3-df49fb92115a']);
+			</script>
+			<noscript>
+			  <img height="1" width="1" style="display:none"
+			       src="https://tr.line.me/tag.gif?c_t=lap&t_id=97f25dcd-dd3c-4291-bbf3-df49fb92115a&e=pv&noscript=1" />
+			</noscript>
+			<!-- End LINE Tag Base Code -->
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-4YQVBN53Q3"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+			  gtag('config', 'G-4YQVBN53Q3');
+			</script>
+		</div>
+	</div>
+	<!-- /#top -->
+	<div id="header-area" class="container">
+		<div id="header-title" class="logo">
+			<p class="site-title"><a href="/"><img alt="南陽市 - Nanyo City" src="/up/images/nanyo/common/site_logo.gif"></a></p>
+			<p class="character"><img alt="なんちゃん・ようちゃん" src="/up/images/nanyo/common/nanyouchan.gif"></p>
+		</div>
+		<div class="navbar-header" id="sp-header">
+			<a class="btn" href="#header-menu" title="メニューを開く">
+			<img alt="" height="60" src="/up/images/nanyo/common/icon_sp_menu.png" width="60">
+			<span class="sr-only">メニュー</span>
+			</a>
+		</div><!-- /#sp-header -->
+		<div id="header-menu">
+			<div class="change" id="header-app">
+				<div class="group">
+					<div class="form fontsize">
+						<label for="fz-normal">文字のサイズ</label>
+						<p class="notranslate">
+							<button type="button" id="fz-small"  class="btn fontsize small"  data-fontsize="87.5%"><img alt="小" src="/up/images/nanyo/common/head_size_sho.gif"></button>
+							<button type="button" id="fz-normal" class="btn fontsize normal" data-fontsize="100%"><img alt="中" src="/up/images/nanyo/common/head_size_chu.gif"></button>
+							<button type="button" id="fz-large"  class="btn fontsize large"  data-fontsize="125%"><img alt="大" src="/up/images/nanyo/common/head_size_dai.gif"></button>
+							<button type="button" id="fz-xlarge" class="btn fontsize xlarge" data-fontsize="200%"><img alt="特大" src="/up/images/nanyo/common/head_size_tokudai.gif"></button>
+						</p>
+					</div>
+					<div class="form iro">
+						<label for="bg-common">色合い</label>
+						<p class="notranslate">
+							<button type="button" id="bg-common" class="btn css-switch btn-white" data-css="common"><img alt="標準" src="/up/images/nanyo/common/head_color_white.gif"></button>
+							<button type="button" id="bg-black" class="btn css-switch btn-black" data-css="black"><img alt="黒" src="/up/images/nanyo/common/head_color_black.gif"></button>
+							<button type="button" id="bg-yellow" class="btn css-switch btn-yellow" data-css="yellow"><img alt="黄" src="/up/images/nanyo/common/head_color_yellow.gif"></button>
+							<button type="button" id="bg-blue" class="btn css-switch btn-blue" data-css="blue"><img alt="青" src="/up/images/nanyo/common/head_color_blue.gif"></button>
+						 </p>
+					</div>
+				</div>
+				<div class="group">
+										<form action="https://www.google.co.jp/search" id="google_cse" class="form search">
+											<div class="sitesearch">
+												<label accesskey="f" for="q">サイト内検索</label>
+												<input id="q" name="q" size="20" type="text" value="" title="検索したいキーワードを入力">
+												<input name="btnG" type="submit" value="検索">
+												<input name="ie" type="hidden" value="UTF-8">
+												<input name="oe" type="hidden" value="UTF-8">
+												<input name="hl" type="hidden" value="ja">
+												<input name="domains" type="hidden" value="city.nanyo.yamagata.jp">
+												<input name="sitesearch" type="hidden" value="city.nanyo.yamagata.jp">
+											</div>
+										</form>
+										<div class="form language">
+											<label>Languages</label>
+											<div id="google_translate_element"></div>
+											<a href="/about/731" class="aboutforeign">（外国語翻訳について）</a>
+										</div>
+				</div>
+			</div>
+			<nav id="header-nav">
+				<div class="home"><a href="/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_1_sp.png"> <img alt="ホーム" src="/up/images/nanyo/common/navi_1.gif"> </picture> <img alt="ホーム" class="on" src="/up/images/nanyo/common/navi_1_on.gif"></a></div>
+				<div class="kurasi"><a href="/siminkurasi/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_2_sp.png"> <img alt="市民のくらし" src="/up/images/nanyo/common/navi_2.gif"> </picture> <img alt="市民のくらし" class="on" src="/up/images/nanyo/common/navi_2_on.gif"></a></div>
+				<div class="business"><a href="/zigyousiya/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_3_sp.png"> <img alt="事業者の方へ" src="/up/images/nanyo/common/navi_3.gif"> </picture> <img alt="事業者の方へ" class="on" src="/up/images/nanyo/common/navi_3_on.gif"></a></div>
+				<div class="kanko"><a href="/kankou/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_4_sp.png"> <img alt="観光" src="/up/images/nanyo/common/navi_4.gif"> </picture> <img alt="観光" class="on" src="/up/images/nanyo/common/navi_4_on.gif"></a></div>
+				<div class="machi"><a href="/sangiyoumachidukuri/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_5_sp.png"> <img alt="産業・まちづくり" src="/up/images/nanyo/common/navi_5.gif"> </picture> <img alt="産業・まちづくり" class="on" src="/up/images/nanyo/common/navi_5_on.gif"></a></div>
+				<div class="bunka"><a href="/rekibunsupo/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_6_sp.png"> <img alt="歴史・文化・教育" src="/up/images/nanyo/common/navi_6.gif"> </picture> <img alt="歴史・文化・教育" class="on" src="/up/images/nanyo/common/navi_6_on.gif"></a></div>
+				<div class="city"><a href="/giyousei/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_7_sp.png"> <img alt="行政情報" src="/up/images/nanyo/common/navi_7.gif"> </picture> <img alt="行政情報" class="on" src="/up/images/nanyo/common/navi_7_on.gif"></a></div>
+			</nav><!-- #header-nav -->
+			<aside id="header-service" class="banners">
+				<a class="em service-mayor" href="/sichiyoheya/">ようこそ市長室へ</a>
+				<a href="/niyuusatukeiyaku/">入札・契約</a>
+				<a href="/tosyokan/">図書館蔵書検索</a>
+				<a href="http://www1.g-reiki.net/nanyo/reiki_menu.html" target="_blank">例規検索</a>
+				<a href="sisetuyoyaku">施設予約検索</a>
+				<a href="/topiks/">市政情報</a>
+				<a class="em" href="/sigikai/">南陽市議会</a>
+				<a href="/gikaityukei/">議会中継</a>
+				<a href="/link/">リンク集</a>
+				<a href="/yokuarufaq/faq0000">よくある質問</a>
+			</aside>
+			<aside id="header-safety" class="nav-safety">
+			<figure>
+			<figcaption>安全・安心</figcaption>
+				<ul>
+				  <li><a href="https://twitter.com/bousai_nanyo">防災X<span style="font-size:50%;">(旧ツイッター)</span></a></li>
+				  <li><a href="https://map.respect-relief.net/">災救マップ</a></li>
+				  <li><a href="https://nanyo-hinanjo.glide.page">避難所情報アプリ</a></li>
+				  <li><a href="/saigai/">防災情報</a></li>
+				  <li><a href="/hazardmap/">ハザードマップ</a></li>
+				  <li><a href="/keihoutyuihou/">警報・注意報</a></li>
+				  <li><a href="https://lin.ee/fSlaHRX">LINE公式アカウント</a></li>
+				  <li><a href="/kyujitu/724">休日診療</a></li>
+				  <li><a href="/kotuanzen/">交通安全</a></li>
+				  <li class="more"><a href="/anzenansin/">安全・安心の一覧へ</a></li>
+				</ul>
+			</figure>
+			</aside>
+		</div><!-- #header-menu -->
+	</div>
+</header>
+
+<div id="header-menu-wrapper"></div><!-- /#header-menu-wrapper -->
+<div class="container cat giyousei level-3" id="container">
+	<nav class="breadcrumb">
+				<ul class="breadcrumb-items">
+	  <li class="breadcrumb-item"><a href="/">ホーム</a></li>
+		  <li class="breadcrumb-item"><a href="/giyousei/">行政情報</a></li>
+		  <li class="breadcrumb-item"><a href="/sosiki/">市役所の組織</a></li>
+		  <li class="breadcrumb-item"><a href="/syakaikyouiku/">社会教育課　</a></li>
+		  <li class="breadcrumb-item"><a href="/bunka2/">文化係</a></li>
+			</ul>
+			</nav>
+	<div class="row" id="body">
+		<div class="col col-md-9">
+			<main id="main">
+				<header class="summary">
+					<h1>文化係</h1>
+										<div class="description"><figure class="image with-text"><img src="/up/images/giyousei/sosiki/syakaikyouiku/bunka2/archives/gr555.jpg" alt="夕鶴の里"></figure>
+<p>業務内容：夕鶴の里の運営管理・指導、市史編集資料の編集発刊、文化団体の育成、芸術祭、えくぼ絵画展、古文書史料の整理・保管・調査、市史刊行物の管理・販売、文化財保護審議会、文化財（有形・無形・記念物等）の調査及び指定、文化財の保存と管理、文化財の点検と整備、文化財の公開と活用、国指定史跡「稲荷森古墳」の管理・活用、特別天然記念物「カモシカ」の保護</p></div>
+									</header>
+												<nav class="contents">
+				<ul>
+								  <li data-time="（2026年06月15日）"><a href="/bunka2/6537">「水心子正秀 誕生の地に石碑・説明看板を」クラウドファンディング実施中</a></li>
+								  <li data-time="（2026年05月27日）"><a href="/bunka2/2944">どきどき文化財</a></li>
+								  <li data-time="（2026年05月13日）"><a href="/bunka2/6467">第３４回南陽市えくぼ絵画展のお知らせ</a></li>
+								  <li data-time="（2026年05月13日）"><a href="/bunka2/1445">南陽市史のご案内</a></li>
+								  <li data-time="（2026年02月27日）"><a href="/bunka2/6373">「海ノ民話アニメーション完成表敬訪問・海ノ民話のまち認定式」が行われました</a></li>
+								  <li data-time="（2025年08月22日）"><a href="/bunka2/3413">えくぼ絵画展　Studio</a></li>
+								  <li data-time="（2024年01月10日）"><a href="/bunka2/3362">夕鶴の里のご案内</a></li>
+								  <li data-time="（2022年06月01日）"><a href="/bunka2/478">結城豊太郎記念館のご案内</a></li>
+								  <li data-time="（2021年10月15日）"><a href="/bunka2/623">南陽市芸術文化協会</a></li>
+								  <li data-time="（2021年04月21日）"><a href="/bunka2/3530">南陽市の偉人</a></li>
+								  <li data-time="（2020年03月09日）"><a href="/bunka2/2434">白竜湖調査報告書（２）</a></li>
+								  <li data-time="（2018年08月02日）"><a href="/bunka2/1385">夕鶴の里と結城豊太郎記念館のご案内</a></li>
+								  <li data-time="（2018年08月02日）"><a href="/bunka2/2528">南陽市の文化財検索</a></li>
+								  <li data-time="（2018年04月24日）"><a href="/bunka2/2064">カモシカを見つけたら</a></li>
+								</ul>
+				</nav>
+											</main>
+		</div>
+		<!-- /.col -->
+		<div class="col col-md-3">
+			<div class="sides" id="nav-side">
+				
+								<aside class="side siblings" id="side-category">
+				<h2><a href="/syakaikyouiku/">社会教育課　</a></h2>
+				<ul class="nav">
+								  <li class=""><a href="/syakaikyoiku/">社会教育係</a>
+				
+								</li>
+								  <li class=""><a href="/kekonsuisin/">公民館結婚推進係</a>
+				
+								</li>
+								  <li class=""><a href="/syakaitaiiku/">社会体育係</a>
+				
+								</li>
+								  <li class="active"><a href="/bunka2/">文化係</a>
+				
+								  <ul class="sub-category">
+								  </ul>
+								</li>
+								  <li class=""><a href="/maizoubunka/">埋蔵文化財係</a>
+				
+								</li>
+								</ul>
+				</aside>
+							</div>
+			<!-- /#nav-side -->
+		</div>
+		<!-- /.col -->
+	</div>
+</div>
+
+<footer id="footer">
+	<div id="footer-nav" class="container">
+		<ul>
+		  <li><a href="/cyosakuken/">著作権</a></li>
+		  <li><a href="/mensekiziko/">免責事項</a></li>
+		  <li><a href="/kozinzyohohogo/">個人情報保護</a></li>
+		  <li><a href="/sitemap">サイトマップ</a></li>
+		  <li><a href="/link/">リンク</a></li>
+		</ul>
+		<div class="nav pagetop" id="footer-pagetop"><a href="#top"><img alt="ページトップへ" src="/up/images/nanyo/common/to_top.gif"></a></div>
+	</div><!-- /#footer-nav -->
+	<div id="footer-area">
+		<div class="container">
+			<address>
+			<p class="site-title"><img alt="南陽市" src="/up/images/nanyo/common/sitelogo_mini.gif"></p>
+			<p class="address">
+			〒999-2292　山形県南陽市三間通436-1　電話：0238-40-3211　FAX：0238-40-3242 <br />
+開庁時間：月曜日から金曜日の午前8時30分から午後5時15分（祝日、12月29日から1月3日を除く） </p>
+			</address>
+			<p class="copyright"><small>&copy; 2018 Nanyo City. All Rights Reserved.</small></p>
+		</div>
+	</div><!-- /#footer-area -->
+</footer>
+
+
+
+
+<script src="/js/common.js"></script>
+<script src="/js/req_fancybox.js"></script>
+<script src="/js/nanyo/nanyo.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xml:lang="ja" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="Author" content="Zao Town" />
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.wysiwyg.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.tableconverter.css" />
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js" charset="Shift_JIS"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/zao_style.wysiwyg.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/zao_style.tableconverter.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/zao_style_base.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/zao_style_main.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/css/style_print.css" />
+<link rel="alternate" type="application/rss+xml" title="新着情報_教育・文化" href="rss_news.xml" />
+<title>教育・文化　蔵王町ホームページ</title>
+<script type="text/javascript" src="/js/3.3.1.jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/mymenu.js"></script>
+<script type="text/javascript" src="/js/mymenu2.js"></script>
+<script type="text/javascript" src="/js/newstab.js"></script>
+<script type="text/javascript" src="/js/jquery.zoomsight-launch.js"></script>
+<script type="text/javascript" src="/js/toggle.pagetop.js"></script>
+<script type="text/javascript" src="/js/cms.googlemap.js"></script>
+<script src="/js/jquery.bxslider.js"></script>
+<script src="/js/bxslider_initialize.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script src="/js/analyticscode.js" type="text/javascript" charset="UTF-8"></script>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8J9LGPR1QF"></script>
+<script>
+// <![CDATA[
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8J9LGPR1QF');
+// ]]>
+</script>
+<link rel="stylesheet" href="/css/jquery.bxslider.css" />
+<link rel="stylesheet" href="/css/jquery.bxslider_mini.css" />
+
+
+
+
+
+<script type="text/javascript" src="/js/gnavi.js" charset="Shift_JIS"></script>
+<!-- google-analytics -->
+<meta property="og:title" content="教育・文化" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.town.zao.miyagi.jp/kurashi_guide/kyoiku_bunka/index.html" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+</head>
+<body id="base">
+
+<!-- scs_jyogai_start -->
+<noscript>
+<p class="jsmessage">蔵王町ホームページではJavaScriptを使用しています。JavaScriptの使用を有効にしていない場合は、一部の機能が正確に動作しない恐れがあります。<br />お手数ですがJavaScriptの使用を有効にしてください。</p>
+</noscript>
+<div class="blockjump"><a name="PTOP" id="PTOP"><img src="/images/spacer.gif" alt="このページの先頭です" width="1" height="1" /></a><img src="/images/spacer.gif" alt="サイトメニューここから" width="1" height="1" /></div>
+<div id="blockskip">
+<script type="text/javascript">
+// <![CDATA[
+$(function(){
+	$("#blockskip a").focus(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1.5em'
+				},{
+					duration: 'fast'
+				}
+			)
+			.addClass("show");
+	});
+	$("#blockskip a")
+		.blur(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1px'
+				},{
+					duration: 'fast',
+					complete: function(){
+						$(this).removeClass("show");
+					}
+				}
+			)
+	});
+});
+// ]]>
+</script>
+<a href="#CONT">このページの本文へ移動</a>
+</div>
+<div id="base_all">
+<!-- ▼ヘッダーここから▼ -->
+<div id="header">
+<!-- ▽サイト内検索▽ -->
+<div class="search">
+<p><img src="/images/search.png" width="26" height="26" alt="検索" /><span>サイト内検索</span></p>
+<div class="searchbox">
+<form action="/search.html">
+<input type="hidden" name="cx" value="011207522078513921478:ljb3ieh7rkm" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="text" name="q" placeholder="キーワードを入力" class="rc-box" />
+<input type="submit" name="sa" value="検索" class="rc-button" />
+</form>
+</div>
+</div>
+<!-- △サイト内検索△ -->
+<!-- ▽ヘッダー本体▽ -->
+<div class="h-wrap">
+<!--▽メニュー▽-->
+<div id="info-pc">
+<ul>
+	<li><a href="/sitemap.html">サイトマップ</a></li>
+	<li><a href="https://www.zoomsight-sv2.jp/ZAO/controller/index.html#https://www.town.zao.miyagi.jp/">音声読み上げ・文字拡大</a></li>
+	<li><a href="/multilingual.html">multilingual</a></li>
+</ul>
+</div><!-- /div info-pc -->
+<div id="info-sp"><!-- スマホ用メニュー・グローバルナビ -->
+<div class="navtoggle">
+<span></span>
+<span></span>
+<span></span>
+<span>メニュー</span>
+</div><!-- /div navtoggle -->
+<div class="spmenu">
+<ul>
+	<li><a href="/kurashi_guide/seikatsu_kankyo/index.html">生活・環境</a></li>
+	<li><a href="/kurashi_guide/kenkou_fukushi/index.html">健康・福祉</a></li>
+	<li><a href="/kurashi_guide/kyoiku_bunka/index.html">教育・文化</a></li>
+	<li><a href="/kurashi_guide/koukyoushisetsu/index.html">公共施設</a></li>
+	<li><a href="/kurashi_guide/sangyo_kensetsu/index.html">産業・建設</a></li>
+	<li><a href="/kurashi_guide/shisaku_machi/index.html">施策・まちづくり</a></li>
+	<li><a href="/kurashi_guide/gikai_senkyo/index.html">議会・選挙・その他行政</a></li>
+	<li><a href="/kurashi_guide/toukei/index.html">各種統計</a></li>
+	<li><a href="/section/index.html">各課からのお知らせ</a></li>
+	<li><a href="/sitemap.html">サイトマップ</a></li>
+	<li><a href="/multilingual.html">multilingual</a></li>
+</ul>
+</div><!-- /div spmenu -->
+</div><!-- /div info-sp -->
+<!-- △メニュー△ -->
+<!--▽タイトル・グローバルナビ▽-->
+<div id="h-main">
+<!-- ▽町章・町名エリア開始▽ -->
+<div id="h-logo">
+	<h1><a href="/index.html"><img src="/images/logo.png" width="254" height="85" alt="宮城県蔵王町　ロゴ" /></a></h1>
+</div>
+<div id="h-logo-sp"><!-- スマホサイズ -->
+	<a href="/index.html"><img src="/images/logo-s.png" width="250" height="55" alt="宮城県蔵王町　スマートフォンロゴ" /></a>
+</div>
+<!-- △町章・町名エリア終了△ -->
+<!-- ▽グローバルナビ開始▽ -->
+<div id="g-nav">
+<ul>
+	<li><a href="/kurashi_guide/seikatsu_kankyo/index.html">生活・環境</a></li>
+	<li><a href="/kurashi_guide/kenkou_fukushi/index.html">健康・福祉</a></li>
+	<li><a href="/kurashi_guide/kyoiku_bunka/index.html">教育・文化</a></li>
+	<li><a href="/kurashi_guide/koukyoushisetsu/index.html">公共施設</a></li>
+	<li><a href="/kurashi_guide/sangyo_kensetsu/index.html">産業・建設</a></li>
+	<li><a href="/kurashi_guide/shisaku_machi/index.html">施策<br />まちづくり</a></li>
+	<li><a href="/kurashi_guide/toukei/index.html">各種統計</a></li>
+</ul>
+</div>
+<!-- △グローバルナビ終了△ -->
+</div><!-- /div h-main -->
+<!--△タイトル・グローバルナビ△-->
+</div>
+<!-- △ヘッダー本体△ -->
+<!--▽パンくずナビ▽-->
+<div class="pk-box">
+	<div class="pk-list">
+		<ul>
+			<li><a href="/index.html">トップページ</a></li>
+<li><a href="../index.html">暮らしの案内</a></li>
+<li class="pk-thispage">教育・文化</li>
+
+		</ul>
+	</div><!-- pk-list -->
+</div><!-- pk-box -->
+<!--△パンくずナビ△-->
+</div><!-- /div header -->
+<!-- ▲ヘッダーここまで▲ -->
+<div class="guidance"><img src="/images/spacer.gif" alt="サイトメニューここまで" width="1" height="1" /></div>
+<hr />
+<div id="wrap">
+<div class="guidance"><a name="CONT" id="CONT"><img src="/images/spacer.gif" alt="本文ここから" width="1" height="1" /></a></div>
+<!-- ▼サブナビゲーションここから▼ -->
+<div id="side">
+<div id="localnavi">
+<div class="guidance"><img alt="サブナビゲーションここから" height="1" src="/images/spacer.gif" width="1" /></div>
+<div class="lnv"><!-- 暮らしの手引きバナー --><a href="/kurashi/index.html">
+<img src="/images/lnv-tebiki.gif" width="48" height="36" alt="暮らしの手引きバナー" /><span>暮らしの手引き</span></a>
+</div>
+<!-- ▽サブナビゲーション▽ -->
+
+<div id="losubnavi">
+<div class="lsnavi"><h2><span>暮らしの案内</span></h2></div>
+<ul>
+<li><a href="/kurashi_guide/seikatsu_kankyo/index.html">生活・環境</a></li>
+<li><a href="/kurashi_guide/kenkou_fukushi/index.html">健康・福祉</a></li>
+<li>教育・文化</li>
+<li><a href="/kurashi_guide/koukyoushisetsu/index.html">公共施設</a></li>
+<li><a href="/kurashi_guide/sangyo_kensetsu/index.html">産業・建設</a></li>
+<li><a href="/kurashi_guide/shisaku_machi/index.html">施策・まちづくり</a></li>
+<li><a href="/kurashi_guide/gikai_senkyo/index.html">議会・選挙・その他行政</a></li>
+<li><a href="/kurashi_guide/toukei/index.html">各種統計</a></li>
+</ul>
+</div>
+<!-- △サブナビゲーション△ -->
+
+<!-- △このページを見ている人はこんなページも見ています△ -->
+<!-- ▽サイドボタン▽ -->
+<div id="banner01"><a href="/mitsukaranaitoki.html">情報が見つからないときは</a></div>
+<div id="banner02"><a href="/section/index.html">役場組織一覧から探す</a></div>
+<!-- △サイドボタン△ -->
+<!-- ▽お気に入り▽ -->
+<div id="lobookmark"><!-- お気に入り -->
+<div class="bookmark-title clearfix">
+<span>お気に入り</span>
+<p><a href="/okiniiri.html">編集</a></p>
+</div>
+<div id="tmp_mymenu">
+<div id="tmp_mymenu_cnt">
+<div id="tmp_mymenu_list">
+<p>マイメニューの機能は、JavaScriptが無効なため使用できません。ご利用になるには、JavaScriptを有効にしてください。</p>
+</div>
+<div id="tmp_mymenu_status"></div>
+</div>
+</div>
+</div>
+<!-- △お気に入り△ -->
+
+<div class="guidance"><img src="/images/spacer.gif" alt="サブナビゲーションここまで" width="1" height="1" /></div>
+</div><!-- /div localnavi -->
+</div><!-- /div side -->
+
+<!-- scs_jyogai_end -->
+<!-- ▼メインコンテンツここから▼ -->
+<div id="main">
+
+
+
+
+<div class="h1bg">
+<h1>教育・文化</h1>
+</div>
+
+
+
+
+
+<ul class="norcor">
+<li><a href="/kurashi_guide/kyoiku_bunka/iinkai/index.html">教育委員会</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/youchien/index.html">幼稚園</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/school/index.html">小学校・中学校</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/ikueikai/index.html">蔵王町育英会</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/rekisitobunkazai/index.html">歴史と文化財</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/shakaikyouiku/index.html">社会教育</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/gozain/index.html">文化会館・公民館</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/sports/index.html">スポーツ</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/library/index.html">図書館</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/taikenkouryu/index.html">体験交流活動</a>
+
+</li>
+<li><a href="/kurashi_guide/kyoiku_bunka/kennosisetu/index.html">県の施設</a>
+
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+<!-- ▼ページの先頭に戻るここから▼ -->
+
+</div><!-- /div main -->
+<div class="page-top clearfix"><a href="#PTOP"><img src="/images/f-ptop.png" width="36" height="38" alt="ページの先頭に戻る" /></a></div>
+</div><!-- /div wrap -->
+<!-- scs_jyogai_start -->
+<hr />
+<!-- ▼フッターここから▼ -->
+<div class="footer">
+<div id="f-box">
+<div class="newpara guidance"><img src="/images/spacer.gif" alt="以下フッターです。" width="1" height="1" /></div>
+<div id="f-txt">
+	<img src="/images/chosho-footer.gif" width="74" height="58" alt="町章" />
+	<p>蔵王町役場<br />
+	〒989-0892　宮城県刈田郡蔵王町大字円田字西浦北10<br />
+	電話：0224-33-2211(代表)　FAX：0224-33-4159<br />
+	E-mail：info@town.zao.miyagi.jp</p>
+</div><!-- /div f-txt -->
+<div id="f-nav">
+	<ul>
+		<li><a href="/sitemap.html">サイトマップ</a></li>｜
+		<li><a href="/files/security_policy.pdf" target="_blank">情報セキュリティポリシー</a></li>｜
+		<li><a href="/link/index.html">リンク集</a></li>
+	</ul>
+	<ul>
+		<li><a href="/reiki_int/reiki_menu.html">例規集</a></li>｜
+		<li><a href="/section/oshirase/yakuba/soshiki-gyomu.html">組織・業務</a></li>｜
+		<li><a href="/section/oshirase/yakuba/chosha.html">庁内配置図</a></li>｜
+		<li><a href="/section/oshirase/town_info/jinko-access.html">アクセスマップ</a></li>
+	</ul>
+</div><!-- /div f-nav -->
+</div><!-- /div f-box -->
+<div id="copy"><p>Copyright(C) TOWN ZAO. All rights reserved.</p></div>
+</div><!-- footer -->
+<!-- ▲フッターここまで▲ -->
+</div><!-- /div base_all -->
+<!-- scs_jyogai_end -->
+
+</body>
+</html>

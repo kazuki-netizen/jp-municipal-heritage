@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MH760FV5F8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MH760FV5F8');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T6XTGM5Z');</script>
+<!-- End Google Tag Manager -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="keywords" content="[[website_top_keyword]]">
+  <meta name="description" content="[[website_top_description]]">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>西川町ホームページ トップページ</title>
+  <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" media="print" href="/ssi/css/print.css">
+<script src="/ssi/js/escapeurl.js"></script>
+<script src="/ssi/js/jquery.js"></script>
+<script src="/ssi/js/jquery-migrate.js"></script>
+<script src="/ssi/js/common.js"></script>
+<script src="/ssi/js/search-trend.js"></script>
+<script src="/ssi/js/s-google.js"></script>
+<script src="/ssi/js/search-open-page-id.js"></script>
+<script src="/ssi/js/last-page-parts-load-1.js"></script>
+<script src="/ssi/js/footstep.js"></script>
+<link rel="stylesheet" href="/ssi/css/footstep.css">
+  <style media="all">
+    @import url("/ssi/css/slick.css");
+    @import url("/ssi/css/top.css?20250401");
+  </style>
+  <script src="/ssi/js/toptab.js"></script>
+  <script src="/ssi/js/slick.js"></script>
+  <script src="/ssi/js/common-top.js"></script>
+  <script src="/ssi/js/top-slideshow.js"></script>
+  <script src="/ssi/js/top-slideshow-xml.js"></script>
+  <script src="/ssi/js/clock.js"></script>
+  <script src="/ssi/js/jibuntokei.js"></script>
+  <script src="/ssi/js/top-tokei.js"></script>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Kosugi+Maru&display=swap" rel="stylesheet">
+  <script>
+    (function (d) {
+      var config = {
+          kitId: 'kts1ifd',
+          scriptTimeout: 3000,
+          async: true
+        },
+        h = d.documentElement,
+        t = setTimeout(function () {
+          h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+        }, config.scriptTimeout),
+        tk = d.createElement("script"),
+        f = false,
+        s = d.getElementsByTagName("script")[0],
+        a;
+      h.className += " wf-loading";
+      tk.src = 'https://use.typekit.net/' + config.kitId + '.js';
+      tk.async = true;
+      tk.onload = tk.onreadystatechange = function () {
+        a = this.readyState;
+        if (f || a && a != "complete" && a != "loaded") return;
+        f = true;
+        clearTimeout(t);
+        try {
+          Typekit.load(config)
+        } catch (e) {}
+      };
+      s.parentNode.insertBefore(tk, s)
+    })(document);
+  </script>
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6XTGM5Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div class="top_index">
+    <!-- コンテナここから -->
+    <div id="container">
+      <span class="hide" id="pagetop">ページの先頭です。</span>
+      <span class="hide"><a href="#skip">メニューを飛ばして本文へ</a></span>
+
+      <!-- ヘッダここから -->
+      <div id="header">
+        <div id="spm_wrap"><button type="button" id="spm_menu"><span class="hide">メニュー</span></button></div>
+<!-- ヘッダーここから -->
+<div id="header2">
+	<div id="he_left">
+		<div id="logo">
+			<a href="/"><h1><img src="/img/top/logo.png" alt="西川町ホームページ" /></h1></a>
+		</div>
+	</div>
+	<div id="he_right">
+		<noscript>
+			<p>JavaScriptが無効のため、文字の大きさ・背景色を変更する機能を使用できません。</p>
+		</noscript>
+		<div class="header_navi">
+			<div class="accBtn">
+				<!-- 文字の大きさ変更ここから -->
+				<dl id="moji_size">
+					<dt>文字サイズ</dt>
+					<dd><a id="moji_default" href="javascript:fsc('default');" title="文字サイズを標準にする">標準</a></dd>
+					<dd><a id="moji_large" href="javascript:fsc('larger');" title="文字サイズを拡大する">大</a></dd>
+				</dl>
+				<!-- 文字の大きさ変更ここまで -->
+				<!-- 背景の変更ここから -->
+				<dl id="haikei_color">
+					<dt>背景</dt>
+					<dd><a id="haikei_white" href="javascript:SetCss(1);" title="背景色を白色に変更する">白</a></dd>
+					<dd><a id="haikei_black" href="javascript:SetCss(2);" title="背景色を黒色に変更する">黒</a></dd>
+					<dd><a id="haikei_blue" href="javascript:SetCss(3);" title="背景色を青色に変更する">青</a></dd>
+				</dl>
+				<!-- 背景の変更ここまで -->
+			</div>
+			<!-- 検索ここから -->
+			<div id="top_search_keyword">
+				<!-- Googleカスタム検索ここから -->
+				<form action="/search.html" method="get" id="cse-search-box" name="cse-search-box">
+					<input type="hidden" name="cx" value="b52d26e3756dd44c1" />
+					<!--
+					--><input type="hidden" name="cof" value="FORID:11" />
+					<!--
+					--><input type="hidden" name="ie" value="UTF-8" />
+					<!--
+					--><label for="tmp_query"><span class="hide">Googleカスタム検索</span></label>
+					<!--
+					--><input type="text" name="q" value="" id="tmp_query" />
+					<!--
+					--><input type="submit" value="検索" id="submit" name="sa" />
+				</form>
+				<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box"></script>
+				<!-- Googleカスタム検索ここまで -->
+			</div>
+			<!-- 検索ここまで -->
+		</div>
+
+		<!-- リンクここから -->
+		<div class="userBtn">
+			<ul class="ub01">
+				<li><a href="/site/hajimete/foreign-language.html" lang="en">Foreign language</a></li>
+				<li><a href="/site/hajimete/">はじめての方へ</a></li>
+				<li><a href="/sitemap.html">サイトマップ</a></li>
+			</ul>
+			<ul class="ub02">
+				<li><span class="kunoji"></span><a href="/soshiki/">組織から探す</a></li>
+				<li><span class="kunoji"></span><a href="/life/">分類から探す</a></li>
+			</ul>
+		</div>
+		<!-- リンクここまで -->
+
+	</div>
+</div>
+<!-- ヘッダーここまで -->
+        <!-- グローバルここから -->
+<nav class="gNavFrame" role="navigation">
+	<ul class="gNav">
+		<li class="menu-item-has-children">
+			<a id="nav01" href="/life/1/">くらし・手続き</a>
+			<ul class="sub-menu">
+				<li><a href="/life/1/1/">住民票・戸籍・印鑑登録</a></li>
+				<li><a href="/life/1/2/">保険・年金・税金</a></li>
+				<li><a href="/life/1/3/">土地・住宅</a></li>
+				<li><a href="/life/1/4/">道路・水道</a></li>
+				<li><a href="/life/1/5/">生活環境・衛生</a></li>
+				<li><a href="/life/1/6/">雇用・労働</a></li>
+				<li><a href="/life/1/7/">くらしのナビ</a></li>
+				<li><a href="/life/1/8/">防災・安全</a></li>
+				<li><a href="/life/1/9/">雪情報</a></li>
+			</ul>
+		</li>
+		<li class="menu-item-has-children">
+			<a id="gnav2" href="/life/2/">子育て・教育</a>
+			<ul class="sub-menu">
+				<li><a href="/life/2/10/">出産・育児</a></li>
+				<li><a href="/life/2/11/">教育</a></li>
+				<li><a href="/life/2/12/">スポーツ・文化</a></li>
+			</ul>
+		</li>
+		
+		<li class="menu-item-has-children">
+			<a id="gnav3" href="/life/3/">健康・福祉</a>
+			<ul class="sub-menu">
+				<li><a href="/life/3/13/">健康・医療</a></li>
+				<li><a href="/life/3/14/">福祉・介護</a></li>
+			</ul>
+		</li>
+		<li class="menu-item-has-children">
+			<a id="gnav4" href="/life/4/">企業・事業者</a>
+			<ul class="sub-menu">
+				<li><a href="/life/4/15/">入札・契約</a></li>
+				<li><a href="/life/4/16/">事業者の方へ</a></li>
+			</ul>
+		</li>
+		<li class="menu-item-has-children">
+			<a id="gnav5" href="/life/5/">町政情報</a>
+			<ul class="sub-menu">
+				<li><a href="/life/5/17/">西川町の概要</a></li>
+				<li><a href="/life/5/18/">広報・広聴</a></li>
+				<li><a href="/life/5/19/">政策・まちづくり</a></li>
+				<li><a href="/life/5/20/">人事・採用</a></li>
+				<li><a href="/life/5/21/">監査・情報公開</a></li>
+				<li><a href="/life/5/22/">選挙</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+<!-- グローバルここまで -->
+        <!-- header3 -->
+      </div>
+      <!-- ヘッダここまで -->
+
+      <div id="mymainback">
+
+        <!-- メインここから -->
+        <div id="main">
+          <div id="main_a">
+            <hr class="hide">
+            <p class="hide" id="skip">本文</p>
+
+            <!-- スライドここから -->
+            <section class="p-home-mainview">
+              <!-- スライドショー（XML）ここから -->
+              <div id="top_photo_xml" class="rs_preserve"></div>
+              <!-- スライドショー（XML）ここまで -->
+              <div class="p-home-mainview__nav">
+                <ul>
+                  <li><a href="/soshiki/kasegu/1356.html">ふるさと納税</a></li>
+                  <li><a href="/site/hospital/">西川町立病院HP</a></li>
+                  <li><a href="/site/iju/">移住情報<br><img src="/img/top/nishikawagurashi.png" alt="にしかわぐらし。"></a></li>
+                  <li><a href="https://www.gassan-info.com/" target="_blank">観光情報<br><span>ぶらり西川ガイド</span></a><span class="external_link_text">＜外部リンク＞</span></li>
+                </ul>
+              </div>
+            </section>
+            <!-- スライドここまで -->
+
+            <!-- いざという時にここから -->
+            <section class="kinkyu_frame">
+              <div class="iza_box">
+                <h2>いざという時に</h2>
+                <ul class="iza_innner">
+                  <li><a href="/soshiki/kenko/1438.html">休日・夜間診療</a></li>
+                  <li><a href="/life/1/8/">防災・災害情報</a></li>
+                  <!-- <li><a href="/life/1/9/">気象情報・注意報</a></li> -->
+                </ul>
+              </div>
+              <div class="important_box">
+                
+                <!-- 重要なお知らせここから -->
+                <div id="top_important">
+                  <div id="top_important_ttl">
+                    <h2>重要なお知らせ</h2>
+                  </div>
+                  <div id="top_important_list">
+                    
+                    <ul>
+                      
+                      <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/kanko/10434.html">7月25日開催「にしかわ夏祭り」 に伴う交通規制のお知らせ</a><span class="article_section"><a href="/soshiki/kanko/">観光課</a></span></span></li>
+                      <li><span class="article_date">2026年4月30日更新</span><span class="article_title"><a href="/soshiki/midori/3364.html">クマの出没にご注意ください</a><span class="article_section"><a href="/soshiki/midori/">みどり共創課</a></span></span></li>
+                    </ul>
+                    
+                    <div class="link_box">
+                      <span class="link_ichiran"><a href="/soshiki/list3-1.html">重要なお知らせ一覧</a></span>
+                      <span class="link_rss"><a href="/rss/10/list3.xml"><img src="/img/common/news_rss.png" alt="新着情報のRSS"></a></span>
+                    </div>
+                  </div>
+                </div>
+                <!-- 重要なお知らせここまで -->
+                
+              </div>
+            </section>
+            <!-- いざという時にここまで -->
+
+            <!-- タブここから -->
+            <section class="news_frame">
+              <div id="top_tab_wrap" class="rs_preserve">
+                <div id="top_tab_title">
+                  <ul>
+                    <li id="top_tab_title_1"><button type="button">新着情報</button></li>
+                    <li id="top_tab_title_2"><button type="button">イベント・募集</button></li>
+                  </ul>
+                </div>
+                <div id="top_tab_detail">
+                  <!-- 新着情報ここから -->
+                  <div id="top_tab_detail_1" class="top_tab_detail_box">
+                    
+                    <h2 class="hide acc_title">新着情報</h2>
+                    <div class="top_tab_detail_box2">
+                      
+                      <div class="top_tab_detail_list">
+                        
+                        <ul>
+                          
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/somu/10397.html">副町長就任のごあいさつ</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/site/summer-festival/">「にしかわ夏祭り」 7月25日(土)開催！</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/kasegu/10404.html">道の駅にしかわ駐車場 一部利用制限のお知らせ</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/manabu/10402.html">第56回西川町文化祭開催日のお知らせ</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/kenko/10096.html">インボディ測定で自分の身体を知ってみませんか？</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/kikaku/9694.html">公共工事等の発注見通し及び入札結果</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                        </ul>
+                        
+                      </div>
+                      <div class="link_box">
+                        <span class="link_ichiran"><a href="/soshiki/list1-1.html">新着情報の一覧</a></span>
+                        <span class="link_rss"><a href="/rss/10/list1.xml"><img src="/img/common/news_rss.png" alt="新着情報のRSS"></a></span>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  <!-- 新着情報ここまで -->
+
+                  <!-- イベント・募集ここから -->
+                  <div id="top_tab_detail_2" class="top_tab_detail_box">
+                    
+                    <h2 class="hide acc_title">イベント・募集</h2>
+                    <div class="top_tab_detail_box2">
+                      <!-- レタリングここから -->
+                      <div id="lettering">
+                        
+                      </div>
+                      <!-- レタリングここまで -->
+                      
+                      
+                      <!-- [[topics_no_image_list_all_start]] -->
+                      <div class="top_tab_detail_list topics_no_image_list">
+                        
+                        <ul>
+                          
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/site/summer-festival/">「にしかわ夏祭り」 7月25日(土)開催！</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/manabu/10402.html">第56回西川町文化祭開催日のお知らせ</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/site/iju/1173.html">提案型町営住宅の入居者を募集します</a>
+                              <img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+                          <li><span class="article_date">2026年6月1日更新</span><span class="article_title"><a href="/soshiki/tsunagu/10293.html">令和8年度西川町出張イベント情報</a>
+                              </span></li>
+                          <li><span class="article_date">2026年5月15日更新</span><span class="article_title"><a href="/soshiki/manabu/10118.html">新やまがた就職促進奨学金返還支援事業【Uターン促進枠】の募集</a>
+                              </span></li>
+                          <li><span class="article_date">2026年5月1日更新</span><span class="article_title"><a href="/soshiki/somu/9317.html">令和8年度西川町主要イベント予定</a>
+                              </span></li>
+                        </ul>
+                        
+                      </div>
+                      <!-- [[topics_no_image_list_all_end]] -->
+                      <div class="link_box">
+                        <span class="link_ichiran"><a href="/soshiki/list6-1.html">イベント・募集の一覧</a></span>
+                        <span class="link_rss"><a href="/rss/10/list6.xml"><img src="/img/common/news_rss.png" alt="イベント・募集のRSS"></a></span>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  <!-- トピックスここまで -->
+                </div>
+              </div>
+            </section>
+            <!-- タブここまで -->
+
+            <!-- イベントカレンダーここから -->
+            <section class="event_frame">
+              <h2><span>イベントカレンダー</span><img src="/img/top/icon-top-h2.png" alt="山"></h2>
+              <div class="event_wrap">
+                <div class="event_box">
+                  <div class="event_inner">
+                    <!-- イベントカレンダーここから -->
+                    <!-- [[calendar_table_all_start]] -->
+                    <div id="top_calendar_detail">
+                      <ul class="calendar_index">
+                        <li class="calendar_index_last"><a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=6&amp;d=1">&lt;前月</a> </li> <li class="calendar_index_now"><a href="/calendar/" class="link_list">2026年7月</a></li>
+                        <li class="calendar_index_next"><a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=8&amp;d=1">次月&gt;</a></li>
+                      </ul>
+                      <table id="top_calendar_table" summary="カレンダーで情報を探します。">
+                        <tr>
+                          <th class="cal_sun cal_week" scope="col">日</th>
+                          <th class="cal_mon cal_week" scope="col">月</th>
+                          <th class="cal_tue cal_week" scope="col">火</th>
+                          <th class="cal_wed cal_week" scope="col">水</th>
+                          <th class="cal_thu cal_week" scope="col">木</th>
+                          <th class="cal_fri cal_week" scope="col">金</th>
+                          <th class="cal_sat cal_week" scope="col">土</th>
+                        </tr>
+                        
+                        <tr>
+                          
+                          <td class="cal_sun">
+                            &nbsp;
+                          </td>
+                          
+                          <td class="cal_mon">
+                            &nbsp;
+                          </td>
+                          
+                          <td class="cal_tue">
+                            &nbsp;
+                          </td>
+                          
+                          <td class="cal_wed">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=1#search_calendar_form">1</a>
+                          </td>
+                          
+                          <td class="cal_thu">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=2#search_calendar_form">2</a>
+                          </td>
+                          
+                          <td class="cal_fri">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=3#search_calendar_form">3</a>
+                          </td>
+                          
+                          <td class="cal_sat">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=4#search_calendar_form">4</a>
+                          </td>
+                          
+                        </tr>
+                        
+                        <tr>
+                          
+                          <td class="cal_today">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=5#search_calendar_form">5</a>
+                          </td>
+                          
+                          <td class="cal_mon">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=6#search_calendar_form">6</a>
+                          </td>
+                          
+                          <td class="cal_tue">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=7#search_calendar_form">7</a>
+                          </td>
+                          
+                          <td class="cal_wed">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=8#search_calendar_form">8</a>
+                          </td>
+                          
+                          <td class="cal_thu">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=9#search_calendar_form">9</a>
+                          </td>
+                          
+                          <td class="cal_fri">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=10#search_calendar_form">10</a>
+                          </td>
+                          
+                          <td class="cal_sat">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=11#search_calendar_form">11</a>
+                          </td>
+                          
+                        </tr>
+                        
+                        <tr>
+                          
+                          <td class="cal_sun">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=12#search_calendar_form">12</a>
+                          </td>
+                          
+                          <td class="cal_mon">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=13#search_calendar_form">13</a>
+                          </td>
+                          
+                          <td class="cal_tue">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=14#search_calendar_form">14</a>
+                          </td>
+                          
+                          <td class="cal_wed">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=15#search_calendar_form">15</a>
+                          </td>
+                          
+                          <td class="cal_thu">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=16#search_calendar_form">16</a>
+                          </td>
+                          
+                          <td class="cal_fri">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=17#search_calendar_form">17</a>
+                          </td>
+                          
+                          <td class="cal_sat">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=18#search_calendar_form">18</a>
+                          </td>
+                          
+                        </tr>
+                        
+                        <tr>
+                          
+                          <td class="cal_sun">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=19#search_calendar_form">19</a>
+                          </td>
+                          
+                          <td class="cal_mon">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=20#search_calendar_form">20</a>
+                          </td>
+                          
+                          <td class="cal_tue">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=21#search_calendar_form">21</a>
+                          </td>
+                          
+                          <td class="cal_wed">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=22#search_calendar_form">22</a>
+                          </td>
+                          
+                          <td class="cal_thu">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=23#search_calendar_form">23</a>
+                          </td>
+                          
+                          <td class="cal_fri">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=24#search_calendar_form">24</a>
+                          </td>
+                          
+                          <td class="cal_sat">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=25#search_calendar_form">25</a>
+                          </td>
+                          
+                        </tr>
+                        
+                        <tr>
+                          
+                          <td class="cal_sun">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=26#search_calendar_form">26</a>
+                          </td>
+                          
+                          <td class="cal_mon">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=27#search_calendar_form">27</a>
+                          </td>
+                          
+                          <td class="cal_tue">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=28#search_calendar_form">28</a>
+                          </td>
+                          
+                          <td class="cal_wed">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=29#search_calendar_form">29</a>
+                          </td>
+                          
+                          <td class="cal_thu">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=30#search_calendar_form">30</a>
+                          </td>
+                          
+                          <td class="cal_fri">
+                            <a href="/calendar/index.php?dsp=1&amp;y=2026&amp;m=7&amp;d=31#search_calendar_form">31</a>
+                          </td>
+                          
+                          <td class="cal_sat">
+                            &nbsp;
+                          </td>
+                          
+                        </tr>
+                        
+                      </table>
+                    </div>
+                    <!-- [[calendar_table_all_end]] -->
+                    <!-- イベントカレンダーここまで -->
+                    <!-- 本日のイベントここから -->
+                    <div id="top_event_today">
+                      <div id="top_event_today_title">本日のイベント（7月5日）</div>
+                      <!-- [[cal_all_start]] -->
+                      
+                      <ul>
+                        
+                        <li><a href="/soshiki/kanko/10026.html">西川町歴史文化資料館特別展 「義務造林展―川土居村の理想郷構想—」</a></li>
+                        
+                        <li>第4回月山山麓ウルトラマラソン</li>
+                        
+                      </ul>
+                      
+                      <div id="top_event_today_link">
+                        <a href="/calendar/index.php?ym=7/7/5">イベント・行事の一覧を見る</a>
+                        <a href="/soshiki/tsunagu/1343.html">対話会の一覧を見る</a>
+                      </div>
+                      <!-- [[cal_all_end]] -->
+                    </div>
+                    <!-- 本日のイベントここまで -->
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- イベントカレンダーここまで -->
+
+            <!--  くらしのナビここから  -->
+            <section class="kurashi_frame">
+              <div class="kurashi_wrap">
+                <div class="kurashinav_wrap">
+                  <h2>くらしのナビ</h2>
+                  <div class="kurashinav_box">
+                    <div class="kurashinav_inner">
+                      <a href="/soshiki/chomin/1272.html" class="kurashinav_item"><img src="/img/top/kurashi-1.png" alt="バス" width="86" height="75"><span>バス時刻表</span></a>
+                      <a href="/soshiki/chomin/1265.html" class="kurashinav_item"><img src="/img/top/kurashi-2.png" alt="ゴミ袋" width="86" height="75"><span>ごみ</span></a>
+                      <a href="/life/1/7/26/" class="kurashinav_item"><img src="/img/top/kurashi-3.png" alt="財布" width="86" height="75"><span>補助金</span></a>
+                      <a href="/life/1/7/27/" class="kurashinav_item"><img src="/img/top/kurashi-4.png" alt="親子" width="86" height="75"><span>妊娠・出産<br>子育て</span></a>
+                      <a href="/life/1/7/28/" class="kurashinav_item"><img src="/img/top/kurashi-5.png" alt="学校" width="86" height="75"><span>学校・教育</span></a>
+                      <a href="/life/1/7/31/" class="kurashinav_item"><img src="/img/top/kurashi-8.png" alt="指輪" width="86" height="75"><span>結婚・離婚</span></a>
+                      <a href="/life/1/7/29/" class="kurashinav_item"><img src="/img/top/kurashi-6.png" alt="段ボール" width="86" height="75"><span>引越し</span></a>
+                      <a href="/life/1/7/32/" class="kurashinav_item"><img src="/img/top/kurashi-9.png" alt="車いす" width="86" height="75"><span>福祉・介護</span></a>
+                      <a href="/life/1/7/33/" class="kurashinav_item"><img src="/img/top/kurashi-10.png" alt="花" width="86" height="75"><span>おくやみ</span></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="jinkou_wrap">
+                  <h2>人口情報</h2>
+                  <!-- 人口・世帯数ここから -->
+                  <div id="top_jinkou">
+                    <div id="top_jinkou_box">
+                      <div id="top_jinkou_ttl">
+                        <h3>西川町人口・世帯数</h3>
+                        <p>（令和8年7月1日現在：住民基本台帳）</p>
+                      </div>
+                      <div id="top_jinkou_list">
+                        <p>総人口：4,282人</p>
+                        <div class="top_jinkou_list_box">
+                          <dl>
+                            <dt><img src="/img/top/j-dansei.png" alt="男性" width="38" height="70"></dt>
+                            <dd>男性：2,091人</dd>
+                          </dl>
+                          <dl>
+                            <dt><img src="/img/top/j-josei.png" alt="女性" width="41" height="70"></dt>
+                            <dd>女性：2,191人</dd>
+                          </dl>
+                          <dl>
+                            <dt><img src="/img/top/j-setai.png" alt="家" width="90" height="70"></dt>
+                            <dd>世帯数：1,756世帯</dd>
+                          </dl>
+                        </div>
+                      </div>
+                    </div>
+                    <div id="top_digital_box">
+                      <dl>
+                        <dt><img src="/img/top/j-digital.png" alt="スマホ男性" width="60" height="50"></dt>
+                        <dd>デジタル住民：831人</dd>
+                      </dl>
+                      <a href="https://nft.hexanft.com/nftmaticmulti/1" target="_blank">西川町デジタル住民票NFT（第1回）</a><span class="external_link_text">＜外部リンク＞</span>
+                      <a href="https://nft.hexanft.com/nftmaticmulti/70" target="_blank">西川町デジタル住民票NFT（第2回）</a><span class="external_link_text">＜外部リンク＞</span>
+                    </div>
+                  </div>
+                  <!-- 人口と世帯数ここまで -->
+                </div>
+              </div>
+            </section>
+            <!--  くらしのナビここまで  -->
+
+            <!-- 西川町についてここから -->
+            <section class="about_frame">
+              <h2><span>西川町について</span><img src="/img/top/icon-top-h2.png" alt="山"></h2>
+              <div class="about_box">
+                <a href="/site/mayor/"><img src="/img/top/about-nishikawa-1.png" alt="町長の部屋" width="170" height="170"></a>
+                <a href="/site/gikai/"><img src="/img/top/about-nishikawa-2.png" alt="西川町議会" width="170" height="170"></a>
+                <a href="https://www1.g-reiki.net/town.nishikawa.yamagata/reiki_menu.html" target="_blank"><img src="/img/top/about-nishikawa-3.png" alt="西川町例規集" width="170" height="170"></a><span class="external_link_text">＜外部リンク＞</span>
+                <a href="/soshiki/tsunagu/visit.html"><img src="/img/top/about-nishikawa-4.png" alt="行政視察 申込" width="170" height="170"></a>
+                <a href="/soshiki/somu/overview.html"><img src="/img/top/about-nishikawa-5.png" alt="西川町の概要" width="170" height="170"></a>
+                <a href="/site/hoikuen/"><img src="/img/top/about-nishikawa-6.png" alt="にしかわ保育園" width="170" height="170"></a>
+                <a href="/site/e-nishikawa/"><img src="/img/top/about-nishikawa-7.png" alt="西川小学校" width="170" height="170"></a>
+                <a href="/site/j-nishikawa/"><img src="/img/top/about-nishikawa-8.png" alt="西川中学校" width="170" height="170"></a>
+              </div>
+            </section>
+            <!-- 西川町についてここまで -->
+
+            <!-- 発行・刊行物ここから -->
+            <section class="hakkou_frame">
+              <div class="hakkou_box">
+                <!--広報誌ここから-->
+                <div class="kouhou_box">
+                  <h3 class="kouhou_h3">広報誌NETWORKにしかわ</h3>
+                  <div class="kouhou_inner">
+                    <div class="hyoshi">
+                      <div>
+                        <img src="/uploaded/library/kohoshi.jpg" width="150" height="211" alt="広報NETWORKにしかわ表紙">
+                      </div>
+                    </div>
+                    <div class="link_btn">
+                      <span class="link_ichiran"><a href="/site/koho/8904.html">最新号を見る</a></span>
+                      <span class="link_ichiran"><a href="/site/koho/list21.html">バックナンバーを見る</a></span>
+                    </div>
+                  </div>
+                </div>
+                <!--広報誌ここまで-->
+                <!--お知らせここから-->
+                <div class="kouhou_box">
+                  <h3 class="kouhou_h3">お知らせ</h3>
+                  <div class="kouhou_inner">
+                    <div class="hyoshi">
+                      <div>
+                        <img src="/uploaded/library/oshirase.jpg" width="150" height="211" alt="お知らせ表紙">
+                      </div>
+                    </div>
+                    <div class="link_btn">
+                      <span class="link_ichiran"><a href="/site/oshirase/8823.html">最新号を見る</a></span>
+                      <span class="link_ichiran"><a href="/site/oshirase/list22.html">バックナンバーを見る</a></span>
+                    </div>
+                  </div>
+                </div>
+                <!--お知らせここまで-->
+                <!--観光ガイドブックここから-->
+                <div class="kouhou_box">
+                  <h3 class="kouhou_h3">観光ガイドブック</h3>
+                  <div class="kouhou_inner">
+                    <div class="hyoshi">
+                      <div>
+                        <img src="/uploaded/library/guidebook.jpg" width="150" height="211" alt="観光ガイドブック表紙">
+                      </div>
+                    </div>
+                    <div class="link_btn">
+                      <span class="link_ichiran"><a href="/book/list/book33.html">ガイドブックを見る</a></span>
+                    </div>
+                  </div>
+                </div>
+                <!--観光ガイドブックここまで-->
+              </div>
+            </section>
+            <!-- 発行・刊行物ここまで -->
+
+            <!-- 町内施設ここから -->
+            <section class="shisetsu_frame">
+              <h2><span>町内施設</span><img src="/img/top/icon-top-h2.png" alt="山"></h2>
+              <div class="shisetsu_wrap">
+                <div class="shisetsu_box">
+                  <a href="/site/hospital/" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-5.png" alt="西川町立病院" width="140" height="140">
+                    </div>
+                    <span>西川町立病院</span>
+                  </a><a href="/soshiki/manabu/1292.html" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-4.png" alt="西川町立図書館" width="140" height="140">
+                    </div>
+                    <span>西川町立図書館</span>
+                  </a>
+                  <a href="/site/aibe/" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-8.png" alt="交流センターあいべ" width="140" height="140">
+                    </div>
+                    <span>交流センター<br>あいべ</span>
+                  </a><a href="/site/tras/" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-10.png" alt="にしかわイノベーションハブTRAS" width="140" height="140">
+                    </div>
+                    <span>にしかわイノベ<br>ーションハブTRAS</span>
+                  </a><a href="/site/yuyukan/" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-13.jpg" alt="にしかわ悠々館" width="140" height="140">
+                    </div>
+                    <span>にしかわ悠々館</span>
+                  </a>
+                  <a href="/soshiki/kanko/1290.html" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-6.png" alt="西川町歴史文化資料館" width="140" height="140">
+                    </div>
+                    <span>西川町<br>歴史文化資料館</span>
+                  </a>
+                  <a href="/soshiki/kanko/3089.html" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-7.png" alt="大井沢自然と匠館" width="140" height="140">
+                    </div>
+                    <span>大井沢自然と匠館</span>
+                  </a>
+                  <a href="/soshiki/kanko/3278.html" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-11.png" alt="丸山薫記念館" width="140" height="140">
+                    </div>
+                    <span>丸山薫記念館</span>
+                  </a>
+                  <a href="/site/gassan-cc/" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-12.jpg" alt="フェリシア月山カヌーセンター" width="140" height="140">
+                    </div>
+                    <span>フェリシア月山<br>カヌーセンター</span>
+                  </a>
+
+
+                  <a href="/soshiki/kasegu/onsen.html" class="shisetsu_item">
+                    <div class="shisetsu_item_img">
+                      <img src="/img/top/shisetsu-item-9.png" alt="温泉・サウナ" width="140" height="140">
+                    </div>
+                    <span>温泉・サウナ</span>
+                  </a><span class="external_link_text">＜外部リンク＞</span>
+                </div>
+              </div>
+            </section>
+            <!-- 町内施設ここまで -->
+
+            <!-- 事業PR／バナー（トップページ1）ここから -->
+            <!-- トップページ1ここから -->
+            
+            <section class="banner_frame">
+              <h2><span>広告バナー</span><img src="/img/top/icon-top-h2.png" alt="山"></h2>
+              <div class="bnArea">
+                <div class="s-carousel-bnr p-carouselArea">
+                  <!-- 1box -->
+                  <div>
+                    <ul class="bnArea_in">
+                      
+                      <li>
+                        <a href="/adv/ba.php?id=15" onclick="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/15'});" onkeypress="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/15'});" rel="nofollow"><img src="/uploaded/banner/15_img1.png" alt="西川町職員採用案内">
+                        </a>
+                      </li>
+                      
+                      <li>
+                        <a href="/adv/ba.php?id=17" onclick="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/17'});" onkeypress="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/17'});" rel="nofollow"><img src="/uploaded/banner/17_img1.png" alt="田舎割烹にし川">
+                        </a>
+                      </li>
+                      
+                      <li>
+                        <a href="/adv/ba.php?id=19" onclick="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/19'});" onkeypress="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/19'});" rel="nofollow"><img src="/uploaded/banner/19_img1.png" alt="ウエストリバーレディオ">
+                        </a>
+                      </li>
+                      
+                      <li>
+                        <a href="/adv/ba.php?id=13" onclick="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/13'});" onkeypress="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/13'});" rel="nofollow"><img src="/uploaded/banner/13_img1.png" alt="NETWORKにしかわ広告">
+                        </a>
+                      </li>
+                      
+                      <li>
+                        <a href="/adv/ba.php?id=9" onclick="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/9'});" onkeypress="javascript:gtag('event','click',{'event_category':'banner','event_label':'/banner-top/9'});" rel="nofollow"><img src="/uploaded/banner/9_img1.png" alt="募集中">
+                        </a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                  <!-- /1box -->
+                </div>
+              </div>
+            </section>
+            
+            <!-- トップページ1ここまで -->
+            <!-- 事業PR／バナー（トップページ1）ここまで -->
+          </div>
+        </div>
+        <!-- メインここまで -->
+        <hr class="hide">
+      </div>
+      <!-- フッタここから -->
+      <div id="footer">
+        <div class="footer_wrap">
+          <div class="footer_box">
+            <div id="footer_link_pagetop">
+	<a href="#pagetop"><img src="/img/common/btn_pagetop.png" width="150" height="150" alt="このページの先頭へ"></a>
+</div>
+            
+            <div id="author_info">
+	<div id="author_box1">
+		<div class="author_box_left">
+			<p class="f_author">西川町役場</p>
+			<p class="f_address">〒990-0792　山形県西村山郡西川町大字海味510番地</p>
+			<p class="f_contact"><span>Tel：0237-74-2111</span><span>Fax：0237-74-2601</span></p>
+		</div>
+		<div class="author_box_right"><p class="f_detail"><span>開庁時間</span>
+<span>月曜日から金曜日の午前8時30分から午後5時15分</span>
+<span>(土曜日・日曜日・祝日、12月29日から1月3日を除く)</span></p></div><div class="author_box_right2"><p class="f_detail"><span>SNS公式アカウント</span>
+<div class="sns_inner">
+									<a href="https://lin.ee/d2cEClq" class="sns_item" target="_blank"><img src="/img/top/sns-line2.png" alt="西川町公式line"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://twitter.com/nishikawatown" class="sns_item" target="_blank"><img src="/img/top/sns-x2.png" alt="西川町公式x"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://www.instagram.com/nishikawa_town_official/" class="sns_item" target="_blank"><img src="/img/top/sns-ig2.png" alt="西川町公式instagram"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://www.youtube.com/channel/UCaxFmMW_qEHJPcKAfotia4A" class="sns_item" target="_blank"><img src="/img/top/sns-yt2.png" alt="西川町公式youtube"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://www.facebook.com/profile.php?id=100069900391418" class="sns_item" target="_blank"><img src="/img/top/sns-fb2.png" alt="西川町公式facebook"></a><span class="external_link_text">＜外部リンク＞</span>
+								</div>
+<a href="/soshiki/tsunagu/2199.html">運用方針はこちら≫</a></div>
+	</div>
+	<div id="author_box">
+		<ul>
+			<li><a href="/site/hajimete/kojinjoho.html">個人情報の取り扱いについて</a></li>
+			<li><a href="/site/hajimete/menseki.html">著作権・免責事項</a></li>
+			<li><a href="/site/hajimete/rss.html">RSS配信について</a></li>
+			<li><a href="/site/hajimete/2481.html">ウェブアクセシビリティ方針</a></li>
+		</ul>
+	</div>
+	<div id="footer_navi">
+		<ul>
+			<li><a href="/soshiki/0/info.html"><span style="display: flex; align-items: center; gap: 15px;">
+				<img src="/img/top/footer-item-2.png" width="30px" alt="電話の画像">
+				<img src="/img/top/footer-item-1.png" width="30px" alt="メールの画像"></span><span>お問い合わせ</span></a></li>
+			<li><a href="/soshiki/0/access.html"><span><img src="/img/top/footer-item-3.png" width="40px" alt="車の画像"></span><span>地図・アクセス</span></a></li>
+		</ul>
+	</div>
+</div>
+<div id="copyright"><p lang="en">Copyright&#169; Nishikawa Town All Rights Reserved.</p></div>
+          </div>
+        </div>
+      </div>
+      <!-- フッタここまで -->
+    </div>
+    <!-- コンテナここまで -->
+  </div>
+  
+</body>
+</html>

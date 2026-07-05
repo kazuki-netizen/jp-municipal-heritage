@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>便利なインターネット手続きをご利用ください</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="google" value="notranslate">
+
+	<!-- styles -->
+	<link rel="stylesheet" href="/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="/css/nanyo/common.css?20180308" class="notranslate" title="common">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_black.css"  class="notranslate" title="black">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_blue.css"   class="notranslate" title="blue">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_yellow.css" class="notranslate" title="yellow">
+	<link rel="stylesheet" href="/css/nanyo/style.css?20260105" class="notranslate">
+
+
+	<!-- scripts -->
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/jquery.cookie.js"></script>
+	<script src="/js/jquery.fontsize.js"></script>
+	<script src="/js/jquery.cssswitch.js"></script>
+</head>
+<body class="Nanyo Page Free">
+
+<header id="header">
+	<div id="top">
+		<div class="container">
+			<p class="sub sub-title">子育て支援宣言都市なんよう</p>
+			<ul class="nav sr-only" id="skip-nav">
+			  <li><a href="#main">メインコンテンツへ</a></li>
+			  <li><a href="#header-nav">グローバルナビへ</a></li>
+			  <li><a href="#footer">フッターエリアへ</a></li>
+			  <li><a href="#top">ページの先頭へ</a></li>
+			</ul>
+			<p class="nav sankaku"><a href="/sitemap">サイトマップ</a></p>
+			<!-- LINE Tag Base Code -->
+			<!-- Do Not Modify -->
+			<script>
+			(function(g,d,o){
+			  g._ltq=g._ltq||[];g._lt=g._lt||function(){g._ltq.push(arguments)};
+			  var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net';
+			  var s=d.createElement('script');s.async=1;
+			  s.src=o||h+'/n/line_tag/public/release/v1/lt.js';
+			  var t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);
+			    })(window, document);
+			_lt('init', {
+			  customerType: 'account',
+			  tagId: '97f25dcd-dd3c-4291-bbf3-df49fb92115a'
+			});
+			_lt('send', 'pv', ['97f25dcd-dd3c-4291-bbf3-df49fb92115a']);
+			</script>
+			<noscript>
+			  <img height="1" width="1" style="display:none"
+			       src="https://tr.line.me/tag.gif?c_t=lap&t_id=97f25dcd-dd3c-4291-bbf3-df49fb92115a&e=pv&noscript=1" />
+			</noscript>
+			<!-- End LINE Tag Base Code -->
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-4YQVBN53Q3"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+			  gtag('config', 'G-4YQVBN53Q3');
+			</script>
+		</div>
+	</div>
+	<!-- /#top -->
+	<div id="header-area" class="container">
+		<div id="header-title" class="logo">
+			<p class="site-title"><a href="/"><img alt="南陽市 - Nanyo City" src="/up/images/nanyo/common/site_logo.gif"></a></p>
+			<p class="character"><img alt="なんちゃん・ようちゃん" src="/up/images/nanyo/common/nanyouchan.gif"></p>
+		</div>
+		<div class="navbar-header" id="sp-header">
+			<a class="btn" href="#header-menu" title="メニューを開く">
+			<img alt="" height="60" src="/up/images/nanyo/common/icon_sp_menu.png" width="60">
+			<span class="sr-only">メニュー</span>
+			</a>
+		</div><!-- /#sp-header -->
+		<div id="header-menu">
+			<div class="change" id="header-app">
+				<div class="group">
+					<div class="form fontsize">
+						<label for="fz-normal">文字のサイズ</label>
+						<p class="notranslate">
+							<button type="button" id="fz-small"  class="btn fontsize small"  data-fontsize="87.5%"><img alt="小" src="/up/images/nanyo/common/head_size_sho.gif"></button>
+							<button type="button" id="fz-normal" class="btn fontsize normal" data-fontsize="100%"><img alt="中" src="/up/images/nanyo/common/head_size_chu.gif"></button>
+							<button type="button" id="fz-large"  class="btn fontsize large"  data-fontsize="125%"><img alt="大" src="/up/images/nanyo/common/head_size_dai.gif"></button>
+							<button type="button" id="fz-xlarge" class="btn fontsize xlarge" data-fontsize="200%"><img alt="特大" src="/up/images/nanyo/common/head_size_tokudai.gif"></button>
+						</p>
+					</div>
+					<div class="form iro">
+						<label for="bg-common">色合い</label>
+						<p class="notranslate">
+							<button type="button" id="bg-common" class="btn css-switch btn-white" data-css="common"><img alt="標準" src="/up/images/nanyo/common/head_color_white.gif"></button>
+							<button type="button" id="bg-black" class="btn css-switch btn-black" data-css="black"><img alt="黒" src="/up/images/nanyo/common/head_color_black.gif"></button>
+							<button type="button" id="bg-yellow" class="btn css-switch btn-yellow" data-css="yellow"><img alt="黄" src="/up/images/nanyo/common/head_color_yellow.gif"></button>
+							<button type="button" id="bg-blue" class="btn css-switch btn-blue" data-css="blue"><img alt="青" src="/up/images/nanyo/common/head_color_blue.gif"></button>
+						 </p>
+					</div>
+				</div>
+				<div class="group">
+										<form action="https://www.google.co.jp/search" id="google_cse" class="form search">
+											<div class="sitesearch">
+												<label accesskey="f" for="q">サイト内検索</label>
+												<input id="q" name="q" size="20" type="text" value="" title="検索したいキーワードを入力">
+												<input name="btnG" type="submit" value="検索">
+												<input name="ie" type="hidden" value="UTF-8">
+												<input name="oe" type="hidden" value="UTF-8">
+												<input name="hl" type="hidden" value="ja">
+												<input name="domains" type="hidden" value="city.nanyo.yamagata.jp">
+												<input name="sitesearch" type="hidden" value="city.nanyo.yamagata.jp">
+											</div>
+										</form>
+										<div class="form language">
+											<label>Languages</label>
+											<div id="google_translate_element"></div>
+											<a href="/about/731" class="aboutforeign">（外国語翻訳について）</a>
+										</div>
+				</div>
+			</div>
+			<nav id="header-nav">
+				<div class="home"><a href="/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_1_sp.png"> <img alt="ホーム" src="/up/images/nanyo/common/navi_1.gif"> </picture> <img alt="ホーム" class="on" src="/up/images/nanyo/common/navi_1_on.gif"></a></div>
+				<div class="kurasi"><a href="/siminkurasi/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_2_sp.png"> <img alt="市民のくらし" src="/up/images/nanyo/common/navi_2.gif"> </picture> <img alt="市民のくらし" class="on" src="/up/images/nanyo/common/navi_2_on.gif"></a></div>
+				<div class="business"><a href="/zigyousiya/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_3_sp.png"> <img alt="事業者の方へ" src="/up/images/nanyo/common/navi_3.gif"> </picture> <img alt="事業者の方へ" class="on" src="/up/images/nanyo/common/navi_3_on.gif"></a></div>
+				<div class="kanko"><a href="/kankou/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_4_sp.png"> <img alt="観光" src="/up/images/nanyo/common/navi_4.gif"> </picture> <img alt="観光" class="on" src="/up/images/nanyo/common/navi_4_on.gif"></a></div>
+				<div class="machi"><a href="/sangiyoumachidukuri/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_5_sp.png"> <img alt="産業・まちづくり" src="/up/images/nanyo/common/navi_5.gif"> </picture> <img alt="産業・まちづくり" class="on" src="/up/images/nanyo/common/navi_5_on.gif"></a></div>
+				<div class="bunka"><a href="/rekibunsupo/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_6_sp.png"> <img alt="歴史・文化・教育" src="/up/images/nanyo/common/navi_6.gif"> </picture> <img alt="歴史・文化・教育" class="on" src="/up/images/nanyo/common/navi_6_on.gif"></a></div>
+				<div class="city"><a href="/giyousei/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_7_sp.png"> <img alt="行政情報" src="/up/images/nanyo/common/navi_7.gif"> </picture> <img alt="行政情報" class="on" src="/up/images/nanyo/common/navi_7_on.gif"></a></div>
+			</nav><!-- #header-nav -->
+			<aside id="header-service" class="banners">
+				<a class="em service-mayor" href="/sichiyoheya/">ようこそ市長室へ</a>
+				<a href="/niyuusatukeiyaku/">入札・契約</a>
+				<a href="/tosyokan/">図書館蔵書検索</a>
+				<a href="http://www1.g-reiki.net/nanyo/reiki_menu.html" target="_blank">例規検索</a>
+				<a href="sisetuyoyaku">施設予約検索</a>
+				<a href="/topiks/">市政情報</a>
+				<a class="em" href="/sigikai/">南陽市議会</a>
+				<a href="/gikaityukei/">議会中継</a>
+				<a href="/link/">リンク集</a>
+				<a href="/yokuarufaq/faq0000">よくある質問</a>
+			</aside>
+			<aside id="header-safety" class="nav-safety">
+			<figure>
+			<figcaption>安全・安心</figcaption>
+				<ul>
+				  <li><a href="https://twitter.com/bousai_nanyo">防災X<span style="font-size:50%;">(旧ツイッター)</span></a></li>
+				  <li><a href="https://nanyo-hinanjo.glide.page">避難所情報アプリ</a></li>
+				  <li><a href="/saigai/">防災情報</a></li>
+				  <li><a href="/hazardmap/">ハザードマップ</a></li>
+				  <li><a href="/keihoutyuihou/">警報・注意報</a></li>
+				  <li><a href="https://lin.ee/fSlaHRX">LINE公式アカウント</a></li>
+				  <li><a href="/kyujitu/724">休日診療</a></li>
+				  <li><a href="/kotuanzen/">交通安全</a></li>
+				  <li class="more"><a href="/anzenansin/">安全・安心の一覧へ</a></li>
+				</ul>
+			</figure>
+			</aside>
+		</div><!-- #header-menu -->
+	</div>
+</header>
+
+<div id="header-menu-wrapper"></div><!-- /#header-menu-wrapper -->
+<div class="container free siminkurasi" id="container">
+	<nav class="breadcrumb">
+				<ul class="breadcrumb-items">
+	  <li class="breadcrumb-item"><a href="/">ホーム</a></li>
+		  <li class="breadcrumb-item"><a href="/siminkurasi/">市民のくらし</a></li>
+			  <li class="breadcrumb-item">便利なインターネット手続きをご利用ください</li>
+		</ul>
+				</nav>
+	<div class="row" id="body">
+		<div class="col col-md-9">
+			<main id="main">
+				<article>
+					<h1>便利なインターネット手続きをご利用ください</h1>
+					<script>
+_lt('send', 'cv', {
+  type: 'Gyosei'
+},['97f25dcd-dd3c-4291-bbf3-df49fb92115a']);
+</script>
+<style type="text/css">/* 花のポイント枠 */
+.box046{
+ border: 2px dotted #EAA8BF;	/* 線の太さ・種類・色 */
+ margin: 30px 20px;	/* 外側の余白 上下・左右 */
+ padding: 15px 20px;	/* 内側の余白 上下・左右 */
+ position: relative;
+}
+.box046:before{
+ content: '＊';
+ color: #fff;	/* 左上の花の色 */
+ font-size: 50px;	/* 左上の花のサイズ */
+ font-weight: bold; 
+ position: absolute;
+ top: -38px;
+ left: -25px;
+ transform: rotate(20deg);
+ -moz-transform: rotate(20deg);
+ -webkit-transform: rotate(20deg); 
+ -o-transform: rotate(20deg);
+ text-shadow:  0 0 8px #eaa8bf, 0 0 6px #eaa8bf, 0 0 4px #eaa8bf, 0 0 2px #eaa8bf, 0 0 0.5px #eaa8bf;	/* 左上の花の縁取りの色 */
+}
+.box046:after{
+ content: '*';
+ color: #fff;	/* 右下の花の色 */
+ font-size: 50px;	/* 右下の花のサイズ */
+ font-weight: bold; 
+ position: absolute;
+ bottom: -45px;
+ right: -15px;
+ transform: rotate(20deg);
+ -moz-transform: rotate(20deg);
+ -webkit-transform: rotate(20deg); 
+ -o-transform: rotate(20deg);
+ text-shadow:  0 0 8px #eaa8bf, 0 0 6px #eaa8bf, 0 0 4px #eaa8bf, 0 0 2px #eaa8bf, 0 0 0.5px #eaa8bf;	/* 右下の花の縁取りの色 */
+}
+</style>
+<div class="box046"><span class="box-title046"><b>よく使われるオンライン手続き</b></span>
+<p>〇書かない窓口　<a href="https://jizen.publicserviceplatform.com/?public-entity-code=06213" target="_blank">事前申請システム（転入・転出・転居）</a>　</p>
+
+<p>〇水道の　<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7817" target="_blank">開栓手続き</a>　／　<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=3546" target="_blank">閉栓手続き</a>　</p>
+
+<p>〇マイナンバーカードをお持ちの方は、転出届がオンラインでできます。<br>
+<span style="color:#ff0000;"><a href="/hitukosiosirase/4889">引っ越しワンストップサービスをご利用ください。</a></span></p>
+
+<p>〇<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=3550" target="_blank">粗大ごみの収集申込み</a></p>
+
+<p>〇<a href="http://www.city.nanyo.yamagata.jp/taxnouzeiannai/5832" target="_blank">市税等の口座振替申込み（Web口座振替受付サービス）</a></p>
+
+<p>〇<a href="http://www.city.nanyo.yamagata.jp/okyaku/5803" target="_blank">上下水道料金の口座振替申込み（Web口座振替受付サービス）</a></p>
+</div>
+　<span style="color:#ff0000;"><strong>「市役所に行かなくて済む」</strong></span>。南陽市への各手続き等が、来庁が不要で待ち時間なしのインターネット手続き（オンライン手続き）を使って、パソコンやスマートフォンで行えます。
+
+<h3>オンライン申請ができる行政手続き（一覧）</h3>
+手続きの一覧を、「<a href="#kurasi">くらし・環境</a>」「<a href="#kenko">健康・医療・福祉</a> 」「<a href="#child">妊娠・子育て・教育</a>」「<a href="#bunka">文化・スポーツ・社会教育</a>」「<a href="#sonota">その他</a> 」の分類でご案内します。<br>
+<span style="color:#ff0000;"><strong>サービスは順次、追加していきます。</strong></span>
+
+<div id="kurasi">
+<h4>◆くらし・環境</h4>
+</div>
+
+<div class="table-responsive">
+<table border="1" cellpadding="1" cellspacing="1" style="width: 565px;">
+  <tbody>
+    <tr>
+      <td style="width: 335px; text-align: center;"><strong>手続き名</strong></td>
+      <td style="width: 86px; text-align: center;"><strong>マイナンバーカード</strong></td>
+      <td style="width: 135px; text-align: center;"><strong>リンク</strong></td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶ <a href="/hitukosiosirase/4889" target="_blank">転出届・転入予約（引越しワンストップサービス</a>）</td>
+      <td style="width: 85px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://ttzk.graffer.jp/city-nanyo/smart-apply/apply-procedure-alias/residence-cert/door" target="_blank">住民票の写しの交付請求</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">専用サイト</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://ttzk.graffer.jp/city-nanyo/smart-apply/apply-procedure-alias/stamp-cert/door" target="_blank">印鑑証明書の交付請求</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">専用サイト</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="http://www.city.nanyo.yamagata.jp/zeisyoumeisinsei/5066" target="_blank">戸籍証明書の交付請求</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">専用サイト</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7817" target="_blank">水道の開栓受付</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=3546" target="_blank">水道の閉栓受付</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7803" target="_blank">給水装置 排水設備 異動届</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶ <a href="http://www.city.nanyo.yamagata.jp/taxnouzeiannai/5832" target="_blank">市税等の口座振替申込み（Web口座振替受付サービス）</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">専用サイト</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶ <a href="http://www.city.nanyo.yamagata.jp/okyaku/5803" target="_blank">上下水道料金の口座振替申込み（Web口座振替受付サービス）</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">専用サイト</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=3550" target="_blank">粗大ごみの収集申込み</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="http://https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=3446" target="_blank">犬の登録申請</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=6849" target="_blank">犬の登録事項変更届</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=3445" target="_blank">犬の死亡届</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=9656" target="_blank">家屋滅失届</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=4488" target="_blank">オンライン移住相談</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=5310" target="_blank">オンライン窓口相談</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 562px;">【災害に遭った場合等の手続き】</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7823" target="_blank">【災害】水道料金の減免申請</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7437">【災害】介護サービス利用料の減免申請</a></td>
+      <td style="width: 85px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7446">【災害】介護サービス利用料の還付申請</a></td>
+      <td style="width: 85px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶ <a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIia+7RjDiKpIjGmU9Ks8dl9ExOBUHegjONQ8fLvM0ImYRfhZihnzhPZURbVvzti6DjetV2DIboS/gk7A/aRU+yTw==">【災害】保育料等の減免申請</a></td>
+      <td style="width: 85px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 335px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=8558" target="_blank">災害ボランティア活動参加申込書</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div id="kenko">
+<h4>◆健康・医療・福祉</h4>
+</div>
+
+<div class="table-responsive">
+<table border="1" cellpadding="1" cellspacing="1" style="width: 566px;">
+  <tbody>
+    <tr>
+      <td style="width: 342px; text-align: center;"><strong>手続き名</strong></td>
+      <td style="width: 86px; text-align: center;"><strong>マイナンバーカード</strong></td>
+      <td style="width: 134px; text-align: center;"><strong>リンク</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 563px;">【障がい者支援】</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7461">特別障がい者手当認定請求書</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIie56s8cWxXZ/UGwuQ8dNm0eZAHtOJALiKHV97urZxZFTUDEgFkz3xdvGjcq52fZZhl1iTQ+HEoq9JWQr+vtKIsQ==">特別障がい者手当所得状況届</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7450">障がい児福祉手当認定請求書</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIil+wY1LfpPySH1cphhw0bgkS4KNRf318hWNtgOTZ9kkoL+XcxfQpWXYFqEycIXw4B1cEeAYkBO7p+T+fyb5Sftw==">障がい者福祉手当（福祉手当）所得状況届</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7690">補装具費（購入・修理）支給申請書</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7696">自立支援医療費（育成・更生）支給認定申請書</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7700">経過的福祉手当の現況の届出</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7717">紙おむつ給付申請書</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7786">日常生活用具給付申請書</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7791">障害福祉サービス（介護給付費・訓練等給付費等）の支給申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7803">障害福祉サービス（介護給付費・訓練等給付費等）の申請内容変更届</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 563px;">【介護保険】</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7446">介護サービス利用料の還付申請</a></td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7437">介護サービス利用料の減免申請</a></td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiDPNv7v+Bsw8rYyTzAqgqsEDGODvnqRK+VygkCh0pDnSpE3zTGZkJ2zobPJP1nw3zuKIf0kv26xvU/k24bL7eYA==">介護保険負担限度額認定申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiYW/ifGgx7F/92XbH0oMf8HmKjfNLTiimmDLJO/LWEreTdCDkJvAXnNi9+jXL/4XPH3+/8XzDpvGMiK63RvxSzA==">居宅介護（介護予防）住宅改修費の支給申請（住宅改修前）</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIifBbk4Cfy+mH0XDwA22nmvjqg0XZcV9ZWCxiuyaXx03E4FicQcaVKBrx8bmZeufaHqgOTtoj/lIR1Kw6s9x7IOA==">居宅介護（介護予防）住宅改修費の支給申請（住宅改修後）</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiDPNv7v+Bsw8rYyTzAqgqsEDGODvnqRK+VygkCh0pDnSpE3zTGZkJ2zobPJP1nw3zuKIf0kv26xvU/k24bL7eYA==">介護保険負担割合証の再交付申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIijysRli0WvOTPbCLAU0qFIOOyDzXbAf3SO2Lum8UrJTr2LEnkMxahbHZzaYPH/bWIcpju+ylI8n08pZpDr5UdNg==">住所移転後の要介護・要支援認定申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIihmQpxEnafk1nX97J/lmRDPfjS9wKB/z/2IJctYGE4Z1wg3RCaWDen6e+mjpe5rQ9tzOOWkRrpcHZQ3VArmKvcw==">居宅（介護予防）サービス計画作成（変更）依頼の届出</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIisdjRtxuTJoqQtP4vE6vGjuCVIXO6V1F6wCC/4qF5lgK1wWWHkDUEg6YPna39tGf/YzkCCR040LBL0GWj7FaM0g==">居宅介護（介護予防）福祉用具購入費の支給申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶ <a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiNQaWdTVyxqIcbzG+EvKv7dxvWLOBZBESfguGrUY9jfJeJfypD6zvFEL9lzfvVWc1YFP7tG3LTFA9ebpKqtf9JA==">介護保険被保険者証の再交付申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIi3GJ8jgBTsLa4+Ol4fY5SWF2bppbZKsPWzsEd1gNzPICyUXSgPCoaoMym1BhF/L1ZW+5LvwzviL3n6a1xq4s90g==">要介護・要支援更新認定の申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIid5OQwvxJ8bjsW4646Vk1tk53xSMLWMSOPOtADQjmAhm2Ock7xBm663w9LD2vrBXV1ipIkL/BK/SsI9n8P1kKiQ==">要介護・要支援状態区分変更認定の申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiATzwX2MdUGvBWsnEmHuw3wjBbwXLGCQGGP7G/rPeQoZPyzhBss1xV+KHcx6lSbdSkZga/hz0XPSHPlmdLUN7RQ==">要介護・要支援認定の申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiQtcOKmVqWKmofCTDgOA69sjtw4zRe3AB3CQ5lPj4/PvOFeS0Z1Ki2QYSY+kBJYA0sXXDyjEH5pK8ncPPoqxH9Q==">重度要介護者介護手当支給の申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIislQNhPBueCSiNlQ4+T4sH7rV3TTQEhQapGcyzmbyR2yO9zmsr3+9Lm89a8IpOO1NHjTEMXTLqa2fxzkMBpDg2Q==">高額介護（予防）サービス費の支給申請</a></td>
+      <td style="width: 86px; text-align: center;">必要</td>
+      <td style="width: 134px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 563px;">【健康づくり】</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=11072" target="_blank">大人の風しん抗体価検査及び予防接種費用助成申請の申込み</a></td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶&nbsp;<a href="https://reserva.be/yukotto" target="_blank">温浴施設「湯こっと」の施設予約</a></td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">&nbsp;専用サイト</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 563px;">【福祉】</td>
+    </tr>
+    <tr>
+      <td style="width: 342px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=8011" target="_blank">生活困窮者相談</a>（住居確保給付金の申請相談／生活保護申請相談）</td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div id="child">
+<h4>◆妊娠・子育て・教育</h4>
+</div>
+
+<div class="table-responsive">
+<table border="1" cellpadding="1" cellspacing="1" style="width: 568px;">
+  <tbody>
+    <tr>
+      <td style="width: 338px; text-align: center;"><strong>手続き名</strong></td>
+      <td style="width: 88px; text-align: center;"><strong>マイナンバーカード</strong></td>
+      <td style="width: 135px; text-align: center;"><strong>リンク</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 565px;">【妊娠・子育て】</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=16535" target="_blank">妊娠の届出（母子手帳受取予約）</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7624" target="_blank">産前・産後の訪問指導</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7623" target="_blank">子育て関連教室申込み</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=8217" target="_blank">妊娠８か月アンケート</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=16315" target="_blank">妊婦支援給付金に関する胎児の数の届出</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=16329" target="_blank">食育教室アンケート</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;"></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 565px;">【児童手当・特例給付】</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2969" target="_blank">認定請求書</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2972" target="_blank">額改定認定請求書、額改定届</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">&nbsp;やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2973" target="_blank">現況届</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">&nbsp;やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2974" target="_blank">氏名・住所変更届</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">&nbsp;やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2975" target="_blank">受給事由消滅届</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">&nbsp;やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2976" target="_blank">未支払請求書</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2977" target="_blank">寄附の申出書</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=2978" target="_blank">給食費等の徴収等申出書</a></td>
+      <td style="width: 88px; text-align: center;">必要</td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 565px;">【学校教育】</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7904" target="_blank">就学援助申請</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7903" target="_blank">通学区域（学区）の指定変更願</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 338px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7902" target="_blank">区域外就学願</a></td>
+      <td style="width: 88px; text-align: center;"></td>
+      <td style="width: 135px; text-align: center;">やまがたe申請</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div id="bunka">
+<h4>◆文化・スポーツ・社会教育</h4>
+</div>
+
+<div class="table-responsive">
+<table border="1" cellpadding="1" cellspacing="1" style="width: 570px;">
+  <tbody>
+    <tr>
+      <td style="width: 341px; text-align: center;"><strong>手続き名</strong></td>
+      <td style="width: 86px; text-align: center;"><strong>マイナンバーカード</strong></td>
+      <td style="width: 134px; text-align: center;"><strong>リンク</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 567px;">【申請・手続き等】</td>
+    </tr>
+    <tr>
+      <td style="width: 341px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=11141" target="_blank">社会教育関係団体認定申請</a></td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 567px;">【施設予約（利用申請）等】</td>
+    </tr>
+    <tr>
+      <td style="width: 341px;">▶&nbsp;<a href="https://ilisod002.apsel.jp/nanyo-library/" target="_blank">図書貸出予約</a></td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">専用サイト</td>
+    </tr>
+    <tr>
+      <td style="width: 341px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=8352" target="_blank">図書館リクエスト申込</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 341px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-d/downloadForm/downloadFormList_detail?tempSeq=10382" target="_blank">夕鶴の里入館料減免申請書</a></td>
+      <td style="width: 86px;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 567px;">【参加申込み】</td>
+    </tr>
+    <tr>
+      <td style="width: 341px;">▶<strong> </strong><a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=11139" target="_blank">出張スマホ相談会</a></td>
+      <td style="width: 86px; text-align: center;"></td>
+      <td style="width: 134px; text-align: center;">やまがたe申請</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div id="sonota">
+<h4>◆その他</h4>
+</div>
+
+<div class="table-responsive">
+<table border="1" cellpadding="1" cellspacing="1" style="width: 571px;">
+  <tbody>
+    <tr>
+      <td style="width: 346px; text-align: center;"><strong>手続き名</strong></td>
+      <td style="width: 89px; text-align: center;"><strong>マイナンバーカード</strong></td>
+      <td style="width: 130px; text-align: center;"><strong>リンク</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 568px;">【職員採用】</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">　現在、該当する手続はありません。</td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;"></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 568px;">【補助金】</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">　現在、該当する手続はありません。</td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;"></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 568px;">【選挙】</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">　現在、該当する手続はありません。</td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;"></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 568px;">【建設、都市計画】</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiDIfhD4jDpl3QztoHpLYJHm2TfuuQCh2ffvNFfPCDJwhKNcX6ZxczpVOjO7Xj5mB/MHffhRbV8HOMLxwiaFZzbcBVuKRFfuamzIhLTcNpQgTH8XUNiZ74oW06dKVNpDmzil1wlL2DFNEEaXyEBdW4aqSuAa1IowIaql0oSlDYsBaWoK8FwUCYUfDZH6bxDSK/">道路占用工事着手届</a></td>
+      <td style="width: 89px; text-align: center;">必要</td>
+      <td style="width: 130px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIiL2q5wGiVqyh6wasqCUUfcjjO7/XqofkQMXZWea+Of4MLKhyUwcSlK8XURQ9qNBsc/bkydpXHERQY/HNsc4tOJppG7BgS3EO2I5kLhohhunbwTTGHS+bum5k0c8y3vPTD9I8thZqhjslrv0DMUe8VHousRW4DS4vsy3+AoTteDsk6MlR48oB0jlK3cEOmqKjw">道路占用工事完成届</a></td>
+      <td style="width: 89px; text-align: center;">必要</td>
+      <td style="width: 130px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIixwOo9HnK631m9PZyo8phLhzjJgfX75rRI+LxAYrMLsNEING5qzn30V3dv6X3itKuvUMThRwPGZgCXVfXXHaMRVN2a9Mf0QV0ymR8P1LD/IAYaGuWJNOeG2V4mrbPmRalJ2D+DvrsHvIA+pyUDPaSuDfwYlmjQBiyssIDszpUgj9aV0BjUtQlwCwRjROW0cLu">道路占用許可申請(新規)</a></td>
+      <td style="width: 89px; text-align: center;">必要</td>
+      <td style="width: 130px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIion38RIaZjge8DdhxU6NaUvbeqLTCF9aZtQMbtrjMFURJ9jNfgbEiD2TzNvdrfv9unqGcMxB+xjGynxOq3qGiHoZ4NQSkKzbl5ju2MLQ8VUHi4sFiMlG3X7Io/Ls2qLHYjEBxJuN2zEtxqg6nlh/8ZogAVaeCKEtFC2kmRaXNYuPRjG+sRdMcPyU2aRasHqg3">道路占用許可申請(変更)</a></td>
+      <td style="width: 89px; text-align: center;">必要</td>
+      <td style="width: 130px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://app.oss.myna.go.jp/Application/procdetail/initGet?skgEgstGrgEbfdRv3PsaL0jBJjM7nAvUT7WtKm6fnVarBDuMOUg6glFuy3WZHHIifMbCcZPh+jU+F1quCtt4BsAHcx1mRNF1TJoU/U48055bmCqzx4np7jzmKlXlakaQaDFq53azFjjjtT+pnUgUit74Usks2hAVmn7wDrb+OJ9dDz9p77oSq9MmjEJ4eFvr7onsYVZVjVq0t12AIM967US+AZgt3Zdjectu8J9PlJsGD74cYUdgcM+e5s1hYkWU">道路占用許可申請(更新)</a></td>
+      <td style="width: 89px; text-align: center;">必要</td>
+      <td style="width: 130px; text-align: center;">ぴったりサービス</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶ <a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=7388" target="_blank">埋蔵文化財包蔵地確認依頼書</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=14211" target="_blank">法定外公共物に関する工事施行承認申請書</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=14213" target="_blank">法定外公共物使用等許可申請書</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=14237" target="_blank">境界立会申請書（市道分）</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=14238" target="_blank">境界立会申請書（法定外公共物分）</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=14246" target="_blank">境界承諾申請書（法定外公共物分）</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=14250" target="_blank">境界承諾申請書（市道分）</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=16842" target="_blank">建築工事届</a></td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 568px;">【産業】</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">　現在、該当する手続はありません。</td>
+      <td style="width: 89px; text-align: center;"></td>
+      <td style="width: 130px; text-align: center;"></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 568px;">【市政全般】</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=8475" target="_blank">情報公開請求</a></td>
+      <td style="width: 89px;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="width: 568px;">【市民アンケートなど】</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_detail?tempSeq=5333" target="_blank">転入される方へ移動調査</a></td>
+      <td style="width: 89px;"></td>
+      <td style="width: 130px; text-align: center;">やまがたe申請</td>
+    </tr>
+    <tr>
+      <td style="width: 346px;">▶&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSd88QalNi3PdQFJSyr_IxWK3u8PCaoqAhqwOEchvMdTiy71Qw/viewform" target="_blank">市役所への質問</a></td>
+      <td style="width: 89px;"></td>
+      <td style="width: 130px; text-align: center;">専用サイト</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+　各手続き等のページの申請方法や注意事項をご覧のうえ、ご利用ください。 なお、各オンライン手続きで取り扱うシステムについて、メンテナンス等の理由により利用を中断・中止することがあります。各手続きごとにご確認ください。
+
+<h4>１．マイナポータル「ぴったりサービス」</h4>
+・<span style="color:#ff0000;">マイナンバーカードを利用するサービス</span>です。順次サービスを拡大する予定です。<br>
+・パソコンを利用する際は、マイナンバーカードを読み取れる「カードリーダー」が必要です。<br>
+・スマートフォンをご利用の場合は、マイナンバーカードを読み取れるスマートフォンが必要です。<br>
+▷<a href="http://bit.ly/3XAiBER" target="_blank">マイナポータル「ぴったりサービス」へ</a><br>
+&nbsp;
+<h4>２．電子申請サービス（やまがたe申請）</h4>
+山形県及び県内市町村で共同利用しているサービスです。ご利用される場合は、メールアドレスをご登録ください。<br>
+▷<a href="https://bit.ly/3imAFCs" target="_blank">やまがたｅ申請へ</a><br>
+<br>
+（更新日：令和7年12月26日）&nbsp;<br>
+<br>
+&nbsp;
+									</article>
+			</main>
+		</div>
+		<!-- /.col -->
+		<div class="col col-md-3">
+			<div class="sides" id="nav-side">
+				<header id="side-header">
+				<p class="caption"><b>このページに関する情報</b></p>
+				</header>
+				<!-- /.side-header -->
+																<nav class="options option-links">
+				<h2>関連リンク</h2>
+				<ul>
+								  <li><a href="https://myna.go.jp/search" target="_blank">マイナポータル「ぴったりサービス」</a>
+												  <li><a href="https://apply.e-tumo.jp/city-nanyo-yamagata-u/offer/offerList_initDisplay.action" target="_blank">やまがたｅ申請</a>
+												</ul>
+								</nav>
+								
+								<aside class="side" id="side-enquete">
+				<h2>アンケート</h2>
+				<form action="/api/miniquest.php" method="post">
+				<h3>このページは役に立ちましたか？</h3>
+				<ul class="nav">
+				  <li><label><input name="value" type="radio" value="1" checked> 役に立った</label></li>
+				  <li><label><input name="value" type="radio" value="0"> どちらでもない</label></li>
+				  <li><label><input name="value" type="radio" value="2"> 役に立たなかった</label></li>
+				</ul>
+				<p class="buttons"><button class="btn btn-default" type="submit">送信する</button></p>
+				<div class="hidden">
+				<input type="hidden" name="content_id" value="4756">
+				<input type="hidden" name="category_id" value="2">
+				</div>
+				</form></aside>
+												<aside id="nav-address">
+				<h2>このページに関する問合せ</h2>
+				<address>
+				<h3>みらい戦略課 情報係</h3>
+				<p>
+								<span class="zip">〒999-2292</span><br>
+												 <span class="address">山形県南陽市三間通436-1</span><br>
+																 <span class="tel tel1">電話：0238-40-0249</span>
+																 <span class="fax">FAX：0238-40-3242</span>
+								</p>
+				</address>
+								<div class="nav"><a class="btn contact" href="mailto:mirai@city.nanyo.yamagata.jp">メールでのお問い合わせ</a></div>
+								</aside>
+							</div>
+			<!-- /#nav-side -->
+		</div>
+		<!-- /.col -->
+	</div>
+</div>
+
+<footer id="footer">
+	<div id="footer-nav" class="container">
+		<ul>
+		  <li><a href="/cyosakuken/">著作権</a></li>
+		  <li><a href="/mensekiziko/">免責事項</a></li>
+		  <li><a href="/kozinzyohohogo/">個人情報保護</a></li>
+		  <li><a href="/sitemap">サイトマップ</a></li>
+		  <li><a href="/link/">リンク</a></li>
+		</ul>
+		<div class="nav pagetop" id="footer-pagetop"><a href="#top"><img alt="ページトップへ" src="/up/images/nanyo/common/to_top.gif"></a></div>
+	</div><!-- /#footer-nav -->
+	<div id="footer-area">
+		<div class="container">
+			<address>
+			<p class="site-title"><img alt="南陽市" src="/up/images/nanyo/common/sitelogo_mini.gif"></p>
+			<p class="address">
+			〒999-2292　山形県南陽市三間通436-1　電話：0238-40-3211　FAX：0238-40-3242 <br />
+開庁時間：月曜日から金曜日の午前8時30分から午後5時15分（祝日、12月29日から1月3日を除く） </p>
+			</address>
+			<p class="copyright"><small>&copy; 2018 Nanyo City. All Rights Reserved.</small></p>
+		</div>
+	</div><!-- /#footer-area -->
+</footer>
+
+
+
+
+<script src="/js/common.js"></script>
+<script src="/js/req_fancybox.js"></script>
+<script src="/js/nanyo/nanyo.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XB6ZVTVNZH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XB6ZVTVNZH');
+</script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+
+
+
+
+
+
+
+<title>
+歴史資料館｜七ヶ浜町</title>
+
+<!--【46】【歴史資料館】-->
+
+  <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../assets/css/font-awesome.css">
+  <link rel="stylesheet" href="../assets/css/material-design-iconic-font.min.css">
+  <link rel="stylesheet" href="../assets/css/drawer.css">
+  <link rel="stylesheet" href="../assets/css/slick.css" >
+  <link rel="stylesheet" href="../assets/css/slick-theme.css">
+
+  <link rel="stylesheet" href="../assets/css/benri.css">
+
+  <link rel="stylesheet" href="../assets/css/renew.css?v20250507">
+
+
+
+
+
+
+  
+<style>
+.hide {display:none!important;}
+.articles-list li.title, 
+.articles-list td.title, 
+.articles-list th.title {
+    border-left: solid 1px #AFAFAF;
+}
+.nowrap { white-space: nowrap; }
+/* ---------- [start]search---------- */
+.search_container{
+  box-sizing: border-box;
+  position: relative;
+  border: 1px solid #C3C3C3;
+  padding: 3px 10px;
+  border-radius: 20px;
+  height: 2.3em;
+  width: 200px;
+  overflow: hidden;
+  margin-left:0.5em;
+}
+@media screen and (max-width:767px) {
+  .search_container{
+    width: 92%;
+    margin:20px auto;
+    background-color: #FFF;
+  }
+}
+.search_container input[type="text"]{
+  border: none;
+  height: 2.0em;
+  width: 100%;
+}
+.search_container input[type="text"]:focus {
+  outline: 0;
+}
+.search_container input[type="submit"]{
+  cursor: pointer;
+  font-family: FontAwesome;
+  font-size: 1.3em;
+  border: none;
+  background: none;
+  color: #536BB8;
+  position: absolute;
+  width: 2.5em;
+  height: 2.5em;
+  right: 0;
+  top: -10px;
+  outline : none;
+}
+/* ---------- [end]search---------- */
+.doc-date {
+font-size:14px;
+font-weight:normal;
+color:#536BB8;
+display:block;
+margin-top:0.25em;
+}
+</style>
+
+  
+  <link rel="stylesheet" href="../assets/css/history.css">
+<style>
+    .museum-banner img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .museum-banner img:hover {
+      opacity: 0.85;
+    }
+
+    @media screen and (min-width:769px) {
+      .museum-banner {
+        margin-top: -20px;
+        margin-bottom: 80px;
+      }
+
+      .museum-banner img {
+        width: 550px;
+      }
+    }
+
+    @media screen and (max-width:768px) {
+      .museum-banner {
+        margin-top: -30px;
+        margin-bottom: 60px;
+      }
+
+      .museum-banner img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 73.33%;
+      }
+    }
+
+    @media screen and (max-width:480px) {
+      .museum-banner {
+        margin-bottom: 50px;
+      }
+
+      .museum-banner img {
+        width: 73.33%;
+      }
+    }
+
+    @media screen and (max-width:375px) {
+      .museum-banner {
+        margin-bottom: 40px;
+      }
+
+      .museum-banner img {
+        width: calc(100% - 40px);
+      }
+    }
+
+.js-btn-more,
+.js-btn-close {
+margin-top: 1em;
+background-color: #A39483;
+color: #FFF;
+}
+
+.js-btn-more:hover,
+.js-btn-close:hover {
+background-color: #7D7265;
+color: #FFF;
+}
+</style>
+
+</head>
+
+
+
+<body class="history drawer drawer--left">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  <!-- [sr-only] -->
+  <div id="pagetop" class="sr-only">ページの先頭です。<a href="#main">コンテンツへ進む</a></div>
+  <!-- /[sr-only] -->
+
+  
+
+    <header id="header" class="-v2023"><!--asw-v8-260124-->
+      <nav class="navbar">
+        <div class="drawer_nav for-pc">
+          <div class="container">
+            <div class="header-block-pc">
+              <div class="site-id-pc">
+                <a class="_navbar-brand _hidden-xs" href="../">
+                  <img src="../assets/images/site-id.png" alt="うみ・ひと・まち　宮城県七ヶ浜町 Town of Shichigahama">
+                </a>
+              </div>
+              <div class="header-block-pc-nav">
+                <ul class="navbar-list">
+                  <li>
+                    <form method="get" action="../search.html" class="search_container">
+                      <input type="hidden" name="cx" value="004970629545001816469:b82tipvslf4" />
+                      <input type="hidden" name="ie" value="UTF-8" />
+                      <input type="text" name="q" size="25" placeholder="Google カスタム検索">
+                      <input type="submit" name="sa" value="&#xf002">
+                    </form>
+                  </li>
+                  <li>
+                    <div class="direct-menu">
+                      <span class="sr-only">ナビゲーションメニュー</span>
+                      <button class="toggle-menu"><span class="menu-trigger">
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                        </span></button>
+                    </div>
+                  </li>
+                </ul>
+                <ul class="theme-list _nav _navbar-nav _navbar-right">
+                  <li class="life-admin"><a href="../theme/admin.html">くらし・行政</a></li>
+                  <li class="parenting"><a href="../parenting/index.html">子育て</a></li>
+                  <li class="relax"><a href="../relax2/index.html">観光</a></li>
+                  <li class="facility"><a href="../theme/facility.html">町の施設</a></li>
+                  <li class="bus"><a href="../access/gururinko/index.html">町民バス</a></li>
+                  <li class="history"><a href="../history/index.html">歴史・文化</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="menu -pc">
+            <div class="inner">
+              <div class="container">
+                <div class="row-menu">
+
+                  <div class="col-menu">
+                    <ul class="item">
+                      <li><a href="../">ホーム</a></li>
+                    </ul>
+
+                    <ul class="item">
+                      <li><a href="../benricho/">くらし・行政インフォメーション</a></li>
+                    </ul>
+
+                    
+
+                    <ul class="item">
+                      <li><a href="../parenting/">七ヶ浜町子育てポータルサイト</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../benricho/calendar/">七ヶ浜ライフカレンダー</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../access/index.html">アクセス情報</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../access/gururinko/">七ヶ浜町民バス「ぐるりんこ」</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../stresscheck/" target="_blank">気軽に、かんたん！ストレスチェック</a></li>
+                    </ul>                  </div>
+
+
+                  <div class="col-menu">
+                    <dl class="item">
+                      <dt><a href="../relax2/">観光情報</a></dt>
+                      <dd>
+                        <ul>
+                          <li><a href="../relax2/spot02.html">おすすめスポット</a></li>
+                          <li><a href="../relax2/news_index.html">観光に関するお知らせ</a></li>
+                        </ul>
+                      </dd>
+                    </dl>
+                    <dl class="item">
+                      <dt><a href="../aquarena/">アクアリーナ・スポーツ施設</a></dt>
+                      <dd>
+                        <ul>
+                          <li><a href="../aquarena/consept.html">コンセプト・取り組み</a></li>
+                          <li><a href="../aquarena/facility01.html">施設のご紹介・ご利用ガイド</a></li>
+                          <li><a href="../aquarena/info/index.html">スポーツ施設に関するお知らせ</a></li>
+                        </ul>
+                      </dd>
+                    </dl>
+                    <dl class="item">
+                      <dt><a href="../edu/">生涯学習</a></dt>
+                      <dd>
+                        <ul>
+                          <li><a href="../edu/consept.html">コンセプト・取り組み</a></li>
+                          <li><a href="../edu/facility01.html">施設のご紹介・ご利用ガイド</a></li>
+                          <li><a href="../edu/info/index.html">生涯学習に関するお知らせ</a></li>
+                        </ul>
+                      </dd>
+                    </dl>
+                  </div>
+
+
+                  <div class="col-menu">
+                    <dl class="item">
+                      <dt><a href="../kokusai/">七ヶ浜国際村</a></dt>
+                      <dd>
+                        <ul>
+                          <li><a href="../kokusai/consept.html">コンセプト・取り組み</a></li>
+                          <li><a href="../kokusai/facility.html">施設のご紹介</a></li>
+                          <li><a href="../kokusai/guide.html">ご利用ガイド</a></li>
+                          <li><a href="../kokusai/info/index.html">七ヶ浜国際村からのお知らせ</a></li>
+                        </ul>
+                      </dd>
+                    </dl>
+                    <dl class="item">
+                      <dt><a href="../history/index.html">七ヶ浜町の歴史・文化</a></dt>
+                      <dd>
+                        <ul>
+                          <li><a href="../history/index.html#cultural">文化財</a></li>
+                          <li><a href="../history/property-a01.html">大木囲貝塚</a></li>
+                          <li><a href="../history/museum.html">歴史資料館</a></li>
+                          <li><a href="../history/index.html#procedure">文化財の手続き</a></li>
+                        </ul>
+                      </dd>
+                    </dl>
+                    <dl class="item">
+                      <dt><a href="../town2/">まちづくりポータル</a></dt>
+                      <dd>
+                        <ul>
+                          <li><a href="../town2/plan01.html">まちづくり</a></li>
+                          <li><a href="../town2/admin01.html">行政情報</a></li>
+                          <li><a href="../town2/data01.html">統計情報</a></li>
+                        </ul>
+                      </dd>
+                    </dl>
+                  </div>
+
+                  <div class="col-menu">
+                    <ul class="item">
+                      <li><a href="../benricho/keyword/sanka_key05.html">議会</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../sousei/">七ヶ浜町長期総合計画[2022-2031]<br>ポータルサイト</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../comn/contact/">お問い合わせフォーム</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../comn/contact.html">町役場問い合わせ先一覧</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../comn/relation.html">関係機関問い合わせ先一覧</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../comn/link.html">関連サイトリンク集</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../comn/policy.html">サイトポリシー</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../brand/">ブランド七ヶ浜</a></li>
+                    </ul>
+                    <ul class="item">
+                      <li><a href="../ie/">International Exchange</a></li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="drawer_nav for-sp">
+          <div class="container">
+            <a class="navbar-brand-sp _visible-xs-block" href="../">
+              <img src="../assets/images/site-id-sp.png" alt="うみ・ひと・まち　宮城県七ヶ浜町 Town of Shichigahama">
+            </a>
+            <form method="get" action="../search.html" class="visible-xs-block search_container -sp" style="margin-top:10px; margin-bottom:10px;">
+              <input type="hidden" name="cx" value="004970629545001816469:b82tipvslf4" />
+              <input type="hidden" name="ie" value="UTF-8" />
+              <input type="text" name="q" size="25" placeholder="Google カスタム検索">
+              <input type="submit" name="sa" value="&#xf002">
+            </form>
+            <div class="priority-menu direct-menu">
+              <span class="sr-only">ナビゲーションメニュー</span>
+              <button class="toggle-menu"><span class="menu-trigger">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </span></button>
+            </div>
+          </div>
+
+          <div class="menu -sp">
+            <div class="inner">
+              <div class="container">
+                <ul class="item">
+                  <li><a href="../">ホーム</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../theme/admin.html">くらし・行政</a></li>
+                </ul>
+
+                
+
+                <ul class="item">
+                  <li><a href="../parenting/">七ヶ浜町子育てポータルサイト</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../benricho/calendar/">七ヶ浜ライフカレンダー</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../access/index.html">アクセス情報</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../access/gururinko/">七ヶ浜町民バス「ぐるりんこ」</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../stresscheck/" target="_blank">気軽に、かんたん！ストレスチェック</a></li>
+                </ul>
+                <dl class="item">
+                  <dt class="has-child">観光情報</dt>
+                  <dd class="child">
+                    <ul>
+                      <li><a href="../relax2/">観光情報トップ</a></li>
+                      <li><a href="../relax2/spot02.html">おすすめスポット</a></li>
+                      <li><a href="../relax2/news_index.html">観光に関するお知らせ</a></li>
+                    </ul>
+                  </dd>
+                </dl>
+                <dl class="item">
+                  <dt class="has-child">アクアリーナ・スポーツ施設</dt>
+                  <dd class="child">
+                    <ul>
+                      <li><a href="../aquarena/">アクアリーナ・スポーツ施設トップ</a></li>
+                      <li><a href="../aquarena/consept.html">コンセプト・取り組み</a></li>
+                      <li><a href="../aquarena/facility01.html">施設のご紹介・ご利用ガイド</a></li>
+                      <li><a href="../aquarena/info/index.html">スポーツ施設に関するお知らせ</a></li>
+                    </ul>
+                  </dd>
+                </dl>
+                <dl class="item">
+                  <dt class="has-child">生涯学習</dt>
+                  <dd class="child">
+                    <ul>
+                      <li><a href="../edu/">生涯学習トップ</a></li>
+                      <li><a href="../edu/consept.html">コンセプト・取り組み</a></li>
+                      <li><a href="../edu/facility01.html">施設のご紹介・ご利用ガイド</a></li>
+                      <li><a href="../edu/info/index.html">生涯学習に関するお知らせ</a></li>
+                    </ul>
+                  </dd>
+                </dl>
+                <dl class="item">
+                  <dt class="has-child">七ヶ浜国際村</dt>
+                  <dd class="child">
+                    <ul>
+                      <li><a href="../kokusai/">七ヶ浜国際村トップ</a></li>
+                      <li><a href="../kokusai/consept.html">コンセプト・取り組み</a></li>
+                      <li><a href="../kokusai/facility.html">施設のご紹介</a></li>
+                      <li><a href="../kokusai/guide.html">ご利用ガイド</a></li>
+                      <li><a href="../kokusai/info/index.html">七ヶ浜国際村からのお知らせ</a></li>
+                    </ul>
+                  </dd>
+                </dl>
+                <dl class="item">
+                  <dt class="has-child">七ヶ浜町の歴史・文化</dt>
+                  <dd class="child">
+                    <ul>
+                      <li><a href="../history/index.html">七ヶ浜町の歴史・文化トップ</a></li>
+                          <li><a href="../history/index.html#cultural">文化財</a></li>
+                          <li><a href="../history/property-a01.html">大木囲貝塚</a></li>
+                          <li><a href="../history/museum.html">歴史資料館</a></li>
+                          <li><a href="../history/index.html#procedure">文化財の手続き</a></li>
+                    </ul>
+                  </dd>
+                </dl>
+                <dl class="item">
+                  <dt class="has-child">まちづくりポータル</dt>
+                  <dd class="child">
+                    <ul>
+                      <li><a href="../town2/">まちづくりポータルトップ</a></li>
+                      <li><a href="../town2/plan01.html">まちづくり</a></li>
+                      <li><a href="../town2/admin01.html">行政情報</a></li>
+                      <li><a href="../town2/data01.html">統計情報</a></li>
+                    </ul>
+                  </dd>
+                </dl>
+                <ul class="item">
+                  <li><a href="../benricho/keyword/sanka_key05.html">議会</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../sousei/">七ヶ浜町長期総合計画[2022-2031]<br>ポータルサイト</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../comn/contact/">お問い合わせフォーム</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../comn/contact.html">町役場問い合わせ先一覧</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../comn/relation.html">関係機関問い合わせ先一覧</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../comn/link.html">関連サイトリンク集</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../comn/policy.html">サイトポリシー</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../brand/">ブランド七ヶ浜</a></li>
+                </ul>
+                <ul class="item">
+                  <li><a href="../ie/">International Exchange</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <div>
+      <div class="drawer-nav"><span></span></div>
+    </div>
+    <!--/header-->
+
+    
+
+  
+ 
+<div class="category-select">
+    <div class="title">
+        <p>七ヶ浜町の歴史・文化</p>
+      </div>
+    <nav>
+      <div class="container">
+      <ul class="link-list">
+        <li class="link-item is-active"><a href="../history/#cultural">文化財</a></li>
+        <li class="link-item"><a href="../history/property-a01.html">大木囲貝塚</a></li>
+        <li class="link-item"><a href="../history/museum.html">歴史資料館</a></li>
+        <li class="link-item"><a href="../history/#procedure">文化財の手続き</a></li>
+      </ul>
+      </div>
+    </nav>
+  </div><!--/.category-select-->
+  <div class="topic-path">
+    <div class="container">
+      <a href="../index.html">ホーム</a> &gt; <a href="../history/index.html">七ヶ浜町の歴史・文化</a> &gt; <strong class="current">歴史資料館</strong>
+    </div>
+  </div>
+
+
+
+
+
+<main id="history-museum">
+    <div class="container">
+      <article class="main-item">
+        <div class="main-item__content">
+          <div class="title-block">
+            <h1 class="main-item__title">歴史資料館</h1>
+          </div>
+
+          <div class="content-block">
+            <div class="main-item__guide">
+              <div class="slider-block">
+                <ul class="property-a01-slider">
+                  <li class="slide-item"><img src="images/museum-mainpic.jpg" alt="" loading="lazy"></li>
+                  <li class="slide-item"><img src="images/museum-pic1.jpg" alt="" loading="lazy"></li>
+                  <li class="slide-item"><img src="images/museum-pic2.jpg" alt="" loading="lazy"></li>
+                  <li class="slide-item"><img data-lazy="images/museum-pic3.jpg" alt="" loading="lazy"></li>
+                </ul>
+                <ul class="property-a01-slider-navigation -nv">
+                  <li class="slide-item -nv"><img src="images/museum-mainpic.jpg" alt=""></li>
+                  <li class="slide-item -nv"><img src="images/museum-pic1.jpg" alt=""></li>
+                  <li class="slide-item -nv"><img src="images/museum-pic2.jpg" alt=""></li>
+                  <li class="slide-item -nv"><img src="images/museum-pic3.jpg" alt=""></li>
+                </ul>
+              </div>
+              <div class="text-block">
+                <p>国史跡大木囲貝塚（だいぎがこいかいづか）の隣接地に1986（昭和61）年に開館した町立の歴史資料館です。大木囲貝塚の出土資料を中心に、町内の貝塚・遺跡から出土した資料、漁撈具・農耕具などの民俗資料を収蔵・展示しています。</p>
+              </div>
+            </div>
+
+            <div class="museum-news" id="museum-news">
+              <div class="museum-news-inner">
+                <dl>
+                  <dt class="museum-news__title">歴史資料館からのお知らせ</dt>
+                  <dd>
+
+
+
+<div class="museum-news__block">
+<ul class="museum-news__list">
+
+
+<li>
+
+
+<a href="../edu/info/G01-207-07.html"  >【8/9・10/12】「縄文土器作り教室」開催のお知らせ</a>
+<!--  【oshiraseDocTimeBlock】-->
+
+
+
+<span class="_doc-date">［掲載日：2026年6月24日］</span>
+
+
+
+
+
+</li>
+
+
+
+<li>
+
+
+<a href="../edu/info/G01-207-06.html"  >【7/26・8/2】「だいぎ歴史体験教室」開催のお知らせ</a>
+<!--  【oshiraseDocTimeBlock】-->
+
+
+
+<span class="_doc-date">［掲載日：2026年6月24日］</span>
+
+
+
+
+
+</li>
+
+
+
+<li>
+
+
+<a href="../edu/info/G01-207-05.html"  >【7/18-8/30】「資料館クイズラリー　じょうもんだいに挑戦！」開催のお知らせ</a>
+<!--  【oshiraseDocTimeBlock】-->
+
+
+
+<span class="_doc-date">［更新日：2026年7月3日］</span>
+
+
+
+
+
+</li>
+
+
+
+<li>
+
+
+<a href="../edu/info/G01-207.html"  >令和８年度 歴史資料館主催・共催事業のお知らせ</a>
+<!--  【oshiraseDocTimeBlock】-->
+
+
+
+<span class="_doc-date">［更新日：2026年7月3日］</span>
+
+
+
+
+
+</li>
+
+
+
+<li>
+
+
+<a href="../edu/info/G01-202.html "  >「縄文の旅スタンプラリーVol.4」開催中です</a>
+<!--  【oshiraseDocTimeBlock】-->
+
+
+
+<span class="_doc-date">［更新日：2026年7月3日］</span>
+
+
+
+
+
+</li>
+
+
+
+<li>
+
+
+<a href="../edu/info/G01-150.html"  >歴史資料館オリジナルグッズ販売中です！</a>
+<!--  【oshiraseDocTimeBlock】-->
+
+
+
+<span class="_doc-date">［更新日：2025年9月24日］</span>
+
+
+
+
+
+</li>
+
+
+
+<li>
+
+
+<a href="../edu/info/G01-129.html"  >「大根明神のアワビ祭り」のアニメを配信中です</a>
+<!--  【oshiraseDocTimeBlock】-->
+
+
+
+<span class="_doc-date">［更新日：2025年2月20日］</span>
+
+
+
+
+
+</li>
+
+
+</ul>
+  <div class="btn js-btn-more">もっと見る</div>
+  <div class="btn js-btn-close">最新の5件のみ表示</div>
+</div>
+                  </dd>
+                </dl>
+              </div>
+            </div>
+
+            <div class="museum-banner">
+              <a href="../../edu/info/G01-129.html">
+                <picture>
+                  <source srcset="images/banner-minwa-pc.png" media="(min-width: 640px)" type="image/png">
+                  <img src="images/banner-minwa-sp.png" alt=”海ノ民話のまちプロジェクト　七ヶ浜町の民話アニメ”>
+                </picture>
+              </a>
+            </div>
+
+            <div class="text-block-detail" id="museum-overview">
+              <div class="detail-title">
+                <h2>概要</h2>
+              </div>
+
+              <div class="detail-body">
+
+                <dl>
+                  <dt>施設情報</dt>
+                  <dd class="museum-guide">
+                    <ul class="information-list">
+                      <li>【所在地】宮城県宮城郡七ヶ浜町境山二丁目1番12号</li>
+                      <li>【開館時間】9時から16時</li>
+                      <li>【休館日】月曜日（月曜日が祝日の場合は、その翌日）、年末年始（12月28日から1月4日）</li>
+                      <li>【入館料】無料</li>
+                      <li>【駐車場】普通車 11台　大型 3台<br><span class="note">※駐車場から歴史資料館入口までの間に階段があります。車いすなど階段の利用が難しい方は歴史資料館前の優先駐車スペースをご利用ください。</span></li>
+                      <li>【お問い合わせ先】七ヶ浜町歴史資料館　電話：022-365-5567　FAX：022-355-5569</li>
+                    </ul>
+                  </dd>
+                </dl>
+
+                <dl>
+                  <dt>［常設展示］考古資料</dt>
+                  <dd class="_museum-guide">
+                    <div class="museum-text">
+                      <p>展示室にはたくさんの縄文土器を展示しています。その多くは隣接する大木囲貝塚から出土した縄文時代前期から中期の土器です。「大木式土器（だいぎしきどき）」と呼ばれるこれらの土器は、縄文時代前期・中期に現在の東北地方中・南部で盛んに作られた土器です。形と文様の違いから13種類に分類され、分類の基準となる土器がまとまって出土した「大木囲貝塚」の名称から「大木式土器」と呼ばれています。大木式土器は世界遺産に登録されている東北北部の遺跡からも出土すること、関東甲信越地方の縄文土器の形や文様に影響を与える時期もあることなどが判明しています。「大木式土器」を時期別に展示していますので、ぜひ大木式土器の変遷をご覧ください。</p>
+                      <p>縄文土器のほか、石器や土偶、動物の骨や角、牙などで作った釣針や銛、装飾品類など、松島湾の縄文文化を伝える資料を展示しています。また、弥生時代から平安時代の資料も展示しています。</p>
+                      <p class="list-hd"><strong>主な考古資料（縄文時代から平安時代）</strong></p>
+                      <ul class="item-list">
+                        <li>土器類（縄文土器、弥生土器、土師器、須恵器、製塩土器など）</li>
+                        <li>石器、石製品、土製品（土偶）、骨角貝牙製品（漁撈具・針・装飾品など）</li>
+                        <li>貝塚から出土した貝類や魚類などの骨・角・牙、植物（クルミ・トチ）</li>
+                        <li>大木囲貝塚の貝層剥ぎ取り標本</li>
+                        <li>国府厨印（町指定文化財・寄託資料）</li>
+                      </ul>
+
+                    </div>
+                  </dd>
+                </dl>
+
+                <dl>
+                  <dt>［常設展示］民俗資料</dt>
+                  <dd class="_museum-guide">
+                    <div class="museum-text">
+                      <p>大正から昭和にかけて漁業や農業で使用した道具類、七ヶ浜の基幹産業の一つである海苔養殖関係の資料の他、ブラウン管テレビや黒電話、ゲーム機などの家庭で使用されていたちょっと昔の資料も展示しています。</p>
+                      <p class="list-hd"><strong>主な民俗資料</strong></p>
+                      <ul class="item-list">
+                        <li>漁業関連資料（復元木造船、網針、漁網、浮き玉、船大工道具など）</li>
+                        <li>農業関連資料（鍬、土入れ、背負いかご、足踏み脱穀機、唐箕、箕など）</li>
+                        <li>海苔養殖・加工関連資料（海苔包丁、海苔枠、海苔枡、海苔簾など）</li>
+                        <li>家庭で利用されていた道具類（氷冷蔵庫、ブラウン管テレビ、掃除機、仙台箪笥など）</li>
+                        <li>囲炉裏のある部屋（復元）</li>
+                      </ul>
+                    </div>
+                  </dd>
+                </dl>
+
+                <dl>
+                  <dt>［常設展示］湊浜薬師堂の薬師如来座像（レプリカ）</dt>
+                  <dd class="museum-guide">
+                    <div class="museum-pic"><img src="images/museum-pic4.jpg" alt=""></div>
+                    <div class="museum-text">
+                      <p>湊浜地区に所在する薬師堂の薬師如来座像（磨崖仏）のレプリカを展示しています。現地には平安時代終わりから鎌倉時代初め頃に彫られた薬師如来座像を風化等から守るため覆屋を設置しています。現地では常時見学できないため、展示室で実物の1/2サイズのレプリカをご覧ください。</p>
+                    </div>
+                  </dd>
+                </dl>
+
+              </div>
+            </div>
+
+            <div class="text-block-detail" id="museum-traffic">
+              <div class="detail-title">
+                <h2>交通案内</h2>
+              </div>
+
+              <div class="detail-body">
+                <dl class="traffic-type">
+                  <dt>自動車</dt>
+                  <dd>
+                    <p>県道23号線（通称：産業道路）を仙台市・多賀城市方面より北上し、貞山橋の交差点を七ヶ浜方面に右折します（写真1）。<br>
+                      400m先のY字路を左折し（写真2）、次の信号に看板がありますので、看板に従い信号を左折します（写真3）。<br>
+                      大木囲貝塚・歴史資料館の場所は、<a href="../access/index.html">タウンマップ</a>をご覧下さい。
+                    </p>
+                    <ul class="traffic-photo">
+                      <li><span>写真1</span><img src="../relax2/spot/access/access_pic05.jpg" alt=""><span>信号を右折</span></li>
+                      <li><span>写真2</span><img src="../relax2/spot/access/access_pic06.jpg" alt=""><span>信号を左折</span></li>
+                      <li><span>写真3</span><img src="../relax2/spot/access/access_pic07.jpg" alt=""><span>信号を左折</span></li>
+                    </ul>
+                  </dd>
+                </dl>
+
+                <dl class="traffic-type">
+                  <dt>タクシー</dt>
+                  <dd>JR仙石線下馬駅より所要時間約10分</dd>
+                </dl>
+
+                <dl class="traffic-type">
+                  <dt>電車・バス</dt>
+                  <dd>
+                    <dl class="inner">
+                      <dt><i class="zmdi zmdi-subway"></i> 電車</dt>
+                      <dd>
+                        <div class="traffic-time">
+                          <p><a href="http://www.jreast-timetable.jp/" target="_blank">JR仙石線</a><i class="zmdi zmdi-open-in-new"></i></p>
+                          <ul>
+                            <li>JR仙台駅発→JR多賀城駅（所要時間:約22分）</li>
+                            <li>JR仙台駅発→JR本塩釜駅（所要時間:約28分）</li>
+                          </ul>
+                        </div>
+                      </dd>
+                    </dl>
+                    <dl class="inner">
+                      <dt><i class="zmdi zmdi-bus"></i>バス</dt>
+                      <dd>
+                        <div class="traffic-time">
+                          <p><a href="https://www.city.tagajo.miyagi.jp/toshike/kurashi/kotsu/documents/toubujikokuhyo.pdf" target="_blank">ユーアイバス多賀城東部線　汐見台中央行き</a><i class="zmdi zmdi-open-in-new"></i></p>
+                          <ul>
+                            <li>多賀城駅バス発→境山バス停（所要時間:約19分）</li>
+                            <li>徒歩：境山バス停より徒歩約8分</li>
+                          </ul>
+                        </div>
+                        <div class="traffic-time">
+                          <p><a href="../access/gururinko/index.html" target="_blank">七ヶ浜町民バス「ぐるりんこ」</a><i class="zmdi zmdi-open-in-new"></i></p>
+                          <ul class="traffic-time">
+                            <li>多賀城駅バス停発→境山バス停（所要時間:約15分）</li>
+                            <li>本塩釜駅バス停発→境山バス停（所要時間:約15分）</li>
+                            <li>下馬駅バス停発→境山バス停（所要時間:約10分）</li>
+                            <li>徒歩：境山バス停より徒歩約5分</li>
+                          </ul>
+                          <p class="note">※ユーアイバス多賀城東部線と七ヶ浜町民バス「ぐるりんこ」の「境山」バス停の場所が異なりますので、ご注意ください<br>
+                            ※平日と土日・祝日のバスの運行本数が異なりますので、ご注意ください
+                          </p>
+
+                        </div>
+                      </dd>
+                    </dl>
+                  </dd>
+                </dl>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+    </div>
+  </main>
+<footer id="footer" class="-v2023"><!--cmsft-->
+<div class="container">
+<address>
+<strong>七ヶ浜町役場　</strong><br>
+郵便番号 985-8577　<br class="sp-br">宮城県宮城郡七ヶ浜町東宮浜字丑谷辺5番地の1　<br>
+代表電話：022-357-2111　<br class="sp-br">ファックス：022-357-5744
+</address>
+<ul class="ft-nav">
+<li><a href="../comn/policy.html">サイトポリシー</a></li>
+<li><a href="../comn/contact.html">お問い合わせ＆リンク集</a></li>
+</ul>
+<p class="copyright"><small>Copyright © Town of Shichigahama All Right Reserved.</small></p>
+</div>
+<!--/.container-->
+</footer>
+<p class="scroll-to-top -v2023"><a href="#"><img src="../assets/images/common/icon-pagetop.svg"></a></p>
+
+
+  <script type='text/javascript' src='../assets/js/jquery-2.2.4.min.js'></script>
+  <script type='text/javascript' src='../assets/js/bootstrap.min.js'></script>
+  <script type='text/javascript' src='../assets/js/common.js?v20230425'></script>
+  <script type='text/javascript' src='../assets/js/drawer.min.js'></script>
+  <script type='text/javascript' src='../assets/js/jquery.cookie.js'></script>
+  <script type='text/javascript' src='../assets/js/jquery.fontsizechange.js'></script>
+  <script type='text/javascript' src='../assets/js/jquery.matchHeight-min.js'></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.1.3/iscroll.min.js"></script>
+  
+  <script src="../assets/js/slick.min.js"></script>
+<script>
+$(function() {
+	var $html = $('html');
+	var $toggleMenu = $('.toggle-menu');
+	var $menuTrigger = $('.menu-trigger');
+	var $menu = $('#menu');
+
+	$toggleMenu.on('click', function() {
+		$html.toggleClass('active');
+		$menu.toggleClass('active');
+		$menuTrigger.toggleClass('active');
+	});
+});
+$(function(){
+	$(".drawer_nav .menu.-sp dt").on("click", function() {
+		$(this).next("dd").slideToggle();
+		$(this).parent().toggleClass("open");
+	});
+});
+
+$(function() {
+  $('.nav-button').on('click', function() {
+    $('html').toggleClass('open');
+  });
+  $('.global-nav a[href]').on('click', function(event) {
+    $('.nav-button').trigger('click');
+  });
+});
+
+    $(function () {
+      $('.property-a01-slider').slick({
+        infinite: true,
+        fade: true,
+        arrows: false,
+        autoplay: true,
+        autoplaySpeed: 4000,
+        speed: 500,
+        lazyLoad: 'ondemand',
+      });
+
+      $('.property-a01-slider-navigation').slick({
+        infinite: true,
+        slidesToShow: 0,
+        focusOnSelect: true,
+        waitForAnimate: false,
+        asNavFor: '.property-a01-slider',
+      });
+
+      $('.property-a01-slider').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+        var index = nextSlide;
+        $(".property-a01-slider-navigation .slick-slide").removeClass("slick-current").eq(index).addClass("slick-current");
+      });
+    });
+
+$(function () {
+  // liの数を取得
+  const listItems = $(".museum-news__block li").length;
+  $(".museum-news__block").each(function () {
+    // 最初に表示させるliの数
+    let num = 5,
+      // 閉じた時に表示させるliの数
+      closeNum = num - 1;
+    // 最初はもっと見るボタン表示、閉じるボタン非表示
+    $(this).find(".js-btn-more").show();
+    $(this).find(".js-btn-close").hide();
+    // 5行目まで表示
+    $(this)
+      .find("li:not(:lt(" + num + "))")
+      .hide();
+    // もっと見るボタンがクリックされた時
+    $(".js-btn-more").click(function () {
+      // numに+5ずつしていく = 5行ずつ追加する
+      num += 5;
+      $(this)
+        .parent()
+        .find("li:lt(" + num + ")")
+        .slideDown();
+      // liの数よりnumが多い時、
+      if (listItems <= num) {
+        // もっと見るボタン非表示
+        $(".js-btn-more").hide();
+        // 閉じるボタン表示
+        $(".js-btn-close").show();
+        // 閉じるボタンがクリックされたら、
+        $(".js-btn-close").click(function () {
+          $(this)
+            .parent()
+            .find("li:gt(" + closeNum + ")")
+            // 6行目以降は非表示
+            .slideUp();
+          // 閉じるボタンを非表示
+          $(this).hide();
+          // もっと見るボタン表示に
+          $(".js-btn-more").show();
+        });
+      }
+    });
+  });
+});
+</script>
+  </script>
+
+  
+
+
+
+</body>
+</html>
+

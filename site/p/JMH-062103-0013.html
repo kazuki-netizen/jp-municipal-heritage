@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>安楽寺山門 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>安楽寺山門</h1>
+    <p class="jmh-id">JMH-062103-0013</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字高擶</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 安楽寺; 製作年代: 江戸時代中期; 安楽寺は、享徳(きょうとく)３年（1454）創建といわれ、戦国末期に現在地へ移転して以降、この村山地方の浄土宗寺院の中心的存在であった。 この山門は、間口５．87ｍ、奥行４．３ｍの三間一戸(さんげんいっこ)の八脚門(はっきゃくもん)式二重門（２階建の門で、上重・下重ともに屋根がある）で、２階樓上(ろうじょう)に本尊と十六羅漢像を祀(まつ)る仏間があった。高欄(こうらん)つきの回縁四隅に擬宝珠(ぎぼし)を備え、釣り燈籠(どうろう)の痕跡もみえる。 同寺蔵文書から、享保(きょうほう)15年（1730）、18世良照上人の発願で起工、元文(げんぶん)３年（1738）５月、19世良三上人の代に完成、矢野目の松田権七が木材寄進、工匠は小国（現最上町）の大沼三郎兵衛光久であったことがわかる。 大正11年（1922）に萱葺(かやぶき)屋根を亜鉛鉄板葺に改造、平成８年（1996）にも柱や桁の一部、２階部分の高欄・宝珠・板戸・障子壁等補修が加えられた。 江戸中期の建築様式を今に伝える近郷に数少ない山門として貴重である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"安楽寺山門" (JMH-062103-0013), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.344318, 140.33223], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.344318, 140.33223]).addTo(m);
+  </script>
+</body>
+</html>

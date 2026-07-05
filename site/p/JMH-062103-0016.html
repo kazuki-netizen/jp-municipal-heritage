@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>山口の大仏 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>山口の大仏</h1>
+    <p class="jmh-id">JMH-062103-0016</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字山口</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 天童市管理; 概要: 高さ450㎝ 幅(基礎)100㎝; 製作年代: 鎌倉時代; この大仏といわれている板碑は成生庄型である。大きさにおいて山形県内第一であり、頭部の額突出が大きく頂部の突出は成生庄型の特徴を示している。また、額上に二条の切込みがありその下の碑面上部にキリーク(阿弥陀如来)の梵字の種子(しゅじ)を彫り、これを大きな蓮華座が支えている。元来、碑面上には梵字のほか仏像や名号や偈(げ)などを刻むことがあるが、県内の板碑は阿弥陀を刻んでいるものが多い。場所は関山街道の旧道にあって、遥かに若松寺を望む所にあり若松寺観音参詣道に建てられた板碑である。また鎌倉時代のものは地方豪族や僧侶によって建てられたものが多いことから、この板碑も成生庄の官人や二階堂氏の造立とする説もある。 大仏の石質は凝灰度の低いこの近辺の山の凝灰岩と認められる。そのため石質が軟らかく、打ち砕いて「オコリ(間欠熱)」の妙薬に煎じて服用したといわれ、板碑の下部に今もその痕跡が残っている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"山口の大仏" (JMH-062103-0016), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.372887, 140.431458], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.372887, 140.431458]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>銅造阿弥陀如来立像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>銅造阿弥陀如来立像</h1>
+    <p class="jmh-id">JMH-062103-0054</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>彫刻</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字山元</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 本寿院; 概要: 像高 31．７㎝; 製作年代: 鎌倉時代; 日本で阿弥陀信仰が盛んになるのは、10世紀中頃から後期にかけて、市聖・空也(いちのひじり・くうや)による念仏説法や、源信(げんしん)の著書『往生要集(おうじょうようしゅう)』によって、地獄・極楽の世界が明らかにされた頃からである。永承(えいしょう)７年（1052）、末法の世到来への恐れは、時の社会不安も重なって人々を浄土信仰へと駆り立てていった。西方極楽浄土往生(さいほうごくらくじょうどおうじょう)への願いは、極楽浄土から人間社会へ来迎(らいごう)する阿弥陀像や来迎図を制作させるようになった。 本像は両手首を失っているが、来迎の印をとっていた可能性が高い。阿弥陀如来立像で、両手を前に出す形は、福岡県久留米市無量寺像（鎌倉時代）、大分県豊後高田市天念寺旧像（平安時代）などが知られている。また、頭髪の正面は左回りの巻髪となっており、清涼寺式(せいりょうじしき)釈迦像の形式を採用したものと考えられる。上部の着衣姿が、快慶(かいけい)が当時もたらされた宋の仏画を手本に造ったとされる兵庫県小野市浄土寺の阿弥陀如来立像など、鎌倉時代のものと共通する。端正で写実的な姿など、慶派の流れを汲むと考えられている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"銅造阿弥陀如来立像" (JMH-062103-0054), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.360462, 140.409607], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.360462, 140.409607]).addTo(m);
+  </script>
+</body>
+</html>

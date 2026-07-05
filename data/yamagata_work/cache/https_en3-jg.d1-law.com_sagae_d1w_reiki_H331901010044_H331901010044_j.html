@@ -1,0 +1,633 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=UTF-8"/>
+<META HTTP-EQUIV="Pragma" CONTENT="No-Cache"/>
+<TITLE>寒河江市文化財保護条例</TITLE>
+<SCRIPT TYPE="text/javascript">
+<!--
+
+	var userAgent = window.navigator.userAgent.toLowerCase();
+	var isIE = userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1;
+
+	function OpenResDataWin(hno, kno) {
+		window
+				.open('../../' + hno + '/' + kno + '/' + kno + '.html',
+						'D1W_STATIC_LINK',
+						'toolbar=0,location=0,directorys=0,status=0,menubar=1,scrollbars=1,resizable=1');
+	}
+	function Myfunc(w, url) {
+		w.D1W_RESDATA_VIW.location.href = url;
+	}
+	function OpenResDataWinlnkJyo(hno, kno, paragno) {
+		url = '../../' + hno + '/' + kno + '/' + 'frm_inyo' + '_prag' + paragno;
+		WinC = window
+				.open(url + '.html', 'D1W_STATIC_LINK',
+						'toolbar=0,location=0,directorys=0,status=0,menubar=1,scrollbars=1,resizable=1');
+	}
+	var WinC;
+	function linkinyo(syomeiCd, houCd, shikoubi, ichiKey) {
+		var selfFlg = false;
+		if (window.location.pathname) {
+			var splitName = window.location.pathname.split("/");
+			var nameReg = new RegExp("^" + houCd + "$");
+			for (var i = 0; i < splitName.length; i++) {
+				if (splitName[i].match(nameReg)) {
+					selfFlg = true;
+					break;
+				}
+			}
+		}
+		if (selfFlg) {
+			var href = window.location.href;
+			var index = href.lastIndexOf("#");
+			if (index > -1) {
+				href = href.substring(0, index);
+			}
+			var tIchikey ="";
+
+			var target = ichiKey.split("#");
+			for (var i = 0; i < target.length; i++) {
+				if(window.document.getElementById(target[i])) {
+					tIchikey = target[i];
+					break;
+				}
+			}
+
+			window.location.href  = href + "#" + tIchikey;
+
+		} else {
+			if (WinC) {
+				WinC.close();
+			}
+			var url = "../" + houCd + "/" + houCd + ".html";
+			WinC = window.open(url, 'D1W_STATIC_LINK', 'toolbar=0,location=0,directorys=0,status=0,menubar=1,scrollbars=1,resizable=1');
+			if (isIE) {
+				WinC.onload = new function() {
+					setFocusHref(WinC, ichiKey);
+				}
+			} else {
+				WinC.addEventListener("load", function() {
+					setFocusHref(WinC, ichiKey);
+				})
+			}
+		}
+	}
+	var limit = 0;
+	function setFocusHref(w, id) {
+		var tIchikey ="";
+		if (w.document.readyState == "complete") {
+			var target = id.split("#");
+			for (var i = 0; i < target.length; i++) {
+				if(w.D1W_RESDATA_VIW.document.getElementById(target[i])) {
+					tIchikey = target[i];
+					break;
+				}
+			}
+
+			limit = 0;
+			var href = w.D1W_RESDATA_VIW.location.href;
+			w.D1W_RESDATA_VIW.location.href = href + "#" + tIchikey;
+		} else {
+			if (limit++ < 1000) {
+				setTimeout(setFocusHref(w, id), 10000);
+			}
+		}
+	}
+-->
+</SCRIPT>
+
+<STYLE TYPE="text/css">
+<!--
+.DEFAULT {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 0pt;
+}
+
+.HYODAI {
+	text-align: left;
+	margin-left: 48pt;
+	text-indent: -12pt;
+}
+
+.HATSUREI {
+	text-align: left;
+	margin-left: 300pt;
+	text-indent: 0pt;
+}
+
+.K-ENKAKU {
+	text-align: left;
+	margin-left: 72pt;
+	text-indent: 0pt;
+}
+
+.E-CYU {
+	text-align: left;
+	margin-left: 72pt;
+	text-indent: 0pt;
+}
+
+.E-MEISAI {
+	text-align: left;
+	margin-left: 120pt;
+	text-indent: 0pt;
+}
+
+.E-MEISAITTL {
+	text-align: left;
+	margin-left: 72pt;
+	text-indent: 0pt;
+}
+
+.ATESAKI {
+	text-align: left;
+	margin-left: 312pt;
+	text-indent: 0pt;
+}
+
+.KOUFUBUN {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 12pt;
+}
+
+.DAIMEI {
+	text-align: left;
+	margin-left: 36pt;
+	text-indent: 0pt;
+}
+
+.ZENKAIBUN {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 12pt;
+}
+
+.N-MOKUJI {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 0pt;
+}
+
+.ZENBUN {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 12pt;
+}
+
+.HONSOKU2 {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 12pt;
+}
+
+.J-SYOU {
+	text-align: left;
+	margin-left: 84pt;
+	text-indent: -48pt;
+}
+
+.J-SETSU {
+	text-align: left;
+	margin-left: 96pt;
+	text-indent: -48pt;
+}
+
+.J-KAN {
+	text-align: left;
+	margin-left: 108pt;
+	text-indent: -48pt;
+}
+
+.J-MOKU {
+	text-align: left;
+	margin-left: 120pt;
+	text-indent: -48pt;
+}
+
+.J-YOBI {
+	text-align: left;
+	margin-left: 132pt;
+	text-indent: -48pt;
+}
+
+.JYOU {
+	text-align: left;
+	margin-left: 12pt;
+	text-indent: -12pt;
+}
+
+.JYOUMIDASHI {
+	text-align: left;
+	margin-left: 12pt;
+	text-indent: 0pt;
+}
+
+.KOU {
+	text-align: left;
+	margin-left: 12pt;
+	text-indent: -12pt;
+}
+
+.KOUMIDASHI {
+	text-align: left;
+	margin-left: 12pt;
+	text-indent: 0pt;
+}
+
+.GOU {
+	text-align: left;
+	margin-left: 24pt;
+	text-indent: -12pt;
+}
+
+.SAIBUN1 {
+	text-align: left;
+	margin-left: 36pt;
+	text-indent: -12pt;
+}
+
+.SAIBUN2 {
+	text-align: left;
+	margin-left: 48pt;
+	text-indent: -12pt;
+}
+
+.SAIBUN3 {
+	text-align: left;
+	margin-left: 60pt;
+	text-indent: -12pt;
+}
+
+.K-CHUKI1 {
+	text-align: left;
+	margin-left: 60pt;
+	text-indent: 0pt;
+}
+
+.K-CHUKI2 {
+	text-align: left;
+	margin-left: 60pt;
+	text-indent: 0pt;
+}
+
+.MISIKO {
+	text-align: left;
+	margin-left: 48pt;
+	text-indent: -12pt;
+}
+
+.MISIKOCYUKI {
+	text-align: left;
+	margin-left: 84pt;
+	text-indent: -36pt;
+}
+
+.KI {
+	text-align: left;
+	margin-left: 240pt;
+	text-indent: 0pt;
+}
+
+.H1 {
+	text-align: left;
+	margin-left: 12pt;
+	text-indent: -12pt;
+}
+
+.H2 {
+	text-align: left;
+	margin-left: 24pt;
+	text-indent: -12pt;
+}
+
+.H3 {
+	text-align: left;
+	margin-left: 36pt;
+	text-indent: -12pt;
+}
+
+.H4 {
+	text-align: left;
+	margin-left: 48pt;
+	text-indent: -12pt;
+}
+
+.F-DAI {
+	text-align: left;
+	margin-left: 36pt;
+	text-indent: 0pt;
+}
+
+.KF-DAI {
+	text-align: left;
+	margin-left: 36pt;
+	text-indent: 0pt;
+}
+
+.KF-ENKAKU {
+	text-align: left;
+	margin-left: 36pt;
+	text-indent: 0pt;
+}
+
+.MIDASHI {
+	text-align: left;
+	margin-left: 24pt;
+	text-indent: -12pt;
+}
+
+.SIKOU {
+	text-align: left;
+	margin-left: 12pt;
+	text-indent: 0pt;
+}
+
+.FUKI-DAI {
+	text-align: left;
+	margin-left: 36pt;
+	text-indent: 0pt;
+}
+
+.KONKYO {
+	text-align: left;
+	margin-left: 96pt;
+	text-indent: -60pt;
+}
+
+.BH-MIDASHI {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 0pt;
+}
+
+.Y-MIDASHI {
+	text-align: left;
+	margin-left: 0pt;
+	text-indent: 0pt;
+}
+
+.E-CHUKI1 {
+	font-style: italic;
+	color: #00008b;
+}
+
+.E-CHUKI2 {
+	font-style: italic;
+	color: #00008b;
+}
+
+.DEFAULT_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.HYODAI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.HATSUREI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.K-ENKAKU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.E-CYU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.E-MEISAI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.E-MEISAITTL_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.ATESAKI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.KOUFUBUN_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.DAIMEI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.ZENKAIBUN_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.N-MOKUJI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.ZENBUN_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.HONSOKU2_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.J-SYOU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.J-SETSU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.J-KAN_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.J-MOKU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.J-YOBI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.JYOU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.JYOUMIDASHI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.KOU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.KOUMIDASHI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.GOU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.SAIBUN1_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.SAIBUN2_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.SAIBUN3_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.K-CHUKI1_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.K-CHUKI2_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.MISIKO_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.MISIKOCYUKI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.KI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.H1_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.H2_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.H3_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.H4_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.F-DAI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.KF-DAI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.KF-ENKAKU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.MIDASHI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.SIKOU_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.FUKI-DAI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.KONKYO_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.BH-MIDASHI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.Y-MIDASHI_TABLE {
+	text-align: left;
+	text-indent: 0;
+}
+
+.E-CHUKI1_TABLE {
+	font-style: italic;
+	color: #00008b;
+}
+
+.E-CHUKI2_TABLE {
+	font-style: italic;
+	color: #00008b;
+}
+
+.jbnicon4rtf{
+	vertical-align: top;
+}
+
+//
+-->
+</STYLE>
+
+<LINK REL="STYLESHEET" HREF="../style.css" TYPE="text/css"/>
+<LINK REL="STYLESHEET" HREF="../style_comm.css" TYPE="text/css"/>
+
+</HEAD>
+<BODY bgcolor="#FFFFFF" text="#000000" background="../city_mark.gif" leftmargin="5">
+	<DIV CLASS="USER-SET-STYLE">
+		<A NAME="MOKUJI_TOP"/>
+		<div><div id="h:zA10:::0::1:" style="text-indent:-1.0em;padding-left:3.0em;word-wrap:break-word;margin:0;" class="danraku-normal">○寒河江市文化財保護条例</div><div id="h:zB10:::0::1:" style="text-align:right;; padding-right:3.0em;word-wrap:break-word;margin:0;" class="danraku-normal">昭和31年10月31日条例第44号</div><div id="h:dG10:::0::1:" style="padding-left:3.0em;padding-right:4.0em;word-wrap:break-word;margin:0;" class="danraku-normal">寒河江市文化財保護条例</div><div id="h:hK20:::1:0.0.0-1.0.0-0.0.0-0.0-0.0:1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第１章</b>　総則</div><div id="h:hL10:::2:1.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（目的）</div><div id="h:hL20:::2:1.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第１条</b>　この条例は、文化財保護法（昭和25年法律第214号）第182条第２項の規定に基づき、同法又は山形県文化財保護条例（昭和30年山形県条例第27号）の規定による指定を受けた文化財以外の文化財で市の区域内に存するもののうち市にとつて重要なものについて、その保存及び活用のため必要な措置を講じ、もつて市民の文化的向上に資するとともに、わが国文化の進歩に貢献することを目的とする。</div><div id="h:hL10:::2:2.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（定義）</div><div id="h:hL20:::2:2.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第２条</b>　この条例で「文化財」とは、文化財保護法（以下「法」という。）第２条第１項各号に掲げる有形文化財、無形文化財、民俗資料及び記念物をいう。</div><div id="h:hL10:::2:3.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（財産権等の尊重及び他の公益との調整）</div><div id="h:hL20:::2:3.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第３条</b>　寒河江市教育委員会（以下「教育委員会」という。）は、この条例の施行に当つては、関係者の所有権その他の財産権を尊重するとともに、文化財の保護と他の公益との調整に留意しなければならない。</div><div id="h:hK20:::1:0.0.0-2.0.0-0.0.0-0.0-0.0:1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第２章</b>　文化財保護委員会</div><div id="h:hL10:::2:4.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（設置）</div><div id="h:hL20:::2:4.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第４条</b>　文化財の保存及び活用に関し、教育委員会の諮問に応じ、調査研究並びに審議するため教育委員会に文化財保護委員会（以下「委員会」という。）を置く。</div><div id="h:hL10:::2:5.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（組織）</div><div id="h:hL20:::2:5.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第５条</b>　委員は10人以内の委員をもつて組織する。</div><div id="h:hL20:::2:5.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　特別の事項を調査審議する必要があるときは、臨時専門委員を置くことができる。</div><div id="h:hL20:::2:5.0.0.0-3.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">３　委員及び臨時専門委員は、学識経験者のうちから教育委員会が委嘱する。</div><div id="h:hL10:::2:6.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（任期）</div><div id="h:hL20:::2:6.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第６条</b>　委員の任期は２年とする。ただし再任は妨げない。補欠委員の任期は、前任者の残任期間とする。</div><div id="h:hL20:::2:6.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　臨時専門委員は、特別の事項の調査審議が終つたときは解嘱するものとする。</div><div id="h:hL10:::2:7.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（委員長）</div><div id="h:hL20:::2:7.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第７条</b>　委員会に委員長を置く。委員長は、委員の互選により定める。</div><div id="h:hL20:::2:7.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　委員長は、会務を処理し、委員会を代表する。</div><div id="h:hL20:::2:7.0.0.0-3.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">３　委員長に事故あるとき、又は欠けたときは、あらかじめ、委員会の指定する委員がその職務を行う。</div><div id="h:hL10:::2:8.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（会議）</div><div id="h:hL20:::2:8.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第８条</b>　委員会の会議は、委員長が招集する。</div><div id="h:hL20:::2:8.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　委員長は、委員会の会議の議長となる。</div><div id="h:hL20:::2:8.0.0.0-3.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">３　委員会の会議その他議事の運営に関し必要な事項は、教育委員会規則で定める。</div><div id="h:hL20:::2:9.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第９条</b>　削除</div><div id="h:hK20:::1:0.0.0-3.0.0-0.0.0-0.0-0.0:1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第３章</b>　市指定有形文化財</div><div id="h:hL10:::2:10.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（指定）</div><div id="h:hL20:::2:10.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第10条</b>　教育委員会は市の区域内に存する有形文化財のうち、市にとつて重要なものを寒河江市指定有形文化財（以下「市指定有形文化財」という。）に指定することができる。</div><div id="h:hL20:::2:10.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　前項の規定による指定をするには、教育委員会は、あらかじめ、委員会の意見を聞き、当該有形文化財の所有者及び占有者の同意を得なければならない。</div><div id="h:hL20:::2:10.0.0.0-3.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">３　第１項の規定による指定は、その旨を公示するとともに、当該有形文化財の所有者及び占有者に通知してする。</div><div id="h:hL20:::2:10.0.0.0-4.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">４　第１項の規定による指定は、前項の規定による公示があった日からその効力を生ずる。</div><div id="h:hL20:::2:10.0.0.0-5.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">５　第１項の規定による指定をしたときは、教育委員会は、当該市指定有形文化財の所有者に指定書を交付しなければならない。</div><div id="h:hL10:::2:11.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（解除）</div><div id="h:hL20:::2:11.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第11条</b>　教育委員会は、市指定有形文化財がその価値を失つた場合、その他特別の事由があるときは、その指定を解除することができる。</div><div id="h:hL20:::2:11.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　前項の規定による指定の解除には、前条第２項及び第３項の規定を準用する。</div><div id="h:hL20:::2:11.0.0.0-3.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">３　市指定有形文化財について、法第27条第１項の規定による重要文化財又は山形県文化財保護条例第４条第１項の規定による県指定有形文化財の指定があったときは、当該市指定有形文化財の指定は、解除されたものとする。</div><div id="h:hL20:::2:11.0.0.0-4.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">４　前項の場合は、教育委員会は、その旨を公示するとともに、当該市指定有形文化財の所有者及び占有者に通知しなければならない。</div><div id="h:hL20:::2:11.0.0.0-5.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">５　第２項で準用する前条第３項の規定による市指定有形文化財の指定の解除の通知を受けたとき及び前項の規定による通知を受けたときは、所有者は、速やかに、市指定有形文化財の指定書を教育委員会に返付しなければならない。</div><div id="h:hL10:::2:12.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（所有者の管理義務等）</div><div id="h:hL20:::2:12.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第12条</b>　市指定有形文化財の所有者は、この条例並びに教育委員会規則及びその指示に従い、市指定有形文化財を管理しなければならない。</div><div id="h:hL10:::2:13.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（管理又は修理の補助）</div><div id="h:hL20:::2:13.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第13条</b>　市指定有形文化財の管理又は修理につき多額の経費を要し、所有者がその負担に堪えない場合、その他特別の事情がある場合には市はその経費の一部を当該所有者に対し、予算の範囲内で補助することができる。</div><div id="h:hL10:::2:14.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（所有者の変更等）</div><div id="h:hL20:::2:14.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第14条</b>　市指定有形文化財の所有者に変更があったときは、新所有者は、速やかに、その旨を教育委員会に届け出なければならない。</div><div id="h:hL20:::2:14.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　市指定有形文化財の所有者又は占有者は、その氏名若しくは名称又は住所を変更したときは、速やかに、その旨を教育委員会に届け出なければならない。</div><div id="h:hK20:::1:0.0.0-4.0.0-0.0.0-0.0-0.0:1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第４章</b>　市指定無形文化財</div><div id="h:hL10:::2:15.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（指定）</div><div id="h:hL20:::2:15.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第15条</b>　教育委員会は、市の区域内に存する無形文化財のうち、市にとつて重要なものを寒河江市指定無形文化財（以下「市指定無形文化財」という。）に指定することができる。</div><div id="h:hL20:::2:15.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　教育委員会は、前項の規定による指定をするに当たつては当該市指定無形文化財の保持者を認定しなければならない。</div><div id="h:hL20:::2:15.0.0.0-3.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">３　第１項の規定による指定は、その旨を公示するとともに保持者として認定しようとする者に通知してする。</div><div id="h:hL10:::2:16.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（解除）</div><div id="h:hL20:::2:16.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第16条</b>　指定解除については第11条を準用する。</div><div id="h:hL10:::2:17.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（保存）</div><div id="h:hL20:::2:17.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第17条</b>　教育委員会は、市指定無形文化財の保存のため必要があると認めるときは、その記録の作成、伝承者の養成、その他保存のため適当な措置を行わなければならない。</div><div id="h:hL20:::2:17.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　市は、その保存に要する経費の一部を保持者又は保存に当ることを適者と認める者に対し、予算の範囲内で補助することができる。</div><div id="h:hK20:::1:0.0.0-5.0.0-0.0.0-0.0-0.0:1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第５章</b>　市指定民俗資料</div><div id="h:hL10:::2:18.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（指定）</div><div id="h:hL20:::2:18.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第18条</b>　教育委員会は、市の区域内に存する有形の民俗資料のうち、市にとつて重要なものを、寒河江市指定民俗資料（以下「市指定民俗資料」という。）に指定することができる。</div><div id="h:hL20:::2:18.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　前項の規定による指定には第10条第２項から第５項の規定を準用する。</div><div id="h:hL10:::2:19.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（準用規定）</div><div id="h:hL20:::2:19.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第19条</b>　第11条、第12条、第13条及び第14条の規定は、市指定民俗資料について準用する。</div><div id="h:hK20:::1:0.0.0-6.0.0-0.0.0-0.0-0.0:1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第６章</b>　市史跡名勝天然記念物</div><div id="h:hL10:::2:20.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（指定）</div><div id="h:hL20:::2:20.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第20条</b>　教育委員会は、市の区域内に存する記念物のうち、市にとつて重要なものを、寒河江市史跡、寒河江市名勝又は寒河江市天然記念物（以下「市史跡名勝天然記念物」という。）に指定することができる。</div><div id="h:hL20:::2:20.0.0.0-2.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">２　前項の規定による指定には、第10条第２項から第５項の規定を準用する。</div><div id="h:hL10:::2:21.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">（準用規定）</div><div id="h:hL20:::2:21.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:-1.0em;padding-left:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>第21条</b>　第11条、第12条、第13条及び第14条の規定は、市史跡名勝天然記念物について準用する。</div><div id="h:sO10:::0::1:" style="padding-left:3.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>附　則</b></div><div id="h:sL30:::2:0.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">この条例は、公布の日から施行する。</div><div id="h:kO10:H336901010008::0::1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>附　則</b>（昭和36年３月28日条例第８号）</div><div id="h:kL30:H336901010008:h:2:0.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">この条例は、昭和36年４月１日から施行する。</div><div id="h:kO10:H339901010023::0::1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>附　則</b>（昭和39年３月31日条例第23号）</div><div id="h:kL30:H339901010023:h:2:0.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">この条例は、昭和39年４月１日から施行する。</div><div id="h:kO10:H413901010008::0::1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>附　則</b>（平成13年３月26日条例第８号）</div><div id="h:kL30:H413901010008:h:2:0.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">この条例は、平成13年４月１日から施行する。</div><div id="h:kO10:H417901010023::0::1:" style="text-indent:-4.0em;padding-left:7.0em;word-wrap:break-word;margin:0;" class="danraku-normal"><b>附　則</b>（平成17年６月20日条例第23号）</div><div id="h:kL30:H417901010023:h:2:0.0.0.0-0.0-0.0.0-0-0-0-0:1:" style="text-indent:1.0em;word-wrap:break-word;margin:0;" class="danraku-normal">この条例は、公布の日から施行する。</div></div>
+	</DIV>
+</BODY></HTML>

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=yes">
+<title>天童市観光情報サイト</title>
+<!-- WCVPASTE!html!parts-design-tourism.html --><!-- ▼style -->
+	<!-- Google Tag Manager -->
+	<script>
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PVXSH45');
+	</script>
+	<!-- End Google Tag Manager -->
+	<link rel="icon" href="images/favicon_t.ico">
+	<link href="css/reset.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="alternate stylesheet" href="css/style.css" type="text/css" title="white">
+	<link rel="alternate stylesheet" href="../css/black_styles.css" type="text/css" title="black">
+	<link rel="alternate stylesheet" href="../css/blue_styles.css" type="text/css" title="blue">
+	<link rel="stylesheet" href="css/swiper.css">
+	<link rel="stylesheet" href="../css/block.css" type="text/css">
+	<link rel="stylesheet" href="css/print.css" media="print">
+	<!-- Accesibility buttons function -->
+	<link rel="stylesheet" href="css/accesibility.css" type="text/css">
+	<script src="scripts/spmenu.js"></script>
+	<script src="scripts/jquery-1.9.1.js"></script>
+	<script src="scripts/rollover_common.js"></script>
+	<script src="scripts/jquery.cookie.js"></script>
+	<script src="scripts/styleswitcher.js"></script>
+	<script src="scripts/jquery.textresizer.js"></script>
+	<script src="scripts/totop.js"></script>
+	<script src="//f1-as.readspeaker.com/script/10369/webReader/webReader.js?pids=wr&forceAdapter=ioshtml5&disable=translation,lookup"></script>
+	<script>
+	function googleTranslateElementInit() {
+	          new google.translate.TranslateElement(
+	          {
+	          pageLanguage: 'ja',
+	          includedLanguages: 'en,ko,zh-CN,zh-TW,ja',
+	          layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+	          multilanguagePage: true},
+	          'google_translate_element');
+	        }
+	</script>
+	<script>
+	$(document).ready(function(){
+	    var anchor = $(location).attr('hash');
+	    $('.pagetitle_lifeinfo > a').addClass('adjust');
+	    $('.pagetitle_tourism > a').addClass('adjust');
+	    $('.pagetitle_busiindust > a').addClass('adjust');
+	    $('.pagetitle_municipal > a').addClass('adjust');
+	    $('.pagetitle_other > a').addClass('adjust');
+	    $('.category_sub_other a').addClass('adjust');
+	    $('.title_h4 > a').addClass('adjust');
+	    $('.title_h5 > a').addClass('adjust');
+	    $('caption > a').addClass('adjust');
+	});
+	</script>
+	<script>
+	$(function(){
+	  $('.btn_menu').click(function(){
+	    $('nav').toggleClass('open');
+	        $('#header_main_subnavi').toggleClass('open display');
+	  });
+	})
+	</script>
+	<script>
+	$(function(){
+	  $("#message,#message2").each(function(){
+	    $(this).val("");
+	  });
+	});
+	</script>
+	<script>
+	window.onpageshow = function() {
+	  $("#searchinput,#searchinput2").each(function(){
+	    $(this).val("");
+	  });
+	}
+	</script>
+	<!-- ▲style --><!-- /WCVPASTE -->
+</head>
+<body>
+<!-- WCVPASTE!html!parts-header-tourism.html --><!-- Google Tag Manager (noscript) -->
+	<noscript>このページではJavaScriptを使用しています。</noscript>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVXSH45" height="0" width="0" style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<div class="wrapper">
+		<!-- header start -->
+		<div class="header_wrapper">
+			<!-- for fixed header -->
+			<div class="header">
+				<!-- Functions menu start--->
+				<div id="help">
+					<a class="btn_menu" href="#">
+						<h2 style="font-size: 100%;">支援機能メニュー</h2>
+					</a>
+				</div>
+				<nav id="nav">
+					<div id="header_main_subnavi">
+						<!-- RSPEAK_STOP -->
+						<!-- RSPEAK_START -->
+						<span id="readspeaker_button1" class="rs_skip voice">
+							<a href="//app-as.readspeaker.com/cgi-bin/rsent?customerid=10369&lang=ja_jp&readid=global_wrapper,index_top_wrapper,content,bottom_parts,footer&url=" onclick="readpage(this.href, 'xp1'); return false;" class="rs_href" rel="nofollow" accesskey="L">音声読み上げ</a>
+						</span>
+						<div id="fontsize1">
+							<span id="xp1" class="rs_preserve rs_skip rs_splitbutton rs_addtools rs_exp">
+							</span>
+							<span class="size">文字サイズ</span>
+							<button type="button" id="js-fs-normal">標準</button>
+							<button type="button" id="js-fs-large">拡大</button>
+							<div class="clear">
+							</div>
+						</div>
+						<br>
+						<div id="color">
+							<div class="colortext">文字色・背景色変更</div>
+							<button class="white" onclick="setActiveStyleSheet('white'); return false;">標準</button>
+							<button class="black" onclick="setActiveStyleSheet('black'); return false;">黒</button>
+							<button class="blue" onclick="setActiveStyleSheet('blue'); return false;">青</button>
+						</div>
+						<div id="gtrance">
+							<div id="google_translate_element">
+							</div>
+						</div>
+						<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+					</div>
+				</nav>
+				<!-- Functions menu end--->
+				<div class="header_logo">
+					<h1>
+						<a href="index.html">天童市観光情報サイト</a>
+					</h1>
+					<div class="eng">Tendo Sightseeing</div>
+				</div>
+				<div class="header_navi">
+					<a href="../index.html" class="citizen_icon">市民</a>
+					<a href="../iju/index.html" class="iju_icon">移住定住</a>
+					<a href="../pr_furusato/index.html" class="tax_icon">ふるさと納税</a>
+				</div>
+			</div>
+		</div>
+		<!-- header end --><!-- /WCVPASTE -->
+				
+<!-- main_img start --> 
+		
+<svg width="0" height="0" style="position: absolute; top: 0; left: 0;">
+  <clipPath id="img_path">
+    <path id="img_path" data-name="img_path" d="M4584.851,138.661c142.174-14.285,462.767,28.409,688.061-27.7S5739.634,251.4,5720.1,530.055s-17.862,554.768-545.025,517.913-836.433-31.126-843.043-425.213S4442.676,152.946,4584.851,138.661Z" transform="translate(-4331.292 -100.733)" fill="#fff" stroke="#707070" stroke-width="1"/>
+  </clipPath>
+</svg>
+		
+<div class="main_img">
+			<img class="main_copy" src="img/main_copy.png" alt="">
+				<svg width="1390.465" height="951.033" viewBox="0 0 1390.465 951.033">
+  <!-- WCVIMAGE --><image xlink:href="img/main.jpg" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" clip-path="url(#img_path)"/>
+</svg>
+</div>
+		
+<!-- main_img end --> 
+
+			<h2 class="tokin" id="pickup"><!-- WCVTEXT --><a id="pickup" name="pickup">PICK UP</a><!-- /WCVTEXT --></h2>
+			
+<div class="full_width bow_bg">
+<!-- swiper start --> 
+<div id="index_top_slider">
+      <div class="slider">
+        <div class="slider_innner"> 
+          <div class="swiper-container">
+            <div class="swiper-wrapper">
+             <!-- WCVTABLE!../rows/tourism_index.rows -->
+              <!-- WCVROW!観光ページPICKUP用スライドバナー!17102069381 --><div class="swiper-slide"><!-- WCVIMAGE --><a href="sightseeing/kousyuumusennrann.html"><img src="../tourism/images/slide1_wifi.png" alt="公衆無線LANのご案内" width="370" height="240" /></a></div>
+<!-- /WCVROW -->
+<!-- WCVROW!観光ページPICKUP用スライドバナー!17102069382 -->
+<div class="swiper-slide"><!-- WCVIMAGE --><a href="onsen/tendoonsen.html"><img src="../tourism/images/slide2_onsen.png" alt="温泉・宿泊施設のご案内" width="370" height="240" /></a></div>
+<!-- /WCVROW -->
+
+<!-- WCVROW!観光ページPICKUP用スライドバナー!17115851050 -->
+<div class="swiper-slide"><!-- WCVIMAGE --><a href="sightseeing/tourism_pamphlet.html"><img src="../tourism/images/kanko_pamphlet_1.png" alt="観光案内のパンフレット" width="370" height="240" /></a></div>
+<!-- /WCVROW -->
+<!-- WCVROW!観光ページPICKUP用スライドバナー!17386469170 -->
+<div class="swiper-slide"><!-- WCVIMAGE --><a href="https://yamagata-kouiki.info/" target="_blank"><img src="../tourism/images/yamagata_cheek.png" alt="山形県村山地域の観光情報ポータルサイト" width="370" height="240" /></a></div>
+<!-- /WCVROW -->
+<!-- /WCVTABLE --></div>
+              </div>
+          
+          <!-- If we need navigation buttons -->
+
+        </div><div class="swiper-pagination"></div> <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+
+      </div>
+</div>
+<!-- swiper end --> 
+
+<!-- news start --> 
+<h2 class="news_title" id="kankonews"><!-- WCVTEXT -->新着情報<!-- /WCVTEXT --></h2>
+<div class="news_box">
+<ul>
+<!-- WCVLINK!news-tourism!Day30Row5!../rows/index.rows#kankokoushin2nd -->
+<!-- WCVNUM!tourism/event/event-summer_okuno.html!1782805474 -->
+<li class="news_list">
+<div class="date">2026年6月30日</div>
+<div class="news_txt"><a href="event/event-summer_okuno.html">おくのほそ道天童紅花まつりの情報を更新しました</a></div>
+</li>
+
+<!-- /WCVNUM -->
+<!-- /WCVLINK -->
+</ul>
+<a href="ichiran.html" class="news_all">新着情報一覧をみる</a>
+</div>
+
+<!-- news end --> 	
+</div>
+
+<!-- about start -->
+			
+<div class="about flex_box">
+<div>
+	<div class="tokin" id="abouttendo"><!-- WCVTEXT -->天童市ってこんなところ<!-- /WCVTEXT --></div><div class="about_title_en"><!-- WCVTEXT -->about Tendo<!-- /WCVTEXT --></div>
+					<p>天童の魅力あふれる観光地や、文化施設をご紹介いたします。四季折々のイベントや体験メニュー、おでかけスポット、物産館でのお買い物など、楽しめるイベントが盛りだくさん！</p>
+					<img src="img/hidariuma.png" alt="">
+</div>
+<div><p>天童といえばやはり「将棋」。全国的にも有名な人間将棋から、将棋資料館まで、将棋ファンでなくとも楽しめます。
+「3月のライオン」とのコラボレーションなど若い人向けのコンテンツもあります。</p>
+</div>
+</div>
+
+<!-- about end -->
+
+<!-- know start -->
+<div class="full_width bow_bg">
+<div class="know">
+<h2 class="tokin" id="knowtendo"><!-- WCVTEXT -->天童を知る<!-- /WCVTEXT --></h2>
+<div class="know_box flex_box cate">
+<div><!--wcvimage--><a href="event/event.html"><img src="img/know1.png" alt=""><p>イベント</p></a></div>
+<div><!--wcvimage--><a href="shogi/index.html"><img src="img/know2.png" alt=""><p>将棋</p></a></div>
+<div><!--wcvimage--><a href="onsen/tendoonsen.html"><img src="img/know3.png" alt=""><p>温泉・泊まる</p></a></div>
+<div><!--wcvimage--><a href="souvenir/bussan.html"><img src="img/know4.png" alt=""><p>お土産</p></a></div>
+<div><!--wcvimage--><a href="fruit/tourism-fruit-garden.html"><img src="img/know5.png" alt=""><p>フルーツ</p></a></div>
+<div><!--wcvimage--><a href="sightseeing/spot.html"><img src="img/know6.png" alt=""><p>見る</p></a></div>
+<div><!--wcvimage--><a href="history/index.html"><img src="img/know7.png" alt=""><p>歴史・先人</p></a></div>
+<div><!--wcvimage--><a href="video/kanko-prmovie.html"><img src="img/know8.png" alt=""><p>動画ページ</p></a></div>
+</div>
+</div>
+</div>	
+<!-- know end -->
+
+<!-- tourist start -->
+<div class="tourist">
+<h2 class="tourist_icon" id="business"><!-- WCVTEXT -->事業者向け<!-- /WCVTEXT --></h2>
+<div class="tourist_box flex_box">
+<!-- wcvtext --><a href="./business/kankou-support.html">天童市誘客促進交通費支援事業</a><!-- /wcvtext -->
+<!-- wcvtext --><a href="./business/kankoyukyakutosienzigyo.html">天童市観光誘客等支援事業</a><!-- /wcvtext -->
+<!-- wcvtext --><a href="./business/index.html">その他事業者支援</a><!-- /wcvtext -->
+</div>	
+</div>
+<!-- tourist end -->
+			
+<!-- map start -->
+<div class="digitalmap">
+<h2 class="tokin" id="digitalmap"><!-- WCVTEXT -->天童おでかけ桂馬地図（けいまっぷ）<!-- /WCVTEXT --></h2>
+<div class="digitalmap_box">
+<iframe src="https://platinumaps.jp/maps/tendo-city" allow="geolocation" style="border: 0;" loading="lazy"></iframe>
+</div>	
+</div>
+<!-- map end -->
+
+<!-- WCVPASTE!html!parts-footer-tourism.html --><!-- ▼footer -->
+<div class="footer">
+	<div class="footer_link">
+		<a href="../disclaimer/index.html">免責事項について</a>
+		<a href="../accessibility/index.html">アクセシビリティについて</a>
+		<a href="../sitemap/index.html">サイトマップ</a>
+	</div>
+	<div id="footer_inner" class="flex_box_center acenter">
+		<div class="foot_txt">
+			<div class="footer_title">天童市観光情報サイト</div>
+			<div class="footer_en">Tendo Sightseeing</div>担当課： 経済部商工観光課
+			<br>tel： 023-654-1111 fax： 023-653-0744</div>
+		<div>
+			<div class="foot_logo">
+				<a href="../index.html">
+					<img src="img/footer_logo.png" alt="天童市ロゴ">天童市公式ホームページ</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+<!-- Text Resize -->
+<script src="scripts/textresize.js"></script>
+<!-- ▲footer --><!-- /WCVPASTE -->
+<!-- wrapper end -->
+		
+<!-- Global site tag (gtag.js) - Google Analytics --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11696088-1"></script> 
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11696088-1');
+</script> 
+
+<!-- Swiper --> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.1/js/swiper.min.js"></script> 
+<script>
+		var mySwiper = new Swiper ('.swiper-container', {
+			centeredSlides: true,
+			effect: "slide",
+	    	loop: true,
+			slidesPerView: 3,
+			spaceBetween: 10,
+			autoplay: 4000,
+		    pagination: '.swiper-pagination',
+		    nextButton: '.swiper-button-next',
+		    prevButton: '.swiper-button-prev',
+			breakpoints: {
+    480: {
+      slidesPerView: 1,
+    }
+  }
+	    })
+</script> 
+<div id="to_top"><a href="#"><img src="img/totop.png" alt=""></a></div>
+</body>
+</html>

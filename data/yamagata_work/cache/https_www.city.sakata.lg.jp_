@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="ja" prefix="og: http://ogp.me/ns# wegsite: http://ogp.me/ns/website#" xml:lang="ja" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="ja" http-equiv="content-language"/>
+<meta content="text/css" http-equiv="Content-Style-Type"/>
+<meta content="text/javascript" http-equiv="Content-Script-Type"/>
+<meta content="Sakata city" name="Author"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+<link href="rss_news.xml" rel="alternate" title="酒田市　新着情報" type="application/rss+xml"/>
+<link href="/css/style_base.css?202603" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/style_main.css?202603" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/style_top.css?20260703" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/style_top_smph.css?20260703" media="screen and (max-width: 770px)" rel="stylesheet" type="text/css"/>
+<link href="/css/style.wysiwyg.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/style.tableconverter.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/jquery.bxslider.css?202603" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/google_search.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/style_print_top.css?20260703" media="print" rel="stylesheet" type="text/css"/>
+<link href="favicon.ico" rel="shortcut icon"/>
+<!-- <link href="rss_news.xml" rel="alternate" title="新着情報_テンプレートテスト用" type="application/rss+xml" /> -->
+<link href="rss_news.xml" rel="alternate" title="新着情報_酒田市" type="application/rss+xml"/>
+<title>酒田市公式サイト</title>
+<script src="/js/jquery.js" type="text/javascript"></script>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/js/newstab2.js" type="text/javascript"></script>
+<script src="/js/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/js/change.js" type="text/javascript"></script>
+<script src="/js/jquery.bxslider.min.js" type="text/javascript"></script>
+<script src="/js/mymenu.js" type="text/javascript"></script>
+<script src="/js/mymenu2.js?202603" type="text/javascript"></script>
+<script src="/js/smph_common.js?202603" type="text/javascript"></script>
+<script src="/js/bxslider_initialize.js?202603" type="text/javascript"></script>
+<script src="/js/jquery.zoomsight-launch.js" type="text/javascript"></script>
+<!-- redirect -->
+<script type="text/javascript"> // <![CDATA[
+if((location.protocol == 'http:') && (location.hostname.indexOf('city.sakata.lg.jp') !== -1)){
+    location.replace(location.href.replace(/http:/, 'https:'));
+}
+// ]]></script>
+<!-- Google Tag Manager -->
+<script>
+// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDLRCQ8');
+// ]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- ▽google-analytics▽ -->
+<script type="text/javascript">
+// <![CDATA[
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83688568-1', 'auto');
+  ga('send', 'pageview');
+// ]]>
+</script>
+<!-- △google-analytics△ -->
+<!-- google-analytics -->
+<meta content="酒田市" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.city.sakata.lg.jp/index.html" property="og:url"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+</head>
+<body id="base">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NDLRCQ8" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript>
+<p class="jsmessage">酒田市ホームページではJavaScriptを使用しています。JavaScriptの使用を有効にしていない場合は、一部の機能が正確に動作しない恐れがあります。<br/>お手数ですがJavaScriptの使用を有効にしてください。</p>
+</noscript>
+<div class="blockjump"><a id="PTOP" name="PTOP"><img alt="このページの先頭です" height="1" src="/images/spacer.gif" width="1"/></a><img alt="サイトメニューここから" height="1" src="/images/spacer.gif" width="1"/></div>
+<div id="blockskip">
+<script type="text/javascript"> 
+<!--
+$(function(){
+	$("#blockskip a").focus(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1.5em'
+				},{
+					duration: 'fast'
+				}
+			)
+			.addClass("show");
+	});
+	$("#blockskip a")
+		.blur(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1px'
+				},{
+					duration: 'fast',
+					complete: function(){
+						$(this).removeClass("show");
+					}
+				}
+			)
+	});
+});
+//-->
+</script>
+<a href="#CONT">このページの本文へ移動</a>
+</div>
+<div id="basebg">
+<!-- ▼ヘッダーここから▼ -->
+<div class="baseallt">
+<div id="baseallh">
+<div id="baseleft">
+<div id="baseright">
+<div id="h0bgwrap">
+<div class="h0wrap clearfix">
+<div id="h0left2"><a href="/index.html"><img alt="酒田市" height="110" src="/images/c_title_2026.png" width="360"/></a>
+<div class="h0left2_clearfix"></div></div>
+<p class="navi-btn">メニューを開く</p>
+<div id="h1left2">
+<ul class="h1left2">
+<li><img alt="鳥海山　風車" height="120" src="/images/headimage.png" width="390"/></li>
+</ul>
+</div>
+<a class="h_mascot" href="/shisei/mascot/Characterprofile.html"><img alt="もしぇのん・あののん" class="head_img" height="171" src="/images/title_img.png"/></a>
+<div id="h0right-top">
+<div id="h0right-list">
+<ul class="headlist">
+<!-- ZoomSightクラウド型 -->
+<li><p><a href="https://www.zoomsight-sv.jp/SKT/controller/index.html#https://www.city.sakata.lg.jp/">音声読上げ・文字拡大</a></p></li>
+<li><p><a href="/homepage/Multilingual.html">multilingual</a></p></li>
+<li><p><a href="/sitemap.html">サイトマップ</a></p></li>
+<li><p><a href="/shisei/kouho/homepage/saitonituitekoho.html">このサイトについて</a></p></li>
+</ul>
+</div><!-- h0right-topここまで -->
+</div><!-- h0right-listここまで -->
+</div><!-- h0wrapここまで -->
+</div><!-- h0bgwrapここまで -->
+</div><!-- baserightここまで -->
+</div><!-- baseleftここまで -->
+</div><!-- baseallhここまで -->
+<hr class="vis"/>
+<hr/>
+</div><!-- basealltここまで -->
+<!-- ▲ヘッダーここまで▲ -->
+<hr/>
+<div class="baseall">
+<div id="main-box">
+<!-- ▼メインコンテンツここから▼ -->
+<div class="guidance"><a id="CONT" name="CONT"><img alt="本文ここから" height="1" src="/images/spacer.gif" width="1"/></a></div>
+<!-- ↑ write in header ↑ -->
+<div class="smph_only">
+<div><h1>酒田市</h1></div>
+</div>
+<div class="clearfix" id="infoarea0">
+<!--▽グローバルナビ▽-->
+<div class="g-navi" id="globalnavi">
+<div class="g-navi_bg">
+<div class="mainbox-l">
+<div id="gnb">
+<ul class="gnavi clearfix">
+<li class="gnb01"><a href="/kurashi/index.html"><span>くらし</span></a></li>
+<li class="gnb02"><a href="/kosodate/index.html"><span>子育て・教育</span></a></li>
+<li class="gnb03"><a href="/kenko/index.html"><span>健康・福祉</span></a></li>
+<li class="gnb04"><a href="/jyutaku/index.html"><span>住宅・都市環境・空き家</span></a></li>
+<li class="gnb05"><a href="/bunka/index.html"><span>文化・スポーツ・交流</span></a></li>
+<li class="gnb06"><a href="/sangyo/index.html"><span>産業・観光</span></a></li>
+<li class="gnb07"><a href="/shisei/index.html"><span>市政情報</span></a></li>
+<li class="gnb08"><a href="/bousai/index.html"><span>防災・消防・救急<span class="gnb08_pc_block"><span class="gnb08_pc_none">・</span>ハザードマップ</span></span></a></li>
+<li class="gnb09"><a href="/kenko/iryo/iryokikan/shinryojyo/shinryoujyo-oshirase.html"><span class="gnb09">休日診療</span></a><a href="/kurashi/soudan/index.html"><span class="gnb10">各種相談</span></a></li>
+</ul>
+<ul class="headlist headlist_smph">
+<!-- ZoomSightクラウド型 -->
+<li><p><a href="https://www.zoomsight-sv.jp/SKT/controller/index.html#https://www.city.sakata.lg.jp/">音声読上げ・文字拡大</a></p></li>
+<li><p><a href="/homepage/Multilingual.html">multilingual</a></p></li>
+<li><p><a href="/sitemap.html">サイトマップ</a></p></li>
+<li><p><a href="/shisei/kouho/homepage/saitonituitekoho.html">このサイトについて</a></p></li>
+</ul>
+</div>
+</div>
+</div><!-- g-navi_bgここまで -->
+</div><!-- globalnaviここまで -->
+<!--△グローバルナビ△-->
+<div class="mainbox-r">
+<div id="mainimg">
+<div class="main-slider clearfix">
+<div class="main-img">
+<a class="externalLink newWindow" href="https://sakata-ouen.jp/" rel="noopener noreferrer" target="_blank"><img alt="市内加盟店で使える酒田市生活応援商品券" height="450" src="index.images/20260701_seikatsuouen.jpg" width="930"/></a></div>
+<div class="main-img">
+<a class="externalLink newWindow" href="https://sakata-hanabi.com/" rel="noopener noreferrer" target="_blank"><img alt="酒田の花火　つなぐ絆、未来に響け一万発" height="450" src="index.images/sakatahanabi_2026.jpg" width="930"/></a></div>
+<div class="main-img">
+<a class="innerLink" href="/shisei/kaikaku/advertisement/NamingRight.html"><img alt="ネーミングライツパートナー募集" height="450" src="index.images/HP_naming.png" width="930"/></a></div>
+<div class="main-img">
+<a class="innerLink" href="/kenko/iryo/nettyusho/nettyuusyouyobou.html"><img alt="熱中症に注意しましょう" height="450" src="index.images/nettyuusyou_01.jpg" width="930"/></a></div>
+<div class="main-img">
+<a class="innerLink" href="/kurashi/doubutsu/yasei/kankyo0320260415.html"><img alt="酒田市内でクマ出没中" height="450" src="index.images/webtop_kuma_2026.jpg" width="930"/></a></div>
+</div>
+</div><!-- /div mainimg -->
+</div><!-- /div mainbox-r -->
+<!--△メインスライダー△-->
+</div><!-- / infoarea0 -->
+<div class="bousai"></div>
+<div id="infoarea1">
+<div class="clearfix infoarea-in" id="infoarea">
+<div id="infoarea1-l">
+<div id="basebgwrap">
+<div class="clearfix" id="basewrap">
+<div id="topheadlink">
+<div class="search_top clearfix">
+<h2>キーワードでさがす</h2>
+<div class="search-wp clearfix">
+<form action="search.html" method="get">
+<div class="search-box"><img alt="サイト検索：キーワードを入力してください。" height="1" src="/images/spacer.gif" width="1"/>
+<div class="search_txt_box"><input maxlength="255" name="q" size="23" title="検索" type="text" value=""/></div>
+<div class="search_submit"><input name="btnG" type="submit" value="検索"/></div>
+<input name="cx" type="hidden" value="001717714555090586246:cwh2zsjgizy"/>
+<input name="cof" type="hidden" value="FORID:9"/>
+<input name="ie" type="hidden" value="UTF-8"/>
+<input name="oe" type="hidden" value="UTF-8"/>
+<input name="whence" type="hidden" value="0"/>
+</div>
+</form>
+</div>
+</div><!-- search_top clearfix -->
+</div>
+</div>
+</div>
+</div><!-- infoarea1-l ここまで -->
+<div id="infoarea1-r">
+<div class="sns">
+<h2>酒田市公式SNS</h2>
+<ul class="clearfix">
+<li><div class="sns-img"><a class="externalLink newWindow" href="https://x.com/City_Sakata" rel="noopener noreferrer" target="_blank"><img alt="酒田市公式エックス" height="55" src="index.images/X_Logo.png" width="55"/></a></div></li>
+<li><div class="sns-img"><a class="externalLink newWindow" href="https://www.instagram.com/sakata_city_official/" rel="noopener noreferrer" target="_blank"><img alt="酒田市公式インスタグラム　＃酒田みっけ" height="55" src="index.images/instagram.png" width="55"/></a></div></li>
+<li><div class="sns-img"><a class="externalLink newWindow" href="https://www.youtube.com/user/sakatacity" rel="noopener noreferrer" target="_blank"><img alt="酒田市公式ユーチューブ" height="55" src="index.images/youtube.png" width="55"/></a></div></li>
+<li><div class="sns-img"><a class="innerLink" href="/shisei/dx/koshiki_line_mypage/sakataLINE_kinou.html"><img alt="酒田市公式ラインアカウント" height="55" src="index.images/LINE-APP.png" width="55"/></a></div></li>
+<li><div class="sns-img"><a class="externalLink newWindow" href="https://www.facebook.com/sakatacity/" rel="noopener noreferrer" target="_blank"><img alt="酒田市役所フェイスブック" height="55" src="index.images/facebook.png" width="55"/></a></div></li>
+<li><div class="sns-img"><a class="externalLink newWindow" href="https://sakata-city.note.jp/" rel="noopener noreferrer" target="_blank"><img alt="酒田市公式ノート" height="55" src="index.images/note.png" width="55"/></a></div></li>
+</ul>
+</div><!-- sns -->
+</div><!-- infoarea1-r -->
+</div><!-- infoarea-in infoarea -->
+</div><!-- infoarea1ここまで -->
+<div id="infoarea1-bottom">
+<div class="infoarea-in">
+<div class="kankou">
+<h2>観光サイト</h2>
+<ul class="clearfix kankou-slider">
+<li class="img-li"><div class="kankou-img"><a class="externalLink newWindow" href="https://sakata-kankou.com/" rel="noopener noreferrer" target="_blank"><img alt="酒田観光物産協会・酒田DMOの画像" height="90" src="index.images/2019sakatasanpo_banner_2026.png" width="260"/><span class="kankoutext">酒田観光物産協会・酒田DMO</span></a></div></li>
+<li class="img-li"><div class="kankou-img"><a class="externalLink newWindow" href="https://sakatacity.com/" rel="noopener noreferrer" target="_blank"><img alt="Official Tourism Websiteの画像" height="90" src="index.images/2019sakatatourism_banner_2026.png" width="260"/><span class="kankoutext">Official Tourism Website</span></a></div></li>
+<li class="img-li"><div class="kankou-img"><a class="externalLink newWindow" href="https://www3.city.sakata.lg.jp/camera/" rel="noopener noreferrer" target="_blank"><img alt="さかたwebカメラの画像" height="90" src="index.images/webcam_2026.png" width="260"/></a></div></li>
+<li class="img-li"><div class="kankou-img"><a class="externalLink newWindow" href="https://chokaitobishima.com/" rel="noopener noreferrer" target="_blank"><img alt="鳥海山・飛島ジオパークのアイコン画像" height="90" src="index.images/kankob_geopark_2026.png" width="260"/><span class="kankoutext">鳥海山・飛島ジオパーク推進協議会</span></a></div></li>
+</ul>
+</div>
+</div>
+</div><!-- infoarea1-bottom -->
+<div id="infoarea5">
+<div class="infoarea-in">
+<!-- ▼新着情報ここから▼ -->
+<div id="info-1">
+<ul class="info-select clearfix">
+<li class="li1"><a id="infoli-1" name="infoli-1"><span>新着情報</span></a></li>
+<li class="li2"><a href="#infoli-2" onclick="displayNews('2','1','info-'); return false;"><span>イベント</span></a></li>
+<li class="li3"><a href="#infoli-3" onclick="displayNews('3','1','info-'); return false;"><span>募集情報</span></a></li>
+</ul>
+<div class="info-box clearfix">
+<ul class="info-list clearfix">
+<li><span class="date">2026年7月3日</span><span><a href="/kurashi/doubutsu/yasei/kankyo0320260415.html">令和8年度クマ目撃情報</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+<li><span class="date">2026年7月3日</span><span><a href="/sangyo/nogyo/nosanbutsu/nosei_AFFinfo.html">さかた農林水産業お役立ち情報</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+<li><span class="date">2026年7月3日</span><span><a href="/shisei/shiminsankasuishin/sakata-liqlid.html">「さかポス」にみなさんの声をお寄せください</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+<li><span class="date">2026年7月3日</span><span><a href="/kurashi/danjyo/kajishare.html">家事シェアで、暮らしをもっと心地よく</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+<li><span class="date">2026年7月3日</span><span><a href="/sangyo/kotsu/kotsu/pubcom_transport.html">酒田市地域公共交通計画（案）への意見公募（パブリックコメント）</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+<li><span class="date">2026年7月3日</span><span><a href="/shisei/nyusatsu/nyusatsukeiyaku.html">入札・契約</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+<li><span class="date">2026年7月2日</span><span><a href="/bousai/syobokyukyu/syobooshirase/sh.html">令和8年度山形県消防救助技術指導会に伴う訓練査閲の一般公開を行いました</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+<li><span class="date">2026年7月2日</span><span><a href="/kurashi/danjyo/r8with_event.html">令和8年度ウィズイベントレポート</a><img alt="" src="/images/c_icon_new.gif"/></span></li>
+</ul>
+<div class="ichiran"><a href="/allNewsList.html"><span class="arrow1">新着情報一覧</span></a></div>
+</div>
+</div><!--/info-1-->
+<!-- ▲新着情報ここまで▲ -->
+<!-- ▼イベントはここから▼ -->
+<div id="info-2">
+<ul class="info-select clearfix">
+<li class="li1"><a href="#infoli-1" onclick="displayNews('1','2','info-'); return false;"><span>新着情報</span></a></li>
+<li class="li2"><a id="infoli-2" name="infoli-2"><span>イベント</span></a></li>
+<li class="li3"><a href="#infoli-3" onclick="displayNews('3','2','info-'); return false;"><span>募集情報</span></a></li>
+</ul>
+<div class="info-box clearfix">
+<ul class="info-list clearfix">
+<li><span class="date">2026年07月02日</span><span><a href="/kenko/syogaifukushi/baza-kaisai.html">はっぴいバザー開催のお知らせ</a></span></li><li><span class="date">2026年07月01日</span><span><a href="/kenko/kokoronokenko/kenkokouenkai.html">市民健康講演会「人間関係に揺れるこころのセルフケア」</a></span></li><li><span class="date">2026年07月01日</span><span><a href="/bunka/bunkazai/bunkazaievent/abumiWSR080712.html">旧鐙屋修復工事見学会</a></span></li><li><span class="date">2026年07月01日</span><span><a href="/kenko/kenko/kenkozoushin/kintore.html">筋力トレーニング器具利用講習会 </a></span></li><li><span class="date">2026年06月29日</span><span><a href="/kosodate/kyouiku/kyouikukatsudou/monozukuri.html">中村ものづくり事業</a></span></li><li><span class="date">2026年06月25日</span><span><a href="/kosodate/syakaikyoiku/syogaigakusyu/shakaioteme.html">高校生による茶会&amp;小学生の茶道体験参加者募集</a></span></li><li><span class="date">2026年06月24日</span><span><a href="/sangyo/mtsuri/nenkanevent/august/2024hiratamentama.html">第40回庄内ひらた目ん玉夏まつり</a></span></li><li><span class="date">2026年06月18日</span><span><a href="/kosodate/kosodate/asobiba/asobibanooshorase.html">子どもの遊び場 あのもしぇパーク</a></span></li>
+</ul>
+<!-- top_newinfo_end -->
+<div class="ichiran"><a href="/event/calendar/list_calendar.html"><span class="arrow1">イベント一覧</span></a></div>
+</div>
+</div><!--/info-2-->
+<!-- ▲イベントはここまで▲ -->
+<!-- ▼募集情報ここから▼ -->
+<div id="info-3">
+<ul class="info-select clearfix">
+<li class="li1"><a href="#infoli-1" onclick="displayNews('1','3','info-'); return false;"><span>新着情報</span></a></li>
+<li class="li2"><a href="#infoli-2" onclick="displayNews('2','3','info-'); return false;"><span>イベント</span></a></li>
+<li class="li3"><a id="infoli-3" name="infoli-3"><span>募集情報</span></a></li>
+</ul>
+<div class="info-box clearfix">
+<ul class="info-list clearfix">
+<li><span class="date">2026年07月03日</span><span><a href="/shisei/shiminsankasuishin/sakata-liqlid.html">みなさんの声を集める仕組み「さかポス」</a></span></li><li><span class="date">2026年07月01日</span><span><a href="/kenko/kokoronokenko/kenkokouenkai.html">市民健康講演会「人間関係に揺れるこころのセルフケア」</a></span></li><li><span class="date">2026年06月25日</span><span><a href="/kosodate/syakaikyoiku/syogaigakusyu/shakaioteme.html">高校生による茶会&amp;小学生の茶道体験参加者募集</a></span></li><li><span class="date">2026年06月01日</span><span><a href="/shisei/kaikaku/advertisement/NamingRight.html">ネーミングライツパートナーを募集します</a></span></li><li><span class="date">2026年04月27日</span><span><a href="/kurashi/kekkon/sapo_bosyu.html">結婚サポーターを募集します</a></span></li><li><span class="date">2026年03月03日</span><span><a href="/kurashi/kekkon/kekkon_saposen.html">酒田市結婚サポートセンター</a></span></li><li><span class="date">2026年03月02日</span><span><a href="/kosodate/kosodate/kosodateshien/hitorioyagakushu.html">ひとり親家庭などの学習支援教室参加者募集</a></span></li><li><span class="date">2026年02月19日</span><span><a href="/bunka/geijyutsu/tenjievent/voids.html">東京藝大×酒田市《voidsー空洞》展示会＆ワークショップ</a></span></li>
+</ul>
+<div class="ichiran"><a href="/category/bosyu/index.html"><span class="arrow1">募集情報一覧</span></a></div>
+</div>
+</div><!--/info-3-->
+<!-- ▲募集情報ここまで▲ -->
+</div><!-- infoarea-in -->
+</div><!-- infoarea5 -->
+<div id="infoarea2">
+<div id="kurashi">
+<div class="area-box-bottom">
+<h2 class="menu-title"><span class="menu-btn">暮らしのできごとから探す</span></h2>
+<div class="menu-box">
+<ul class="clearfix">
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kosodate/ninshin/index.html"><img alt="妊娠・出産のアイコン" height="65" src="index.images/kurashi_01_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">妊娠・出産</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kosodate/kosodate/index.html"><img alt="子育てのアイコン" height="65" src="index.images/kurashi_02_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">子育て</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kosodate/kyouiku/index.html"><img alt="入学のアイコン" height="65" src="index.images/kurashi_03_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">入学</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kurashisearch/kekkon-rikon/index.html"><img alt="結婚・離婚のアイコン" height="65" src="index.images/kurashi_04_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">結婚・離婚</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kurashi/todokede/jyusyohenko/index.html"><img alt="引っ越しのアイコン" height="65" src="index.images/kurashi_05_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">引っ越し</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kurashisearch/shushoku-taishoku/index.html"><img alt="就職・退職のアイコン" height="65" src="index.images/kurashi_06_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">就職・退職</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kenko/kaigohoken/index.html"><img alt="介護のアイコン" height="65" src="index.images/kurashi_07_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">介護</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kurashisearch/okuyami/index.html"><img alt="おくやみのアイコン" height="65" src="index.images/kurashi_08_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">おくやみ</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kurashi/gomi/index.html"><img alt="ごみのアイコン" height="65" src="index.images/kurashi_09_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">ごみ</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/kurashi/jogesuido/index.html"><img alt="上下水道のアイコン" height="65" src="index.images/kurashi_10_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">上下水道</span></div></a></div></div></div></li>
+</ul>
+</div>
+</div>
+</div>
+</div><!-- infoarea2ここまで -->
+<div id="infoarea3">
+<div id="mokuteki">
+<div class="area-box-bottom">
+<h2 class="menu-title"><span class="menu-btn">目的から探す</span></h2>
+<div class="menu-box">
+<ul class="clearfix">
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/shisei/nyusatsu/nyusatsukeiyaku.html"><img alt="入札・契約のアイコン" height="65" src="index.images/mokuteki_01_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">入札・契約</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/shisei/koubai/index.html"><img alt="公売・売却のアイコン" height="65" src="index.images/mokuteki_02_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">公売・売却</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/shisei/shinsei/index.html"><img alt="申請・予約のアイコン" height="65" src="index.images/mokuteki_03_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">申請・予約</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/sangyo/kotsu/runrunbas/index.html"><img alt="るんるんバスのアイコン" height="65" src="index.images/mokuteki_04_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">るんるんバス</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/sangyo/kotsu/kouwan/index.html"><img alt="酒田港のアイコン" height="65" src="index.images/mokuteki_05_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">酒田港</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/sangyo/kotsu/teikisen/index.html"><img alt="定期船のアイコン" height="65" src="index.images/mokuteki_06_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">定期船</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/shisei/furusatonouzei/index.html"><img alt="ふるさと納税のアイコン" height="65" src="index.images/mokuteki_07_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">ふるさと納税</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/shisei/ijyu/ijusodansogomadoguti.html"><img alt="移住のアイコン" height="65" src="index.images/mokuteki_08_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">移住</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/shisei/kouho/kouhosakata/kohosaishin.html"><img alt="広報紙のアイコン" height="65" src="index.images/mokuteki_09_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">広報紙</span></div></a></div></div></div></li>
+<li class="img-li"><div class="overlay"><div class="kurashi-img"><div class="img-area"><a class="innerLink" href="/shisei/shigikai/sakatashigikai.html"><img alt="議会のアイコン" height="65" src="index.images/mokuteki_10_2026.png" width="65"/><div class="kurashibox"><span class="kurashitext">議会</span></div></a></div></div></div></li>
+</ul>
+</div>
+</div>
+</div>
+</div><!-- infoarea3ここまで -->
+<div id="infoarea4">
+<div class="infoarea-in">
+<div id="bannerlist">
+<div class="area-box-bottom">
+<h2><span>トピックス</span></h2>
+<ul class="clearfix">
+<li class="listimg"><a class="innerLink" href="/shisei/shicyou/index.html"><img alt="市長の部屋" height="100" src="index.images/shicyonoheya_2026.png" width="210"/></a></li>
+<li class="listimg"><a class="innerLink" href="/bousai/bousai/index.html"><img alt="令和6年7月25日からの大雨災害に関する情報" height="100" src="index.images/0725ooamesaigai-s_2026.png" width="210"/></a></li>
+<li class="listimg"><a class="innerLink" href="/kurashi/mynocard/mynumber_shinseiji.html"><img alt="マイナンバーを作りませんか" height="100" src="index.images/0725_2026.png" width="210"/></a></li>
+<li class="listimg"><a class="innerLink" href="/qa/index.html"><img alt="よくある質問" height="100" src="index.images/toiawase_2026.png" width="210"/></a></li>
+<li class="listimg"><a class="externalLink newWindow" href="https://www4.zoomsight-sv2.jp/SKT/ja/controller/index.html#https://www.city.sakata.lg.jp/" rel="noopener noreferrer" target="_blank"><img alt="音声読み上げ・文字の拡大" height="100" src="index.images/onsei_2026.png" width="210"/></a></li>
+</ul>
+</div>
+</div>
+</div><!-- infoarea-in -->
+</div><!-- infoarea4ここまで -->
+<div id="infoarea6"><!-- グループ修正新エリア注目施策 -->
+<div class="infoarea-in">
+<div class="cyumoku-box clearfix">
+<div id="slide_space">
+<ul class="clearfix bxslider">
+<li class="pagelinkbtout"><p class="pagelinkbt"><a class="innerLink" href="/shisei/dx/index.html"><img alt="デジタル変革（デジタルで暮らしやすい街へ）" height="70" src="index.images/0131dx_2026.png" width="210"/></a></p></li>
+<li class="pagelinkbtout"><p class="pagelinkbt"><a class="externalLink newWindow" href="https://www.sakata-iju.jp/" rel="noopener noreferrer" target="_blank"><img alt="酒田市移住ポータルサイト" height="70" src="index.images/atsakata_logo_2026.png" width="210"/></a></p></li>
+<li class="pagelinkbtout"><p class="pagelinkbt"><a class="innerLink" href="/shisei/shisakukeikaku/chiikisouseibu/joseiouenportal/index.html"><img alt="酒田市女性応援ポータルサイト" height="70" src="index.images/joseiouenbanner_2026.jpg" width="210"/></a></p></li>
+<li class="pagelinkbtout"><p class="pagelinkbt"><a class="innerLink" href="/shisei/furusatonouzei/kigyoubanhurunou.html"><img alt="企業版ふるさと納税" height="70" src="index.images/kigyoubanhurusato_2026.png" width="210"/></a></p></li>
+<li class="pagelinkbtout"><p class="pagelinkbt"><a class="externalLink newWindow" href="https://sanroku.jp/" rel="noopener noreferrer" target="_blank"><img alt="酒田市産業振興まちづくりセンター" height="70" src="index.images/sanroku_2026.jpg" width="210"/></a></p></li>
+</ul>
+</div>
+</div>
+</div><!-- infoarea-in -->
+</div><!-- infoarea6ここまで -->
+<!-- scs_jyogai_start -->
+<hr/>
+<div class="ad-box clearfix">
+<h2>広告</h2>
+<ul class="clearfix">
+<li class="pagelinkbt"><p class="ad"><a href="https://www.mod.go.jp/pco/yamagata/sakata/sakata.html" target="_blank"><img alt="自衛隊山形地方協力本部酒田地域事務所" height="60" src="/banner/koukoku_jieitai_2.jpg" width="180"/></a></p></li><li class="pagelinkbt"><p class="ad"><a href="https://tire1ban.com" target="_blank"><img alt="タイヤ一番" height="60" src="/banner/new_tire1bancom180x60.gif" width="180"/></a></p></li><li class="pagelinkbt"><p class="ad"><a href="https://www.t-tosoh-chem.jp/" target="_blank"><img alt="東北東ソー化学株式会社" height="60" src="/banner/211213t-tosoh2.jpg" width="180"/></a></p></li><li class="pagelinkbt"><p class="ad"><a href="/shisei/kouho/jyohohasshin/hpkoukoku.html" target="_blank"><img alt="広告募集のバナー1" height="60" src="/banner/bosyu1.jpg" width="180"/></a></p></li>
+</ul>
+</div><!-- ad-boxここまで -->
+<!-- scs_jyogai_end -->
+<!-- ↓ write in footer ↓ -->
+</div><!-- main-boxここまで -->
+</div><!-- baseallここまで -->
+<hr/>
+<!-- ▼フッターここから▼ -->
+<div class="newpara guidance"><img alt="以下フッターです。" height="1" src="/images/spacer.gif" width="1"/></div>
+<div id="footer_all">
+<div class="tothispage clearfix"><div><a href="#PTOP">このページの先頭へ戻る</a></div></div>
+<div class="topfoot5bg">
+<div class="topfoot4bg">
+<div class="topfoot3bg">
+<div class="f_log"><a class="contact" href="https://www.city.sakata.lg.jp/index.html"><img alt="酒田市" src="/images/logo.png" width="260px"/></a></div>
+<div class="topf0add clearfix">
+<address>
+<span class="address-title">酒田市役所</span>
+					〒998-8540<br/>
+					山形県酒田市本町二丁目2番45号<br/>
+					電話：0234-22-5111（代表）<br/>
+					開庁時間：平日午前8時30分から午後5時15分<br/>
+					（祝日、12月29日～1月3日を除く）
+				</address>
+<div class="btn goiken"><a class="contact" href="https://www.city.sakata.lg.jp/shisei/goiken_otoiawase/mail.html"><img alt="市へのご意見" src="/images/f_iken_icon_2026.png" width="100"/><span>市へのご意見</span></a></div>
+</div><!-- /topf0add clearfix -->
+</div><!-- /topfoot3bg -->
+</div><!-- /topfoot4bg -->
+</div><!-- /topfoot5bg -->
+<p class="copyright">Copyright (C) City Sakata Yamagata Japan All Rights Reserved.</p>
+<div class="guidance foot_guidance"><img alt="フッターここまで" height="1" src="/images/spacer.gif" width="1"/><div class="page-top"><a href="#PTOP"><img alt="このページのトップに戻る" height="1" src="/images/spacer.gif" width="1"/></a></div></div>
+</div><!-- /div footer_all -->
+<!-- ▲フッターここまで▲ -->
+</div><!-- div/basebg -->
+</body>
+</html>

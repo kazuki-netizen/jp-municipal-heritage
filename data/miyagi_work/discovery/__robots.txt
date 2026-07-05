@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="ja"><!-- 0105 -->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1" />
+<title>宮城県七ヶ宿町WEBサイト</title>
+<meta name="description" content="宮城県七ヶ宿町のオフィシャルWEBサイトです。" >
+<meta name="keywords" content="七ヶ宿,観光ガイド,市町村,官公庁,七ヶ宿ダム,旅行,物産品,祭り,イベント,お宿情報,環境王国" >
+<meta property="og:locale" content="ja_JP">
+<meta property="og:site_name" content="宮城県七ヶ宿町WEBサイト">
+<meta property="og:type" content="website">
+<meta property="og:title" content="宮城県七ヶ宿町WEBサイト">
+<meta property="og:url" content="https://town.shichikashuku.miyagi.jp/">
+<meta property="og:description" content="宮城県七ヶ宿町のオフィシャルWEBサイトです。">
+<meta property="og:image" content="https://town.shichikashuku.miyagi.jp/img/site_logo.png">
+<link href="https://town.shichikashuku.miyagi.jp/style.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link href="https://town.shichikashuku.miyagi.jp/page.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link href="https://town.shichikashuku.miyagi.jp/responsive.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://town.shichikashuku.miyagi.jp/js/meanmenu.css" rel="stylesheet" media="screen" />
+<link href="https://town.shichikashuku.miyagi.jp/js/jquery.bxslider.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link rel="shortcut icon" href="https://town.shichikashuku.miyagi.jp/favicons/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="https://town.shichikashuku.miyagi.jp/favicons/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" sizes="57x57" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://town.shichikashuku.miyagi.jp/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://town.shichikashuku.miyagi.jp/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://town.shichikashuku.miyagi.jp/favicons/favicon-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="https://town.shichikashuku.miyagi.jp/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://town.shichikashuku.miyagi.jp/favicons/favicon-160x160.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://town.shichikashuku.miyagi.jp/favicons/favicon-196x196.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://town.shichikashuku.miyagi.jp/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://town.shichikashuku.miyagi.jp/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="manifest" href="https://town.shichikashuku.miyagi.jp/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#2d88ef">
+<meta name="msapplication-TileImage" content="favicons/mstile-144x144.png">
+<script type="text/javascript" src="https://town.shichikashuku.miyagi.jp/js/jquery.js"></script>
+<script type="text/javascript" src="https://town.shichikashuku.miyagi.jp/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://town.shichikashuku.miyagi.jp/js/jquery.bxslider.js"></script>
+<script type="text/javascript" src="https://town.shichikashuku.miyagi.jp/js/yuga.js"></script>
+<script type="text/javascript" src="https://town.shichikashuku.miyagi.jp/js/common.js"></script>
+<script type="text/javascript" src="https://town.shichikashuku.miyagi.jp/js/jquery.meanmenu.js"></script>
+</head>
+<body>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B3EXB0DNW9"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-B3EXB0DNW9');
+</script>
+<!-- [start]container -->
+<div id="container">
+<!-- [start]header -->
+<div id="header">
+<div class="head-box">
+<h1 class="site-logo"><a href="https://town.shichikashuku.miyagi.jp/"><img src="https://town.shichikashuku.miyagi.jp/img/site_logo.png" alt="宮城県七ヶ宿町WEBサイト" /></a></h1>
+<div class="site-chara"><img src="https://town.shichikashuku.miyagi.jp/img/site_chara.png" alt=""></div>
+</div>
+<div class="head-rbox">
+<div class="head-rtbox">
+<ul>
+<li>
+<form method="get" action="https://town.shichikashuku.miyagi.jp/cgi-bin/mt-system/mt-search.cgi">
+<input type="text" id="search" placeholder="サイト内検索" name="search" value="" />
+<input type="hidden" name="IncludeBlogs" value="8,9,10,11,12,13,14,15,20" />
+<input type="hidden" name="blog_id" value="8" />
+<input type="submit" class="btn-search" value="検 索" />
+</form>
+</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/language/">Foreign Language</a></li>
+</ul>
+</div>
+<div class="head-rbbox">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/bus.html"><img src="https://town.shichikashuku.miyagi.jp/img/hh01.png" alt="">町営バス</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/clinic-holiday.html"><img src="https://town.shichikashuku.miyagi.jp/img/hh02.png" alt="">休日当番医</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/shinsei/" class="btn-dl"><img src="https://town.shichikashuku.miyagi.jp/img/hh03.png" alt="">申請書類ダウンロード</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- [end]header -->
+<!-- [start]hmenu -->
+<div id="hmenu">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/" class="head">トップ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/info/">お知らせ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/">町民の方へ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/">事業者の方へ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/" class="last">七ヶ宿町について</a></li>
+</ul>
+</div>
+<!-- [end]hmenu -->
+<!-- [start]contents -->
+<div id="contents">
+<!-- [start]wrapper -->
+<div id="wrapper">
+<!-- [start]main -->
+<div id="main">
+<div id="top-main"><!-- 0228 -->
+<div class="top-side-banner">
+<ul>
+</ul>
+</div>
+<div class="top-news-box upList">
+<div class="title-top"><img src="/g-share/img/hb08.png" alt="" /><span>新着情報</span></div>
+<div class="top-news-line">
+<dl class="homeNewsItem">
+<dt>2026.07.02</dt>
+<dd class="entryDate" datetime="2026-07-02"><a href="/life/work/#p2694">【令和８年６月分・７月分】ハローワークの求人情報！ を更新しました</a></dd>
+<!--   -->
+</dl>
+<dl class="homeNewsItem">
+<dt>2026.07.01</dt>
+<dd class="entryDate" datetime="2026-07-01"><a href="https://town.shichikashuku.miyagi.jp/info/bid/#p2698">令和9年4月1日採用の七ヶ宿町職員を募集します（行政） を更新しました</a></dd>
+<!--   -->
+</dl>
+<dl class="homeNewsItem">
+<dt>2026.07.01</dt>
+<dd class="entryDate" datetime="2026-07-01"><a href="/life/work/#p2643">夢のマイホームが無償であなたの手に！！【令和８年９月３０日〆】 を更新しました</a></dd>
+<!--   -->
+</dl>
+<dl class="homeNewsItem">
+<dt>2026.07.01</dt>
+<dd class="entryDate" datetime="2026-07-01"><a href="https://town.shichikashuku.miyagi.jp/town/outline.html">七ヶ宿町の概要を更新しました</a></dd>
+<!--   -->
+</dl>
+<dl class="homeNewsItem">
+<dt>2026.06.30</dt>
+<dd class="entryDate" datetime="2026-06-30"><a href="https://town.shichikashuku.miyagi.jp/town/kouhou/2026/06/no7867.html">広報しちかしゅく7月号（No.786） を更新しました</a></dd>
+<!--   -->
+</dl>
+<dl class="homeNewsItem">
+<dt>2026.06.25</dt>
+<dd class="entryDate" datetime="2026-06-25"><a href="https://town.shichikashuku.miyagi.jp/life/water.html">上水道・下水道を更新しました</a></dd>
+<!--   -->
+</dl>
+</div>
+</div>
+<!-- [end]top-news-box -->
+<div class="top-news-box infoList">
+<div class="title-top"><img src="/g-share/img/hb03.png" alt="お知らせ" /><span>お知らせ</span>
+<div class="news-select">
+<select name="homeinfo" id="infoSelectTop">
+<option value="all" selected>すべて</option>
+<option value="news">お知らせ</option>
+<option value="event">イベント</option>
+<option value="topics">トピックス</option>
+<option value="bid">募集</option>
+</select>
+</div>
+</div>
+<div class="top-news-line">
+<dl class="homeNewsItem item_bid">
+<dt>
+<span class="icon-bid">募集</span>
+2026.07.01
+</dt>
+<dd class="entryDate" datetime="2026-07-01"><a href="https://town.shichikashuku.miyagi.jp/info/bid/#p2698">令和9年4月1日採用の七ヶ宿町職員を募集します（行政）</a></dd>
+</dl>
+<dl class="homeNewsItem item_event">
+<dt>
+<span class="icon-event">イベント</span>
+2026.06.12
+</dt>
+<dd class="entryDate" datetime="2026-06-12"><a href="https://town.shichikashuku.miyagi.jp/info/event/#p2559">第３８回わらじで歩こう七ヶ宿参加者募集中！！</a></dd>
+</dl>
+<dl class="homeNewsItem item_bid">
+<dt>
+<span class="icon-bid">募集</span>
+2026.05.28
+</dt>
+<dd class="entryDate" datetime="2026-05-28"><a href="https://town.shichikashuku.miyagi.jp/info/bid/#p2695">芸術の里づくり活動（一般創作）を行う地域おこし協力隊を募集します！</a></dd>
+</dl>
+<dl class="homeNewsItem item_news">
+<dt>
+<span class="icon-news">お知らせ</span>
+2026.04.27
+</dt>
+<dd class="entryDate" datetime="2026-04-27"><a href="https://town.shichikashuku.miyagi.jp/info/news/#p2683">町外への通勤者限定！ガソリン代最大1万2千円を支給します</a></dd>
+</dl>
+<dl class="homeNewsItem item_news">
+<dt>
+<span class="icon-news">お知らせ</span>
+2026.04.27
+</dt>
+<dd class="entryDate" datetime="2026-04-27"><a href="https://town.shichikashuku.miyagi.jp/info/news/#p2682">宮城県からのお知らせ「性暴力被害相談支援センター宮城（けやきホットライン）」について</a></dd>
+</dl>
+<dl class="homeNewsItem item_bid">
+<dt>
+<span class="icon-bid">募集</span>
+2026.03.26
+</dt>
+<dd class="entryDate" datetime="2026-03-26"><a href="https://town.shichikashuku.miyagi.jp/info/bid/#p2646">観光協会で活躍する地域おこし協力隊を募集します！</a></dd>
+</dl>
+<dl class="homeNewsItem item_event">
+<dt>
+<span class="icon-event">イベント</span>
+2026.03.13
+</dt>
+<dd class="entryDate" datetime="2026-03-13"><a href="https://town.shichikashuku.miyagi.jp/info/event/#p2651">水と歴史の館　「春の特別展」開催のお知らせ</a></dd>
+</dl>
+<dl class="homeNewsItem item_news">
+<dt>
+<span class="icon-news">お知らせ</span>
+2026.02.19
+</dt>
+<dd class="entryDate" datetime="2026-02-19"><a href="https://town.shichikashuku.miyagi.jp/info/news/#p2638">東北財務局からのお知らせ「自然災害による被災者の債務整理に関するガイドライン」について</a></dd>
+</dl>
+<dl class="homeNewsItem item_topics">
+<dt>
+<span class="icon-topics">トピックス</span>
+2026.01.27
+</dt>
+<dd class="entryDate" datetime="2026-01-27"><a href="https://town.shichikashuku.miyagi.jp/info/topics/#p2626">七ヶ宿中学校の日常　ホームページアップしました</a></dd>
+</dl>
+<dl class="homeNewsItem item_bid">
+<dt>
+<span class="icon-bid">募集</span>
+2026.01.26
+</dt>
+<dd class="entryDate" datetime="2026-01-26"><a href="https://town.shichikashuku.miyagi.jp/info/bid/#p2624">観光交流施設の運営を一緒に行う地域おこし協力隊を募集します！</a></dd>
+</dl>
+<dl class="homeNewsItem item_topics">
+<dt>
+<span class="icon-topics">トピックス</span>
+2025.10.07
+</dt>
+<dd class="entryDate" datetime="2025-10-07"><a href="https://town.shichikashuku.miyagi.jp/info/topics/#p2594">新しい学校づくりのためのワークショップ「かわらばんvol.02」を発行しました!</a></dd>
+</dl>
+<dl class="homeNewsItem item_topics">
+<dt>
+<span class="icon-topics">トピックス</span>
+2025.10.07
+</dt>
+<dd class="entryDate" datetime="2025-10-07"><a href="https://town.shichikashuku.miyagi.jp/info/topics/#p2593">新しい学校づくりのためのワークショップ「かわらばんvol.01」を発行しました!</a></dd>
+</dl>
+<dl class="homeNewsItem item_news">
+<dt>
+<span class="icon-news">お知らせ</span>
+2025.01.14
+</dt>
+<dd class="entryDate" datetime="2025-01-14"><a href="https://town.shichikashuku.miyagi.jp/info/news/#p2487">仙南広域行政事務組合から「公売のご案内」</a></dd>
+</dl>
+</div>
+</div>
+<!-- [end]top-news-box -->
+<div class="title-top title-le"><img src="/g-share/img/hb04.png" alt="こんなときには" /><span>こんなときには</span></div>
+<div class="top-le-box">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/proposal.html"><img src="/g-share/img/btn01.png" alt="結婚・離婚" /><br>
+<span>結婚・離婚</span></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/birth/"><img src="/g-share/img/btn02.png" alt="妊娠・出産" /><br>
+<span>妊娠・出産</span></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/child/"><img src="/g-share/img/btn03.png" alt="子育て" /><br>
+<span>子育て</span></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/child/nyugaku.html"><img src="/g-share/img/btn04.png" alt="入所・入学" /><br>
+<span>入所・入学</span></a>
+</ul>
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/kenkou/"><img src="/g-share/img/btn05.png" alt="健康・保険" /><br>
+<span>健康・保険</span></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/move.html"><img src="/g-share/img/btn06.png" alt="引越" /><br>
+<span>引越</span></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/clinic.html"><img src="/g-share/img/btn07.png" alt="病気" /><br>
+<span>病気</span></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/okuyami.html"><img src="/g-share/img/btn08.png" alt="おくやみ" /><br>
+<span>おくやみ</span></a></li>
+</ul>
+</div>
+<!-- [start]col-box -->
+<div class="col-box">
+<div class="col-lbox">
+<div class="title-top"><img src="/g-share/img/hb05.png" alt="よく見られているページ" /><span>よく見られているページ</span></div>
+<div class="top-his-box line-list">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/kenkou/">健康・保険</a></li>
+<li><a href="life/move.html">引越</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/child/">子育て</a></li>
+<li><a href="life/gomi.html">ゴミ</a></li>
+<li><a href="life/proposal.html">結婚・離婚</a></li>
+</ul>
+</div>
+</div>
+<div class="col-rbox">
+<div class="title-top"><img src="/g-share/img/hb06.png" alt="七ヶ宿町の計画・施策" /><span>七ヶ宿町の計画・施策</span></div>
+<div class="top-effort-box line-list">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/plan/upload_images/%E3%80%90%E4%BF%AE%E6%AD%A3%E5%BE%8C%E3%80%91%E4%B8%83%E3%83%B6%E5%AE%BF%E7%94%BA_%E6%A5%AD%E5%8B%99%E9%87%8F%E7%AE%A1%E7%90%86%E3%83%BB%E5%81%A5%E5%BA%B7%E7%A2%BA%E4%BF%9D%E6%8E%AA%E7%BD%AE%E5%AE%9F%E6%96%BD%E8%A8%88%E7%94%BB.pdf" target="_blank">七ヶ宿町立学校の教育職員に関する業務量管理・健康確保措置実施計画（令和8年度～令和10年度）</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/plan/upload_images/%E6%A7%98%E5%BC%8F5-2%E5%8F%B7.pdf" target="_blank">地域計画変更に係る公表について</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/plan/upload_images/%E4%B8%83%E3%83%B6%E5%AE%BF%E7%94%BA%20%E4%B8%8B%E6%B0%B4%E9%81%93%E4%BA%8B%E6%A5%AD%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5.pdf" target="_blank">七ヶ宿町下水道事業経営戦略</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/plan/upload_images/43011bd52d98459f51fe5355e92c02e59d82680f.pdf" target="_blank">令和６年度森林環境譲与税の使途に関する事項</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/plan/upload_images/%E4%B8%83%E3%83%B6%E5%AE%BF%E7%94%BA%E6%96%B0%E5%9E%8B%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E7%AD%89%E5%AF%BE%E7%AD%96%E8%A1%8C%E5%8B%95%E8%A8%88%E7%94%BB.pdf" target="_blank">七ヶ宿町新型インフルエンザ等対策行動計画（改定版）</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- [end]top-col-box -->
+<!-- [start]col-box -->
+<div class="col-box">
+<div class="col-lbox">
+<div class="top-banner"><a href="https://town.shichikashuku.miyagi.jp/life/child/nyugaku.html"><img src="/g-share/img/bb01.jpg" alt="しちかしゅくの学校教育" /></a></div>
+<div class="top-banner"><a href="https://7kashuku.jp/facility/kuraken/" target="_blank"><img src="/g-share/img/bb02.jpg" alt="七ヶ宿くらし研究所" /></a></div>
+</div>
+<div class="col-rbox">
+<div class="title-top"><img src="img/hb07.png" alt="しちかしゅくの扉" /><span>しちかしゅくの扉</span></div>
+<!-- [start]top-slide-box -->
+<div class="top-slide-box">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLxeYg_8KX3fNCze1HbqKKxnUUAwXd04d8" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+<!-- [end]top-col-box -->
+</div>
+<!-- [end]top-main -->
+<!-- [end]top-side -->
+<div id="top-side">
+<div class="top-camera-box">
+<div id="top-main-camera">
+<a href="https://town.shichikashuku.miyagi.jp/webcamera/"><img src="https://shichikashuku.jp/livecam007/yakuba.jpg" alt="現在の七ヶ宿町役場前のようす" ></a>
+</div>
+<div class="top-camera-title"><a href="https://town.shichikashuku.miyagi.jp/webcamera/">七ヶ宿町ライブカメラ</a></div>
+</div>
+<div class="top-side-banner">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/sightseeing/" target="_blank"><img src="/g-share/img/sb01.jpg" alt="七ヶ宿町観光ガイド" /></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/its/" target="_blank"><img src="/g-share/img/sb08.jpg" alt="宮城県七ヶ宿町「しちかしゅ暮らし」　移住・定住総合ポータルサイト" /></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/kos/" target="_blank"><img src="/g-share/img/sb03.jpg" alt="子育て応援！" /></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/social-networking-service/post.html" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/upload_images/2bb4a37074c3bfabddddacfa3ac35f9ecc9c748c.png" alt="七ヶ宿町公式Facebook公式ソーシャルネットワークサービス" /></a></li>
+<li><a href="https://www.facebook.com/shichikashukuchu/" target="_blank"><img src="/g-share/img/sb_fb_sichikashukuchu.png" alt="七ヶ宿町立七ヶ宿中学校 Facebook"></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/greeting.html" class="btn-greeting"><img src="/g-share/img/sb05.png" alt="" /><span>町長の部屋</span></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/gikai/" class="btn-gikai"><img src="/g-share/img/sb06.jpg" alt="" /><span>議会</span></a></li>
+</ul>
+</div>
+<div class="top-ol-box" id="jinkoBox">
+<div class="top-map"><img src="/g-share/img/sb07.png" alt=""></div>
+<div id="jinko">
+<div id="jinko_total">1,137</div>
+<div id="jinko_mandf">567<br>
+570</div>
+<div class="clearfloat"> </div>
+<div id="jinko_setai">560</div>
+</div>
+</div>
+<div class="top-kouhou-box">
+<a href="https://town.shichikashuku.miyagi.jp/town/kouhou/">
+<img src="https://town.shichikashuku.miyagi.jp/town/kouhou/assets_c/2026/06/661c304fd60dc3530d7d3ce8384032cc66d2c279-thumb-autox140-8650.jpg" alt="">
+<span>広報<br>しちかしゅく</span></a>
+</div>
+</div>
+<!-- [end]top-side -->
+</div>
+<!-- [end]main -->
+<!-- [start]side -->
+<div id="side" class="pc">
+<div class="title-top"><img src="https://town.shichikashuku.miyagi.jp/img/hb01.png" alt="くらしの情報" /><span>くらしの情報</span></div>
+<div class="smenu">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/certificate.html">手続き・届出</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/proposal.html">結婚・離婚</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/birth/">妊娠・出産</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/child/">子育て</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/kenkou/">健康・保険</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/fukushi/">介護・福祉</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/move.html">引越</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/clinic.html">病気</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/okuyami.html">おくやみ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/bousai.html">防災</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/work/index.html">住まい・仕事</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/gomi.html">ごみ情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/water.html">上水道・下水道</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/zeikin/">税金</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/pet.html">ペット</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/shisetsu.html">公共施設</a></li>
+</ul>
+</div>
+<div class="title-top"><img src="https://town.shichikashuku.miyagi.jp/img/hb02.png" alt="事業者向けの情報　" /><span>事業者向けの情報　</span></div>
+<div class="smenu">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/bid/">入札情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/bid-sanka/">入札参加資格申請</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/houjin-zei.html">法人町民税</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/koukoku.html">広告募集</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/shiharai.html">町の支払いについて</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/furusatonouzei-biz.html">企業版ふるさと納税</a></li>
+</ul>
+</div>
+<div class="sbtn-box">
+<div class="sbtn"><a href="https://town.shichikashuku.miyagi.jp/houshanou/">放射能情報</a></div>
+<div class="sbtn"><a href="https://town.shichikashuku.miyagi.jp/life/bus.html">町営バス</a></div>
+<div class="sbtn"><a href="https://town.shichikashuku.miyagi.jp/life/clinic.html#p02">休日当番医</a></div>
+<div class="sbtn"><a href="https://town.shichikashuku.miyagi.jp/shinsei/">申請書類ダウンロード</a></div>
+<div class="sbtn"><a href="https://town.shichikashuku.miyagi.jp/town/access.html">交通アクセス</a></div>
+<div class="sbtn"><a href="https://town.shichikashuku.miyagi.jp/town/office.html">組織案内</a></div>
+<div class="sbtn"><a href="/town/gyosei/reiki_int/reiki_menu.html">七ヶ宿町例規集</a></div>
+</div>
+</div>
+<!-- [end]side -->
+<!-- moving Pochon -->
+<div id="pochonMove">
+<p class="pochon08"><img src="/g-share/img/pochon/pochon008.png" width="60" alt=""/></p>
+<p class="pochon10"><img src="/g-share/img/pochon/pochon010.png" width="100" alt=""/></p>
+<p class="pochon07"><img src="/g-share/img/pochon/pochon007.png" width="40" alt=""/></p>
+<p class="pochon03"><img src="/g-share/img/pochon/pochon003.png" width="83" alt=""/></p>
+<p class="pochon01"><img src="/g-share/img/pochon/pochon001.png" width="100" alt=""/></p>
+<p class="pochon02"><img src="/g-share/img/pochon/pochon002.png" width="73" alt=""/></p>
+<p class="pochon09"><img src="/g-share/img/pochon/pochon009.png" width="80" alt=""/></p>
+<p class="pochon04"><img src="/g-share/img/pochon/pochon004.png" width="83" alt=""/></p>
+</div>
+</div>
+<!--[end]wrapper -->
+<div class="fbanner-box">
+<ul>
+<li><a href="https://www.az9.or.jp/index.php" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2025/06/8f9c9b6f6101e344945d1e82995e20729326ceb5-thumb-400xauto-7893.jpg" alt="仙南地域広域行政事務組合"></a></li>
+<li><a href="https://7kashuku.jp/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2018/01/69a561a17892202eeb045e662d4cadf5b9d192cd-thumb-400xauto-2437.jpg" alt="まちづくり株式会社"></a></li>
+<li><a href="https://7kashuku.jp/facility/kuraken/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2018/01/785b89562ace0071725cc3c5633d58ce16deb793-thumb-400xauto-2436.jpg" alt="七ヶ宿くらし研究所"></a></li>
+<li><a href="https://zao-7kashuku.jp/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2025/08/17bea3227ced2574502a1fc1cd1a40d3e6e26910-thumb-400xauto-7993.png" alt="みきぎ蔵王 七ヶ宿スキー場"></a></li>
+<li><a href="https://nanasto7.com/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2021/02/nanairostore_banner-thumb-400xauto-4766.jpg" alt="なないろすとあ"></a></li>
+<li><a href="https://www.satofull.jp/products/list.php?s3=1031&cnt=60&p=1" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2021/08/da3f09f9cc8bc205195bd789b86af6e9410bc2e6-thumb-400xauto-5211.jpg" alt="ふるさと納税（さとふる）"></a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/furusato-nouzei/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2017/02/fb01-thumb-400xauto-469.png" alt="しちかしゅくふるさと納税"></a></li>
+<li><a href="http://www.thr.mlit.go.jp/shichika/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2017/02/fb02-thumb-400xauto-468.png" alt="七ヶ宿ダム"></a></li>
+<li><a href="http://www.nanayado.miyagi-fsci.or.jp/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2017/02/fb04-thumb-400xauto-467.png" alt="七ヶ宿町商工会"></a></li>
+<li><a href="https://www.nanamori-kikori.website/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2021/08/c71917d9de98d412292e8726d043084c696a2ad0-thumb-400xauto-5198.png" alt="七ヶ宿町森林組合"></a></li>
+<li><a href="https://mugentobo.tumblr.com/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2020/04/e2a2d700852690038218615b3934864249c1a6ad-thumb-400xauto-4190.jpg" alt="無限陶房HP"></a></li>
+<li><a href="https://miyagi-ijuguide.pref.miyagi.jp/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2025/03/miyagi_kouryu_guide_bannur_728_90_0324-thumb-400xauto-7660.jpg" alt=""></a></li>
+<li><a href="https://www.iju-join.jp/chiikiokoshi/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2017/02/fb03-thumb-400xauto-466.png" alt="地域おこし協力隊"></a></li>
+<li><a href="https://sites.google.com/kankyokingdom.org/kankyokingdom" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2017/02/fb06-thumb-400xauto-464.png" alt="環境王国.jp"></a></li>
+<li><a href="https://www.nhk-cs.jp/jushinryo/index.html" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2021/10/504b690f89d078611ba46344678b60988a196e8b-thumb-200x51-5356.png" alt="NHK"></a></li>
+<li><a href="http://www.khb-tv.co.jp/furusatocm/" target="_blank"><img src="https://town.shichikashuku.miyagi.jp/admin/banner/assets_c/2017/02/fb08-thumb-400xauto-461.png" alt="みやぎふるさとCM大賞"></a></li>
+<li class="pc"><img src="/g-share/img/fb00.png" alt="" class="noimage"/></li>
+<li class="pc"><img src="/g-share/img/fb00.png" alt="" class="noimage"/></li>
+</ul>
+</div>
+<div class="fp-box"></div>
+</div>
+<!--[end]contents -->
+<!-- [start]footer -->
+<div id="footer">
+<div class="fmenu-box">
+<div class="fmenu">
+<ul>
+<li>町民の方へ</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/certificate.html">手続き・届出</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/proposal.html">結婚・離婚</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/birth/">妊娠・出産</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/child/">子育て</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/kenkou/">健康・保険</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/fukushi/">介護・福祉</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/move.html">引越</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/clinic.html">病気</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/okuyami.html">おくやみ</a></li>
+</ul>
+<ul>
+<li>　</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/bousai.html">防災</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/work/index.html">住まい・仕事</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/gomi.html">ごみ情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/water.html">上水道・下水道</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/zeikin/index.html">税金</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/pet.html">ペット</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/shisetsu.html">公共施設</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/life/bus.html">町営バス</a></li>
+</ul>
+<ul>
+<li>事業者の方へ</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/bid/">入札情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/bid-sanka/">入札参加資格申請</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/houjin-zei.html">法人町民税</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/koukoku.html">広告募集</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/shiharai.html">町の支払いについて</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/business/furusatonouzei-biz.html">企業版ふるさと納税</a></li>
+</ul>
+<ul>
+<li>七ヶ宿町について</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/outline.html">七ヶ宿町の概要</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/greeting.html">町長の部屋</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/admin.html">行政情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/finance.html">財政情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/plan/">町の計画</a></li>
+<li><a href="/town/gyosei/reiki_int/reiki_menu.html">七ヶ宿町例規集</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/kouhou/">広報しちかしゅく</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/gikai/">七ヶ宿町議会</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/kojinjyoho_failbo/">個人情報ファイル簿</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/whisleblower_protection_system.html">公益通報者保護制度</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/office.html">組織案内</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/town/access.html">交通アクセス</a></li>
+</ul>
+<ul>
+<li>新着情報</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/emergency/">緊急情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/info/">お知らせ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/info/news/">トピックス</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/info/bid/">募集</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/info/event/">イベント</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/info/tadmin/">町政情報</a></li>
+</ul>
+<ul>
+<li>放射能情報</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/houshanou/radiation/">放射線量測定情報</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/houshanou/josen.html">町の除染計画</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/houshanou/kensa.html">放射線簡易測定検査・簡易測定器貸出</a></li>
+<li>　</li>
+<li>各種申請書</li>
+<li><a href="https://town.shichikashuku.miyagi.jp/shinsei/">申請書類ダウンロード</a></li>
+</ul>
+</div>
+</div>
+<div class="flink-box">
+<ul>
+<li><a href="https://town.shichikashuku.miyagi.jp/">トップページ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/sitemap/">サイトマップ</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/link/">リンク一覧</a></li>
+<li><a href="https://town.shichikashuku.miyagi.jp/policy/">プライバシーポリシー</a></li>
+<li><a href="mailto:shichi24@town.shichikashuku.miyagi.jp">お問い合わせ</a></li>
+</ul>
+</div>
+<div class="foot-box">
+<div class="finfo-box">
+<p class="flogo"><a href="https://town.shichikashuku.miyagi.jp/"><img src="https://town.shichikashuku.miyagi.jp/img/flogo.png" alt="宮城県七ヶ宿町"></a></p>
+<p><span class="finfo-title">七ヶ宿町役場</span><br>
+〒989-0592　宮城県刈田郡七ヶ宿町字関126 <span class="finfo-link"><a href="https://town.shichikashuku.miyagi.jp/town/access.html">交通アクセス</a></span><span class="finfo-link"><a href="https://town.shichikashuku.miyagi.jp/town/office.html">組織案内</a></span><br>
+TEL 0224-37-2111（代表）　FAX 0224-37-2468</p>
+</div>
+<div class="copyright">Copyright（C） Shichikashuku. All Rights Reserved.</div>
+</div>
+</div>
+<!-- [end]footer -->
+<div id="page-top"><a><img src="https://town.shichikashuku.miyagi.jp/img/pagetop.png" alt="このページの先頭へ"></a></div>
+</div>
+<!-- [end]container -->
+</body>
+</html>

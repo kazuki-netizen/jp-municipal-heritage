@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xml:lang="ja" prefix="og: http://ogp.me/ns# wegsite: http://ogp.me/ns/website#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="Author" content="Sagae city" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/css/sagae_tableconverter.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sagae_wysiwyg.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sagae_style_base.css?20260615" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sagae_style_base_smph.css?20260615" media="screen and (max-width: 900px)" />
+<link rel="stylesheet" type="text/css" href="/css/sagae_style_top.css?20260615" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sagae_style_top_smph.css?20260615" media="screen and (max-width: 900px)" />
+<link rel="stylesheet" type="text/css" href="/css/sagae_style_print.css" media="print" />
+
+<link rel="alternate" type="application/rss+xml" title="新着情報_寒河江市公式ホームページ" href="rss_news.xml" />
+<title>寒河江市公式ホームページ：寒河江市公式サイト</title>
+<script type="text/javascript" src="/js/jquery-3.7.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/slick.min.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/common_top.js?20251119"></script>
+<link rel="stylesheet" href="/css/slick.css" />
+<script type="text/javascript" src="/js/jquery.zoomsight-launch.js"></script>
+<script type="text/javascript" src="/js/search1.js"></script>
+
+<link rel="shortcut icon" href="favicon.ico" />
+
+
+<!-- googleアナリティクス -->
+<script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18503637-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]> 
+</script>
+
+
+
+
+
+<!-- お気に入り -->
+<script src="/js/mymenu.js" type="text/javascript"></script>
+<script src="/js/mymenu2.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery.lightbox-0.5.min.js"></script>
+<script type="text/javascript" src="/js/chgimg.js"></script>
+<script type="text/javascript">
+<!--
+$(function() {
+  $('a.openimg').lightBox();
+});
+//-->
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M7PCJLW');
+// ]]> 
+</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+
+<!-- google-analytics -->
+<meta property="og:title" content="寒河江市公式ホームページ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.city.sagae.yamagata.jp/index.html" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+</head>
+<body id="base">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7PCJLW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- scs_jyogai_start -->
+<noscript>
+<p class="jsmessage">寒河江市ホームページではJavaScriptを使用しています。JavaScriptの使用を有効にしていない場合は、一部の機能が正確に動作しない恐れがあります。<br />お手数ですがJavaScriptの使用を有効にしてください。</p>
+</noscript>
+<div class="blockjump"><a name="PTOP" id="PTOP"><img src="/images/spacer.gif" alt="このページの先頭です" width="1" height="1" /></a><img src="/images/spacer.gif" alt="サイトメニューここから" width="1" height="1" /></div>
+<div id="blockskip">
+<script type="text/javascript">
+<!--
+$(function(){
+	$("#blockskip a").focus(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1.5em'
+				},{
+					duration: 'fast'
+				}
+			)
+			.addClass("show");
+	});
+	$("#blockskip a")
+		.blur(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1px'
+				},{
+					duration: 'fast',
+					complete: function(){
+						$(this).removeClass("show");
+					}
+				}
+			)
+	});
+});
+//-->
+</script>
+<a href="#CONT">このページの本文へ移動</a>
+</div>
+<div id="baseall" class="top">
+
+<!-- ▽ヘッダー▽ -->
+<div class="header_all">
+<div class="header_wrap">
+	<div class="header_top">
+		<div class="h_inner">
+			<div class="logo">
+				<h1><a href="/index.html" class="h_logo"><img class="pc" alt="寒河江市のロゴ" src="/images/h_logo.png" height="" /><img class="smp" alt="寒河江市のスマホロゴ" src="/images/h_logo_smp.png" height="" /></a></h1>
+				<p>さくらんぼと笑顔かがやく安全・安心なまち</p>
+			</div>
+			<div class="menu_pc">
+				<div class="header-search">
+					<form action="https://www.google.com/search" id="h-search" class="key-search">
+							<label class="smsg" for="query"></label>
+							<img src="/images/spacer.gif" width="1" height="1" alt="サイト内検索：キーワードを入力してください。" />
+							<input type="hidden" name="hl" value="ja" />
+							<input type="hidden" name="domains" value="city.sagae.yamagata.jp" />
+							<input type="hidden" name="sitesearch" value="city.sagae.yamagata.jp" />
+							<input class="tbox" id="query" name="query" type="text" value="" />
+							<div class="placeholder"><span>キーワード検索</span></div>
+						<input class="fedbt" name="sa" onclick="goSearch()" type="submit" value="検索" />
+					</form>
+				</div><!-- /header-search -->	
+				<ul class="sns">
+					<li><a href="https://page.line.me/806llief?openQrModal=true" target="_blank" rel="noopener noreferrer"><img src="/images/line_logo.png" alt="Lineの画像" width="30" /></a></li>
+					<li><a href="https://x.com/sagae_official" target="_blank" rel="noopener noreferrer"><img src="/images/x_logo.png" alt="Xの画像" width="30" /></a></li>
+					<li><a href="https://www.youtube.com/channel/UCN0Rn34prP7xERWvF8HKPbA" target="_blank" rel="noopener noreferrer"><img src="/images/youtube_logo.png" alt="Youtubeの画像" width="30" /></a></li>
+					<li><a href="https://www.facebook.com/sagaecity" target="_blank" rel="noopener noreferrer"><img src="/images/facebook_logo.png" alt="Facebookの画像" width="30" /></a></li>
+				</ul><!-- /sns -->
+				<div class="tool">
+					<a href="https://www.zoomsight-sv.jp/SGE/controller/index.html#https://www.city.sagae.yamagata.jp/" class="tool1"><img src="/images/tool1.png" alt="" /><span>閲覧支援</span></a>
+					<a href="/homepege/language.html" class="tool2"><img src="/images/tool2.png" alt="" /><span>Language</span></a>
+				</div>
+			</div>
+			<div class="menu_btn smp">
+				<a href="javascript:void(0)" class="naviMenu"><span class="btn_txt">メニュー</span></a>
+			</div>
+		</div>
+	</div><!-- /header_top -->
+	<div class="header_btm">
+		<div class="h_inner">
+			<ul class="menu">
+				<li class="item">
+					<a href="/kurashi/index.html"><span class="yellow_line">くらし・手続き</span></a>
+					<div class="c_menu">
+					
+					<ul class="sub_menu">
+					
+						<li class="dropmenu-box"><a href="/kurashi/soudanshouhi/index.html" class="arrow1">各種相談・消費生活</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/tetuduki/index.html" class="arrow1">手続き・証明</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/zei/index.html" class="arrow1">税など</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/sumai/index.html" class="arrow1">住まい・移住</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/seikatukankyo/index.html" class="arrow1">生活環境・動物・安全</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/gomi/index.html" class="arrow1">ごみについて</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/jyogesuido/index.html" class="arrow1">上下水道</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/koutsu/index.html" class="arrow1">公共交通</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/shisetsu/index.html" class="arrow1">施設案内</a></li>
+					
+						<li class="dropmenu-box"><a href="/kurashi/kouryu/index.html" class="arrow1">市民交流</a></li>
+					
+					</ul>
+					
+					</div>
+				</li>
+				<li class="item">
+					<a href="/kosodatekyoiku/index.html"><span class="yellow_line">子育て・教育</span></a>
+					<div class="c_menu">
+					
+					<ul class="sub_menu">
+					
+						<li class="dropmenu-box"><a href="/kosodatekyoiku/ninsinsyussan/index.html" class="arrow1">妊娠・出産</a></li>
+					
+						<li class="dropmenu-box"><a href="/kosodatekyoiku/kosodatehoiku/index.html" class="arrow1">子育て・保育</a></li>
+					
+						<li class="dropmenu-box"><a href="/kosodatekyoiku/kyoiku/index.html" class="arrow1">学校・教育</a></li>
+					
+					</ul>
+					
+					</div>
+				</li>
+				<li class="item">
+					<a href="/kenko_fukushi/index.html"><span class="yellow_line">健康・医療・社会保障</span></a>
+					<div class="c_menu">
+					
+					<ul class="sub_menu">
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/SARS-CoV2/index.html" class="arrow1">新型コロナウイルス関連情報</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/koureifukushi/index.html" class="arrow1">高齢者福祉</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/kaigo/index.html" class="arrow1">介護保険サービス</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/syogaifukushi/index.html" class="arrow1">障がい者福祉</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/seikatsufukushi/index.html" class="arrow1">生活福祉</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/kenko/index.html" class="arrow1">健康</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/iryou/index.html" class="arrow1">医療</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/hospital/index.html" class="arrow1">医療機関</a></li>
+					
+						<li class="dropmenu-box"><a href="/kenko_fukushi/kenkohoken/index.html" class="arrow1">国民健康保険・後期高齢者医療制度</a></li>
+					
+					</ul>
+					
+					</div>
+				</li>
+				<li class="item">
+					<a href="/kanko/index.html"><span class="yellow_line">観光・文化・スポーツ</span></a>
+					<div class="c_menu">
+					
+					<ul class="sub_menu">
+					
+						<li class="dropmenu-box"><a href="/kanko/kankoinfo/index.html" class="arrow1">観光</a></li>
+					
+						<li class="dropmenu-box"><a href="/kanko/bunka/index.html" class="arrow1">文化</a></li>
+					
+						<li class="dropmenu-box"><a href="/kanko/sports/index.html" class="arrow1">スポーツ・レジャー</a></li>
+					
+						<li class="dropmenu-box"><a href="/eventinfo/index.html" class="arrow1">イベント</a></li>
+					
+					</ul>
+					
+					</div>
+				</li>
+				<li class="item">
+					<a href="/jigyou/index.html"><span class="yellow_line">事業・産業</span></a>
+					<div class="c_menu">
+					
+					<ul class="sub_menu">
+					
+						<li class="dropmenu-box"><a href="/jigyou/nyusatsu/index.html" class="arrow1">入札・契約</a></li>
+					
+						<li class="dropmenu-box"><a href="/jigyou/hojyoshien/index.html" class="arrow1">補助金・支援</a></li>
+					
+						<li class="dropmenu-box"><a href="/jigyou/kensetsu/index.html" class="arrow1">建設</a></li>
+					
+						<li class="dropmenu-box"><a href="/jigyou/chiiki/index.html" class="arrow1">地域づくり</a></li>
+					
+						<li class="dropmenu-box"><a href="/jigyou/syogyou/index.html" class="arrow1">商業</a></li>
+					
+						<li class="dropmenu-box"><a href="/jigyou/kougyou/index.html" class="arrow1">工業</a></li>
+					
+						<li class="dropmenu-box"><a href="/jigyou/nougyou/index.html" class="arrow1">農業</a></li>
+					
+					</ul>
+					
+					</div>
+				</li>
+				<li class="item">
+					<a href="/shisei/index.html"><span class="yellow_line">市政情報</span></a>
+					<div class="c_menu">
+					
+					<ul class="sub_menu">
+					
+						<li class="dropmenu-box"><a href="/shisei/sagae/index.html" class="arrow1">寒河江市とは</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/shicyou/index.html" class="arrow1">市長の部屋</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/nouzei/index.html" class="arrow1">寒河江市ふるさと納税</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/keikaku/index.html" class="arrow1">計画</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/zaisei/index.html" class="arrow1">財政</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/jinji/index.html" class="arrow1">人事・給与</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/tokei/index.html" class="arrow1">統計情報</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/jyorei/index.html" class="arrow1">条例・公報</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/johoseisaku/index.html" class="arrow1">情報政策</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/soshikiichiran/index.html" class="arrow1">組織一覧</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/senkyo/index.html" class="arrow1">選挙</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/kansa/index.html" class="arrow1">監査</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/open_data/index.html" class="arrow1">オープンデータ</a></li>
+					
+						<li class="dropmenu-box"><a href="/shisei/shiho/index.html" class="arrow1">市報さがえ</a></li>
+					
+					</ul>
+					
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div><!-- /header_btm -->
+</div><!-- /header_wrap -->
+</div><!-- /header_all -->
+	<div id="h-menu">
+		<div class="navi-box smp">
+			<h2 class="nvmenu"><a href="javascript:void(0)" class="nbtn">くらし・手続き</a></h2>
+			<div class="menu">
+				<div class="guidance"><img src="/images/spacer.gif" alt="サブメニューここから" width="1" height="1" /></div>
+				<div class="sp_menu_ichiran"><a href="/kurashi/index.html" class="arrow1">くらし・手続きへ</a></div>
+				
+				<ul class="sub_menu">
+				
+					<li class="dropmenu-box"><a href="/kurashi/soudanshouhi/index.html" class="arrow1">各種相談・消費生活</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/tetuduki/index.html" class="arrow1">手続き・証明</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/zei/index.html" class="arrow1">税など</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/sumai/index.html" class="arrow1">住まい・移住</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/seikatukankyo/index.html" class="arrow1">生活環境・動物・安全</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/gomi/index.html" class="arrow1">ごみについて</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/jyogesuido/index.html" class="arrow1">上下水道</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/koutsu/index.html" class="arrow1">公共交通</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/shisetsu/index.html" class="arrow1">施設案内</a></li>
+				
+					<li class="dropmenu-box"><a href="/kurashi/kouryu/index.html" class="arrow1">市民交流</a></li>
+				
+				</ul>
+				
+			</div>
+			<h2 class="nvmenu"><a href="javascript:void(0)" class="nbtn">子育て・教育</a></h2>
+			<div class="menu">
+				<div class="guidance"><img src="/images/spacer.gif" alt="サブメニューここから" width="1" height="1" /></div>
+				<div class="sp_menu_ichiran"><a href="/kosodatekyoiku/index.html" class="arrow1">子育て・教育へ</a></div>
+				
+				<ul class="sub_menu">
+				
+					<li class="dropmenu-box"><a href="/kosodatekyoiku/ninsinsyussan/index.html" class="arrow1">妊娠・出産</a></li>
+				
+					<li class="dropmenu-box"><a href="/kosodatekyoiku/kosodatehoiku/index.html" class="arrow1">子育て・保育</a></li>
+				
+					<li class="dropmenu-box"><a href="/kosodatekyoiku/kyoiku/index.html" class="arrow1">学校・教育</a></li>
+				
+				</ul>
+				
+			</div>
+			<h2 class="nvmenu"><a href="javascript:void(0)" class="nbtn">健康・医療・社会保障</a></h2>
+			<div class="menu">
+				<div class="guidance"><img src="/images/spacer.gif" alt="サブメニューここから" width="1" height="1" /></div>
+				<div class="sp_menu_ichiran"><a href="/kenko_fukushi/index.html" class="arrow1">健康・医療・社会保障へ</a></div>
+				
+				<ul class="sub_menu">
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/SARS-CoV2/index.html" class="arrow1">新型コロナウイルス関連情報</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/koureifukushi/index.html" class="arrow1">高齢者福祉</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/kaigo/index.html" class="arrow1">介護保険サービス</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/syogaifukushi/index.html" class="arrow1">障がい者福祉</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/seikatsufukushi/index.html" class="arrow1">生活福祉</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/kenko/index.html" class="arrow1">健康</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/iryou/index.html" class="arrow1">医療</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/hospital/index.html" class="arrow1">医療機関</a></li>
+				
+					<li class="dropmenu-box"><a href="/kenko_fukushi/kenkohoken/index.html" class="arrow1">国民健康保険・後期高齢者医療制度</a></li>
+				
+				</ul>
+				
+			</div>
+			<h2 class="nvmenu"><a href="javascript:void(0)" class="nbtn">観光・文化・スポーツ</a></h2>
+			<div class="menu">
+				<div class="guidance"><img src="/images/spacer.gif" alt="サブメニューここから" width="1" height="1" /></div>
+				<div class="sp_menu_ichiran"><a href="/kanko/index.html" class="arrow1">観光・文化・スポーツへ</a></div>
+				
+				<ul class="sub_menu">
+				
+					<li class="dropmenu-box"><a href="/kanko/kankoinfo/index.html" class="arrow1">観光</a></li>
+				
+					<li class="dropmenu-box"><a href="/kanko/bunka/index.html" class="arrow1">文化</a></li>
+				
+					<li class="dropmenu-box"><a href="/kanko/sports/index.html" class="arrow1">スポーツ・レジャー</a></li>
+				
+					<li class="dropmenu-box"><a href="/eventinfo/index.html" class="arrow1">イベント</a></li>
+				
+				</ul>
+				
+			</div>
+			<h2 class="nvmenu"><a href="javascript:void(0)" class="nbtn">事業・産業</a></h2>
+			<div class="menu">
+				<div class="guidance"><img src="/images/spacer.gif" alt="サブメニューここから" width="1" height="1" /></div>
+				<div class="sp_menu_ichiran"><a href="/jigyou/index.html" class="arrow1">事業・産業へ</a></div>
+				
+				<ul class="sub_menu">
+				
+					<li class="dropmenu-box"><a href="/jigyou/nyusatsu/index.html" class="arrow1">入札・契約</a></li>
+				
+					<li class="dropmenu-box"><a href="/jigyou/hojyoshien/index.html" class="arrow1">補助金・支援</a></li>
+				
+					<li class="dropmenu-box"><a href="/jigyou/kensetsu/index.html" class="arrow1">建設</a></li>
+				
+					<li class="dropmenu-box"><a href="/jigyou/chiiki/index.html" class="arrow1">地域づくり</a></li>
+				
+					<li class="dropmenu-box"><a href="/jigyou/syogyou/index.html" class="arrow1">商業</a></li>
+				
+					<li class="dropmenu-box"><a href="/jigyou/kougyou/index.html" class="arrow1">工業</a></li>
+				
+					<li class="dropmenu-box"><a href="/jigyou/nougyou/index.html" class="arrow1">農業</a></li>
+				
+				</ul>
+				
+			</div>
+			<h2 class="nvmenu"><a href="javascript:void(0)" class="nbtn">市政情報</a></h2>
+			<div class="menu">
+				<div class="guidance"><img src="/images/spacer.gif" alt="サブメニューここから" width="1" height="1" /></div>
+				<div class="sp_menu_ichiran"><a href="/shisei/index.html" class="arrow1">市政情報へ</a></div>
+				
+				<ul class="sub_menu">
+				
+					<li class="dropmenu-box"><a href="/shisei/sagae/index.html" class="arrow1">寒河江市とは</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/shicyou/index.html" class="arrow1">市長の部屋</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/nouzei/index.html" class="arrow1">寒河江市ふるさと納税</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/keikaku/index.html" class="arrow1">計画</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/zaisei/index.html" class="arrow1">財政</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/jinji/index.html" class="arrow1">人事・給与</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/tokei/index.html" class="arrow1">統計情報</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/jyorei/index.html" class="arrow1">条例・公報</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/johoseisaku/index.html" class="arrow1">情報政策</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/soshikiichiran/index.html" class="arrow1">組織一覧</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/senkyo/index.html" class="arrow1">選挙</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/kansa/index.html" class="arrow1">監査</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/open_data/index.html" class="arrow1">オープンデータ</a></li>
+				
+					<li class="dropmenu-box"><a href="/shisei/shiho/index.html" class="arrow1">市報さがえ</a></li>
+				
+				</ul>
+				
+			</div>
+		</div>
+		<div class="tool">
+			<a href="https://www.zoomsight-sv.jp/SGE/controller/index.html#https://www.city.sagae.yamagata.jp/" class="tool1"><img src="/images/tool1.png" alt="" /><span>閲覧支援</span></a>
+			<a href="/homepege/language.html" class="tool2"><img src="/images/tool2.png" alt="" /><span>Language</span></a>
+		</div>
+		<div class="header-search">
+			<form action="https://www.google.com/search" id="h-sp-search" class="key-search">
+				<label class="smsg" for="sp-query"></label>
+				<img src="/images/spacer.gif" width="1" height="1" alt="サイト内検索：キーワードを入力してください。" />
+				<input type="hidden" name="hl" value="ja" />
+				<input type="hidden" name="domains" value="city.sagae.yamagata.jp" />
+				<input type="hidden" name="sitesearch" value="city.sagae.yamagata.jp" />
+				<input class="tbox" id="sp-query" name="query" type="text" value="" />
+				<div class="placeholder"><span>キーワード検索</span></div>
+				<input class="fedbt" name="sa" onclick="goSearch()" type="submit" value="検索" />
+			</form>
+		</div><!-- /header-search -->	
+		<ul class="sns">
+			<li><a href="https://page.line.me/806llief?openQrModal=true" target="_blank" rel="noopener noreferrer"><img src="/images/line_logo.png" alt="Lineの画像" width="30" /></a></li>
+			<li><a href="https://x.com/sagae_official" target="_blank" rel="noopener noreferrer"><img src="/images/x_logo.png" alt="Xの画像" width="30" /></a></li>
+			<li><a href="https://www.youtube.com/channel/UCN0Rn34prP7xERWvF8HKPbA" target="_blank" rel="noopener noreferrer"><img src="/images/youtube_logo.png" alt="Youtubeの画像" width="30" /></a></li>
+			<li><a href="https://www.facebook.com/sagaecity" target="_blank" rel="noopener noreferrer"><img src="/images/facebook_logo.png" alt="Facebookの画像" width="30" /></a></li>
+		</ul><!-- /sns -->
+
+	</div><!-- /h-menu -->
+<div class="guidance"><img alt="サイトメニューここまで" height="1" src="/images/spacer.gif" width="1" /></div>
+<!-- △ヘッダー△ -->
+<hr />
+
+<div class="top_wrap">
+
+<div class="guidance"><a name="CONT" id="CONT"><img src="/images/spacer.gif" alt="本文ここから" width="1" height="1" /></a></div>
+
+<hr />
+<!-- ▲ヘッダーパーツここまで▲ -->
+
+
+
+
+<div class="h1bg no_disp"><h1>寒河江市公式ホームページ</h1></div>
+
+
+
+
+
+<!-- ▽背景エリアここから▽ -->
+<div id="top_img">
+<div class="inner">
+
+
+
+<div class="imgWrap pc">
+
+
+<img src="index.images/top1.jpg" width="900" height="500" alt="慈恩寺の写真" class="tm1 img1" />
+
+
+
+<img src="index.images/top2.jpg" width="446" height="500" alt="神輿の写真" class="sml tm4 img5" />
+
+
+
+<img src="index.images/top7.jpg" width="450" height="500" alt="クラッピンサガエの写真" class="sml tm3 img3" />
+
+
+
+<img src="index.images/top4.jpg" width="450" height="500" alt="市役所の写真" class="sml tm3 img4" />
+
+
+
+<img src="index.images/top5.jpg" width="450" height="500" alt="スケートボードの写真" class="sml tm4 img6" />
+
+
+
+<img src="index.images/top6.jpg" width="900" height="500" alt="さくらんぼの写真" class="tm2 img2" />
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="imgWrap smp" id="smp_sld">
+
+<div class="item">
+
+<img src="index.images/top_smp1.jpg" width="750" height="500" alt="慈恩寺の写真" class="imgTop" />
+
+
+
+<img src="index.images/top_smp2.jpg" width="750" height="500" alt="さくらんぼの写真" class="imgBtm" />
+
+</div>
+
+<div class="item">
+
+<img src="index.images/top_smp4.jpg" width="750" height="500" alt="市役所の写真" class="imgTop" />
+
+
+
+<img src="index.images/top_smp7.jpg" width="750" height="500" alt="クラッピンサガエの写真" class="imgBtm" />
+
+</div>
+
+<div class="item">
+
+<img src="index.images/top_smp5.jpg" width="750" height="500" alt="神輿の写真" class="imgTop" />
+
+
+
+<img src="index.images/top_smp6.jpg" width="750" height="500" alt="スケートボードの写真" class="imgBtm" />
+
+</div>
+
+</div>
+
+
+
+
+<div class="logo_area">
+<div class="logo_wrap">
+<img src="/images/topLogo.png" class="logo" alt="寒河江市のトップロゴ" />
+<div id="scroll_down">
+<a href="#scrollTop"><img src="/images/scroll_btn.png" alt="情報エリアにスクロールします" /></a>
+</div>
+</div>
+</div>
+
+
+</div><!-- /div inner -->
+</div><!-- /div top_img -->
+
+<!-- △背景エリアここまで△ -->
+
+
+
+
+
+
+<!-- ▽情報エリアここから▽ -->
+<div id="infoarea">
+<div class="infoarea-in">
+<div class="guidance"><a name="scrollTop" id="scrollTop"><img src="/images/spacer.gif" alt="情報エリアここから" width="1" height="1" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="infoarea1" class="top_sec">
+<div class="searc_wrap">
+<h2><span class="jp">情報をさがす</span></h2>
+<div class="top_search">
+
+
+
+
+
+
+
+
+<h3><span>キーワードで探す</span></h3>
+<div class="key_search">
+ <form action="https://www.google.com/search" class="key-search" id="top_search">
+  <label class="smsg" for="top_query"></label>
+  <img src="/images/spacer.gif" width="1" height="1" alt="サイト内検索：キーワードを入力してください。" />
+  <input type="hidden" name="hl" value="ja" />
+  <input type="hidden" name="domains" value="city.sagae.yamagata.jp" />
+  <input type="hidden" name="sitesearch" value="city.sagae.yamagata.jp" />
+  <input class="tbox query" id="top_query" name="query" type="text" value="" />
+  <div class="placeholder"><span>キーワード検索</span></div>
+  <input class="fedbt" name="sa" onclick="goSearch()" type="submit" value="検索" />
+ </form>
+</div>
+
+
+
+
+
+
+<ul class="key_list">
+
+
+
+
+ 
+  <li class="item">
+   <a class="arrow1 innerLink" href="/kurashi/tetuduki/hikkoshi/index.html">転入・転出</a>
+  </li>
+ 
+  <li class="item">
+   <a class="arrow1 innerLink" href="/kurashi/gomi/sonota/gomiukeire.html">クリーンセンター</a>
+  </li>
+ 
+  <li class="item">
+   <a class="arrow1 innerLink" href="/bousai/sonae/bousaimap.html">防災マップ</a>
+  </li>
+ 
+  <li class="item">
+   <a class="arrow1 innerLink" href="/shisei/shiho/shihobackno/index.html">市報さがえ</a>
+  </li>
+ 
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+</div><!-- /top_search -->
+
+
+
+
+
+
+<div class="use_area">
+<h3><span>よく利用される情報から探す</span></h3>
+<ul class="use_list">
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kenko_fukushi/hospital/kyujitsu/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse1.png" width="70" height="70" alt="夜間・休日診療の画像" /></span>
+    <span class="title">夜間・休日診療</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/bousai/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse2.png" width="70" height="70" alt="防災・緊急の画像" /></span>
+    <span class="title">防災・緊急</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="https://www.city.sagae.yamagata.jp/category/nyusatu/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse17.png" width="70" height="70" alt="入札情報の画像" /></span>
+    <span class="title">入札情報</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/tetuduki/e-application_list.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse3.png" width="70" height="70" alt="デジタル窓口の画像" /></span>
+    <span class="title">デジタル窓口</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/zei/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse4.png" width="70" height="70" alt="税金の画像" /></span>
+    <span class="title">税金</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/sumai/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse5.png" width="70" height="70" alt="住まい・移住の画像" /></span>
+    <span class="title">住まい・移住</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/tetuduki/kekkon-etc/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse6.png" width="70" height="70" alt="結婚などの画像" /></span>
+    <span class="title">結婚など</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kosodatekyoiku/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse7.png" width="70" height="70" alt="妊娠・子育ての画像" /></span>
+    <span class="title">妊娠・子育て</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kosodatekyoiku/kyoiku/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse8.png" width="70" height="70" alt="学校・教育の画像" /></span>
+    <span class="title">学校・教育</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kenko_fukushi/koureifukushi/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse9.png" width="70" height="70" alt="高齢者・介護の画像" /></span>
+    <span class="title">高齢者・介護</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/tetuduki/syuseishibo/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse10.png" width="70" height="70" alt="おくやみの画像" /></span>
+    <span class="title">おくやみ</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/gomi/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse11.png" width="70" height="70" alt="ゴミ分別の画像" /></span>
+    <span class="title">ゴミ分別</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/jyogesuido/index.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse12.png" width="70" height="70" alt="水道の画像" /></span>
+    <span class="title">水道</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/koutsu/sinaijyunkanbass1.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse13.png" width="70" height="70" alt="循環バスの画像" /></span>
+    <span class="title">循環バス</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/tetuduki/e_shinsei.html">
+   <span class="btn_wrap">
+    <span class="fig"><img src="index.images/topuse15.png" width="70" height="70" alt="施設予約の画像" /></span>
+    <span class="title">施設予約</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+</ul>
+</div><!-- /div use_area -->
+
+
+
+
+
+
+</div><!-- /div searc_wrap -->
+</div><!-- /div infoarea1 -->
+
+
+
+
+
+
+<div id="infoarea2" class="top_sec">
+<h2><span class="jp">トピックス</span></h2>
+<div class="topics">
+<div class="topic_list">
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kanko/bunka/seijin/hatachinosikitenn.html">
+<span class="fig"><img src="index.images/topcis_hatachi.jpg" width="400" height="260" alt="はたちの式典画像" /></span>
+<span class="title arrow1">令和8年度はたちの式典</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kurashi/seikatukankyo/r8kuma_syutubotu.html">
+<span class="fig"><img src="index.images/topics_kuma.jpg" width="400" height="260" alt="クマに注意の画像" /></span>
+<span class="title arrow1">クマに注意</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/jigyou/syogyou/cherrinpaycard.html">
+<span class="fig"><img src="index.images/topic7.jpg" width="400" height="258" alt="チェリンPayカードの説明画像" /></span>
+<span class="title arrow1">寒河江市物価高騰対策地域商品券「チェリンPayカード」</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/shisei/nouzei/index.html">
+<span class="fig"><img src="index.images/topics_furusato.jpg" width="400" height="260" alt="ふるさと納税の画像" /></span>
+<span class="title arrow1">ふるさと納税</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kenko_fukushi/kenko/kenkoukyousitsu.html">
+<span class="fig"><img src="index.images/topic5.jpg" width="400" height="260" alt="さがえ健康づくり教室" /></span>
+<span class="title arrow1">令和8年度健康教室</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kenko_fukushi/koureifukushi/ninchisho/nintisyo_app.html">
+<span class="fig"><img src="index.images/topic8.png" width="400" height="259" alt="さがえ脳チェの画像" /></span>
+<span class="title arrow1">さがえ脳che!（チェ）でチャレンジ！健康習慣！</span>
+
+
+</a>
+
+</div>
+
+
+
+
+</div>
+<div class="play_pause">
+<button>停止・再生</button>
+<div class="pos_dot"></div>
+</div>
+</div><!-- /topics -->
+</div><!-- /div infoarea2 -->
+
+
+
+
+
+
+<!--▽新着情報エリア▽-->
+<div id="infoarea3" class="top_sec">
+ <h2><span class="jp">新着情報</span></h2>
+ <div class="news">
+  <ul class="news_tab">
+   <li class="active"><a href="javascript:void(0)" class="f_biz">すべて</a></li>
+   <li class=""><a href="javascript:void(0)" class="f_biz">イベント情報</a></li>
+   <li class=""><a href="javascript:void(0)" class="f_biz">募集・採用情報</a></li>
+   <li class=""><a href="javascript:void(0)" class="f_biz">入札情報</a></li>
+  </ul>
+  
+  <div class="tab_wrap">
+   
+   <!-- 新着情報 -->
+   <div class="news_box clearfix active">
+    
+     <ul class="clearfix">
+      
+       <li><span class="date">2026年7月3日</span><a href="/jigyou/chiiki/chikiokoshi.html"><span class="title arrow1">さがえ協力隊通信6月号を発行しました</span></a></li>
+      
+       <li><span class="date">2026年7月3日</span><a href="/shisei/jinji/kyouryokutai_bosyu_2.html"><span class="title arrow1">地域おこし協力隊（まちの空間活用コーディネーター）を募集しています</span></a></li>
+      
+       <li><span class="date">2026年7月3日</span><a href="/shisei/jinji/kyoryokutai_bosyu.html"><span class="title arrow1">地域おこし協力隊（まちなか賑わいづくりディレクター）を募集しています</span></a></li>
+      
+       <li><span class="date">2026年7月3日</span><a href="/shisei/jinji/shokuinsaiyou.html"><span class="title arrow1">令和8年度寒河江市職員採用試験（後期）</span></a></li>
+      
+       <li><span class="date">2026年7月3日</span><a href="/shisei/shiho/shihosagae.html"><span class="title arrow1">市報さがえ7月5日号を発行しました</span></a></li>
+      
+     </ul>
+    
+    <div class="more_btn"><a href="/allNewsList.html" class="f_biz"><span class="title arrow1">新着情報一覧</span></a></div>
+   </div><!-- /div news_box -->
+
+   <!-- イベント情報 -->
+   <div class="news_box clearfix ">
+    
+     <ul class="clearfix">
+      
+       <li><span class="date">2026年7月3日</span><a href="/kurashi/tetuduki/kekkon-etc/k-soudan.html"><span class="title arrow1">寒河江市結婚相談会を開催します</span></a></li>
+      
+       <li><span class="date">2026年7月2日</span><a href="/kurashi/koutsu/JRjigyou.html"><span class="title arrow1">令和8年度 JR左沢線・飲食店等利用促進応援事業</span></a></li>
+      
+       <li><span class="date">2026年7月1日</span><a href="/kurashi/shisetsu/bunkashogaigakusyu/sagaemuseum/index.html"><span class="title arrow1">寒河江市美術館</span></a></li>
+      
+       <li><span class="date">2026年6月29日</span><a href="/eventinfo/event/sachiutaiikukan.html"><span class="title arrow1">旧幸生小学校体育館スケートボード練習施設（一般開放予定・令和8年7月分）</span></a></li>
+      
+       <li><span class="date">2026年6月25日</span><a href="/eventinfo/event/sagaematuri.html"><span class="title arrow1">寒河江まつり（第44回神輿の祭典）</span></a></li>
+      
+     </ul>
+    
+    <div class="more_btn"><a href="/category/event/index.html" class="f_biz"><span class="title arrow1">イベント情報一覧</span></a></div>
+   </div><!-- /div news_box -->
+   
+   <!-- 採用情報 -->
+   <div class="news_box clearfix ">
+    
+     <ul class="clearfix">
+      
+       <li><span class="date">2026年7月3日</span><a href="/shisei/jinji/kyouryokutai_bosyu_2.html"><span class="title arrow1">地域おこし協力隊（まちの空間活用コーディネーター）を募集します</span></a></li>
+      
+       <li><span class="date">2026年7月3日</span><a href="/shisei/jinji/kyoryokutai_bosyu.html"><span class="title arrow1">地域おこし協力隊（まちなか賑わいづくりディレクター）を募集します</span></a></li>
+      
+       <li><span class="date">2026年7月3日</span><a href="/shisei/jinji/shokuinsaiyou.html"><span class="title arrow1">令和8年度寒河江市職員採用試験（後期）</span></a></li>
+      
+       <li><span class="date">2026年7月1日</span><a href="/shisei/jinji/syokugyousetumei.html"><span class="title arrow1">令和8年度寒河江市職員オープンカンパニーを実施します</span></a></li>
+      
+       <li><span class="date">2026年7月1日</span><a href="/kanko/bunka/bunkarekishi/kyodokan-iin.html"><span class="title arrow1">郷土館運営協議会の委員を公募します</span></a></li>
+      
+     </ul>
+    
+    <div class="more_btn"><a href="/category/bosyu/index.html" class="f_biz"><span class="title arrow1">募集・採用情報一覧</span></a></div>
+   </div><!-- /div news_box -->
+
+   <!-- 入札情報 -->
+   <div class="news_box clearfix ">
+    
+     <ul class="clearfix">
+      
+       <li><span class="date">2026年7月2日</span><a href="/jigyou/nyusatsu/koukoku/konbinikouhu.html"><span class="title arrow1">寒河江市住民票等コンビニ交付システム構築業務委託公募型プロポーザル審査の結果</span></a></li>
+      
+       <li><span class="date">2026年6月25日</span><a href="/jigyou/nyusatsu/koukoku/bunsekoji.html"><span class="title arrow1">寒河江市文化センター空調設備改修工事条件付き一般競争入札の公告</span></a></li>
+      
+       <li><span class="date">2026年6月24日</span><a href="/jigyou/nyusatsu/koukoku/portal-app-res.html"><span class="title arrow1">寒河江市住民向けポータルアプリ等構築業務および運用保守業務公募型プロポーザル審査結果</span></a></li>
+      
+       <li><span class="date">2026年6月24日</span><a href="/jigyou/nyusatsu/koukoku/sakura.html"><span class="title arrow1">桜回廊整備工事条件付き一般競争入札の公告</span></a></li>
+      
+       <li><span class="date">2026年6月24日</span><a href="/jigyou/nyusatsu/koukoku/20260209_shimei.html"><span class="title arrow1">指名競争入札の設計図書等閲覧（7月9日建設管理課入札） </span></a></li>
+      
+     </ul>
+    
+    <div class="more_btn"><a href="/category/nyusatu/index.html" class="f_biz"><span class="title arrow1">入札情報一覧</span></a></div>
+   </div><!-- /div news_box -->
+
+  </div><!-- /div tab_wrap -->
+ </div><!-- /div news-->
+</div><!-- /div infoarea3 -->
+
+<!--△新着情報エリア△-->
+
+
+
+
+
+
+<div id="infoarea4" class="top_sec">
+<h2><span class="jp">イベント・セミナー</span></h2>
+<div class="events">
+<div class="ev_list">
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/eventinfo/event/sagaematuri.html">
+<span class="fig"><img src="index.images/event2.jpg" width="300" height="424" alt="寒河江まつり（第44回神輿の祭典）のチラシ" /></span>
+<span class="title arrow1">寒河江まつり（第44回神輿の祭典）</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/eventinfo/event/cherrymarche.html">
+<span class="fig"><img src="index.images/event5.jpg" width="300" height="424" alt="さがえちぇり～マルシェビアフェスタのチラシ" /></span>
+<span class="title arrow1">さがえちぇり～マルシェビアフェスタ</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kurashi/shisetsu/bunkashogaigakusyu/sagaemuseum/index.html">
+<span class="fig"><img src="index.images/event7.jpg" width="300" height="423" alt="音海はる個展「色鉛筆で描かれた生き物たち」のチラシ" /></span>
+<span class="title arrow1">音海はる個展「色鉛筆で描かれた生き物たち」</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kanko/bunka/syogaigakusyu/sagaemusicday.html">
+<span class="fig"><img src="index.images/event8.jpg" width="300" height="424" alt="SAGAE MUSIC DAY’26のポスター" /></span>
+<span class="title arrow1">SAGAE MUSIC DAY’26</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kanko/bunka/jionji/syugenguide.html">
+<span class="fig"><img src="index.images/event4.jpg" width="300" height="424" alt="慈恩寺修験ウォークガイド育成講座のチラシ" /></span>
+<span class="title arrow1">慈恩寺修験ウォークガイド育成講座</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz innerLink" href="/kurashi/koutsu/JRjigyou.html">
+<span class="fig"><img src="index.images/event1.png" width="300" height="424" alt="JR左沢線に乗って食べて泊まって応援キャンペーンの画像" /></span>
+<span class="title arrow1">JR左沢線に乗って食べて泊まって応援キャンペーン</span>
+
+
+</a>
+
+</div>
+
+
+
+
+</div>
+<div class="play_pause">
+<button>停止・再生</button>
+<div class="pos_dot"></div>
+</div>
+<div class="more_btn pc"><a href="/eventinfo/eventcalendar/calendar/calendar.html" class="f_biz"><span class="title arrow1">イベントカレンダー</span></a></div>
+<div class="more_btn smp"><a href="/eventinfo/eventcalendar/calendar/list_calendar.html" class="f_biz"><span class="title arrow1">イベントカレンダー</span></a></div>
+</div><!-- /event -->
+</div><!-- /div infoarea4 -->
+
+
+
+
+
+
+<div id="infoarea5" class="top_sec">
+<h2><span class="jp">市政情報</span></h2>
+<div class="city">
+
+
+
+
+
+
+
+
+<ul class="city_img_list">
+
+<li class="item">
+
+<a class="push_btn f_biz innerLink" href="/shisei/shicyou/index.html">
+<span class="btn_wrap">
+<span class="fig"><img src="index.images/topcity1.jpg" width="360" height="250" alt="市長の画像" /></span>
+<span class="title arrow1">市長の部屋</span>
+
+
+</span>
+</a>
+
+</li>
+
+<li class="item">
+
+<a class="push_btn f_biz innerLink" href="/shigikai/index.html">
+<span class="btn_wrap">
+<span class="fig"><img src="index.images/topcity2.jpg" width="360" height="250" alt="寒河江市議会の画像" /></span>
+<span class="title arrow1">寒河江市議会</span>
+
+
+</span>
+</a>
+
+</li>
+
+<li class="item">
+
+<a class="push_btn f_biz innerLink" href="/kurashi/shisetsu/index.html">
+<span class="btn_wrap">
+<span class="fig"><img src="index.images/topcity3.jpg" width="360" height="250" alt="施設案内の画像" /></span>
+<span class="title arrow1">施設案内</span>
+
+
+</span>
+</a>
+
+</li>
+
+</ul>
+
+
+
+
+
+
+
+<ul class="city_btn_list">
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/toiawase/tyokutuu.html">
+   <span class="btn_wrap">
+    <span class="icon"><img src="index.images/topcity_b1.png" width="40" height="40" alt="各課の窓口の画像" /></span>
+    <span class="title arrow1">各課の窓口</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/kurashi/zei/question/index.html">
+   <span class="btn_wrap">
+    <span class="icon"><img src="index.images/topcity_b2.png" width="40" height="40" alt="税に関する質問の画像" /></span>
+    <span class="title arrow1">税に関する質問</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/shisei/shiho/sagaepocketnavi.html">
+   <span class="btn_wrap">
+    <span class="icon"><img src="index.images/topcity_b3.png" width="40" height="40" alt="寒河江ぽけっとナビの画像" /></span>
+    <span class="title arrow1">寒河江ぽけっとナビ</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/shisei/shiho/index.html">
+   <span class="btn_wrap">
+    <span class="icon"><img src="index.images/topcity_b4.png" width="40" height="40" alt="市報さがえがおの画像" /></span>
+    <span class="title arrow1">市報さがえ</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz innerLink" href="/toiawase/goiken.html">
+   <span class="btn_wrap">
+    <span class="icon"><img src="index.images/topcity_b5.png" width="40" height="40" alt="ご意見・ご要望の画像" /></span>
+    <span class="title arrow1">ご意見・ご要望</span>
+    
+    
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+<li class="item">
+ 
+  <a class="push_btn f_biz externalLink newWindow" href="https://en3-jg.d1-law.com/sagae/d1w_reiki/reiki.html" target="_blank"  rel="noopener noreferrer">
+   <span class="btn_wrap">
+    <span class="icon"><img src="index.images/topcity_b6.png" width="40" height="40" alt="例規集の画像" /></span>
+    
+    
+    <img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">例規集</span>
+   </span>
+  </a>
+ 
+</li>
+
+
+
+
+</ul>
+
+
+
+
+
+
+</div><!-- /div city -->
+</div><!-- /div infoarea5 -->
+
+
+
+
+
+
+<div id="infoarea6" class="top_sec">
+<h2><span class="jp">関連リンク</span></h2>
+<div class="links">
+<div class="link_list">
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://www.claapin-sagae.jp/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link1.jpg" width="300" height="300" alt="クラッピンサガエの画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">クラッピンサガエ</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://sagae-library.com/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link9.jpg" width="301" height="300" alt="寒河江市立図書館の画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">寒河江市立図書館</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://sagaecitypromotion.jp/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link2.jpg" width="300" height="300" alt="さがえ心地の画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">さがえ心地（寒河江市シティプロモーションサイト）</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://sagae-kanko.com/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link3.jpg" width="300" height="300" alt="さがえさがその画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">さがえさがそ（一般社団法人 寒河江市観光物産協会）</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://sagae100.jp/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link6.png" width="300" height="300" alt="寒河江百貨店の画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">寒河江百貨店</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://jionji-terrace.jp/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link5.jpg" width="300" height="300" alt="慈恩寺テラスの画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">慈恩寺テラス</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://www.sagae-totikousya.jp/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link_tochi.jpg" width="300" height="300" alt="寒河江市土地開発公社の画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">寒河江市土地開発公社</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://www.nishimurayama-koiki.jp/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link_kouiki.jpg" width="300" height="300" alt="西村山広域行政事務組合の画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">西村山広域行政事務組合</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink newWindow" href="https://www.sagae-gym.com/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link7.jpg" width="300" height="300" alt="寒河江市スポーツ協会の画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">寒河江市スポーツ協会</span>
+</a>
+
+</div>
+
+
+
+
+<div class="item">
+
+<a class="f_biz externalLink" href="https://www.sagae-city-hospital.net/" target="_blank"  rel="noopener noreferrer">
+<span class="fig"><img src="index.images/link8.png" width="300" height="300" alt="寒河江市立病院の画像" /></span>
+
+
+<img src="/images/spacer.gif" alt="新規ウィンドウで開きます。" width="0" height="0" class="img-guidance" /><span class="title arrow1">寒河江市立病院</span>
+</a>
+
+</div>
+
+
+
+
+</div>
+<div class="play_pause">
+<button>停止・再生</button>
+<div class="pos_dot"></div>
+</div>
+</div><!-- /event -->
+</div><!-- /div infoarea6 -->
+
+
+
+
+
+
+
+<div id="infoarea7" class="top_sec">
+ <h2><span class="jp">広告</span></h2>
+ <div class="adv">
+  <ul class="adv_list">
+   
+    <li class="item"><a href="/cgi-bin/adclick/redirect.cgi?id=4d216cd5-3f04-4892-a3ec-5f137f8bcaa8" target="_blank"><img src="/banner/marumatsu.gif" width="140" height="60" alt="丸松青果の広告" /></a></li>
+   
+    <li class="item"><a href="/cgi-bin/adclick/redirect.cgi?id=6e23499d-41f7-440a-80d9-11a3686e2494" target="_blank"><img src="/banner/inugaidoboku1.jpg" width="140" height="60" alt="犬飼土木工事" /></a></li>
+   
+    <li class="item"><a href="/cgi-bin/adclick/redirect.cgi?id=9f00573b-6a77-444d-8642-9209c9560e71" target="_blank"><img src="/banner/coshall01.gif" width="140" height="60" alt="coshal" /></a></li>
+   
+    <li class="item"><a href="/cgi-bin/adclick/redirect.cgi?id=d98f83a5-e666-4d3d-a9c1-d622d10341f9" target="_blank"><img src="/banner/ig.jpg" width="140" height="60" alt="アイジー工業" /></a></li>
+   
+    <li class="item"><a href="/cgi-bin/adclick/redirect.cgi?id=6f0da2bb-8473-4c07-ad79-c331787e7d9d" target="_blank"><img src="/banner/cherryland0615_128.gif" width="140" height="60" alt="道の駅寒河江チェリーランド" /></a></li>
+   
+    <li class="item"><a href="/cgi-bin/adclick/redirect.cgi?id=aef87e4f-66d7-4169-8e86-849ed274e4ea" target="_blank"><img src="/banner/baner_bosyu.gif" width="150" height="60" alt="募集中のバナー" /></a></li>
+   
+  </ul>
+  <p class="adv_link"><a href="/koukoku/koukoku_boshu.html" class="arrow1">広告事業について</a></p>
+ </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div id="infoarea8" class="top_sec">
+<div class="ft_info">
+<div class="info_wrap">
+
+
+
+
+
+
+
+
+<div class="data_wrap">
+ <ul class="num_list">
+  <li class="item">
+   <img src="index.images/icon_num1.png" width="70" height="70" alt="人口の画像" />
+   <p class="f_biz">
+    <span class="title">総人口</span>
+    <span class="num_area"><span class="num">38,504</span>
+    <span class="unit">人</span></span>
+   </p>
+  </li>
+ 
+  <li class="item">
+   <img src="index.images/icon_num2.png" width="70" height="70" alt="世帯数の画像" />
+   <p class="f_biz">
+    <span class="title">世帯数</span>
+    <span class="num_area"><span class="num">14,877</span>
+    <span class="unit">世帯</span></span>
+   </p>
+  </li>
+ </ul>
+ <p class="memo">※2026年5月末現在</p>
+</div>
+
+
+
+
+
+
+
+<div class="sns_wrap">
+<p class="title f_biz">寒河江市公式SNS</p>
+<ul class="sns_list">
+
+
+
+<li class="item">
+
+<a class="externalLink newWindow" href="https://page.line.me/806llief?openQrModal=true" target="_blank"  rel="noopener noreferrer"><img src="index.images/ft_line.png" width="50" height="50" alt="LINEの画像" /></a>
+
+</li>
+
+
+
+
+<li class="item">
+
+<a class="externalLink newWindow" href="https://x.com/sagae_official" target="_blank"  rel="noopener noreferrer"><img src="index.images/ft_x.png" width="50" height="50" alt="Xの画像" /></a>
+
+</li>
+
+
+
+
+<li class="item">
+
+<a class="externalLink newWindow" href="https://www.facebook.com/sagaecity" target="_blank"  rel="noopener noreferrer"><img src="index.images/ft_fb.png" width="50" height="50" alt="Facebookの画像" /></a>
+
+</li>
+
+
+
+
+<li class="item">
+
+<a class="externalLink newWindow" href="https://www.youtube.com/channel/UCN0Rn34prP7xERWvF8HKPbA" target="_blank"  rel="noopener noreferrer"><img src="index.images/ft_yt.png" width="50" height="50" alt="Youtubeの画像" /></a>
+
+</li>
+
+
+
+
+</ul><!--- /sns_list -->
+</div><!-- /sns_wrap -->
+
+
+
+
+
+
+</div><!-- /div info_wrap -->
+</div><!-- /div ft_info -->
+</div><!-- /div infoarea8 -->
+
+
+
+
+
+
+
+
+</div><!-- /div infoarea-in -->
+</div><!-- /div infoarea -->
+<!-- △情報エリアここまで△ -->
+
+
+
+
+
+
+
+<!-- ▼フッターパーツここから▼ -->
+<div class="guidance"><img src="/images/spacer.gif" alt="本文ここまで" width="1" height="1" /></div>
+<hr />
+
+
+</div><!-- /div top_wrap -->
+
+
+<hr />
+<div class="page-top" style=""><a href="#PTOP"><span>TOP</span></a><span class="no_font">ぺージの先頭へもどる</span></div>
+<div class="newpara guidance"><img src="/images/spacer.gif" alt="以下フッターです。" width="1" height="1" /></div>
+
+<!-- ▽フッター▽ -->
+<div id="footer">
+<div class="footer_wp">
+	<div class="footer_left">
+	<div class="footer_logo">
+		<img src="/images/f_logo.png" alt="寒河江市" width="220" />
+		<p>法人番号：5000020062065</p>
+	</div>
+	<div class="footer_address">
+		<p>〒991-8601　山形県寒河江市中央一丁目9番45号<br />
+			代表電話：0237-86-2111
+		</p>
+		<p>
+			開庁時間：午前8時30分から午後5時15分<br />
+			閉庁日：土曜日、日曜日、祝日、年末年始
+		</p>
+	</div>
+	</div>
+	<div class="footer_right">
+	<ul class="footer_menu">
+		<li><a href="/kanko/kankoinfo/access/access_annai.html" class="arrow1">アクセス</a></li>
+		<li><a href="/sitemap.html" class="arrow1">サイトマップ</a></li>
+		<li><a href="/homepege/webac.html" class="arrow1">ウェブアクセシビリティ</a></li>
+		<li><a href="/homepege/index.html" class="arrow1">サイトについて</a></li>
+		<li><a href="/homepege/privacypolicy.html" class="arrow1">個人情報の取扱い</a></li>
+		<li><a href="/homepege/tyosakuken.html" class="arrow1">著作権</a></li>
+		<li><a href="/toiawase/tyokutuu.html" class="arrow1">お問い合わせ・各課直通電話番号</a></li>
+		<li><a href="/link/index.html" class="arrow1">リンク集</a></li>
+	</ul>
+	</div>
+</div><!-- /footer_wp-->
+<div class="footer_copy_bg">
+	<p class="footer_copy">Copyright (C) Sagae City All Rights Reserved.</p>
+</div><!-- /footer_copy_bg -->
+
+</div><!-- /footer-->
+<!-- △フッター△ -->
+
+
+</div><!-- /div baseall -->
+ 
+
+</body>
+</html>

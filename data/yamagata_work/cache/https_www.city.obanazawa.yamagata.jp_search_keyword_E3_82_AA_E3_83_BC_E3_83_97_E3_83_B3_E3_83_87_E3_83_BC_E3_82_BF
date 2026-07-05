@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>キーワード検索 | 尾花沢市</title>
+  <meta name="description" content="雪とスイカと花笠のまち尾花沢。「尾花沢スイカ」のブランドで知られる夏スイカの生産量は日本一。霜降りでやわらかく甘味がある「尾花沢牛」、味もよく香り高い「尾花沢そば」の生産にも力を入れています。全国的に有名な「花笠音頭」の発祥地です。">
+  <meta name="keywords" content="尾花沢市,おばね,山形県,花笠,花がさ,はながさ,音頭,祭り,スイカ,西瓜">
+
+  <meta property="og:site_name" content="尾花沢市">
+  <meta property="og:title" content="キーワード検索">
+  <meta property="og:description" content="雪とスイカと花笠のまち尾花沢。「尾花沢スイカ」のブランドで知られる夏スイカの生産量は日本一。霜降りでやわらかく甘味がある「尾花沢牛」、味もよく香り高い「尾花沢そば」の生産にも力を入れています。全国的に有名な「花笠音頭」の発祥地です。">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://www.city.obanazawa.yamagata.jp/search/">
+  <meta property="og:image" content="https://www.city.obanazawa.yamagata.jp/theme/obane/ogp-image.png">
+
+  <link rel="icon" href="/favicon.ico" size="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/manifest.webmanifest">
+
+  <link rel="alternate" type="application/rss+xml" href="/feed/">
+  <link rel="canonical" href="https://www.city.obanazawa.yamagata.jp/search/">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+
+  <link type="text/css" rel="stylesheet" href="/theme/obane/fontawesome-free-6.4.2-web/css/all.min.css">
+  <link type="text/css" rel="stylesheet" href="/theme/obane/css/sanitize.css">
+  <link type="text/css" rel="stylesheet" href="/theme/obane/css/style.css">
+  <link type="text/css" rel="stylesheet" href="/theme/sn-default/css/body.css">
+
+  <script src="/theme/sn-default/lib/jquery/jquery-3.6.0.min.js"></script>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-N23KD34');</script>
+  <!-- End Google Tag Manager -->
+
+</head>
+<body id="full" class="">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N23KD34"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v14.0" nonce="umaaJkf1"></script>
+
+  
+
+  <nav class="screen-reader-text">
+    <a href="#siteContents">このページの本文へ</a>
+  </nav>
+
+  <header class="site-header">
+  <div class="container">
+
+    <div class="branding">
+      <h1><a href="/"><img src="/theme/obane/images/logo.svg" alt="尾花沢市"></a></h1>
+    </div>
+
+    <div class="site-tools">
+      <div class="fontsize">
+        文字の大きさ
+        <button class="fs-button" data-fontsize="default">標準</button>
+        <button class="fs-button" data-fontsize="large">大きく</button>
+      </div>
+      <div class="languages">
+        <a href="/about/translation" class="lang-button">Foreign Languages</a>
+      </div>
+      <div class="site-search">
+        <form method="get" action="/search">
+          <input type="text" name="keyword" placeholder="サイト内検索" value="オープンデータ">
+          <button type="submit">検索</button>
+        </form>
+      </div>
+    </div>
+
+  </div>
+</header>
+
+  <nav class="global-nav">
+
+    <div class="global-nav__pc container">
+      <ul class="global-nav__list">
+        <li class="global-nav__item" style="--menu-order: 1;">
+          <a href="/kurashi/"><i class="fa-solid fa-caret-right"></i>くらし・<br>手続き</a>
+            <div class="global-nav__dropdown">
+            <ul class="global-nav__child">
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/2871" target="_self">スマート申請システム</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/koseki/" target="_self">戸籍届出</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/tetsuzuki/" target="_self">証明書・印鑑登録・住所変更</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/zeikin-nenkin/" target="_self">税金・年金</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/kankyo/" target="_self">上下水道・環境・ごみ</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/kikikanri/" target="_self">防災・危機管理</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/shobo-kyukyu/" target="_self">消防・救急</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/sumai/" target="_self">住まい</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/kotsu/" target="_self">交通</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="https://www.city.obanazawa.yamagata.jp/news/3596" target="_self">区長会</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/yuki/" target="_self">雪対策</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kurashi/my-number/" target="_self">マイナンバー制度</a></span>
+</li>
+</ul>
+
+            </div>
+        </li>
+        <li class="global-nav__item" style="--menu-order: 2;">
+          <a href="/kosodate-bunka/"><i class="fa-solid fa-caret-right"></i>子育て・<br>教育・文化・<br>スポーツ</a>
+            <div class="global-nav__dropdown">
+            <ul class="global-nav__child">
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/ogare/" target="_self">尾花沢市子育て支援サイト「おがぁ～れ」</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/ogare/azukeru/" target="_self">子どもを預ける（保育園・幼稚園）</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kosodate-bunka/gakko-kyoiku/" target="_self">学校教育</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/ogare/school/after-school-activity/" target="_self">放課後児童クラブ</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kosodate-bunka/lifelong-learning/" target="_self">生涯学習（悠美館・公民館）</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kosodate-bunka/sports/" target="_self">スポーツ</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/kosodate-bunka/rekishi-bunka/" target="_self">歴史・文化（芭蕉、清風歴史資料館）</a></span>
+</li>
+</ul>
+
+            </div>
+        </li>
+        <li class="global-nav__item" style="--menu-order: 3;">
+          <a href="/fukushi/"><i class="fa-solid fa-caret-right"></i>健康福祉</a>
+            <div class="global-nav__dropdown">
+            <ul class="global-nav__child">
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/fukushi/kokuho/" target="_self">国民健康保険</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/fukushi/koki-korei/" target="_self">後期高齢者医療制度</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/fukushi/hoken/fukushi-kaigo/kaigohoken-seido/" target="_self">介護保険制度</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/fukushi/kenshin/" target="_self">健診・検診</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/fukushi/hoken/" target="_self">福祉・保健サービス</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/clinic/" target="_self">尾花沢市中央診療所</a></span>
+</li>
+</ul>
+
+            </div>
+        </li>
+        <li class="global-nav__item" style="--menu-order: 4;">
+          <a href="/sangyo/"><i class="fa-solid fa-caret-right"></i>産業・仕事</a>
+            <div class="global-nav__dropdown">
+            <ul class="global-nav__child">
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/sangyo/covid19-sangyo/" target="_self">新型コロナウイルス感染症の影響を受ける事業主の皆様へ</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/sangyo/kigyo-shinko/" target="_self">企業振興</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/sangyo/bid/" target="_self">入札情報</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/sangyo/joseikin-hojokin/" target="_self">助成金・補助金</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/sangyo/koyo/" target="_self">雇用</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/sangyo/nogyo/" target="_self">農業</a></span>
+</li>
+</ul>
+
+            </div>
+        </li>
+        <li class="global-nav__item" style="--menu-order: 5;">
+          <a href="/iju-teiju/"><i class="fa-solid fa-caret-right"></i>移住定住</a>
+            <div class="global-nav__dropdown">
+            <ul class="global-nav__child">
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/iju-teiju/furusato-nozei/" target="_self">ふるさと納税</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/iju-teiju/874" target="_self">おばなざわ暮らし</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/iju-teiju/833" target="_self">尾花沢市ふるさと暮らし応援事業</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/iju-teiju/1020" target="_self">空き家活用支援事業</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/iju-teiju/909" target="_self">空き家バンク制度</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="https://www.city.obanazawa.yamagata.jp/iju-teiju/512" target="_self">地域おこし協力隊募集</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/iju-teiju/953" target="_self">尾花沢市結婚新生活支援事業</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="https://obanennega-yamagata.jp/" target="_blank">OBANENNEGA</a></span>
+</li>
+</ul>
+
+            </div>
+        </li>
+        <li class="global-nav__item" style="--menu-order: 6;">
+          <a href="/shisei/"><i class="fa-solid fa-caret-right"></i>市政情報</a>
+            <div class="global-nav__dropdown">
+            <ul class="global-nav__child">
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/shisei/obanazawa/" target="_self">尾花沢市について</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/shisei/plan/" target="_self">政策・総合計画</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/shisei/reiki-tokei/" target="_self">例規集・統計</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/shisei/zaisei/" target="_self">市の財政状況</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/shisei/senkyo/" target="_self">選挙</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/shisei/syokuin/recruit/" target="_self">職員採用</a></span>
+</li>
+<li class="global-nav__child-item">
+<span class="title">
+<a href="/shisei/shisetsu/" target="_self">施設案内</a></span>
+</li>
+</ul>
+
+            </div>
+        </li>
+        <li class="global-nav__item" style="--menu-order: 7;">
+          <a href="/kanko/"><i class="fa-solid fa-caret-right"></i>観光</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="global-nav__sp">
+      <ul class="sp-nav">
+        <li class="jsToggleMenu"><img src="/theme/obane/images/sp-menu.svg" alt="" width="18" height="18">メニュー</li>
+        <li class="jsToggleFont"><img src="/theme/obane/images/sp-font.svg" alt="" width="18" height="18">文字の大きさ</li>
+        <li class="jsToggleLang"><img src="/theme/obane/images/sp-lang.svg" alt="" width="18" height="18">Language</li>
+      </ul>
+      <div class="sp-nav__wrapper">
+        <div class="jsSpMenu sp-nav__panel">
+          <ul class="sp-menu__list">
+            <li><a href="/kurashi/">くらし・手続き</a></li>
+            <li><a href="/kosodate-bunka/">子育て・教育・文化</a></li>
+            <li><a href="/fukushi/">健康福祉</a></li>
+            <li><a href="/sangyo/">産業・仕事</a></li>
+            <li><a href="/iju-teiju/">移住定住</a></li>
+            <li><a href="/shisei/">市政情報</a></li>
+            <li><a href="/kanko/">観光情報</a></li>
+          </ul>
+        </div>
+        <div class="jsSpFont sp-nav__panel">
+          <div class="sp-font">
+            文字の大きさ
+            <button class="fs-button" data-fontsize="default">標準</button>
+            <button class="fs-button" data-fontsize="large">大きく</button>
+          </div>
+        </div>
+        <div class="jsSpLang sp-nav__panel">
+          <ul class="sp-lang__list">
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jaen/https://www.city.obanazawa.yamagata.jp/" target="_blank">English (Start Translation)</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jazh/https://www.city.obanazawa.yamagata.jp/" target="_blank">中文 (简体) 翻译开始</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jazhb/https://www.city.obanazawa.yamagata.jp/" target="_blank">中文 (繁体) 翻譯開始</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jako/https://www.city.obanazawa.yamagata.jp/" target="_blank">한국어 (韓国語) 번역 개시</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jatl/https://www.city.obanazawa.yamagata.jp/" target="_blank">Tagalog (Pagsisimula ng Pagsasalin)</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="sp-search">
+        <form method="get" action="/search">
+          <label for="spkeyword">キーワード検索</label>
+          <input type="text" id="spkeyword" name="keyword" placeholder="キーワードで探す" />
+          <button type="submit">検索</button>
+        </form>
+      </div>
+    </div>
+
+  </nav>
+
+
+  <main id="siteContents" class="site-main container site-search">
+
+  <article class="main">
+
+    <header class="page-header">
+      <h1 class="page-title">キーワード検索</h1>
+    </header>
+
+    <div class="contentBody content">
+
+      <div class="sect-search-info">
+        <!-- ヘッダに検索フォームあるため、こちらはなしとしておく -->
+
+      </div>
+
+      <h2>ページの検索結果</h2>
+
+      <p class="num-of-hits">ヒット数：0件</p>
+
+        <p class="no-result">検索キーワードに該当するページは見つかりませんでした。</p>
+
+      <h2>カテゴリーの検索結果</h2>
+
+      <p class="num-of-hits">ヒット数：0件</p>
+
+        <p class="no-result">検索キーワードに該当するカテゴリーは見つかりませんでした。</p>
+
+    </div>
+
+  </article>
+
+</main>
+
+<div class="page-navi container">
+  <ul class="clearfix">
+    <li class="prev">
+      <button type="button" class="button is-small is-primary" onclick="history.back();">
+        <span class="fa-solid fa-arrow-left"></span>
+        前のページへ
+      </button>
+    </li>
+  </ul>
+</div>
+
+
+  <footer class="site-footer">
+
+  <div class="site-footer__inner">
+    <div class="site-footer__content container">
+      <div class="site-footer__signature">
+        <div class="logo-footer"><img src="/theme/obane/images/logo-footer.svg" alt="山形県尾花沢市"></div>
+        〒999-4292 <wbr>山形県尾花沢市若葉町一丁目２番３号<br>
+        Tel.0237-22-1111 Fax.0237-22-1239
+        <ul class="footer-button">
+          <li><a href="/shisei/obanazawa/access"><i class="fa-solid fa-location-dot fa-fw"></i> 尾花沢市へのアクセス</a></li>
+          <li><a href="/form/contact/"><i class="fa-regular fa-envelope fa-fw"></i> ご意見・お問い合わせ</a></li>
+        </ul>
+      </div>
+      <div class="site-footer__footer-menu">
+        <ul class="footer-menu">
+          <li><a href="/about/website">このサイトのご利用について</a></li>
+          <li><a href="/about/privacy-policy">個人情報の取り扱い</a></li>
+          <li><a href="/about/disclaimer">免責事項</a></li>
+          <li><a href="/about/copyright">リンク・著作権</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="copyright">
+    &copy; 2022 OBANAZAWA CITY. All Rights Reserved.
+  </div>
+
+  <div class="uesamodoru">
+    <button class="uesamodoru-button"><img src="/theme/obane/images/uesa-modoru.svg" alt="うえさもどる"></button>
+  </div>
+
+</footer>
+
+  <script src="/theme/obane/js/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="ja" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <title>上山市ホームページ トップページ</title>
+    <meta name="keywords" content="山形県,上山市,保養地,クアオルト,温泉,ウォーキング,健康,気候性地形療法,城,蔵王,茂吉,かかし,アスリートビレッジ" />
+    <meta name="description" content="上山市の公式サイト、行事・イベントや観光・物産情報。行政案内、暮らし情報。" />
+    <script src="https://kit.fontawesome.com/f5edb9d7ba.js" crossorigin="anonymous"></script>
+    <meta name="robots" content="max-image-preview:large" />
+    <link rel="canonical" href="https://www.city.kaminoyama.yamagata.jp/" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:site_name" content="上山市ホームページ" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="上山市ホームページ" />
+    <meta property="og:description" content="上山市の公式サイト、行事・イベントや観光・物産情報。行政案内、暮らし情報。" />
+    <meta property="og:url" content="https://www.city.kaminoyama.yamagata.jp/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:domain" content="https://www.city.kaminoyama.yamagata.jp/" />
+    <meta name="twitter:title" content="上山市ホームページ" />
+    <meta name="twitter:description" content="上山市の公式サイト、行事・イベントや観光・物産情報。行政案内、暮らし情報。" />
+    <style type="text/css" media="all">
+        @import url("/ssi/css/slick.css");
+        @import url("/ssi/css/top.css");
+    </style>
+    <link rel="stylesheet" type="text/css" media="print" href="/ssi/css/print.css" />
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="stylesheet" type="text/css" media="print" href="/ssi/css/print.css" />
+<script type="text/javascript" src="/ssi/js/escapeurl.js"></script>
+<script type="text/javascript" src="/ssi/js/jquery.js"></script>
+<script type="text/javascript" src="/ssi/js/jquery-migrate.js"></script>
+<script type="text/javascript" src="/ssi/js/common.js"></script>
+<script type="text/javascript" src="/ssi/js/s-google.js"></script>
+<script type="text/javascript" src="/ssi/js/search-open-page-id.js"></script>
+<script type="text/javascript" src="/ssi/js/last-page-parts-load-1.js"></script>
+    <script type="text/javascript" src="/ssi/js/search-trend.js"></script>
+    <script type="text/javascript" src="/ssi/js/toptab.js"></script>
+    <script type="text/javascript" src="/ssi/js/slick.js"></script>
+    <script type="text/javascript" src="/ssi/js/common-top.js"></script>
+    <script type="text/javascript" src="/ssi/js/top-slideshow.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39385410-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39385410-1');
+</script>
+</head>
+
+<body>
+
+    <div class="top_index">
+        <!-- コンテナここから -->
+        <div id="container">
+            <span class="hide" id="pagetop">ページの先頭です。</span>
+            <span class="hide"><a href="#skip">メニューを飛ばして本文へ</a></span>
+
+            <!-- ヘッダここから -->
+            <div id="header">
+                <div id="spm_wrap"><button type="button" id="spm_menu"><span class="hide">メニュー</span></button></div>
+<!-- ヘッダーここから -->
+<div id="header2">
+	<div id="he_left">
+		<!--div id="logo_top"><a href="/"><img src="/img/common/index_logo.png" alt="上山市ホームページ" /></a></div-->
+	</div>
+	<div id="he_right">
+		<noscript><p>JavaScriptが無効のため、文字の大きさ・背景色を変更する機能を使用できません。</p></noscript>
+		<!-- リンクここから -->
+		<ul id="header_navi">
+			<li class="h_lang"><a href="/soshiki/10/language.html" lang="en">Foreign language</a></li>
+                        <li class="h_site"><a href="/site/mikata/">サイトの見方</a></li>
+			<li class="h_sitemap"><a href="/sitemap.html">サイトマップ</a></li>
+			<li class="h_guide"><a href="/soshiki/3/goannai.html">各課のご案内</a></li>
+			<li class="h_support">
+				<!-- 背景の変更ここから -->
+				<dl id="haikei_color">
+					<dt>背景色</dt>
+					<dd><a id="haikei_white" href="javascript:SetCss(1);" title="背景色を白色に変更する">白</a></dd>
+					<dd><a id="haikei_black" href="javascript:SetCss(2);" title="背景色を黒色に変更する">黒</a></dd>
+					<dd><a id="haikei_blue"  href="javascript:SetCss(3);" title="背景色を青色に変更する">青</a></dd>
+				</dl>
+				<!-- 背景の変更ここまで -->
+				<!-- 文字の大きさ変更ここから -->
+				<dl id="moji_size">
+					<dt>文字サイズ</dt>
+					<dd><a id="moji_default" href="javascript:fsc('default');" title="文字サイズを標準にする">標準</a></dd>
+					<dd><a id="moji_large" href="javascript:fsc('larger');" title="文字サイズを拡大する">拡大</a></dd>
+				</dl>
+				<!-- 文字の大きさ変更ここまで -->
+			</li>
+			<li class="h_onsei"><a href="https://www3.zoomsight-sv2.jp/INF/ja/controller/index.html#https://www.city.kaminoyama.yamagata.jp" target="_blank">音声読み上げ</a></li>
+		</ul>
+		<!-- リンクここまで -->
+	</div>
+</div>
+<!-- ヘッダーここまで -->
+                
+            </div>
+            <!-- ヘッダここまで -->
+
+            <div class="slide_wrap">
+                <!-- スライドショーここから -->
+                <div id="top_photo_wrap">
+                    <div id="top_photo" class="rs_preserve">
+                        <!-- バナー広告（左列）ここから -->
+                        <ul id="top_photo_list">
+                            <li><img src="/uploaded/banner/25_img1.jpg" alt="トップページスライド夏①さくらんぼ" /><span class="photo_caption"></span></li><li><img src="/uploaded/banner/26_img1.jpg" alt="トップページスライド夏②楢下" /><span class="photo_caption"></span></li><li><img src="/uploaded/banner/27_img1.jpg" alt="トップページスライド夏③アスリートヴィレッジ" /><span class="photo_caption"></span></li>
+                        </ul>
+                        <!-- バナー広告（左列）ここまで -->
+                    </div>
+                </div>
+                
+                <div class="lefttop">
+                    <!-- タイトル -->
+                    <div class="sitetitle">
+                        <img src="/img/common/logotype.png" alt="上山市　Kaminoyama City">
+                    </div>
+                    <!-- 検索ここから -->
+                    <div id="top_search_keyword">
+                        <!-- Googleカスタム検索ここから -->
+                        <form action="/search.html" method="get" id="cse-search-box" name="cse-search-box">
+                        <input type="hidden" name="cx" value="" /><!--
+                        --><input type="hidden" name="cof" value="FORID:11" /><!--
+                        --><input type="hidden" name="ie" value="UTF-8" /><!--
+                        --><label for="tmp_query"><span class="hide">Googleカスタム検索</span></label><!--
+                        <--><div class="flex"><input type="text" name="q" value="" id="tmp_query" /><input type="submit" value="検索" id="submit" name="sa" /></div>
+                        </form>
+                        <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box"></script>
+                        <!-- Googleカスタム検索ここまで -->
+                        <div class="trend_word_wrap" id="search_trend_word">
+                            <p>採用試験
+マイナンバー
+物価高高騰対策
+ふるさと納税
+クマ</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- リンクここから -->
+                <div class="linkbox">
+                    <p><a href="/soshiki/11/bearmap-2025.html" class="kuma">クマ情報</a></p>
+                    <p><a href="https://kaminoyama-citypromotion.com/" class="citypro" target=="_blank">シティプロモーション・移住</a><span class="external_link_text">＜外部リンク＞</span></p>
+                    <p><a href="/soshiki/3/km201300202.html" class="base">ふるさと納税</a></p>
+                    <p><a href="/site/kurort/" class="base">クアオルト事業</a></p>
+                </div>
+                <!-- メニュー -->
+                <!-- グローバルここから -->
+                <div id="top_search">
+                    <nav class="global_menu">
+                        <ul>
+                            <li class="menu">
+                                <a href="/life/5/">
+                                    <span class="img"><img src="/img/common/menuicon_1.png" alt="市民のくらし画像" class="icon" /></span>
+                                    <span class="txt">市民のくらし</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title1.svg" alt="市民のくらし" /></div>
+                                        </div>
+                                        <div class="right">
+                                            <ul class="child_menu">
+                                                <li><a href="/life/5/58/">妊娠・出産・子育て</a></li>
+                                                <li><a href="/life/5/59/">教育</a></li>
+                                                <li><a href="/life/5/60/">結婚・離婚</a></li>
+                                                <li><a href="/life/5/61/">住まい・引越し</a></li>
+                                                <li><a href="/life/5/62/">高齢者・介護</a></li>
+                                                <li><a href="/life/5/63/">おくやみ</a></li>
+                                                <li><a href="/life/5/64/">手続き・証明</a></li>
+                                                <li><a href="/life/5/65/">ごみ</a></li>
+                                                <li><a href="/life/5/66/">健康・医療</a></li>
+                                                <li><a href="/life/5/67/">税金</a></li>
+                                                <li><a href="/life/5/68/">保険・年金</a></li>
+                                                <li><a href="/life/5/69/">交通・道路</a></li>
+                                                <li><a href="/life/5/72/">環境・ペット</a></li>
+                                                <li><a href="/life/5/71/">福祉</a></li>
+                                                <li><a href="/life/5/73/">仕事</a></li>
+                                                <li><a href="/life/5/85/">農林業</a></li>
+                                                <li><a href="/life/5/70/">都市・景観</a></li>
+                                                <li><a href="/life/5/74/">上・下水道</a></li>
+                                                <li><a href="/life/5/79/">消防・防災・防犯</a></li>
+                                                <li><a href="/life/5/76/">生涯学習</a></li>
+                                                <li><a href="/life/5/75/">文化・歴史</a></li>
+                                                <li><a href="/life/5/77/">スポーツ</a></li>
+                                                <li><a href="/life/5/80/">市政</a></li>
+                                                <li><a href="/life/5/81/">条例・計画</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="menu">
+                                <a href="/life/6/">
+                                    <span class="img"><img src="/img/common/menuicon_2.png" alt="事業者のみなさまへ画像" class="icon" /></span>
+                                    <span class="txt">事業者のみなさまへ</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title2.svg" alt="事業者のみなさまへ" /></div>
+                                        </div>
+                                        <div class="right">
+                                            <ul class="child_menu">
+                                                <li><a href="/life/6/83/">企業立地</a></li>
+                                                <li><a href="/life/6/84/">商工業</a></li>
+                                                <li><a href="/life/6/78/">農林業</a></li>
+                                                <li><a href="/life/6/82/">入札・契約</a></li>
+                                                <li><a href="/life/6/86/">税金</a></li>
+                                                <li><a href="/life/6/88/">土地・建築・上下水道工事</a></li>
+　　　　　　　　　　　　　　　　　　　　　 <li><a href="/life/6/115/">補助金</a></li>
+                                                <li><a href="/life/6/118/">申請・手続き</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="menu">
+                                <a href="/life/7/">
+                                                    <span class="img"><img src="/img/common/menuicon_3.png" alt="観光・物産案内画像" class="icon" /></span>
+                                    <span class="txt">観光・物産案内</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title3.svg" alt=">観光・物産案内" /></div>
+                                        </div>
+                                        <div class="right">
+                                            <ul class="child_menu">
+                                                <li><a href="/life/7/89/">観光情報</a></li>
+<li><a href="http://kaminoyama-spa.com/" target="_blank">上山市観光物産協会</a><span class="external_link_text">＜外部リンク＞</span></li>
+                                                <li><a href="/soshiki/10/zaocamp2.html">蔵王坊平・キャンプ場</a></li>
+                                                <li><a href="https://www.zao-bodaira.com/" target="_blank">蔵王坊平アスリートヴィレッジ</a><span class="external_link_text">＜外部リンク＞</span></li>
+                                                <li><a href="http://kaminoyama-castle.info/" target="_blank">上山城</a><span class="external_link_text">＜外部リンク＞</span></li>
+                                                <li><a href="https://www.mokichi.or.jp/" target="_blank">斎藤茂吉記念館</a><span class="external_link_text">＜外部リンク＞</span></li>
+                                                <li><a href="/uploaded/attachment/1759.pdf">楢下宿</a></li>
+                                                <li><a href="http://w01.tp1.jp/~a073735831/sub6.html#f"  target="_blank">武家屋敷</a><span class="external_link_text">＜外部リンク＞</span></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <!-- グローバルここまで -->
+
+<div class="hamburger-menu">
+    <input type="checkbox" id="menu-btn-check">
+    <label for="menu-btn-check" class="menu-btn"><p class="menu">メニュー</p><span></span></label>
+    <div class="menu-content">
+        <p class="title">カテゴリメニュー</p>
+        <ul class="nonstyle ul_li">
+            <li>
+                <a href="/life/5/">市民のくらし</a>
+            </li>
+            <li>
+                <a href="/life/6/">事業者のみなさまへ</a>
+            </li>
+            <li>
+                <a href="/life/7/">観光・物産案内</a>
+            </li>
+        </ul>
+        <p class="title">いざというときは</p>
+        <ul class="nonstyle ul_li">
+            <li>
+                <a href="/soshiki/7/kenkosuisin-toubanni-20130322.html">休日・夜間の当番医 </a>
+            </li>
+            <li>
+                <a href="http://shoubo.city.kaminoyama.yamagata.jp/syutsu.htm">消防車出動状況 </a><span class="external_link_text">＜外部リンク＞</span>
+            </li>
+            <li>
+                <a href="/life/5/79/252/">防災情報</a>
+            </li>
+        </ul>
+        <p class="title">ライフシーンから探す</p>
+        <ul class="nonstyle ul_icon">
+            <li>
+                <a href="/life/5/58/">
+                    <div class="img">
+                        <img src="/img/common/icon_life1.svg" alt="妊娠・出産・子育て画像">
+                    </div>
+                    <div class="txt">
+                        <p>妊娠・出産・子育て</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/59/">
+                    <div class="img">
+                        <img src="/img/common/icon_life2.svg" alt="教育画像">
+                    </div>
+                    <div class="txt">
+                        <p>教育</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/60/">
+                    <div class="img">
+                        <img src="/img/common/icon_life3.svg" alt="結婚・離婚画像">
+                    </div>
+                    <div class="txt">
+                        <p>結婚・離婚</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/61/">
+                    <div class="img">
+                        <img src="/img/common/icon_life4.svg" alt="住まい・引越し画像">
+                    </div>
+                    <div class="txt">
+                        <p>住まい・引越し</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/62/">
+                    <div class="img">
+                        <img src="/img/common/icon_life5.svg" alt="高齢者・介護画像">
+                    </div>
+                    <div class="txt">
+                        <p>高齢者・介護</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/63/">
+                    <div class="img">
+                        <img src="/img/common/icon_life6.svg" alt="おくやみ画像">
+                    </div>
+                    <div class="txt">
+                        <p>おくやみ</p>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <p class="title">生活ガイドから探す</p>
+        <ul class="nonstyle ul_icon">
+            <li>
+                <a href="/life/5/64/">
+                    <div class="img">
+                        <img src="/img/common/icon_guide1.svg" alt="手続き・証明画像">
+                    </div>
+                    <div class="txt">
+                        <p>手続き・証明</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/65/">
+                    <div class="img">
+                        <img src="/img/common/icon_guide2.svg" alt="ごみ画像">
+                    </div>
+                    <div class="txt">
+                        <p>ごみ</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/66/">
+                    <div class="img">
+                        <img src="/img/common/icon_guide3.svg" alt="健康・医療画像">
+                    </div>
+                    <div class="txt">
+                        <p>健康・医療</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/67/">
+                    <div class="img">
+                        <img src="/img/common/icon_guide4.svg" alt="税金画像">
+                    </div>
+                    <div class="txt">
+                        <p>税金</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/68/">
+                    <div class="img">
+                        <img src="/img/common/icon_guide5.svg" alt="保険・年金画像">
+                    </div>
+                    <div class="txt">
+                        <p>保険・年金</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="/life/5/69/">
+                    <div class="img">
+                        <img src="/img/common/icon_guide6.svg" alt="交通・道路画像">
+                    </div>
+                    <div class="txt">
+                        <p>交通・道路</p>
+                    </div>
+                </a>
+            </li>
+        </ul>
+        <p class="title">トピックス</p>
+        <ul class="nonstyle ul_li">
+            <li>
+                <a href="/soshiki/10/km201300202.html">ふるさと納税</a>
+            </li>
+            <li>
+                <a href="/site/kurort/">クアオルト事業</a>
+            </li>
+        </ul>
+    </div>
+</div>
+            </div>
+
+            <!-- スマホ用グローバルボタン -->
+            <div id="top_gnav_sp">
+		<ul>
+			<li><a href="/life/5/"><span class="img"><img src="/img/common/menuicon_1.png" alt="市民のくらし画像" class="icon" /></span>
+			市民の<br />くらし</a></li>
+			<li><a href="/life/6/"><span class="img"><img src="/img/common/menuicon_2.png" alt="事業者のみなさまへ画像" class="icon" /></span>
+			事業者の<br />みなさまへ</a></li>
+			<li><a href="/life/7/"><span class="img"><img src="/img/common/menuicon_3.png" alt="観光・物産案内画像" class="icon" /></span>
+			観光・物産<br />案内</a></li>
+		</ul>
+            </div>
+            <!-- スマホ用グローバルボタンここまで -->
+            
+            
+
+            <section class="news">
+                <div class="inner">
+                    <!-- タブここから -->
+                    <div class="h2wrap"><div class="icon"><img src="/img/common/icon_news.png" alt="お知らせアイコン" class="icon" /></div><h2>お<span>知</span>らせ</h2></div>
+                    <div id="top_tab_wrap" class="rs_preserve">
+                        <div id="top_tab_title">
+                            <ul>
+                                <li id="top_tab_title_1"><button type="button">新着情報</button></li>
+                                <li id="top_tab_title_2"><button type="button">募集</button></li>
+                                <li id="top_tab_title_3"><button type="button">入札</button></li>
+                            </ul>
+                        </div>
+                        <div id="top_tab_detail">
+
+                            <!-- 新着情報ここから -->
+                            <div id="top_tab_detail_1" class="top_tab_detail_box">
+                                
+                                <h2 class="hide acc_title">新着情報</h2>
+                                <div class="top_tab_detail_box2">
+                                    
+                                    <div class="top_tab_detail_list">
+                                        
+                                        <ul>
+                                            <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/6/moyaserugomi-shiiru.html">「もやせるごみ袋」シールの利用は7月18日までとなります</a></span></li><li><span class="article_date">2026年6月8日更新</span><span class="article_title"><a href="/soshiki/2/bosyuu.html">上山市職員採用試験</a></span></li><li><span class="article_date">2026年5月1日更新</span><span class="article_title"><a href="/soshiki/12/keikantanken.html">【令和8年度】わくわく！上山景観探険まちあるき～城下町編～参加者募集</a></span></li><li><span class="article_date">2026年7月2日更新</span><span class="article_title"><a href="/soshiki/9/kamishouhinken.html">「カセ坊商品券」を配付しています</a></span></li><li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/25/kanpou.html">地区公民館　館報（公民館だより）</a></span></li>
+                                        </ul>
+                                        
+                                    </div>
+                                    <div class="link_box">
+                                        <span class="link_ichiran"><a href="/soshiki/list1-1.html">新着一覧</a></span>
+                                        <span class="link_rss"><a href="/rss/10/list1.xml"><i class="fas fa-rss"></i> RSS</a></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            <!-- 新着情報ここまで -->
+
+                            
+                            <!-- 募集ここから -->
+                            <div id="top_tab_detail_7" class="top_tab_detail_box">
+                                <h2 class="hide acc_title">募集</h2>
+                                <div class="top_tab_detail_box2">
+                                    <div class="top_tab_detail_list">
+                                        
+                                        <ul>
+                                            <li><span class="article_date">2026年6月8日更新</span><span class="article_title"><a href="/soshiki/2/bosyuu.html">上山市職員採用試験</a></span></li><li><span class="article_date">2026年5月1日更新</span><span class="article_title"><a href="/soshiki/12/keikantanken.html">【令和8年度】わくわく！上山景観探険まちあるき～城下町編～参加者募集</a></span></li><li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/2/bousaicisukiruup.html">令和8年度山形県防災士スキルアップ研修会の開催について（山形県防災危機管理課）</a></span></li><li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/15/koubai-syobo-kyuukyuu1.html">市で使用しなくなった物品を売却します</a></span></li><li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/2/bousaikouza.html">防災講座を図書館で開催します</a></span></li>
+                                        </ul>
+                                        
+                                    </div>
+                                    <div class="link_box">
+                                        <span class="link_ichiran"><a href="/soshiki/list7-1.html">募集一覧</a></span>
+                                        <span class="link_rss"><a href="/rss/10/list7.xml"><i class="fas fa-rss"></i> RSS</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- 募集ここまで -->
+                            
+
+                            
+                            <!-- 入札ここから -->
+                            <div id="top_tab_detail_8" class="top_tab_detail_box">
+                                <h2 class="hide acc_title">入札</h2>
+                                <div class="top_tab_detail_box2">
+                                    <div class="top_tab_detail_list">
+                                        
+                                        <ul>
+                                            <li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/15/koubai-syobo-kyuukyuu1.html">市で使用しなくなった物品を売却します</a></span></li><li><span class="article_date">2026年6月10日更新</span><span class="article_title"><a href="/soshiki/3/r8koukyoupvdounyu.html">令和8年度上山市公共施設への太陽光発電設備等導入事業の公募型プロポーザルを実施します</a></span></li><li><span class="article_date">2026年5月29日更新</span><span class="article_title"><a href="/soshiki/13/shitumonkaitouoyobiboshuuyoukoushuusei.html">上山市下水道施設包括的管理等事業募集要項等に関する質問等への回答及び募集要項等の修正版の公表</a></span></li><li><span class="article_date">2026年5月1日更新</span><span class="article_title"><a href="/soshiki/64/challenge-shopseibi.html">チャレンジひろば　ＺＥＲＯへの出店者を募集します</a></span></li><li><span class="article_date">2026年4月1日更新</span><span class="article_title"><a href="/soshiki/4/hattyuu202604.html">令和8年度の工事発注見通しを公表しました</a></span></li>
+                                        </ul>
+                                        
+                                    </div>
+                                    <div class="link_box">
+                                        <span class="link_ichiran"><a href="/soshiki/list8-1.html">入札一覧</a></span>
+                                        <span class="link_rss"><a href="/rss/10/list8.xml"><i class="fas fa-rss"></i> RSS</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- 入札ここまで -->
+                            
+
+                        </div>
+                    </div>
+                    <!-- タブここまで -->
+
+                </div><!-- innerここまで -->
+            </section><!-- newsここまで -->
+
+            <section class="findinfo">
+                <div class="inner">
+
+                    <!-- タブここから -->
+                    <div class="h2wrap"><div class="icon"><i class="fas fa-search"></i></div><h2><span>くらし</span>の<span>情報</span>を<span>探す</span></h2></div>
+                    <div id="top_tab_wrap2" class="rs_preserve">
+                        <div id="top_tab_title2">
+                            <ul>
+                                <li id="top_tab_title_4" class="tab_on"><button type="button">ライフシーン</button></li>
+                                <li id="top_tab_title_5"><button type="button">生活ガイド</button></li>
+                            </ul>
+                        </div>
+                        <div id="top_tab_detail2">
+                            <!-- ライフシーンここから -->
+                            <div id="top_tab_detail_4" class="top_tab_detail_box tab_life">
+                                <h2 class="hide acc_title">ライフシーン</h2>
+                                <div class="top_tab_detail_box2">
+                                    <ul class="nonstyle">
+                                        <li>
+                                            <a href="/life/5/58/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_life1.svg" alt="妊娠・出産・子育て">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>妊娠・出産・子育て</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/59/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_life2.svg" alt="教育">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>教育</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/60/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_life3.svg" alt="結婚・離婚">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>結婚・離婚</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/61/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_life4.svg" alt="住まい・引越し">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>住まい・引越し</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/62/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_life5.svg" alt="高齢者・介護">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>高齢者・介護</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/63/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_life6.svg" alt="おくやみ">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>おくやみ</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- ライフシーンここまで -->
+                            <!-- 生活ガイドここから -->
+                            <div id="top_tab_detail_5" class="top_tab_detail_box tab_guide">
+                                <h2 class="hide acc_title">生活ガイド</h2>
+                                <div class="top_tab_detail_box2">
+                                    <ul class="nonstyle">
+                                        <li>
+                                            <a href="/life/5/64/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_guide1.svg" alt="手続き・証明">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>手続き・証明</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/65/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_guide2.svg" alt="ごみ">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>ごみ</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/66/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_guide3.svg" alt="健康・医療">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>健康・医療</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/67/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_guide4.svg" alt="税金">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>税金</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/68/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_guide5.svg" alt="保険・年金">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>保険・年金</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/life/5/69/">
+                                                <div class="img">
+                                                    <img src="/img/common/icon_guide6.svg" alt="交通・道路">
+                                                </div>
+                                                <div class="txt">
+                                                    <p>交通・道路</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- 生活ガイドここまで -->
+                        </div>
+                    </div>
+                    <!-- タブここまで -->
+
+                    <div class="iza">
+                        <div class="iza_title">
+                            <span>い</span><span>ざ</span>というときは
+                        </div>
+                        <div class="iza_list">
+                            <ul class="nonstyle">
+                                <li>
+                                    <a href="/soshiki/7/kenkosuisin-toubanni-20130322.html">
+                                        <div class="img">
+                                            <img src="/img/common/icon_kyujitsu.svg" alt="休日･夜間の当番医">
+                                        </div>
+                                        <div class="txt">
+                                            <p>休日･夜間の当番医</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://shoubo.city.kaminoyama.yamagata.jp/syutsu.htm">
+                                        <div class="img">
+                                            <img src="/img/common/icon_syobou.svg" alt="消防車出動状況">
+                                        </div>
+                                        <div class="txt">
+                                            <p>消防車出動状況</p>
+                                        </div>
+                                    </a><span class="external_link_text">＜外部リンク＞</span>
+                                </li>
+                                <li>
+                                    <a href="/life/5/79/252/">
+                                        <div class="img">
+                                            <img src="/img/common/icon_saigai.svg" alt="防災情報">
+                                        </div>
+                                        <div class="txt">
+                                            <p>防災情報</p>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                </div><!-- innerここまで -->
+            </section><!-- findinfoここまで -->
+
+            <section class="about">
+                <div class="inner">
+                    <div class="h2wrap"><div class="icon"><i class="fas fa-info-circle"></i></div><h2><span>上山市</span>について</h2></div>
+                    <ul class="nonstyle ul_about">
+                        <li>
+                            <a href="/site/mayor/">
+                                <img src="/img/common/btn_top_about1.png" alt="市長の部屋">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/site/kouhoushi/">
+                                <img src="/img/common/btn_top_about2.png" alt="広報かみのやま">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/soshiki/2/km201300775.html">
+                                <img src="/img/common/btn_top_about3.png" alt="上山市の紹介">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/site/gikai/">
+                                <img src="/img/common/btn_top_about4.png" alt="上山市議会">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/life/5/81/">
+                                <img src="/img/common/btn_top_about5.png" alt="条例・計画">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/soshiki/">
+                                <img src="/img/common/btn_top_about6.png" alt="ご意見・お問い合わせ">
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="nonstyle ul_sns">
+                        <li>
+                            <a href="https://page.line.me/822vekwc">
+                                <img src="/img/common/btn_line.png" alt="上山市公式LINE">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/kaminoyama_official/">
+                                <img src="/img/common/btn_insta.png" alt="上山市公式Instagram">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCUju1eVfbum2zAhSbfKHN_w">
+                                <img src="/img/common/btn_youtube.png" alt="上山市公式YouTube">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/pr_kaminoyama/">
+                                <img src="/img/common/btn_twitter.png" alt="上山市公式Twitter">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                    </ul>
+                </div><!-- innerここまで -->
+            </section><!-- aboutここまで -->
+
+            <section class="bnr">
+                <div class="inner">
+                    <!-- バナー広告ここから -->
+                    <div id="banner_footer1">
+                      <div id="banner_footer_box">
+                        
+                      </div>
+                    </div>
+                    <!-- バナー広告ここまで -->
+                </div><!-- innerここまで -->
+            </section><!-- bnrここまで -->
+            
+            <!-- フッターここから -->
+            <div id="back_or_pagetop">
+<div id="to_page_top"><a href="#pagetop"><i class="far fa-arrow-alt-circle-up"></i> このページの先頭へ</a></div>
+</div>
+
+<div class="btn_topagetop_rightdown"><a href="#"><img src="/img/common/btn_page_top.svg" alt="ページトップへ" /></a></div>
+
+            <div class="footer_nav">
+                <div class="inner">
+                    <ul class="nonstyle">
+                        <li>
+                            <a href="/site/mikata/kojinjyoho.html">個人情報の取り扱いについて</a>
+                        </li>
+                        <li>
+                            <a href="/site/mikata/menseki.html">著作権・免責事項</a>
+                        </li>
+                        <li>
+                            <a href="/site/mikata/homepage.html">このホームページについて</a>
+                        </li>
+                        <li>
+                            <a href="/site/mikata/accessbility.html">アクセシビリティについて</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="footer" class="footer">
+                <div class="inner">
+                    <div class="author_box">
+                        <p class="name"><img src="/img/common/logo_footer.svg" alt="上山市"></p><p class="add">〒999-3192　山形県上山市河崎一丁目1番10号</p>
+                        <p class="time">開庁時間：月曜日～金曜日（祝日、年末年始を除く）／窓口午前8時45分～午後4時30分 </p>
+                        <p class="tel">TEL:023-672-1111／FAX:023-672-1112</p>
+                        <ul class="nonstyle footer_btn">
+                            <li><a href="/soshiki/3/access.html">市役所への行きかた</a></li>
+                            <li><a href="/soshiki/4/floormap.html">市役所フロアマップ</a></li>
+                            <li><a href="/soshiki/3/annai.html">組織別連絡先一覧</a></li>
+                        </ul>
+                        <p class="txt">各ページに掲載の記事及び写真・イラスト等の無断で転載、複製を禁じます。</p>
+                        <p class="copy">&#169; 2022- 上山市. All rights reserved.</p>
+                    </div><!-- author_infoここまで -->
+                    <div class="imgmap">
+                        <img src="/img/common/index_footer_map.png" alt="山形県上山市地図">
+                    </div>
+                </div>
+            </div>
+            <!-- フッターここまで -->
+
+        </div><!-- コンテナここまで -->
+
+    </div><!-- top_indexここまで -->
+
+</body>
+</html>

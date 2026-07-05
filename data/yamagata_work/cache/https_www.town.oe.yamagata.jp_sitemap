@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <title>サイトマップ | 大江町</title>
+
+  <link rel="canonical" href="https://www.town.oe.yamagata.jp/sitemap" />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <meta property="og:title" content="サイトマップ" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://www.town.oe.yamagata.jp/sitemap" />
+  <meta property="og:image" content="/apple-touch-icon.png" />
+  <meta property="og:site_name" content="大江町" />
+  <meta property="og:description" content="" />
+
+  <link rel="alternate" type="application/rss+xml" href="/feed/news" />
+  <link rel="alternate" type="application/rss+xml" href="/feed/announce" />
+
+  <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css?1674638718">
+  <link rel="stylesheet" href="/theme/sn-default/css/body.css">
+  <link rel="stylesheet" href="/assets/swiper/css/swiper.min.css" />
+  <script src="/assets/swiper/js/swiper.min.js"></script>
+
+  <script src="/theme/sn-default/lib/jquery/jquery-3.5.1.min.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KL4KMBM');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body id="full" class="">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL4KMBM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<header id="hasthead" class="site-header">
+  <nav id="top" class="skip screen-reader-text">
+    <p><a href="#content">このページの本文へ</a></p>
+  </nav>
+
+  <div class="toolbar">
+    <div class="container toolbar-grid">
+      <div class="fontsize">
+        <i class="fas fa-fw fa-caret-right"></i>文字サイズ
+        <button class="button" data-fontsize="default">標準</button>
+        <button class="button" data-fontsize="large">中</button>
+        <button class="button" data-fontsize="xlarge">大</button>
+      </div>
+      <div class="foreign-languages"><a href="/site-information/foreign-languages" class="button">Foreign Languages</a></div>
+    </div>
+  </div>
+
+  <div class="site-header-content">
+    <div class="site-branding">
+      <a href="/"><img src="/assets/images/site-logo.svg" alt="大江町"></a>
+    </div>
+    <div class="site-search">
+    </div>
+    <button class="nav-button" id="js-nav-button">
+      <i class="fas fa-bars"></i>
+      <span>メニュー</span>
+    </button>
+  </div>
+
+	<div class="mobile-navigation-wrapper" id="js-nav-drawer">
+		<nav class="mobile-navigation">
+      <div class="mobile-navigation-search">
+        <form method="get" action="/search" id="jsSearchform" class="search-form">
+          <label for="keyword" class="screen-reader-text">サイト内検索</label>
+          <input type="text" name="keyword" id="keyword" placeholder="サイトを検索" value=""/>
+          <input type="submit" value="検索" accesskey="f" />
+        </form>
+      </div>
+      <div class="mobile-navigation-content">
+        <div class="menu-grid">
+          <ul class="menu-primary">
+            <li><a href="/life/">くらし・手続き</a></li>
+            <li><a href="/childcare-learning/">子育て・生涯学習</a></li>
+            <li><a href="/industry/">産業</a></li>
+            <li><a href="/government/">町政・町づくり</a></li>
+            <li><a href="/kanko-event/">観光・イベント・募集</a></li>
+          </ul>
+          <ul class="menu-secondary">
+            <li><a href="/">ホーム</a></li>
+            <li><a href="/news/">新着情報</a></li>
+            <li><a href="/announce/">町からのお知らせ</a></li>
+            <li><a href="/organization/">組織別一覧</a></li>
+            <li><a href="/site-information/foreign-languages">Foreign Languages</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="mobile-navigation-close" id="js-nav-close">メニューを閉じる</div>
+		</nav>
+	</div>
+
+</header>
+
+<nav class="global-nav">
+  <div class="container">
+    <ul class="global-nav-list">
+      <li><a href="/">ホーム</a></li>
+      <li>
+        <a href="/life/">くらし・手続き</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/life/nenkin/">国民年金</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/registration/">届出・証明</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/mynumber/">マイナンバーなど</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/insurance/">保険</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/marriage/">結婚支援</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/disaster-prevention/">防災、危機管理</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/garbage/">ごみ</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/counselling/">相談</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/tax/">税について</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/water-service/">水道・下水道・浄化槽</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/welfare/">福祉・介護</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/medical/">医療</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/health/">健康</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/sonota_tetuduki/">その他</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/childcare-learning/">子育て・生涯学習</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/pregnant/">妊娠・出産</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/kosodate/">子育て</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/education/">教育</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/schooling/">学校教育</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/lifelonglearning/">生涯学習・スポーツ</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/industry/">産業</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/industry/commerce/">商工・労働</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/industry/agriculture-forestry/">農林業</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/government/">町政・町づくり</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/government/chousei/">町政</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/ooe-overview/">町の概要</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/election/">選挙</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/mainpolicy/">主な政策</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/living-environment/">住まい・道路・景観</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/chiiki-okoshi/">地域おこし協力隊</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/information-statistics/">情報・統計</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/rekisyu/">例規集</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/kouhou/">広報</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/kanko-event/">観光･イベント･募集</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/kankou-bunka/">観光・文化</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/furusato-nouzei/" target="_self">ふるさと納税</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/boshu/">募集</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/oe-event/">イベント</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/oe-event-calendar/">イベントカレンダー</a></span>
+</li>
+</ul>
+
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+<div class="container navigation">
+  <div id="breadCrumb" class="breadcrumb"><p class="screen-reader-text">現在の位置：</p><ul vocab="https://schema.org/" typeof="BreadcrumbList"><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="/"><span property="name">ホーム</span></a><meta property="position" content="1"></li><li property="itemListElement" typeof="ListItem"><span property="name">サイトマップ</span><meta property="position" content="2"></li></ul></div>
+  <aside class="print_wrp">
+    
+  </aside>
+</div>
+
+<div class="site-content">
+
+<div id="content" class="container contents-area">
+
+  <div id="main" class="content-primary full-width">
+
+    <div class="contentHeader content-header">
+      <div class="contentTitleWrapper">
+        <h1 class="contentTitle">サイトマップ</h1>
+      </div>
+    </div>
+
+    <div class="contentBody content-body">
+      <div class="sitemap">
+        <ul class="sitemap-list sm-depth1-list"><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/">トップ</a></span></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/emergency/">緊急情報</a></span></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/news/">新着情報</a></span></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/announce/">町からのお知らせ</a></span></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/organization/">組織別一覧</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div01/">総務課</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div01/sec001/">庶務係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div01/sec002/">財政係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div01/sec003/">危機管理係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div01/sec004/">システム統計係</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div02/">政策推進課</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div02/sec005/">企画広報係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div02/sec03/">まちづくり推進係</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/organization/div02/sec03/oekokusai/">おおえ国際交流協会</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div11/">地域振興課</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div11/sec006/">商工振興係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div11/sec007/">観光振興係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div11/sec008/">移住・定住推進室地域交流係</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/organization/div11/sec008/ijunikansuruhojyo/">移住・定住に関する補助制度など</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/organization/div11/sec008/kekkonshien/">結婚支援に関すること</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/organization/div11/sec008/123/">その他の事業について</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div03/">税務町民課</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div03/sec009/">町民税係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div03/sec010/">固定資産税係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div03/sec011/">戸籍年金係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div03/sec012/">国保医療係</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div04/">健康福祉課</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div04/sec013/">福祉係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div04/sec014/">保健衛生係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div04/sec015/">地域包括支援センター</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div04/sec016/">子育て推進室 子育て推進係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div04/sec017/">子育て推進室 子育て支援センター</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div05/">農林課</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div05/sec018/">農政係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div05/sec019/">農山村振興係</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div06/">建設水道課</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div06/sec020/">管理・治水対策係</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/organization/div06/sec020/kawamachi/">百目木地区かわまちづくり</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div06/sec021/">建設係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div06/sec022/">庶務係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div06/sec023/">工務係</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div07/">出納室</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div07/sec024/">出納係</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div08/">議会事務局</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div09/">教育委員会</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div09/sec026/">学校教育係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div09/sec027/">社会教育係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div09/sec028/">歴史文化係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div09/sec029/">スポーツ振興係</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/organization/div10/">農業委員会</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/organization/div10/sec030/">農業委員会</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/furusato-nouzei/">ふるさと納税</a></span></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/life/">くらし・手続き</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/nenkin/">国民年金</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/registration/">届出・証明</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/registration/kosekihurigana/">戸籍の氏名のフリガナ記載について</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/registration/syoumeisyokannkei/">証明書について</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/registration/todokedekannkei/">届出について</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/registration/todokedekannkei/juuminntouroku_kakusyutodokede/">住民登録・各種届出について</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/mynumber/">マイナンバーなど</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/mynumber/mainatetuduki/">マイナンバーカードに関する手続き</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/insurance/">保険</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/insurance/kokuho/">国民健康保険</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/insurance/koukikourei/">後期高齢者医療制度</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/marriage/">結婚支援</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/marriage/kekkon-shienjigyou/">結婚支援事業</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/disaster-prevention/">防災、危機管理</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/disaster-prevention/bousai/">防災</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/disaster-prevention/bousai/saigai_web/">災害情報ウェブサイト</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/disaster-prevention/bousai-musen/">防災行政無線</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/disaster-prevention/r3_0728_gouu/">豪雨災害関連情報</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/disaster-prevention/r3_0728_gouu/past_/">過去の災害情報はこちら</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/garbage/">ごみ</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/garbage/ippanhaiki/">ごみ・一般廃棄物</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/counselling/">相談</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/tax/">税について</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/tax/nozei/">納付について</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/tax/zyuminzei/">住民税（町県民税・森林環境税）</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/tax/hozin/">法人町民税</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/tax/kokuhozei/">国民健康保険税</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/tax/kezidoussya/">軽自動車税</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/tax/kotei/">固定資産税</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/tax/tyominzei/">源泉徴収・所得税</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/water-service/">水道・下水道・浄化槽</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/water-service/jousuidou/">上水道</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/water-service/gesuidou/">下水道</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/water-service/jokaso/">浄化槽</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/water-service/sonota-jougesuidou/">その他上下水道のお知らせ</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/welfare/">福祉・介護</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/welfare/kaigo/">介護保険サービス関係</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/welfare/zaitakufukushi/">在宅福祉助成</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/welfare/syougaisya/">障害者</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/medical/">医療</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/medical/yoboseshu/">予防接種</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/medical/iryoukikan/">医療機関</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/medical/iryoujosei/">医療助成等</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/health/">健康</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/health/kenshin/">健診・健康</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/health/kokoro/">こころの健康</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/health/recipe/">おすすめ料理　レシピ</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/health/influenza/">インフルエンザ対策</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/health/covid-19/">新型コロナウイルス関連</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/health/covid-19/vaccine-cov19/">新型コロナウイルスワクチン接種について</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/health/covid-19/announce-cov19/">新型コロナウイルス関連のお知らせ</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/health/covid-19/prevention/">新型コロナウイルス感染症　対策・予防</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/health/covid-19/live/">生活の支援について</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/life/health/covid-19/economic-cov19/">経済対策について</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/life/health/sonota-kenkou/">その他</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/life/sonota_tetuduki/">その他</a></span></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/childcare-learning/">子育て・生涯学習</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/childcare-learning/pregnant/">妊娠・出産</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/childcare-learning/kosodate/">子育て</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/kosodate/kodomo_kenkou/">乳幼児健康診査・育児相談</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/kosodate/kodomodaredemo/">こども誰でも通園</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/kosodate/kosodate-shien/">子育て支援センター</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/kosodate/ikuji/">育児・子育てに関する支援等</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/kosodate/hoikuen/">保育園・幼稚園</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/kosodate/hitorioya/">ひとり親家庭</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/childcare-learning/education/">教育</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/education/kyouiku-iinkai/">教育委員会</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/childcare-learning/education/kyouiku-iinkai/kyouiku_kaigikekka/">大江町教育委員会会議</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/education/kokusairikai/">国際理解教育事業</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/childcare-learning/schooling/">学校教育</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/schooling/syoutyuugakkouarikata/">大江町の小中学校のあり方、再編について</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/schooling/gakkou-syoukai/">学校紹介</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/schooling/nyugaku/">入学・通学区域</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/schooling/houkago/">放課後児童クラブ</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/schooling/kyouiku-josei/">教育関係助成</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/childcare-learning/schooling/kyouiku-josei/kyoikukariirekinnhennkannsien/">大江町教育借入金返還支援制度</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/childcare-learning/lifelonglearning/">生涯学習・スポーツ</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/lifelonglearning/syougaigakusyuu/">生涯学習</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/childcare-learning/lifelonglearning/syougaigakusyuu/oe-familywa/">おおえFamilywa</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/childcare-learning/lifelonglearning/syougaigakusyuu/pocket/">ボランティアサークル夢憧布（ぽけっと）活動</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/lifelonglearning/sports/">スポーツ</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/childcare-learning/lifelonglearning/riyousisetu/">利用施設</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/industry/">産業</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/industry/commerce/">商工・労働</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/commerce/kigyou/">企業支援</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/commerce/kigyou-shien/">起業支援</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/commerce/jinzai-shien/">人材支援</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/commerce/koyou/">雇用・労働</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/industry/agriculture-forestry/">農林業</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/mokuikupurojekuto/">木育プロジェクト</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/2606/">農業委員会</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/industry/agriculture-forestry/2606/2/">総会議事録</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/industry/agriculture-forestry/2606/1/">農業委員会の業務</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/jidori_kanri/">大江町やまがた地鶏食鳥処理施設指定管理者について</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/tameikehm/">ため池ハザードマップ</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/keikaku_seido/">計画・制度</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/nourin_hozyo/">補助制度</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/nourin_kouhyou/">公表</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/industry/agriculture-forestry/nourin_sonota/">その他農林業</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/government/">町政・町づくり</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/chousei/">町政</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/chousei/mayor/">町長の部屋</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/chousei/mayor/kousaihi/">交際費</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/chousei/council/">議会</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/chousei/council/chougikai_kaigiroku/">会議録</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/chousei/council/gikai-dayori/">議会だより</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/chousei/council/gicho_kousaihi/">議長交際費</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/ooe-overview/">町の概要</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/ooe-overview/gaiyou/">概要</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/ooe-overview/gaiyou/zinko/">住民基本台帳による人口</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/ooe-overview/shisetsu/">公共施設</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/ooe-overview/koutu/">公共交通</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/ooe-overview/koutu/aterazawa_line/">JR左沢線</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/election/">選挙</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/election/senkyokanri/">大江町選挙管理委員会</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/mainpolicy/">主な政策</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/mainpolicy/keikaku/">主な計画</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/mainpolicy/machi-dukuri/">まちづくり</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/living-environment/">住まい・道路・景観</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/bunjou/">分譲地・町民農園</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/living-environment/bunjou/keieisenryaku/">宅地造成計画</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/living-environment/bunjou/sonota/">市民農園</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/chintai/">公共の賃貸住宅</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/kenchiku-shien/">住宅建築の支援</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/akiya/">空き家バンクのご案内</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/living-environment/akiya/akiya-jouhou/">空き家・空き地物件情報</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/akiya-jokyaku/">空き家除却</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/kyouryou/">橋梁</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/douro/">道路に関する計画</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/keikan/">大江の景観づくり</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/living-environment/kankyo/">環境</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/chiiki-okoshi/">地域おこし協力隊</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/chiiki-okoshi/recruitment/">協力隊制度のおしらせ</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/information-statistics/">情報・統計</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/information-statistics/shimei/">大江町指名競争入札参加資格者名簿</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/information-statistics/jouhou/">情報</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/government/information-statistics/jouhou/official-sns/">大江町公式SNS</a></span></li></ul></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/information-statistics/zaisei/">大江町財政状況</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/information-statistics/syokuin/">町の職員定数や給与</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/information-statistics/saiyou/">職員採用など</a></span></li><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/information-statistics/nyusatsu/">令和7・8年度　山形県大江町入札参加資格申請</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/rekisyu/">例規集</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/government/kouhou/">広報</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/government/kouhou/furusato_cm/">YTS「山形ふるさとCM大賞」出品作品</a></span></li></ul></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/kanko-event/">観光・イベント・募集</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/kanko-event/kankou-bunka/">観光・文化</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/kanko-event/kankou-bunka/bunkazai/">文化財</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/kanko-event/boshu/">募集</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/kanko-event/oe-event/">イベント</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/kanko-event/oe-event-calendar/">イベントカレンダー</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/kanko-event/oe-event-calendar/past1/">過去のイベント</a></span><ul class="sitemap-list sm-depth4-list"><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/kanko-event/oe-event-calendar/past1/reiwa8/">令和8年のイベント</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/kanko-event/oe-event-calendar/past1/reiwa7/">令和7年のイベント</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/kanko-event/oe-event-calendar/past1/reiwa6/">令和6年のイベント</a></span></li><li class="sitemap-list-item sm-depth4-item"><span class="sitemap-list-item-span sm-depth4-label"><a href="/kanko-event/oe-event-calendar/past1/reiwa5/">令和5年のイベント</a></span></li></ul></li></ul></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/press/">広報紙</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/press/ooe-back-number/">広報おおえバックナンバー</a></span><ul class="sitemap-list sm-depth3-list"><li class="sitemap-list-item sm-depth3-item"><span class="sitemap-list-item-span sm-depth3-label"><a href="/press/ooe-back-number/past/">平成30年度以前のバックナンバー</a></span></li></ul></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/press/youran/">町勢要覧</a></span></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/site-information/">サイト情報</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/site-information/link/">リンク集</a></span></li></ul></li><li class="sitemap-list-item sm-depth1-item"><span class="sitemap-list-item-span sm-depth1-label"><a href="/oegurashi/">おおえぐらし</a></span><ul class="sitemap-list sm-depth2-list"><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/oegurashi/iju-news/">新着情報</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/oegurashi/iju-shien/">イベントのお知らせ</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/oegurashi/iju-sumai/">すまい</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/oegurashi/iju-kosodate/">子育て</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/oegurashi/iju-shigoto/">しごと</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/oegurashi/iju-lifestyle/">ライフスタイル</a></span></li><li class="sitemap-list-item sm-depth2-item"><span class="sitemap-list-item-span sm-depth2-label"><a href="/oegurashi/about-oe/">町の紹介</a></span></li></ul></li></ul>
+      </div>
+    </div>
+
+  </div><!-- /#main -->
+
+</div>
+
+</div><!-- / site-content -->
+
+<footer id="colophon" class="site-footer">
+  <div class="site-footer-content">
+    <div class="signature">
+      <div class="foot-logo">
+        <img src="/assets/images/site-logo-footer.svg" width="183" height="36" alt="大江町">
+      </div>
+      〒990-1101 山形県西村山郡大江町大字左沢882-1<br>
+      TEL:0237-62-2111 ／ FAX:0237-62-4736<br>
+      <ul class="contact-menu">
+        <li><a class="button footer-button" href="https://www.google.com/maps/d/viewer?mid=1BkKpMjmIiIrWnZbeA8TQSyYkHFesPdg4&usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marker-alt"></i> 大江町のマップ</a></li>
+        <li><a href="/contact/" class="button footer-button"><i class="far fa-envelope"></i> 町へのお問い合わせ</a></li>
+      </ul>
+    </div>
+    <div class="openning-hour contact">
+      <span class="label label-openning-hour">開庁時間</span><br>
+      月〜金曜 8:30〜17:15<br>
+      ※土曜・日曜・祝日・年末年始（12月29日〜1月3日）を除きます。
+    </div>
+    <div class="foot-menu">
+      <ul class="foot-menu-list">
+        <li><a href="/site-information/privacy-policy"><i class="fas fa-fw fa-angle-right"></i>個人情報の取り扱いについて</a></li>
+        <li><a href="/site-information/website"><i class="fas fa-fw fa-angle-right"></i>このホームページについて</a></li>
+        <li><a href="/site-information/accessibility"><i class="fas fa-fw fa-angle-right"></i>ウェブアクセシビリティへの取り組み</a></li>
+        <li><a href="/site-information/link/"><i class="fas fa-fw fa-angle-right"></i>リンク</a></li>
+        <li><a href="/sitemap"><i class="fas fa-fw fa-angle-right"></i>サイトマップ</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="copyright">
+    Copyright © 2021 大江町 All Rights Reserved.
+  </div>
+</footer>
+
+<script src="/assets/js/scripts.js?1650278485"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeLjJ4kAAAAAM8QZZ459u7rtmMkzCcmvMKDWKPT"></script> 
+<style>.grecaptcha-badge { visibility: hidden; }</style>
+
+</body>
+</html>

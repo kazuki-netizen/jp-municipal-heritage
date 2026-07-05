@@ -1,0 +1,1200 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>南陽市の文化財目録 南陽市</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="google" value="notranslate">
+
+	<!-- styles -->
+	<link rel="stylesheet" href="/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="/css/nanyo/common.css?20180308" class="notranslate" title="common">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_black.css"  class="notranslate" title="black">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_blue.css"   class="notranslate" title="blue">
+	<link rel="alternate stylesheet" href="/css/nanyo/common_yellow.css" class="notranslate" title="yellow">
+	<link rel="stylesheet" href="/css/nanyo/style.css?20240110" class="notranslate">
+
+
+	<!-- scripts -->
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/jquery.cookie.js"></script>
+	<script src="/js/jquery.fontsize.js"></script>
+	<script src="/js/jquery.cssswitch.js"></script>
+</head>
+<body class="Nanyo Page Free">
+
+<header id="header">
+	<div id="top">
+		<div class="container">
+			<p class="sub sub-title">子育て支援宣言都市なんよう</p>
+			<ul class="nav sr-only" id="skip-nav">
+			  <li><a href="#main">メインコンテンツへ</a></li>
+			  <li><a href="#header-nav">グローバルナビへ</a></li>
+			  <li><a href="#footer">フッターエリアへ</a></li>
+			  <li><a href="#top">ページの先頭へ</a></li>
+			</ul>
+			<p class="nav sankaku"><a href="/sitemap">サイトマップ</a></p>
+			<!-- LINE Tag Base Code -->
+			<!-- Do Not Modify -->
+			<script>
+			(function(g,d,o){
+			  g._ltq=g._ltq||[];g._lt=g._lt||function(){g._ltq.push(arguments)};
+			  var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net';
+			  var s=d.createElement('script');s.async=1;
+			  s.src=o||h+'/n/line_tag/public/release/v1/lt.js';
+			  var t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);
+			    })(window, document);
+			_lt('init', {
+			  customerType: 'account',
+			  tagId: '97f25dcd-dd3c-4291-bbf3-df49fb92115a'
+			});
+			_lt('send', 'pv', ['97f25dcd-dd3c-4291-bbf3-df49fb92115a']);
+			</script>
+			<noscript>
+			  <img height="1" width="1" style="display:none"
+			       src="https://tr.line.me/tag.gif?c_t=lap&t_id=97f25dcd-dd3c-4291-bbf3-df49fb92115a&e=pv&noscript=1" />
+			</noscript>
+			<!-- End LINE Tag Base Code -->
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-4YQVBN53Q3"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+			  gtag('config', 'G-4YQVBN53Q3');
+			</script>
+		</div>
+	</div>
+	<!-- /#top -->
+	<div id="header-area" class="container">
+		<div id="header-title" class="logo">
+			<p class="site-title"><a href="/"><img alt="南陽市 - Nanyo City" src="/up/images/nanyo/common/site_logo.gif"></a></p>
+			<p class="character"><img alt="なんちゃん・ようちゃん" src="/up/images/nanyo/common/nanyouchan.gif"></p>
+		</div>
+		<div class="navbar-header" id="sp-header">
+			<a class="btn" href="#header-menu" title="メニューを開く">
+			<img alt="" height="60" src="/up/images/nanyo/common/icon_sp_menu.png" width="60">
+			<span class="sr-only">メニュー</span>
+			</a>
+		</div><!-- /#sp-header -->
+		<div id="header-menu">
+			<div class="change" id="header-app">
+				<div class="group">
+					<div class="form fontsize">
+						<label for="fz-normal">文字のサイズ</label>
+						<p class="notranslate">
+							<button type="button" id="fz-small"  class="btn fontsize small"  data-fontsize="87.5%"><img alt="小" src="/up/images/nanyo/common/head_size_sho.gif"></button>
+							<button type="button" id="fz-normal" class="btn fontsize normal" data-fontsize="100%"><img alt="中" src="/up/images/nanyo/common/head_size_chu.gif"></button>
+							<button type="button" id="fz-large"  class="btn fontsize large"  data-fontsize="125%"><img alt="大" src="/up/images/nanyo/common/head_size_dai.gif"></button>
+							<button type="button" id="fz-xlarge" class="btn fontsize xlarge" data-fontsize="200%"><img alt="特大" src="/up/images/nanyo/common/head_size_tokudai.gif"></button>
+						</p>
+					</div>
+					<div class="form iro">
+						<label for="bg-common">色合い</label>
+						<p class="notranslate">
+							<button type="button" id="bg-common" class="btn css-switch btn-white" data-css="common"><img alt="標準" src="/up/images/nanyo/common/head_color_white.gif"></button>
+							<button type="button" id="bg-black" class="btn css-switch btn-black" data-css="black"><img alt="黒" src="/up/images/nanyo/common/head_color_black.gif"></button>
+							<button type="button" id="bg-yellow" class="btn css-switch btn-yellow" data-css="yellow"><img alt="黄" src="/up/images/nanyo/common/head_color_yellow.gif"></button>
+							<button type="button" id="bg-blue" class="btn css-switch btn-blue" data-css="blue"><img alt="青" src="/up/images/nanyo/common/head_color_blue.gif"></button>
+						 </p>
+					</div>
+				</div>
+				<div class="group">
+										<form action="https://www.google.co.jp/search" id="google_cse" class="form search">
+											<div class="sitesearch">
+												<label accesskey="f" for="q">サイト内検索</label>
+												<input id="q" name="q" size="20" type="text" value="" title="検索したいキーワードを入力">
+												<input name="btnG" type="submit" value="検索">
+												<input name="ie" type="hidden" value="UTF-8">
+												<input name="oe" type="hidden" value="UTF-8">
+												<input name="hl" type="hidden" value="ja">
+												<input name="domains" type="hidden" value="city.nanyo.yamagata.jp">
+												<input name="sitesearch" type="hidden" value="city.nanyo.yamagata.jp">
+											</div>
+										</form>
+										<div class="form language">
+											<label>Languages</label>
+											<div id="google_translate_element"></div>
+											<a href="/about/731" class="aboutforeign">（外国語翻訳について）</a>
+										</div>
+				</div>
+			</div>
+			<nav id="header-nav">
+				<div class="home"><a href="/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_1_sp.png"> <img alt="ホーム" src="/up/images/nanyo/common/navi_1.gif"> </picture> <img alt="ホーム" class="on" src="/up/images/nanyo/common/navi_1_on.gif"></a></div>
+				<div class="kurasi"><a href="/siminkurasi/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_2_sp.png"> <img alt="市民のくらし" src="/up/images/nanyo/common/navi_2.gif"> </picture> <img alt="市民のくらし" class="on" src="/up/images/nanyo/common/navi_2_on.gif"></a></div>
+				<div class="business"><a href="/zigyousiya/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_3_sp.png"> <img alt="事業者の方へ" src="/up/images/nanyo/common/navi_3.gif"> </picture> <img alt="事業者の方へ" class="on" src="/up/images/nanyo/common/navi_3_on.gif"></a></div>
+				<div class="kanko"><a href="/kankou/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_4_sp.png"> <img alt="観光" src="/up/images/nanyo/common/navi_4.gif"> </picture> <img alt="観光" class="on" src="/up/images/nanyo/common/navi_4_on.gif"></a></div>
+				<div class="machi"><a href="/sangiyoumachidukuri/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_5_sp.png"> <img alt="産業・まちづくり" src="/up/images/nanyo/common/navi_5.gif"> </picture> <img alt="産業・まちづくり" class="on" src="/up/images/nanyo/common/navi_5_on.gif"></a></div>
+				<div class="bunka"><a href="/rekibunsupo/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_6_sp.png"> <img alt="歴史・文化・教育" src="/up/images/nanyo/common/navi_6.gif"> </picture> <img alt="歴史・文化・教育" class="on" src="/up/images/nanyo/common/navi_6_on.gif"></a></div>
+				<div class="city"><a href="/giyousei/"><picture> <source media="(max-width: 599px)" srcset="/up/images/nanyo/common/navi_7_sp.png"> <img alt="行政情報" src="/up/images/nanyo/common/navi_7.gif"> </picture> <img alt="行政情報" class="on" src="/up/images/nanyo/common/navi_7_on.gif"></a></div>
+			</nav><!-- #header-nav -->
+			<aside id="header-service" class="banners">
+				<a class="em service-mayor" href="/sichiyoheya/">ようこそ市長室へ</a>
+				<a href="/niyuusatukeiyaku/">入札・契約</a>
+				<a href="/tosyokan/">図書館蔵書検索</a>
+				<a href="http://www1.g-reiki.net/nanyo/reiki_menu.html" target="_blank">例規検索</a>
+				<a href="sisetuyoyaku">施設予約検索</a>
+				<a href="/topiks/">市政情報</a>
+				<a class="em" href="/sigikai/">南陽市議会</a>
+				<a href="/gikaityukei/">議会中継</a>
+				<a href="/link/">リンク集</a>
+				<a href="/yokuarufaq/faq0000">よくある質問</a>
+			</aside>
+			<aside id="header-safety" class="nav-safety">
+			<figure>
+			<figcaption>安全・安心</figcaption>
+				<ul>
+				  <li><a href="https://twitter.com/bousai_nanyo">防災ツイッター</a></li>
+				  <li><a href="https://hinanjo.glideapp.io">避難所情報アプリ</a></li>
+				  <li><a href="https://lin.ee/fSlaHRX">LINE公式アカウント</a></li>
+				  <li><a href="/saigai/">防災情報</a></li>
+				  <li><a href="/keihoutyuihou/">警報・注意報</a></li>
+				  <li><a href="/kyujitu/724">休日診療</a></li>
+				  <li><a href="/kotuanzen/">交通安全</a></li>
+				  <li><a href="/housyasen/">放射線情報</a></li>
+				  <li class="more"><a href="/anzenansin/">安全・安心の一覧へ</a></li>
+				</ul>
+			</figure>
+			</aside>
+		</div><!-- #header-menu -->
+	</div>
+</header>
+
+<div id="header-menu-wrapper"></div><!-- /#header-menu-wrapper -->
+<div class="container free rekibunsupo" id="container">
+	<nav class="breadcrumb">
+				<ul class="breadcrumb-items">
+	  <li class="breadcrumb-item"><a href="/">ホーム</a></li>
+		  <li class="breadcrumb-item"><a href="/rekibunsupo/">歴史・文化・教育</a></li>
+		  <li class="breadcrumb-item"><a href="/rekisitanbo/">歴史探訪</a></li>
+		  <li class="breadcrumb-item"><a href="/rekisibunka/">歴史と文化財</a></li>
+		  <li class="breadcrumb-item"><a href="/bunkasiseki/">文化財・史跡めぐり</a></li>
+			  <li class="breadcrumb-item">南陽市の文化財目録</li>
+		</ul>
+				</nav>
+	<div class="row" id="body">
+		<div class="col col-md-9">
+			<main id="main">
+				<article>
+					<h1>南陽市の文化財目録</h1>
+					<div class="table-responsive">
+<table background="http://www.city.nanyo.yamagata.jp/012/rekisi/back1.jpg" summary="指定文化財" width="620">
+  <tbody>
+    <tr>
+      <td bgcolor="#ffffff" height="65"><font size="4">南陽市にある指定文化財をご紹介します<br>
+      <img alt="南陽市の文化財一覧" height="268" src="/up/images/rekibunsupo/rekisibrand/bunkazai.jpg" width="590"></font></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h3 align="left">国指定文化財</h3>
+
+<h4 align="left">(史跡の部)</h4>
+
+<div align="left">
+<div class="table-responsive">
+<table bgcolor="#80ff80" border="1" summary="指定文化財" width="606">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="202">名称</td>
+      <td width="173">所在</td>
+      <td width="178">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="202">稲荷森古墳</td>
+      <td width="173">南陽市長岡</td>
+      <td width="178">古墳時代前期</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive--></div>
+
+<hr>
+<h3 align="left">県指定文化財</h3>
+
+<h4>(建造物の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#ffff80" border="1" summary="指定文化財" width="603">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="207">名称</td>
+      <td width="169">所在</td>
+      <td width="174">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="207">二宮神社</td>
+      <td width="169">南陽市宮内</td>
+      <td width="174">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="207">土社神社社殿</td>
+      <td width="169">南陽市宮内</td>
+      <td width="174">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="207">嘉慶三年六面幢</td>
+      <td width="169">南陽市赤湯</td>
+      <td width="174">南北朝時代</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="207">熊野神社拝殿</td>
+      <td width="169">南陽市宮内</td>
+      <td width="174">江戸時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(絵画の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#ffff80" border="1" summary="指定文化財" width="606">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="209">名称</td>
+      <td width="169">所在</td>
+      <td width="175">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="209">絹本著色釈迦十六善神図</td>
+      <td width="169">南陽市竹原</td>
+      <td width="175">鎌倉時代の貴重な仏画</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(彫刻の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#ffff80" border="1" summary="指定文化財" width="611">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="211">名称</td>
+      <td width="169">所在</td>
+      <td width="178">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="211">木造薬師如来座像</td>
+      <td width="169">南陽市二色根</td>
+      <td width="178">鎌倉時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(工芸品の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#ffff80" border="1" summary="指定文化財" width="614">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="208">名称</td>
+      <td width="172">所在</td>
+      <td width="181">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="208">蒔絵絵馬</td>
+      <td width="172">南陽市二色根</td>
+      <td width="181">室町時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(歴史資料の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#ffff80" border="1" summary="指定文化財" width="619">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="212">名称</td>
+      <td width="165">所在</td>
+      <td width="189">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="212">正元元年大日板碑</td>
+      <td width="165">南陽市竹原</td>
+      <td width="189">鎌倉時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="212">永仁二年磨崖板碑</td>
+      <td width="165">南陽市赤湯</td>
+      <td width="189">鎌倉時代</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="212">嘉暦二年大日板碑</td>
+      <td width="165">南陽市竹原</td>
+      <td width="189">鎌倉時代</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="212">元弘三年阿弥陀三尊板碑</td>
+      <td width="165">南陽市松沢</td>
+      <td width="189">南北朝時代</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="212">正慶二年阿弥陀板碑</td>
+      <td width="165">南陽市池黒</td>
+      <td width="189">南北朝時代</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="212">永仁□年阿弥陀板碑</td>
+      <td width="165">南陽市池黒</td>
+      <td width="189">鎌倉時代</td>
+    </tr>
+    <tr>
+      <td width="25">7</td>
+      <td width="212">文和三年阿弥陀板碑</td>
+      <td width="165">南陽市漆山</td>
+      <td width="189">室町時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(史跡の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#ffff80" border="1" summary="指定文化財" width="622">
+  <caption></caption>
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="212">名称</td>
+      <td width="166">所在</td>
+      <td width="191">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="212">二色根古墳</td>
+      <td width="166">南陽市二色根</td>
+      <td width="191">古墳時代終末期</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(天然記念物の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#ffff80" border="1" summary="指定文化財" width="629">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="215">名称</td>
+      <td width="162">所在</td>
+      <td width="199">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="215">白竜湖泥炭形成植物群落</td>
+      <td width="162">南陽市赤湯</td>
+      <td width="199"></td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="215">妹背の松</td>
+      <td width="162">南陽市宮内</td>
+      <td width="199">珍しい連理の松</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="215">熊野神社の大イチョウ</td>
+      <td width="162">南陽市宮内</td>
+      <td width="199"></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<hr>
+<h3>市指定文化財</h3>
+
+<h4>(建造物の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="621">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="219">名称</td>
+      <td width="189">所在</td>
+      <td width="160">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="219">三宮神社社殿</td>
+      <td width="189">南陽市宮内</td>
+      <td width="160">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="219">寛永十二年銘層塔</td>
+      <td width="189">南陽市小滝</td>
+      <td width="160">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="219">島貫の無銘六面幢</td>
+      <td width="189">南陽市島貫</td>
+      <td width="160">未詳</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="219">臨雲文庫表門</td>
+      <td width="189">南陽市赤湯</td>
+      <td width="160">江戸時代<br>
+      旧薩摩藩江戸屋敷表門</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="219">吉田橋</td>
+      <td width="189">南陽市小岩沢</td>
+      <td width="160">明治時代</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="219">権右衛門五輪塔</td>
+      <td width="189">南陽市竹原</td>
+      <td width="160">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">7</td>
+      <td width="219">石造大鳥居</td>
+      <td width="189">南陽市赤湯</td>
+      <td width="160">明治時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(彫刻の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="617">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="219">名称</td>
+      <td width="219">所在</td>
+      <td width="126">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="219">木造菩薩形立像および座像</td>
+      <td width="219">南陽市宮内</td>
+      <td width="126">平安時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="219">木造菩薩立像</td>
+      <td width="219">南陽市池黒</td>
+      <td width="126">平安時代末</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="219">唐獅子</td>
+      <td width="219">南陽市宮内</td>
+      <td width="126">鎌倉時代</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="219">狛犬</td>
+      <td width="219">南陽市宮内</td>
+      <td width="126">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="219">木造漆箔千手観音座像</td>
+      <td width="219">南陽市池黒</td>
+      <td width="126">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="219">木造聖観音立像</td>
+      <td width="219">南陽市宮内</td>
+      <td width="126">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">7</td>
+      <td width="219">木造薬師如来座像</td>
+      <td width="219">南陽市梨郷</td>
+      <td width="126">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">8</td>
+      <td width="219">木造阿弥陀如来立像</td>
+      <td width="219">南陽市赤湯</td>
+      <td width="126">鎌倉時代</td>
+    </tr>
+    <tr>
+      <td width="25">9</td>
+      <td width="219">十二神将像、如来形立像<br>
+      如来形座像、神像</td>
+      <td width="219">南陽市二色根</td>
+      <td width="126">平安時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(工芸品の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="624">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="219">名称</td>
+      <td width="220">所在</td>
+      <td width="132">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="219">銅板打出懸仏</td>
+      <td width="220">南陽市宮内</td>
+      <td width="132">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="219">善光寺銘華鬘</td>
+      <td width="220">南陽市宮内</td>
+      <td width="132">未詳、川中島の合戦の戦利品</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="219">金銅三坪旛</td>
+      <td width="220">南陽市宮内</td>
+      <td width="132">未詳</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="219">仏式神輿</td>
+      <td width="220">南陽市宮内</td>
+      <td width="132">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="219">洪鐘</td>
+      <td width="220">南陽市宮内</td>
+      <td width="132">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="219">脇差(水心子正秀銘)</td>
+      <td width="220">南陽市赤湯</td>
+      <td width="132">江戸時代<br>
+      当地出身で新々刀の祖と呼ばれる名刀工の脇差</td>
+    </tr>
+    <tr>
+      <td width="25">7</td>
+      <td width="219">舞楽面「陵王」</td>
+      <td width="220">南陽市宮内</td>
+      <td width="132">室町時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(典籍の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="621">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="220">名称</td>
+      <td width="223">所在</td>
+      <td width="125">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="220">大般若経</td>
+      <td width="223">南陽市宮内</td>
+      <td width="125">室町時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(古文書の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="621">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="222">名称</td>
+      <td width="221">所在</td>
+      <td width="125">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="222">寺屋敷寄付請取書</td>
+      <td width="221">南陽市島貫</td>
+      <td width="125">鎌倉時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="222">伊達政宗安堵状</td>
+      <td width="221">南陽市宮内</td>
+      <td width="125">安土・桃山時代</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="222">元和九年町割図</td>
+      <td width="221">南陽市宮内</td>
+      <td width="125">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="222">元和九年町割図</td>
+      <td width="221">南陽市宮内</td>
+      <td width="125">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="222">元和九年町割図</td>
+      <td width="221">南陽市宮内</td>
+      <td width="125">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="222">明暦二年銘水林制札</td>
+      <td width="221">南陽市吉野</td>
+      <td width="125">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">7</td>
+      <td width="222">安部右馬助の書状</td>
+      <td width="221">南陽市宮内</td>
+      <td width="125">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">8</td>
+      <td width="222">享保の絵図</td>
+      <td width="221">南陽市赤湯</td>
+      <td width="125">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">9</td>
+      <td width="222">年貢減免三判書</td>
+      <td width="221">南陽市新田</td>
+      <td width="125">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">10</td>
+      <td width="222">水心子正秀の書簡</td>
+      <td width="221">南陽市元中山</td>
+      <td width="125">江戸時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(考古資料の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="614">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="220">名称</td>
+      <td width="223">所在</td>
+      <td width="118">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="220">むじなの御所<br>
+      (建武二年板碑)</td>
+      <td width="223">南陽市松沢</td>
+      <td width="118">南北朝時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="220">慶長七年銘の板碑</td>
+      <td width="223">南陽市宮内</td>
+      <td width="118">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="220">烏帽子石</td>
+      <td width="223">南陽市赤湯</td>
+      <td width="118">未詳</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="220">天文二十年墓石</td>
+      <td width="223">南陽市川樋</td>
+      <td width="118">室町時代</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="220">笹子平の両尖匕首</td>
+      <td width="223">南陽市宮内</td>
+      <td width="118">縄文時代</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="220">萩生田の石包丁</td>
+      <td width="223">南陽市萩生田</td>
+      <td width="118">弥生時代</td>
+    </tr>
+    <tr>
+      <td width="25">7</td>
+      <td width="220">弘安七年銘阿弥陀板碑</td>
+      <td width="223">南陽市郡山</td>
+      <td width="118">鎌倉時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(歴史資料の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="608">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="221">名称</td>
+      <td width="223">所在</td>
+      <td width="111">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="221">銅造鰐口</td>
+      <td width="223">南陽市宮内</td>
+      <td width="111">室町時代</td>
+    </tr>
+    <tr>
+      <td height="19" width="25">2</td>
+      <td height="19" width="221">木造證誠寺篇額</td>
+      <td height="19" width="223">南陽市宮内</td>
+      <td height="19" width="111">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="221">仏足石</td>
+      <td width="223">南陽市漆山</td>
+      <td width="111">明治時代</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="221">仏足石歌碑</td>
+      <td width="223">南陽市漆山</td>
+      <td width="111">明治時代</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="221">応徳三年棟札</td>
+      <td width="223">南陽市池黒</td>
+      <td width="111">平安時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(有形民俗文化財)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="606">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="223">名称</td>
+      <td width="223">所在</td>
+      <td width="107">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="223">文政七年銘草木供養塔</td>
+      <td width="223">南陽市荻</td>
+      <td width="107">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="223">獅子頭</td>
+      <td width="223">南陽市宮内</td>
+      <td width="107">室町時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(無形民俗文化財)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="601">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="224">名称</td>
+      <td width="101">所在</td>
+      <td width="223">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="224">獅子冠並梵天ばよい</td>
+      <td width="101">南陽市宮内</td>
+      <td width="223">熊野大社の例大祭の行事</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="224">舞楽および稚児舞</td>
+      <td width="101">南陽市宮内</td>
+      <td width="223">同上</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="224">念仏踊</td>
+      <td width="101">南陽市鍋田</td>
+      <td width="223">雨ごいの踊り、江戸時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(史跡の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="602">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="222">名称</td>
+      <td width="180">所在</td>
+      <td width="147">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="222">二色根館の跡</td>
+      <td width="180">南陽市二色根</td>
+      <td width="147">未詳</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="222">臨雲亭の跡</td>
+      <td width="180">南陽市赤湯</td>
+      <td width="147">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="222">松沢古墳群</td>
+      <td width="180">南陽市松沢</td>
+      <td width="147">古墳時代</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="222">水心子正秀誕生の地</td>
+      <td width="180">南陽市元中山</td>
+      <td width="147">名刀工誕生の地</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="222">蒲生田山古墳</td>
+      <td width="180">南陽市上野</td>
+      <td width="147">古墳時代</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="222">上野山古墳群</td>
+      <td width="180">南陽市上野</td>
+      <td width="147">古墳時代終末期</td>
+    </tr>
+    <tr>
+      <td width="25">7</td>
+      <td width="222">慶長五年銘江口五兵衛の墓</td>
+      <td width="180">南陽市小滝</td>
+      <td width="147">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">8</td>
+      <td width="222">安部綱吉の墓</td>
+      <td width="180">南陽市宮崎</td>
+      <td width="147">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">9</td>
+      <td width="222">一里塚跡</td>
+      <td width="180">南陽市椚塚</td>
+      <td width="147">江戸時代</td>
+    </tr>
+    <tr>
+      <td width="25">10</td>
+      <td width="222">岩部山三十三観音</td>
+      <td width="180">南陽市川樋</td>
+      <td width="147">江戸時代</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h4>(天然記念物の部)</h4>
+
+<div class="table-responsive">
+<table bgcolor="#c6eefd" border="1" summary="指定文化財" width="607">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="223">名称</td>
+      <td width="123">所在</td>
+      <td width="208">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="223">餅杉</td>
+      <td width="123">南陽市宮内</td>
+      <td width="208">天然杉の名木</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="223">土平の大杉</td>
+      <td width="123">南陽市竹原</td>
+      <td width="208">天然の地杉</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="223">新田堤</td>
+      <td width="123">南陽市新田</td>
+      <td width="208">水面に浮かぶ浮島の動植物</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="223">二本杉</td>
+      <td width="123">南陽市宮内</td>
+      <td width="208">樹齢600年と400年</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="223">眺陽桜</td>
+      <td width="123">南陽市宮内</td>
+      <td width="208">シダレザクラ</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="223">慶海桜</td>
+      <td width="123">南陽市宮内</td>
+      <td width="208">シダレザクラ</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive-->
+
+<h3 align="left">国登録有形文化財</h3>
+
+<h4 align="left">(建造物)</h4>
+
+<div align="left">
+<div class="table-responsive">
+<table bgcolor="#80ff80" border="1" summary="指定文化財" width="606">
+  <tbody>
+    <tr>
+      <td width="25">NO</td>
+      <td width="223">名称</td>
+      <td width="123">所在</td>
+      <td width="208">備考</td>
+    </tr>
+    <tr>
+      <td width="25">1</td>
+      <td width="223">蔵楽(旧宮内繭市場繭蔵)一号館</td>
+      <td width="123">南陽市宮内</td>
+      <td width="208">大正11年頃、平成15年改修</td>
+    </tr>
+    <tr>
+      <td width="25">2</td>
+      <td width="223">蔵楽(旧宮内繭市場繭蔵)二号館</td>
+      <td width="123">南陽市宮内</td>
+      <td width="208">大正後期、平成15年改修</td>
+    </tr>
+    <tr>
+      <td width="25">3</td>
+      <td width="223">蔵楽(旧宮内繭市場繭蔵)三号館</td>
+      <td width="123">南陽市宮内</td>
+      <td width="208">昭和2年、平成15年改修</td>
+    </tr>
+    <tr>
+      <td width="25">4</td>
+      <td width="223">多勢丸中家住宅座敷棟</td>
+      <td width="123">南陽市池黒</td>
+      <td width="208">大正11年</td>
+    </tr>
+    <tr>
+      <td width="25">5</td>
+      <td width="223">多勢丸中家住宅洋館</td>
+      <td width="123">南陽市池黒</td>
+      <td width="208">大正11年</td>
+    </tr>
+    <tr>
+      <td width="25">6</td>
+      <td width="223">夕鶴の里資料館(旧多勢丸多製糸場繭蔵)</td>
+      <td width="123">南陽市漆山</td>
+      <td width="208">大正11年頃、昭和50年代移築</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--/table-responsive--></div>
+
+									</article>
+			</main>
+		</div>
+		<!-- /.col -->
+		<div class="col col-md-3">
+			<div class="sides" id="nav-side">
+				<header id="side-header">
+				<p class="caption"><b>このページに関する情報</b></p>
+				</header>
+				<!-- /.side-header -->
+								<nav class="options option-contents">
+				<h2>関連コンテンツ</h2>
+				<ul>
+																				  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/bunkasiseki/340">市内の城館祉</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/bunkasiseki/339">南陽市の代表的な板碑</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/minwadensetu/338">南陽市の民話と伝説</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/minzokugeino/337">南陽市の民俗芸能</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/rekisibunka/335">南陽市の文学への旅</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/rekisibunka/334">南陽市の文学への旅　歌碑めぐり</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/rekisibunka/333">南陽市の文学への旅　童謡「ないしょ話」</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/rekisibunka/330">南陽市の自然への旅</a></li>
+																  <li>
+				<span class="cat rekibunsupo" title="歴史・文化・教育 &gt; 歴史探訪 &gt; 歴史と文化財 &gt; 文化財・史跡めぐり">文化財・史跡めぐり</span>
+				 <a href="/rekisibunka/326">地域の遺跡と文化財</a></li>
+												</ul>
+				</nav>
+																<nav class="options option-links">
+				<h2>関連リンク</h2>
+				<ul>
+								  <li><a href="http://www.gazore.jp/ncs/nanyo-cl/cultural/" target="_blank">南陽市文化財検索</a>
+												</ul>
+								</nav>
+								
+								<aside class="side" id="side-enquete">
+				<h2>アンケート</h2>
+				<form action="/api/miniquest.php" method="post">
+				<h3>このページは役に立ちましたか？</h3>
+				<ul class="nav">
+				  <li><label><input name="value" type="radio" value="1" checked> 役に立った</label></li>
+				  <li><label><input name="value" type="radio" value="0"> どちらでもない</label></li>
+				  <li><label><input name="value" type="radio" value="2"> 役に立たなかった</label></li>
+				</ul>
+				<p class="buttons"><button class="btn btn-default" type="submit">送信する</button></p>
+				<div class="hidden">
+				<input type="hidden" name="content_id" value="341">
+				<input type="hidden" name="category_id" value="320">
+				</div>
+				</form></aside>
+												<aside id="nav-address">
+				<h2>このページに関する問合せ</h2>
+				<address>
+				<h3>教育委員会 社会教育課 文化係</h3>
+				<p>
+								<span class="zip">〒999-2292</span><br>
+												 <span class="address">山形県南陽市三間通436-1</span><br>
+																 <span class="tel tel1">電話：0238-40-8996</span>
+																 <span class="fax">FAX：0238-40-3388</span>
+								</p>
+				</address>
+								<div class="nav"><a class="btn contact" href="mailto:syakyo@city.nanyo.yamagata.jp">メールでのお問い合わせ</a></div>
+								</aside>
+							</div>
+			<!-- /#nav-side -->
+		</div>
+		<!-- /.col -->
+	</div>
+</div>
+
+<footer id="footer">
+	<div id="footer-nav" class="container">
+		<ul>
+		  <li><a href="/cyosakuken/">著作権</a></li>
+		  <li><a href="/mensekiziko/">免責事項</a></li>
+		  <li><a href="/kozinzyohohogo/">個人情報保護</a></li>
+		  <li><a href="/sitemap">サイトマップ</a></li>
+		  <li><a href="/link/">リンク</a></li>
+		</ul>
+		<div class="nav pagetop" id="footer-pagetop"><a href="#top"><img alt="ページトップへ" src="/up/images/nanyo/common/to_top.gif"></a></div>
+	</div><!-- /#footer-nav -->
+	<div id="footer-area">
+		<div class="container">
+			<address>
+			<p class="site-title"><img alt="南陽市" src="/up/images/nanyo/common/sitelogo_mini.gif"></p>
+			<p class="address">
+			〒999-2292　山形県南陽市三間通436-1　電話：0238-40-3211　FAX：0238-40-3242 <br />
+開庁時間：月曜日から金曜日の午前8時30分から午後5時15分（祝日、12月29日から1月3日を除く） </p>
+			</address>
+			<p class="copyright"><small>&copy; 2018 Nanyo City. All Rights Reserved.</small></p>
+		</div>
+	</div><!-- /#footer-area -->
+</footer>
+
+
+
+
+<script src="/js/common.js"></script>
+<script src="/js/req_fancybox.js"></script>
+<script src="/js/nanyo/nanyo.js"></script>
+
+</body>
+</html>

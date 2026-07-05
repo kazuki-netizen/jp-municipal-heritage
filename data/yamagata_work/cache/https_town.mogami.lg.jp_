@@ -1,0 +1,247 @@
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=100"/>
+<meta name="keywords" content="最上町役場,山形県,最上郡,最上町,前森高原,赤倉温泉,瀬見温泉,赤倉温泉スキー場,ふるさと納税,アスパラガス"/>
+<meta name="discription" content="山形県最上郡最上町にある最上町役場の公式ホームページです。"/>
+<meta name="author" content="最上町役場">
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<link rel="stylesheet" type="text/css" href="common/ent-css/destyle.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="common/ent-css/ent.css?26-07-05_11" media="all"/>
+<link rel="stylesheet" type="text/css" href="common/ent-css/slick.css" media="all"/>
+<title>最上町役場</title>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J1Y6C9GHE5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J1Y6C9GHE5');
+</script>
+<div class="wrapper">
+	
+	<div class="mobile-header">
+		<a href="https://town.mogami.lg.jp/"><img class="mobile-title-logo" src="img/ent/icon/title-logo.jpg" alt="最上町役場"/></a>
+	</div>	
+	
+	<div class="ent-slide-outer">
+		
+		<div class="ent-slide-img"> 
+			
+			<div class="slide-item-0">
+					<!--gif anime-->
+				<div class="anime-logo-center"><img  class="anime-logo" src="img/ent/txt/00-anime-logo.gif" alt=""/></div> 
+			</div><!--0.白バック-->
+	
+			<div class="slide-item-1"></div><!--1.小国川-->
+			<div class="slide-item-4"></div><!--2.実り・田んぼ-->
+			<div class="slide-item-3"></div><!--3.味　九五郎-->
+			<div class="slide-item-5"></div><!--4.たらふく-->
+			<div class="slide-item-2"></div><!--5.前森-->
+
+		</div>
+		<!--ent-slide-img--> 
+		
+		<div class="ent-slide-txt"> 
+			
+				<div class="slide-item-txt-0"><a href="top.php"><img class="mobile_dummy_link" src="img/ent/txt/dummy-top.gif" width="400" height="330" alt=""/></a></div>
+
+				<div class="slide-item-txt-1">
+						
+						<div class="town-logo">
+							<a href="top.php"><img class="town-logo-img" src="img/ent/txt/logo-noshadow.png" alt="最上町ロゴ"/></a>
+						</div>
+					<!--1.小国川-->
+						<div class="pic-image-txt">
+							<img class="pic-image-txt-img" src="img/ent/txt/1-txt.png" alt="心ほころぶ 彩がある"/>
+						</div>
+						<div class="desc-txt">
+							<div class="desc-txt-inner">
+								<h2 class="silde-title"><span style="font-size: 85%;">一級河川</span> 最上小国川</h2>
+								<p class="slide-desc">最上川の支流である最上小国川は、流域に広がる耕地に大きな恵みをもたらします。</p>
+							</div>
+						</div>	
+					<!--1.小国川-->
+					
+				</div>
+
+				<div class="slide-item-txt-2">
+					
+						<div class="town-logo">
+							<a href="top.php"><img class="town-logo-img" src="img/ent/txt/logo-noshadow.png" alt="最上町ロゴ"/></a>
+						</div>
+					<!--2.田んぼ-->
+						<div class="pic-image-txt">
+							<img class="pic-image-txt-img" src="img/ent/txt/4-txt.png" alt="心ほころぶ 実りがある"/>
+						</div>
+						<div class="desc-txt">
+							<div class="desc-txt-inner">
+								<h2 class="silde-title">盛んな米づくり</h2>
+								<p class="slide-desc">基幹産業の稲作。盆地特有の風土が育てた甘みのある米が実ります。</p>
+							</div>
+						</div>
+					<!--2.田んぼ-->
+					
+				</div>
+
+				<div class="slide-item-txt-3">
+					
+						<div class="town-logo">
+							<a href="top.php"><img class="town-logo-img" src="img/ent/txt/logo-noshadow.png" alt="最上町ロゴ"/></a>
+						</div>
+					<!--3.久五郎みそ-->
+						<div class="pic-image-txt">
+							<img class="pic-image-txt-img" src="img/ent/txt/3-txt.png" alt="心ほころぶ 味がある"/>
+						</div>
+						<div class="desc-txt">
+							<div class="desc-txt-inner">
+								<h2 class="silde-title"><span style="font-size: 90%;">九代目</span>  久五郎みそ</h2>
+								<p class="slide-desc">山形県産大豆・自家米のはえぬき・食塩のみを使用した伝統の手づくり味噌。</p>
+							</div>
+						</div>
+					<!--3.久五郎みそ-->
+					
+				</div>
+	
+				<div class="slide-item-txt-4">
+					
+						<div class="town-logo">
+							<a href="top.php"><img class="town-logo-img" src="img/ent/txt/logo-noshadow.png" alt="最上町ロゴ"/></a>
+						</div>
+					<!--4.たらふく-->
+						<div class="pic-image-txt">
+							<img class="pic-image-txt-img" src="img/ent/txt/5-txt.png" alt="心ほころぶ 出逢いがある"/>
+						</div>
+						<div class="desc-txt">
+							<div class="desc-txt-inner">
+								<h2 class="silde-title">たらふく工房  満沢</h2>
+								<p class="slide-desc">廃校を利用した農家レストラン。農業を営むお母さん方が作る地場産にこだわった郷土料理。</p>
+							</div>
+						</div>
+					<!--4.たらふく-->
+					
+				</div>
+
+				<div class="slide-item-txt-5">
+					
+						<div class="town-logo">
+							<a href="top.php"><img class="town-logo-img" src="img/ent/txt/logo-noshadow.png" alt="最上町ロゴ"/></a>
+						</div>
+					<!--5.冬の前森-->
+						<div class="pic-image-txt">
+							<img class="pic-image-txt-img" src="img/ent/txt/2-txt.png" alt="心ほころぶ 景色がある"/>
+						</div>
+						<div class="desc-txt">
+							<div class="desc-txt-inner">
+								<h2 class="silde-title">冬の前森高原</h2>
+								<p class="slide-desc">広く霞がかかる冬の最上町。夜明け前から黙々と除雪する人々を朝日がそっと照らす瞬間。</p>
+							</div>
+						</div>
+					<!--5.冬の前森-->
+					
+				</div>
+
+		</div>
+<!--ent-slide-txt--> 
+
+
+	
+		
+</div>
+<!--ent-slide-outer--> 
+	
+	<div class="slide-ctl-outer">
+		<div class="dots-2"></div>
+<!--<div class="pause-btn"><button class="slick_pause">停止・再生</button></div>-->
+	</div>
+
+	<div class="footer-nav">
+		
+		<div class="footer-nav-outer">
+			<ul class="footer-nav-left">
+				<li><a href="https://town.mogami.lg.jp/top.php"><img src="img/ent/icon/1-ico-myakuba.png" alt=""/><span class="nav-txt">最上町</span></a></li>
+				<li><a href="/mogamilife/"><img src="img/ent/icon/2-ico-ijyuu.png" alt=""/><span class="nav-txt">定住・移住</span></a></li>
+				<li><a href="https://mogami-furusatotax.net/"><img src="img/ent/icon/3-ico-furusato-tax.png" alt=""/><span class="nav-txt">ふるさと納税</span></a></li>
+			</ul>
+			<ul class="footer-nav-right">
+				<li><a href="/kosodate/"><img src="img/ent/icon/4-ico-child.png" alt=""/><span class="nav-txt">子育て</span></a></li>
+				<li><a href="https://mogami-portal.net/"><img src="img/ent/icon/5-ico-trip.png" alt=""/><span class="nav-txt">観　光</span></a></li>
+				
+			</ul>
+		</div>	
+	</div>
+<!--footer-nav-->
+		
+	
+</div>
+<!--wrapper-->
+
+<script type="text/javascript" src="/common/ent-js/jquery.min.js"></script>
+<script type="text/javascript" src="/common/ent-js/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/common/ent-js/slick.min.js"></script>
+	
+<script>
+ /* $('.ent-slide-img').slick({
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          arrows: false,
+        }
+      },
+      {
+        breakpoint: 640,
+        settings: {
+          arrows: false,
+          dots: false,
+        }
+      },
+    ]
+  });	
+*/
+const $ = jQuery.noConflict();
+var mainSlider = ".ent-slide-img"; //メインスライド
+var textSlider = ".ent-slide-txt"; //テキストスライド
+	
+$(document).ready(function(){
+	$('.ent-slide-img').slick({
+		autoplay: true,
+		dots: true,
+		autoplaySpeed: 5000,
+		arrows: false,
+		appendDots: $('.dots-2'),
+		asNavFor: textSlider,
+	});
+
+	$('.ent-slide-txt').slick({
+		fade: true,
+		dots: false,
+		autoplaySpeed: 5000,
+		arrows: false,
+		asNavFor: mainSlider
+	});
+	
+//ボタンをクリックしたとき
+/*	
+$(".slick_pause").on("click", function() {
+	//一時停止中なら
+	if($(this).hasClass("paused")){
+		//再開
+		$(".ent-slide-img").slick("slickPlay");
+		//「.paused」削除
+		$(this).removeClass("paused");
+	}else{
+		//再生中なら//一時停止
+		$(".ent-slide-img").slick("slickPause");
+		//「.paused」付与
+		$(this).addClass("paused");
+	}
+});	
+	
+*/	
+});
+</script>	
+</body>
+</html>

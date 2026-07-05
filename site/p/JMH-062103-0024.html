@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>木造伝行基菩薩坐像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>木造伝行基菩薩坐像</h1>
+    <p class="jmh-id">JMH-062103-0024</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>彫刻</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字山元</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 若松寺; 概要: 像高 46㎝; 製作年代: 室町時代; 行基は奈良時代、南都六宗(なんとろくしゅう)の僧侶である。和泉(いずみ)の人、百済(くだら)からの渡来人の子孫と伝えられる。諸国を巡り庶民に教化し、一時布教を禁止されたが、後、聖武天皇の廬舎那仏(るしゃなぶつ)造立に尽力し、日本最初の大僧正(だいそうじょう)に任ぜられた。 山形県内の古刹(こさつ)の開基・開山は円仁とともに行基に関わるものが多い。行基開基伝承をもつ若松寺は、現在は天台宗であるが、旧正月７日の行事である「鬼やらい」は法相宗の影響も見られるといわれ、古くは法相宗(ほっそうしゅう)であったと思われる。 本像は、手首から先が欠けており、退色の様子や胡粉(ごふん)の剥落など、像が祀(まつ)られていた環境が良くなかった時代があったようだ。尖った頭頂や容貌などに良源(りょうげん)（元三(がんざん)大師）の特徴が見られる。現在主尊が祀られていない元三大師堂の本尊だった可能性が高い。内刳(うちぐり)（像内の刳り抜き）のない一木造(いちぼくづくり)であること、浅い衣紋(えもん)の彫法など、木造僧形文殊菩薩像と共通するところも見られることから、同じ頃の制作年代と考えられる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"木造伝行基菩薩坐像" (JMH-062103-0024), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.360462, 140.409607], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.360462, 140.409607]).addTo(m);
+  </script>
+</body>
+</html>

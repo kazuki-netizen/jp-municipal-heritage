@@ -13,9 +13,9 @@ so re-runs make zero network requests for already-resolved addresses.
 Outlier detection: all points are validated against a generous Tohoku bounding box.
 Points outside the box get municipality-centroid fallback before being dropped.
 
-Bounding box (generous Tohoku + surrounds):
-  lat: 37.7 - 41.7 N
-  lon: 139.4 - 142.2 E
+Bounding box (generous Tohoku all-6-pref + surrounds):
+  lat: 36.7 - 41.7 N
+  lon: 139.1 - 142.2 E
 
 Usage:
   python3 site/build_data.py            # build csv + geojson for all prefs
@@ -34,7 +34,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "site", "geocode_cache.json")
 
-PREFS = ["iwate", "miyagi", "aomori"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima"]
 
 COLUMNS = [
     "pref", "municipality", "name", "category", "subcategory",
@@ -45,8 +45,8 @@ COLUMNS = [
 GSI_URL = "https://msearch.gsi.go.jp/address-search/AddressSearch"
 DELAY_SEC = 0.5  # polite delay between geocode requests
 
-# Generous Tohoku bounding box (lat N, lon E)
-BBOX = {"lat_min": 37.7, "lat_max": 41.7, "lon_min": 139.4, "lon_max": 142.2}
+# Generous Tohoku bounding box (lat N, lon E) — covers all 6 prefectures
+BBOX = {"lat_min": 36.7, "lat_max": 41.7, "lon_min": 139.1, "lon_max": 142.2}
 
 
 def load_rows(pref):

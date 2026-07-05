@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>絹本着色松平康邦像 歌川広重 筆 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>絹本着色松平康邦像 歌川広重 筆</h1>
+    <p class="jmh-id">JMH-062103-0042</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>老野森</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 天童市美術館; 概要: 縦70．８㎝ 横28㎝; 製作年代: 江戸時代後期; 松平康邦の画像は、裃(かみしも)を着た正装の姿である。やさしい目の温厚な顔立ちで、腰に脇差を帯した姿が、人柄をよく表現している。軸の巻止にある署名は田野文仲に間違いないと思われる。天童藩の４代目の医師であった文仲は、松平康邦の12男である敬次郎を幼少のとき養子に迎えて、康利と改名して５代目を継がせたのである。 文仲は江戸にあった折に親交のある歌川広重に依頼して、康利の実父康邦の画像を描いてもらった。天保(てんぽう)10年（1839）のことである。その後、文仲は自分の画像も広重に依頼して、モデルになっている。嘉永(かえい)２年（1849）春、文仲61歳、歌川広重53歳であった。画面右下に「一立斎」の白文長方印と「広重」の朱文方印が捺されている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"絹本着色松平康邦像 歌川広重 筆" (JMH-062103-0042), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.369514, 140.384903], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.369514, 140.384903]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>楢下の永正五年板碑 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>楢下の永正五年板碑</h1>
+    <p class="jmh-id">JMH-062073-0042</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>上山市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>考古資料</dd>
+      <dt>指定年月日</dt><dd>1979-05-17</dd>
+      <dt>所在地</dt><dd>上山市楢下字山神前1740</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 個人; 浄休仏寺南東の畑中の塚上に永正5年（1508年）造立。石英粗面岩の角柱状自然石に金剛界五大事の梵字、願主及び造立年月日が刻まれている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.kaminoyama.yamagata.jp/soshiki/25/km201301225.html" target="_blank" rel="noopener">https://www.city.kaminoyama.yamagata.jp/soshiki/25/km201301225.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"楢下の永正五年板碑" (JMH-062073-0042), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.079918, 140.275665], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.079918, 140.275665]).addTo(m);
+  </script>
+</body>
+</html>

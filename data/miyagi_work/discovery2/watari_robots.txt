@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/images/
+Disallow: /*.pdf
+
+User-agent: ndl-japan
+Disallow:
+
+Sitemap: https://www.town.watari.miyagi.jp/sitemap.xml

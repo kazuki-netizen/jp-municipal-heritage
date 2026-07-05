@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>絹本淡彩吉野之櫻図 龍田川之紅葉図 歌川広重 筆 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>絹本淡彩吉野之櫻図 龍田川之紅葉図 歌川広重 筆</h1>
+    <p class="jmh-id">JMH-062103-0038</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>鎌田本町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 広重美術館; 概要: 双幅 縦93．５㎝ 横32．９㎝; 製作年代: 江戸時代後期; 万葉の時代から桜の名所として和歌に詠まれた吉野山と、古今集の「ちはやぶる神代も聞かず龍田川 からくれないに水くくるとは」で知られた紅葉の龍田川を画題としている。両図とも前景に川と筏(いかだ)が描かれており、左右画面の春と秋、桜と紅葉といった対比のなかに、水の流れという共通のモチーフを加えることによって不思議な一体感を生み出している。 本作品も、大英博物館所蔵の広重スケッチ帖に小下図が描かれている。しかし、天童広重のほとんどの場合、画中に金泥または墨で画題が書かれているのに、本図には画題の表記がみられない。そのため、地元天童から流出して以後は天童広重として扱われなかった可能性があり、大正末年から所在不明になっていたが、近年に広重美術館の所蔵となって里帰りしたことは喜ばしい。両幅とも落款は墨書で「立斎」、印章は朱文方印「広重」が捺されている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"絹本淡彩吉野之櫻図 龍田川之紅葉図 歌川広重 筆" (JMH-062103-0038), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.359966, 140.38089], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.359966, 140.38089]).addTo(m);
+  </script>
+</body>
+</html>

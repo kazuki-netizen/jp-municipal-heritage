@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>舞鶴山のエドヒガン — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>舞鶴山のエドヒガン</h1>
+    <p class="jmh-id">JMH-062103-0045</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>天然記念物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字天童</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 天童市; 舞鶴山の西斜面の中心部で一番よく目立つところに、根周り520㎝、幹回り322㎝の見事なエドヒガンの巨木がある。 その花は、萼筒（がくとう）の基部が膨らんで、壺形になっていることからツボザクラとも呼ばれている。また、花は葉が出る前に、葉のないところで咲くので、ウバザクラとも呼ばれている。 このエドヒガンは樹齢４～500年と推定されているが、爛漫と花の咲く様は実に壮観で、舞鶴山のシンボル的な存在である。このエドヒガンこそ、これを身近に眺めて育った山の持ち主で、側に別荘などもあった鈴木太助氏に、舞鶴山を全山さくらの山にしようと発想させてくれた原点の樹であり、天童市の天然記念物に指定されている。 明治33年(1900)、東京で、成長が早くて、葉が出る前に爛漫と花の咲く、ソメイヨシノと名前の付けられた新しい桜が見つかった。それが明治34年(1901)、世界的に新種であることが分かり学名が付けられた。それを知った鈴木太助氏は、明治35年(1902)県内何処にもまだ桜のモデルが無かった時代に、いち早くその新しいソメイヨシノを2000株取り寄せて、舞鶴山に植栽してくれたのである。それが舞鶴山のさくらの始まりである。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"舞鶴山のエドヒガン" (JMH-062103-0045), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.355797, 140.374908], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.355797, 140.374908]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,7 +1,7 @@
 ﻿pref,municipality,name,category,subcategory,designation,designated_date,location,description,source_url,source_format,fetched_at,jmh_id
-青森県,おいらせ町,日ヶ久保虎舞,民俗文化財,無形文化財（芸能）,町指定,,,町の無形文化財。本州最北端の虎舞といわれる。9月の百石祭りで演じられる。,https://www.town.oirase.aomori.jp/soshiki/2220/higakubotoramai.html,html,2026-07-03T12:00:00Z,JMH-024121-0001
-青森県,おいらせ町,本村鶏舞,民俗文化財,無形文化財（芸能）,町指定,,,町の無形文化財。天保年間に五戸町切谷内地方から伝承されたとされる念仏踊りの一種。,https://www.town.oirase.aomori.jp/soshiki/2220/keimai.html,html,2026-07-03T12:00:00Z,JMH-024121-0003
-青森県,おいらせ町,本村獅子舞,民俗文化財,無形文化財（芸能）,町指定,,,町の無形文化財。江戸時代初期の山伏神楽の流れをくむ。本村神明宮境内で大晦日に舞われる。,https://www.town.oirase.aomori.jp/soshiki/2220/keimai.html,html,2026-07-03T12:00:00Z,JMH-024121-0002
+青森県,おいらせ町,日ヶ久保虎舞,無形文化財,無形文化財,町指定,,,,https://www.town.oirase.aomori.jp/soshiki/2220/higakubotoramai.html,html,2026-07-03T23:47:55+09:00,JMH-024121-0001
+青森県,おいらせ町,本村鶏舞,無形文化財,無形文化財,町指定,,,,https://www.town.oirase.aomori.jp/soshiki/2220/keimai.html,html,2026-07-03T23:47:55+09:00,JMH-024121-0003
+青森県,おいらせ町,本村獅子舞,無形文化財,無形文化財,町指定,,,,https://www.town.oirase.aomori.jp/soshiki/2220/keimai.html,html,2026-07-03T23:47:55+09:00,JMH-024121-0002
 青森県,つがる市,千代の松,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1985-04-04,木造千代町101‐3,弘前藩4代藩主・津軽信政お手植えの松,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0006
 青森県,つがる市,公孫樹,記念物(史跡・名勝・天然記念物),天然記念物,市指定,1985-04-04,木造千代町99‐1 (銀杏ヶ丘公園),弘前藩4代藩主・津軽信政お手植えの銀杏,https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0005
 青森県,つがる市,書蹟掛軸,有形文化財,書跡,市指定,1985-04-04,木造千代町82,蓮如上人真筆の書 (六字名号),https://www.city.tsugaru.aomori.jp/soshiki/kyoiku/bunkazai/bunnkazai/6573.html,html,2026-07-03T23:46:47+09:00,JMH-022098-0007
@@ -528,24 +528,24 @@
 青森県,東北町,銀杏（樹齢800年）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,樹齢800年のイチョウ。町文化財（天然記念物）に指定。指定年月日は情報源に記載なし。,https://ja.wikipedia.org/wiki/東北町,html,2026-07-03T12:00:00Z,JMH-024082-0003
 青森県,東北町,銀杏（樹齢650年）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,,,樹齢650年のイチョウ。町文化財（天然記念物）に指定。指定年月日は情報源に記載なし。,https://ja.wikipedia.org/wiki/東北町,html,2026-07-03T12:00:00Z,JMH-024082-0002
 青森県,東北町,日本中央の碑,有形文化財,有形文化財,町指定,,青森県上北郡東北町大字家ノ下タ,1949年発見の「日本中央」と刻まれた石碑。複数の二次情報では町指定有形文化財第1号（昭和64年/平成元年＝1989年12月7日指定）とされるが、東北町公式ページ・Wikipediaでは指定区分・年月日が明示されていないため日付はnull。,https://www.town.tohoku.lg.jp/chousei/info/info_shisetsu_05.html,html,2026-07-03T12:00:00Z,JMH-024082-0001
-青森県,板柳町,北畠家関係資料（北畠家旧家屋・錦旗・直垂の袖・永禄日記・古舘城址見取図扁額・北畠家に関する古文書）,有形文化財,,町指定,1984-10-26,,指定文化財第一号。北畠家旧家屋、錦旗、直垂の袖、永禄日記、菅江真澄作と伝わる古舘城址見取図扁額、北畠家に関する古文書の一括。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0001
-青森県,板柳町,五雲山正休寺山門,有形文化財,建造物,町指定,1986-03-20,,一棟。寛政年間の建立と推定。切妻造、四脚門。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0002
-青森県,板柳町,旧役場庁舎正面玄関,有形文化財,建造物,町指定,1986-03-20,,一棟。棟梁堀江佐吉。明治32年新築の板柳尋常高等小学校正面玄関。現在は郷土資料館に移転保存。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0003
-青森県,板柳町,表町七福神舞,民俗文化財,民俗芸能,町指定,1987-05-22,,一組。祝い事に招かれ演じる七福神の舞。囃子詞「みさいな」が特徴。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0005
-青森県,板柳町,五林平太刀振り,民俗文化財,民俗芸能,町指定,1987-05-22,,一組。虫追いの願いを込めた太刀を振る踊り。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0004
-青森県,板柳町,サワラとイチイ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1993-02-19,,一対。須郷家（石野）先祖が1600年頃須郷崎より移住時に持参した記念木。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0006
-青森県,板柳町,寶量大權現大幟,有形文化財,,町指定,2003-02-26,,二流。安政六年(1859)御蔵町氏子中が寶量宮に奉納した麻製の大幟。12.35m×1.2m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0007
-青森県,板柳町,アカマツ（深味）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字深味字深宮4番地,杉山屋敷に生育。樹齢約400年、樹高約17.25m、幹周囲約2.77m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0008
-青森県,板柳町,サイカチ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字掛落林字宮本111番地,樹齢約300年、樹高約8.0m、幹周囲約4.48m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0011
-青森県,板柳町,イチョウ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字小幡字柳田45番地,町内随一の巨木。樹齢約350年、樹高約36.0m、幹周囲約5.15m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0010
-青森県,板柳町,ハルニレ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字石野字宮本1番地,全国第三位の巨木。樹齢約500年、樹高約26.5m、幹周囲約6.68m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0013
-青森県,板柳町,アカマツ（赤田）,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字赤田字松下無番地,赤田集落南入口。地上1.5mで二股、股からニワトコが生える。樹齢約300年、樹高約12.5m、幹周囲約3.55m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0009
-青森県,板柳町,トチノキ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字夕顔関字長田34番地2,十川堤防沿い。樹齢約450年、樹高約20.0m、幹周囲約4.53m。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0012
-青森県,板柳町,古文書（板屋野木中屋敷並堤之間数、同寺屋敷宮地書付控之帳他九点）,有形文化財,古文書,町指定,2007-07-05,,貞享元年の領内総検地に関する資料。絵図面に明治初期の町の状況がうかがえる。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0014
-青森県,板柳町,板柳町獅子踊り,民俗文化財,民俗芸能,町指定,2009-02-25,,一組。津軽藩ゆかりの踊り。兄獅子・弟獅子・雌獅子・オカシコの4人1組、十曲。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0015
-青森県,板柳町,板柳町どだればぢ踊り,民俗文化財,民俗芸能,町指定,2012-06-25,,一組。故葛西喜十郎氏が昭和32年頃創作。板柳町正調盆踊り・流し踊り。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0016
-青森県,板柳町,海童神社,有形文化財,建造物,町指定,2012-06-25,,文禄2年(1593)創建の宝量宮を前身とし、承応元年(1653)現在地に遷宮、明治6年海童神社と改称。拝殿・本殿・中門・神楽殿・御神輿・宝量宮額面・神明宮・淡嶋宮を含む。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0017
-青森県,板柳町,海童神社神輿渡御,民俗文化財,風俗慣習,町指定,2015-06-24,,一組。元禄15年(1702)豪商若狭屋儀兵衛の神輿奉納を契機に始まる。神主が獅子頭を伴い氏子を訪問し祈祷、夜は神楽舞を奉納。,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T12:00:00Z,JMH-023817-0018
+青森県,板柳町,北畠家関係資料（1.北畠家旧家屋・2.錦旗・3.直垂の袖・4.永禄日記・5.菅江真澄の作と伝えられている古舘城址見取図扁額・6.北畠家に関する古文書）,有形文化財,歴史資料,町指定,1984-10-26,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0001
+青森県,板柳町,五雲山正休寺山門,有形文化財,建造物,町指定,1986-03-20,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0002
+青森県,板柳町,旧役場庁舎正面玄関,有形文化財,建造物,町指定,1986-03-20,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0003
+青森県,板柳町,表町七福神舞,民俗文化財,無形民俗文化財,町指定,1987-05-22,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0005
+青森県,板柳町,五林平太刀振り,民俗文化財,無形民俗文化財,町指定,1987-05-22,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0004
+青森県,板柳町,サワラとイチイ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1993-02-19,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0006
+青森県,板柳町,寶量大權現大幟 二流,有形文化財,有形文化財,町指定,2003-02-26,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0007
+青森県,板柳町,アカマツ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字深味字深宮4番地,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0008
+青森県,板柳町,サイカチ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字掛落林字宮本111番地,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0011
+青森県,板柳町,イチョウ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字小幡字柳田45番地,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0010
+青森県,板柳町,ハルニレ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字石野字宮本1番地,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0013
+青森県,板柳町,アカマツ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字赤田字松下無番地,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0009
+青森県,板柳町,トチノキ,記念物(史跡・名勝・天然記念物),天然記念物,町指定,2004-07-21,板柳町大字夕顔関字長田34番地2,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0012
+青森県,板柳町,古文書（板屋野木中屋敷並堤之間数、同寺屋敷宮地書付控之帳他九点）,有形文化財,古文書,町指定,2007-07-05,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0014
+青森県,板柳町,板柳町獅子踊り,民俗文化財,無形民俗文化財,町指定,2009-02-25,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0015
+青森県,板柳町,板柳町どだればぢ踊り,民俗文化財,無形民俗文化財,町指定,2012-06-25,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0016
+青森県,板柳町,海童神社（祭神 上津綿津見命・中津綿津見命・底津綿津見命）,有形文化財,建造物,町指定,2012-06-25,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0017
+青森県,板柳町,海童神社神輿渡御,民俗文化財,無形民俗文化財,町指定,2015-06-24,,,https://www.town.itayanagi.aomori.jp/tourism/kyoudo/siteibunkazai.html,html,2026-07-03T23:56:45+09:00,JMH-023817-0018
 青森県,横浜町,岩倉不動尊,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-09-20,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0001
 青森県,横浜町,牛ノ沢舘跡,記念物(史跡・名勝・天然記念物),史跡,町指定,1983-09-20,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0002
 青森県,横浜町,桧木在八幡神社 海浜殖生自然林,記念物(史跡・名勝・天然記念物),天然記念物,町指定,1985-03-20,,,"https://www.town.yokohama.lg.jp/index.cfm/16,1549,17,128,html",html,2026-07-04T10:28:59+09:00,JMH-024066-0003

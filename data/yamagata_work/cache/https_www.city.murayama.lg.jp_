@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xml:lang="ja" prefix="og: http://ogp.me/ns# wegsite: http://ogp.me/ns/website#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="Author" content="Murayama city" />
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+
+<link rel="stylesheet" media="screen and (min-width: 800px)" type="text/css" href="/css/murayama_top.css" />
+<link rel="stylesheet" media="screen and (max-width: 799px)" type="text/css" href="/css/murayama_top_smph.css" />
+<link rel="stylesheet" media="screen and (min-width: 800px)" type="text/css" href="/css/murayama_style_main.css" />
+<link rel="stylesheet" media="screen and (max-width: 799px)" type="text/css" href="/css/murayama_style_main_smph.css" />
+<link rel="stylesheet" media="all" type="text/css" href="/css/murayama_style.wysiwyg.css" />
+<link rel="stylesheet" media="print" type="text/css" href="/css/murayama_top.css" />
+<link rel="stylesheet" media="print" type="text/css" href="/css/murayama_style_print.css" />
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/3.3.1.jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/mause_over.js"></script><!-- gナビ -->
+<script src="/js/jquery.socialbutton-1.8.0.js" type="text/javascript"></script><!-- ソーシャル -->
+<script type="text/javascript" src="/js/chgstyle.js"></script>
+<script type="text/javascript" src="/js/newstab.js"></script>
+<script type="text/javascript" src="/js/toggle.pagetop.js"></script>
+<script type="text/javascript" src="/js/chgstyle_top.js"></script>
+<script type="text/javascript" src="/js/megamenu.js"></script>
+<script type="text/javascript" src="/js/slidetoggle.js"></script>
+<script type="text/javascript" src="/js/jquery.bxslider.js"></script>
+<script type="text/javascript" src="/js/bxslider_initialize.js"></script>
+<link rel="stylesheet" href="/css/jquery.bxslider.css" />
+<link rel="stylesheet" href="/css/jquery.bxslider_kanren.css" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36009630-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script>
+<!-- Google Tag Manager -->
+<script>
+// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WBXB7WH');
+// ]]>
+</script>
+<!-- End Google Tag Manager -->
+
+<title>村山市</title>
+
+
+
+
+
+<!-- google-analytics -->
+<meta property="og:title" content="村山市" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://cms.intra.city.murayama.lg.jp/index.html" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+</head>
+<body id="base">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBXB7WH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript" src="/js/jquery.fit-sidebar.js"></script>
+<script>
+// <![CDATA[
+jQuery(function($){
+  $('.fixnav').fitSidebar({
+    wrapper : '.all-wp'
+  });
+});
+// ]]>
+</script>
+<!-- scs_jyogai_start -->
+
+<div id="baseall">
+
+<div class="disnon">山形県村山市の公式ウェブサイトです。暮らしの情報や各種手続き、市政情報、観光情報等を発信しています。</div>
+<noscript>
+<p class="jsmessage">村山市ホームページではJavaScriptを使用しています。JavaScriptの使用を有効にしていない場合は、一部の機能が正確に動作しない恐れがあります。<br />お手数ですがJavaScriptの使用を有効にしてください。</p>
+</noscript>
+<div class="blockjump"><a name="PTOP" id="PTOP"><img src="/images/spacer.gif" alt="このページの先頭です" width="1" height="1" /></a><img src="/images/spacer.gif" alt="サイトメニューここから" width="1" height="1" /></div>
+<div id="blockskip">
+<script type="text/javascript">
+  // <![CDATA[
+  $(function(){
+    $("#blockskip a").focus(function(){
+      $(this).parent()
+        .animate(
+          {
+            height: '1.5em'
+          },{
+            duration: 'fast'
+          }
+        )
+        .addClass("show");
+    });
+    $("#blockskip a")
+      .blur(function(){
+      $(this).parent()
+        .animate(
+          {
+            height: '0px'
+          },{
+            duration: 'fast',
+            complete: function(){
+              $(this).removeClass("show");
+            }
+          }
+        )
+    });
+  });
+  // ]]>
+</script>
+<a href="#CONT">このページの本文へ移動</a>
+</div>
+
+<div class="all-wp">
+
+<!-- ▼左エリアここから▼ -->
+<div id="sidearea">
+<div class="header_wp">
+<div class="sp_head_wp pc-none">
+<div class="sp_headin clearfix">
+<h1 class="header_logo">
+<a href="/index.html"><img src="/images/h_logo_sp.gif" alt="山形県村山市" width="196" height="60" /></a>
+</h1>
+<div class="sp-menu">
+<a class="navi-btn" href="#sp-menu-in">メニューを開く</a>
+<div class="sp-menu-in" id="sp-menu-in">
+<div class="h-search">
+<!-- <form action="http://www.google.com/search" name="SSF" id="SSFsp">
+<input type="hidden" name="hl" value="ja" />
+<input type="hidden" name="domains" value="city.murayama.lg.jp" />
+<input type="hidden" name="sitesearch" value="city.murayama.lg.jp" />
+<div>
+<label for="query" class="smsg"><img src="/images/spacer.gif" alt="サイト内検索：キーワードを入力してください。" width="1" height="1" /></label>
+<input type="text" size="20" value="" placeholder="サイト内検索" class="tbox" name="query" id="query" />
+<button class="fedbt" name="sa" type="submit"><img alt="検索する" src="/mages/h0search.gif" width="18" height="19" /></button>
+</div>
+</form> -->
+<form id="cse-search-box SSFsp" action="https://google.com/cse">
+<input type="hidden" name="cx" value="f71cf30794989a8e0" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="text" name="q" size="20" placeholder="サイト内検索" class="tbox" />
+<button class="fedbt" name="sa" type="submit"><img alt="検索する" src="/images/h0search.gif" width="18" height="19" /></button>
+</form>
+
+</div><!-- /h-search -->
+
+<div class="h-menu">
+<ul class="h-list">
+<li><a href="/kurashi/index.html">くらし・手続き</a></li>
+<li><a href="/kosodate/index.html">子育て・教育</a></li>
+<li><a href="/kenko/index.html">健康・福祉</a></li>
+<li><a href="/bunka/index.html">文化・スポーツ・交流</a></li>
+<li><a href="/sangyo/index.html">産業・観光・イベント</a></li>
+<li><a href="/shisei/index.html#">市政情報</a></li>
+</ul><!-- /h-menu -->
+<ul class="headlist clearfix">
+<li><a href="/sitemap.html">サイトマップ</a></li>
+<li><a href="https://logoform.jp/f/ztc5B" target="_blank">お問い合わせ</a></li>
+</ul><!-- /headlist -->
+<div class="sp_sidenavi">
+<div class="side_bosai">
+<h2>防災・救急はこちら</h2>
+<ul class="clearfix">
+<li><a href="/kurashi/anzen_anshin/saigai/saigai_kinnkyu/bousai_kinkyuujouhou.html">防災・緊急情報</a></li>
+<li><a href="/kurashi/hoken_eisei/iryo/kyujitsushinryojo.html">休日診察所</a></li>
+</ul>
+</div>
+<div class="clearfix">
+<a href="/kurashi/anzen_anshin/saigai/bousaitaisaku/bousai-johodentatsu.html#cms37363"><img src="/images/bousaimusen.jpg" alt="防災無線テレホンサービス" /></a>
+</div>
+</div>
+</div><!-- /h-menu -->
+</div>
+</div>
+</div>
+</div><!-- /sp_head_wp -->
+
+<div id="pchead_wp" class="sidearea sp-none">
+<div class="pchead_wp_in clearfix fixnav">
+<h1 class="top_title"><a href="/index.html"><img src="/images/h_logo.gif" alt="山形県村山市" width="220" height="140" /></a></h1>
+<div class="gnavi_wp">
+<ul id="gnavi">
+<li class="navi1 menu-item-has-children"><a href="/kurashi/index.html" class="top_nav_parent">くらし・手続き</a>
+<div class="sub" id="gnavi01"><img src="/images/spacer.gif" alt="" width="1" height="1" />
+<ul class="sub-menu">
+	<li class="dropmenu-box"><a href="/kurashi/tetsuzuki/index.html">手続き・証明</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/zeikin/index.html">税金</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/nenkin/index.html">年金</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/suidou_gesuidou/index.html">水道・下水道・浄化槽</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/anzen_anshin/index.html">安全・安心</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/sumai/index.html">住まい・まちなみ</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/dourokasen/index.html">道路・河川</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/hoken_eisei/index.html">保健・衛生</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/shizen/index.html">自然・環境・ごみ・ペット</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/josei/index.html">助成・融資・利子補給</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/sodan/index.html">相談</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/koukyoukoutsuu/index.html">公共交通</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/gaikokujin/index.html">外国人の方へ</a></li>
+</ul>
+</div>
+</li>
+<li class="navi2 menu-item-has-children"><a href="/kosodate/index.html" class="top_nav_parent">子育て・教育</a>
+<div class="sub" id="gnavi02"><img src="/images/spacer.gif" alt="" width="1" height="1" />
+<ul class="sub-menu">
+	<li class="dropmenu-box"><a href="/kurashi/kosodate/index.html">結婚・妊娠・出産・子育て・保育</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/gakko/index.html">学校・教育・生涯学習</a></li>
+</ul>
+</div>
+</li>
+<li class="navi3 menu-item-has-children"><a href="/kenko/index.html" class="top_nav_parent">健康・福祉</a>
+<div class="sub" id="gnavi03"><img src="/images/spacer.gif" alt="" width="1" height="1" />
+<ul class="sub-menu">
+	<li class="dropmenu-box"><a href="/kurashi/kokuho/index.html">国民健康保険</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/chiiki_hukushi/index.html">地域福祉</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/hukushiiryou/index.html">福祉医療</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/kaigo/index.html">介護保険</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/koreisha_fukushi/index.html">高齢者福祉</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/shogai_fukushi/index.html">障がい福祉</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/seikatsu_fukushi/index.html">生活福祉</a></li>
+</ul>
+</div>
+</li>
+<li class="navi4 menu-item-has-children"><a href="/bunka/index.html" class="top_nav_parent">文化・スポーツ・交流</a>
+<div class="sub" id="gnavi04"><img src="/images/spacer.gif" alt="" width="1" height="1" />
+<ul class="sub-menu">
+	<li class="dropmenu-box"><a href="/bunka/bunka/index.html">文化</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/sports_yoka/index.html">スポーツ・余暇</a></li>
+	<li class="dropmenu-box"><a href="/kurashi/kokusaikouryuu/index.html">国際交流</a></li>
+</ul>
+</div>
+</li>
+<li class="navi5 menu-item-has-children"><a href="/sangyo/index.html" class="top_nav_parent">産業・観光・イベント</a>
+<div class="sub" id="gnavi05"><img src="/images/spacer.gif" alt="" width="1" height="1" />
+<ul class="sub-menu">
+	<li class="dropmenu-box"><a href="/kurashi/nou_syou_kou/index.html">農林業・商業・工業</a></li>
+	<li class="dropmenu-box"><a href="/jigyosha/index.html">事業者の方へ</a></li>
+	<li class="dropmenu-box"><a href="/kanko/index.html">観光</a></li>
+	<li class="dropmenu-box"><a href="/event/index.html">イベント</a></li>
+</ul>
+</div>
+</li>
+<li class="navi6 menu-item-has-children"><a href="/shisei/index.html" class="top_nav_parent">市政情報</a>
+<div class="sub" id="gnavi06"><img src="/images/spacer.gif" alt="" width="1" height="1" />
+<ul class="sub-menu">
+	<li class="dropmenu-box"><a href="/shisei/gaiyo/index.html">市の概要・紹介</a></li>
+	<li class="dropmenu-box"><a href="/shisei/shityoushitsu/index.html">市長室</a></li>
+	<li class="dropmenu-box"><a href="/shisei/gikai/index.html">市議会</a></li>
+	<li class="dropmenu-box"><a href="/shisei/soshikigyoumu/index.html">組織・業務案内</a></li>
+	<li class="dropmenu-box"><a href="/shisei/keikaku_seisaku/index.html">計画・政策</a></li>
+	<li class="dropmenu-box"><a href="/shisei/zaisei/index.html">財政</a></li>
+	<li class="dropmenu-box"><a href="/shisei/tokei/index.html">統計・調査・報告</a></li>
+	<li class="dropmenu-box"><a href="/shisei/jouhoukoukai/index.html">情報公開</a></li>
+	<li class="dropmenu-box"><a href="/shisei/shokuinjinnji/index.html">職員募集・人事</a></li>
+	<li class="dropmenu-box"><a href="/shisei/kokoku/index.html">広報・刊行物</a></li>
+	<li class="dropmenu-box"><a href="/shisei/senkyo/index.html">選挙</a></li>
+	<li class="dropmenu-box"><a href="/shisei/shimincenter/index.html">市民センター</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+<div class="sidenavi">
+<div class="side_bosai">
+<h2>防災・救急はこちら</h2>
+<ul class="clearfix">
+<li><a href="/kurashi/anzen_anshin/saigai/saigai_kinnkyu/bousai_kinkyuujouhou.html">防災・緊急情報</a></li>
+<li><a href="/kurashi/hoken_eisei/iryo/kyujitsushinryojo.html">休日診察所</a></li>
+</ul>
+</div>
+<div class="clearfix">
+<a href="/kurashi/anzen_anshin/saigai/bousaitaisaku/bousai-johodentatsu.html#cms37363"><img src="/images/bousaimusen.jpg" alt="防災無線テレホンサービス" /></a>
+</div>
+<ul class="navibtn">
+<li class="fontsize"><a href="#fontsize-in" class="fontsize-btn">文字拡大</a>
+<ul class="fontsize-in" id="fontsize-in">
+<li><a href="#PTOP" onclick="return ChgFontSize(1);"><img src="images/font-b.png" alt="大サイズ" /></a></li>
+<li><a href="#PTOP" onclick="return ChgFontSize(2);"><img src="images/font-m.png" alt="中サイズ" /></a></li>
+<li><a href="#PTOP" onclick="return ChgFontSize(3);"><img src="images/font-s.png" alt="小サイズ" /></a></li>
+</ul>
+</li>
+<li class="multilingual"><a href="/aboutweb/multilingual.html" class="multilingual-btn">multilingual</a>
+<!--
+<ul class="multilingual-in" id="multilingual-in">
+<li><a href="http://translation2.j-server.com/LUCYAMURA/ns/w1/jaen/http://www.city.murayama.lg.jp/" target="_blank">English</a></li>
+<li><a href="http://translation2.j-server.com/LUCYAMURA/ns/w1/jazh/http://www.city.murayama.lg.jp/" target="_blank">簡体中文</a></li>
+<li><a href="http://translation2.j-server.com/LUCYAMURA/ns/w1/jazhb/http://www.city.murayama.lg.jp/" target="_blank">繁体中文</a></li>
+<li><a href="http://translation2.j-server.com/LUCYAMURA/ns/w1/jako/http://www.city.murayama.lg.jp/" target="_blank">Korean</a></li>
+</ul>
+-->
+</li>
+<li><a href="/sitemap.html">サイトマップ</a></li>
+<li><a href="https://logoform.jp/f/ztc5B" target="_blank">お問い合わせ</a></li>
+</ul>
+
+</div>
+</div>
+</div><!--/pchead_wp-->
+</div><!-- div/header -->
+</div><!-- div/sidearea -->
+<!-- ▲左エリアここまで▲ -->
+
+<!-- ▼右エリアここから▼ -->
+<div class="mainarea">
+
+<div class="wrapper">
+
+<!-- ▼メインコンテンツここから▼ -->
+<div class="guidance"><a name="CONT" id="CONT"><img src="/images/spacer.gif" alt="本文ここから" width="0" height="0" /></a></div>
+<!-- scs_jyogai_end -->
+
+
+
+
+<div class="disnon"><h1>村山市</h1></div>
+
+
+
+
+
+
+<div class="top_slider">
+<ul class="main-wrapper">
+
+
+
+
+<li>
+<a class="innerLink" href="/shisei/zaisei/furusatonouzei/seisaku0120260619.html"><img src="index.images/saigonoyugi.jpg" width="1000" height="500" alt="村川透監督映画　最後の遊戯　ティザー動画公開の画像" /></a>
+</li>
+
+
+
+
+
+
+<li>
+<a class="innerLink" href="/shisei/keikaku_seisaku/sinmitinoekiseibizig/machi0120260618.html"><img src="index.images/shin_michinoekimurayama.png" width="1000" height="500" alt="新・道の駅むらやまの完成予想図の画像" /></a>
+</li>
+
+
+
+
+
+
+<li>
+<a class="innerLink" href="/kanko/rose/harubara2026.html"><img src="index.images/harunobaramatsuri_2026.png" width="1000" height="500" alt="バラまつり2026の画像" /></a>
+</li>
+
+
+
+
+
+
+<li>
+<a class="innerLink" href="/kurashi/nou_syou_kou/norin/noukanrenkeijigyou6j/jyunsai.html"><img src="index.images/tennenjunsaishukakutaiken.png" width="1000" height="500" alt="天然ジュンサイ収穫体験受付中の画像" /></a>
+</li>
+
+
+
+
+
+
+<li>
+<a class="innerLink" href="/shisei/kokoku/kurasinoguidebook.html"><img src="index.images/kurashinoguidebook.gif" width="1000" height="500" alt="暮らしのガイドブック2026広告主募集の画像" /></a>
+</li>
+
+
+
+
+
+
+<li>
+<a class="innerLink" href="/kurashi/kosodate/kosodate-smile.html"><img src="index.images/2026kosodatesmilp.png" width="1000" height="500" alt="村山市子育てスマイルプロジェクトの画像" /></a>
+</li>
+
+
+
+
+
+</ul>
+<div class="prev_next">
+<div class="prev-btn"><img src="/images/slidearrow-l.png" alt="前の画像を表示" /></div>
+<div class="next-btn"><img src="/images/slidearrow-r.png" alt="次の画像を表示" /></div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="infoarea1">
+
+<div id="news">
+<div id="info-1">
+
+<ul id="tab">
+<li id="tab-01" class="select"><a href="javascript:void(0)">注目情報</a></li>
+<li id="tab-02"><a href="javascript:void(0)">新着情報</a></li>
+<li id="tab-03"><a href="javascript:void(0)">募集情報</a></li>
+</ul>
+
+<div id="tab01" class="tab-content tab01">
+
+<div class="top-info">
+
+
+<a class="innerLink" href="/shisei/shokuinjinnji/shokuinnboshuu/shokuinsaiyoushiken.html"><p>令和8年度村山市職員採用試験案内</p></a>
+
+<a class="innerLink" href="/kurashi/kurashiouen.html"><p>「くらし応援商品券」を受け取っていない方へ</p></a>
+
+<a class="innerLink" href="/kanko/kanko_koryu/syobunkan-kuahausspa.html"><p>クアハウス碁点SPAプールがリニューアルオープンします</p></a>
+
+<a class="innerLink" href="/shisei/keikaku_seisaku/sinmitinoekiseibizig/machi0120260618.html"><p>新・道の駅むらやま事業進捗報告会を開催しました</p></a>
+
+<a class="innerLink" href="/shisei/kokoku/kurasinoguidebook.html"><p>「村山市暮らしのガイドブック」に掲載する広告主を募集します</p></a>
+
+<a class="innerLink" href="/kurashi/hoken_eisei/eisei/nettyusyo.html"><p>熱中症にご注意ください</p></a>
+
+<a class="innerLink" href="/kurashi/okomeken2026.html"><p>「おこめギフト券」を受け取っていない方へ</p></a>
+
+<a class="innerLink" href="/kanko/rose/harubara2026.html"><p>東沢バラ公園バラまつり2026が開催中です</p></a>
+
+<a class="innerLink" href="/kurashi/anzen_anshin/shiminkumasyutubotu.html"><p>クマ出没警報が発令中です</p></a>
+
+<a class="innerLink" href="/kurashi/josei/josei/dousoukai_hojyo.html"><p>22歳から39歳までの同窓会開催経費の一部を助成します</p></a>
+
+<a class="innerLink" href="/shisei/zaisei/furusatonouzei/lastdance_nouzei.html"><p>村川透監督作品「LAST DANCE　最後の遊戯」映画支援寄附金募集中</p></a>
+
+<a class="innerLink" href="/kurashi/hoken_eisei/yobo/yobousesshu_seijin.html"><p>4月1日から高齢者の肺炎球菌定期接種ワクチンが変更になります</p></a>
+
+<a class="innerLink" href="/kurashi/sumai/takuchi/zaisei_hayama.html"><p>Ｓ＊mileタウンはやま1区画を分譲します</p></a>
+
+<a class="innerLink" href="/kurashi/josei/josei/sintikutoti.html"><p>住宅の新築・改築及び住宅を購入した場合に補助します。（最大325万円）</p></a>
+
+<a class="innerLink" href="/shisei/zaisei/furusatonouzei/furusatonouzeitop.html"><p>ふるさと納税のご案内</p></a>
+
+<a class="innerLink" href="/shisei/keikaku_seisaku/ijuteiju/seisakuizuhandbook.html"><p>村山市へ移住・定住を希望される方へ</p></a>
+
+<a class="innerLink" href="/kurashi/kosodate/kosodate-smile.html"><p>子育てスマイルプロジェクト</p></a>
+
+<a class="innerLink" href="/kurashi/kosodate/kosodatekarennda.html"><p>子育てカレンダー</p></a>
+
+</div>
+<!-- <div class="top-ichiran"><a href="/category/chumoku/index.html">注目情報一覧を見る</a></div> -->
+</div><!--/tab02-->
+
+
+<div id="tab02" class="tab-content tab02 disnon">
+<div class="top-info">
+
+
+<a class="innerLink" href="/shisei/shokuinjinnji/shokuinnboshuu/shokuinsaiyoushiken.html"><p>令和8年度村山市職員採用試験案内</p></a>
+
+<a class="innerLink" href="/kurashi/kurashiouen.html"><p>「くらし応援商品券」を受け取っていない方へ</p></a>
+
+<a class="innerLink" href="/kanko/kanko_koryu/syobunkan-kuahausspa.html"><p>クアハウス碁点SPAプールがリニューアルオープンします</p></a>
+
+<a class="innerLink" href="/shisei/keikaku_seisaku/sinmitinoekiseibizig/machi0120260618.html"><p>新・道の駅むらやま事業進捗報告会を開催しました</p></a>
+
+<a class="innerLink" href="/kurashi/hoken_eisei/eisei/nettyusyo.html"><p>熱中症にご注意ください</p></a>
+
+<a class="innerLink" href="/kurashi/anzen_anshin/shiminkumasyutubotu.html"><p>クマ出没警報が発令中です</p></a>
+
+<a class="innerLink" href="/kanko/rose/harubara2026.html"><p>東沢バラ公園バラまつり2026が開催中です</p></a>
+
+</div>
+<!-- <div class="top-ichiran"><a href="/allNewsList.html">新着情報一覧を見る</a></div> -->
+</div><!--/tab01-->
+
+
+<div id="tab03" class="tab-content tab03 disnon">
+<div class="top-info">
+
+
+<a class="innerLink" href="/shisei/shokuinjinnji/shokuinnboshuu/shokuinsaiyoushiken.html"><p>令和8年度村山市職員採用試験案内</p></a>
+
+<a class="innerLink" href="/kurashi/nou_syou_kou/norin/nougyouringyouoshira/nourin-kaigaishisatu.html"><p>村山市農業士会からお知らせ（海外視察研修参加者募集）</p></a>
+
+<a class="innerLink" href="/shisei/kokoku/kurasinoguidebook.html"><p>「村山市暮らしのガイドブック」に掲載する広告主を募集します</p></a>
+
+<a class="innerLink" href="/jigyosha/sho_kogyo/shodan20261022.html"><p>「2026北村山広域商談会」をに開催します（10月22日）</p></a>
+
+<a class="innerLink" href="/shisei/zaisei/furusatonouzei/lastdance_nouzei.html"><p>村川透監督作品「LAST DANCE　最後の遊戯」映画支援寄附金募集中</p></a>
+
+<a class="innerLink" href="/kurashi/sumai/takuchi/zaisei_hayama.html"><p>Ｓ＊mileタウンはやま1区画を分譲します</p></a>
+
+<a class="innerLink" href="/shisei/keikaku_seisaku/kyoryokutaiboshu.html"><p>地域おこし協力隊を募集します！</p></a>
+
+<a class="innerLink" href="/kurashi/sports_yoka/sports/sintaisoukyousitu.html"><p>むらやま新体操教室生徒募集</p></a>
+
+<a class="innerLink" href="/shisei/tokei/seisaku_toukeichousa.html"><p>登録統計調査員募集</p></a>
+
+<a class="innerLink" href="/kurashi/sumai/akiyabankjoho.html"><p>空き家空き地バンク登録物件募集</p></a>
+
+</div>
+<!-- <div class="top-ichiran"><a href="/category/bosyu/index.html">募集情報一覧を見る</a></div> -->
+</div><!--/tab03-->
+
+
+</div>
+</div>
+
+</div><!-- div/infoarea1 -->
+
+
+
+
+
+
+
+
+
+
+
+<div id="infoarea2">
+<div class="infoarea_title">
+<h2>情報を探す</h2>
+</div>
+
+<div id="lifeevent" class="infoarea-in">
+<div class="lifeevent-in">
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/ninshin.html"><img src="index.images/life01.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">妊娠・出産</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/kurashi/kosodate/kosodate_zenpan/index.html"><img src="index.images/life02.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">子育て</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/nyugaku.html"><img src="index.images/life03.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">入学・入園</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/marriage.html"><img src="index.images/life04.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">結婚・離婚</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/hikkoshi.html"><img src="index.images/life05.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">引越し</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/tetsuzuki.html"><img src="index.images/life06.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">手続き・証明</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/recycle.html"><img src="index.images/life07.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">ごみ・リサイクル</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/nenkin.html"><img src="index.images/life08.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">年金・保険</span>
+
+
+</a>
+
+</div>
+
+
+
+
+<div class="lifeevent-box">
+
+<a class="innerLink" href="/hayabiki/korei_fukushi.html"><img src="index.images/life09.png" width="88" height="88" alt="" />
+<span class="lifeevent-txt">高齢・福祉</span>
+
+
+</a>
+
+</div>
+
+
+
+
+</div>
+</div><!-- div/lifeevent -->
+
+
+
+
+
+
+
+
+
+<div class="search-area">
+<div class="search_title">
+<span>キーワードで探す</span>
+</div>
+
+<form id="main-search" action="https://google.com/cse">
+<input type="hidden" name="cx" value="f71cf30794989a8e0" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="text" name="q" size="20" placeholder="キーワードを入力して検索" id="query" class="tbox" />
+<button id="sbtn" class="fedbt" name="sa" type="submit"><img alt="検索する" src="/images/topsearch.gif" width="24" height="26" /></button>
+</form>
+
+</div><!-- div/search-area -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="gyosei">
+
+<div class="top_h3">行政情報</div>
+<div class="gyosei_1 clearfix">
+
+<div class="g1_in">
+
+<a class="innerLink" href="/shisei/shityoushitsu/index.html"><img src="index.images/shihushicho20250901.jpg" width="100" height="103" alt="" />
+<span>市長室</span>
+
+
+</a>
+
+</div>
+
+<div class="g1_in">
+
+<a class="innerLink" href="/shisei/gikai/index.html"><img src="index.images/gikai.jpg" width="100" height="100" alt="" />
+<span>村山市議会</span>
+
+
+</a>
+
+</div>
+
+</div>
+
+
+<div class="gyosei_2 clearfix">
+
+<div class="g2_in">
+
+
+<a class="innerLink" href="/shisei/jouhoukoukai/jouhoukoukai.html"><span>情報公開</span>
+</a>
+
+
+</div>
+
+<div class="g2_in">
+
+
+<a class="innerLink" href="/shisei/gaiyo/reikishuu.html"><span>例規集</span>
+</a>
+
+
+</div>
+
+<div class="g2_in">
+
+
+<a class="innerLink" href="/jigyosha/nyuusatsu/index.html"><span>入札・契約</span>
+</a>
+
+
+</div>
+
+<div class="g2_in">
+
+
+<a class="innerLink" href="/shisei/tokei/murayamashi_jinko/jinkostaisu.html"><span>人口・世帯数</span>
+</a>
+
+
+</div>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="benri">
+<div class="top_h3">便利ガイド</div>
+
+
+<ul class="benri_in">
+
+<li class="innerLink">
+
+
+<a class="innerLink" href="/kurashi/tetsuzuki/shimin0220241018konb.html">証明書がコンビニで取得できます
+</a></li>
+<li class="innerLink">
+
+
+<a class="innerLink" href="/kurashi/sumai/murra_livecam.html">村山市ライブカメラ
+</a></li>
+<li class="innerLink">
+
+
+<a class="innerLink" href="/kurashi/dourokasen/kennsetu-tuhou.html">村山市道路損傷等通報システム
+</a></li>
+<li class="innerLink">
+
+
+<a class="innerLink" href="/kurashi/tetsuzuki/shinseisho.html">申請書ダウンロード
+</a></li>
+<li class="externalLink newWindow">
+
+
+<a class="externalLink newWindow" href="https://www.shoyo-plaza.jp/library/" target="_blank"  rel="noopener noreferrer">村山市立図書館
+</a></li>
+</ul>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="koho">
+<div class="top_h3">市民の友むらやま　最新号</div>
+
+<div class="koho_new">
+<a class="innerLink" href="/shisei/kokoku/shiminnnotomo/r8_siminnotomo.html"><img src="index.images/20260701.jpg" width="120" height="170" alt="広報「市民の友むらやま」最新号の画像" /></a>
+</div>
+
+<div class="koho_old">
+<a href="/shisei/kokoku/shiminnnotomo/index.html">バックナンバー一覧</a>
+
+</div>
+</div>
+
+
+
+
+</div><!-- /div infoarea2  -->
+
+
+
+
+
+<div id="infoarea3" class="clearfix">
+<div class="infoarea_title">
+<h2>関連サイト</h2>
+</div>
+<div class="kanren-in">
+<ul class="kanrenslider">
+
+
+
+<li>
+
+<a class="externalLink newWindow" href="https://www.facebook.com/MurayamaCity/" target="_blank"  rel="noopener noreferrer"><img src="index.images/1.png" width="165" height="42" alt="村山市公式フェイスブックへのリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink" href="https://www.seichi.net/koichan/murayama/" target="_blank"  rel="noopener noreferrer"><img src="index.images/koibitonoseichi2.jpg" width="151" height="42" alt="恋人の聖地チャンネルへのリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink newWindow" href="https://www.youtube.com/channel/UC_NDYZlWcGvtDsXtqsV-grg" target="_blank"  rel="noopener noreferrer"><img src="index.images/3.jpg" width="165" height="42" alt="村山市公式ユーチューブチャンネルへのリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="innerLink newWindow" href="/shisei/zaisei/furusatonouzei/index.html" target="_blank"  rel="noopener noreferrer"><img src="index.images/4.jpg" width="166" height="42" alt="村山市のふるさと納税のホームページリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink newWindow" href="http://www.murayamatokunai.jp/" target="_blank"  rel="noopener noreferrer"><img src="index.images/2.jpg" width="165" height="42" alt="むらやま徳内まつりの外部リンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink newWindow" href="https://www.youtube.com/channel/UCifx-82hUneuTRtk1a28u1Q" target="_blank"  rel="noopener noreferrer"><img src="index.images/5.jpg" width="165" height="42" alt="ローズキャンプのユーチューブリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink" href="https://www.pref.yamagata.jp/online_ymg/shinsei/e-tetsuzuki99.html" target="_blank"  rel="noopener noreferrer"><img src="index.images/6.gif" width="165" height="42" alt="やまがたe申請ポータルサイトへのリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="innerLink" href="/kigyo/index.html"><img src="index.images/7.gif" width="165" height="42" alt="村山市受発注支援サイトへのリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink" href="https://www.facebook.com/murayama.kyoryokutai/" target="_blank"  rel="noopener noreferrer"><img src="index.images/8.jpg" width="165" height="42" alt="村山市地域おこし協力隊フェイスブックへのリンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink newWindow" href="https://murayama-kanbutu.com/" target="_blank"  rel="noopener noreferrer"><img src="index.images/11.gif" width="165" height="42" alt="村山市観光物産協会ホームページ観光なびへの外部リンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink newWindow" href="https://www.iaidoexperience.com/" target="_blank"  rel="noopener noreferrer"><img src="index.images/12.jpg" width="165" height="42" alt="村山市観光物産協会居合道体験への外部リンクバナー" /></a>
+
+</li>
+
+
+
+
+<li>
+
+<a class="externalLink" href="https://www.pride2.co.jp/higashizawa_rose_vr/" target="_blank"  rel="noopener noreferrer"><img src="index.images/13.jpg" width="165" height="42" alt="東沢バラ公園VRマップのリンクバナー" /></a>
+
+</li>
+
+
+
+
+</ul>
+<div class="prev_next">
+<div class="kanren_prev-btn"><img src="/images/slidearrowb-l.png" alt="前の画像を表示" /></div>
+<div class="kanren_next-btn"><img src="/images/slidearrowb-r.png" alt="次の画像を表示" /></div>
+</div>
+</div>
+</div><!-- div/infoarea3 -->
+
+
+
+
+
+<hr />
+<!-- scs_jyogai_start -->
+
+
+<div class="ad-box">
+<div class="ad-title">
+<h2>広告</h2>
+<!-- p><a href="/aboutweb/koukoku.html">広告掲載について</a></p -->
+</div>
+
+<ul class="ad-in">
+<li class="pagelinkbtout"><a href="https://chuo-printing.co.jp/" target="_blank"><img src="/banner/chuuouinsatsu_R7.gif" width="165" height="57" alt="中央印刷株式会社" /></a></li><li class="pagelinkbtout"><a href="https://sovagroup.co.jp/media_top/" target="_blank"><img src="/banner/Sova.jpg" width="165" height="57" alt="バナー広告　Sova株式会社　の画像" /></a></li><li class="pagelinkbtout"><a href="https://www.city.murayama.lg.jp/shisei/kokoku/banner_koukoku.html" target="_blank"><img src="/banner/koukoku.gif" width="136" height="57" alt="村山市" /></a></li><li class="pagelinkbtout"><a href="/shisei/kokoku/banner_koukoku.html" target="_blank"><img src="/banner/bannerkoukoku.gif" width="165" height="57" alt="バナー広告募集" /></a></li><li class="pagelinkbtout"><a href="/shisei/kokoku/banner_koukoku.html" target="_blank"><img src="/banner/koukoku_test2.gif" width="165" height="57" alt="test2" /></a></li>
+</ul>
+</div>
+<!-- scs_jyogai_end -->
+
+
+
+
+<!-- scs_jyogai_start -->
+
+<!-- ▼フッターここから▼ -->
+<div class="newpara guidance"><img src="/images/spacer.gif" alt="以下フッターです。" width="1" height="1" /></div>
+<div id="foot_wp">
+<div class="footer">
+<div class="foot-link">
+<ul class="clearfix">
+<li><a href="/aboutweb/sitepolicy.html">サイトポリシー</a></li>
+<li><a href="/aboutweb/webaccessibility.html">ウェブアクセシビリティ</a></li>
+<li><a href="/aboutweb/kojin_joho.html">個人情報保護</a></li>
+<li><a href="/aboutweb/mensekijiko.html">免責事項</a></li>
+<li><a href="/aboutweb/link.html">リンク集</a></li>
+</ul>
+</div>
+
+<div class="foot-address">
+<h2>山形県村山市</h2>
+<address>〒995-8666　山形県村山市中央一丁目3番6号<br />開庁時間／月曜日から金曜日の午前8時30分から午後5時15分まで（祝日・休日・12月29日から1月3日を除く）<br />電話：0237-55-2111（代表）　法人番号5000020062081</address>
+<div class="copy">Copyright(c) Murayama City. All Right Reserved.</div>
+<div class="secom">
+<form action="https://www.login.secomtrust.net/customer/customer/pfw/CertificationPage.do" name=" CertificationPageForm" method="post" target="_blank" style="margin:0;">
+<input type="image" src="/images/secom_sticker.gif" width="44" height="70" name="Sticker" alt="クリックして証明書の内容をご確認ください" oncontextmenu="return false;" />
+<input type="hidden" name="Req_ID" value="0336499715" />
+</form>
+</div>
+</div>
+</div><!-- div/footer -->
+</div><!-- div/foot_wp -->
+
+<div class="page-top">
+<a href="#PTOP">
+<img src="/images/foot_pagetop.png" alt="ページの先頭へ戻る" width="90" height="90" />
+</a>
+</div>
+
+<!-- ▲フッターここまで▲ -->
+</div><!-- /div wrapper  -->
+</div><!-- /div mainarea  -->
+</div><!-- /div all-wp  -->
+</div><!-- /div baseall  -->
+<!-- scs_jyogai_end -->
+
+</body>
+</html>

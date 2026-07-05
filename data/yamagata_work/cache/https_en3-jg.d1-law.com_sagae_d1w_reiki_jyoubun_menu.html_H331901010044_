@@ -1,0 +1,72 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=UTF-8">
+<LINK REL="STYLESHEET" HREF="./style_comm.css" TYPE="text/css" />
+
+<TITLE>
+</TITLE>
+</HEAD>
+<SCRIPT>
+
+function close_win()
+{
+    top.close();
+    return false;
+}
+function print_win()
+{
+    var print_html
+    //print_html = parent.D1W_RESDATA_VIW.location.pathname
+    print_html = location.search.substring(1);
+    //33110002011100000000_j.html
+    //33110002011100000000_BLK0.html
+    //Status_flg ='toolbar=1,location=0,directorys=0,status=yes,menubar=1,scrollbars=1,resizable=1';
+    Status_flg ='toolbar=0,location=0,directorys=0,status=yes,menubar=1,scrollbars=1,resizable=1';
+    var inx
+    inx = print_html.lastIndexOf("/")
+    if(inx == 0)
+    {
+	inx = print_html.lastIndexOf("\\")
+    }
+    if(inx == 0)
+    {
+	alert(print_html + "のファイル名に_がありません")
+	return
+    }
+
+//alert(print_html)
+
+    print_html = print_html.substr(0, inx) + "/print.html"
+
+    inx = print_html.lastIndexOf(":")
+    if(inx > 0)
+    {
+        print_html = print_html.substr( inx + 1);
+    }
+
+//alert(print_html)
+    window.open(print_html,'D1W_PRINT_HTML',Status_flg );
+    return false;
+}
+
+</SCRIPT>
+
+<body bgcolor="#336699" text="#FFFFFF" LINK=#0000FF ALINK=#FF0000 VLINK=#0000FF marginheight=0 topmargin=0>
+ <table border="0" cellpadding="0" cellspacing="0" height="26">
+  <tr valign="bottom">
+<TD WIDTH=50 NOWRAP></TD>
+<TD WIDTH=50 NOWRAP></TD>
+<TD WIDTH=50 NOWRAP></TD>
+<TD WIDTH=50 NOWRAP></TD>
+<TD WIDTH=50 NOWRAP></TD>
+<TD WIDTH=50 NOWRAP></TD>
+<TD WIDTH=50 NOWRAP></TD>
+<!-- <TD WIDTH=50 NOWRAP><A HREF="javascript:print_win()" >印刷</A></TD> - nob on line stop /next line add -->
+<TD WIDTH=50 NOWRAP><A HREF="javascript:void(0);" onClick="javascript:print_win();return false;"><img  src="print_mode.gif" border="0" alt="NetScape Ver4.xをご利用の方は、印刷時こちらを利用ください。"></A>
+<TD WIDTH=50 NOWRAP></TD>
+<TD WIDTH=50 NOWRAP><A HREF="javascript:void(0);" onClick="javascript:close_win();return false;"><img  src="link_end.gif" border="0" alt="閉じる"></A>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

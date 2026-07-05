@@ -15,7 +15,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "site", "p")
 
-PREFS = ["iwate", "miyagi", "aomori"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima"]
 
 LEAFLET_CSS = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
 LEAFLET_CSS_INTEGRITY = "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -165,13 +165,35 @@ def process_pref(pref):
     return written, skipped
 
 
+def purge_stale(live_ids):
+    """Remove site/p/*.html files whose stem is not in live_ids.
+
+    Only touches files matching the JMH-XXXXXX-NNNN pattern to avoid
+    accidentally deleting unrelated files.
+    """
+    import re
+    pattern = re.compile(r"^JMH-\d{6}-\d{4}\.html$")
+    purged = 0
+    for fname in os.listdir(OUT_DIR):
+        if not pattern.match(fname):
+            continue
+        stem = fname[:-5]  # strip .html
+        if stem not in live_ids:
+            os.remove(os.path.join(OUT_DIR, fname))
+            print("  purged stale page: %s" % fname)
+            purged += 1
+    return purged
+
+
 def main():
     pref_args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    purge = "--purge" in sys.argv or not pref_args  # purge by default on full run
     targets = pref_args if pref_args else PREFS
 
     os.makedirs(OUT_DIR, exist_ok=True)
     total_written = 0
     total_skipped = 0
+    live_ids = set()
 
     for pref in targets:
         written, skipped = process_pref(pref)
@@ -180,6 +202,24 @@ def main():
             print("  skipped %d rows with no jmh_id" % skipped)
         total_written += written
         total_skipped += skipped
+
+    # Collect all live IDs from ALL prefs (not just targets) for purge
+    if purge:
+        for pref in PREFS:
+            src = os.path.join(ROOT, "data", pref + ".jsonl")
+            if not os.path.exists(src):
+                continue
+            with open(src, encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if line:
+                        r = json.loads(line)
+                        jid = r.get("jmh_id")
+                        if jid:
+                            live_ids.add(jid)
+        purged = purge_stale(live_ids)
+        if purged:
+            print("--- purged %d stale pages" % purged)
 
     print("--- total: wrote %d pages to site/p/" % total_written)
     if total_skipped:

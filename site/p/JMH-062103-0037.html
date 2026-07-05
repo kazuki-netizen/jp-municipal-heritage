@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>絵馬舎人曳駒之図(紙本着色神馬図) 最上家信 筆 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>絵馬舎人曳駒之図(紙本着色神馬図) 最上家信 筆</h1>
+    <p class="jmh-id">JMH-062103-0037</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字北目</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 愛宕神社; 概要: 一幅 縦188㎝ 横212㎝; 製作年代: 江戸時代初期; 躍動する神馬を神人(じにん)が制御する姿を雄勁(ゆうけい)な筆致で描いている。画題と構図は若松寺の重要文化財「板絵着色神馬図」とほぼ一致しており、影響関係がうかがわれる。本作品の場合、馬の毛に斑文様があり、首を下に向けている点が異なっている。画面の損傷が甚だしいうえに、馬の鞍および神人の脇差の柄と鞘に胡紛の盛り上げが見られることから、額装から軸装に仕立て直したと考えられる。神人の上部に「奉納／馬形／一疋／為諸願／成就／（欠失）／九月二十四日家信」と墨書で記されている。家信は最上義俊の前名で、最上義光の孫にあたる。本図が伝わる愛宕神社は天童城を落城させた義光が、守護神として建立したものである。また、江戸で生まれ育ち、元和(げんな)３年（1617）にわずか12歳で家督を相続した家信は、領内各地の神社を再興している。山形市の日枝(ひえ)神社には同じく家信筆の「猿曳馬図」(元和６年申年奉納)が残されており、それに比べて極めて巨大な本図は、最初の国入りの年であり、午(うま)年でもある元和４年（1618）の奉納とする説がある。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"絵馬舎人曳駒之図(紙本着色神馬図) 最上家信 筆" (JMH-062103-0037), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.344963, 140.358032], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.344963, 140.358032]).addTo(m);
+  </script>
+</body>
+</html>

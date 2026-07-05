@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>慶長八年棟札及び寛文十二年棟札 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>慶長八年棟札及び寛文十二年棟札</h1>
+    <p class="jmh-id">JMH-062103-0021</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字北目</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 愛宕神社; 概要: 慶長（けいちょう）八年棟札 寛文（かんぶん）十二年棟札; 製作年代: 江戸時代; 高さ 中央部71．２㎝ 高さ 中央部 107．７㎝ 左 68㎝ 右 67．６㎝ 左 106㎝ 右 106．７㎝ 幅 上・下部 17．８㎝ 幅(上）17．８㎝(下)16㎝ 愛宕神社建立についての確実な史料は、現存する「慶長八年」及び「寛文十二年」二枚の棟札のみである。慶長８年（1603）棟札表面には、「奉造立愛宕殿御社従都奉勧請以後第二度目也」「于時慶長八年太歳癸卯菊月（陰暦９月）吉祥日 別當山形宝幢寺住侶宥雄」などと記され、裏面には「君臣和合」の文字が見られる。寶幢寺(ほうどうじ)19代宥雄(ゆうゆう)（〔不明―慶長19年〕代で、愛宕殿御社（愛宕神社）が二度目の建立であったことが確認できる。さらに約70年後の寛文12年（1672）棟札には、「奉修理愛宕岩勝軍地蔵御寶殿御社第二度目御建立以後 星霜至于今七十年也」「于時寛文第十二年太歳壬子二月大吉曜宿日 別當最上郡山形寳幢寺住持法印亮辯」などとあり、慶長８年造立から70年が経過し、寳幢寺24代亮辯(りょうべん)（〔寛文元年―元禄11年〕）代に修理を行ったことが記されている。最上義光の名前が記された慶長棟札で、今日まで伝えられるものは他に存在しない可能性が高い。 また、寛文棟札からは、慶長時建立の愛宕神社が改修されたことが確認される。寛文13年（1673）銘の「擬宝珠(ぎぼし)」が本殿階段に見られ、愛宕神社内に寛文改修時に関係する遺宝が見られる。 二枚の棟札は、江戸時代初期及び前期の愛宕神社建立の歴史を伝える史料といえる。 慶長８年棟札 寛文12年棟札</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"慶長八年棟札及び寛文十二年棟札" (JMH-062103-0021), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.344963, 140.358032], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.344963, 140.358032]).addTo(m);
+  </script>
+</body>
+</html>

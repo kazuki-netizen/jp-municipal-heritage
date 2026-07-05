@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>華光菩薩（木造伝弥勒菩薩）倚像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>華光菩薩（木造伝弥勒菩薩）倚像</h1>
+    <p class="jmh-id">JMH-062103-0048</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>彫刻</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字高木</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 泉福寺; 概要: 坐高62．６㎝ 総高83㎝; 製作年代: 江戸時代前期; 江戸時代、承応(じょうおう)３年（1654）に来日した明の隠元禅師(いんげんぜんじ)が、４代将軍家綱の信仰を得て京都府宇治市に黄檗山萬福寺(おうばくざんまんぷくじ)を建立した。臨済禅の流れを汲む黄檗禅が広まることとなった。この時に伽藍堂(がらんどう)守護神として関帝(かんてい)像や華光菩薩がもたらされた。仙台藩では４代藩主伊達綱村が、元禄(げんろく)10年（1697）に黄檗宗に帰依(きえ)し城下に大年寺(だいねんじ)を建立した。 村山地方には江戸時代、黄檗宗寺院が広く存在したことが知られている。宝暦(ほうれき)11年（1761）の「高木村指出明細帳(さしだしめいさいちょう)」には黄檗宗の寺として、上州甘楽郡南牧(じょうしゅうかんらぐんなんもく)不動末寺良福寺(りょうふくじ)と、羽州村山郡高木村良福寺末庵慈眼庵(じげんあん)が載っている。 本像は良福寺の廃寺により近くの泉福寺に移された。伝弥勒菩薩と伝えられてきたが、萬福寺伽藍堂(がらんどう)に祀(まつ)られる華光菩薩と同じであり、同像は大年寺のほか、廃寺となった寒河江(さがえ)市山岸黄檗宗梅龍寺(ばいりゅうじ)の同像が山岸毘沙門堂に祀られている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"華光菩薩（木造伝弥勒菩薩）倚像" (JMH-062103-0048), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.374561, 140.361984], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.374561, 140.361984]).addTo(m);
+  </script>
+</body>
+</html>

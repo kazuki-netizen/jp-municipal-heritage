@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>寺津手人形関係資料 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>寺津手人形関係資料</h1>
+    <p class="jmh-id">JMH-062103-0015</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 天童市; 山形県内陸地方において、今日、興業としての手人形芝居は存在しない。山田木偶（でく）人形や山辺人形（山辺町山辺）の公演が時折、関係者によって行われる。人形芝居頭の多くは廃棄され、流出してしまった。まとまった数として地元に残るのは、山辺人形と寺津手人形だけであろう。 寺津手人形頭は105体が確認される。その内７割強が、人形師渋江長四郎（２代目原舟堂友房（はらしゅうどうともふさ））、神保平五郎、野川隆光（りゅうこう）（北山（ほくざん））の作品といわれる。長四郎は和事（女形）、平五郎や北山は荒事（あらごと）（男形）の人形が多かった。人形師の手になる頭がこれだけ確認されるのは、他には山辺人形のみである。加えて、手や面、小道具、着物、舞台道具が見られる。その他、木戸札（裏に「大入叶」の文字）である大札（大人用）・小札（子供用）、台本（『南部坂雪の訣（わか）れ』３冊、『堀部安兵衛婿入談』１冊）ポスター用の版木、通券版木、拍子木などが残されている。 頭の種別総量（105体） 立役（主役／男形）46体、立女形20体、三枚目15体、こども９体（内３番叟１体）、老人５体、その他10体（梨割２体、カブ４体、天狗１体、ヒヒ３体） ＊梨割…頭が２つに割れる。 カブ…顎落ち。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"寺津手人形関係資料" (JMH-062103-0015), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.36224, 140.37793], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.36224, 140.37793]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>観光情報 | 尾花沢市</title>
+  <meta name="description" content="雪とスイカと花笠のまち尾花沢。「尾花沢スイカ」のブランドで知られる夏スイカの生産量は日本一。霜降りでやわらかく甘味がある「尾花沢牛」、味もよく香り高い「尾花沢そば」の生産にも力を入れています。全国的に有名な「花笠音頭」の発祥地です。">
+  <meta name="keywords" content="尾花沢市,おばね,山形県,花笠,花がさ,はながさ,音頭,祭り,スイカ,西瓜">
+
+  <meta property="og:site_name" content="尾花沢市">
+  <meta property="og:title" content="観光情報">
+  <meta property="og:description" content="雪とスイカと花笠のまち尾花沢。「尾花沢スイカ」のブランドで知られる夏スイカの生産量は日本一。霜降りでやわらかく甘味がある「尾花沢牛」、味もよく香り高い「尾花沢そば」の生産にも力を入れています。全国的に有名な「花笠音頭」の発祥地です。">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://www.city.obanazawa.yamagata.jp/kanko/">
+  <meta property="og:image" content="https://www.city.obanazawa.yamagata.jp/theme/obane/ogp-image.png">
+
+  <link rel="icon" href="/favicon.ico" size="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/manifest.webmanifest">
+  
+  <link rel="alternate" type="application/rss+xml" href="/feed/">
+  <link rel="canonical" href="https://www.city.obanazawa.yamagata.jp/kanko/">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+
+  <link type="text/css" rel="stylesheet" href="/theme/obane/fontawesome-free-6.4.2-web/css/all.min.css">
+  <link type="text/css" rel="stylesheet" href="/theme/obane/css/sanitize.css">
+  <link type="text/css" rel="stylesheet" href="/theme/obane/swiper-8.4.7/swiper-bundle.min.css">
+  <link type="text/css" rel="stylesheet" href="/theme/obane/css/kanko.css">
+  <link type="text/css" rel="stylesheet" href="/theme/sn-default/css/body.css">
+
+  <script src="/theme/sn-default/lib/jquery/jquery-3.6.0.min.js"></script>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-N23KD34');</script>
+  <!-- End Google Tag Manager -->
+
+</head>
+<body id="kanko" class="">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N23KD34"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v14.0" nonce="umaaJkf1"></script>
+
+  
+
+  <nav class="screen-reader-text">
+    <a href="#siteContents">このページの本文へ</a>
+  </nav>
+
+  <header class="site-header">
+  <div class="container">
+
+    <div class="branding">
+      <h1><a href="/kanko/"><img src="/theme/obane/images/kanko-logo.svg" alt="尾花沢市"></a></h1>
+    </div>
+
+    <div class="mainsite">
+      <a href="/"><img src="/theme/obane/images/kanko-obane.svg" alt="尾花沢市"></a>
+    </div>
+
+    <div class="site-tools">
+      <div class="fontsize">
+        文字の大きさ
+        <button class="fs-button" data-fontsize="default">標準</button>
+        <button class="fs-button" data-fontsize="large">大きく</button>
+      </div>
+      <div class="languages">
+        <a href="/about/translation" class="lang-button">Foreign Languages</a>
+      </div>
+      <div class="site-search">
+        <form method="get" action="/search">
+          <input type="text" name="keyword" placeholder="サイト内検索" value="">
+          <button type="submit">検索</button>
+        </form>
+      </div>
+    </div>
+
+  </div>
+</header>
+
+  <nav class="global-nav">
+
+    <div class="global-nav__pc container">
+      <ul class="global-nav__list">
+        <li class="global-nav__item">
+          <a href="/kanko/matsuri/">まつり</a>
+        </li>
+        <li class="global-nav__item">
+          <a href="/kanko/kankochi/">観光地</a>
+        </li>
+        <li class="global-nav__item">
+          <a href="/kanko/gourmet/">グルメ・特産品</a>
+        </li>
+        <li class="global-nav__item">
+          <a href="/kanko/nature/">自然</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="global-nav__sp is-kanko">
+      <ul class="sp-nav">
+        <li class="jsToggleMenu"><img src="/theme/obane/images/sp-menu.svg" alt="" width="18" height="18">メニュー</li>
+        <li class="jsToggleFont"><img src="/theme/obane/images/sp-font-kanko.svg" alt="" width="18" height="18">文字の大きさ</li>
+        <li class="jsToggleLang"><img src="/theme/obane/images/sp-lang-kanko.svg" alt="" width="18" height="18">Language</li>
+      </ul>
+      <div class="sp-nav__wrapper">
+        <div class="jsSpMenu sp-nav__panel">
+          <ul class="sp-menu__list">
+            <li><a href="/kanko/">観光情報トップ</a></li>
+            <li><a href="/kanko/matsuri/">まつり</a></li>
+            <li><a href="/kanko/kankochi/">観光地</a></li>
+            <li><a href="/kanko/gourmet/">グルメ・特産品</a></li>
+            <li><a href="/kanko/nature/">自然</a></li>
+          </ul>
+          <div class="kanko-obane"><a href="/"><img src="/theme/obane/images/kanko-obane.svg" alt="尾花沢市"></a></div>
+        </div>
+        <div class="jsSpFont sp-nav__panel">
+          <div class="sp-font">
+            文字の大きさ
+            <button class="fs-button" data-fontsize="default">標準</button>
+            <button class="fs-button" data-fontsize="large">大きく</button>
+          </div>
+        </div>
+        <div class="jsSpLang sp-nav__panel">
+          <ul class="sp-lang__list">
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jaen/https://www.city.obanazawa.yamagata.jp/kanko/" target="_blank">English (Start Translation)</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jazh/https://www.city.obanazawa.yamagata.jp/kanko/" target="_blank">中文 (简体) 翻译开始</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jazhb/https://www.city.obanazawa.yamagata.jp/kanko/" target="_blank">中文 (繁体) 翻譯開始</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jako/https://www.city.obanazawa.yamagata.jp/kanko/" target="_blank">한국어 (韓国語) 번역 개시</a></li>
+            <li><a href="https://translation2.j-server.com/LUCOBANAZA/ns/w4/jatl/https://www.city.obanazawa.yamagata.jp/kanko/" target="_blank">Tagalog (Pagsisimula ng Pagsasalin)</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </nav>
+
+  
+  <main id="siteContents" class="site-main">
+
+  <section id="kankoSlide" class="kanko-slide swiper-container">
+    <ul class="swiper-wrapper">
+<li class="swiper-slide" style="background-image: url('/images/original/20220818094922285a88108b0.jpg')"><div class="swiper-caption" data-swiper-parallax="-200">夏の銀山温泉</div></li>
+<li class="swiper-slide" style="background-image: url('/images/original/2022081814585711426039379.jpg')"><div class="swiper-caption" data-swiper-parallax="-200">そば畑</div></li>
+<li class="swiper-slide" style="background-image: url('/images/original/20220823114618935322040b1.jpg')"><div class="swiper-caption" data-swiper-parallax="-200">徳良湖カヌー体験</div></li>
+</ul>
+
+    <div class="swiper-control">
+      <div class="swiper-pagination"></div>
+      <button id="swiper-play" class="swiper-control-button" title="一時停止"><i class="fas fa-pause"></i><span class="screen-reader-text">一時停止</span></button>
+    </div>
+  </section>
+
+  <section class="kanko-topmenu">
+    <div class="container">
+      <div class="kanko-topmenu__inner">
+        <h2 class="kanko-topmenu__title"><img src="/theme/obane/images/kanko-contents.svg" alt="Contents"></h2>
+        <ul class="kanko-topmenu__list">
+          <li><a href="/kanko/taiken-koryu/" class="kanko-button">体験・交流ガイド</a></li>
+          <li><a href="/kanko/kanko-pamphlet/" class="kanko-button">尾花沢市観光パンフレット</a></li>
+          <li><a href="/kurashi/kikikanri/anzen/livecamera/" class="kanko-button">ライブカメラ</a></li>
+          <li><a href="https://weather.yahoo.co.jp/weather/jp/6/3510/6212.html" target="_blank" class="kanko-button">尾花沢の天気</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="kanko-topics">
+    <div class="container">
+      <div class="kanko-topics__inner">
+        <h2 class="kanko-topics__title"><img src="/theme/obane/images/kanko-topics.svg" alt="観光Topics"></h2>
+        <ul class="kanko-topics__list">
+<li class="kanko-topics__list-item">
+<span class="date">2026.06.30</span>
+<span class="title">
+<a href="/kanko/kanko-topics/4412">「おばなざわ花笠まつり」が開催されます！</a><span class="new">New</span>
+</span>
+</li>
+<li class="kanko-topics__list-item">
+<span class="date">2026.06.23</span>
+<span class="title">
+<a href="/kanko/kanko-topics/2298">第２８回尾花沢そば・新そばまつりを開催します</a></span>
+</li>
+<li class="kanko-topics__list-item">
+<span class="date">2026.06.11</span>
+<span class="title">
+<a href="/kanko/kanko-topics/shinsobamatsuri2022">令和8年7月4日（土）そばの里まつりを開催いたします</a></span>
+</li>
+<li class="kanko-topics__list-item">
+<span class="date">2026.04.24</span>
+<span class="title">
+<a href="/kanko/kanko-topics/1333">徳良湖パンプトラック</a></span>
+</li>
+<li class="kanko-topics__list-item">
+<span class="date">2026.04.20</span>
+<span class="title">
+<a href="/kanko/kanko-topics/3651">銀山温泉(実証実験結果）</a></span>
+</li>
+</ul>
+
+        <div class="more-link">
+          <a href="/kanko/kanko-topics/" class="kanko-button">トピックス一覧</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="kanko-insta">
+    <div class="container">
+      <div class="kanko-insta__inner">
+        <h2 class="kanko-insta__title"><img src="/theme/obane/images/kanko-instagram.svg" alt="Instagram投稿"></h2>
+        <p class="kanko-insta__desc">ハッシュタグ「#オバネいいね」をつけて投稿してね。</p>
+        <div class="more-link">
+          <a href="/kanko/kanko-topics/" class="kanko-button">#オバネいいね はこちらから</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="kanko-pickup">
+    <div class="container">
+      <div class="kanko-pickup__inner">
+        <h2 class="kanko-pickup__title"><img src="/theme/obane/images/kanko-link.svg" alt="Link"></h2>
+        <ul class="kanko-pickup__list">
+<li class=""><a href="https://obanazawa-ski.jp/" target="_blank" ><img src="/images/original/2022081814551560788fdc850.jpg" alt="花笠高原スキー場" /></a></li>
+<li class=""><a href="/kanko/kanko-pamphlet/" target="_self" ><img src="/images/original/2022081814552952001732a09.jpg" alt="尾花沢市観光マップ" /></a></li>
+<li class=""><a href="http://www.yukifuri-obanazawa.jp/" target="_blank" ><img src="/images/original/20220818145556635a02d8818.jpg" alt="雪降り和牛" /></a></li>
+<li class=""><a href="http://www.ginzanonsen.jp/" target="_blank" ><img src="/images/original/202306191725250889cef2006.jpg" alt="銀山温泉組合" /></a></li>
+</ul>
+
+      </div>
+    </div>
+  </section>
+
+</main>
+
+
+  <footer class="site-footer">
+
+  <div class="site-footer__inner">
+    <div class="site-footer__content container">
+      <div class="site-footer__signature">
+        <div class="logo-footer"><img src="/theme/obane/images/logo-footer.svg" alt="山形県尾花沢市"></div>
+        〒999-4292 <wbr>山形県尾花沢市若葉町一丁目２番３号<br>
+        Tel.0237-22-1111 Fax.0237-22-1239
+        <ul class="footer-button">
+          <li><a href="/shisei/obanazawa/access"><i class="fa-solid fa-location-dot fa-fw"></i> 尾花沢市へのアクセス</a></li>
+          <li><a href="/form/contact/"><i class="fa-regular fa-envelope fa-fw"></i> ご意見・お問い合わせ</a></li>
+        </ul>
+      </div>
+      <div class="site-footer__footer-menu">
+        <ul class="footer-menu">
+          <li><a href="/about/website">このサイトのご利用について</a></li>
+          <li><a href="/about/privacy-policy">個人情報の取り扱い</a></li>
+          <li><a href="/about/disclaimer">免責事項</a></li>
+          <li><a href="/about/copyright">リンク・著作権</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="copyright">
+    &copy; 2022 OBANAZAWA CITY. All Rights Reserved.
+  </div>
+
+  <div class="uesamodoru">
+    <button class="uesamodoru-button"><img src="/theme/obane/images/uesa-modoru.svg" alt="うえさもどる"></button>
+  </div>
+
+</footer>
+
+  <script src="/theme/obane/swiper-8.4.7/swiper-bundle.min.js"></script>
+<script src="/theme/obane/js/script.js"></script>
+
+</body>
+</html>

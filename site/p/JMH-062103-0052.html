@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>道満の三光ヒバ — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>道満の三光ヒバ</h1>
+    <p class="jmh-id">JMH-062103-0052</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>天然記念物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字道満</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 個人蔵; 旧国道13号線の乱川手前、約50ｍから右折し、道満街道を通り、道満の東端にある春日神社の社家の庭園に根周り７.１ｍ、幹囲５.９ｍ、樹高28.５ｍの「三光ヒバ」と呼ばれるヒバの大木がある。 地上２.５ｍのところで、それぞれ幹囲２.８ｍほどの南部、北東部、西部の三股に分かれ、その三幹が枝を振りながらそびえており、その姿は実に壮観である。 「三光ヒバ」の名称も、このことから生まれたといわれている。 老樹でありながら、樹勢が衰えず姿態の美しいヒバである。 同家はその昔、成生庄と関わりがあり、村社春日神社の主宰者であるとともに、代々道満村の名主をつとめ、親方と呼ばれてきた。 屋敷が広く、庭園も大きかったので、大樹が育つ好環境にあったものと思われる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"道満の三光ヒバ" (JMH-062103-0052), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.389492, 140.393494], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.389492, 140.393494]).addTo(m);
+  </script>
+</body>
+</html>

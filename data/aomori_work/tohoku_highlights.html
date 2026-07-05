@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<script src="../js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+  $(function(){
+      var ua = navigator.userAgent;
+      if((ua.indexOf('iPhone') > 0) || ua.indexOf('iPod') > 0 || (ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0)){
+          $('head').prepend('<meta name="viewport" content="width=device-width,initial-scale=1">');
+      } else {
+          $('head').prepend('<meta name="viewport" content="width=980">');
+      }
+  });
+</script>
+
+<title>東北町ホームページ | 見どころ</title>
+<meta name="keywords" content="青森県,東北町,東北町役場,とうほくまち,">
+<meta name="description" content="笑顔・元気活力あふれ 未来に羽ばたく 東北町">
+<meta name="author" content="青森県東北町">
+
+<meta name="format-detection" content="telephone=no">
+<meta property="og:site_name" content="青森県東北町">
+<meta property="og:description" content="笑顔・元気活力あふれ 未来に羽ばたく 東北町">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.town.tohoku.lg.jp/">
+<meta property="og:image" content="ogpのURL貼る">
+<meta property="fb:app_id" content="344435119489828" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="http://www.town.tohoku.lg.jp/">
+<meta name="twitter:image" content="ogpのURL貼る">
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/images/android-touch-icon.png" sizes="192x192">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=0.5,user-scalable=yes,initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../css/reset.css" media="print, screen"/>
+<link rel="stylesheet" type="text/css" href="../css/style.css" media="print, screen"/>
+<link rel="alternate stylesheet" type="text/css" href="../css/ch-black.css" title="black" media="print, screen"/>
+<link rel="alternate stylesheet" type="text/css" href="../css/ch-yellow.css" title="yellow" media="print, screen"/>
+<link rel="alternate stylesheet" type="text/css" href="../css/ch-blue.css" title="blue" media="print, screen"/>
+<link rel="stylesheet" type="text/css" href="../css/navi.css" media="print, screen"/>
+<link rel="stylesheet" href="../css/font-awesome.min.css" media="print, screen"/>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33ZS19QQTS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33ZS19QQTS');
+</script>
+</head>
+
+<body>
+<header>
+<div class="header-in clearfix">
+  <div class="logo">
+    <h1><a href="/top.html"><img src="../images/logo.png" alt="東北町ロゴ"></a></h1>
+  </div>	<div class="change">
+    <div class="top-area clearfix">
+      <div class="search-out">
+        <div class="search">
+          <gcse:search></gcse:search>
+        </div>
+      </div>
+			<ul class="language clearfix mobile-none">
+				<li>言語</li>
+				<li><div id="google_translate_element"></div></li>
+			</ul>
+		</div>
+    <div class="clearfix">
+		  <ul id="fontSize" class="fontchange mobile-none">
+				<li>文字サイズ</li>
+				<li class="changeBtn btn01 accessible-button">標準</li>
+				<li class="changeBtn btn03 accessible-button">大</li>
+				<li class="changeBtn btn04 accessible-button">特大</li>
+			</ul>
+			<ul class="backcolor bgcolor mobile-none">
+				<li>背景色</li>
+				<li id="bg1"><a href="javascript:chooseStyle('none', 60)" checked="checked">標準</a></li>
+				<li id="bg2"><a href="javascript:chooseStyle('black', 60)">黒</a></li>
+				<li id="bg4"><a href="javascript:chooseStyle('blue', 60)">青</a></li>
+      </ul>
+    </div>
+	</div>
+</div>
+</header>
+
+
+
+<div class="naviout">
+<div class="menu-container">
+  <div class="menu">
+    <a href="#" class="menu-mobile">メニューはこちらから</a>
+		<ul>
+      <li><a href="/top.html">Home</a></li>
+      <li class="menu-dropdown-icon"><a href="/kurashi/kurashi.html">くらし・手続き</a>
+        <ul style="display: none;">
+          <li>
+						<ul>
+              <li><a href="/kurashi/mynumber/mynumber_01.html">マイナンバー制度（社会保障・税番号制度）について</a></li>
+              <li><a href="/kurashi/denshi/denshi.html">電子回覧板</a></li>
+              <li><a href="/kurashi/jyumin/jyumin.html">住民登録窓口</a></li>
+              <li><a href="/kurashi/zei/zei.html">税</a></li>
+							<li><a href="/kurashi/kokuminnenkin/kokuminnenkin.html">国民年金</a></li>
+							<li><a href="/kurashi/life/life.html">くらし</a></li>
+              <li><a href="/kurashi/denshishinsei/denshishinsei.html">電子申請サービス</a></li>
+						</ul>
+          </li>
+        </ul>
+      </li>
+			<li class="menu-dropdown-icon"><a href="/kosodate-kyouiku/kosodate-kyouiku.html">子育て・教育</a>
+        <ul style="display: none;">
+          <li>
+						<ul>
+              <li><a href="/kosodate-kyouiku/ninshin-syussan.html">妊娠から出産まで</a></li>
+              <li><a href="/kosodate-kyouiku/child.html">お子さんが生まれたら</a></li>
+              <li><a href="/kosodate-kyouiku/jyosei.html">助成について</a></li>
+              <li><a href="/kosodate-kyouiku/hoikusyo-ninteikodomo.html">保育所・認定こども園</a></li>
+              <li><a href="/kosodate-kyouiku/pschool-jhschool.html">小・中学校</a></li>
+              <li><a href="/kosodate-kyouiku/scholarship.html">奨学金制度について</a></li>
+						</ul>
+          </li>
+        </ul>
+      </li>
+			<li class="menu-dropdown-icon"><a href="/kenkoiryofukushi/kenkofukushi.html">健康・医療・福祉</a>
+        <ul style="display: none;">
+          <li>
+						<ul>
+              <li><a href="/kenkoiryofukushi/kokuho/kokuho.html">国民健康保険</a></li>
+              <li><a href="/kenkoiryofukushi/kouki/kouki_01.html">後期高齢者医療制度</a></li>
+              <li><a href="/kenkoiryofukushi/kaigohoken/kaigo.html">介護保険</a></li>
+              <li><a href="/kenkoiryofukushi/seiho/seiho.html">精神保健</a></li>
+              <li><a href="/kenkoiryofukushi/kenkou/kenkou.html">健康・医療</a></li>
+              <li><a href="/kenkoiryofukushi/syakai/syakai.html">社会福祉</a></li>
+              <li><a href="/kenkoiryofukushi/syougai/syougai.html">障害者福祉</a></li>
+              <li><a href="/kenkoiryofukushi/jidoufukushi/jidou.html">児童福祉</a></li>
+              <li><a href="/kenkoiryofukushi/kourei/kourei.html">高齢者福祉</a></li>
+						</ul>
+          </li>
+        </ul>
+      </li>
+			<li class="menu-dropdown-icon"><a href="/sangyou/sangyou.html">産業・事業者</a>
+        <ul style="display: none;">
+          <li>
+						<ul>
+              <li><a href="/sangyou/roudou/roudou.html">労働・産業</a></li>
+              <li><a href="/sangyou/nyusatsu/nyusatsu.html">入札契約情報</a></li>
+              <li><a href="/sangyou/shinkou/shinkou.html">産業振興</a></li>
+              <li><a href="/sangyou/nougyou/nougyou.html">農業委員会</a></li>
+						</ul>
+          </li>
+        </ul>
+      </li>
+			<li class="menu-dropdown-icon"><a href="/chousei/chousei.html">町政情報</a>
+        <ul style="display: none;">
+          <li>
+						<ul>
+              <li><a href="/chousei/profile/profile.html">町の紹介</a></li>
+              <li><a href="/chousei/info/info.html">行政情報</a></li>
+              <li><a href="/chousei/t_data/t_data.html">とうほくデータ</a></li>
+              <li><a href="/chousei/plan/plan.html">町の計画</a></li>
+							<li><a href="/chousei/zaisei/zaisei.html">町の財政　-予算・決算-</a></li>
+							<li><a href="/chousei/furusato/furusato.html">ふるさと納税制度</a></li>
+              <li><a href="/chousei/senkyo/senkyo.html">選挙</a></li>
+              <li><a href="/chousei/danjo/danjo.html">男女共同参画</a></li>
+              <li><a href="/chousei/gikai/gikai.html">議会</a></li>
+              <li><a href="/chousei/opinion/opinion.html">町政へのご意見について</a></li>
+						</ul>
+          </li>
+        </ul>
+      </li>
+      <li class="menu-dropdown-icon"><a href="/kankou/kankou.html">観光・イベント</a>
+        <ul style="display: none;">
+          <li>
+						<ul>
+              <li><a href="https://tohoku-kankou.com/" target="_blank">東北町観光協会</a></li>
+              <li><a href="/kankou/kankoumap.html">観光パンフレット</a></li>
+              <li><a href="/kankou/event.html">イベント情報</a></li>
+              <li><a href="/kankou/highlights.html">見どころ</a></li>
+              <li><a href="/kankou/tokusan.html">特産品</a></li>
+							<li><a href="/kankou/onsen.html">温泉施設</a></li>
+							<li><a href="/kankou/lodging.html">宿泊施設</a></li>
+						</ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+</div>
+
+
+<div id="contents" class="changeArea"><!--contents-->
+  <ul class="breadcrumb">
+    <li>
+      <a href="../top.html" itemprop="url">
+      <span itemprop="title">ホーム</span>
+      </a>
+    </li>
+    <li>
+      <a href="kankou.html" itemprop="url">
+      <span itemprop="title">観光・イベント</span>
+      </a>
+    </li>
+    <li>
+      <a href="#" itemprop="url">
+      <span itemprop="title">見どころ</span>
+      </a>
+    </li>
+  </ul>
+  <div class="contents-in">
+    <div class="contents-left">
+      <h2>見どころ</h2>
+      <ul class="category_second">
+        <li><a href="highlights_01.html">歴史・文化施設</a></li>
+        <li><a href="highlights_03.html">自然・レジャー</a></li>
+      </ul>
+    </div>
+    <div class="contents-right">
+      <h3><a href="kankou.html">観光・イベント</a></h3>
+      <ol class="rightmenu_second kankou-event">
+        <li><a href="kankoumap.html">観光パンフレット</a></li>
+        <li><a href="event.html">イベント情報</a></li>
+        <li><a href="highlights.html">見どころ</a></li>
+        <li><a href="tokusan.html">特産品</a></li>
+        <li><a href="onsen.html">温泉施設</a></li>
+        <li><a href="lodging.html">宿泊施設</a></li>
+        <li><a href="yuruchara.html">ゆるキャラ紹介</a></li>
+      </ol>
+    </div>
+  </div>
+<!--contentsend--></div>
+
+
+<div class="sns-share-out"><!--snsbutton-->
+  <div class="sns-share clearfix">
+    <ul>
+    <li class="sns-sharerow">
+      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Ftohokutown%2F&width=119&layout=button&action=like&size=small&show_faces=false&share=true&height=20&appId" title="sns" width="135" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </li>
+    <li class="sns-sharerow">
+      <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">ツイート</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </li>
+    <li class="sns-sharerow">
+      <div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="2" data-url="http://www.town.tohoku.lg.jp/" style="display: none;"></div>
+      <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+    </li>
+    </ul>
+  </div>
+</div><!--snsbuttonend-->
+
+<footer id="footer-back">
+	<div class="footer-in changeArea">
+		<div class="footer-flex">
+			<div class="footer-menu">
+				<ul class="footer-menu-flex">
+          <li><a href="/yakuba-annai.html">役場案内図</a></li>
+					<li><a href="/sitemap.html">サイトマップ</a></li>
+          <li><a href="/access.html">アクセス</a></li>
+					<li><a href="/chosakuken.html">著作権・免責事項</a></li>
+					<li><a href="/kojinjyouho.html">個人情報保護</a></li>
+					<li><a href="/accessibility.html">アクセシビリティ</a></li>
+          <li><a href="/contact.html">お問い合わせ</a></li>
+				</ul>
+			</div>
+			<div class="footer-address">
+				<p class="tou-font">東北町役場</p>
+        <p>〒039-2492<br>青森県上北郡東北町上北南四丁目32-484</p>
+				<p>Tel : 0176-56-3111（代表）<br class="mobile-none">Fax : 0176-56-3110</p>
+				<p>開庁時間：午前8時15分から午後5時まで<br>（土・日曜日、祝日、年末年始を除く）</p>
+			</div>
+		</div>
+		<p class="copyright"><small>Copyright（C）Tohoku Town All Rights Reserved.</small></p>
+	</div>
+<!--footer--></footer>
+
+
+<p id="page-top"><a href="#"><img src="../images/img_pagetop3.png" alt="TOPへ戻る"></a></p>
+
+<!-- /script -->
+<script src="../js/jquery-ui.min.js"></script>
+<script src="../js/jquery.cookie.js"></script>
+<script src="../js/jquery.fontsizechange.js"></script>
+<script src="../js/styleswitch.js"></script>
+<script src="../js/currentPage.js"></script>
+<script src="../js/megamenu.js"></script>
+
+<script>
+$(function() {
+    var topBtn = $('#page-top');
+    topBtn.hide();
+    //スクロールが100に達したらボタン表示
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            topBtn.fadeIn();
+        } else {
+            topBtn.fadeOut();
+        }
+    });
+    //スクロールしてトップ
+    topBtn.click(function () {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 500);
+        return false;
+    });
+});
+</script>
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', includedLanguages: 'en,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script>
+  (function() {
+    var cx = '014109927658326495452:j2pedb45ebs';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+</body>
+
+</html>

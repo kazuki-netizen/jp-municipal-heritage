@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta name="description" content="最上川船運の歴史とロマンの街 〜おおえ〜 山形県大江町のホームページです。" />
+  <meta name="keywords" content="" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <title>大江町</title>
+
+  <link rel="canonical" href="https://www.town.oe.yamagata.jp/" />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <meta property="og:title" content="大江町" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.town.oe.yamagata.jp/" />
+  <meta property="og:image" content="/apple-touch-icon.png" />
+  <meta property="og:site_name" content="大江町" />
+  <meta property="og:description" content="最上川船運の歴史とロマンの街 〜おおえ〜 山形県大江町のホームページです。" />
+
+  <link rel="alternate" type="application/rss+xml" href="/feed/news" />
+  <link rel="alternate" type="application/rss+xml" href="/feed/announce" />
+
+  <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css?1674638718">
+  <link rel="stylesheet" href="/theme/sn-default/css/body.css">
+  <link rel="stylesheet" href="/assets/swiper/css/swiper.min.css" />
+  <script src="/assets/swiper/js/swiper.min.js"></script>
+
+  <script src="/theme/sn-default/lib/jquery/jquery-3.5.1.min.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KL4KMBM');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body id="home" class="">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL4KMBM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<header id="hasthead" class="site-header">
+  <nav id="top" class="skip screen-reader-text">
+    <p><a href="#content">このページの本文へ</a></p>
+  </nav>
+
+  <div class="toolbar">
+    <div class="container toolbar-grid">
+      <div class="fontsize">
+        <i class="fas fa-fw fa-caret-right"></i>文字サイズ
+        <button class="button" data-fontsize="default">標準</button>
+        <button class="button" data-fontsize="large">中</button>
+        <button class="button" data-fontsize="xlarge">大</button>
+      </div>
+      <div class="foreign-languages"><a href="/site-information/foreign-languages" class="button">Foreign Languages</a></div>
+    </div>
+  </div>
+
+  <div class="site-header-content">
+    <div class="site-branding">
+      <a href="/"><img src="/assets/images/site-logo.svg" alt="大江町"></a>
+    </div>
+    <div class="site-search">
+    </div>
+    <button class="nav-button" id="js-nav-button">
+      <i class="fas fa-bars"></i>
+      <span>メニュー</span>
+    </button>
+  </div>
+
+	<div class="mobile-navigation-wrapper" id="js-nav-drawer">
+		<nav class="mobile-navigation">
+      <div class="mobile-navigation-search">
+        <form method="get" action="/search" id="jsSearchform" class="search-form">
+          <label for="keyword" class="screen-reader-text">サイト内検索</label>
+          <input type="text" name="keyword" id="keyword" placeholder="サイトを検索" value=""/>
+          <input type="submit" value="検索" accesskey="f" />
+        </form>
+      </div>
+      <div class="mobile-navigation-content">
+        <div class="menu-grid">
+          <ul class="menu-primary">
+            <li><a href="/life/">くらし・手続き</a></li>
+            <li><a href="/childcare-learning/">子育て・生涯学習</a></li>
+            <li><a href="/industry/">産業</a></li>
+            <li><a href="/government/">町政・町づくり</a></li>
+            <li><a href="/kanko-event/">観光・イベント・募集</a></li>
+          </ul>
+          <ul class="menu-secondary">
+            <li><a href="/">ホーム</a></li>
+            <li><a href="/news/">新着情報</a></li>
+            <li><a href="/announce/">町からのお知らせ</a></li>
+            <li><a href="/organization/">組織別一覧</a></li>
+            <li><a href="/site-information/foreign-languages">Foreign Languages</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="mobile-navigation-close" id="js-nav-close">メニューを閉じる</div>
+		</nav>
+	</div>
+
+</header>
+
+<nav class="global-nav">
+  <div class="container">
+    <ul class="global-nav-list">
+      <li><a href="/">ホーム</a></li>
+      <li>
+        <a href="/life/">くらし・手続き</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/life/nenkin/">国民年金</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/registration/">届出・証明</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/mynumber/">マイナンバーなど</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/insurance/">保険</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/marriage/">結婚支援</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/disaster-prevention/">防災、危機管理</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/garbage/">ごみ</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/counselling/">相談</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/tax/">税について</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/water-service/">水道・下水道・浄化槽</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/welfare/">福祉・介護</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/medical/">医療</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/health/">健康</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/life/sonota_tetuduki/">その他</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/childcare-learning/">子育て・生涯学習</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/pregnant/">妊娠・出産</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/kosodate/">子育て</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/education/">教育</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/schooling/">学校教育</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/childcare-learning/lifelonglearning/">生涯学習・スポーツ</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/industry/">産業</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/industry/commerce/">商工・労働</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/industry/agriculture-forestry/">農林業</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/government/">町政・町づくり</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/government/chousei/">町政</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/ooe-overview/">町の概要</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/election/">選挙</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/mainpolicy/">主な政策</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/living-environment/">住まい・道路・景観</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/chiiki-okoshi/">地域おこし協力隊</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/information-statistics/">情報・統計</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/rekisyu/">例規集</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/government/kouhou/">広報</a></span>
+</li>
+</ul>
+
+      </li>
+      <li>
+        <a href="/kanko-event/">観光･イベント･募集</a>
+<ul class="child-list">
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/kankou-bunka/">観光・文化</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/furusato-nouzei/" target="_self">ふるさと納税</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/boshu/">募集</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/oe-event/">イベント</a></span>
+</li>
+<li class="child-list-item">
+<span class="title">
+<a href="/kanko-event/oe-event-calendar/">イベントカレンダー</a></span>
+</li>
+</ul>
+
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+<div class="site-content">
+
+
+<div id="hero" class="main-hero">
+  <div class="main-cover">
+
+    <div class="main-slide swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><a href="https://www.town.oe.yamagata.jp/government/ooe-overview/koutu/aterazawa_line/1891" target="_self"><img src="/images/original/20260615122424679c982424d.jpg" alt="ＪＲ左沢線に乗って食べて泊まって応援キャンペーンを開催中！（～2月28日まで）" width="880" /><div class="caption">ＪＲ左沢線に乗って食べて泊まって応援キャンペーンを開催中！（～2月28日まで）</div></a></div>
+<div class="swiper-slide"><a href="https://oe-terume.co.jp/" target="_blank"><img src="/images/original/20251121091946083a3b5fd78.jpg" alt="テルメ柏陵健康温泉館・奥おおえ柳川温泉" width="880" /><div class="caption">テルメ柏陵健康温泉館・奥おおえ柳川温泉</div></a></div>
+<div class="swiper-slide"><img src="/images/original/2025110609312828656924738.jpg" alt="道の駅おおえ　コラマガセ" width="880" /><div class="caption">道の駅おおえ　コラマガセ</div></div>
+</div>
+
+      <div class="swiper-control">
+        <div class="swiper-pagination"></div>
+        <button id="swiper-play" class="swiper-control-button" title="一時停止"><i class="fas fa-pause"></i><span class="screen-reader-text">一時停止</span></button>
+      </div>
+      <div class="swiper-button-prev" title="前のスライドへ"></div>
+      <div class="swiper-button-next" title="次のスライドへ"></div>
+    </div>
+
+  </div>
+  <div class="main-channel">
+<ul class="channel-list">
+<li class=""><a href="http://oekanko.jp/" target="_blank"><img src="/images/original/2023012517395251483fd9c8c.png" alt="観光情報 - 大江町観光物産協会" /></a></li>
+<li class=""><a href="/oegurashi/" target="_self"><img src="/images/original/202301251740366605993e844.png" alt="おおえぐらし - 移住情報特設ページ" /></a></li>
+<li class=""><a href="/government/information-statistics/jouhou/official-sns/" target="_self"><img src="/images/original/2023012517410097793708614.png" alt="大江町公式SNS" /></a></li>
+<li class=""><a href="/furusato-nouzei/" target="_self"><img src="/images/original/202301251741217029a58127c.png" alt="ふるさと納税" /></a></li>
+</ul>
+
+  </div>
+</div>
+
+<div id="content" class="container">
+  <div class="home-grid">
+    <div class="home-grid-cell">
+
+      <div class="main-news">
+        <h2 class="title">
+          <img src="/assets/images/icon-news.svg" alt="">
+          新着情報
+        </h2>
+<ul class="pickup">
+<li class="pickup-item">
+<span class="date">2026年07月02日</span>
+<span class="title">
+<a href="/news/125">七軒地区の空き家・空き地情報</a></span>
+<span class="new">New</span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年07月01日</span>
+<span class="title">
+<a href="/news/1934">大江町立学校の教育職員に関する業務量管理・健康確保措置実施計画</a></span>
+<span class="new">New</span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年06月30日</span>
+<span class="title">
+<a href="/news/te-makara26">7/4（土）東京で開催の「テーマから探す！移住フェア2026」に参加します</a></span>
+<span class="new">New</span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年06月26日</span>
+<span class="title">
+<a href="/news/1927">総合事業サービスコードを掲載しました</a></span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年06月25日</span>
+<span class="title">
+<a href="/news/1924">藤田地区住宅団地（２工区）造成工事開始のお知らせ</a></span>
+</li>
+</ul>
+
+        <div class="more"><a href="/news/" class="button has-chevron">新着情報一覧</a></div>
+      </div>
+
+      <div class="main-news main-announce">
+        <h2 class="title">
+          <img src="/assets/images/icon-announce.svg" alt="">
+          町からのお知らせ
+        </h2>
+<ul class="pickup">
+<li class="pickup-item">
+<span class="date">2026年07月01日</span>
+<span class="title">
+<a href="/announce/1932">大江町内のAED設置場所について</a></span>
+<span class="new">New</span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年06月26日</span>
+<span class="title">
+<a href="/announce/1927">総合事業サービスコードを掲載しました</a></span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年06月25日</span>
+<span class="title">
+<a href="/announce/syokuin_boshu">令和９年度採用　大江町職員採用試験受験案内</a></span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年06月24日</span>
+<span class="title">
+<a href="/announce/1034">大江町健康づくり教室</a></span>
+</li>
+<li class="pickup-item">
+<span class="date">2026年06月22日</span>
+<span class="title">
+<a href="/announce/1644">「ジェンダー平等川柳」を募集します！！</a></span>
+</li>
+</ul>
+
+        <div class="more"><a href="/announce/" class="button has-chevron">お知らせ一覧</a></div>
+      </div>
+
+    </div>
+    <div class="home-grid-cell">
+
+      <div class="main-topics">
+        <h2 class="title">
+          <img src="/assets/images/icon-topics.svg" alt="">
+          注目トピック
+        </h2>
+        <div class="main-topics-content">
+          <div class="topics-slide swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><a href="/bousai/" target="_self"><img src="/images/original/2021051209105491189c8e63a.png" alt="防災無線からのお知らせ" width="300" /></a></div>
+<div class="swiper-slide"><a href="https://www.town.oe.yamagata.jp/announce/1745" target="_self"><img src="/images/original/20251204115302281a0928d1e.png" alt="クマ情報" width="300" /></a></div>
+<div class="swiper-slide"><a href="/life/disaster-prevention/r3_0728_gouu/" target="_self"><img src="/images/original/2021022611005004344ca8c7c.png" alt="豪雨災害関連情報" width="300" /></a></div>
+</div>
+
+          </div>
+            <div class="topics-button-prev" title="前のスライドへ"><img src="/assets/images/chevron-arrow.svg" alt="Prev" width="30" height="10"></div>
+            <div class="topics-button-next" title="次のスライドへ"><img src="/assets/images/chevron-arrow.svg" alt="Next" width="30" height="10"></div>
+        </div>
+      </div>
+
+      <div class="main-justincase">
+        <h2 class="title">
+          <img src="/assets/images/icon-justincase.svg" alt="">
+          いざという時に
+        </h2>
+        <ul class="justincase-list">
+          <li><a href="/life/medical/iryoukikan/219" class="icon-doctor">休日当番医</a></li>
+          <li><a href="/life/disaster-prevention/bousai-musen/" class="icon-lightning">防災行政無線</a></li>
+          <li><a href="/life/disaster-prevention/bousai/34" class="icon-refuge">ハザードマップ／避難場所</a></li>
+          <li><a href="http://www.kasen.pref.yamagata.jp/html/map.html?cn=10&lng=140.2067720&lat=38.38069900&zm=&ra=1&rv=1" target="_blank" class="icon-rain">山形県 河川・砂防情報<span class="font-sm">（大江町）</span></a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="home-grid">
+    <div class="home-grid-cell">
+<div class="main-useful">
+  <h2 class="title">
+    <img src="/assets/images/icon-useful.svg" alt="">
+    生活便利ナビ
+  </h2>
+  <ul class="useful-list">
+    <li><a href="/life/registration/"><img src="/assets/images/useful-todokede.svg" width="34" height="45" alt="">届出</a></li>
+    <li><a href="/life/garbage/"><img src="/assets/images/useful-gomi.svg" width="36" height="46" alt="">ごみ</a></li>
+    <li><a href="/life/tax/"><img src="/assets/images/useful-tax.svg" width="40" height="50" alt="">税について</a></li>
+    <li><a href="/life/disaster-prevention/"><img src="/assets/images/useful-bousai.svg" width="54" height="39" alt="">防災・危機管理</a></li>
+    <li><a href="/childcare-learning/pregnant/"><img src="/assets/images/useful-pregnant.svg" width="30" height="68" alt="">妊娠・出産</a></li>
+    <li><a href="/childcare-learning/kosodate/"><img src="/assets/images/useful-baby.svg" width="33" height="54" alt="">子育て</a></li>
+    <li><a href="/childcare-learning/schooling/kyouiku-josei/"><img src="/assets/images/useful-education.svg" width="40" height="50" alt="">教育関係助成</a></li>
+    <li><a href="/government/ooe-overview/koutu/"><img src="/assets/images/useful-bus.svg" width="53" height="49" alt="">公共交通</a></li>
+    <li><a href="/government/ooe-overview/shisetsu/"><img src="/assets/images/useful-facility.svg" width="44" height="37" alt="">公共施設</a></li>
+  </ul>
+  <div class="more"><a href="/organization/" class="button has-chevron is-block is-white">組織別一覧</a></div>
+</div>
+
+    </div>
+    <div class="home-grid-cell">
+      <div class="main-admin">
+        <ul class="banner-list">
+          <li><a href="/government/chousei/mayor/"><img srcset="/assets/images/banner-mayor.png 1x, /assets/images/banner-mayor@2x.png 2x" src="/assets/images/banner-mayor.png" alt="町長の部屋"></a></li>
+          <li><a href="/government/chousei/council/"><img srcset="/assets/images/banner-council.png 1x, /assets/images/banner-council@2x.png 2x" src="/assets/images/banner-council.png" alt="町議会"></a></li>
+        </ul>
+      </div>
+      <div class="main-koho">
+<ul class="pickup">
+<li class="pickup-item">
+<div class="thumb"><a href="/press/1913"><img src="/images/thumb/20260609130626173634bcc04.jpg" alt="広報おおえ令和8年6月号画像" /></a></div>
+<div class="koho-content">
+<h2 class="title">広報おおえ・お知らせ版</h2>
+<div class="latest">
+<span class="label is-accent">最新号</span><br>
+<span class="title"><a href="/press/1913">広報おおえ令和8年6月号　No.784</a></span>
+</div>
+<div class="more"><a href="/press/" class="button has-chevron is-block is-small">バックナンバー</a></div>
+</div>
+</li>
+</ul>
+
+      </div>
+      <div class="main-banner">
+<ul class="banner-list">
+<li class=""><a href="/migration/kankou-bunka/livecamera" target="_self"><img src="/images/original/2021051113523899417dbfe16.png" alt="観光ライブカメラ" /></a></li>
+<li class=""><a href="https://www.youtube.com/channel/UCgKq7tPatOsjg1duaBZdyTw?view_as=subscriber" target="_blank"><img src="/images/original/202105111349412905c991a1d.png" alt="動画ちゃんねる" /></a></li>
+</ul>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+</div><!-- // site-content -->
+
+
+<footer id="colophon" class="site-footer">
+  <div class="site-footer-content">
+    <div class="signature">
+      <div class="foot-logo">
+        <img src="/assets/images/site-logo-footer.svg" width="183" height="36" alt="大江町">
+      </div>
+      〒990-1101 山形県西村山郡大江町大字左沢882-1<br>
+      TEL:0237-62-2111 ／ FAX:0237-62-4736<br>
+      <ul class="contact-menu">
+        <li><a class="button footer-button" href="https://www.google.com/maps/d/viewer?mid=1BkKpMjmIiIrWnZbeA8TQSyYkHFesPdg4&usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marker-alt"></i> 大江町のマップ</a></li>
+        <li><a href="/contact/" class="button footer-button"><i class="far fa-envelope"></i> 町へのお問い合わせ</a></li>
+      </ul>
+    </div>
+    <div class="openning-hour contact">
+      <span class="label label-openning-hour">開庁時間</span><br>
+      月〜金曜 8:30〜17:15<br>
+      ※土曜・日曜・祝日・年末年始（12月29日〜1月3日）を除きます。
+    </div>
+    <div class="foot-menu">
+      <ul class="foot-menu-list">
+        <li><a href="/site-information/privacy-policy"><i class="fas fa-fw fa-angle-right"></i>個人情報の取り扱いについて</a></li>
+        <li><a href="/site-information/website"><i class="fas fa-fw fa-angle-right"></i>このホームページについて</a></li>
+        <li><a href="/site-information/accessibility"><i class="fas fa-fw fa-angle-right"></i>ウェブアクセシビリティへの取り組み</a></li>
+        <li><a href="/site-information/link/"><i class="fas fa-fw fa-angle-right"></i>リンク</a></li>
+        <li><a href="/sitemap"><i class="fas fa-fw fa-angle-right"></i>サイトマップ</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="copyright">
+    Copyright © 2021 大江町 All Rights Reserved.
+  </div>
+</footer>
+
+<script src="/assets/js/scripts.js?1650278485"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeLjJ4kAAAAAM8QZZ459u7rtmMkzCcmvMKDWKPT"></script> 
+<style>.grecaptcha-badge { visibility: hidden; }</style>
+
+</body>
+</html>

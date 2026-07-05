@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-94Y79XZ8E0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-94Y79XZ8E0');
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="keywords" content="山形県,山辺町,ずっと住み続けたいまち,やまのべまち,やまのべPride,安達峰一郎博士">
+<meta name="description" content="山形県山辺町の公式サイト、行事・イベントや観光情報。行政案内、くらしのできごと。">
+<script src="https://kit.fontawesome.com/f5edb9d7ba.js" crossorigin="anonymous"></script>
+
+<title>山辺町 ずっと住み続けたいまち トップページ</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style  media="all">
+@import url("/ssi/css/slick.css?ver=1.0.1");
+@import url("/ssi/css/top.css?ver=1.0.1");
+</style>
+	
+<link rel="stylesheet"  media="print" href="/ssi/css/print.css?ver=1.0.1" >
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript" src="/ssi/js/jquery.js"></script>
+<script type="text/javascript" src="/ssi/js/jquery-migrate.js"></script>
+<script type="text/javascript" src="/ssi/js/common.js"></script>
+<script type="text/javascript" src="/ssi/js/checksp.js"></script>
+<!--  <script type="text/javascript" src="/ssi/js/heightline.js"></script> -->
+    <script src="/ssi/js/search-trend.js"></script>
+    <script src="/ssi/js/slick.js"></script>
+    <script src="/ssi/js/common-top.js?ver=1.0.1"></script>
+    <script src="/ssi/js/top-slideshow.js?ver=1.0.1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-94Y79XZ8E0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-94Y79XZ8E0');
+</script>
+</head>
+
+<body>
+
+    <div class="top_index">
+        <!-- コンテナここから -->
+        <div id="container">
+            <span class="hide" id="pagetop">ページの先頭です。</span>
+            <span class="hide"><a href="#skip">メニューを飛ばして本文へ</a></span>
+
+            <!-- ヘッダここから -->
+            <div id="header">
+                <div id="spm_wrap"><button type="button" id="spm_menu"><span class="hide">メニュー</span></button></div>
+<!-- ヘッダーここから -->
+<div id="header2">
+	<div id="he_left">
+		<div id="logo_top"><a href="/"><img src="/img/common/logo.svg" alt="山辺町 ずっと住み続けたいまち" ></a></div>
+	</div>
+	<div id="he_right">
+		<noscript><p>JavaScriptが無効のため、文字の大きさ・背景色を変更する機能を使用できません。</p></noscript>
+		<!-- リンクここから -->
+		<ul id="header_navi">
+			<li class="h_lang"><a href="/soshiki/5/language.html">Foreign language</a></li>
+            <li class="h_site"><a href="/site/hajimete/">はじめての方へ</a></li>
+			<li class="h_sitemap"><a href="/sitemap.html">サイトマップ</a></li>
+			<li class="h_guide"><a href="/soshiki/">各課のご案内</a></li>
+			<li class="h_support">
+				<!-- 背景の変更ここから -->
+				<dl id="haikei_color">
+					<dt>背景色</dt>
+					<dd><a id="haikei_white" href="javascript:SetCss(1);" title="背景色を白色に変更する">白</a></dd>
+					<dd><a id="haikei_black" href="javascript:SetCss(2);" title="背景色を黒色に変更する">黒</a></dd>
+					<dd><a id="haikei_blue"  href="javascript:SetCss(3);" title="背景色を青色に変更する">青</a></dd>
+				</dl>
+				<!-- 背景の変更ここまで -->
+				<!-- 文字の大きさ変更ここから -->
+				<dl id="moji_size">
+					<dt>文字サイズ</dt>
+					<dd><a id="moji_default" href="javascript:fsc('default');" title="文字サイズを標準にする">標準</a></dd>
+					<dd><a id="moji_large" href="javascript:fsc('larger');" title="文字サイズを拡大する">拡大</a></dd>
+				</dl>
+				<!-- 文字の大きさ変更ここまで -->
+			</li>
+			<li class="h_onsei"><a href="https://www3.zoomsight-sv2.jp/INF/ja/controller/index.html#https://www.town.yamanobe.yamagata.jp" target="_blank">音声読み上げ</a></li>
+		</ul>
+		<!-- リンクここまで -->
+	</div>
+</div>
+<!-- ヘッダーここまで -->
+                
+            </div>
+            <!-- ヘッダここまで -->
+
+            <div class="slide_wrap">
+                <!-- スライドショーここから -->
+                <div id="top_photo_wrap">
+                    <div id="top_photo" class="rs_preserve">
+
+<!-- トップページ2ここから -->
+                        <ul id="top_photo_list">
+                            <li><img src="/uploaded/banner/14_img1.jpg" alt="トップスライド0" ><span class="photo_caption"></span></li><li><img src="/uploaded/banner/13_img1.jpg" alt="トップスライド1" ><span class="photo_caption"></span></li><li><img src="/uploaded/banner/15_img1.jpg" alt="トップスライド2" ><span class="photo_caption"></span></li><li><img src="/uploaded/banner/16_img1.jpg" alt="トップスライド3" ><span class="photo_caption"></span></li><li><img src="/uploaded/banner/17_img1.jpg" alt="トップスライド4" ><span class="photo_caption"></span></li><li><img src="/uploaded/banner/18_img1.jpg" alt="トップスライド5" ><span class="photo_caption"></span></li><li><img src="/uploaded/banner/19_img1.jpg" alt="トップスライド6" ><span class="photo_caption"></span></li>
+                        </ul>
+                        <!-- トップページ2ここまで -->
+
+
+                    </div>
+                </div>
+                
+                <div class="lefttop">
+		<!-- タイトル -->
+                    <div class="sitetitle">
+			<img class="logotype" src="/img/common/logotype.svg" alt="ずっと住み続けたいまち山辺町">
+                        <img class="logoback" src="/img/common/logotype_back.png" alt="">
+                    </div>
+                </div>	
+
+                    <!-- 検索ここから -->
+                    <div id="top_search_keyword">
+                        <!-- Googleカスタム検索ここから -->
+                        <form action="/search.html" method="get" id="cse-search-box" name="cse-search-box">
+                        <input type="hidden" name="cx" value="017177812147777583824:co0ogwx8g94" ><!--
+                        --><input type="hidden" name="cof" value="FORID:11" ><!--
+                        --><input type="hidden" name="ie" value="UTF-8" ><!--
+                        --><label for="tmp_query"><span class="hide">Googleカスタム検索</span></label><!--
+                        <--><div class="flex"><input type="text" name="q" value="" id="tmp_query" ><input type="submit" value="検索" id="submit" name="sa" ></div>
+                        </form>
+                        <script src="https://www.google.com/coop/cse/brand?form=cse-search-box"></script>
+                        <!-- Googleカスタム検索ここまで -->
+                        <div class="trend_word_wrap" id="search_trend_word">
+                            <p>助成制度
+申請書
+例規集</p>
+                        </div>
+                    </div>
+                
+		<!-- リンクここから -->
+                <div class="linkbox">
+                    <p><a href="/site/furusato/" class="furusato">ふるさと納税</a></p>
+                    <p><a href="/soshiki/29/covidtaisakuhonbu.html" class="covid">新型コロナ情報</a></p>
+                </div>
+		</div>
+
+                <!-- メニュー -->
+                <!-- グローバルここから -->
+                <div id="top_search">
+                    <nav class="global_menu">
+                        <ul>
+                            <li class="menu">
+                                <a href="/life/2/">
+                                    <span class="img"><img src="/img/common/menuicon_1.svg" alt="くらしの情報の画像" class="icon" ></span>
+                                    <span class="txt">くらしの情報</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title1.svg" alt="くらしの情報の画像" ></div>
+                                        </div>
+                                        <div class="right center">
+                                            <ul class="child_menu">
+                                                <li><a href="/life/2/44/">ライフイベント</a></li>
+                                                <li><a href="/life/2/4/">くらしのダイヤル・各種相談等</a></li>
+                                                <li><a href="/life/2/5/">戸籍・住民異動・印鑑登録・証明等</a></li>
+                                                <li><a href="/life/2/9/">税金</a></li>
+                                                <li><a href="/life/2/10/">子育て・教育</a></li>
+                                                <li><a href="/life/2/11/">保健</a></li>
+                                                <li><a href="/life/2/12/">医療・介護・年金</a></li>
+                                                <li><a href="/life/2/13/">福祉</a></li>
+                                                <li><a href="/life/2/14/">ごみ</a></li>
+                                                <li><a href="/life/2/15/">衛生</a></li>
+                                                <li><a href="/life/2/16/">生活環境</a></li>
+                                                <li><a href="/life/2/17/">上下水道</a></li>
+                                                <li><a href="/life/2/18/">住宅・土地・公園</a></li>
+                                                <li><a href="/life/2/19/">交通・道路</a></li>
+                                                <li><a href="/life/2/21/">町の歴史と文化財</a></li>
+                                                <li><a href="/life/2/22/">防災・防犯・安全</a></li>
+                                                <li><a href="/life/2/23/">助成制度</a></li>
+                                                <li><a href="/life/2/43/">まちづくり</a></li>
+                                                <li><a href="/life/2/46/">婚活</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="menu">
+                                <a href="/life/3/">
+                                    <span class="img"><img src="/img/common/menuicon_2.svg" alt="観光情報の画像" class="icon" ></span>
+                                    <span class="txt">観光情報</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title2.svg" alt="観光情報の画像" ></div>
+                                        </div>
+										<div class="right top">
+											<div class="right_flex">
+												<div class="child_menu_box">
+													<ul class="child_menu">
+													  <li><a href="/life/3/25/">観光</a></li>
+													</ul>
+													<div class="child_menu_sub">
+														<ul>
+															<li><a href="/life/3/25/17/">玉虫沼農村公園『かおりの広場』</a></li>
+															<li><a href="/life/3/25/15/">みどころ</a></li>
+															<li><a href="/life/3/25/174/">お知らせ</a></li>
+															<li><a href="/life/3/25/189/">日本の棚田百選『大蕨の棚田』</a></li>
+															<li><a href="/life/3/25/16/">山辺町観光協会</a></li>
+														</ul>
+													</div>
+												</div>
+											
+												<div class="child_menu_box">
+													<ul class="child_menu">
+													  <li><a href="/life/3/26/">特産</a></li>
+													</ul>
+													<div class="child_menu_sub">
+														<ul>
+															<li><a href="/life/3/26/18/">特産品</a></li>
+															<li><a href="/life/3/26/175/">お知らせ</a></li>
+														</ul>
+													</div>
+												</div>
+											</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="menu">
+                                <a href="/life/5/">
+                                    <span class="img"><img src="/img/common/menuicon_3.svg" alt="行政情報の画像" class="icon" ></span>
+                                    <span class="txt">行政情報</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title3.svg" alt="行政情報の画像" ></div>
+                                        </div>
+                                        <div class="right center">
+                                            <ul class="child_menu">
+                                                <li><a href="/life/5/33/">山辺町のご案内</a></li>
+                                                <li><a href="/life/5/34/">組織・行政改革</a></li>
+                                                <li><a href="/life/5/35/">行財政・統計</a></li>
+                                                <li><a href="/life/5/36/">計画・施策</a></li>
+                                                <li><a href="/life/5/37/">情報公開・個人情報</a></li>
+                                                <li><a href="/life/5/38/">電子申請サービス・申請書ダウンロード</a></li>
+                                                <li><a href="/life/5/39/">選挙</a></li>
+                                                <li><a href="/life/5/40/">人事・職員採用</a></li>
+                                                <li><a href="/life/5/41/">有料広告の募集</a></li>
+                                                <li><a href="/life/5/42/">リンク集</a></li>
+                                                <li><a href="/reiki/reiki.html" target="_blank">例規集</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                           <li class="menu">
+                                <a href="/life/4/">
+                                    <span class="img"><img src="/img/common/menuicon_4.svg" alt="事業者のみなさまへの画像" class="icon" ></span>
+                                    <span class="txt">事業者のみなさまへ</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title4.svg" alt="事業者のみなさまへの画像" ></div>
+                                        </div>
+                                        <div class="right center">
+                                            <ul class="child_menu">
+                                                <li><a href="/life/4/27/">農林水産業</a></li>
+						<li><a href="/life/4/28/">商工業</a></li>
+                                                <li><a href="/life/4/29/">入札・契約</a></li>
+                                                <li><a href="/life/4/30/">税金</a></li>
+                                                <li><a href="/life/4/47/">保健・福祉・介護</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+
+                            <li class="menu">
+                                <a href="https://www.sonicweb-asp.jp/yamanobe" target="_blank">
+                                    <span class="img"><img src="/img/common/menuicon_5.svg" alt="地図でさがす画像" class="icon" /></span>
+                                    <span class="txt">地図でさがす</span>
+                                </a>
+                                <div class="child_menu_wrap">
+                                    <div class="child_menu_inner">
+                                        <div class="left">
+                                            <div class="img"><img src="/img/common/nav_title5.svg" alt="地図でさがす画像" /></div>
+                                        </div>
+						<div class="right">
+						  <div class="grid-container">
+						    <div class="grid-item">
+						      <p class="item-title">防災情報</p>
+						      <ul class="item-list">
+ 						       <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_3">救急</a></li>
+						        <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_5">ハザードマップ</a></li>
+ 						     </ul>
+						      <p class="item-title"><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_57">道路台帳図</a></p>
+						    </div>
+						    <div class="grid-item">
+						      <p class="item-title">くらしの情報</p>
+						      <ul class="item-list">
+						        <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_1">子育て・教育</a></li>
+						        <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_6">公園</a></li>
+						        <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_7">町の歴史と文化財</a></li>
+						      </ul>
+ 						   </div>
+						    <div class="grid-item">
+ 						     <p class="item-title">観光情報</p>
+ 						     <ul class="item-list">
+						        <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_21">観光</a></li>
+						      </ul>
+						    </div>
+						    <div class="grid-item">
+ 						     <p class="item-title">事業者の皆様へ</p>
+ 						     <ul class="item-list">
+ 						       <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_22">農道網図</a></li>
+ 						       <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_29">公共物図面</a></li>
+						        <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_27">都市計画情報</a></li>
+ 						     </ul>
+						    </div>
+						    <div class="grid-item">
+						      <p class="item-title">行政情報</p>
+						      <ul class="item-list">
+						        <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_23">公共施設</a></li>
+ 						       <li><a href="https://www.sonicweb-asp.jp/yamanobe/map?theme=th_24">人口分布</a></li>
+						      </ul>
+						    </div>
+						  </div>
+						</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+
+
+
+
+
+
+                        </ul>
+                    </nav>
+                </div>
+                <!-- グローバルここまで -->
+
+				<div class="hamburger-menu">
+					<input type="checkbox" id="menu-btn-check">
+					<label for="menu-btn-check" class="menu-btn"><p class="menu">メニュー</p><span></span></label>
+					<div class="menu-content">
+						<p class="title">カテゴリメニュー</p>
+						<ul class="nonstyle ul_li">
+							<li>
+								<a href="/life/2/">くらしの情報</a>
+							</li>
+							<li>
+								<a href="/life/3/">観光情報</a>
+							</li>
+							<li>
+								<a href="/life/5/">行政情報</a>
+							</li>
+							<li>
+								<a href="/life/4/">事業者のみなさまへ</a>
+							</li>
+							<li>
+								<a href="https://www.sonicweb-asp.jp/yamanobe">地図でさがす</a>
+							</li>
+						</ul>
+						<p class="title">もしものときに</p>
+						<ul class="nonstyle ul_li">
+							<li>
+								<a href="/soshiki/29/moshimonotokini.html">救急</a>
+							</li>
+							<li>
+								<a href="http://bousai.town.yamanobe.yamagata.jp/" target="_blank">災害</a><span class="external_link_text">＜外部リンク＞</span>
+							</li>
+							<li>
+								<a href="/life/1/">防災</a>
+							</li>
+						</ul>
+						<p class="title">ライフシーンから探す</p>
+						<ul class="nonstyle ul_icon">
+							<li>
+								<a href="/life/2/44/143/">
+									<div class="img">
+										<img src="/img/common/icon_life1.svg" alt="妊娠・出産画像">
+									</div>
+									<div class="txt">
+										<p>妊娠・出産</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/life/2/44/144/">
+									<div class="img">
+										<img src="/img/common/icon_life2.svg" alt="子育て・教育画像">
+									</div>
+									<div class="txt">
+										<p>子育て・教育</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/life/2/44/145/">
+									<div class="img">
+										<img src="/img/common/icon_life3.svg" alt="結婚・離婚画像">
+									</div>
+									<div class="txt">
+										<p>結婚・離婚</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/life/2/44/146/">
+									<div class="img">
+										<img src="/img/common/icon_life4.svg" alt="引越し・住まい画像">
+									</div>
+									<div class="txt">
+										<p>引越し・住まい</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/life/2/44/147/">
+									<div class="img">
+										<img src="/img/common/icon_life5.svg" alt="福祉・高齢・介護画像">
+									</div>
+									<div class="txt">
+										<p>福祉・高齢・介護</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/life/2/44/148/">
+									<div class="img">
+										<img src="/img/common/icon_life6.svg" alt="おくやみ画像">
+									</div>
+									<div class="txt">
+										<p>おくやみ</p>
+									</div>
+								</a>
+							</li>
+						</ul>
+
+						<p class="title">トピックス</p>
+						<ul class="nonstyle ul_li">
+							<li>
+								<a href="/site/furusato/">ふるさと納税</a>
+							</li>
+							<li>
+								<a href="/soshiki/29/covidtaisakuhonbu.html">新型コロナ情報</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+            
+
+            <!-- スマホ用グローバルボタン -->
+            <div id="top_gnav_sp">
+		<ul>
+			<li><a href="/life/2/"><span class="img"><img src="/img/common/menuicon_1.svg" alt="くらしの情報画像" class="icon" ></span>
+			くらしの情報</a></li>
+			<li><a href="/life/3/"><span class="img"><img src="/img/common/menuicon_2.svg" alt="観光情報画像" class="icon" ></span>
+			観光情報</a></li>
+			<li><a href="/life/5/"><span class="img"><img src="/img/common/menuicon_3.svg" alt="行政情報画像" class="icon" ></span>
+			行政情報</a></li>
+			<li><a href="/life/4/"><span class="img"><img src="/img/common/menuicon_4.svg" alt="事業者のみなさまへ画像" class="icon" ></span>
+			事業者のみなさまへ</a></li>
+
+			<li><a href="https://www.sonicweb-asp.jp/yamanobe"><span class="img"><img src="/img/common/menuicon_5.svg" alt="地図でさがす" class="icon" /></span>
+			地図でさがす</a></li>
+
+		</ul>
+            </div>
+            <!-- スマホ用グローバルボタンここまで -->
+            
+            <!-- 重要なお知らせここから -->
+            <section class="importantnews">
+            <div class="h2wrap important"><h2><span>重要なお知らせ</span></h2></div>
+                <div class="inner">
+                        <div id="top_important_list">
+                            
+                            <ul>
+                                <li><span class="article_date">2026年1月23日更新</span><span class="article_title"><a href="/soshiki/29/rinyakasai.html">「林野火災注意報」「林野火災警報」が発令されます</a><span class="article_section"><a href="/soshiki/29/">防災対策課</a></span></span></li>
+                            </ul>
+                            
+                            <div class="link_box">
+                                <span class="link_ichiran"><a href="/soshiki/list3-1.html">重要なお知らせ一覧</a></span>
+                                <span class="link_rss"><a href="/rss/10/list3.xml"><i class="fas fa-rss"></i> RSS</a></span>
+                            </div>
+                        </div>
+                 </div>
+            </section>
+            <!-- 重要なお知らせここまで -->
+
+            <section class="news">
+                <div class="inner">
+                    <div class="h2wrap"><h2><span>お知らせ</span></h2></div>
+					
+                    <!-- お知らせここから -->
+					
+					<div id="news_wrap">
+						
+						<div class="detail_list">
+							
+							<ul>
+								<li><span class="article_date">2026年6月26日更新</span><span class="article_title"><a href="/soshiki/19/2026nitiyoutoubannihennkou1.html">７月１２日の日曜当番医が休診になりました</a></span></li><li><span class="article_date">2026年6月25日更新</span><span class="article_title"><a href="/soshiki/5/sukiruappu.html">地域づくりスキルアップ研修会</a></span></li><li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/10/lk190koubi.html">除雪ドーザ―公売</a><img src="/img/new_icon.gif" alt="最新情報" class="icon_new" ></span></li><li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/9/yamanobe-yoichi.html">やまのべ駅前　夜市</a><img src="/img/new_icon.gif" alt="最新情報" class="icon_new" ></span></li><li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/4/syokuinsaiyou8.html">令和８年度山辺町職員採用試験について</a><img src="/img/new_icon.gif" alt="最新情報" class="icon_new" ></span></li>
+							</ul>
+							
+
+							<div class="link_box">
+							<span class="link_ichiran"><a href="/soshiki/list1-1.html">新着一覧</a></span>
+							<span class="link_rss"><a href="/rss/10/list1.xml"><i class="fas fa-rss"></i> RSS</a></span>
+						</div>
+						</div>
+					</div>
+					
+					<!-- お知らせここまで -->
+                </div><!-- innerここまで -->
+			</section><!-- newsここまで -->
+			
+            <section class="findinfo">
+                <div class="inner">
+					<!-- くらしのできごとここから -->
+                    <div class="h2wrap"><h2><span>くらしのできごと</span></h2></div>
+						
+					<div id="life_wrap">
+						<!-- ライフシーンここから -->
+						<div class="detail_box">
+							<ul class="nonstyle">
+								<li>
+									<a href="/life/2/44/143/">
+										<div class="img">
+											<img src="/img/common/icon_life1.svg" alt="妊娠・出産アイコン">
+										</div>
+										<div class="txt">
+											<p>妊娠・出産</p>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="/life/2/44/144/">
+										<div class="img">
+											<img src="/img/common/icon_life2.svg" alt="子育て・教育アイコン">
+										</div>
+										<div class="txt">
+											<p>子育て・教育</p>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="/life/2/44/145/">
+										<div class="img">
+											<img src="/img/common/icon_life3.svg" alt="結婚・離婚アイコン">
+										</div>
+										<div class="txt">
+											<p>結婚・離婚</p>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="/life/2/44/146/">
+										<div class="img">
+											<img src="/img/common/icon_life4.svg" alt="引越し・住まいアイコン">
+										</div>
+										<div class="txt">
+											<p>引越し・住まい</p>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="/life/2/44/147/">
+										<div class="img">
+											<img src="/img/common/icon_life5.svg" alt="福祉・高齢・介護アイコン">
+										</div>
+										<div class="txt">
+											<p>福祉・高齢・介護</p>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="/life/2/44/148/">
+										<div class="img">
+											<img src="/img/common/icon_life6.svg" alt="おくやみアイコン">
+										</div>
+										<div class="txt">
+											<p>おくやみ</p>
+										</div>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- ライフシーンここまで -->	
+					</div>
+						
+					<div class="moshimo">
+						<div class="moshimo_title">
+							<div class="img">
+								<img src="/img/common/icon_megaphone.svg" alt="メガフォン">
+							</div>
+							<div class="txt">
+								<p>もしものときに</p>
+							</div>
+						</div>
+                        <div class="moshimo_list">
+                            <ul class="nonstyle">
+                                <li>
+                                    <a href="/soshiki/29/moshimonotokini.html">
+                                        <div class="txt">
+                                            <p>救急</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://bousai.town.yamanobe.yamagata.jp/" target="_blank">
+                                        <div class="txt">
+                                            <p>災害</p>
+                                        </div>
+                                    </a><span class="external_link_text">＜外部リンク＞</span>
+                                </li>
+                                <li>
+                                    <a href="/life/1/">
+                                        <div class="txt">
+                                            <p>防災</p>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div><!-- innerここまで -->
+            </section><!-- findinfoここまで -->
+
+            <section class="about">
+                <div class="inner">
+                    <div class="h2wrap"><h2><span>山辺町について</span></h2></div>
+
+                    <ul class="nonstyle ul_about">
+					  <li>
+						  <a href="/soshiki/4/goaaisatu.html">
+							  <img src="/img/common/btn_chocho.png" alt="町長の部屋">
+						  </a>
+					  </li>
+					  <li>
+						  <a href="/site/gikai/">
+								<img src="/img/common/btn_gikai.png" alt="山辺町議会">
+						  </a>
+					  </li>
+					  <li>
+						  <a href="/life/5/33/120/">
+							  <img class="pcblock" src="/img/common/btn_koho.svg" alt="広報やまのべ">
+							  <img class="spblock" src="/img/common/btn_koho_sp.svg" alt="広報やまのべ">
+						  </a>
+					  </li>
+					  <li>
+						  <a href="/soshiki/4/shoukai-gaiyou.html">
+								<img class="pcblock" src="/img/common/btn_intro.svg" alt="町の紹介">
+								<img class="spblock" src="/img/common/btn_intro_sp.svg" alt="町の紹介">
+						  </a>
+					  </li>
+					  <li>
+						  <a href="/soshiki/35/download.html">
+							  <img class="pcblock" src="/img/common/btn_download.svg" alt="申請書ダウンロード">
+							  <img class="spblock" src="/img/common/btn_download_sp.svg" alt="申請書ダウンロード">
+						  </a>
+					  </li>
+					  <li>
+						  <a href="/soshiki/4/otoiawase2024.html">
+							  <img class="pcblock" src="/img/common/btn_toi.svg" alt="町への意見、お問い合わせ">
+							  <img class="spblock" src="/img/common/btn_toi_sp.svg" alt="町への意見、お問い合わせ">
+						  </a>
+					  </li>
+					 <li>
+						  <a href="/calendar/">
+							  <img class="pcblock" src="/img/common/btn_calendar.svg" alt="イベントカレンダー">
+							  <img class="spblock" src="/img/common/btn_calendar_sp.svg" alt="イベントカレンダー">
+						  </a>
+					  </li>
+                    </ul>
+					
+                    <ul class="nonstyle ul_sns">
+                        <li>
+                            <a href="https://www.facebook.com/yamanobe.town/" target="_blank">
+                                <img src="/img/common/btn_facebook.svg" alt="山辺町公式Facebook">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/yamanobe_town/" target="_blank">
+                                <img src="/img/common/btn_instagram.svg" alt="山辺町公式Instagram">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/yamanobe_town" target="_blank">
+                                <img src="/img/common/btn_x.svg" alt="山辺町公式X">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                        <li>
+                            <a href="https://lin.ee/yymlBRd" target="_blank">
+                                <img src="/img/common/btn_line.svg" alt="LINE友だち追加">
+                            </a><span class="external_link_text">＜外部リンク＞</span>
+                        </li>
+                  </ul>
+                </div><!-- innerここまで -->
+            </section><!-- aboutここまで -->
+
+            <section class="bnr">
+                <div class="inner">
+                    <!-- バナー広告ここから -->
+                    <div id="banner_footer1">
+                      <div id="banner_footer_box">
+                        
+                        <div id="banner_footer3">
+                          <ul class="banner_c ul_index_bnr">
+                            
+                            <li><a href="adv/ba.php?id=5" onclick="gtag('event', 'view_item', {'event_category': 'banner','event_label': '/banner-top/5'});" target="_blank"><img src="/uploaded/banner/5_img1.png" alt="バナー広告募集中" width="200" height="60"
+                                  class="img_b" ></a></li>
+                            
+                            <li><a href="adv/ba.php?id=22" onclick="gtag('event', 'view_item', {'event_category': 'banner','event_label': '/banner-top/22'});" target="_blank"><img src="/uploaded/banner/22_img1.jpg" alt="シティプロモーションサイト" width="200" height="60"
+                                  class="img_b" ></a></li>
+                            
+                            <li><a href="adv/ba.php?id=3" onclick="gtag('event', 'view_item', {'event_category': 'banner','event_label': '/banner-top/3'});" target="_blank"><img src="/uploaded/banner/3_img1.png" alt="移住・定住" width="200" height="60"
+                                  class="img_b" ></a></li>
+                            
+                            <li><a href="adv/ba.php?id=11" onclick="gtag('event', 'view_item', {'event_category': 'banner','event_label': '/banner-top/11'});" target="_blank"><img src="/uploaded/banner/11_img1.png" alt="やまのべ観光ガイド" width="200" height="60"
+                                  class="img_b" ></a></li>
+                            
+                            <li><a href="adv/ba.php?id=10" onclick="gtag('event', 'view_item', {'event_category': 'banner','event_label': '/banner-top/10'});" target="_blank"><img src="/uploaded/banner/10_img1.png" alt="ごみ大辞典" width="200" height="60"
+                                  class="img_b" ></a></li>
+                            
+                            <li><a href="adv/ba.php?id=12" onclick="gtag('event', 'view_item', {'event_category': 'banner','event_label': '/banner-top/12'});" target="_blank"><img src="/uploaded/banner/12_img1.png" alt="マイナンバー" width="200" height="60"
+                                  class="img_b" ></a></li>
+                            
+                            <li><a href="adv/ba.php?id=23" onclick="gtag('event', 'view_item', {'event_category': 'banner','event_label': '/banner-top/23'});" target="_blank"><img src="/uploaded/banner/23_img1.jpg" alt="オオホリ建託" width="200" height="60"
+                                  class="img_b" ></a></li>
+                            
+                          </ul>
+                        </div>
+                        
+                      </div>
+                    </div>
+                    <!-- バナー広告ここまで -->
+                </div><!-- innerここまで -->
+            </section><!-- bnrここまで -->
+         	
+            <!-- フッターここから -->
+            <div id="back_or_pagetop">
+				<div id="to_page_top"><a href="#pagetop"><i class="fas fa-chevron-circle-up"></i> このページの先頭へ</a></div>
+			</div>
+
+			<div class="btn_topagetop_rightdown"><a href="#"><img src="/img/common/btn_page_top.svg" alt="ページトップへ" ></a></div>
+			<div class="footer_nav">
+                <div class="inner">
+                    <ul class="nonstyle">
+                        <li>
+                            <a href="/site/hajimete/kojinjoho.html">個人情報の取り扱いについて</a>
+                        </li>
+                        <li>
+                            <a href="/site/hajimete/menseki.html">著作権・免責事項</a>
+                        </li>
+                        <li>
+                            <a href="/site/hajimete/homepage.html">このホームページについて</a>
+                        </li>
+                        <li>
+                            <a href="/site/hajimete/accessibility.html">ウェブアクセシビリティへの取り組み</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="footer" class="footer">
+                <div class="inner">
+                    <div class="author_box">
+                        <p class="name"><img src="/img/common/logo_footer.svg" alt="山辺町"></p>
+						<div class="txt">
+						<p class="add">〒990-0392　<br class="brsp">山形県東村山郡山辺町緑ケ丘5番地</p>
+                        <p class="tel">Tel:023-667-1111（代表）　<br class="brsp">Fax:023-667-1112</p>
+						</div>
+					</div><!-- author_infoここまで -->
+                        <ul class="nonstyle footer_btn">
+                            <li><a href="/soshiki/4/shoukai-access.html">役場への行きかた</a></li>
+                            <li><a href="/soshiki/4/choushamitorizu.html">フロアマップ</a></li>
+                            <li><a href="/soshiki/">組織別電話番号一覧</a></li>
+                        </ul>
+                        <!--<p class="txt">各ページに掲載の記事及び写真・イラスト等の無断で転載、複製を禁じます。</p>-->
+					<p class="copy">Copyright &#169; 2024 山辺町 All Rights Reserved.</p>
+				</div>
+            </div>
+            <!-- フッターここまで -->
+
+        </div><!-- コンテナここまで -->
+
+    </div><!-- top_indexここまで -->
+
+</body>
+</html>

@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MH760FV5F8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MH760FV5F8');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T6XTGM5Z');</script>
+<!-- End Google Tag Manager -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>スポーツ・文化 - 西川町ホームページ</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" media="print" href="/ssi/css/print.css">
+<script src="/ssi/js/escapeurl.js"></script>
+<script src="/ssi/js/jquery.js"></script>
+<script src="/ssi/js/jquery-migrate.js"></script>
+<script src="/ssi/js/common.js"></script>
+<script src="/ssi/js/search-trend.js"></script>
+<script src="/ssi/js/s-google.js"></script>
+<script src="/ssi/js/search-open-page-id.js"></script>
+<script src="/ssi/js/last-page-parts-load-1.js"></script>
+<script src="/ssi/js/footstep.js"></script>
+<link rel="stylesheet" href="/ssi/css/footstep.css">
+<style media="all">
+@import url("/ssi/css/life.css");
+</style>
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6XTGM5Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="life life_list2">
+	<!-- コンテナここから -->
+	<div id="container">
+		<span class="hide" id="pagetop">ページの先頭です。</span>
+		<span class="hide"><a href="#skip">メニューを飛ばして本文へ</a></span>
+
+		<!-- ヘッダここから -->
+		<div id="header">
+			<div id="spm_wrap"><button type="button" id="spm_menu"><span class="hide">メニュー</span></button></div>
+<!-- ヘッダーここから -->
+<div id="header2">
+	<div id="he_left">
+		<div id="logo"><a href="/">
+			<img src="/img/top/logo.png" alt="西川町ホームページ" /></a>
+		</div>
+	</div>
+	<div id="he_right">
+		<noscript>
+			<p>JavaScriptが無効のため、文字の大きさ・背景色を変更する機能を使用できません。</p>
+		</noscript>
+		<div class="header_navi">
+			<div class="accBtn">
+				<!-- 文字の大きさ変更ここから -->
+				<dl id="moji_size">
+					<dt>文字サイズ</dt>
+					<dd><a id="moji_default" href="javascript:fsc('default');" title="文字サイズを標準にする">標準</a></dd>
+					<dd><a id="moji_large" href="javascript:fsc('larger');" title="文字サイズを拡大する">大</a></dd>
+				</dl>
+				<!-- 文字の大きさ変更ここまで -->
+				<!-- 背景の変更ここから -->
+				<dl id="haikei_color">
+					<dt>背景</dt>
+					<dd><a id="haikei_white" href="javascript:SetCss(1);" title="背景色を白色に変更する">白</a></dd>
+					<dd><a id="haikei_black" href="javascript:SetCss(2);" title="背景色を黒色に変更する">黒</a></dd>
+					<dd><a id="haikei_blue" href="javascript:SetCss(3);" title="背景色を青色に変更する">青</a></dd>
+				</dl>
+				<!-- 背景の変更ここまで -->
+			</div>
+			<!-- 検索ここから -->
+			<div id="top_search_keyword">
+				<!-- Googleカスタム検索ここから -->
+				<form action="/search.html" method="get" id="cse-search-box" name="cse-search-box">
+					<input type="hidden" name="cx" value="b52d26e3756dd44c1" />
+					<!--
+					--><input type="hidden" name="cof" value="FORID:11" />
+					<!--
+					--><input type="hidden" name="ie" value="UTF-8" />
+					<!--
+					--><label for="tmp_query"><span class="hide">Googleカスタム検索</span></label>
+					<!--
+					--><input type="text" name="q" value="" id="tmp_query" />
+					<!--
+					--><input type="submit" value="検索" id="submit" name="sa" />
+				</form>
+				<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box"></script>
+				<!-- Googleカスタム検索ここまで -->
+			</div>
+			<!-- 検索ここまで -->
+		</div>
+
+		<!-- リンクここから -->
+		<div class="userBtn">
+			<ul class="ub01">
+				<li><a href="/site/hajimete/foreign-language.html" lang="en">Foreign language</a></li>
+				<li><a href="/site/hajimete/">はじめての方へ</a></li>
+				<li><a href="/sitemap.html">サイトマップ</a></li>
+			</ul>
+			<ul class="ub02">
+				<li><span class="kunoji"></span><a href="/soshiki/">組織から探す</a></li>
+				<li><span class="kunoji"></span><a href="/life/">分類から探す</a></li>
+			</ul>
+		</div>
+		<!-- リンクここまで -->
+
+	</div>
+</div>
+<!-- ヘッダーここまで -->
+			<!-- グローバルここから -->
+<nav class="gNavFrame" role="navigation">
+	<ul class="gNav">
+		<li class="menu-item-has-children">
+			<a id="nav01" href="/life/1/">くらし・手続き</a>
+			<ul class="sub-menu">
+				<li><a href="/life/1/1/">住民票・戸籍・印鑑登録</a></li>
+				<li><a href="/life/1/2/">保険・年金・税金</a></li>
+				<li><a href="/life/1/3/">土地・住宅</a></li>
+				<li><a href="/life/1/4/">道路・水道</a></li>
+				<li><a href="/life/1/5/">生活環境・衛生</a></li>
+				<li><a href="/life/1/6/">雇用・労働</a></li>
+				<li><a href="/life/1/7/">くらしのナビ</a></li>
+				<li><a href="/life/1/8/">防災・安全</a></li>
+				<li><a href="/life/1/9/">雪情報</a></li>
+			</ul>
+		</li>
+		<li class="menu-item-has-children">
+			<a id="gnav2" href="/life/2/">子育て・教育</a>
+			<ul class="sub-menu">
+				<li><a href="/life/2/10/">出産・育児</a></li>
+				<li><a href="/life/2/11/">教育</a></li>
+				<li><a href="/life/2/12/">スポーツ・文化</a></li>
+			</ul>
+		</li>
+		
+		<li class="menu-item-has-children">
+			<a id="gnav3" href="/life/3/">健康・福祉</a>
+			<ul class="sub-menu">
+				<li><a href="/life/3/13/">健康・医療</a></li>
+				<li><a href="/life/3/14/">福祉・介護</a></li>
+			</ul>
+		</li>
+		<li class="menu-item-has-children">
+			<a id="gnav4" href="/life/4/">企業・事業者</a>
+			<ul class="sub-menu">
+				<li><a href="/life/4/15/">入札・契約</a></li>
+				<li><a href="/life/4/16/">事業者の方へ</a></li>
+			</ul>
+		</li>
+		<li class="menu-item-has-children">
+			<a id="gnav5" href="/life/5/">町政情報</a>
+			<ul class="sub-menu">
+				<li><a href="/life/5/17/">西川町の概要</a></li>
+				<li><a href="/life/5/18/">広報・広聴</a></li>
+				<li><a href="/life/5/19/">政策・まちづくり</a></li>
+				<li><a href="/life/5/20/">人事・採用</a></li>
+				<li><a href="/life/5/21/">監査・情報公開</a></li>
+				<li><a href="/life/5/22/">選挙</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+<!-- グローバルここまで -->
+			<!-- header3 -->
+		</div>
+		<!-- ヘッダここまで -->
+
+		<!-- ぱんくずナビここから -->
+		<div id="pankuzu_wrap">
+			<div class="pankuzu">
+				<span class="icon_current">現在地</span>
+				<span class="pankuzu_class pankuzu_class_top"><a href="/">トップページ</a></span>
+				<span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class"><a href="/life/">分類から探す</a></span>
+				<span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class"><a href="/life/2/">子育て・教育</a></span>
+				<span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class pankuzu_class_current">スポーツ・文化</span>
+			</div>
+		</div>
+		<!-- ぱんくずナビここまで -->
+
+		<div id="mymainback">
+					<div id="main_header">
+						<h1>スポーツ・文化</h1>
+					</div>
+<div id="main_box">
+			<!-- メインここから -->
+			<div id="main">
+				<div id="main_a">
+					<hr class="hide">
+					<p class="hide" id="skip">本文</p>
+					<!-- 新着情報ここから -->
+					<!-- [[section_information_all_head]] -->
+					<div class="section_information">
+						<h2 class="section_information_ttl acc_title"><span>新着情報</span></h2>
+						<!-- [[section_information2_head]] -->
+						<div class="section_information_list_wrap">
+							<div class="section_information_list">
+								<ul>
+									<!-- [[section_information_head]] -->
+									<li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/kasegu/10404.html">道の駅にしかわ駐車場 一部利用制限のお知らせ</a><img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+									
+									<li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/manabu/10402.html">第56回西川町文化祭開催日のお知らせ</a><img src="/img/new_icon.gif" alt="最新情報" class="icon_new"></span></li>
+									
+									<li><span class="article_date">2026年6月1日更新</span><span class="article_title"><a href="/soshiki/kensetsu/7076.html">寒河江ダムスポーツ広場オープン！</a></span></li>
+									
+									<li><span class="article_date">2026年4月24日更新</span><span class="article_title"><a href="/soshiki/kasegu/9982.html">道の駅にしかわに「ドッグラン」がオープン！</a></span></li>
+									
+									<li><span class="article_date">2026年4月20日更新</span><span class="article_title"><a href="/soshiki/manabu/1288.html">「自然散策と詩を読む会」のご案内</a></span></li>
+									<!-- [[section_information_tail]] -->
+								</ul>
+								<div class="link_box">
+									<!-- [[section_information2_kako_head]] --><span class="link_ichiran"><a href="/life/2/12/index-2.html">新着情報の一覧</a></span><!-- [[section_information2_kako_tail]] -->
+									<span class="link_rss"><a href="/rss/10/life2-12.xml"><img src="/img/common/news_rss.png" alt="新着情報のRSS"></a></span>
+								</div>
+							</div>
+						</div>
+						<!-- [[section_information2_tail]] -->
+					</div>
+					<!-- [[section_information_all_tail]] -->
+					<!-- 新着情報ここまで -->
+
+					<!-- main_bodyここから -->
+					<div id="main_body">
+
+						<!-- 分類ごとの新着情報ここから -->
+						<div id="life_cat_list_wrap">
+							<!-- [[a]] -->
+							<div class="life_cat_list">
+								<h2 class="acc_title"><a id="jmp46" href="/life/2/12/46/">公共施設</a>
+</h2>
+								<div>
+									
+									
+									<!-- [[life_list_head]] -->
+									<div class="info_list info_list_date">
+										<ul>
+											
+											<li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/kasegu/10404.html">道の駅にしかわ駐車場 一部利用制限のお知らせ</a></span></li>
+											
+											<li><span class="article_date">2026年6月1日更新</span><span class="article_title"><a href="/soshiki/kensetsu/7076.html">寒河江ダムスポーツ広場オープン！</a></span></li>
+											
+											<li><span class="article_date">2026年5月1日更新</span><span class="article_title"><a href="/soshiki/kanko/2945.html">かわどい亭</a></span></li>
+											
+											<li><span class="article_date">2026年5月1日更新</span><span class="article_title"><a href="/soshiki/kanko/1290.html">西川町歴史文化資料館</a></span></li>
+											
+											<li><span class="article_date">2026年4月24日更新</span><span class="article_title"><a href="/soshiki/kasegu/9982.html">道の駅にしかわに「ドッグラン」がオープン！</a></span></li>
+											
+										</ul>
+										<div class="link_ichiran"><a href="/life/2/12/46/">公共施設の一覧</a></div>
+									</div>
+									<!-- [[life_list_tail]] -->
+								</div>
+							</div>
+							
+							<div class="life_cat_list">
+								<h2 class="acc_title"><a id="jmp47" href="/life/2/12/47/">スポーツ</a>
+</h2>
+								<div>
+									
+									
+									<!-- [[life_list_head]] -->
+									<div class="info_list info_list_date">
+										<ul>
+											
+											<li><span class="article_date">2026年3月25日更新</span><span class="article_title"><a href="/soshiki/manabu/1294.html">全国大会等出場選手へ激励金を支給します</a></span></li>
+											
+											<li><span class="article_date">2026年1月8日更新</span><span class="article_title"><a href="/soshiki/manabu/5896.html">令和7年度西川町生涯学習総合表彰式を開催します</a></span></li>
+											
+											<li><span class="article_date">2025年8月1日更新</span><span class="article_title"><a href="/soshiki/kanko/7717.html">町内で合宿する大学生カヌー部を応援します！</a></span></li>
+											
+											<li><span class="article_date">2024年12月9日更新</span><span class="article_title"><a href="/site/aibe/5230.html">スポーツ教室で頭と身体を動かそう！</a></span></li>
+											
+										</ul>
+										<div class="link_ichiran"><a href="/life/2/12/47/">スポーツの一覧</a></div>
+									</div>
+									<!-- [[life_list_tail]] -->
+								</div>
+							</div>
+							
+							<div class="life_cat_list">
+								<h2 class="acc_title"><a id="jmp48" href="/life/2/12/48/">文化</a>
+</h2>
+								<div>
+									
+									
+									<!-- [[life_list_head]] -->
+									<div class="info_list info_list_date">
+										<ul>
+											
+											<li><span class="article_date">2026年7月1日更新</span><span class="article_title"><a href="/soshiki/manabu/10402.html">第56回西川町文化祭開催日のお知らせ</a></span></li>
+											
+											<li><span class="article_date">2026年4月30日更新</span><span class="article_title"><a href="/soshiki/manabu/10085.html">西川町登録文化財一覧</a></span></li>
+											
+											<li><span class="article_date">2026年4月20日更新</span><span class="article_title"><a href="/soshiki/manabu/1288.html">「自然散策と詩を読む会」のご案内</a></span></li>
+											
+											<li><span class="article_date">2026年2月16日更新</span><span class="article_title"><a href="/soshiki/manabu/8172.html">「第35回月山俳句大会」審査結果発表</a></span></li>
+											
+											<li><span class="article_date">2026年1月8日更新</span><span class="article_title"><a href="/soshiki/manabu/5896.html">令和7年度西川町生涯学習総合表彰式を開催します</a></span></li>
+											
+										</ul>
+										<div class="link_ichiran"><a href="/life/2/12/48/">文化の一覧</a></div>
+									</div>
+									<!-- [[life_list_tail]] -->
+								</div>
+							</div>
+							<!-- [[f]] -->
+						</div>
+						<!-- 分類ごとの新着情報ここまで -->
+
+					</div>
+					<!-- main_bodyここまで -->
+
+				</div>
+			</div>
+			<!-- メインここまで -->
+			<hr class="hide">
+
+			<!-- サイドバー1ここから -->
+			<!-- サイドバー1ここまで -->
+
+      <!-- サイドバー2ここから -->
+      <div id="sidebar2">
+
+        <!-- 重要なお知らせここから -->
+        <div id="important_noticest_area"></div>
+        <!-- 重要なお知らせここまで -->
+
+				<!--ライフイベントここから-->
+				<div class="life_event">
+					<div class="subsite_menu">
+					<div class="subsite_menu_ttl acc_title">
+						<label for="acc_ttl_label20">くらしのナビ</label>
+					</div>
+					<input id="acc_ttl_label20" type="checkbox">
+					<div class="subsite_menu_list">
+						<ul>
+              <li class="i_bus"><a href="/soshiki/chomin/1272.html"><span>バス時刻表</span></a></li>
+              <li class="i_gomi"><a href="/soshiki/chomin/1265.html"><span>ごみ</span></a></li>
+              <li class="i_hojokin"><a href="/life/1/7/26/"><span>補助金</span></a></li>
+              <li class="i_ninshin"><a href="/life/1/7/27/"><span>妊娠・出産・子育て</span></a></li>
+              <li class="i_gakko"><a href="/life/1/7/28/"><span>学校・教育</span></a></li>
+              <li class="i_hikkoshi"><a href="/life/1/7/29/"><span>引越し</span></a></li>
+              <li class="i_syushoku"><a href="/life/1/7/30/"><span>就職・退職</span></a></li>
+              <li class="i_kekkon"><a href="/life/1/7/31/"><span>結婚・離婚</span></a></li>
+              <li class="i_kourei"><a href="/life/1/7/32/"><span>高齢・介護</span></a></li>
+              <li class="i_okuyami"><a href="/life/1/7/33/"><span>おくやみ</span></a></li>
+						</ul>
+					</div>
+					</div>
+				</div>
+				<!--ライフイベントここまで-->
+
+      </div>
+      <!-- サイドバー2ここまで -->
+</div>
+		</div><!-- 3カラム終わり -->
+
+		<!-- フッタここから -->
+		<div id="footer">
+			<div class="footer_wrap">
+				<div class="footer_box">
+					<div id="footer_link_pagetop">
+	<a href="#pagetop"><img src="/img/common/btn_pagetop.png" width="150" height="150" alt="このページの先頭へ"></a>
+</div>
+					
+					<div id="author_info">
+	<div id="author_box1">
+		<div class="author_box_left">
+			<p class="f_author">西川町役場</p>
+			<p class="f_address">〒990-0792　山形県西村山郡西川町大字海味510番地</p>
+			<p class="f_contact"><span>Tel：0237-74-2111</span><span>Fax：0237-74-2601</span></p>
+		</div>
+		<div class="author_box_right"><p class="f_detail"><span>開庁時間</span>
+<span>月曜日から金曜日の午前8時30分から午後5時15分</span>
+<span>(土曜日・日曜日・祝日、12月29日から1月3日を除く)</span></p></div><div class="author_box_right2"><p class="f_detail"><span>SNS公式アカウント</span>
+<div class="sns_inner">
+									<a href="https://lin.ee/d2cEClq" class="sns_item" target="_blank"><img src="/img/top/sns-line2.png" alt="西川町公式line"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://twitter.com/nishikawatown" class="sns_item" target="_blank"><img src="/img/top/sns-x2.png" alt="西川町公式x"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://www.instagram.com/nishikawa_town_official/" class="sns_item" target="_blank"><img src="/img/top/sns-ig2.png" alt="西川町公式instagram"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://www.youtube.com/channel/UCaxFmMW_qEHJPcKAfotia4A" class="sns_item" target="_blank"><img src="/img/top/sns-yt2.png" alt="西川町公式youtube"></a><span class="external_link_text">＜外部リンク＞</span>
+									<a href="https://www.facebook.com/profile.php?id=100069900391418" class="sns_item" target="_blank"><img src="/img/top/sns-fb2.png" alt="西川町公式facebook"></a><span class="external_link_text">＜外部リンク＞</span>
+								</div>
+<a href="/soshiki/tsunagu/2199.html">運用方針はこちら≫</a></div>
+	</div>
+	<div id="author_box">
+		<ul>
+			<li><a href="/site/hajimete/kojinjoho.html">個人情報の取り扱いについて</a></li>
+			<li><a href="/site/hajimete/menseki.html">著作権・免責事項</a></li>
+			<li><a href="/site/hajimete/rss.html">RSS配信について</a></li>
+			<li><a href="/site/hajimete/2481.html">ウェブアクセシビリティ方針</a></li>
+		</ul>
+	</div>
+	<div id="footer_navi">
+		<ul>
+			<li><a href="/soshiki/0/info.html"><span style="display: flex; align-items: center; gap: 15px;">
+				<img src="/img/top/footer-item-2.png" width="30px" alt="電話の画像">
+				<img src="/img/top/footer-item-1.png" width="30px" alt="メールの画像"></span><span>お問い合わせ</span></a></li>
+			<li><a href="/soshiki/0/access.html"><span><img src="/img/top/footer-item-3.png" width="40px" alt="車の画像"></span><span>地図・アクセス</span></a></li>
+		</ul>
+	</div>
+</div>
+<div id="copyright"><p lang="en">Copyright&#169; Nishikawa Town All Rights Reserved.</p></div>
+				</div>
+			</div>
+		</div>
+		<!-- フッタここまで -->
+
+	</div>
+	<!-- コンテナここまで -->
+</div>
+
+</body>
+</html>

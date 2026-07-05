@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>東根市 「ようこそ果樹王国ひがしねへ」</title>
+  <meta name="description" content="さくらんぼ 生産日本一の果樹王国へようこそ">
+  <meta name="keywords" content="">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+
+  <meta property="og:title" content="東根市 「ようこそ果樹王国ひがしねへ」">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.city.higashine.yamagata.jp/">
+  <meta property="og:image" content="https://www.city.higashine.yamagata.jp/apple-touch-icon.png">
+  <meta property="og:site_name" content="東根市 「ようこそ果樹王国ひがしねへ」">
+  <meta property="og:description" content="さくらんぼ 生産日本一の果樹王国へようこそ">
+
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="canonical" href="https://www.city.higashine.yamagata.jp/">
+  <link rel="alternate" type="application/rss+xml" href="/feed/rss">
+
+  <link rel="stylesheet" href="/theme/higashine/lib/swiper-8.4.7/swiper-bundle.min.css">
+  <link rel="stylesheet" href="/theme/higashine/css/style.css">
+  <link rel="stylesheet" href="/theme/sn-default/css/body.css">
+
+  <link rel="stylesheet" href="/theme/higashine/lib/fontawesome-free-6.5.1-web/css/all.min.css">
+
+  <script src="/theme/higashine/lib/jquery-3.7.1.min.js"></script>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-THJ6QBD');</script>
+  <!-- End Google Tag Manager -->
+
+</head>
+
+<body class="home ">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THJ6QBD"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <olang>
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v12.0" nonce="Zc4oENIi"></script>
+  </olang>
+
+  
+
+  <div class="screen-reader-text">
+    <a href="#con">本文へ移動</a>
+  </div>
+
+    <header class="home-header">
+
+  <div class="branding">
+    <h1 class="site-logo"><a href="/"><img src="/theme/higashine/images/logo.svg" alt="東根市 | ようこそ果樹王国ひがしねへ" /></a></h1>
+  </div>
+  
+  <div class="header-misc">
+
+    <div class="font-size">
+      <span class="trigger">文字サイズ</span>
+      <button class="fs-button" data-fontsize="default">標準</button>
+      <button class="fs-button" data-fontsize="large">大</button>
+    </div>
+
+    <ul class="misc-link">
+      <li><a href="/website_information/304">Foreign Language</a></li>
+      <li><a href="/sitemap">サイトマップ</a></li>
+      <li><a href="/website_information/299">ガイド</a></li>
+    </ul>
+
+  </div>
+
+  <div id="coverSlide" class="cover swiper-container">
+    <ul class="swiper-wrapper">
+<li  class="swiper-slide" style="background-image: url('/images/original/202605211039391425a661816.png')"><a href="https://www.higashine-cherry.jp/" target="_self" ></a><div class="swiper-caption" data-swiper-parallax="-200"><a href="https://www.higashine-cherry.jp/" target="_self" >GI東根さくらんぼ【外部リンク】</a></div></li>
+<li  class="swiper-slide" style="background-image: url('/images/original/202512241639590416f16f9e6.jpg')"><a href="https://www.city.higashine.yamagata.jp/section_list/section001/photograph/" target="_self" ></a><div class="swiper-caption" data-swiper-parallax="-200"><a href="https://www.city.higashine.yamagata.jp/section_list/section001/photograph/" target="_self" >レポーターミュージアム ～ひがしね百景～</a></div></li>
+</ul>
+
+    <div class="swiper-control">
+      <div class="swiper-pagination"></div>
+      <button id="swiper-play" class="swiper-control-button" title="一時停止"><i class="fas fa-pause"></i><span class="screen-reader-text">一時停止</span></button>
+    </div>
+  </div>
+
+</header>
+
+<nav class="global-nav">
+  <div class="container">
+    <ul class="site-menu-pc container">
+      <li><a href="/administration/search_guide/"><img src="/theme/higashine/images/gnav-seikatsu.svg" alt="市民の生活"></a></li>
+      <li><a href="/tourism/"><img src="/theme/higashine/images/gnav-kanko.svg" alt="観光情報"></a></li>
+      <li><a href="/administration/contractor/"><img src="/theme/higashine/images/gnav-business.svg" alt="事業者向け"></a></li>
+      <li><a href="/section_list/"><img src="/theme/higashine/images/gnav-section.svg" alt="課の一覧"></a></li>
+      <li><a href="/administration/city/"><img src="/theme/higashine/images/gnav-shisei.svg" alt="市政情報"></a></li>
+    </ul>
+  </div>
+</nav>
+
+
+
+  <main class="site-main home">
+
+  <section class="home-important">
+    <div class="container">
+
+      <div class="home-notice" id="jsNoticeElements">
+        <ul>
+<li class=""><a href="https://furusato-higashine.jp/" target="_self" ><img src="/images/original/20231228165709533c7bd8708.png" alt="ふるさと納税" /></a></li>
+<li class=""><a href="https://higashine-iju.jp/" target="_blank" ><img src="/images/original/2024011010052276285301c10.png" alt="東根市移住ポータルサイト" /></a></li>
+<li class=""><a href="https://public-connect.jp/employer/2588" target="_blank" ><img src="/images/original/20240628113634358f6d71684.jpg" alt="職員採用情報" /></a></li>
+</ul>
+
+      </div>
+
+      <div class="home-bousai" id="jsBousai">
+        <span>Loading...</span>
+      </div>
+      <script type="text/javascript" src="/bousai/common/js/api-2023.js"></script>
+
+
+      <div class="home-topics">
+        <div class="topics-header">
+          <h2><a href="/administration/information/">ピックアップ情報</a></h2>
+          <div class="link"><a href="/administration/information/">一覧</a></div>
+        </div>
+        <div class="topics-content">
+          <ul class="">
+<li class="">
+<div class="title">
+<a href="/administration/information/471">【防災】東根市洪水ハザードマップ をリニューアルしました</a></div>
+</li>
+<li class="">
+<div class="title">
+<a href="/administration/information/3509">内水ハザードマップについて</a></div>
+</li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="home-news">
+    <div class="container">
+      <h2>新着情報</h2>
+      <div class="news-wrapper">
+
+        <ul class="news-list">
+<li class="news-list-item">
+<div class="date">2026.07.03</div>
+<div class="title">
+<a href="/news/3664">第３７回大ケヤキ全国書道絵画展が開催されます！</a></div>
+</li>
+<li class="news-list-item">
+<div class="date">2026.07.03</div>
+<div class="title">
+<a href="/news/3658">一般競争入札の公告（令和8年7月3日）   </a></div>
+</li>
+<li class="news-list-item">
+<div class="date">2026.07.01</div>
+<div class="title">
+<a href="/news/2010">令和８年度はたちのつどいを開催します</a></div>
+</li>
+<li class="news-list-item">
+<div class="date">2026.07.01</div>
+<div class="title">
+<a href="/news/2496">令和8年度東根市生涯学習フェスティバルの参加団体を募集します</a></div>
+</li>
+<li class="news-list-item">
+<div class="date">2026.07.01</div>
+<div class="title">
+<a href="/news/2052">まなびあテラスで「喜如嘉の芭蕉布展－沖縄の伝統織物―」を開催します</a></div>
+</li>
+</ul>
+
+
+        <div class="link">
+          <a href="/news/">新着一覧</a>
+          <a href="/feed/rss">RSSを購読</a>
+        </div>
+
+      </div>
+    </div>
+
+  </section>
+
+  <section class="home-kurashi">
+    <div class="container">
+      <h2>情報を探す</h2>
+      <div class="kurashi-wrapper">
+
+        <div class="search-wrapper">
+          <h3>キーワードから探す</h3>
+          <div class="cse-search form-site-search">
+            <script>
+              (function() {
+                var cx = '005588481209610904871:hacbpxnprpw';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+              })();
+            </script>
+            <gcse:searchbox-only></gcse:searchbox-only>
+          </div>
+        </div>
+
+        <div class="guide-wrapper">
+          <h3>暮らしのガイドから探す</h3>
+          <ul>
+            <li><a href="/administration/search_guide/childbirth"><img src="/theme/higashine/images/home/guide-01.svg" alt="妊娠・出産"></a></li>
+            <li><a href="/administration/search_guide/kosodate"><img src="/theme/higashine/images/home/guide-02.svg" alt="子育て・教育"></a></li>
+            <li><a href="/administration/search_guide/kekkonrikon"><img src="/theme/higashine/images/home/guide-03.svg" alt="結婚・離婚"></a></li>
+            <li><a href="/administration/search_guide/sumai"><img src="/theme/higashine/images/home/guide-04.svg" alt="住まい・引越"></a></li>
+            <li><a href="/administration/search_guide/kourei-kaigo"><img src="/theme/higashine/images/home/guide-05.svg" alt="高齢・介護"></a></li>
+            <li><a href="/administration/search_guide/okuyami"><img src="/theme/higashine/images/home/guide-06.svg" alt="おくやみ"></a></li>
+            <li><a href="/administration/search_guide/tetsuduki"><img src="/theme/higashine/images/home/guide-07.svg" alt="手続き・証明"></a></li>
+            <li><a href="/administration/search_guide/nenkin"><img src="/theme/higashine/images/home/guide-08.svg" alt="年金・保険"></a></li>
+            <li><a href="/administration/search_guide/zeikin"><img src="/theme/higashine/images/home/guide-09.svg" alt="税金"></a></li>
+            <li><a href="/administration/search_guide/gomi"><img src="/theme/higashine/images/home/guide-10.svg" alt="ゴミ"></a></li>
+            <li><a href="/administration/search_guide/kenko-fukushi"><img src="/theme/higashine/images/home/guide-11.svg" alt="健康・福祉"></a></li>
+            <li><a href="/administration/search_guide/city-bus"><img src="/theme/higashine/images/home/guide-12.svg" alt="市バスなど"></a></li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="home-moshimo">
+    <div class="container">
+      <div class="moshimo-wrapper">
+        <h2><img src="/theme/higashine/images/moshimo-icon.svg" alt="">もしものとき</h2>
+        <ul class="moshimo-list">
+          <li>
+            <a href="/administration/if/bousai">
+              <img src="/theme/higashine/images/moshimo-bousai.svg" alt="">
+              <span>防災情報</span>
+            </a>
+          </li>
+          <li>
+            <a href="/section_list/section026/syo_news/">
+              <img src="/theme/higashine/images/moshimo-syoubou.svg" alt="">
+              <span>消防本部から</span>
+            </a>
+          </li>
+          <li>
+            <a href="/section_list/section028/kyujitsu-shinryo/">
+              <img src="/theme/higashine/images/moshimo-clinic.svg" alt="">
+              <span>休日診療所</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-about">
+    <div class="container">
+      <h2>東根市について</h2>
+      <ul class="about-list">
+        <li class="mayor">
+          <img src="/theme/higashine/images/home/about-mayor.jpg" alt="">
+          <a href="/section_list/section001/room/">市長の部屋</a>
+        </li>
+        <li class="shiho">
+          <img src="/images/original/20260626134908039021d2528.jpg" alt="市報ひがしね令和8年7月1日号画像" />
+
+          <a href="/section_list/section001/bulletin/">市報ひがしね<span class="latest">最新号</span></a>
+        </li>
+        <li class="intro">
+          <img src="/theme/higashine/images/home/about-intro.jpg" alt="">
+          <a href="/administration/about/">東根市の紹介</a>
+        </li>
+        <li class="gikai">
+          <img src="/theme/higashine/images/home/about-gikai.jpg" alt="">
+          <a href="/section_list/section018/">東根市議会</a>
+        </li>
+        <li>
+          <img src="/theme/higashine/images/home/about-plan.jpg" alt="">
+          <a href="/administration/plan/">施策・計画</a>
+        </li>
+        <li>
+          <img src="/theme/higashine/images/home/about-contact.jpg" alt="">
+          <a href="/section_list/section001/public_comment/">パブリックコメント</a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-useful">
+    <div class="container">
+      <h2>お役立ち情報</h2>
+      <ul class="useful-list">
+        <li><a href="/administration/guidebook/">市民ガイドブック</a></li>
+        <li><a href="/section_list/section028/kenko-calendar/">健康カレンダー</a></li>
+        <li><a href="/section_list/section029/2075">こどものみらい<br>サポートブック</a></li>
+        <li><a href="/section_list/section010/335">高齢者福祉サービス<br>ガイドブック</a></li>
+
+        <li><a href="/calendar">イベントカレンダー</a></li>
+        <li><a href="/administration/reiki/">東根市例規集</a></li>
+        <li><a href="/administration/outline/">東根市市勢要覧</a></li>
+        <li><a href="https://www2.wagmap.jp/higashine" target="_blank">東根市地図情報</a></li>
+
+        <li><a href="/section_list/section001/library">東根市オープンデータ<br>ライブラリ</a></li>
+        <li><a href="/administration/download/">申請書ダウンロード</a></li>
+        <li><a href="/website_information/otoiawase">お問い合わせ</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-sns">
+    <div class="container">
+      <h2>公式SNS</h2>
+      <ul>
+        <li class="line"><a href="https://page.line.me/higashine_city?openQrModal=true" target="_blank"><span>東根市</span>公式 LINE</a></li>
+        <li class="facebook"><a href="https://www.facebook.com/higashine.city" target="_blank"><span>東根市</span>公式 Facebook</a></li>
+        <li class="youtube"><a href="https://www.youtube.com/channel/UCXhVpR8C4fZuggKiAPuOc-Q" target="_blank"><span>東根市</span>公式 YouTube</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-banner">
+    <div class="container">
+      <div class="pickup-banner swiper">
+        <ul class="swiper-wrapper">
+<li class="swiper-slide"><a href="http://manabiaterrace.jp/" target="_blank"  rel="nofollow"><img src="/images/original/20240524105335190574bf8f9.png" alt="東根市公益文化施設まなびあテラス" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="http://www.asobia.jp/" target="_blank"  rel="nofollow"><img src="/images/original/20240524105421602dad00e1d.png" alt="ひがしねあそびあランド" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="http://www.tantokuru.jp/" target="_blank"  rel="nofollow"><img src="/images/original/20240524105442983561e53e0.png" alt="東根市総合保健福祉施設さくらんぼタントクルセンター" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="/shokuiku/" target="_self"  rel="nofollow"><img src="/images/original/20240524105509223ab40dc4d.png" alt="ひがしねの食育ガイド" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="https://www.sakuranbo-m.jp/" target="_blank"  rel="nofollow"><img src="/images/original/20240524105557960b0f10e94.png" alt="さくらんぼマラソン大会" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="https://www.higashine-cherry.jp/" target="_blank"  rel="nofollow"><img src="/images/original/202405241056179723e432470.png" alt="東根さくらんぼ" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="https://www.higashine.com/" target="_blank"  rel="nofollow"><img src="/images/original/20240524105636462ca94cbe9.png" alt="観光物産協会" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="https://www.yamagata-airport.co.jp/" target="_blank"  rel="nofollow"><img src="/images/original/202405241057054109ed4f666.gif" alt="山形空港" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="https://www.city.higashine.yamagata.jp/section_list/section028/1872" target="_self"  rel="nofollow"><img src="/images/original/2024062016134044035d6466b.png" alt="こころの体温計" loading="lazy" /></a></li>
+<li class="swiper-slide"><a href="/administration/link/" target="_self"  rel="nofollow"><img src="/images/original/202405241057255393b59d422.png" alt="その他リンク" loading="lazy" /></a></li>
+</ul>
+
+      </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+  </section>
+
+</main>
+
+<div class="pr" id="jsPromotionElements">
+  <div class="inner">
+    <h2>広告欄</h2>
+    <ul class="banner">
+<li class=""><a href="https://www.igkogyo.co.jp/" target="_blank"  rel="sponsored nofollow"><img src="/images/original/20260423102147833fbcfc9e8.jpg" alt="アイジー工業株式会社のホームページへ" loading="lazy" /></a></li>
+<li class=""><a href="https://www.ko-yo-print.info/" target="_blank"  rel="sponsored nofollow"><img src="/images/original/2024011517101425640a8f185.gif" alt="株式会社　光洋印刷のホームページへ" loading="lazy" /></a></li>
+<li class=""><a href="http://www.okaze.co.jp/" target="_blank"  rel="sponsored nofollow"><img src="/images/original/20240115171113936c8cc65fd.gif" alt="株式会社大風印刷のホームページへ" loading="lazy" /></a></li>
+<li class=""><a href="http://www.jahigashine.or.jp/" target="_blank"  rel="sponsored nofollow"><img src="/images/original/202401151710330567f07b5fa.jpg" alt="東根市農業協同組合のホームページへ" loading="lazy" /></a></li>
+<li class=""><a href="https://www.rakuten.co.jp/ultra-taste/" target="_blank"  rel="sponsored nofollow"><img src="/images/original/20240115171052911bdcecf35.jpg" alt="竹城青果のホームページへ" loading="lazy" /></a></li>
+<li class=""><a href="https://www.reform-sion.jp/" target="_blank"  rel="sponsored nofollow"><img src="/images/original/20240115170932114b49f4707.gif" alt="リフォームシオンのホームページへ" loading="lazy" /></a></li>
+<li class=""><a href="/section_list/section001/883" target="_self"  rel="sponsored nofollow"><img src="/images/original/2024011517114889207eeff47.jpg" alt="バナー広告募集中" loading="lazy" /></a></li>
+</ul>
+
+    <div class="about-pr"><a href="/section_list/section001/883">広告掲載について</a></div>
+  </div>
+</div>
+
+
+  <div class="site-footer">
+
+  <nav class="footer-nav">
+    <ul class="footer-nav__list">
+      <li><a href="/website_information/298">東根市ホームページについて</a></li>
+      <li><a href="/website_information/305">個人情報について</a></li>
+      <li><a href="/website_information/otoiawase">お問い合わせ</a></li>
+      <li><a href="/sitemap">サイトマップ</a></li>
+    </ul>
+  </nav>
+
+  <div class="footer-content">
+    <div class="container">
+
+      <div class="higashine-map">
+        <img src="/theme/higashine/images/map.svg" alt="">
+      </div>
+
+      <div class="signature">
+        <h2><img src="/theme/higashine/images/logo-footer.svg" alt="東根市"></h2>
+        〒999-3795　山形県東根市中央 １−１−１<br>
+        代表電話：<b>0237-42-1111</b><br>
+        開庁時間：月曜日から金曜日の午前8時30分から午後5時15分<br>
+        （祝日・年末年始〔12月29日～1月3日〕を除く）
+      </div>
+      <ul class="access-link">
+        <li><a href="/tourism/access/">東根市までの交通</a></li>
+        <li><a href="/section_list/section002/446">東根市役所の場所</a></li>
+      </ul>
+
+    </div>
+  </div>
+
+  <div class="page-top" tabindex="0">
+    <img src="/theme/higashine/images/page-top.svg" alt="ページトップへ">
+  </div>
+
+  <div class="copyright">
+    Copyright HIGASHINE CITY, <wbr>Yamagata, Japan. All Rights Reserved.
+  </div>
+
+</div>
+
+
+  <section class="mobile-navigation">
+
+  <ul class="mobile-menu" id="jsMobileMenu">
+    <li class="menu"><img src="/theme/higashine/images/mobile-menu.svg" alt="メニュー"></li>
+    <li class="search"><img src="/theme/higashine/images/mobile-search.svg" alt="検索"></li>
+    <li class="guide"><img src="/theme/higashine/images/mobile-guide.svg" alt="ガイド"></li>
+  </ul>
+
+  <div class="pane menu">
+    <div class="pane-wrapper">
+      <h2>ナビメニュー</h2>
+      <ul>
+        <li>
+          <a href="/administration/search_guide/">
+            <img src="/theme/higashine/images/mobile-kurashi.svg" alt="市民の生活">
+            <span>市民の生活</span>
+          </a>
+        </li>
+        <li>
+          <a href="/tourism/">
+            <img src="/theme/higashine/images/mobile-kanko.svg" alt="観光情報">
+            <span>観光情報</span>
+          </a>
+        </li>
+        <li>
+          <a href="/section_list/section004/nyusatsujoho/">
+            <img src="/theme/higashine/images/mobile-business.svg" alt="事業者向け">
+            <span>事業者向け</span>
+          </a>
+        </li>
+        <li>
+          <a href="/section_list/">
+            <img src="/theme/higashine/images/mobile-section.svg" alt="課の一覧">
+            <span>課の一覧</span>
+          </a>
+        </li>
+        <li>
+          <a href="/administration/city/">
+            <img src="/theme/higashine/images/mobile-shisei.svg" alt="市政情報">
+            <span>市政情報</span>
+          </a>
+        </li>
+      </ul>
+      <h2>もしものとき</h2>
+      <ul>
+        <li>
+          <a href="/administration/if/bousai">
+            <img src="/theme/higashine/images/mobile-bousai.svg" alt="">
+            <span>防災情報</span>
+          </a>
+        </li>
+        <li>
+          <a href="/section_list/section026/syo_news/">
+            <img src="/theme/higashine/images/mobile-syoubou.svg" alt="">
+            <span>消防本部から</span>
+          </a>
+        </li>
+        <li>
+          <a href="/section_list/section028/kyujitsu-shinryo/">
+            <img src="/theme/higashine/images/mobile-clinic.svg" alt="">
+            <span>休日診療所</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="pane search">
+    <div class="pane-wrapper">
+
+      <h2>キーワードで探す</h2>
+      <div class="cse-search form-site-search">
+        <script>
+          (function() {
+            var cx = '005588481209610904871:hacbpxnprpw';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+          })();
+        </script>
+        <gcse:searchbox-only></gcse:searchbox-only>
+      </div>
+
+      <h2>暮らしのガイドから探す</h2>
+      <ul class="useful">
+        <li><a href="/administration/search_guide/childbirth"><img src="/theme/higashine/images/home/guide-01.svg" alt="妊娠・出産"></a></li>
+        <li><a href="/administration/search_guide/kosodate"><img src="/theme/higashine/images/home/guide-02.svg" alt="子育て・教育"></a></li>
+        <li><a href="/administration/search_guide/kekkonrikon"><img src="/theme/higashine/images/home/guide-03.svg" alt="結婚・離婚"></a></li>
+        <li><a href="/administration/search_guide/sumai"><img src="/theme/higashine/images/home/guide-04.svg" alt="住まい・引越"></a></li>
+        <li><a href="/administration/search_guide/kourei-kaigo"><img src="/theme/higashine/images/home/guide-05.svg" alt="高齢・介護"></a></li>
+        <li><a href="/administration/search_guide/okuyami"><img src="/theme/higashine/images/home/guide-06.svg" alt="おくやみ"></a></li>
+        <li><a href="/administration/search_guide/tetsuduki"><img src="/theme/higashine/images/home/guide-07.svg" alt="手続き・証明"></a></li>
+        <li><a href="/administration/search_guide/nenkin"><img src="/theme/higashine/images/home/guide-08.svg" alt="年金・保険"></a></li>
+        <li><a href="/administration/search_guide/zeikin"><img src="/theme/higashine/images/home/guide-09.svg" alt="税金"></a></li>
+        <li><a href="/administration/search_guide/gomi"><img src="/theme/higashine/images/home/guide-10.svg" alt="ゴミ"></a></li>
+        <li><a href="/administration/search_guide/kenko-fukushi"><img src="/theme/higashine/images/home/guide-11.svg" alt="健康・福祉"></a></li>
+        <li><a href="/administration/search_guide/city-bus"><img src="/theme/higashine/images/home/guide-12.svg" alt="市バス"></a></li>
+      </ul>
+
+    </div>
+  </div>
+
+  <div class="pane guide">
+    <div class="pane-wrapper">
+      <h2>文字サイズ</h2>
+      <div class="font-size">
+        <button class="fs-button" data-fontsize="default">標準</button>
+        <button class="fs-button" data-fontsize="large">大</button>
+      </div>
+      <h2>サイトガイド</h2>
+      <ul class="misc-link">
+        <li><a href="/website_information/304">Foreign Language</a></li>
+        <li><a href="/sitemap">サイトマップ</a></li>
+        <li><a href="/website_information/299">ガイド</a></li>
+      </ul>
+    </div>
+  </div>
+
+</section>
+
+  <script src="/theme/higashine/js/default-script.js?ver=1.0.1"></script>
+<script src="/theme/higashine/lib/swiper-8.4.7/swiper-bundle.min.js"></script>
+<script src="/theme/higashine/js/home-script.js"></script>
+
+</body>
+</html>

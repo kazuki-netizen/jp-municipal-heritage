@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>寺津手人形芝居 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>寺津手人形芝居</h1>
+    <p class="jmh-id">JMH-062103-0014</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字寺津</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 寺津人形保存会; 手人形芝居は、近郷には蔵増（くらぞう）人形芝居を始め、久保手人形芝居（上山市）、山田木偶人形芝居（山形市）、山辺人形芝居（山辺町）、三吉（さんきち）〈面白（おもしろ）〉人形芝居（山辺町）、柴橋人形芝居（寒河江市）、溝延（みぞのべ）人形芝居（河北町）などがあった。 寺津手人形芝居は明治の中頃、寺津の仲島喜五郎が養祖父以来伝わる人形遣いを、父忠次郎とともに仲島人形芝居の一座として結成したものという。 演目は「世話物（現代物）」、「時代物」、「滑稽（こっけい）物」、「怪談物」、「艶（つや）物（恋愛物）」などに分かれる。寺津手人形芝居の出し物として、「三番叟（さんばそう）」「南部坂（なんぶさか）雪のわかれ」「堀部安兵衛の婿入り」「岩見重太郎の猩々退治（しょうじょうたいじ）」「阿波の鳴門（あわのなると）」などがあった。 手人形頭の製作者は、山形の渋江長四郎や新庄の野川隆光(北山)、江戸浅草出身と伝えられる神保平五郎などが知られる。 一座は昭和28年（1953）を最後として姿を消したが、芝居を継承したいと、地元有志が寺津人形芝居保存会を結成した。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"寺津手人形芝居" (JMH-062103-0014), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.345284, 140.320877], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.345284, 140.320877]).addTo(m);
+  </script>
+</body>
+</html>

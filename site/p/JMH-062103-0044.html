@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>臥龍山西常得寺の蟠形杉 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>臥龍山西常得寺の蟠形杉</h1>
+    <p class="jmh-id">JMH-062103-0044</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>天然記念物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字蔵増</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 西常得寺; 蔵増の臥龍山西常得寺の境内で、本堂の左側に実に見事な杉の大木がある。根周り９.23ｍ、幹囲６.61ｍ、樹高約20ｍで、市内最大の太さを誇る杉の巨木である。しかも、かわった特性の杉である。杉はもともと直径であるはずなのに、５～10ｍの高さで、多くの大枝が出て、その内の数本が本幹と並立した幹となって伸びている。さらに、それらの幹が、それぞれに枝を張って、鬱蒼（うっそう）と繁茂しているが、その姿は実に壮観であり、畏怖（いふ）の念を起させる。 この老杉は、夕方天候の変わり目などに、よく木の上部が煙におおわれたように、かすんで見える事がある。これを昔の人は狐や狸の仕業と恐れ、「ばけすぎ」と呼んだといわれる。 また、蟠形杉の名は、真直ぐに伸びるはずの杉が、幾本にも枝分かれして伸びあっている特殊な姿を、蛇がとぐろをまいているように見立てて、名付けられたものであるともいわれている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"臥龍山西常得寺の蟠形杉" (JMH-062103-0044), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.368217, 140.330719], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.368217, 140.330719]).addTo(m);
+  </script>
+</body>
+</html>

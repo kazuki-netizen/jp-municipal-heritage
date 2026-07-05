@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>石佛寺の石仏群 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>石佛寺の石仏群</h1>
+    <p class="jmh-id">JMH-062103-0035</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字高擶</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 石佛寺; 概要: ７体; 製作年代: 鎌倉時代; 石佛寺は弘安(こうあん)年間(1278～87)に一向俊聖(いっこうしゅんじょう)の開基と伝えられる寺院で、もとは山寺街道にそった今の国道13号線の東にあった。そこは「真砂井(まさごい)」といわれ、板碑(いたび)や石塔片が残っている。石佛寺以前にこの地が「最上郡府中庄外郷石仏」と呼ばれていたことは、横浜清澄寺(せいちょうじ)などの阿弥陀如来光背銘(あみだにょらいこうはいめい)より明らかである。したがって、弘安以前からこの石仏群は存在したものと考えられる。 高さ１・32ｍから１・65ｍで、いま５体並び置かれているが、１基のみ旧石佛寺跡に安置されている。凝灰岩製で、いずれも舟形光背(ふながたこうはい)に丸彫りに近い厚肉式に彫られ、風化がすすみかなり損傷している。むかって右端から１番目は合掌する菩薩型立像、２番目はもっとも大きく地蔵菩薩(ぼさつ)と思われ、背後に声聞(しょうもん)型の挿入仏がある。３番目は定印(じょういん)の阿弥陀像(あみだぞう)でもっともよく原型をとどめている。４番目は右手施無畏印(せむいいん)、左手宝珠(ほうじゅ)をもつ地蔵菩薩、５番目は合掌する立像であるが像容は不明である。旧石佛寺のものは小型で大きな持物(じもつ)をもつ菩薩像で垂髪(すいはつ)がある。 このような一石一尊の、土中に植え込み安置する形式の石仏は県内に類例がとぼしいのみならず、鎌倉時代の石仏として貴重である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"石佛寺の石仏群" (JMH-062103-0035), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.344318, 140.33223], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.344318, 140.33223]).addTo(m);
+  </script>
+</body>
+</html>

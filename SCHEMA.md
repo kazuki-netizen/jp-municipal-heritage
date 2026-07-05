@@ -1,17 +1,17 @@
 # SCHEMA (v1)
 
-`data/{pref}.jsonl` (e.g. `iwate.jsonl`, `miyagi.jsonl`, `aomori.jsonl`) is
+`data/{pref}.jsonl` (e.g. `iwate.jsonl`, `miyagi.jsonl`, `aomori.jsonl`, `akita.jsonl`, `yamagata.jsonl`, `fukushima.jsonl`) is
 [JSON Lines](https://jsonlines.org/): one JSON object per line,
 one municipality-designated cultural property (市町村指定文化財) per object. UTF-8.
 `data/{pref}.csv` has the identical columns (UTF-8 with BOM). `data/{pref}.geojson`
-and `data/all.geojson` (combined, all prefectures) carry the same fields inside each
+and `data/all.geojson` (combined, all six prefectures) carry the same fields inside each
 feature's `properties`, plus a derived `geo_precision`.
 
 ## Fields (v1)
 
 | Field | Type | Null? | Description |
 |---|---|---|---|
-| `pref` | string | no | Prefecture name (Japanese). One of `岩手県`, `宮城県`, `青森県` in this release. |
+| `pref` | string | no | Prefecture name (Japanese). One of `青森県`, `岩手県`, `宮城県`, `秋田県`, `山形県`, `福島県` in this (v3) release. |
 | `municipality` | string | no | City/town/village that made the designation (市町村). |
 | `name` | string | no | Official name of the property (名称), as published by the source. |
 | `category` | string | no | Cultural-property **major class**, normalized to the Agency for Cultural Affairs (文化庁) taxonomy — see "Normalization rules" below. One of: `有形文化財`, `無形文化財`, `民俗文化財`, `記念物(史跡・名勝・天然記念物)`, `その他`. |

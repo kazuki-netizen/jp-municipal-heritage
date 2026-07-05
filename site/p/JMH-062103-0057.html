@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>高野坊遺跡出土墨書礫 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>高野坊遺跡出土墨書礫</h1>
+    <p class="jmh-id">JMH-062103-0057</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>考古資料</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字大清水</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 市教育委員会保管; 概要: 55点; 製作年代: 鎌倉時代; 高野坊遺跡は、天童へ移転前の佛向寺があったと伝えられるところに近い。墨書礫は、平成８年（1996）と翌年の発掘調査によって発見された。遺構は失われていたが、方形の土坑の中に埋葬されたものだろうと考えられている。 墨書礫は１字のものから、最多のものは40字余りに及ぶ、表面に「出羽國最上郡成生庄」、「（キリーク） 阿弥陀如来」一向義空 勧進上人 大願主行連 于時応長元暦（1321）」、裏面に「出羽 成生 二十七回忌」と記されたものから、鎌倉時代に記されたものであること、また出土地は成生庄であったことがうかがえる。一向義空は俊聖の私称菩薩号とされ、一向俊聖27回忌を迎え、この墨書礫を認めたと考えられている。一向俊聖（いっこうしゅんじょう）と一遍智真（いっぺんちしん）は同時代に遊行聖（ゆぎょうひじり）として生きたため、その人間像が重なる。「藤原入道」や「後藤和泉」などの礫石の人名は、一向派を支える有力者であったと考えられよう。 佛向寺に伝わる永仁（えいにん）銘の「鉦鼓」や「袖無編衣（そでなしあみごろも）（阿弥衣（あみえ））」、墨書礫は、鎌倉中・後期、成生庄では時衆一向派の活動が盛んだったことを示す史料といえよう。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"高野坊遺跡出土墨書礫" (JMH-062103-0057), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.38932, 140.355362], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.38932, 140.355362]).addTo(m);
+  </script>
+</body>
+</html>

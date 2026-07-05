@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>若松寺古参道沿いの樹叢 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>若松寺古参道沿いの樹叢</h1>
+    <p class="jmh-id">JMH-062103-0046</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>天然記念物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字山元</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 若松寺; 古参道沿いの樹叢とは、麓（ふもと）の洗心橋から若松寺観音堂に至るまでの、古参道沿いの並木として植栽された、現存する15本のスギと11本のケヤキの巨木のことである。古参道一帯はスギの生育には極めて適した環境にあり、いずれのスギも素性よく真っ直ぐ伸びて、老樹でありながら天を衝く勢いのものだけである。それに比べ11本のケヤキの巨木はいずれも捻じれて瘤（こぶ）があり、節だらけでケヤキ本来の姿で育っているものは１本もなく、古参道はケヤキが自生できる環境ではない。それだけに、古参道をスギとケヤキの並木に作り上げた先人の苦労と、それにこたえて逞（たくま）しく生えてきたケヤキの強靭（きょうじん）な生命力に圧倒される。古参道の中程のケヤキ並木に、文政（ぶんせい）７年(1824)に寄進されたといわれる80ｍの自然石の石段がある。石段はケヤキの根の上に作られているが、根により石段が持ち上げられたり、ずらされるという影響は一切受けていない。当時ケヤキはすでに現在の太さに成長し切っていたことを意味する。スギとケヤキ並木は若松寺の歴史と、古参道の歴史的景観を醸し出す貴重なものである。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"若松寺古参道沿いの樹叢" (JMH-062103-0046), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.360462, 140.409607], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.360462, 140.409607]).addTo(m);
+  </script>
+</body>
+</html>

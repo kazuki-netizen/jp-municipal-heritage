@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>愛宕神社石燈籠の竿柱 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>愛宕神社石燈籠の竿柱</h1>
+    <p class="jmh-id">JMH-062103-0019</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>山形県</dd>
+      <dt>市町村</dt><dd>天童市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>大字北目</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者: 愛宕神社; 概要: 長さ65㎝ 幅20㎝ 四角柱; 製作年代: 江戸時代; 本燈籠(とうろう)は宝珠(ほうじゅ)、笠、火袋(ひぶくろ)、中台(ちゅうだい)、竿(さお)、基台等からなるが、竿の部分のみ現存する。地中に埋もれてしまっていたのが掘り出されたものという。最上家の内紛によって破壊された可能性がある。 竿部は四角柱からなり、一面には「奉納石燈籠カ」、二面には「愛宕御寶前」、三面には「慶長拾四年乙酉六月廿四日」、四面には「光氏 祈念成就之所 矢口左衛門尉 角川小源太 角河治部小輔」と刻されている。光氏家臣と思われる人物の姓が最上地方に見られることから、光氏とは義光三男の清水光氏(しみずあきうじ)（義親(よしちか)、氏満(うじみつ)とも）であろう。慶長(けいちょう)８年（1603）、最上義光が愛宕神社再建後に納めたもので、義光治政下の歴史的史料としては唯一のものである。 光氏は竿柱奉納と同年の８月15日、清水(しみず)（現大蔵村清水）本社八幡宮宝殿に金燈籠を奉納している。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html" target="_blank" rel="noopener">https://www.city.tendo.yamagata.jp/tourism/history/sisiteibunkazai.html</a><br>
+      形式: html &middot; 取得日: 2026-07-05</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"愛宕神社石燈籠の竿柱" (JMH-062103-0019), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-05.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([38.344963, 140.358032], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([38.344963, 140.358032]).addTo(m);
+  </script>
+</body>
+</html>
