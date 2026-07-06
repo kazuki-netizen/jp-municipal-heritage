@@ -1,0 +1,18 @@
+{
+  "dfc01513d39229d6": {
+    "url": "https://www.town.meiwa.gunma.jp/life/soshiki/syougaigakusyu/2/syakaikyouiku/2231.html",
+    "filename": "dfc01513d39229d6.html",
+    "sha256": "64dba697eaeed38d5272ef056c316f6daff02c3cfa5c6bd04333116f20f5ed43",
+    "fetched_at": "2026-07-06T08:17:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "173635d6cf22fe8c": {
+    "url": "https://www.town.meiwa.gunma.jp/material/files/group/13/honnbunn.pdf",
+    "filename": "173635d6cf22fe8c.pdf",
+    "sha256": "d4bd5126c75ce5aac456d944c6b5cc80332059445ddabd3639437b58b7db2977",
+    "fetched_at": "2026-07-06T08:17:27Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}
