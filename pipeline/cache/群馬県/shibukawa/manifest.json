@@ -1,0 +1,50 @@
+{
+  "19cfaafcdc727d29": {
+    "url": "https://www.city.shibukawa.lg.jp/kankou/000373/000375/p000294.html",
+    "filename": "19cfaafcdc727d29.html",
+    "sha256": "169a5428a9beb1e9d45329eccb2727cab74d54896c8ca80c847254dcc63699d9",
+    "fetched_at": "2026-07-06T08:16:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "39b3ba821542de83": {
+    "url": "https://www.city.shibukawa.lg.jp/kankou/000373/000375/p000286.html",
+    "filename": "39b3ba821542de83.html",
+    "sha256": "b0c6c7f97ed0fb83924e1e1f88c5d96e2d12ff271cb205227e9b9b3e3e8d2baf",
+    "fetched_at": "2026-07-06T08:16:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d6c4a84ebee3c40b": {
+    "url": "https://www.city.shibukawa.lg.jp/kankou/000373/000375/p000292.html",
+    "filename": "d6c4a84ebee3c40b.html",
+    "sha256": "2d9a8bc7b1da7d8f501d525c1144428dc940b51d40f62a7e74e5aca6545113b8",
+    "fetched_at": "2026-07-06T08:16:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0878825ecad81e3b": {
+    "url": "https://www.city.shibukawa.lg.jp/kankou/000373/000375/p000290.html",
+    "filename": "0878825ecad81e3b.html",
+    "sha256": "3e3072f30474101b12e7495346dc227a0d2ec8c701fb3752c359100e93c89943",
+    "fetched_at": "2026-07-06T08:16:57Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cfecaad9e76ef72b": {
+    "url": "https://www.city.shibukawa.lg.jp/kankou/000373/000375/p000284.html",
+    "filename": "cfecaad9e76ef72b.html",
+    "sha256": "01d3069d76df373da02bb84b3c756ff1a7aec47fd9c694c3c145798f1d606cab",
+    "fetched_at": "2026-07-06T08:17:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6a05695491af54d3": {
+    "url": "https://www.city.shibukawa.lg.jp/kankou/000373/000375/p000288.html",
+    "filename": "6a05695491af54d3.html",
+    "sha256": "1156e1726d31ffb65e761c28c6cd1eeb09469d7a6b0d5e417ffb9121fbf75d85",
+    "fetched_at": "2026-07-06T08:17:04Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

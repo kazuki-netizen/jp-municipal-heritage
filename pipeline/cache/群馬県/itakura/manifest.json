@@ -1,0 +1,18 @@
+{
+  "32acf146b64c582a": {
+    "url": "https://www.town.itakura.gunma.jp/d000030/d000030/d001000/index.html",
+    "filename": "32acf146b64c582a.html",
+    "sha256": "020c9219419c7189cbd6f017634c033e6ff6970d8a2983b8acf650768da049f9",
+    "fetched_at": "2026-07-06T08:17:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6410f591e98e3420": {
+    "url": "https://www.town.itakura.gunma.jp/d000030/d000030/d001100/index.html",
+    "filename": "6410f591e98e3420.html",
+    "sha256": "bdf7bd398eac4a378c0c7356b91ab20e6b236847846db8e04f2fc492a908bb63",
+    "fetched_at": "2026-07-06T08:17:24Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

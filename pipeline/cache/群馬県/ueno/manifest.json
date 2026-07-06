@@ -1,0 +1,18 @@
+{
+  "7a03a57989c95d7a": {
+    "url": "http://uenomura.jp/admin/culture/上野村文化財マップ.html",
+    "filename": "7a03a57989c95d7a.html",
+    "sha256": "4da2ea18ca6fdb47f071684448e8a7702054a222ab1bc04bbc201103c47710b3",
+    "fetched_at": "2026-07-06T08:17:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "64f329e197796a98": {
+    "url": "https://www.uenomura.jp/tourism/play/bunkazai.html",
+    "filename": "64f329e197796a98.html",
+    "sha256": "cf5da3b598f89575ddf890c6f9287311954c9053ab046459ca42504c9a0f65ba",
+    "fetched_at": "2026-07-06T08:17:13Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

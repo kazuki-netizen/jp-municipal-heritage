@@ -1,0 +1,18 @@
+{
+  "96762a3f726f119f": {
+    "url": "https://www.town.oizumi.gunma.jp/s032/kanko/030/040/20200819133228.html",
+    "filename": "96762a3f726f119f.html",
+    "sha256": "0a28e3bb54fb691d2c5fa6c4ebbfb653f4a922972aac6a1135636d3ae184ba57",
+    "fetched_at": "2026-07-06T08:17:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6b683e3277068e91": {
+    "url": "https://www.town.oizumi.gunma.jp/s032/kanko/030/030/20200819131128.html",
+    "filename": "6b683e3277068e91.html",
+    "sha256": "2ae661cb731ea3405706a1020cc6146c77af3d881be1608827db012fe026f793",
+    "fetched_at": "2026-07-06T08:17:30Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

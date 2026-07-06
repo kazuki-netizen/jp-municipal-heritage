@@ -1,0 +1,18 @@
+{
+  "a94474262fd95347": {
+    "url": "https://www.town.tamamura.lg.jp/docs/2020040900052/",
+    "filename": "a94474262fd95347.html",
+    "sha256": "cf1f189c6c2c598ff3f1882948953e62d05f426e5c2dbd5382018f4fb6d0a705",
+    "fetched_at": "2026-07-06T08:17:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f7a163610232e640": {
+    "url": "https://www.town.tamamura.lg.jp/docs/2018060500093/",
+    "filename": "f7a163610232e640.html",
+    "sha256": "a50ebc05f09e35eb4155e9da482e2287e4f9d3c73babf670c61c83dc0ff2dc79",
+    "fetched_at": "2026-07-06T08:17:22Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

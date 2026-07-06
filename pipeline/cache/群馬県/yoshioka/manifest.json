@@ -1,0 +1,18 @@
+{
+  "980b9d5cece4fa88": {
+    "url": "https://www.net.yoshioka.ed.jp/吉岡町文化財センター-1/指定文化財",
+    "filename": "980b9d5cece4fa88.html",
+    "sha256": null,
+    "fetched_at": "2026-07-06T08:17:07Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "73c995026eb0e3d2": {
+    "url": "https://www.town.yoshioka.gunma.jp/kankou/culture/",
+    "filename": "73c995026eb0e3d2.html",
+    "sha256": null,
+    "fetched_at": "2026-07-06T08:17:13Z",
+    "http_status": "error:ConnectionError",
+    "format": "html"
+  }
+}

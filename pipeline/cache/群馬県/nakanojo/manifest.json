@@ -1,0 +1,18 @@
+{
+  "07f1b955c67da925": {
+    "url": "https://www.town.nakanojo.gunma.jp/soshiki/15/1345.html",
+    "filename": "07f1b955c67da925.html",
+    "sha256": "facc300b4a41e4dbe285d1feacc5f9930c235d3a6263f993b3f9c5c0f726a5fe",
+    "fetched_at": "2026-07-06T08:17:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2e6035731e0cf489": {
+    "url": "https://www.town.nakanojo.gunma.jp/soshiki/15/1167.html",
+    "filename": "2e6035731e0cf489.html",
+    "sha256": "f6e84ae5e9253f3b9c71086cac80f6891b0bd09f724f85d3a04a1ad17859262b",
+    "fetched_at": "2026-07-06T08:17:16Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}
