@@ -1,0 +1,178 @@
+{
+  "71f254b48cd3914a": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/kodomomuke.html",
+    "filename": "71f254b48cd3914a.html",
+    "sha256": "d8a63a14c5edd3f630cbb98ff06df3dece0a1feae42abbba9cdf3c181b5cb9e1",
+    "fetched_at": "2026-07-06T01:51:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5e757a2827ff3dee": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/bunkazai02.html",
+    "filename": "5e757a2827ff3dee.html",
+    "sha256": "6727a47c475646a7763c99949fd9babb6c7100670c7b020a729bf4b72e96b6cb",
+    "fetched_at": "2026-07-06T01:51:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5319a4473c8ea346": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/2017-1111-0940-99.html",
+    "filename": "5319a4473c8ea346.html",
+    "sha256": "ad4685cf8e837f1e3a4690f67065bc59e0c6bbcd93d942a392d23f21abcd7d0f",
+    "fetched_at": "2026-07-06T06:11:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "72432c9a3835921e": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/fusuku.html",
+    "filename": "72432c9a3835921e.html",
+    "sha256": "f133274c065571cc8913e4f86a96a66e0df3b1f3564e2c9298116dcd88449335",
+    "fetched_at": "2026-07-06T06:11:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e601c7ba2334380c": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/hanaoka.html",
+    "filename": "e601c7ba2334380c.html",
+    "sha256": "dcdfe727e8763f53e6aaf11ca09dc5091fc18fd10a6d3674516b45aa3678bfd5",
+    "fetched_at": "2026-07-06T06:11:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "02365a4fd131c2e2": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/housyakuzi.html",
+    "filename": "02365a4fd131c2e2.html",
+    "sha256": "726e288ad5bac83d75f756d469cb218f28903f951f9b2ed80164456e982d1bff",
+    "fetched_at": "2026-07-06T06:11:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dce40e126795a952": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/iimuro.html",
+    "filename": "dce40e126795a952.html",
+    "sha256": "9b85fc11c4abe23aab9cd245c901d44c8f77b6bd889d2a813f35e924467f2b7a",
+    "fetched_at": "2026-07-06T06:11:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "35aaa1ca0ef1b380": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/kamitakanezawa.html",
+    "filename": "35aaa1ca0ef1b380.html",
+    "sha256": "f13fa28eaeebd7b359af33b808de7b8672017105ffcbc55267e8951a69d69472",
+    "fetched_at": "2026-07-06T06:11:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "86f94483f31c2bca": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/kenponcyakusyoku.html",
+    "filename": "86f94483f31c2bca.html",
+    "sha256": "e927e08681168b86fbd3a56be2c598b16460fa25f2f551726f7c55b37c7276b5",
+    "fetched_at": "2026-07-06T06:11:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7ba389bba506d2e7": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/kuwakubotiku.html",
+    "filename": "7ba389bba506d2e7.html",
+    "sha256": "c04ee9e9742b8527ecf9d8d7bf391d5eb1834e9e996a9a663a816f56d3ccc0fa",
+    "fetched_at": "2026-07-06T06:11:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5f4033cadcd6c18f": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/mukeiminnzoku.html",
+    "filename": "5f4033cadcd6c18f.html",
+    "sha256": "a3dd1fa64933067545e6bdb69cad5889acc015f7cfb19a737710eb16ebb24537",
+    "fetched_at": "2026-07-06T06:11:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c8f9b73d45b5222e": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/nakaakutu.html",
+    "filename": "c8f9b73d45b5222e.html",
+    "sha256": "c0cf56414986a8165efd741c2b261c65dc7d7f72319387bf78c9403410933591",
+    "fetched_at": "2026-07-06T06:11:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d51cfc47693ef5cc": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/oooya.html",
+    "filename": "d51cfc47693ef5cc.html",
+    "sha256": "4654723c5d4aa70c2a4e4d37cb3358553146daf25cc6eb2e4a4afe9406861b5a",
+    "fetched_at": "2026-07-06T06:11:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dddaf81da8eba8b0": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/sihonbokuga.html",
+    "filename": "dddaf81da8eba8b0.html",
+    "sha256": "01cc0180240de62eb527a33f378d90c9813d2ea5130e64ca44f2157c69bf7c11",
+    "fetched_at": "2026-07-06T06:11:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "62c0e7f28bd1ac9f": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/sihontansaikohan.html",
+    "filename": "62c0e7f28bd1ac9f.html",
+    "sha256": "16a51dada6ee482ed7054353bedeb3fb29c5bb8e7eb8a39b331b2ca1e2ed163a",
+    "fetched_at": "2026-07-06T06:11:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "04d709ed407bc8f4": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/sihontansaimeisigi.html",
+    "filename": "04d709ed407bc8f4.html",
+    "sha256": "e04d45f20374bad4d266c4fa73caf4414a35397f71f587fed58fb414f2dd5d3f",
+    "fetched_at": "2026-07-06T06:11:46Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9d9cb4dbb362b6ce": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/sihontansaiwasi.html",
+    "filename": "9d9cb4dbb362b6ce.html",
+    "sha256": "45b3a6b8fec41896c12a61b1b8fad8d6045477ac6369df964b1ef2a3a6ff2884",
+    "fetched_at": "2026-07-06T06:11:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bba23eb3670cd96f": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/siseki.html",
+    "filename": "bba23eb3670cd96f.html",
+    "sha256": "96cb6074329fab880344cefb2d41b40f2bd068f69c743dba2583e7c88decfb56",
+    "fetched_at": "2026-07-06T06:11:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "503a513d68aea62b": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/tennenkinenbutu.html",
+    "filename": "503a513d68aea62b.html",
+    "sha256": "aa746c3a49e2505bb238701017545257fbce8927ccb8926122b7e9fe606bcb6a",
+    "fetched_at": "2026-07-06T06:11:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "981d68ea6eae432c": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/yasuzumi.html",
+    "filename": "981d68ea6eae432c.html",
+    "sha256": "67ba204b7e4785b3601ae54d3860eb521c2a72bccb751413fdeee0273d85da85",
+    "fetched_at": "2026-07-06T06:11:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4162a8c1627a458a": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/yukeibunkazai.html",
+    "filename": "4162a8c1627a458a.html",
+    "sha256": "a11b65470541c08a29b88308dd12f1d95f5c274c8aec22a7430e95b701fbe8aa",
+    "fetched_at": "2026-07-06T06:11:59Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2a7e64375c5b30f8": {
+    "url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/yukeiminzokiubunkazai.html",
+    "filename": "2a7e64375c5b30f8.html",
+    "sha256": "97d211c0e3c3d3c77cad638442a507384b09f7c6e1fc9c79c735524fd6295dc7",
+    "fetched_at": "2026-07-06T06:12:02Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

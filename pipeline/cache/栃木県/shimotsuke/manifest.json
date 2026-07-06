@@ -1,0 +1,146 @@
+{
+  "4d275f78a8f337df": {
+    "url": "http://www.shimotsuke-bunkazai.com/list.php",
+    "filename": "4d275f78a8f337df.html",
+    "sha256": "a5bd5cf290af7946971ce67179b9bb2b47ea64df8c28960b1e03a166a863397a",
+    "fetched_at": "2026-07-06T01:51:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2c29ef480243e1ff": {
+    "url": "http://www.shimotsuke-bunkazai.com/list.php?type_id=4",
+    "filename": "2c29ef480243e1ff.html",
+    "sha256": "260a6a1606667fdfcbd09d39eee5ebcc7e2c0b319d8ccb429adb46a51fce5e9d",
+    "fetched_at": "2026-07-06T01:51:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0064c9e737f58e12": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=52",
+    "filename": "0064c9e737f58e12.html",
+    "sha256": "aa4500688f759507eaa46919f005787cce06524a225dc3606b87c2ae89a67af2",
+    "fetched_at": "2026-07-06T06:02:07Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5d50b57ed7096827": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=53",
+    "filename": "5d50b57ed7096827.html",
+    "sha256": "02127402db1d3b0b11027393f788005217e92bc1fc52d355a7088d6b87c09574",
+    "fetched_at": "2026-07-06T06:02:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3e47b7623103f112": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=54",
+    "filename": "3e47b7623103f112.html",
+    "sha256": "0a7f3d7ec5af8f032ce60bdd8278f063daa816f3c00a55c63c5d179f513187ba",
+    "fetched_at": "2026-07-06T06:02:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "939ab7279ae7393a": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=56",
+    "filename": "939ab7279ae7393a.html",
+    "sha256": "530a423d6960e4ee364025a4c5cb6e8e8f8291661017debbf4ba1576ad655eb4",
+    "fetched_at": "2026-07-06T06:02:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0e9d98abb0c0c4a9": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=57",
+    "filename": "0e9d98abb0c0c4a9.html",
+    "sha256": "300ac3c915a0b8f855f5b8d0acb102ce8918dfbc0baa14367cb12dab523d73fb",
+    "fetched_at": "2026-07-06T06:02:18Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "97dd4e67de7ecfa2": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=58",
+    "filename": "97dd4e67de7ecfa2.html",
+    "sha256": "f839ac4b0ecbd85f22530cc5d29bbd8c03796403ca78e9564a38620b77e68bfb",
+    "fetched_at": "2026-07-06T06:02:21Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8c5221d7a50cf9a4": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=59",
+    "filename": "8c5221d7a50cf9a4.html",
+    "sha256": "8b790b84c04b02ed8bb756b2204ec5ca42fde672955e27091008109fcf8b3fbc",
+    "fetched_at": "2026-07-06T06:02:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "766dcd3bc2dd5833": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=60",
+    "filename": "766dcd3bc2dd5833.html",
+    "sha256": "9a306c31fe670d2b00b82596b1f34839c06bd9184741ec1ac5351a7f69be3f3d",
+    "fetched_at": "2026-07-06T06:02:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "eb7d368b54c36762": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=61",
+    "filename": "eb7d368b54c36762.html",
+    "sha256": "1da9ebbe6cd56b713125b414b95805e767d6549a9df8f400ee0e37301717e819",
+    "fetched_at": "2026-07-06T06:02:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42e75a867e4f8ec0": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=63",
+    "filename": "42e75a867e4f8ec0.html",
+    "sha256": "ca4675bfa9ceb88f88e4d2766bbe2d7d6154ba5e8dcd5138972f39034d055d82",
+    "fetched_at": "2026-07-06T06:02:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "eff2b4a7ed524808": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=64",
+    "filename": "eff2b4a7ed524808.html",
+    "sha256": "e64e90a1ed722e3f80db4623c65d0c06a8bbf26f59c9a8b58b9d0d0e2acec456",
+    "fetched_at": "2026-07-06T06:02:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1dbb49daac6dee54": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=65",
+    "filename": "1dbb49daac6dee54.html",
+    "sha256": "651e84a72531fc2f2a94a24e48fd60aec203249d34c3e87a2d6835d85181846f",
+    "fetched_at": "2026-07-06T06:02:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "50e695d405077aa4": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=66",
+    "filename": "50e695d405077aa4.html",
+    "sha256": "75abb63789e29006149f86730edfae0b43d68cedb24d01fc287637879e1db9bc",
+    "fetched_at": "2026-07-06T06:02:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3ace39b6b964736e": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=67",
+    "filename": "3ace39b6b964736e.html",
+    "sha256": "c26f7ef3a5cf34c33125d00c9b36052fa799f7865e37eba10e939aecb09c7d94",
+    "fetched_at": "2026-07-06T06:02:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a174dc810d915743": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=68",
+    "filename": "a174dc810d915743.html",
+    "sha256": "2249c01bdd49ea24479d47602849dd424e849ee0f493befff8e5bda8bf050f22",
+    "fetched_at": "2026-07-06T06:02:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "20e83947eaa1c841": {
+    "url": "https://www.shimotsuke-bunkazai.com/culturalassets.php?id=69",
+    "filename": "20e83947eaa1c841.html",
+    "sha256": "54f79344e2ce12ed12032c3ab48c935c79ad6a693e8a32a36879a208508e5b56",
+    "fetched_at": "2026-07-06T06:02:48Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

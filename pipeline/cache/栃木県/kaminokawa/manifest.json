@@ -1,0 +1,26 @@
+{
+  "e89ec8491851a54e": {
+    "url": "https://www.town.kaminokawa.lg.jp/0243/genre3-0-001.html",
+    "filename": "e89ec8491851a54e.html",
+    "sha256": "6a6cfa39fa2d54432685c7019363c007c0970bc1db487428d7f55197829443a6",
+    "fetched_at": "2026-07-06T01:51:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f1cce3955ab9dd77": {
+    "url": "https://www.town.kaminokawa.lg.jp/0243/genre3-0-002.html",
+    "filename": "f1cce3955ab9dd77.html",
+    "sha256": "da6647ce408040306aa4f40f7e578fc3a7918992dac3dc0f827f8adfccb231d9",
+    "fetched_at": "2026-07-06T01:51:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bec29e8d553a2d6a": {
+    "url": "https://www.town.kaminokawa.lg.jp/0243/genre3-0-003.html",
+    "filename": "bec29e8d553a2d6a.html",
+    "sha256": "5fc3f0ab45c69958b0dd6ebe1073c4d6c9748df2e8e859b94d6a1259927c28c7",
+    "fetched_at": "2026-07-06T01:51:26Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "t00_ashikaga": {
+    "pref": "栃木県",
+    "municipality": "足利市",
+    "slug": "ashikaga",
+    "source_url": "https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001321.html",
+    "source_format": "html/csv",
+    "fetched_at": "2026-07-06T01:53:08Z",
+    "official_count": null
+  },
+  "t01_sano": {
+    "pref": "栃木県",
+    "municipality": "佐野市",
+    "slug": "sano",
+    "source_url": "https://www.geospatial.jp/ckan/dataset/7252db53-41df-4c2a-a432-e8b5d15ba1d5/resource/9d7e4b44-4d84-4237-bce5-cdcab0492871/download/02.csv",
+    "source_format": "html/csv",
+    "fetched_at": "2026-07-06T06:13:16Z",
+    "official_count": null
+  },
+  "t02_otawara": {
+    "pref": "栃木県",
+    "municipality": "大田原市",
+    "slug": "otawara",
+    "source_url": "https://www.geospatial.jp/ckan/dataset/cea8cd82-151a-449b-806f-8658212d5292/resource/c911951c-29e2-4997-b3cb-7246d7cf90d8/download/092100050201-3.csv",
+    "source_format": "html/csv",
+    "fetched_at": "2026-07-06T06:13:16Z",
+    "official_count": 151
+  },
+  "t03_nasu": {
+    "pref": "栃木県",
+    "municipality": "那須町",
+    "slug": "nasu",
+    "source_url": "https://www.town.nasu.lg.jp/0000/info-0000003962-1.html",
+    "source_format": "html/csv",
+    "fetched_at": "2026-07-06T01:51:31Z",
+    "official_count": null
+  },
+  "t04_kanuma": {
+    "pref": "栃木県",
+    "municipality": "鹿沼市",
+    "slug": "kanuma",
+    "source_url": "https://www.city.kanuma.tochigi.jp/0297/info-0000001784-0.html",
+    "source_format": "html/csv",
+    "fetched_at": "2026-07-06T06:05:23Z",
+    "official_count": null
+  },
+  "t05_shimotsuke": {
+    "pref": "栃木県",
+    "municipality": "下野市",
+    "slug": "shimotsuke",
+    "source_url": "http://www.shimotsuke-bunkazai.com/list.php",
+    "source_format": "html/csv",
+    "fetched_at": "2026-07-06T01:51:20Z",
+    "official_count": 16
+  },
+  "t06_takanezawa": {
+    "pref": "栃木県",
+    "municipality": "高根沢町",
+    "slug": "takanezawa",
+    "source_url": "https://www.town.takanezawa.tochigi.jp/learning/rekishi/bunkazai/kodomomuke.html",
+    "source_format": "html/csv",
+    "fetched_at": "2026-07-06T01:51:29Z",
+    "official_count": 52
+  }
+}

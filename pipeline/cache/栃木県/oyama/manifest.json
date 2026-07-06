@@ -1,0 +1,26 @@
+{
+  "65b95fbe3fdf0445": {
+    "url": "https://www.city.oyama.tochigi.jp/kankou-bunka/rekishi_bunka/bunkazai/page000031.html",
+    "filename": "65b95fbe3fdf0445.html",
+    "sha256": "136086bf36f7ae64ea0a7bb5933f452727a690176ffd2c6e236c05ae12870970",
+    "fetched_at": "2026-07-06T01:51:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9914ea88f545440d": {
+    "url": "https://www.city.oyama.tochigi.jp/kankou-bunka/rekishi_bunka/bunkazai/page000032.html",
+    "filename": "9914ea88f545440d.html",
+    "sha256": "da3dd2235cef1a8ca876c7e33f0e51fb45ba4b3e23705d46b5411ffc067db837",
+    "fetched_at": "2026-07-06T01:51:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "25fe56a989e70e9d": {
+    "url": "https://www.city.oyama.tochigi.jp/kankou-bunka/rekishi_bunka/bunkazai/page000036.html",
+    "filename": "25fe56a989e70e9d.html",
+    "sha256": "f2807101a6cb834f3ba596edbb13b6c01b462d41d2ac8b4a62ddcef5cfa5fe41",
+    "fetched_at": "2026-07-06T01:51:17Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}
