@@ -1,0 +1,18 @@
+{
+  "dd163bf534242d68": {
+    "url": "https://www.city.ashikaga.tochigi.jp/site/bunkazai/bunkazai-shishitei.html",
+    "filename": "dd163bf534242d68.html",
+    "sha256": null,
+    "fetched_at": "2026-07-06T01:51:09Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "8895ba6ba86f0c8c": {
+    "url": "https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001321.html",
+    "filename": "8895ba6ba86f0c8c.html",
+    "sha256": "6ca6b8f841794a816cbe68f48070d3cca5640d985fb12479a93a46980cae649f",
+    "fetched_at": "2026-07-06T01:53:08Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

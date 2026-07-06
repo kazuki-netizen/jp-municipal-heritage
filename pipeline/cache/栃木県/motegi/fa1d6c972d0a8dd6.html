@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+                    <meta charset="utf-8">
+            <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width">
+            <link rel="stylesheet" type="text/css" href="/motegi/furusato/js/third-party/unslider/unslider.css">
+            <link rel="stylesheet" type="text/css" href="/motegi/furusato/js/third-party/unslider/unslider-dots.css">
+            <link rel="stylesheet" type="text/css" href="/motegi/js/slick/slick.css">
+            <link rel="stylesheet" type="text/css" href="/motegi/js/slick/slick-theme.css">
+            <link rel="stylesheet" type="text/css" href="/motegi/css/icon.css?201806211147">
+            <link rel="stylesheet" type="text/css" href="/motegi/css/bootstrap-material-design-blue.css?202111010000" class="css-theme-2">
+            <link rel="stylesheet" type="text/css" href="/motegi/css/bootstrap-material-design-dark.css?202111010000" class="css-theme-1">
+            <link rel="stylesheet" type="text/css" href="/motegi/css/bootstrap-material-design.css?202111010000" class="main-theme">
+            <link rel="stylesheet" type="text/css" href="/motegi/css/main-blue.css?20230728" class="css-theme-2">
+            <link rel="stylesheet" type="text/css" href="/motegi/css/main-dark.css?20230728" class="css-theme-1">
+            <link rel="stylesheet" type="text/css" href="/motegi/css/main.css?20230728" class="main-theme">
+            <!--[if lt IE 9]>
+              <script type="text/javascript" src="/motegi/js/html5shiv/html5shiv.js"></script>
+              <script type="text/javascript" src="/motegi/js/respond/respond.min.js"></script>
+            <![endif]-->
+            <title>茂木町ホームページ | 茂木町の文化財</title>
+        <style>
+            .fb_iframe_widget > span {
+                vertical-align: baseline !important;
+            }
+        </style>
+    </head>
+    <body>
+                    <a href="#main" class="mt-skip-link">
+                メインコンテンツにスキップ
+            </a>
+            <div class="container-fluid">
+                <div class="row mt-top-navi-container">
+                    <div class="col-sm-12 js-switch pb-0 m-0" style="background-size: cover; height: 200px; position: absolute;"></div>
+                    <div class="mt-top-image-mask"></div>
+                    <div class="mt-top-navbar">
+                        <nav
+                            id="header"
+                            class="navbar shadow-none navbar-light justify-content-between align-items-start border-top border-theme"
+                        >
+                            <a class="navbar-brand" href="/">
+                                <div class="d-flex align-items-center">
+                                    <div class="mr-3">
+                                        <img src="/motegi/image/symbol.png" class="mt-logo-image" alt="茂木町町章">
+                                    </div>
+                                    <div>
+                                        <div class="d-flex flex-column">
+                                            <div class="text-center">
+                                                <span class="h2 mt-logo-outline mt-logo mt-logo-primary">栃木県 茂木町</span>
+                                            </div>
+                                            <div class="text-center">
+                                                <span class="mt-logo-outline mt-logo mt-logo-secondary">Motegi Town</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            <div id="navbar-commands" class="d-none d-sm-block">
+                                <div class="d-inline-flex">
+                                    <div class="mx-1 dropdown lang-select">
+                                        <button
+                                            class="btn btn-raised btn-primary bg-primary text-light dropdown-toggle"
+                                            type="button"
+                                            data-toggle="dropdown"
+                                            aria-haspopup="true"
+                                            aria-expanded="false"
+                                        >
+                                            language
+                                        </button>
+                                        <div class="dropdown-menu" aria-labelledby="language-selector"><a class="dropdown-item" href="#" data-lang="en" data-toggle="modal" data-target="#language-modal">English</a><a class="dropdown-item" href="#" data-lang="zh-CN" data-toggle="modal" data-target="#language-modal">简体中文</a><a class="dropdown-item" href="#" data-lang="zh-TW" data-toggle="modal" data-target="#language-modal">繁體中文</a><a class="dropdown-item" href="#" data-lang="ko" data-toggle="modal" data-target="#language-modal">한국어</a><a class="dropdown-item" href="#" data-lang="pt" data-toggle="modal" data-target="#language-modal">português</a><a class="dropdown-item" href="#" data-lang="es" data-toggle="modal" data-target="#language-modal">español</a>
+                                        </div>
+                                    </div>
+                                    <div class="mx-1 dropdown">
+                                        <button
+                                            class="btn btn-raised btn-primary bg-primary text-light dropdown-toggle"
+                                            type="button"
+                                            data-toggle="dropdown"
+                                            aria-haspopup="true"
+                                            aria-expanded="false"
+                                        >
+                                            色合い
+                                        </button>
+                                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="theme-selector">
+                                            <a type="button" class="dropdown-item js-theme-selector" href="#" data-value="main-theme">
+                                                白
+                                            </a>
+                                            <a type="button" class="dropdown-item js-theme-selector" href="#" data-value="css-theme-1">
+                                                黒
+                                            </a>
+                                            <a type="button" class="dropdown-item js-theme-selector" href="#" data-value="css-theme-2">
+                                                青
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="mx-1 dropdown">
+                                        <button
+                                            class="btn btn-raised btn-primary bg-primary text-light dropdown-toggle"
+                                            type="button"
+                                            data-toggle="dropdown"
+                                            aria-haspopup="true"
+                                            aria-expanded="false"
+                                        >
+                                            文字サイズ
+                                        </button>
+                                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="size-selector">
+                                            <a type="button" class="dropdown-item js-size-selector" href="#" data-value="12">
+                                                小
+                                            </a>
+                                            <a type="button" class="dropdown-item js-size-selector" href="#" data-value="16">
+                                                中
+                                            </a>
+                                            <a type="button" class="dropdown-item js-size-selector" href="#" data-value="19">
+                                                大
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-block d-sm-none">
+                                <a
+                                    class="btn btn-raised btn-light"
+                                    data-toggle="collapse"
+                                    href="#collapseExample"
+                                    role="button"
+                                    aria-expanded="false"
+                                    aria-controls="collapseExample"
+                                    title="モバイル用のバーガーメニュー"
+                                >
+                                    <span class="navbar-toggler-icon"></span>
+                                    <span class="d-none">メニューを開く/閉じる</span>
+                                </a>
+                            </div>
+                            <div class="collapse mt-top-collapse flex-fill" id="collapseExample">
+                                <div class="card card-body bg-light">
+                                    <div class="d-flex justify-content-center">
+                                        <div class="mx-1 dropdown lang-select">
+                                            <button
+                                                class="btn btn-raised btn-primary bg-primary text-light dropdown-toggle"
+                                                type="button"
+                                                data-toggle="dropdown"
+                                                aria-haspopup="true"
+                                                aria-expanded="false"
+                                            >
+                                                language
+                                            </button>
+                                            <div class="dropdown-menu" aria-labelledby="language-selector"><a class="dropdown-item" href="#" data-lang="en" data-toggle="modal" data-target="#language-modal">English</a><a class="dropdown-item" href="#" data-lang="zh-CN" data-toggle="modal" data-target="#language-modal">简体中文</a><a class="dropdown-item" href="#" data-lang="zh-TW" data-toggle="modal" data-target="#language-modal">繁體中文</a><a class="dropdown-item" href="#" data-lang="ko" data-toggle="modal" data-target="#language-modal">한국어</a><a class="dropdown-item" href="#" data-lang="pt" data-toggle="modal" data-target="#language-modal">português</a><a class="dropdown-item" href="#" data-lang="es" data-toggle="modal" data-target="#language-modal">español</a>
+                                            </div>
+                                        </div>
+                                        <div class="mx-1 dropdown">
+                                            <button
+                                                class="btn btn-raised btn-primary bg-primary text-light dropdown-toggle"
+                                                type="button"
+                                                data-toggle="dropdown"
+                                                aria-haspopup="true"
+                                                aria-expanded="false"
+                                            >
+                                                色合い
+                                            </button>
+                                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="theme-selector">
+                                                <a type="button" class="dropdown-item js-theme-selector" href="#" data-value="main-theme">
+                                                    白
+                                                </a>
+                                                <a type="button" class="dropdown-item js-theme-selector" href="#" data-value="css-theme-1">
+                                                    黒
+                                                </a>
+                                                <a type="button" class="dropdown-item js-theme-selector" href="#" data-value="css-theme-2">
+                                                    青
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="mx-1 dropdown">
+                                            <button
+                                                class="btn btn-raised btn-primary bg-primary text-light dropdown-toggle"
+                                                type="button"
+                                                data-toggle="dropdown"
+                                                aria-haspopup="true"
+                                                aria-expanded="false"
+                                            >
+                                                文字サイズ
+                                            </button>
+                                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="size-selector">
+                                                <a type="button" class="dropdown-item js-size-selector" href="#" data-value="12">
+                                                    小
+                                                </a>
+                                                <a type="button" class="dropdown-item js-size-selector" href="#" data-value="16">
+                                                    中
+                                                </a>
+                                                <a type="button" class="dropdown-item js-size-selector" href="#" data-value="19">
+                                                    大
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="mt-top-navi d-flex">
+                                        <div class="mt-top-navi-flex flex-column">
+                                            <a href="/motegi/nextpage.php?cd=13&syurui=0" class="mt-top-navi-btn mt-top-navi-kurashi">
+                                                暮らし・手続き
+                                            </a>
+                                            <a href="/motegi/nextpage.php?cd=46726&syurui=0" class="mt-top-navi-btn mt-top-navi-kosodate">
+                                                子育て・教育
+                                            </a>
+                                            <a href="/motegi/nextpage.php?cd=46692&syurui=0" class="mt-top-navi-btn mt-top-navi-kenko">
+                                                福祉・健康
+                                            </a>
+                                            <a href="/motegi/nextpage.php?cd=46769&syurui=0" class="mt-top-navi-btn mt-top-navi-anzen">
+                                                安全・安心
+                                            </a>
+                                            <a href="/motegi/nextpage.php?cd=11&syurui=0" class="mt-top-navi-btn mt-top-navi-tyosei">
+                                                町政情報
+                                            </a>
+                                            <a href="/motegi/nextpage.php?cd=46775&syurui=0" class="mt-top-navi-btn mt-top-navi-kanko">
+                                                商工・観光・農業
+                                            </a>
+                                            <a href="/motegi/nextpage.php?cd=46765&syurui=0" class="mt-top-navi-btn mt-top-navi-shisetsu">
+                                                茂木町の施設
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex justify-content-center">
+                                        <a class="btn btn-raised btn-primary text-light" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                                            閉じる
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                        <div class="mt-top-navi">
+                            <div class="mt-top-navi-flex">
+                                <a href="/motegi/nextpage.php?cd=13&syurui=0" class="mt-top-navi-btn mt-top-navi-kurashi">
+                                    暮らし・手続き
+                                </a>
+                                <a href="/motegi/nextpage.php?cd=46726&syurui=0" class="mt-top-navi-btn mt-top-navi-kosodate">
+                                    子育て・教育
+                                </a>
+                                <a href="/motegi/nextpage.php?cd=46692&syurui=0" class="mt-top-navi-btn mt-top-navi-kenko">
+                                    福祉・健康
+                                </a>
+                                <a href="/motegi/nextpage.php?cd=46769&syurui=0" class="mt-top-navi-btn mt-top-navi-anzen">
+                                    安全・安心
+                                </a>
+                                <a href="/motegi/nextpage.php?cd=11&syurui=0" class="mt-top-navi-btn mt-top-navi-tyosei">
+                                    町政情報
+                                </a>
+                                <a href="/motegi/nextpage.php?cd=46775&syurui=0" class="mt-top-navi-btn mt-top-navi-kanko">
+                                    商工・観光・農業
+                                </a>
+                                <a href="/motegi/nextpage.php?cd=46765&syurui=0" class="mt-top-navi-btn mt-top-navi-shisetsu">
+                                    茂木町の施設
+                                </a>
+                            </div>
+                        </div>
+                    </div>                </div>
+            </div>
+        <div class="container-fluid" id="main">
+            <div class="row mt-container">
+                <div class="mt-contents-container mb-3">  <div class="col-12">      <nav aria-label="breadcrumb">          <ol class="breadcrumb bg-light">              <li class="breadcrumb-item"><a class="breadcrumb-item" href="/"> トップページ</a></li><li class="breadcrumb-item"><a class="breadcrumb-item" href="/motegi/nextpage.php?cd=46775&amp;syurui=1"> 商工・観光・農業</a></li><li class="breadcrumb-item"><a class="breadcrumb-item" href="/motegi/nextpage.php?cd=46776&amp;syurui=1"> 観光</a></li>          </ol>      </nav>  </div><div class="col-12">    <div class="alert alert-primary" role="alert">茂木町の文化財</div></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=395&amp;syurui=2">        旧羽石家住宅    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=396&amp;syurui=2">        能持院総門    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=397&amp;syurui=2">        小貫観音堂・附石燈籠    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=398&amp;syurui=2">        絹本著色唐美人図(4幅)    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=400&amp;syurui=2">        絹本著色鮎魚遡漲水之図    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=401&amp;syurui=2">        紙本墨画猿田彦碓女命之図    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=402&amp;syurui=2">        銅造観音勢至菩薩立像・脇侍(2躯)    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=399&amp;syurui=2">        木造薬師如来座像    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=403&amp;syurui=2">        松倉山観音堂仏像    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=404&amp;syurui=2">        木造丈六阿弥陀如来坐像    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=405&amp;syurui=2">        木造十一面観音菩薩立像    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=406&amp;syurui=2">        紙本墨書小深検地帳    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=407&amp;syurui=2">        山内上組百堂念仏    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=408&amp;syurui=2">        細川家の墓所    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=409&amp;syurui=2">        千本城跡    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=410&amp;syurui=2">        覚成院のカヤ    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=411&amp;syurui=2">        荒橿神社のケヤキ    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=412&amp;syurui=2">        河井八幡宮の社叢    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=414&amp;syurui=2">        小山のヤマザクラ    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=415&amp;syurui=2">        九石のケヤキ    </a></div><div class="col-12 mb-3">    <span class="icon-file-text text-info"/>    <a href="/motegi/nextpage.php?cd=416&amp;syurui=2">        小貫のヒイラギ    </a></div>                </div>
+                        <div class="mt-side-navi-container mb-3">
+            <div class="card mt-search bg-light mb-3">
+                <div class="card-header border-0 h6">
+                    サイト内検索
+                </div>
+                <div class="card-body p-2 m-0">
+                    <form
+                        action="/motegi/sitesearch.php"
+                        class="m-0"
+                        method="GET"
+                    >
+                        <div class="p-2">
+                            <input
+                                class="d-inline-block border border-primary form-control mt-search-box mt-search-subbox p-2 mb-3 w-100"
+                                type="text"
+                                name="keyword"
+                                aria-label="検索"
+                                placeholder="キーワードを入力して下さい。"
+                            >
+                            <button
+                                type="submit"
+                                class="btn btn-block btn-raised btn-primary text-light p-2 mb-0"
+                            >
+                                検索
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="card border border-primary mb-3">
+                <div class="card-header bg-primary">
+                    <div class="h6 text-light mb-0">
+                        公式SNS
+                    </div>
+                </div>
+                <div class="card-body bg-light">
+                    <div class="clearfix">
+                        <a
+                            href="https://www.facebook.com/town.motegi"
+                            class="d-block float-left mr-3"
+                            style="width: 32px;"
+                            target="_blank"
+                        >
+                            <img src="/motegi/image/f-ogo_RGB_HEX-58.png" alt="facebook" style="width: 32px; height: 32px;">
+                        </a>
+                        <a
+                            href="https://www.instagram.com/motegitown/"
+                            class="d-block float-left mr-3"
+                            style="width: 32px;"
+                            target="_blank"
+                        >
+                            <img src="/motegi/image/IG_Glyph_Fill.png" alt="instagram" style="width: 32px; height: 32px;">
+                        </a>
+                        <a
+                            href="https://twitter.com/yuzumotegi"
+                            class="d-block float-left mr-3"
+                            style="width: 32px;"
+                            target="_blank"
+                        >
+                            <img src="/motegi/image/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" style="width: 32px; height: 32px;">
+                        </a>
+                        <a
+                            href="https://www.youtube.com/channel/UC5JEvjMhaRYxm72eduf9UmQ"
+                            class="d-block float-left"
+                            style="width: 32px;"
+                            target="_blank"
+                        >
+                            <img src="/motegi/image/icon-youtube.png" alt="youtube" style="width: 32px; height: 32px;">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card border border-primary mb-3">
+                <div class="card-header bg-primary">
+                    <div class="h6 text-light mb-0">
+                        茂木町について
+                    </div>
+                </div>
+                <div class="card-body bg-light p-0 m-0">
+                    <div class="p-2">
+                        <span class="icon-help-circle text-primary mr-2"></span>
+                        <a href="/motegi/nextpage.php?cd=46751&amp;syurui=0">
+                            茂木町の概要
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-help-circle text-primary mr-2"></span>
+                        <a href="/motegi/nextpage.php?cd=11&amp;syurui=0">
+                            町政情報
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-help-circle text-primary mr-2"></span>
+                        <a href="/motegi/guidance.php">
+                            役場案内
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-help-circle text-primary mr-2"></span>
+                        <a href="/motegi/nextpage.php?cd=46752&amp;syurui=0">
+                            交通・アクセス
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <a
+                href="/motegi/nextpage.php?cd=6685&amp;syurui=2"
+                class="btn btn-block btn-raised btn-primary text-left text-light p-3 mb-3"
+            >
+                <span class="icon-link mr-2"></span>
+                ご意見ご相談
+            </a>
+            <div class="card border border-primary mb-3">
+                <div class="card-header bg-primary">
+                    <div class="h6 text-light mb-0">
+                        手続き・その他
+                    </div>
+                </div>
+                <div class="card-body bg-light p-0 m-0">
+                    <div class="p-2">
+                        <span class="icon-external-link text-primary mr-2"></span>
+                        <a href="https://en3-jg.d1-law.com/motegi/d1w_reiki/reiki.html" target="_blank">
+                            例規集
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-check text-primary mr-2"></span>
+                        <a href="/motegi/nextpage.php?cd=46760&amp;syurui=0">
+                            入札・契約
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-check text-primary mr-2"></span>
+                        <a href="/motegi/download.php">
+                            申請書ダウンロード
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-check text-primary mr-2"></span>
+                        <a href="/motegi/nextpage.php?cd=46758&amp;syurui=0">
+                            パブリックコメント
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-check text-primary mr-2"></span>
+                        <a href="/motegi/nextpage.php?cd=46762&amp;syurui=0">
+                            町報・町民カレンダー
+                        </a>
+                    </div>
+                    <div class="p-2">
+                        <span class="icon-check text-primary mr-2"></span>
+                        <a href="/motegi/nextpage.php?cd=6613&amp;syurui=2">
+                            リンク
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+        </div>
+                    <div class="mt-footer-container">
+                <div class="col-12 col-sm-5 p-5">
+                    <div class="d-flex align-items-center">
+                        <div>
+                            <img
+                                src="/motegi/image/logo.png"
+                                alt="茂木町コミュニケーションマーク"
+                            />
+                        </div>
+                        <div>
+                            <p class="h4">
+                                茂木町役場
+                            </p>
+                        </div>
+                    </div>
+                    <hr>
+                    <p>〒321-3598 栃木県芳賀郡茂木町大字茂木155番地</p>
+                    <p>TEL: 0285-63-1111 FAX: 0285-63-0459</p>
+                    <p>窓口受付時間 (役場・元気アップ館) 午前8時30分～午後5時</p>
+                    <p>※ 土日祝日および12月29日～1月3日を除く</p>
+                </div>
+                <div class="col-12 col-sm-5 p-5">
+                    <ul>
+                        <li class="text-left"><a href="/motegi/nextpage.php?cd=6683&amp;syurui=2">ホームページへのリンクについて</a></li>
+                        <li class="text-left"><a href="/motegi/nextpage.php?cd=6681&amp;syurui=2">個人情報の取り扱い</a></li>
+                        <li class="text-left"><a href="/motegi/nextpage.php?cd=6672&amp;syurui=2">免責事項・著作権</a></li>
+                        <li class="text-left"><a href="/motegi/nextpage.php?cd=6684&amp;syurui=2">お問合せ</a></li>
+                        <li class="text-left"><a href="/motegi/nextpage.php?cd=6685&amp;syurui=2">ご意見・ご相談</a></li>
+                        <li class="text-left"><a href="/motegi/nextpage.php?cd=7342&amp;syurui=2">RSS配信</a></li>
+                    </ul>
+                </div>
+                <div class="position-fixed" style="bottom: 16px;right: 16px;z-index: 10;">
+                    <a
+                        class="btn btn-raised btn-secondary text-light p-3 m-0"
+                        style="width: 56px; height: 56px; border-radius: 48px;"
+                        href="#header"
+                    >
+                        <span class="icon-arrow-up mt-scroll-to-top"></span>
+                        <span style="display:none">
+                            ページ上部へ移動
+                        </span>
+                    </a>
+                </div>
+            </div>
+                    <script type="text/javascript" src="/motegi/js/jquery/jquery.min.js" charset="utf-8"></script>
+            <script type="text/javascript" src="/motegi/js/change-lang.js?202308311012" charset="utf-8"></script>
+            <script type="text/javascript" src="/motegi/js/jquery/jquery.cookie.js"></script>
+            <script type="text/javascript" src="/motegi/furusato/js/third-party/unslider/unslider-min.js"></script>
+            <script type="text/javascript" src="/motegi/js/slick/slick.min.js"></script>
+            <script type="text/javascript" src="/motegi/js/jquery-bgswitcher/jquery.bgswitcher.js"></script>
+            <script type="text/javascript" src="/motegi/js/popover.js"></script>
+            <script type="text/javascript" src="/motegi/js/bootstrap-material-design.min.js"></script>
+            <script type="text/javascript">$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
+            <script type="text/javascript">
+            $(function() {
+                var cookieName = "town_motegi_cookie";
+                var setCookie = function(key, value) {
+                    $.cookie.json = true;
+
+                    var cookie = $.cookie(cookieName);
+
+                    if (cookie == null) cookie = {};
+
+                    cookie[key] = value;
+
+                    $.cookie(cookieName, cookie, {path: '/'});
+                };
+                var getCookie = function() {
+                    $.cookie.json = true;
+                    return $.cookie(cookieName);
+                };
+
+                const loadTheme = function() {
+                    const theme = localStorage.getItem("theme") || "main-theme";
+
+                    $(".main-theme, .css-theme-1, .css-theme-2")
+                        .each(function(i, el) {
+                            if ($(el).attr("class") == theme) {
+                                $(el).removeAttr("disabled");
+                            } else {
+                                $(el).attr("disabled", "disabled");
+                            }
+                        });
+                };
+
+                const loadSize = function() {
+                    const size = localStorage.getItem("size") || 15;
+                    $("body:first,html:first").css("fontSize", size + "px");
+                };
+
+                $(".js-theme-selector").on("click", function(e) {
+                    const theme = $(this).data("value");
+
+                    $(".main-theme, .css-theme-1, .css-theme-2")
+                        .each(function(i, el) {
+                            if ($(el).attr("class") == theme) {
+                                $(el).removeAttr("disabled");
+                            } else {
+                                $(el).attr("disabled", "disabled");
+                            }
+                        });
+
+                    localStorage.setItem("theme", theme);
+
+                    e.preventDefault();
+                });
+
+                $(".js-size-selector").on("click", function(e) {
+                    const size = $(this).data("value");
+
+                    $("body:first,html:first").css("fontSize", size + "px");
+
+                    localStorage.setItem("size", size);
+
+                    e.preventDefault();
+                });
+
+                loadTheme();
+                loadSize();
+            });
+            </script>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-E0Z3LV16BH"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-E0Z3LV16BH');
+            </script>
+        <script type="text/javascript">
+            $(function() {
+                var images = [];images.push("/motegi/image/472.jpg");images.push("/motegi/image/473.jpg");images.push("/motegi/image/471.jpg");images.push("/motegi/image/469.jpg");images.push("/motegi/image/468.jpg");images.push("/motegi/image/455.jpg");                $(".js-switch").bgSwitcher({ images: images, interval: 10000, duration: 1500 });
+            });
+        </script>
+        <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <div id="fb-root"></div>
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.0';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+
+            $(function () {
+                $(".js-auto-link")
+                    .each(function(index, el) {
+                        var _this = $(el);
+                        var html = _this.html()
+                            .split(/<br>|<br\/>|<br \/>/)
+                            .map(function(x) {
+                                return x
+                                    .replace(/(https?:\/\/[\w!\?/\+\-_~=;\.,\*&@#$%\(\)'\[\]]+)/g, function(match, p1, offset, string) {
+                                        var p = /(\"[^:]+:)(https?:\/\/[\w!\?/\+\-_~=;\.,\*&@#$%\(\)'\[\]]+)\"/g;
+                                        var result;
+                                        var exists = false;
+
+                                        while (result = p.exec(string)) {
+                                            if (result.index + result[1].length == offset) {
+                                                exists = true;
+                                                break;
+                                            }
+                                        }
+
+                                        if (exists) {
+                                            return p1;
+                                        }
+
+                                        return '<a href="'
+                                            + p1.replace("<br>", "")
+                                            + '"'
+                                            + (_this.hasClass("text-light") ? ' class="text-light"' : '')
+                                            + (_this.hasClass("text-light") ? ' style="text-decoration: underline"' : '')
+                                            + (p1.match(document.domain) ? ' target="_blank"' : '')
+                                            + '>'
+                                            + p1
+                                            + '</a>';
+                                    })
+                                    .replace(/\"([^:]+):(https?:\/\/[\w!\?/\+\-_~=;\.,\*&@#$%\(\)'\[\]]+)\"/g, function(match, p1, p2) {
+                                        return '<a href="'
+                                            + p2.replace("<br>", "")
+                                            + '"'
+                                            + (_this.hasClass("text-light") ? ' class="text-light"' : '')
+                                            + (_this.hasClass("text-light") ? ' style="text-decoration: underline"' : '')
+                                            + (p2.match(document.domain) ? ' target="_blank"' : '')
+                                            + '>'
+                                            + p1
+                                            + '</a>';
+                                    });
+                            })
+                            .map(function(x) {
+                                return x
+                                    .replace(/([a-zA-Z0-9_.+-]+@([a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]*\.)+[a-zA-Z]{2,})/gi, '<a href="mailto:$1">$1</a>');
+                            })
+                            .join('<br>');
+
+                        _this.html(html);
+                    });
+            });
+        </script>
+    </body>
+</html>

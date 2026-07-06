@@ -1,0 +1,90 @@
+{
+  "7c0149cd0edc2e08": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003962-1.html",
+    "filename": "7c0149cd0edc2e08.html",
+    "sha256": "ad0f7e0f5ae5f8d1b60461e8089d11419e5d0c3dff94fd14ff4fdf6155097c89",
+    "fetched_at": "2026-07-06T01:51:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fd50f05aab0eff20": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003963-1.html",
+    "filename": "fd50f05aab0eff20.html",
+    "sha256": "3b3649d1684448be878bfb8d005291fbcab3ca32e26fcfe30537f1357ed8a3fb",
+    "fetched_at": "2026-07-06T01:51:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "139a71471135568d": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003964-1.html",
+    "filename": "139a71471135568d.html",
+    "sha256": "74c0ca99e59c01f594d4bb3c79c312e8bf59c9ae06c04a7b3c93c133ca851bf7",
+    "fetched_at": "2026-07-06T01:51:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "df84f007f59b3463": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003965-1.html",
+    "filename": "df84f007f59b3463.html",
+    "sha256": "e3d6deda8b9297a165a92906862a55d57a04aa8896e3bdc42134732164b0e556",
+    "fetched_at": "2026-07-06T01:51:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9097e9a107dac5de": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003966-1.html",
+    "filename": "9097e9a107dac5de.html",
+    "sha256": "332736e288231dc6e48ce45a6f841e7546c9727e4326d6db415338b6794b3b0b",
+    "fetched_at": "2026-07-06T01:51:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "606c664c2f4c98d5": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003967-1.html",
+    "filename": "606c664c2f4c98d5.html",
+    "sha256": "3baa47cf23f21002fba7c606fabeb8433eadafda35cbb52aeb0adfc0e2ed91a2",
+    "fetched_at": "2026-07-06T01:51:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f2802cb093db881d": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003968-1.html",
+    "filename": "f2802cb093db881d.html",
+    "sha256": "91d4a403192ca6b1e47b3dc33e312b3067b2477877136a9d2a4c118546af9391",
+    "fetched_at": "2026-07-06T01:51:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7b71fb763bf3656f": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003969-1.html",
+    "filename": "7b71fb763bf3656f.html",
+    "sha256": "5f03ae6b7e06677ec40fbc7c5aec33e9327b4804b0ac5215fe7781fe26e6c174",
+    "fetched_at": "2026-07-06T01:51:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f794f9b7e1d9bfed": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003970-1.html",
+    "filename": "f794f9b7e1d9bfed.html",
+    "sha256": "96578290b32eb7be41f153a8b9750f2acfad3e76cc728242bfdbb73316e53940",
+    "fetched_at": "2026-07-06T01:51:47Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b0797f5ead1dabdc": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003971-1.html",
+    "filename": "b0797f5ead1dabdc.html",
+    "sha256": "868da0ce97f03a887f46278661edf70d2418d68689b58d7120629eff0d5f23ef",
+    "fetched_at": "2026-07-06T01:51:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "066c1e64ff976678": {
+    "url": "https://www.town.nasu.lg.jp/0000/info-0000003972-1.html",
+    "filename": "066c1e64ff976678.html",
+    "sha256": "3a15827e80b5882e7fd011c9ca9d32e1924de3b3a1c11dcc176bd75b06d2f9b7",
+    "fetched_at": "2026-07-06T01:51:51Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

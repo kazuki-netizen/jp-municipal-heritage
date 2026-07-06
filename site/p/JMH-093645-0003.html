@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>満福寺の板碑 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>満福寺の板碑</h1>
+    <p class="jmh-id">JMH-093645-0003</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>栃木県</dd>
+      <dt>市町村</dt><dd>野木町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>昭和49年指定。鎌倉時代中期正元元年(1259年)建立。秩父産の緑泥片岩(長瀞石)製、高さ約170cm、幅40cm。県内最古と考えられている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.nogi.lg.jp/kosodate_kyouiku/syougaigakusyu/page000469.html" target="_blank" rel="noopener">https://www.town.nogi.lg.jp/kosodate_kyouiku/syougaigakusyu/page000469.html</a><br>
+      形式: html &middot; 取得日: 2026-07-06</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"満福寺の板碑" (JMH-093645-0003), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-06.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([36.233215, 139.740799], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([36.233215, 139.740799]).addTo(m);
+  </script>
+</body>
+</html>

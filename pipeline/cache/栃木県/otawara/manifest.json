@@ -1,0 +1,10 @@
+{
+  "6f6cc74b0f395e8f": {
+    "url": "https://www.geospatial.jp/ckan/dataset/cea8cd82-151a-449b-806f-8658212d5292/resource/c911951c-29e2-4997-b3cb-7246d7cf90d8/download/092100050201-3.csv",
+    "filename": "filtered_shi.csv",
+    "sha256": "7bf885340375a32143e0188a0056eeffa881a794a1081085601e356adff1133e",
+    "fetched_at": "2026-07-06T06:13:16Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}
