@@ -1,0 +1,18 @@
+{
+  "72cc7c8f0df43d09": {
+    "url": "https://www.town.ogano.lg.jp/kanko-bunka-sports/natural-monument/bunkazai-guidemap/",
+    "filename": "72cc7c8f0df43d09.html",
+    "sha256": "da343c99024fd758f5f0d7341452467a72ff658e7c0581f396c5bf2a66403606",
+    "fetched_at": "2026-07-07T06:09:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "27f8098017ca6449": {
+    "url": "https://www.town.ogano.lg.jp/kanko-bunka-sports/natural-monument/bunkazai-guidemap/add-bunkazai/",
+    "filename": "27f8098017ca6449.html",
+    "sha256": "c489462a5ed054090d2d1f9753491671d8a3c88744d0312465f160589db9042c",
+    "fetched_at": "2026-07-07T06:09:48Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

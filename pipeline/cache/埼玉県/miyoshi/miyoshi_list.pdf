@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ご指定のページは見つかりませんでした｜埼玉県三芳町</title>
+<link href="/style/common.css" rel="stylesheet" type="text/css">
+<link href="/js/color/color0.css" rel="stylesheet" type="text/css" id="changecss">
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/accessibility.js"></script>
+<script type="text/javascript" src="/js/cse.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-54BQVTX92G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-54BQVTX92G');
+</script>
+</head>
+
+<body>
+    <div id="blockskip">
+        <p><a href="#contentsArea">メニューをスキップします</a></p>
+    </div>
+    <div id="headerWrap">
+        <header>
+            <p id="siteID"><a href="/index.html"><img src="/common/siteID.png" width="247" height="77" alt="三芳町"></a></p>
+            <div id="searchBox">
+                <gcse:searchbox-only></gcse:searchbox-only>
+            </div>
+            <div id="headerR">
+                <p id="faqButton"><a href="/faq/index.html">よくある質問</a></p>
+                <div id="translate" class="cl-notranslate">
+                    <p class="toggleSwitch"><a href="javascript:void(0)">Languages</a></p>
+                    <ul class="accBox">
+                        <li lang="en"><a href="/translate/english.html" class="cl-norewrite">English</a></li>
+                        <li lang="zh-cmn-Hans"><a href="/translate/chinese-s.html" class="cl-norewrite">简体中文</a></li>
+                        <li lang="zh-cmn-Hant"><a href="/translate/chinese-t.html" class="cl-norewrite">中國傳統</a></li>
+                        <li lang="ko"><a href="/translate/korean.html" class="cl-norewrite">한국</a></li>
+                        <li lang="ja"><a href="/index.html" class="cl-norewrite">日本語</a></li>
+                    </ul>
+                </div>
+                <div id="changeArea">
+                    <p>色変更</p>
+                    <ul id="charaColor">
+                        <li><a href="javascript:changeCSS('color0.css');"><img src="/common/charaColorStd.png" width="46" height="30" alt="標準の色"></a></li>
+                        <li><a href="javascript:changeCSS('color1.css');"><img src="/common/charaColor1.png" width="30" height="30" alt="文字黄色、背景青"></a></li>
+                        <li><a href="javascript:changeCSS('color2.css');"><img src="/common/charaColor2.png" width="30" height="30" alt="文字青、背景黄色"></a></li>
+                        <li><a href="javascript:changeCSS('color3.css');"><img src="/common/charaColor3.png" width="30" height="30" alt="文字黄色、背景黒"></a></li>
+                    </ul>
+                    <p>文字</p>
+                    <ul>
+                        <li><a href="javascript:textSizeDown();"><img src="/common/charaSize1.png" width="30" height="30" alt="文字を小さくする"></a></li>
+                        <li><a href="javascript:textSizeDefault();"><img src="/common/charaSize2.png" width="30" height="30" alt="標準サイズ"></a></li>
+                        <li><a href="javascript:textSizeUp();"><img src="/common/charaSize3.png" width="30" height="30" alt="文字を大きくする"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <nav>
+        <div id="gNavi">
+            <div id="toggle">
+                <a class="menu-trigger" href="javascript:void(0)">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </a>
+            </div>
+            <div id="menuWrap">
+                <ul id="menu">
+                    <li class="red"><a href="/bousai/index.html" class="pcShow">防災<br>安全情報</a><a href="javascript:void(0)" class="spShow">防災<br>安全情報</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/bousai/bousai/index.html">防災・防犯</a></li>
+                                <li><a href="/bousai/koutsu/index.html">交通安全</a></li>
+                                <li><a href="/bousai/douro/index.html">道路</a></li>
+                                <li><a href="/town/higashiiruma_H21.html">警察</a></li>
+                                <li><a href="/http://www.irumatohbu119.jp/" target="_blank">入間東部地区事務組合</a></li>
+                                <li><a href="/https://miyoshi119.jimdo.com/" target="_blank">三芳町消防団</a></li>
+                                <li><a href="/bousai/2016-0315-1154-24-ouenjichitai.html">応援自治体</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                    <li class="red"><a href="/health/iryou/index.html" class="pcShow">救急<br>医療情報</a><a href="javascript:void(0)" class="spShow">救急<br>医療情報</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/kosodate/mokuteki/kenko/iryo.html">医療機関及び休日診療</a></li>
+                                <li><a href="/health/iryou/2020-0610-1558-18.html">救急医療機関等</a></li>
+                                <li><a href="/health/iryou/2006-0329-1341-33.html">三芳町保健センター</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                    <li><a href="/life/index.html" class="pcShow">くらし<br>手続き</a><a href="javascript:void(0)" class="spShow">くらし<br>手続き</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/life/koseki/index.html">戸籍・住民登録</a></li>
+                                <li><a href="/life/inkan/index.html">印鑑登録</a></li>
+                                <li><a href="/life/honnin/index.html">本人通知制度</a></li>
+                                <li><a href="/town/yakuba/2014-1031-1449-2.html">マイナンバー</a></li>
+                                <li><a href="/life/passport/index.html">パスポート</a></li>
+                                <li><a href="/life/zei/index.html">税金</a></li>
+                                <li><a href="/life/hoken_nenkin/index.html">保険・年金</a></li>
+                                <li><a href="/life/gomi/index.html">環境・ごみ・リサイクル</a></li>
+                                <li><a href="/life/suidou/index.html">水道</a></li>
+                                <li><a href="/life/soudan/index.html">くらしに関わる相談</a></li>
+                                <li><a href="/life/community/index.html">コミュニティ</a></li>
+                                <li><a href="/life/syoumei/index.html">各種証明書・申請書</a></li>
+                                <li><a href="/town/chosa/gaikokusekijyuuminn.html">外国籍住民の方へ</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                    <li><a href="/health/index.html" class="pcShow">健康・福祉<br>子育て</a><a href="javascript:void(0)" class="spShow">健康・福祉<br>子育て</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/kosodate/index.html">子ども・子育て</a></li>
+                                <li><a href="/health/iryou/index.html">診療・医療</a></li>
+                                <li><a href="/life/hoken_nenkin/index.html">国民健康保険・国民年金</a></li>
+                                <li><a href="/health/kaigo/index.html">介護保険</a></li>
+                                <li><a href="/health/koureisya/koukikourei2007-1022.html">後期高齢医療</a></li>
+                                <li><a href="/health/koureisya/index.html">高齢者</a></li>
+                                <li><a href="/health/handicapped/index.html">障がい者</a></li>
+                                <li><a href="/choju/index.html">健康長寿</a></li>
+                                <li><a href="/health/fukushi/index.html">社会福祉</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                    <li><a href="/study/index.html" class="pcShow">教育・文化<br>スポーツ</a><a href="javascript:void(0)" class="spShow">教育・文化<br>スポーツ</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/study/committee/index.html">教育行政</a></li>
+                                <li><a href="/study/soudan/index.html">教育相談・制度</a></li>
+                                <li><a href="/study/gakkou/index.html">町の小・中学校</a></li>
+                                <li><a href="/study/shakai/index.html">社会教育施設</a></li>
+                                <li><a href="/study/sports/index.html">スポーツ施設・制度</a></li>
+                                <li><a href="/study/jido/index.html">児童福祉施設</a></li>
+                                <li><a href="/http://www.miyoshi-culture.jp/coppice/index.html">コピスみよし</a></li>
+                                <li><a href="/study/volunteer/index.html">ボランティア活動</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                    <li><a href="/work/index.html" class="pcShow">観光・産業<br>ビジネス</a><a href="javascript:void(0)" class="spShow">観光・産業<br>ビジネス</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/kanko/index.html">観光情報</a></li>
+                                <li><a href="/work/nyuusatsu/index.html">入札契約</a></li>
+                                <li><a href="/work/keiei/index.html">経営</a></li>
+                                <li><a href="/work/nougyou/index.html">農業・商工振興</a></li>
+                                <li><a href="/work/oshirase/index.html">求人・職員募集</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                    <li><a href="/town/index.html" class="pcShow">町政情報</a><a href="javascript:void(0)" class="spShow">町政情報</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/town/about/index.html">町のプロフィール</a></li>
+                                <li><a href="/town/keikaku/index.html">町の施策・計画</a></li>
+                                <li><a href="/town/yakuba/index.html">町のしくみ・案内</a></li>
+                                <li><a href="/town/chosa/index.html">調査・統計・財政</a></li>
+                                <li><a href="/town/koho/index.html">広報みよし</a></li>
+                                <li><a href="/town/toshikeikaku/index.html">都市計画・まちづくり・みどり</a></li>
+                                <li><a href="/town/juutaku/index.html">住宅・すまい</a></li>
+                                <li><a href="/election/index.html">選挙</a></li>
+                                <li><a href="/http://www1.g-reiki.net/saitama-miyoshi/reiki_menu.html">町例規集</a></li>
+                                <li><a href="/town/bus_jikokuhyou.html">町内のバス時刻表</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                    <li><a href="/town/yakuba/2019-0911-1455-19.html" class="pcShow">電子行政<br>サービス</a><a href="javascript:void(0)" class="spShow">電子行政<br>サービス</a>
+                        <div class="mega_menu">
+                            <p class="closeButton"><a href="javascript:void(0)"><img src="/common/iconClose.svg" alt="閉じる"></a></p>
+                            <ul>
+                                <li><a href="/life/zei/eLTAX.html">地方税電子申告サービス eLTAX（エルタックス）</a></li>
+                                <li><a href="/work/nyuusatsu/e_bids.html">埼玉県電子入札共同システム</a></li>
+                                <li><a href="/town/oshirase/2006-0515-1629-33.html">公共施設予約システム</a></li>
+                                <li><a href="/town/yakuba/2019-0911-1455-19.html">​電子申請・届出サービス</a></li>
+                            </ul>
+                            <p><a href="javascript:void(0)" class="closeButton">閉じる</a></p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+<div id="contentsArea">
+<div id="topicPath">
+<p><span>現在位置</span><!-- WCVCRUMBS!&gt;!pc --><a href="/index.html">ホーム</a> &gt; ご指定のページは見つかりませんでした<!-- /WCVCRUMBS --></p>
+</div>
+<div id="contentsWrap">
+
+<div id="contents">
+<h1><!-- wcvtitle -->ご指定のページは見つかりませんでした<!-- /wcvtitle --></h1>
+<!-- wcvx_area_editor -->
+<p>申し訳ありませんが、ご指定のページは見つかりませんでした。<br>
+お探しのページは、移動・削除された可能性があります。</p>
+<p>恐れ入りますが、<a href="/index.html">トップページ</a>から探してみてください。</p>
+<!-- /wcvx_area_editor -->
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+
+<footer>
+    <div id="footerWrap">
+        <p id="toTop"><a href="#blockskip"><img src="/common/toTop.png" width="62" height="31" alt="ページの先頭へ"></a></p>
+        <p id="footerID"><img src="/common/footerID.png" width="186" height="58" alt=""></p>
+        <p><strong>三芳町役場</strong></p>
+        <p><span>〒354-8555　</span><span>埼玉県入間郡三芳町大字藤久保1100番地１</span></p>
+        <p>代表電話：049-258-0019</p>
+        <p><span>一般的な業務時間8時30分から17時15分</span><span>（土日祝日及び年末年始はお休み）</span></p>
+        <ul>
+            <li><a href="/town/yakuba/kaichou_jikan_access.html">開庁時間・アクセス</a></li>
+            <li><a href="/town/yakuba/toiawase.html">各課への問い合わせ</a></li>
+            <li><a href="/help/2014-1217-1055-11.html">ウェブアクセシビリティ</a></li>
+        </ul>
+    </div>
+    <p id="copyright">Copyright &copy; Town Miyoshi All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

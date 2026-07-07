@@ -1,0 +1,34 @@
+{
+  "9770517252472646": {
+    "url": "https://www.town.tokigawa.lg.jp/info/271",
+    "filename": "9770517252472646.html",
+    "sha256": "a1cf5b9a556c9b63ef195b19b52ff3b0c3fe88629edac56cf6f536404b627000",
+    "fetched_at": "2026-07-07T06:09:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fb278e97b8b11fda": {
+    "url": "https://www.town.tokigawa.lg.jp/info/269",
+    "filename": "fb278e97b8b11fda.html",
+    "sha256": "17e7892f627dcac06d47bd88d4d541cff26fa75a026967287afdcabe86427cec",
+    "fetched_at": "2026-07-07T06:09:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "329aeca168a3716a": {
+    "url": "https://www.town.tokigawa.lg.jp/info/644",
+    "filename": "329aeca168a3716a.html",
+    "sha256": "c0ab8e64523184bce8154645f43b69239407ea31275d9cd1483d0aaf53bb768b",
+    "fetched_at": "2026-07-07T06:09:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "852fecb9d32b4475": {
+    "url": "https://www.town.tokigawa.lg.jp/info/1006",
+    "filename": "852fecb9d32b4475.html",
+    "sha256": "e6132739249f7c2ba78efe94399b8e17d9523fe046eab11e9be3109018d23645",
+    "fetched_at": "2026-07-07T06:09:39Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

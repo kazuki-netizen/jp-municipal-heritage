@@ -1,0 +1,18 @@
+{
+  "886ea88d1fa4b7d1": {
+    "url": "https://www.town.yorii.saitama.jp/soshiki/22/r7yoriityounaibunnkazaiitiran.html",
+    "filename": "886ea88d1fa4b7d1.html",
+    "sha256": "641a06a97a285bdad266fbc78d81724ef6f8b9df88adf9aebfd79987e5b2957b",
+    "fetched_at": "2026-07-07T06:09:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "856d71dffcadfbc2": {
+    "url": "https://www.town.yorii.saitama.jp/uploaded/attachment/26642.pdf",
+    "filename": "856d71dffcadfbc2.pdf",
+    "sha256": "a95ebd97b78f6cd74a1efe1ff15390046eb16cba31f7704e035918074c680962",
+    "fetched_at": "2026-07-07T06:09:55Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

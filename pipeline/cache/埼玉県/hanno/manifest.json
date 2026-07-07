@@ -1,0 +1,18 @@
+{
+  "e3121057a3585885": {
+    "url": "https://www.city.hanno.lg.jp/material/files/group/49/siteibunkazaiR6-6.pdf",
+    "filename": "e3121057a3585885.pdf",
+    "sha256": "4a0eac0a7f4335c3ca044283c157156b1956b5b4b30baef5b1c399c7277127db",
+    "fetched_at": "2026-07-07T06:08:31Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "656728efe72dff9d": {
+    "url": "https://www.city.hanno.lg.jp/kanko_bunka_sports/bunkazai/3/3648.html",
+    "filename": "656728efe72dff9d.html",
+    "sha256": "32f6575b54f00f6033c427300e48529c61d07218ac1e3070851514d8340362e1",
+    "fetched_at": "2026-07-07T06:08:33Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "eea8596a4f9a4490": {
+    "url": "https://www.city.chichibu.lg.jp/secure/6008/R5%E6%8C%87%E5%AE%9A%E7%AD%89%E6%96%87%E5%8C%96%E8%B2%A1%E4%B8%80%E8%A6%A7%E8%A1%A8.pdf",
+    "filename": "eea8596a4f9a4490.pdf",
+    "sha256": "ab2bd1e25d70adf59cd8e5a01455311e73189f1ae34e32839a260fef8785625f",
+    "fetched_at": "2026-07-07T06:08:28Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "53bea522bd4d27be": {
+    "url": "https://www.city.chichibu.lg.jp/3979.html",
+    "filename": "53bea522bd4d27be.html",
+    "sha256": "49d64008c01ff57dbde3b7c33f8dca0bf0120e54e3c98fb3c58094fad6833795",
+    "fetched_at": "2026-07-07T06:08:30Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "3d1806c87e5ede6c": {
+    "url": "https://www.city.kawaguchi.lg.jp/material/files/group/185/2026shiteibunnkazaiichirann2.pdf",
+    "filename": "3d1806c87e5ede6c.pdf",
+    "sha256": "11bbed98b64d77cf5a10e85674d60823a2ab232ec4a19985b76166ac93135a27",
+    "fetched_at": "2026-07-07T06:08:26Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "97ca0197195d104c": {
+    "url": "https://www.city.kawaguchi.lg.jp/sports_bunka/bunkazai_1/11182.html",
+    "filename": "97ca0197195d104c.html",
+    "sha256": "1df7cd8e48820e3eaf29f17d1ad0908ab92866469b30f648899954fa20f265e2",
+    "fetched_at": "2026-07-07T06:08:28Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "e1bb63bc66af674a": {
+    "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/6579.pdf",
+    "filename": "e1bb63bc66af674a.pdf",
+    "sha256": "a200068a9a3bf0967c48eee68b052fe6785dda4b302a25dfa284f14cd554893b",
+    "fetched_at": "2026-07-07T06:08:44Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "7b41b353461103e8": {
+    "url": "https://www.city.higashimatsuyama.lg.jp/soshiki/55/3721.html",
+    "filename": "7b41b353461103e8.html",
+    "sha256": "6d55a4c4b8653f0ba0a7b388a10b325164e00c4543d7e674353aae16aada5d76",
+    "fetched_at": "2026-07-07T06:08:46Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "6fc19925e61e8960": {
+    "url": "https://www.town.minano.saitama.jp/bunkazai/machishitei/",
+    "filename": "6fc19925e61e8960.html",
+    "sha256": "322cebe31ac77b1626f97cabc7c0260d28d54391b85e1acff207bdd8be7b7fae",
+    "fetched_at": "2026-07-07T06:09:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e66b945e1c56ebc5": {
+    "url": "https://www.town.minano.saitama.jp/bunkazai/kenshitei/",
+    "filename": "e66b945e1c56ebc5.html",
+    "sha256": "ee0335c87b408381b4e06a13ac01479fe0f3c9ac54c60288da4d3bef0b3a37f9",
+    "fetched_at": "2026-07-07T06:09:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ab5d25dbc016cc9c": {
+    "url": "https://www.town.minano.saitama.jp/tx_bunkazai/kunishitei/",
+    "filename": "ab5d25dbc016cc9c.html",
+    "sha256": "51f86d4bbb86802c5ba808bd607ee42e6cd332f664430ac2159d9e3d24f24536",
+    "fetched_at": "2026-07-07T06:09:43Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

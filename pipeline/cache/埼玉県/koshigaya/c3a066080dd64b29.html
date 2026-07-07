@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width">
+
+<script src="/js/jquery-3.5.1.min.js"></script>
+<!--チャットボット-->
+<link rel="stylesheet" href="/css/chatbot.css">
+<!--script--> 
+<script type="text/javascript" src="/js/willfont.js?date=20240701"></script>
+<!-- やさしいブラウザ -->
+<script id="pt_loader" src="/js/ewbc.min.js"></script>
+
+  <title>越谷市の指定文化財・登録文化財　越谷市公式ホームページ</title>
+<link rel="stylesheet" href="/css/destyle.css">
+<link rel="stylesheet" href="/css/swiper-bundle.min.css">
+
+<link rel="stylesheet" href="/font/all.css">
+<link rel="stylesheet" href="/css/style.css?date=20251001">
+<link rel="stylesheet" href="/css/sxBanner.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ND855WF4C7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ND855WF4C7');
+</script>
+<noscript>
+  <style>
+    html{
+      visibility: visible;
+    }
+  </style>
+</noscript>
+<link rel="stylesheet" href="/css/detail.css?date=20230220">
+</head>
+<body id="base">
+<div id="basebg">
+  <div id="blockskip">
+    <a href="#tmp_honbun">このページの本文へ移動</a>
+  </div>
+  <div id="baseall">
+  <noscript>
+  <p>越谷市のホームページではJavaScriptを使用しています。<br>JavaScriptの使用を有効にしていない場合は、一部の機能が正確に動作しない恐れがあります。<br>お手数ですがJavaScriptの使用を有効にしてください。</p>
+  </noscript>
+    <section class="header_wrap">
+      <section>
+  <div class="top_bg">
+    <header class="header">
+      <div class="header_inner">
+        <h1 class="header_logo">
+          <a href="/index.html"><img src="/img/header_logo.png?date=20250407" alt="越谷市 Koshigaya City"></a>
+        </h1>
+        <div class="header_menu_icon_wrap btn_gnav">
+          <div class="header_links">
+            <div class="row01">
+              <a href="javascript:void(0);" class="btn_search header_menu_icon pc_none">
+                <img class="pc_none search_open" src="/img/img_btn_search.png" alt="SEARCH">
+                <img class="pc_none search_close" src="/img/header_close_icon.png" alt="CLOSE">
+              </a>
+              <div class="top_search_area">
+                <div class="top_search_box_wrap">
+                  <div class="top_search_box_inner">
+                    <p class="serach_title">キーワード検索</p>
+                    <form action="/aboutweb/gsearch-result.html" id="cse-search-box" rel="noopener noreferrer" class="top_search_box">
+                      <input type="hidden" name="cx" value="05c9656fb80d24aaf" />
+                      <input type="hidden" name="ie" value="UTF-8" />
+                      <input name="q" type="text" class="btn search_field" title="サイト内検索" placeholder="検索キーワードを入力" />
+                      <button type="submit" name="sa" class="btn search_btn"><p><img src="/img/icon_search.png" alt="検索"></p></button>
+                    </form>
+                    <script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&lang=ja"></script>
+                  </div>
+                  <div class="top_search_box_inner">
+                    <p class="serach_title">ページ番号検索</p>
+                    <form  action="/aboutweb/pageid-search-result.html" id="num-search-box" rel="noopener noreferrer" class="top_search_box">
+                        <input name="pid" id="pid" type="text" class="btn search_field" title="ページ番号検索" placeholder="ページ番号検索" />
+                        <button type="button" id="page_num_search_btn" class="btn search_btn"><p><img src="/img/icon_search.png" alt="検索"></p></button>
+                    </form>
+                    </div>
+                    <script>
+                      $(function(){
+                      // ページ番号検索用(ページ上部)
+                      $('#page_num_search_btn').click(page_num_search);
+                      // 入力項目「ページ番号検索」(ページ上部)のエンター押下対応
+                      $("#num-search-box").submit(function () {
+                        page_num_search();
+                      });
+                        function page_num_search() {
+                        var pid = $('#pid').val();
+                        var errUrl = "/aboutweb/pageid-search-result.html?status=404&pid=" + pid
+                        $.ajax({
+                          url: '/willopen/urlseeker.cgi',
+                          type: 'get',
+                          cache: false,
+                          dataType:'json',
+                          data:{ 'sid': 1, 'pid': pid },
+                        })
+                          .done(function(response) {
+                            //console.log(JSON.stringify(response));
+                            if (response["status"] == "200") {
+                              window.location.href = response["url"]
+                            } else {
+                              // 検索窓に数値かつ、存在しないページ番号の場合。
+                              window.location.href = errUrl;
+                            }
+                          })
+                          .fail(function (xhr, textStatus, errorThrow) {
+                              // 検索窓に数値以外が入力された場合。
+                              window.location.href = errUrl;
+                          });
+                        }
+                      });
+                    </script>
+                </div>
+                <div class="search_howto"><a href="/aboutweb/about_search.html"><span class="arrow-white">検索の使い方</span></a></div>
+                <button class="js-navClose_search" type="button"><span class="fa fa-times" aria-hidden="true"></span><span class="text">閉じる</span></button>
+                <div class="searchhowto_pc sp_none"><a href="/aboutweb/about_search.html"><span>検索の使い方</span></a>
+                </div>
+                <div class="func_pc sp_none"><a href="javascript:void(0);" id="pt_enable"><span>閲覧補助機能</span></a></div>
+                <div class="lang_pc sp_none"><a href="/international/index.html"><span lang="en">Language</span></a></div>
+              </div>
+            </div>
+          </div>
+          <nav class="header_nuv">
+            <a href="javascript:void(0);" class="header_menu_icon">
+              <img class="menu" src="/img/header_menu_icon.png" alt="menu">
+              <img class="close" src="/img/header_close_icon.png" alt="close">
+            </a>
+            <div class="header_nuv_accordion">
+              <div class="header_nuv_inner l_container_pc">
+                <div class="inner_nav_btn sp_menu_btn pc_none active">
+                  <img class="sp_menu btn_menutab" src="/img/btn_menutab.jpg" alt="menu">
+                  <img class="sp_menu_close btn_menutab active" src="/img/btn_menutabClose.png" alt="CLOSE">
+                </div>
+                <div class="header_nuv_content header_nuv_left active">
+                  <div class="nav_boxWrap">
+                    <div class="nav_box">
+                      <p class="nav_subtitle nav_subtitle_sp gnav07"><a href="javascript:void(0);">いざという時</a></p>
+                      <ul class="nav_item">
+                        <li><a class="arrow-black" href="/anzen_anshin/index.html">いざという時トップ</a></li>
+                        <li><a class="arrow-black" href="/anzen_anshin/bosai/index.html">防災</a></li>
+                        <li><a class="arrow-black" href="/anzen_anshin/seikatsubouhan/index.html">防犯</a></li>
+                        <li><a class="arrow-black" href="/anzen_anshin/syobohonbu/index.html">消防・救急</a></li>
+                        <li><a class="arrow-black" href="/saigai/index.html">災害緊急情報</a></li>
+                        <li><a class="arrow-black" href="/anzen_anshin/syobohonbu/yakan/index.html">休日診療・救急医療</a></li>
+                      </ul>
+                    </div>
+                    <div class="nav_box">
+                      <p class="nav_subtitle nav_subtitle_sp gnav02"><a href="javascript:void(0);">くらし・手続き</a></p>
+                      <ul class="nav_item">
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/index.html">くらし・手続きトップ</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/konin/index.html">結婚・離婚</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/hikkoshi_sumai/index.html">住まい・引越し</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/shigotoshushoku/index.html">就職・退職</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/okuyami/index.html">おくやみ</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/todokede/koseki_juminhyou/index.html">戸籍・住民票・印鑑登録など</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/zeikin/index.html">税</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/suido/index.html">水道・下水道</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/koutsu/index.html">交通</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/toshikeikaku/douro/index.html">道路</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/toshikeikaku/index.html">都市計画</a></li>
+                        <li><a class="arrow-black" href="/anzen_anshin/bosai/kasenchisui/index.html">河川</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/gomi_kankyo/index.html">ごみ・環境保全</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/pet/index.html">ペット</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/shohiseikatsu/index.html">消費生活・くらしの相談</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/jinkendanjokyodo/index.html">人権・男女共同参画</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/shiminkatudou_kokusaika/index.html">市民活動・コミュニティ・国際化</a></li>
+                      </ul>
+                    </div>
+                    <div class="nav_box">
+                      <p class="nav_subtitle nav_subtitle_sp gnav03"><a href="javascript:void(0);">子育て・学び</a></p>
+                      <ul class="nav_item">
+                        <li><a class="arrow-black" href="/kurashi_shisei/kosodate/index.html">子育て・学びトップ</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kosodate/ninsinshussan/index.html">妊娠・出産</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kosodate/kosodate/index.html">子育て</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kosodate/kyoiku/index.html">教育</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kosodate/bunkasports/index.html">文化・スポーツ・生涯学習</a></li>
+                      </ul>
+                    </div>
+                    <div class="nav_box">
+                      <p class="nav_subtitle nav_subtitle_sp gnav04"><a href="javascript:void(0);">福祉・健康</a></p>
+                      <ul class="nav_item">
+                        <li><a class="arrow-black" href="/kurashi_shisei/fukushi/index.html">福祉・健康トップ</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/fukushi/koureisha/index.html">高齢者・介護</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/fukushi/kokuho/index.html">国民健康保険・後期高齢者医療</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/nenkin/index.html">国民年金</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/fukushi/syakaihukusi/index.html">福祉</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/fukushi/syogaisien/index.html">障がい者支援</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/fukushi/kenkoiryo/index.html">健康・医療</a></li>
+                      </ul>
+                    </div>
+                    <div class="nav_box">
+                      <p class="nav_subtitle nav_subtitle_sp gnav05"><a href="javascript:void(0);">事業者情報</a></p>
+                      <ul class="nav_item">
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/index.html">事業者情報トップ</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/nyusatukeiyaku/index.html">入札・契約・インボイス</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/shienyushi/index.html">補助金・融資などの支援</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/keieisoudan/index.html">経営相談</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/gomi_recycle/jgyosyo_gomi/index.html">事業系のごみ・リサイクル</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/nogyotochi/index.html">農業</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/shogyokogyo/index.html">商業・工業</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/kensetu/index.html">建設事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/hoiku/index.html">保育事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/kaigo/index.html">介護事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/syogaifukushi/index.html">障害福祉サービス事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/syakaifukushi/index.html">社会福祉法人</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/iji/index.html">医事を行う事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/yakuji/index.html">薬事衛生に関する事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/kankyo/index.html">環境衛生に関する事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/shokuhin/index.html">食品衛生に関する事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/doubutu/index.html">動物取扱事業者</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/douro/index.html">道路・河川</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/eiseimenkyo/index.html">衛生免許</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/jigyosha/koukoku/index.html">広告</a></li>
+                      </ul>
+                    </div>
+                    <div class="nav_box">
+                      <p class="nav_subtitle nav_subtitle_sp gnav06"><a href="javascript:void(0);">市政情報</a></p>
+                      <ul class="nav_item">
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/index.html">市政情報トップ</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/syokai/index.html">越谷市の紹介</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/vision/index.html">越谷市のビジョン</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/data/index.html">人口・統計・オープンデータ</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/zaisei/index.html">財政（予算・決算）</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/koho/index.html">広報・広聴</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/kurashi/senkyo/index.html">選挙</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/gyosei/index.html">行政評価・行政改革</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/kansakoheiiinkai/index.html">監査</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/syokuinkyuyo/index.html">人事・給与</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/boshu/shokuin/index.html">職員・会計年度任用職員・支援員など</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/koyuzaisanshiteikanri/index.html">公有財産・指定管理者制度</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/boshu/index.html">募集</a></li>
+                        <li><a class="arrow-black" href="/kurashi_shisei/shisei/shingikai/index.html">審議会等</a></li>
+                        <li><a class="arrow-black" href="/toiawase/shisetsu/index.html">施設案内</a></li>
+                        <li><a class="arrow-black" href="/toiawase/index.html">窓口・お問い合わせ</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="accessibility">
+                    <p class="acc_tit"><a href="/international/index.html"><span lang="en">language</span></a></p>
+                    <div class="footer_btnWrap">
+                      <ul>
+                        <li><a href="/anzen_anshin/bosai/index.html">防災情報</a></li>
+                        <li><a href="/anzen_anshin/syobohonbu/index.html">救急医療・消防</a></li>
+                        <li class="col01"><a href="/net/index.html"><span>ネット市役所</span>オンラインでできる行政サービス</a></li>
+                        <li><a href="/kurashi_shisei/info/event/calendar/calendar.html">カレンダーから検索</a></li>
+                        <li><a href="https://www2.wagmap.jp/koshigayacity/Portal" target="_blank">地図から検索</a></li>
+                        <li><a href="/aboutweb/faq/faq_top.html">よくある質問</a></li>
+                        <li><a href="/toiawase/sosiki2/index.html">組織から探す</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="inner_nav_btn sp_mokuteki_btn pc_none">
+                  <img class="sp_mokuteki_menu btn_menutab active" src="/img/mokuteki_menu.jpg" alt="目的から探す">
+                  <img class="sp_mokuteki_close btn_menutab" src="/img/mokuteki_menuClose.png" alt="閉じる">
+                </div>
+                <div class="header_nuv_content header_nuv_right">
+                  <div class="lifescene_box">
+                    <p class="lifescene_title">くらしの場面から探す</p>
+                    <div class="btn_list">
+                      <div class="service_btn"><a href="/kurashi_shisei/kurashi/todokede/index.html"><img src="/img/icon_life01.png" alt=""><span>届出・証明・税金</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/navi/konin.html"><img src="/img/icon_life02.png" alt=""><span>結婚・離婚</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/kosodate/index.html"><img src="/img/icon_life03.png" alt=""><span>子育て</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/kosodate/kyoiku/index.html"><img src="/img/icon_life04.png" alt=""><span>学校教育</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/fukushi/kenko/index.html"><img src="/img/icon_life08.png" alt=""><span>健康・医療・年金</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/kurashi/hikkoshi_sumai/index.html"><img src="/img/icon_life06.png" alt=""><span>住まい・引越し</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/fukushi/koureisha/index.html"><img src="/img/icon_life07.png" alt=""><span>高齢・介護</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/navi/okuyami.html"><img src="/img/icon_life09.png" alt=""><span>おくやみ</span></a></div>
+                      <div class="service_btn"><a href="/kurashi_shisei/kurashi/gomi_kankyo/kateigomi/index.html"><img src="/img/icon_life11.png" alt=""><span>ゴミ分別検索</span></a></div>
+                    </div>
+                  </div>
+                  <div class="onservice_box">
+                    <p class="onservice_title">便利なサービス</p>
+                    <div class="btn_list">
+                      <div class="service_btn"><a href="https://adeac.jp/koshigaya-city-digital-archives/top/" target="_blank" rel="noopener noreferrer"><img src="/img/icon_online07.png" alt=""><span>デジタルアーカイブ<img src="/img/icon_external_link.png" alt="外部サイトへのリンク" class="icon_external_link"></span></a></div>
+                      <div class="service_btn"><a href="/net/navi/index.html"><img src="/img/icon_online01.png" alt=""><span>ライフシーン検索</span></a></div>
+                      <div class="service_btn"><a href="https://www2.wagmap.jp/koshigayacity/Portal" target="_blank" rel="noopener noreferrer"><img src="/img/icon_online06.png" alt=""><span>住まいるマップ<img src="/img/icon_external_link.png" alt="外部サイトへのリンク" class="icon_external_link"></span></a></div>
+                      <div class="service_btn"><a href="https://m.madoguchi-sl.com/S3005MKAJA/index.html" target="_blank" rel="noopener noreferrer"><img src="/img/icon_tetsuduki01.png" alt=""><span>お引越し手続き<img src="/img/icon_external_link.png" alt="外部サイトへのリンク" class="icon_external_link"></span></a></div>
+                      <div class="service_btn"><a href="https://web.d-library.jp/koshigaya/g0101/top/" target="_blank" rel="noopener noreferrer"><img src="/img/icon_tetsuduki02.png" alt=""><span>電子図書館<img src="/img/icon_external_link.png" alt="外部サイトへのリンク" class="icon_external_link"></span></a></div>
+                      <div class="service_btn"><a href="http://cms.manmaruyoyaku2.jp/" target="_blank" rel="noopener noreferrer"><img src="/img/icon_tetsuduki03.png" alt=""><span>公共施設予約<img src="/img/icon_external_link.png" alt="外部サイトへのリンク" class="icon_external_link"></span></a></div>
+                    </div>
+                  </div>
+                </div>
+                <button class="js-navClose pc_none" type="button"><span class="fa fa-times" aria-hidden="true"></span><span class="text">閉じる</span></button>
+              </div>
+              <button class="js-navClose sp_none" type="button"><span class="fa fa-times" aria-hidden="true"></span><span class="text">閉じる</span></button>
+            </div>
+          </nav>
+          <div class="header_moshimo pc_none">
+            <a href="javascript:void(0);" class="btn_moshimo header_menu_icon">
+              <img class="pc_none moshimo_open" src="/img/img_btn_moshimo.png" alt="もしもの時">
+              <img class="pc_none moshimo_close" src="/img/header_close_icon.png" alt="CLOSE">
+            </a>
+            <div class="top_moshimo_area">
+              <p class="top_moshimo_title">
+                <span>防災</span>
+              </p>
+              <div class="top_moshimo_box_wrap">
+                <div class="top_moshimo_box"><a href="/anzen_anshin/syobohonbu/yakan/index.html"><img src="/img/icon_moshimo01.png" alt=""><span>休日医療機関</span></a></div>
+                <div class="top_moshimo_box"><a href="/anzen_anshin/bosai/map/index.html"><img src="/img/icon_moshimo02.png" alt=""><span>ハザードマップ</span></a></div>
+                <div class="top_moshimo_box"><a href="/anzen_anshin/bosai/hinanjyo/index.html"><img src="/img/icon_moshimo03.png" alt=""><span>避難所</span></a></div>
+                <div class="top_moshimo_box"><a href="/anzen_anshin/bosai/index.html"><img src="/img/icon_moshimo04.png" alt=""><span>防災安全情報</span></a></div>
+              </div>
+              <button class="js-navClose_moshimo" type="button"><span class="fa fa-times" aria-hidden="true"></span><span class="text">閉じる</span></button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header_btns sp_none l_container">
+        <ul>
+          <li><a href="/anzen_anshin/index.html"><span class="icon"><img src="/img/icon_pc_menu05.png" alt=""></span>いざという時</a></li>
+          <li><a href="/kurashi_shisei/kurashi/index.html"><span class="icon"><img src="/img/icon_pc_menu01.png" alt=""></span>くらし・手続き</a></li>
+          <li><a href="/kurashi_shisei/kosodate/index.html"><span class="icon"><img src="/img/icon_pc_menu02.png" alt=""></span>子育て・学び</a></li>
+          <li><a href="/kurashi_shisei/fukushi/index.html"><span class="icon"><img src="/img/icon_pc_menu03.png" alt=""></span>福祉・健康</a></li>
+          <li><a href="/kurashi_shisei/jigyosha/index.html"><span class="icon"><img src="/img/icon_pc_menu07.png" alt=""></span>事業者情報</a></li>
+          <li><a href="/kurashi_shisei/shisei/index.html"><span class="icon"><img src="/img/icon_pc_menu04.png" alt=""></span>市政情報</a></li>
+          <li><a href="/toiawase/sosiki2/index.html"><span class="icon"><img src="/img/icon_pc_menu06.png" alt=""></span>組織から探す</a></li>
+        </ul>
+      </div>
+    </header>
+  </div>
+</section>    </section>
+    <!-- ヘッダー -->
+    
+      <div class="pankuzu clearfix sp_none">
+  <p class="pk-img"><span>現在地</span></p>
+  <ul class="clearfix">
+                    <li><a href="/kurashi_shisei/kosodate/index.html">子育て・学び</a></li>          <li><a href="/kurashi_shisei/kosodate/bunkasports/index.html">文化・スポーツ・生涯学習</a></li>          <li><a href="/citypromotion/rekisibunka/index.html">文化財・歴史</a></li>          <li><a href="/citypromotion/rekisibunka/bunkazai/index.html">文化財</a></li>          <li><a href="/citypromotion/rekisibunka/bunkazai/shiteitouroku/index.html">市の指定文化財・登録文化財</a></li>        <li class="pk-thispage">越谷市の指定文化財・登録文化財</li>
+  </ul>
+</div>
+    <section class="wrap-all clearfix">
+    <div id="tmp_honbun" class="wrap">
+      <div id="main">
+        <div class="main-inner">
+            <div class="basic_info_wp">
+       <div class="clearfix"><p class="update">更新日：2026年1月28日</p></div>
+        <div class="page_numb"><p>ページ番号は58396です。</p></div>
+  </div>
+          <div class="h1bg">
+            <div>
+              <h1>越谷市の指定文化財・登録文化財</h1>
+            </div>
+          </div>
+            <div class="sns_btn_wp">
+  <div id="facebook"></div>
+  <div id="twitter"></div>
+</div>
+          <div class="wysiwyg_wp">
+          
+          </div>
+          <div class="mokuji_area clearfix" style="display:none;">
+            <p class="tit">目次</p>
+            <ul id="mokuji_ul"></ul>
+          </div>
+          <div id="main_content2" class="wysiwyg_wp">
+          <div class="h2bg">
+ <div>
+  <h2>越谷市の指定文化財・登録文化財について</h2>
+ </div>
+</div>
+<div class="wysiwyg_wp">
+ <p>　地域の歴史を考える上で貴重な歴史資料である文化財はその形状や性質により有形文化財・無形文化財・民俗文化財・記念物・伝統的建造物群などと定義されています。また、土地に埋蔵されている文化財については埋蔵文化財として取り扱っています。それら文化財の中から特に重要なものを指定文化財としています。また、平成8年に導入された文化財保護法における「文化財登録制度」により建築後50年を経過した建造物のうち一定の評価を得たものを登録有形文化財（建造物）としています。<br>
+   　越谷市には国指定2件、埼玉県指定7件、市指定69件、合計78件の指定文化財と、23件の登録文化財があります。「埼玉県民の鳥」であり、「越谷市の鳥」である「シラコバト」は国指定の天然記念物として指定されており、越谷市周辺が主な生息地として定められています。浄山寺の本尊である「木造地蔵菩薩立像」は平安時代に製作された貴重な事例であり、国指定重要文化財として指定されております。また、下間久里の香取神社で永く受け継がれている獅子舞行事は埼玉県東部及び千葉県西部の獅子舞行事の源流として「下間久里の獅子舞」の名で埼玉県無形民俗文化財として指定されています。さらに、古墳時代後期の生活を窺わせる見田方遺跡、越谷市内で最古の板碑である「建長元年の板碑」、越谷市御殿町の地名の由来ともなっている「越ヶ谷御殿跡」、市内寺院に残されている江戸幕府歴代将軍からの「朱印状」などが越谷市指定文化財として指定されています。</p>
+ <h3 class="partsstyle_h3"><strong>指定文化財</strong></h3>
+</div>
+<div class="t-box2">
+ <table class="table01" style="height:1000px;width:1000px;" width="95%">
+  <tbody>
+   <tr>
+    <th scope="col" style="width: 5%">No.</th>
+    <th scope="col" style="width: 5%">指定区分</th>
+    <th scope="col" style="width: 10%">種別・種類　</th>
+    <th scope="col" style="width: 20%">名称</th>
+    <th scope="col" style="width: 15%">所在地</th>
+    <th scope="col" style="width: 35%">概要</th>
+    <th scope="col" style="width: 5%">指定年月日など</th>
+   </tr>
+   <tr>
+    <td style="width: 5%">1</td>
+    <td style="width: 5%">国</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">越ヶ谷のシラコバト</td>
+    <td style="width: 15%">越谷市周辺</td>
+    <td style="width: 35%">本邦でも珍しい小型のハト、灰色にバラ色がまじった色で、首に黒と白の輪があり、生垣防風林などに栄巣。（地域を定めず指定したもの）</td>
+    <td style="width: 10%">S31.1.14</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">2</td>
+    <td style="width: 5%">国</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">木造地蔵菩薩立像</td>
+    <td style="width: 15%">野島32（浄山寺）</td>
+    <td style="width: 35%">カヤ材の一木造。平安初期作。慶長5年に彩色補修。</td>
+    <td style="width: 10%">H28.8.17</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">3</td>
+    <td style="width: 5%">県</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">
+     <p>木造伝正観音菩薩坐像</p></td>
+    <td style="width: 15%">
+     <p>増林3818</p>
+     <p>（林泉寺）</p></td>
+    <td style="width: 35%">
+     <p>寄木造、金泥。背板部に嘉元2年の墨書銘、膝裏部に戯画。</p></td>
+    <td style="width: 10%">
+     <p>S56.3.27</p></td>
+   </tr>
+   <tr>
+    <td style="width: 5%">4</td>
+    <td style="width: 5%">県</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">廿一仏板石塔婆</td>
+    <td style="width: 15%">増森（個人蔵）</td>
+    <td style="width: 35%">銘「申待供養」「天正三年八月吉日」。</td>
+    <td style="width: 10%">S36.3.1</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">5</td>
+    <td style="width: 5%">県</td>
+    <td style="width: 10%">無　民</td>
+    <td style="width: 20%">下間久里の獅子舞</td>
+    <td style="width: 15%">下間久里（香取神社）</td>
+    <td style="width: 35%">7月15日に公開。祈祷獅子の形態を保持し、県東部系統の特色を持つ。</td>
+    <td style="width: 10%">
+     <p>S37.3.10指定<br>
+       S54.3.27<br>
+       指定替</p></td>
+   </tr>
+   <tr>
+    <td style="width: 5%">6</td>
+    <td style="width: 5%">県</td>
+    <td style="width: 10%">記・史</td>
+    <td style="width: 20%">蒲生の一里塚</td>
+    <td style="width: 15%">蒲生愛宕町11（蒲生愛宕町自治会）</td>
+    <td style="width: 35%">県内の日光街道沿いに遺る唯一の一里塚。</td>
+    <td style="width: 10%">S60.3.5</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">7</td>
+    <td style="width: 5%">県</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">久伊豆神社のフジ</td>
+    <td style="width: 15%">越ヶ谷1700（久伊豆神社）</td>
+    <td style="width: 35%">7本に分幹。</td>
+    <td style="width: 10%">S16.3.31</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">8</td>
+    <td style="width: 5%">県</td>
+    <td style="width: 10%">記・旧</td>
+    <td style="width: 20%">平田篤胤仮寓跡</td>
+    <td style="width: 15%">越ヶ谷1700（久伊豆神社）</td>
+    <td style="width: 35%">平田篤胤は江戸後期の国学者、秋田藩佐竹家の家臣。</td>
+    <td style="width: 10%">
+     <p>S7.3.11指定<br>
+       S38.8.27指定替</p></td>
+   </tr>
+   <tr>
+    <td style="width: 5%">9</td>
+    <td style="width: 5%">県</td>
+    <td style="width: 10%">無　民</td>
+    <td style="width: 20%">北川崎の虫追い</td>
+    <td style="width: 15%">北川崎（北川崎神社）</td>
+    <td style="width: 35%">7月24日、大松明を持ち、鉦をたたき,唱えごとを言いながら田んぼを回る。</td>
+    <td style="width: 10%">
+     <p>S52.3.29指定</p>
+     <p>H20.3.14指定替</p></td>
+   </tr>
+   <tr>
+    <td style="width: 5%">10</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・建</td>
+    <td style="width: 20%">大聖寺の山門</td>
+    <td style="width: 15%">相模町6-442（大聖寺）</td>
+    <td style="width: 35%">越谷市最大の寺院の山門。銅板葺。</td>
+    <td style="width: 10%">S42.1.11</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">11</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・建</td>
+    <td style="width: 20%">
+     <p>旧東方村中村家住宅</p>
+     <p>（付中村家系譜）</p></td>
+    <td style="width: 15%">
+     <p>レイクタウン9-51</p></td>
+    <td style="width: 35%">安永元年（1772）建造の旧東方村下組の名主住宅。式台付き玄関は入母屋。「中村家系譜」は住宅の建築年代を示す資料。</td>
+    <td style="width: 10%">
+     <p>S50.5.2</p>
+     <p>R7.6.30付指定</p></td>
+   </tr>
+   <tr>
+    <td style="width: 5%">12</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・絵</td>
+    <td style="width: 20%">斎藤豊作遺作「風景」</td>
+    <td style="width: 15%">東越谷4-9-1（市立図書館）</td>
+    <td style="width: 35%">明治13年（1880）越谷に生まれ、ニ科会創設に参加。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">13</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・絵</td>
+    <td style="width: 20%">鳥文斎栄之筆「瓦曽根溜井図」</td>
+    <td style="width: 15%">東越谷4-9-1（市立図書館）</td>
+    <td style="width: 35%">天明、寛政期の美人画三大家の一人。</td>
+    <td style="width: 10%">S50.5.2</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">14</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・工</td>
+    <td style="width: 20%">野島浄山寺の大鰐口</td>
+    <td style="width: 15%">野島32（浄山寺）</td>
+    <td style="width: 35%">天保12年（1841）奉納。鋳物師は西村和泉守。</td>
+    <td style="width: 10%">S42.1.11</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">15</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・工</td>
+    <td style="width: 20%">懸仏</td>
+    <td style="width: 15%">越ヶ谷1700（久伊豆神社）</td>
+    <td style="width: 35%">富士山と大日如来を型取った円形銅板の懸仏。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">16</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・工</td>
+    <td style="width: 20%">林泉寺の香炉</td>
+    <td style="width: 15%">増林3818（林泉寺）</td>
+    <td style="width: 35%">香の燃え具合によって時刻がわかるもの。木製。</td>
+    <td style="width: 10%">S61.2.26</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">17</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">安国寺の円空仏</td>
+    <td style="width: 15%">大泊910（安國寺）</td>
+    <td style="width: 35%">1体は堅い建築用廃材。2体は、桐材。</td>
+    <td style="width: 10%">S50.5.2</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">18</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">西福院の円空仏</td>
+    <td style="width: 15%">谷中町3丁目（西福寺）</td>
+    <td style="width: 35%">3体とも檜材。</td>
+    <td style="width: 10%">S61.2.26</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">19</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">弘福院の円空仏</td>
+    <td style="width: 15%">北越谷1-21-26（弘福寺）</td>
+    <td style="width: 35%">阿弥陀如来座像。</td>
+    <td style="width: 10%">S63.2.27</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">20</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">木造阿弥陀如来立像</td>
+    <td style="width: 15%">大泊910（安國寺）</td>
+    <td style="width: 35%">寄木造、玉眼。</td>
+    <td style="width: 10%">S57.2.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">21</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">木造阿弥陀如来坐像</td>
+    <td style="width: 15%">大松60（清浄院）</td>
+    <td style="width: 35%">桧材、寄木造、彫眼。</td>
+    <td style="width: 10%">H2.2.20</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">22</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">木造阿弥陀如来坐像</td>
+    <td style="width: 15%">大松60（清浄院）</td>
+    <td style="width: 35%">一木造、彫眼。</td>
+    <td style="width: 10%">H2.2.20</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">23</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">木造会田七左衛門夫婦坐像</td>
+    <td style="width: 15%">七左町7-278（観照院）</td>
+    <td style="width: 35%">出羽地区の開発者、観照院の開基。寄木造。</td>
+    <td style="width: 10%">S57.2.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">24</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">木造地蔵菩薩立像</td>
+    <td style="width: 15%">瓦曽根1-5-43（照蓮院）</td>
+    <td style="width: 35%">寄木造、玉眼。遊歩行もしくは来迎する姿を表している。</td>
+    <td style="width: 10%">S57.2.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">25</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">木造釈迦如来涅槃像</td>
+    <td style="width: 15%">越ヶ谷2549（天獄寺）</td>
+    <td style="width: 35%">市内唯一の涅槃像。寄木造。</td>
+    <td style="width: 10%">S57.2.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">26</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">香取神社の彫刻</td>
+    <td style="width: 15%">大沢3-13-38（香取神社）</td>
+    <td style="width: 35%">慶応2年（1866）浅草山谷町彫刻師長谷川竹次郎の作。紺屋作業の様子が彫刻されている。</td>
+    <td style="width: 10%">S58.3.31</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">27</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">銅造五智如来立像</td>
+    <td style="width: 15%">北越谷4-8-5（浄光寺）</td>
+    <td style="width: 35%">享保3年（1718）から同5年にかけて奉納された立像。青銅、鋳物造。鋳物師は太田駿河守正儀。</td>
+    <td style="width: 10%">S61.2.26</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">28</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・彫</td>
+    <td style="width: 20%">銅造阿弥陀如来立像</td>
+    <td style="width: 15%">
+     <p>増林3818（林泉寺）</p></td>
+    <td style="width: 35%">
+     <p>鎌倉時代・永仁5年（1297）の作</p></td>
+    <td style="width: 10%">H18.3.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">29</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">北条氏繁掟書</td>
+    <td style="width: 15%">相模町6-442（大聖寺）</td>
+    <td style="width: 35%">元亀3年（1572）大相模大聖寺に与えられたもので、市内最古の文書。</td>
+    <td style="width: 10%">S45.3.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">30</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">伊奈備前差添書</td>
+    <td style="width: 15%">越ヶ谷本町（個人蔵）</td>
+    <td style="width: 35%">徳川初期の民政対策がわかる。</td>
+    <td style="width: 10%">S45.3.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">31</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">本陣資料一括（福井家文書）</td>
+    <td style="width: 15%">
+     <p>大沢<br>
+       県立文書館寄託</p></td>
+    <td style="width: 35%">越ヶ谷宿に関する貴重な文書。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">32</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">浄山寺の朱印状</td>
+    <td style="width: 15%">野島32（浄山寺）</td>
+    <td style="width: 35%">徳川家康から寺領下賜の際の朱印状。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">33</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">代々の朱印状</td>
+    <td style="width: 15%">平方249</td>
+    <td style="width: 35%">徳川家から賜った朱印状。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">34</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">寺領寄進朱印状</td>
+    <td style="width: 15%">宮本町2-54（迎攝院）</td>
+    <td style="width: 35%">徳川家から賜った朱印状。</td>
+    <td style="width: 10%">S58.3.31</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">35</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">観智国師書状</td>
+    <td style="width: 15%">大泊910（安國寺）</td>
+    <td style="width: 35%">本末制度確立以前の書状である。</td>
+    <td style="width: 10%">S59.9.27</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">36</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">西方村旧記</td>
+    <td style="width: 15%">東越谷4-9-1（市立図書館）</td>
+    <td style="width: 35%">文政年間に編さんされた［伝馬］［触書］［旧記］からなる和綴本。</td>
+    <td style="width: 10%">H3.3.28</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">37</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・古</td>
+    <td style="width: 20%">越ヶ谷小学校校務日誌</td>
+    <td style="width: 15%">越ヶ谷4-2-1（越谷市教育委員会）</td>
+    <td style="width: 35%">越ヶ谷尋常高等小学校で作成された昭和15年度の日誌、及び越ヶ谷国民学校で作成された昭和16、17、19、20、21年度の日誌。</td>
+    <td style="width: 10%">R7.6.30</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">38</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">建長元年板碑</td>
+    <td style="width: 15%">御殿町</td>
+    <td style="width: 35%">市内では最古最大の板碑。阿弥陀一尊。</td>
+    <td style="width: 10%">S45.3.23</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">39</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">文明3年十三仏板碑</td>
+    <td style="width: 15%">増林2687（勝林寺）</td>
+    <td style="width: 35%">月待供養。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">40</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">文和3年六字名号板碑</td>
+    <td style="width: 15%">大成町（個人蔵）</td>
+    <td style="width: 35%">市内で代表的名号板碑。「南無阿弥陀仏」。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">41</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">貞治6年七字題目板碑</td>
+    <td style="width: 15%">大道（個人蔵）</td>
+    <td style="width: 35%">市内で代表的題目板碑。「南無妙法蓮華経」。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">42</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">天文22年弥陀三尊図像板碑</td>
+    <td style="width: 15%">大成町（個人蔵）</td>
+    <td style="width: 35%">庚申待供養。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">43</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">承応2年庚申塔</td>
+    <td style="width: 15%">大成町（個人蔵）</td>
+    <td style="width: 35%">板碑型の文字供養塔。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">44</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・考</td>
+    <td style="width: 20%">廿一仏板石塔婆</td>
+    <td style="width: 15%">東町5-238</td>
+    <td style="width: 35%">
+     <p>銘「申待供養」「天正三年乙亥十二月吉日」。</p></td>
+    <td style="width: 10%">S60.9.27</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">45</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">徳川家康の夜具</td>
+    <td style="width: 15%">相模町6-442（大聖寺）</td>
+    <td style="width: 35%">かい巻。絹地で菊を配した柄模様のなかに三つ葉葵が各所に配されている寝衣。</td>
+    <td style="width: 10%">S58.3.31</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">46</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">清蔵院の山門</td>
+    <td style="width: 15%">蒲生本町13-41（清蔵院）</td>
+    <td style="width: 35%">龍の彫刻や虹梁の彫刻が江戸初期の様式。</td>
+    <td style="width: 10%">S59.9.27</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">47</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">一乗院の建具</td>
+    <td style="width: 15%">三野宮618（一乗院）</td>
+    <td style="width: 35%">神奈川御殿の解体資材が使用されている。板戸、欄間。</td>
+    <td style="width: 10%">S59.9.27</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">48</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">会田家歴代の墓所</td>
+    <td style="width: 15%">神明町（個人蔵）</td>
+    <td style="width: 35%">代々伊奈氏の譜代家臣として功績を残した会田家の墓所。</td>
+    <td style="width: 10%">S61.2.26</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">49</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">呑龍上人供養墓石</td>
+    <td style="width: 15%">平方249（林西寺）</td>
+    <td style="width: 35%">「子育呑龍」と称された呑龍上人の供養墓石。</td>
+    <td style="width: 10%">S62.1.29</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">50</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">平田篤胤奉納大絵馬</td>
+    <td style="width: 15%">越ヶ谷1700（久伊豆神社）</td>
+    <td style="width: 35%">「天之岩戸開」の大絵馬。文政3年（1820）の銘あり。</td>
+    <td style="width: 10%">S62.1.29</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">51</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">越谷吾山供養墓石</td>
+    <td style="width: 15%">越ヶ谷2549（天獄寺）</td>
+    <td style="width: 35%">方言学の租と評価された越谷吾山の墓石。</td>
+    <td style="width: 10%">H4.11.28</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">52</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">窮民救済の碑</td>
+    <td style="width: 15%">瓦曽根1-5-43（照蓮院）</td>
+    <td style="width: 35%">天保の大飢饉に農民を救済したことを記した碑。碑文と歌詞は国学者渡辺荒陽。</td>
+    <td style="width: 10%">H6.3.28</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">53</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">越巻中新田の産社祭礼帳</td>
+    <td style="width: 15%">新川町（個人蔵）</td>
+    <td style="width: 35%">江戸時代から現代まで、産社祭礼を中心として災害、年貢、救恤、鎮守社、助郷関係などの記録を書き継いだ綴帳。</td>
+    <td style="width: 10%">H7.4.28</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">54</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">越ヶ谷順正会関連資料</td>
+    <td style="width: 15%">越ヶ谷4-2-1（越谷市役所）</td>
+    <td style="width: 35%">全国で初めての疾病者救済を目的とした保健組織。国民健康保険制度発祥の地の資料。</td>
+    <td style="width: 10%">H9.3.28</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">55</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">三ノ宮卯之助銘の力石</td>
+    <td style="width: 15%">
+     <p>三野宮333（香取神社）<br>
+       越ヶ谷1700（久伊豆神社）他</p></td>
+    <td style="width: 35%">三ノ宮卯之助の銘が刻まれた力石6個</td>
+    <td style="width: 10%">
+     <p>H25.3.29</p></td>
+   </tr>
+   <tr>
+    <td style="width: 5%">56</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">
+     <p>青い目の人形</p>
+     <p>（付パスポート他）</p></td>
+    <td style="width: 15%">
+     <p>大沢2-13-21（大沢小学校）</p>
+     <p>大竹147（大袋小学校）</p></td>
+    <td style="width: 35%">
+     <p>昭和2年（1927）の日米交流事業で越谷市内に贈られた4体のうち、唯一現存している青い目の人形（大沢小学校所有）とパスポート、友情の手紙、市松人形、受領会の写真。</p></td>
+    <td style="width: 10%">R7.6.30</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">57</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">瓦曾根溜井防水記念碑</td>
+    <td style="width: 15%">相模町1丁目（谷古田河畔緑道スポット広場）</td>
+    <td style="width: 35%">明治23年（1890）に起きた水害と当時の人々の水防への取り組みを示す石碑。</td>
+    <td style="width: 10%">R7.6.30</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">58</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有・歴</td>
+    <td style="width: 20%">越谷隕石</td>
+    <td style="width: 15%">大里（個人蔵）</td>
+    <td style="width: 35%">
+     <p>明治35年（1902）3月8日に桜井村大里(今の越谷市大里)に落下。令和5年（2023）に国際隕石学会に「越谷隕石（Koshigaya）」として登録された。</p></td>
+    <td style="width: 10%">R7.6.30</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">59</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有　民</td>
+    <td style="width: 20%">第六天の算額</td>
+    <td style="width: 15%">下間久里（個人蔵）</td>
+    <td style="width: 35%">下間久里の第六天の算額。</td>
+    <td style="width: 10%">S50.5.2</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">60</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">有　民</td>
+    <td style="width: 20%">「観音堂の縁日風景」絵馬</td>
+    <td style="width: 15%">大泊104（大泊観音堂）</td>
+    <td style="width: 35%">縁日風景絵馬。</td>
+    <td style="width: 10%">S59.9.27</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">61</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">無　民</td>
+    <td style="width: 20%">越谷の木遣歌</td>
+    <td style="width: 15%">越谷市周辺</td>
+    <td style="width: 35%">江戸系木遣歌17曲目が伝承されている。</td>
+    <td style="width: 10%">H2.2.20</td>
+   </tr>
+   <tr>
+    <td>62</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">無　民</td>
+    <td style="width: 20%">
+     <p>越谷久伊豆神社例大祭の山車行事（越ヶ谷秋まつり）</p></td>
+    <td style="width: 15%">埼玉県越谷市越ヶ谷本町・中町・越ヶ谷一丁目・二丁目・三丁目・弥生町ほか</td>
+    <td style="width: 35%">元禄年間頃から始まったと伝えられる、五穀豊穣を祝い、地域の発展を願う祭り。越ヶ谷地域の人たちによって古くからの習俗がしっかりと受け継がれており、埼玉県東部地域を代表する都市祭礼として貴重な要件を供えた民俗行事。</td>
+    <td style="width: 10%">R8.1.26</td>
+   </tr>
+   <tr>
+    <td>63</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・史</td>
+    <td style="width: 20%">見田方遺跡</td>
+    <td style="width: 15%">見田方遺跡公園周辺</td>
+    <td style="width: 35%">古墳後期の竪穴住居址。</td>
+    <td style="width: 10%">S42.1.11</td>
+   </tr>
+   <tr>
+    <td>64</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・史</td>
+    <td style="width: 20%">清浄院開山塚</td>
+    <td style="width: 15%">大松60（清浄院）</td>
+    <td style="width: 35%">鎌倉時代後期の示寂といわれる開山僧の円墳。</td>
+    <td style="width: 10%">S52.1.25</td>
+   </tr>
+   <tr>
+    <td>65</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・史</td>
+    <td style="width: 20%">越谷吾山句碑</td>
+    <td style="width: 15%">越ヶ谷1700（久伊豆神社）</td>
+    <td style="width: 35%">嘉永2年（1849）正月の建碑。</td>
+    <td style="width: 10%">S58.3.31</td>
+   </tr>
+   <tr>
+    <td>66</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・名</td>
+    <td style="width: 20%">久伊豆神社社叢</td>
+    <td style="width: 15%">越ヶ谷1700（久伊豆神社）</td>
+    <td style="width: 35%">久伊豆神社境内の樹林。</td>
+    <td style="width: 10%">S42.1.11</td>
+   </tr>
+   <tr>
+    <td>67</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">林泉寺駒止のマキ</td>
+    <td style="width: 15%">増林3818（林泉寺）</td>
+    <td style="width: 35%">家康が馬を止めたという。</td>
+    <td style="width: 10%">S42.1.11</td>
+   </tr>
+   <tr>
+    <td>68</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">ラクウショウ</td>
+    <td style="width: 15%">越ヶ谷2563-1（越谷アリタキ植物園）</td>
+    <td style="width: 35%">県内でもめずらしいヌマスギ科の落葉針葉樹。</td>
+    <td style="width: 10%">S42.1.11</td>
+   </tr>
+   <tr>
+    <td>69</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">有瀧家のタブノキ</td>
+    <td style="width: 15%">中町（個人蔵）</td>
+    <td style="width: 35%">
+     <p>幹回り3.7m、樹高約17m。</p></td>
+    <td style="width: 10%">S42.1.11</td>
+   </tr>
+   <tr>
+    <td>70</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">大聖寺のタブノキ</td>
+    <td style="width: 15%">相模町6-442（大聖寺）</td>
+    <td style="width: 35%">幹回り4m、樹高約8m。</td>
+    <td style="width: 10%">S58.3.31</td>
+   </tr>
+   <tr>
+    <td>71</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">浅間神社のケヤキ</td>
+    <td style="width: 15%">中町7（浅間神社）</td>
+    <td style="width: 35%">市内最大のケヤキ。幹回り7m、樹高約23m。</td>
+    <td style="width: 10%">S58.3.31</td>
+   </tr>
+   <tr>
+    <td>72</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">中村家のイチョウ</td>
+    <td style="width: 15%">東越谷（個人蔵）</td>
+    <td style="width: 35%">雌株。3本あり、幹回りはそれぞれ4.67m、4.58m、4.06m。樹高はいずれも約20m。</td>
+    <td style="width: 10%">S58.3.31</td>
+   </tr>
+   <tr>
+    <td>73</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">聖徳寺のイチョウ</td>
+    <td style="width: 15%">北川崎18（聖徳寺）</td>
+    <td style="width: 35%">雌株。幹回り4m、樹高約20m。</td>
+    <td style="width: 10%">S59.9.27</td>
+   </tr>
+   <tr>
+    <td>74</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">森家のイチョウ</td>
+    <td style="width: 15%">平方（個人蔵）</td>
+    <td style="width: 35%">雌株。幹回り3.6m、樹高約20m。</td>
+    <td style="width: 10%">H1.3.31</td>
+   </tr>
+   <tr>
+    <td>75</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">田中家のクスノキ</td>
+    <td style="width: 15%">川柳町（個人蔵）</td>
+    <td style="width: 35%">幹回り3.64m、樹高約25m。</td>
+    <td style="width: 10%">S62.1.29</td>
+   </tr>
+   <tr>
+    <td>76</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・天</td>
+    <td style="width: 20%">中村家のクスノキ</td>
+    <td style="width: 15%">大成町（個人蔵）</td>
+    <td style="width: 35%">幹回り3.65m、樹高約25m。</td>
+    <td style="width: 10%">S63.2.27</td>
+   </tr>
+   <tr>
+    <td>77</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・旧</td>
+    <td style="width: 20%">越ヶ谷御殿跡</td>
+    <td style="width: 15%">御殿町</td>
+    <td style="width: 35%">家康・秀忠がよく逗留した宿泊所。およそ六町余歩。</td>
+    <td style="width: 10%">S47.10.25</td>
+   </tr>
+   <tr>
+    <td style="width: 5%">78</td>
+    <td style="width: 5%">市</td>
+    <td style="width: 10%">記・旧</td>
+    <td style="width: 20%">千徳丸供養塔</td>
+    <td style="width: 15%">瓦曽根1-5-43（照蓮院）</td>
+    <td style="width: 35%">武田勝頼の遺児千徳丸の供養塔。</td>
+    <td style="width: 10%">
+     <p>S50.5.2</p></td>
+   </tr>
+  </tbody>
+ </table>
+</div>
+<h3 class="partsstyle_h3">登録有形文化財 （建造物）</h3>
+<table class="Table" style="height: 1000px; width: 1000px;" width="699">
+ <tbody>
+  <tr>
+   <th scope="col" style="width: 5%; text-align: center;">No.</th>
+   <th scope="col" style="width: 20%; text-align: center;">名称</th>
+   <th scope="col" style="width: 15%; text-align: center;">所在地</th>
+   <th scope="col" style="width: 20%; text-align: center;">概要</th>
+   <th scope="col" style="width: 15%; text-align: center;">登録年月日</th>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>1</p></td>
+   <td>
+    <p>木下半助商店店舗及び土蔵</p></td>
+   <td rowspan="4">
+    <p>中町</p>
+    <p>&nbsp;</p></td>
+   <td rowspan="4" valign="top">
+    <p>旧日光道中の中ほどに位置する明治時代後期から大正時代にかけて建築された道具店。</p></td>
+   <td rowspan="4">
+    <p align="right">H27.11.17</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>2</p></td>
+   <td>
+    <p>木下半助商店石蔵</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>3</p></td>
+   <td>
+    <p>木下半助商店主屋</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>4</p></td>
+   <td>
+    <p>木下半助商店稲荷社</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>5</p></td>
+   <td>
+    <p>旧大野家住宅主屋</p></td>
+   <td rowspan="2">
+    <p>越ヶ谷本町8-8</p></td>
+   <td rowspan="2" valign="top">
+    <p>旧日光道中沿いに位置する元商家。現在は古民家複合施設「はかり屋」として活用されている。</p></td>
+   <td rowspan="2">
+    <p align="right">H31.3.29</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>6</p></td>
+   <td>
+    <p>旧大野家住宅土蔵</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>7</p></td>
+   <td>
+    <p>大間野町旧中村家住宅主屋</p></td>
+   <td rowspan="6">
+    <p>大間野町1-100-4</p></td>
+   <td rowspan="6" valign="top">
+    <p>江戸時代に旧大間野村（現在の大間野町周辺）の名主を務めた中村氏の旧宅。平成9年に越谷市が寄贈を受け、保存・公開している。</p></td>
+   <td rowspan="6">
+    <p align="right">R3.10.14</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>8</p></td>
+   <td>
+    <p>大間野町旧中村家住宅納屋</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>9</p></td>
+   <td>
+    <p>大間野町旧中村家住宅土蔵</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>10</p></td>
+   <td>
+    <p>大間野町旧中村家住宅石蔵</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>11</p></td>
+   <td>
+    <p>大間野町旧中村家住宅御嶽社</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>12</p></td>
+   <td>
+    <p>大間野町旧中村家住宅長屋門</p></td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>13</p></td>
+   <td>
+    <p>都築家糀屋蔵</p>
+    <p>&nbsp;</p></td>
+   <td>
+    <p>越谷本町3-29</p></td>
+   <td valign="top">
+    <p>味噌醸造業を営む商家によって旧日光道中沿いに造られた土蔵風鉄筋工ンクリート造の2階建て倉庫。現在は1階がカフェ、2階が多目的スペースとして活用されている。</p></td>
+   <td valign="top">
+    <p style="text-align: right;">R5.8.7</p>
+    <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+   <td valign="top">14</td>
+   <td>久伊豆神社　本殿</td>
+   <td colspan="1" rowspan="3">越ヶ谷1700</td>
+   <td colspan="1" rowspan="3" valign="top">久伊豆神社は、江戸時代には徳川家康・国学者平田篤胤らと関わりが深いとされ、平田篤胤奉納の大絵馬や地域ゆかりの石造物が数多く残されている。登録された建造物は、寛政元年に建設され精緻な彫刻で飾った本殿、明治前期に建設され現在も神楽の舞台として利用されている神楽殿、嘉永2年の銘がある手水鉢を覆う手水舎。</td>
+   <td style="text-align: right;" valign="top">R7.3.13</td>
+  </tr>
+  <tr>
+   <td valign="top">
+    <p>15</p></td>
+   <td>久伊豆神社　神楽殿</td>
+   <td style="text-align: right;" valign="top">R7.3.13</td>
+  </tr>
+  <tr>
+   <td valign="top">16</td>
+   <td>
+    <p>久伊豆神社　手水舎</p></td>
+   <td style="text-align: right;" valign="top">R7.3.13</td>
+  </tr>
+  <tr>
+   <td valign="top">17</td>
+   <td>
+    <p>旧山﨑家住宅（油長）内蔵</p></td>
+   <td>越ヶ谷3-2-19-5</td>
+   <td valign="top">越ヶ谷宿中心部に位置するかつての肥料商の家財蔵。旧山﨑家13代当主の山﨑篤利は国学者平田篤胤の高弟、経済的支援者としても知られている。</td>
+   <td style="text-align: right;" valign="top">
+    <p>R7.8.6</p></td>
+  </tr>
+  <tr>
+   <td valign="top">18</td>
+   <td>
+    <h3>林泉寺本堂</h3></td>
+   <td colspan="1" rowspan="6">越谷市増林3818</td>
+   <td colspan="1" rowspan="6" valign="top">
+    <p>林泉寺は、永仁5年創建と伝えられる古刹で、境内には徳川家康が鷹狩りの際に馬を繋いだと伝えられる市指定文化財「林泉寺駒止めのマキ」が残されている。登録された建物は、延宝元年頃に建設され、内陣に文政8年改修時の姿を残す本堂、宝暦12年に建設され、内部に子安観音立像を安置する子安観音堂、延享5年に建設され、落ち着いた外観で境内景観をつくる鐘楼堂、江戸後期に建設され、内部に地蔵菩薩坐像を安置する地蔵堂、宝暦6年に建設され、地元から赤門と呼び親しまれる表門、江戸末期に建設され、地元から黒門と呼び親しまれる脇門。</p></td>
+   <td colspan="1" rowspan="6" style="text-align: right;" valign="top">R8.2.10</td>
+  </tr>
+  <tr>
+   <td valign="top">19</td>
+   <td>
+    <h3>林泉寺子安観音堂</h3></td>
+  </tr>
+  <tr>
+   <td valign="top">20</td>
+   <td>
+    <h3>林泉寺鐘楼堂</h3></td>
+  </tr>
+  <tr>
+   <td valign="top">21</td>
+   <td>
+    <h3>林泉寺地蔵堂</h3></td>
+  </tr>
+  <tr>
+   <td valign="top">22</td>
+   <td>
+    <h3>林泉寺表門（赤門）</h3></td>
+  </tr>
+  <tr>
+   <td valign="top">23</td>
+   <td>
+    <h3>林泉寺脇門（黒門）</h3></td>
+  </tr>
+ </tbody>
+</table>
+<div class="wysiwyg_wp">
+ <div class="h3bg">
+  <div>
+   <h3>凡例</h3>
+  </div>
+ </div>
+ <p>美・彫　美術工芸品（彫刻）<br>
+   有・建　有形文化財（建築物）<br>
+   有・絵　有形文化財（絵画）<br>
+   有・彫　有形文化財（彫刻）<br>
+   有・工　有形文化財（工芸品）<br>
+   有・書　有形文化財（書籍・典籍・古文書）<br>
+   有・考　有形文化財（考古資料）<br>
+   有・歴　有形文化財（歴史資料）<br>
+   無　文　無形文化財<br>
+   有　民　有形民俗文化財<br>
+   無　民　無形民俗文化財<br>
+   記・史　記念物（史跡）<br>
+   記・旧　記念物（旧跡）<br>
+   記・名　記念物（名勝）<br>
+   記・天　記念物（天然記念物）</p>
+</div>
+          </div>
+            <div class="adobe_info" style="display:none">
+  <p>PDF形式のファイルを開くには、Adobe Acrobat Reader DC（旧Adobe Reader）が必要です。<br>
+    お持ちでない方は、Adobe社から無償でダウンロードできます。</p>
+  <div class="adobe_link">
+    <p class="img"><img src="/img/bnr_adobe.jpg" alt="Adobe Acrobat Readerのバナー"></p>
+    <p class="link"><a href="https://get.adobe.com/jp/reader/" target="_blank" rel="noopener noreferrer">Adobe Acrobat Reader DCのダウンロードへ<img src="/img/icon_external_link.png" alt="外部サイトへのリンク" class="icon_external_link"></a></p>
+  </div>
+</div>
+            <div id="contact" class="page_contact">
+<p class="tit">このページに関するお問い合わせ</p>
+<div class="txt">
+  <p>
+      <a href="/toiawase/sosiki2/kyoikusomu/shougaigakushu/">教育総務部 生涯学習課（第三庁舎3階） </a>
+    
+          <br>電話：048-963-9315
+        <br>ファクス：048-965-5954
+    </p>
+</div>
+</div>
+            <div id="feedback">
+  <fieldset class="fedd1">
+    <legend>より分かりやすいホームページとするため、ご意見をお聞かせください</legend>
+    <div id="feedback_box">
+      <div class="fedd">
+        <span class="tit">お求めの情報が十分掲載されていましたか？</span>
+        <input class="winq1" type="radio" name="item1" value="十分だった" id="point1_3"><label for="point1_3">十分だった</label>
+        <input class="winq1" type="radio" name="item1" value="普通" id="point1_2"><label for="point1_2">普通</label>
+        <input class="winq1" type="radio" name="item1" value="情報が足りない" id="point1_1"><label for="point1_1">情報が足りない</label>
+      </div>
+      <div class="fedd">
+        <span class="tit">ページの構成や内容、表現は分かりやすいものでしたか？</span>
+        <input class="winq1" type="radio" name="item2" value="分かりやすい" id="point2_3"><label for="point2_3">分かりやすい</label>
+        <input class="winq1" type="radio" name="item2" value="普通" id="point2_2"><label for="point2_2">普通</label>
+        <input class="winq1" type="radio" name="item2" value="分かりにくい" id="point2_1"><label for="point2_1">分かりにくい</label>
+      </div>
+      <div class="fedd">
+        <span class="tit">お求めの情報は見つけやすいものでしたか？</span>
+        <input class="winq1" type="radio" name="item3" value="すぐに見つけた" id="point3_3"><label for="point3_3">すぐに見つけた</label>
+        <input class="winq1" type="radio" name="item3" value="普通" id="point3_2"><label for="point3_2">普通</label>
+        <input class="winq1" type="radio" name="item3" value="時間がかかった" id="point3_1"><label for="point3_1">時間がかかった</label>
+      </div>
+      <p>（注釈）ブラウザでCookie（クッキー）が使用できる設定になっていない、または、ブラウザがCookie（クッキー）に対応していない場合は利用いただけません。</p>
+      <div>
+        <input class="winq1" type="hidden" name="pageid" value="58396" />
+        <input class="winq1" type="hidden" name="pagetitle" value="" />
+        <input class="winq1" type="hidden" name="pageurl" value="" />
+      </div>
+      <div>
+        <div class="submitbox">
+          <input type="button" class="fedbt" value="送信" name="button" onclick="formsubmit();">
+          <p class="thanks" style="display:none;">ご協力ありがとうございました。<br>送信いただきました内容については、今後の運営の参考とさせていただきます。</p>
+        </div>
+      </div>
+    </div>
+  </fieldset>
+</div>
+<script type="text/javascript">
+function formsubmit() {
+    let forms = document.querySelectorAll(".winq1");
+    var request = new XMLHttpRequest();
+    request.onreadystatechange = function() {
+        if (request.readyState == 4) {
+            if (request.status == 200 && request.responseText == "0") {
+                $(".submitbox > input").hide()
+                $(".submitbox > p").show();
+            } else {
+                alert(_willinq.message.fail + "(" + request.status + ":" + request.statusText  + ")");
+            }
+        }
+    };
+    _willinq.post_forms("1", forms, request);
+}
+</script>
+                            </div>
+      </div>
+              
+                          
+        <div id="localnavi">
+    <div id="emergency_navi"></div>
+          
+  
+      
+  
+
+        </p>
+    </p>
+          </div>
+    </div>
+          </section>
+
+    <!-- フッター -->
+      <p id="page_top" class="page-top"><a href="#blockskip"><span><img src="/img/pagetop.png" alt="ページ上部へ戻る"></span></a></p>
+<footer class="foot-wrap">
+  <ul class="footlist">
+    <li class="footer_nav_item"><a href="/aboutweb/index.html">このサイトについて</a></li>
+    <li class="footer_nav_item"><a href="/aboutweb/webaccessibility/index.html">ウェブアクセシビリティ方針</a></li>
+    <li class="footer_nav_item"><a href="/aboutweb/privacy.html">個人情報保護方針・免責事項</a></li>
+    <li class="footer_nav_item"><a href="/aboutweb/zyouhoukensaku.html">情報が見つからない時は</a></li>
+    <li class="footer_nav_item"><a href="/sitemap.html">サイトマップ</a></li>
+  </ul>
+  <div class="footer_bg add clearfix">
+    <div class="add_wp_l">
+      <div class="addtitle clearfix">
+        <p>越谷市役所</p>
+      </div>
+      <address class="address">〒343-8501<br>埼玉県越谷市越ヶ谷四丁目2番1号</address>
+      <p>電話：048-964-2111（代表）　ファクス：048-965-6433</p>
+      <p>開庁時間：開庁日の午前8時30分から午後5時15分</p>
+      <p>法人番号：6000020112224</p>
+      <p><a href="/toiawase/kaichou.html">開庁日について</a></p>
+    </div>
+    <div class="add_wp_r btnlinks">
+      <div class="col2"><a href="/toiawase/sosiki2/index.html"><span class="arrow-black">組織から探す</span></a></div>
+      <div><a href="/aboutweb/faq/faq_top.html"><span class="arrow-black">よくある質問</span></a></div>
+      <div><a href="https://www1.g-reiki.net/koshigaya/reiki_menu.html" target="_blank" rel="noopener noreferrer"><span class="arrow-black">例規集<img src="/img/icon_external_link.png" alt="外部サイトへのリンク" class="icon_external_link"></span></a></div>
+      <div class="foot_btn01"><a href="/toiawase/map.html"><span>市役所・出張所へのアクセス</span></a></div>
+      <div class="foot_btn02"><a href="/toiawase/tel.html"><span>各課へのお問い合わせ</span></a></div>
+    </div>
+  </div>
+  <div id="foot-bgcopy">
+    <div id="foot-copy">
+      <small lang="en">Copyright Koshigaya City.All Rights Reserved.</small>
+    </div>
+  </div>
+</footer>
+  </div>
+  </div>
+    <!--イチOSHI！こしがや-->
+<div id="WagamachiPortalBanner"></div>
+
+<script>
+var wysiwygmode = "false";
+</script>
+  <script type="text/javascript" src="/js/plugin/swiper-bundle.min.js"></script>
+  
+<script type="text/javascript" src="/js/swiper_custom.js?date=20251001"></script>
+<script type="text/javascript" src="/js/jquery.matchHeight.js"></script>
+<script type="text/javascript" src="/js/main.js?date=20230802"></script>
+<script type="text/javascript" src="/js/accordion.js"></script>
+<script type="text/javascript" src="/js/paginathing.min.js"></script>
+<script type="text/javascript" src="/js/willinq.js"></script>
+<script type="text/javascript" src="/js/willbanner.js?date=20240425"></script>
+<script type="text/javascript" src="/js/willcommon.js?date=20260109"></script>
+<script type="text/javascript" src="/js/socialbutton_fix.js?date=20230210"></script>
+<script type="text/javascript" src="/js/sxBanner.js"></script>
+
+<!--チャットボット-->
+<script type="text/javascript" src="/js/chatbot.js"></script>
+<div class="dsn-widget" tabindex="0">
+  <div class="wj_close_btn">
+    <div id="wj-close" tabindex="0">×</div>
+  </div>
+  <img src="/img/icon_chatbot.png" alt="越谷市チャットボット" width="120" height="120" onclick="clickStart()">
+</div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "c0853a47a86dfaa2": {
+    "url": "https://www.city.kumagaya.lg.jp/kanko/rekisi/bunkazai/index.html",
+    "filename": "c0853a47a86dfaa2.html",
+    "sha256": "7c3244bcf3f9a96a97f58ad82e0e40d9784a417da5ec3ce16c4e52086a4ffc3e",
+    "fetched_at": "2026-07-07T06:08:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7a4773b927643b7c": {
+    "url": "http://www.kumagaya-bunkazai.jp/museum/frames/bunkazai.htm",
+    "filename": "7a4773b927643b7c.html",
+    "sha256": "c540562204a97ebc756ed72e61ec39968ca466fc08abd93a896557f64a8b5050",
+    "fetched_at": "2026-07-07T06:08:26Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "2c7bf458bfcf1ccd": {
+    "url": "https://www.city.fukaya.saitama.jp/rekishi_bunkazai/shinobunkazai/fukayashishiteinobunkazai/index.html",
+    "filename": "2c7bf458bfcf1ccd.html",
+    "sha256": "2ef2e487d366997eaeae27ae20a9c71838fd1d6a6dea51edd6cb13d09e309785",
+    "fetched_at": "2026-07-07T06:08:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0884e299d22944df": {
+    "url": "https://www.city.fukaya.saitama.jp/rekishi_bunkazai/shinobunkazai/fukayashishiteinobunkazai/yukeibunkazai/index.html",
+    "filename": "0884e299d22944df.html",
+    "sha256": "e252be2b9a1ae6af20c417f0ed1ac117ab993fb80067c9f8222786e83b1b3096",
+    "fetched_at": "2026-07-07T06:08:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "916213c4e8bd9f70": {
+    "url": "https://www.city.fukaya.saitama.jp/rekishi_bunkazai/shinobunkazai/fukayashishiteinobunkazai/kinenbutu/index.html",
+    "filename": "916213c4e8bd9f70.html",
+    "sha256": "f616b38f205adb5096a4ef3405f78b6e5dfac4b4428b853ff82c32d452fffebc",
+    "fetched_at": "2026-07-07T06:08:52Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}
