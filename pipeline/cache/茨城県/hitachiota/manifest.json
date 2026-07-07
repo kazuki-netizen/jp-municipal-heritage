@@ -1,0 +1,18 @@
+{
+  "407a55b2bff59ee2": {
+    "url": "https://www.city.hitachiota.ibaraki.jp/kyoiku-bunka-sports/kyoiku-iinkai/bunka-geijutsu/bunkazai/page003374.html",
+    "filename": "407a55b2bff59ee2.html",
+    "sha256": "ad30a88d5682f5a5b53c695e6c4f49907fc3876edad08b084f56383a2f4aa1e8",
+    "fetched_at": "2026-07-06T12:59:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "80bf79a28277b657": {
+    "url": "https://www.city.hitachiota.ibaraki.jp/data/doc/1741742404_doc_114_0.pdf",
+    "filename": "80bf79a28277b657.pdf",
+    "sha256": "af048572d768f7662c232db7b3bfaa1b6613af85a906d39ab4470b6a6c178317",
+    "fetched_at": "2026-07-06T12:59:33Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

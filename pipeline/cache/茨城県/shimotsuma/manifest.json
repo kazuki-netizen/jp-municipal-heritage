@@ -1,0 +1,18 @@
+{
+  "da4018d9e1684532": {
+    "url": "https://www.city.shimotsuma.lg.jp/shogaigakushu-bunka-sports/bunka/shiseki-bunkazai/page000358.html",
+    "filename": "da4018d9e1684532.html",
+    "sha256": "86101f7da98ba65df5b361ed7d49e56667d460cba83b16f7ec916fe424bfbb1d",
+    "fetched_at": "2026-07-06T12:59:27Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "55ed69236aef227b": {
+    "url": "https://www.city.shimotsuma.lg.jp/data/doc/1677480217_doc_226_0.pdf",
+    "filename": "55ed69236aef227b.pdf",
+    "sha256": "ba40debc8c889752c674605b6d6fe957d86e60307b658e32b5efdf7341e7f1c7",
+    "fetched_at": "2026-07-06T12:59:29Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

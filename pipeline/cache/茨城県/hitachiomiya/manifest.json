@@ -1,0 +1,26 @@
+{
+  "9862a4a6ebd95fd0": {
+    "url": "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/kankou_bunka/history/bunkazai/",
+    "filename": "9862a4a6ebd95fd0.html",
+    "sha256": "566df2595eaa48b3225138e7a45bbc0e66b336abe1d7da5e1144f3e99b9c69f7",
+    "fetched_at": "2026-07-06T12:59:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1fa8b3830f9efa45": {
+    "url": "https://www.city.hitachiomiya.lg.jp/data/doc/1400826658_doc_81_0.pdf",
+    "filename": "1fa8b3830f9efa45.pdf",
+    "sha256": "12a33d44e65b26794268ad76ee72006f2ef84fb18c42716dd6b5f1186827ea1a",
+    "fetched_at": "2026-07-06T12:59:46Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "1c5754444c78e83e": {
+    "url": "https://www.city.hitachiomiya.lg.jp/data/doc/1400826658_doc_81_1.pdf",
+    "filename": "1c5754444c78e83e.pdf",
+    "sha256": "b4ea65a00c865f90fe674952b540a0e089b80094dd4863025e48c40cb9313cbd",
+    "fetched_at": "2026-07-06T12:59:48Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

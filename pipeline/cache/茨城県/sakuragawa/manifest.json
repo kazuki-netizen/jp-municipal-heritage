@@ -1,0 +1,18 @@
+{
+  "b0d97a757ab84319": {
+    "url": "https://www.city.sakuragawa.lg.jp/education/bunkazai/city_bunkazai/page003596.html",
+    "filename": "b0d97a757ab84319.html",
+    "sha256": "c9c1d616326e89f7bcfa44c846e28c9a98cc9eed49bc192275e17806a7fc7259",
+    "fetched_at": "2026-07-06T12:59:55Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f4dea8e24b0db35a": {
+    "url": "https://www.city.sakuragawa.lg.jp/data/doc/1619774189_doc_10_6.pdf",
+    "filename": "f4dea8e24b0db35a.pdf",
+    "sha256": "9aa3d5342c88c0b5f1f2a4dc75567b93ceb360b7a5b2fd55a89eb87682c43d87",
+    "fetched_at": "2026-07-06T12:59:57Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

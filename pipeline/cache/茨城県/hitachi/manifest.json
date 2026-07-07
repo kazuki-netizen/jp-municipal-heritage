@@ -1,0 +1,18 @@
+{
+  "ec3819261c6bd7c7": {
+    "url": "https://www.city.hitachi.lg.jp/museum/manabu_tanoshimu/1005344/1005345.html",
+    "filename": "ec3819261c6bd7c7.html",
+    "sha256": "e9c1c6aab819ee7e6be07df16df3c06790b200ca3e758f17f6dc846bd5e5ee87",
+    "fetched_at": "2026-07-06T12:59:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0390cf3351c9a798": {
+    "url": "https://www.city.hitachi.lg.jp/museum/_res/projects/default_project/_page_/001/005/345/20060401.xlsx",
+    "filename": "0390cf3351c9a798.csv",
+    "sha256": null,
+    "fetched_at": "2026-07-06T12:59:17Z",
+    "http_status": 404,
+    "format": "csv"
+  }
+}

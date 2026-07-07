@@ -1,0 +1,18 @@
+{
+  "a1f43455994b3a02": {
+    "url": "https://www.vill.tokai.ibaraki.jp/soshikikarasagasu/kyoikuiinkai/shogaigakushuka/kouryuukan/hakubun/tokai_bunkazai/1032.html",
+    "filename": "a1f43455994b3a02.html",
+    "sha256": "81a90acbad5a043eb3bb3d4c3a08ab6b8cb6856f779020f8c199086a18acee20",
+    "fetched_at": "2026-07-06T13:00:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3635f4c71fef5c84": {
+    "url": "https://www.vill.tokai.ibaraki.jp/material/files/group/24/bunkazai_sitei_20250901.pdf",
+    "filename": "3635f4c71fef5c84.pdf",
+    "sha256": "9dd5ae766847fe5fd5199239082fc3f5a3b6cf7ad423dd0155d0e3a58d13de00",
+    "fetched_at": "2026-07-06T13:00:19Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

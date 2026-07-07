@@ -1,0 +1,18 @@
+{
+  "41a3fdd390f62517": {
+    "url": "https://www.city.namegata.ibaraki.jp/kyouiku/syouiku-syougai/kyouikku-bunka-shinkou/kyouiku-bukazai/page001625.html",
+    "filename": "41a3fdd390f62517.html",
+    "sha256": "94dfc43da36e4f1a5a91508c8b7760a436ebc879c0b44f813e259d9fd3f56e04",
+    "fetched_at": "2026-07-06T13:00:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "124e4fb222e89c4f": {
+    "url": "https://www.city.namegata.ibaraki.jp/data/doc/1486365688_doc_217_0.pdf",
+    "filename": "124e4fb222e89c4f.pdf",
+    "sha256": "a30a3dbd66caa49def5fe4062f45dcc47d339c3e8256f8805140144472b1e987",
+    "fetched_at": "2026-07-06T13:00:02Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

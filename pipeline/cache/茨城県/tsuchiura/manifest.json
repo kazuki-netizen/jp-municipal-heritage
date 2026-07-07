@@ -1,0 +1,18 @@
+{
+  "786eec5add02abab": {
+    "url": "https://www.city.tsuchiura.lg.jp/kanko-bunka-sports/rekishi-bunkazai-maizobunkazai/shitei-touroku/page000749.html",
+    "filename": "786eec5add02abab.html",
+    "sha256": "2e369cb913677c30e007f6addcce08c59dd1ac2460257a2dacdc13d9d6a458ee",
+    "fetched_at": "2026-07-06T12:59:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "09106a723e2f8482": {
+    "url": "https://www.city.tsuchiura.lg.jp/data/doc/1745282869_doc_216_0.doc",
+    "filename": "09106a723e2f8482.pdf",
+    "sha256": "266a13bf2cb90d496f0af7ea7c76bcbd3674c6413f19e8ee0df8f226d369d0a1",
+    "fetched_at": "2026-07-06T12:59:19Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

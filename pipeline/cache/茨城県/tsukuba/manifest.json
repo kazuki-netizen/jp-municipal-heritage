@@ -1,0 +1,18 @@
+{
+  "8e5c47ffee839b1b": {
+    "url": "https://www.city.tsukuba.lg.jp/kankobunka/bunka/rekishi/1001638.html",
+    "filename": "8e5c47ffee839b1b.html",
+    "sha256": "52de272899c747903de11aeebc445bdae9b56b27a0105f1a9f041c6366194f5b",
+    "fetched_at": "2026-07-06T12:59:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e0e6778dbcc8ca18": {
+    "url": "https://www.city.tsukuba.lg.jp/material/files/group/156/R7_tsukuba_shiteibunkazaiichiran.pdf",
+    "filename": "e0e6778dbcc8ca18.pdf",
+    "sha256": "f3f1ac229f20fcfecad3ef7b4bd28d98d1e917b54cd77acca50a9124a4f732bf",
+    "fetched_at": "2026-07-06T12:59:37Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

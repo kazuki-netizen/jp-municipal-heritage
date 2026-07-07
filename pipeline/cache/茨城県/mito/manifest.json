@@ -1,0 +1,26 @@
+{
+  "96d79befae609ef9": {
+    "url": "https://www.city.mito.lg.jp/site/education/4161.html",
+    "filename": "96d79befae609ef9.html",
+    "sha256": "147d4ea761d09661f60f381f93a8faea1b4ad032635275b8462ebedd6313fca6",
+    "fetched_at": "2026-07-06T12:59:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "90e89aa79fa645f5": {
+    "url": "https://www.city.mito.lg.jp/site/education/3175.html",
+    "filename": "90e89aa79fa645f5.html",
+    "sha256": "519d0ad63c9f83b56602d8379e4637f07e14bd9c0b9fe83bc267ac34c6cd8849",
+    "fetched_at": "2026-07-06T12:59:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "288737fbf6961196": {
+    "url": "https://www.city.mito.lg.jp/uploaded/attachment/67722.xlsx",
+    "filename": "288737fbf6961196.csv",
+    "sha256": "297e581fd47fbe8f782af61dde77f04a82a9be3314a349da9f3aa4abd33bac04",
+    "fetched_at": "2026-07-06T12:59:13Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}
