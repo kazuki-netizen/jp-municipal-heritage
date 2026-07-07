@@ -40,3 +40,4 @@ data/ichinoseki.jsonl
 data/ichinoseki_old_rows.jsonl
 data/morioka_raw.txt
 notes/
+.vercel

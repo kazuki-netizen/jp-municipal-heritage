@@ -1,0 +1,18 @@
+{
+  "0fc7f2d2895d11c1": {
+    "url": "https://www.city.kamisu.ibaraki.jp/kanko_sports/culture/1002532/1002538.html",
+    "filename": "0fc7f2d2895d11c1.html",
+    "sha256": "f5a14657470b657c0cb07354e85ec3a8115cd8309848238d3489d63a0be0aa40",
+    "fetched_at": "2026-07-06T12:59:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ec5929f95343018a": {
+    "url": "https://www.city.kamisu.ibaraki.jp/_res/projects/default_project/_page_/001/002/538/siteibunkazaihyo.pdf",
+    "filename": "ec5929f95343018a.pdf",
+    "sha256": "c32f214ce2c038ee811f71f35f4c2ffa88c0a7e64e0567f6d33fb6850f855922",
+    "fetched_at": "2026-07-06T13:00:00Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "9468470a0d4de8e7": {
+    "url": "https://www.city.yuki.lg.jp/kosodate-kyouiku/shougaigakushuu/bunkazai/bunkazai/shishitei/page003196.html",
+    "filename": "9468470a0d4de8e7.html",
+    "sha256": "b6225fdd05f82a5424bc9ffca84d57e44e442c4d58d20b9d58bdd06bd4725c72",
+    "fetched_at": "2026-07-06T12:59:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "400678aa14e4104c": {
+    "url": "https://www.city.yuki.lg.jp/kosodate-kyouiku/shougaigakushuu/bunkazai/bunkazai/shishitei/page003197.html",
+    "filename": "400678aa14e4104c.html",
+    "sha256": "81aaf01c4239d425e470078b00bb89e0b6ae0fdbf9ba49f35e8ac2d595e145f5",
+    "fetched_at": "2026-07-06T12:59:25Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

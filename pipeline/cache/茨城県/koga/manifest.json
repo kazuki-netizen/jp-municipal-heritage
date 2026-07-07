@@ -1,0 +1,18 @@
+{
+  "be740d76eedae3ef": {
+    "url": "https://www.city.ibaraki-koga.lg.jp/bunrui/kogameguri/history_cultual_property/2/4/index.html",
+    "filename": "be740d76eedae3ef.html",
+    "sha256": "bdeb2d188a8fe0e1cc2f9b1ad731e033662c0ce37964f287b88e13b843d2fcea",
+    "fetched_at": "2026-07-06T12:59:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "48d5073d9c450433": {
+    "url": "https://www.city.ibaraki-koga.lg.jp/soshiki/bunka/15/siteitourokubunnkazai/index.html",
+    "filename": "48d5073d9c450433.html",
+    "sha256": "8c9e124947325a441215a50053d0c8a6f1e658521cbaff2b90658c4880b35def",
+    "fetched_at": "2026-07-06T12:59:21Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

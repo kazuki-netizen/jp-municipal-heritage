@@ -1,0 +1,42 @@
+{
+  "715cd036bb68c5ad": {
+    "url": "https://www.town.shirosato.lg.jp/kyouikuiinkai/bunkazai-shiryoukan/machishitei-bukazai/index.html",
+    "filename": "715cd036bb68c5ad.html",
+    "sha256": "61f795934d9c5d8184eac394cb94166fcda9061af74a7125240727312fc16860",
+    "fetched_at": "2026-07-06T13:00:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "50126358148c4d4b": {
+    "url": "https://www.town.shirosato.lg.jp/kyouikuiinkai/bunkazai-shiryoukan/machishitei-bukazai/kenzoubutsu/",
+    "filename": "50126358148c4d4b.html",
+    "sha256": "b19e654dfc12fc2f71ae010bc6482c738eb3879ee35c4c11ca1c6f5765730bda",
+    "fetched_at": "2026-07-06T13:00:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8fa48a00b49e1e14": {
+    "url": "https://www.town.shirosato.lg.jp/kyouikuiinkai/bunkazai-shiryoukan/machishitei-bukazai/cyoukoku/",
+    "filename": "8fa48a00b49e1e14.html",
+    "sha256": "55cdac87a50f9f3f9816e1cf6d9a290c5f6fc7a95865d52678d43c65e7513036",
+    "fetched_at": "2026-07-06T13:00:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1438f1208debef93": {
+    "url": "https://www.town.shirosato.lg.jp/kyouikuiinkai/bunkazai-shiryoukan/machishitei-bukazai/shiseki/",
+    "filename": "1438f1208debef93.html",
+    "sha256": "ea6dde39ee1bc7d669beb8ef51f34420431701f2005e6ea296e468a4281e5065",
+    "fetched_at": "2026-07-06T13:00:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "520a62bf5c6f5056": {
+    "url": "https://www.town.shirosato.lg.jp/kyouikuiinkai/bunkazai-shiryoukan/machishitei-bukazai/tennenkinenbutsu/",
+    "filename": "520a62bf5c6f5056.html",
+    "sha256": "b989910726f8de4bd72b08c74a5db447d0bbecace8c2df9969b020ccd9715c7a",
+    "fetched_at": "2026-07-06T13:00:17Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

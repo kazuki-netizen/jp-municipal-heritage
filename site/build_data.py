@@ -34,7 +34,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "site", "geocode_cache.json")
 
-PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki"]
 
 COLUMNS = [
     "pref", "municipality", "name", "category", "subcategory",
@@ -45,11 +45,12 @@ COLUMNS = [
 GSI_URL = "https://msearch.gsi.go.jp/address-search/AddressSearch"
 DELAY_SEC = 0.5  # polite delay between geocode requests
 
-# Generous bounding box (lat N, lon E) — covers Tohoku + Hokkaido + Tochigi.
+# Generous bounding box (lat N, lon E) — covers Tohoku + Hokkaido + Tochigi + Gunma + Ibaraki.
 # Tohoku:  lat 36.7–41.7 N, lon 139.1–142.2 E
 # Hokkaido: lat 41.3–45.6 N, lon 139.2–146.0 E  (overlap at ~41.3–41.7 handled by union)
 # Tochigi: lat ~36.2–37.0 N; Gunma: lat ~36.0–37.1 N, lon ~138.4–139.7 E — south/west bounds widened to 36.0/138.4.
-BBOX = {"lat_min": 36.0, "lat_max": 45.6, "lon_min": 138.4, "lon_max": 146.0}
+# Ibaraki: lat ~35.7–36.9 N, lon ~139.7–140.9 E — south bound widened to 35.7, east bound widened to 140.9.
+BBOX = {"lat_min": 35.7, "lat_max": 45.6, "lon_min": 138.4, "lon_max": 146.0}
 
 
 def load_rows(pref):

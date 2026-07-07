@@ -1,0 +1,18 @@
+{
+  "351b7b193827c017": {
+    "url": "https://www.town.oarai.lg.jp/kosodatekyouiku/rekishibunnka/bunkazaizenpan/1808/",
+    "filename": "351b7b193827c017.html",
+    "sha256": "cb0a9dbc17b6993d27f85ecd96dff65f3bbfc3b09c8775227847ddfd07b55b15",
+    "fetched_at": "2026-07-06T13:00:07Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9bd096fafd664fa6": {
+    "url": "https://www.town.oarai.lg.jp/wp/wp-content/uploads/2021/05/250401%E5%A4%A7%E6%B4%97%E7%94%BA%E6%8C%87%E5%AE%9A%E6%96%87%E5%8C%96%E8%B2%A1%E4%B8%80%E8%A6%A7.pdf",
+    "filename": "9bd096fafd664fa6.pdf",
+    "sha256": "91b9e121dabfea3eb17cbfb6ace1adaab2f033135cb4e37f499427a36361c094",
+    "fetched_at": "2026-07-06T13:00:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}
