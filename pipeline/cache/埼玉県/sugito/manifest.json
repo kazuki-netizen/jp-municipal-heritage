@@ -1,0 +1,18 @@
+{
+  "51abf8283c1bb59e": {
+    "url": "https://opendata.pref.saitama.lg.jp/datasets/181",
+    "filename": "51abf8283c1bb59e.csv",
+    "sha256": "a78219ee351f64fa6125845133f038bfb4cf297aec4e285eb1077a1dd23ef3bf",
+    "fetched_at": "2026-07-07T06:09:56Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "42a223bf1963f1d0": {
+    "url": "https://opendata.pref.saitama.lg.jp/resource_download/940",
+    "filename": "42a223bf1963f1d0.csv",
+    "sha256": "1bed3d05953b3370eebf939d88ee04f20d84c8dc4185ce5e5e1aef6a8a90e478",
+    "fetched_at": "2026-07-07T06:09:57Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

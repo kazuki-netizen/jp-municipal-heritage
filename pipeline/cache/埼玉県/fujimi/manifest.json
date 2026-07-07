@@ -1,0 +1,18 @@
+{
+  "edb08135cc938b2c": {
+    "url": "https://www.city.fujimi.saitama.jp/miru_tanoshimu/syougaigaku/bunkazai/2010-0423-1925-137/shiteibunkazai.html",
+    "filename": "edb08135cc938b2c.html",
+    "sha256": "5e0d848c2491c670b20a198dca58c71ca864090cf63fa31be70c356ef3a5a40a",
+    "fetched_at": "2026-07-07T06:09:03Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "735551f0bdcbd562": {
+    "url": "https://opendata.pref.saitama.lg.jp/datasets/247",
+    "filename": "735551f0bdcbd562.html",
+    "sha256": "8a323ca905a9ec12c17b68ffc9870d8f46ecc2eb807fe48be6416e212da889b1",
+    "fetched_at": "2026-07-07T06:09:03Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

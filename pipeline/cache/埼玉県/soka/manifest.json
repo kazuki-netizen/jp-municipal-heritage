@@ -1,0 +1,18 @@
+{
+  "ae70493205092a5c": {
+    "url": "https://www.city.soka.saitama.jp/cont/s2105/030/010/010/01.html",
+    "filename": "ae70493205092a5c.html",
+    "sha256": "8651f40d5feba6de7cfa58706f9daf550b56c383d6c1b493a4f5a5c38fba99f6",
+    "fetched_at": "2026-07-07T06:08:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8039054e84a4f660": {
+    "url": "https://opendata.pref.saitama.lg.jp/datasets/180",
+    "filename": "8039054e84a4f660.csv",
+    "sha256": "8c1825c35f58cd2fd079531b89fb019f0f62ec318371f9ff94c3762555b92c1c",
+    "fetched_at": "2026-07-07T06:08:53Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

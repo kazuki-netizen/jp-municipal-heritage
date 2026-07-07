@@ -1,0 +1,18 @@
+{
+  "73f03297a6878aae": {
+    "url": "https://www.city.tsurugashima.lg.jp/bunka-sports-kankou/bunkazai/tsurugashima-bunkazai/",
+    "filename": "73f03297a6878aae.html",
+    "sha256": "75b100eaa713968d94f27a8bcbb0c647ac459f7eb7caac0ef65c286e7e64250e",
+    "fetched_at": "2026-07-07T06:09:07Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "aa062909f43523a7": {
+    "url": "https://www.city.tsurugashima.lg.jp/data/doc/1418812611_doc_171_0.pdf",
+    "filename": "aa062909f43523a7.pdf",
+    "sha256": "dedc0b0f84438fa6e9601f664364e7aec2fda1f90d26d25197dce11922605ddd",
+    "fetched_at": "2026-07-07T06:09:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

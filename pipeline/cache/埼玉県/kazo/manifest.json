@@ -1,0 +1,34 @@
+{
+  "e718ac5ca45e76aa": {
+    "url": "https://www.city.kazo.lg.jp/soshiki/shougai/kankou/kazochiiki/6497.html",
+    "filename": "e718ac5ca45e76aa.html",
+    "sha256": "c54794c788b45b0aee06833f7379748e8c7eaccd331e2c3d155456e2d0bf3532",
+    "fetched_at": "2026-07-07T06:08:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "168bc6e8bf966138": {
+    "url": "https://www.city.kazo.lg.jp/soshiki/shougai/kankou/kisaichiiki/6498.html",
+    "filename": "168bc6e8bf966138.html",
+    "sha256": "fa797aa2dfcbc3aca1785592fac5c513e8866113b03d09d3e76651c1c2cac524",
+    "fetched_at": "2026-07-07T06:08:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "abde21d40f5be1ef": {
+    "url": "https://www.city.kazo.lg.jp/soshiki/shougai/kankou/kitakawabechiiki/6499.html",
+    "filename": "abde21d40f5be1ef.html",
+    "sha256": "b9d90a170043127ff11f2182cb0b2b53d371b4143cd5f14d101b03bb50bbfa54",
+    "fetched_at": "2026-07-07T06:08:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7100ebe29e340901": {
+    "url": "https://www.city.kazo.lg.jp/soshiki/shougai/kankou/ootonechiiki/index.html",
+    "filename": "7100ebe29e340901.html",
+    "sha256": "5995e5f82caaa57203cc9f69048874678bf0086da3be628992fcc9a46151cdfa",
+    "fetched_at": "2026-07-07T06:08:39Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

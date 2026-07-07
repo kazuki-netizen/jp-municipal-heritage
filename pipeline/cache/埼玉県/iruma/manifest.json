@@ -1,0 +1,18 @@
+{
+  "0a40b1086e545e31": {
+    "url": "https://www.city.iruma.saitama.jp/soshiki/hakubutsukan/rekishi_bunkazai/3/4/index.html",
+    "filename": "0a40b1086e545e31.html",
+    "sha256": "52f2c3f24efd9272ffd3384c00e8e440a30925808f2ea19f5233aee4d67d056b",
+    "fetched_at": "2026-07-07T06:08:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6f214c2d76a5851c": {
+    "url": "https://www.city.iruma.saitama.jp/soshiki/hakubutsukan/rekishi_bunkazai/3/703.html",
+    "filename": "6f214c2d76a5851c.html",
+    "sha256": "830dd13fbbcd6c2b2963f93577b949a2cfd53e5672e3bc9555ee07bebc75fc7e",
+    "fetched_at": "2026-07-07T06:08:56Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

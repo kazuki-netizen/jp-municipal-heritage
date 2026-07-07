@@ -1,0 +1,26 @@
+{
+  "417511b2484835bb": {
+    "url": "https://www.town.kamikawa.saitama.jp/kanko_bunka_sports/bunka_rekishi/machishitei/index.html",
+    "filename": "417511b2484835bb.html",
+    "sha256": "a58cfc3688d0bf4c0614cc7e27d5536f7c2eb17f6cef567cbe9768583804e99e",
+    "fetched_at": "2026-07-07T06:09:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "930d67d4714702a8": {
+    "url": "https://www.town.kamikawa.saitama.jp/kanko_bunka_sports/bunka_rekishi/kenshitei/index.html",
+    "filename": "930d67d4714702a8.html",
+    "sha256": "4a325f4859418ae9434b9c9bffd90a8ec4f7f49c0a72fafecc39635f015b1878",
+    "fetched_at": "2026-07-07T06:09:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ae06cbdd72a46ad2": {
+    "url": "https://www.town.kamikawa.saitama.jp/kanko_bunka_sports/bunka_rekishi/kunishitei/index.html",
+    "filename": "ae06cbdd72a46ad2.html",
+    "sha256": "6f5221670497e058b13d552006034ed33d0df590d1c95d0cf54f57e6e7c69918",
+    "fetched_at": "2026-07-07T06:09:52Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

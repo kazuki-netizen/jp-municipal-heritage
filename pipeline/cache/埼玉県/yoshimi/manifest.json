@@ -1,0 +1,18 @@
+{
+  "86b0e68cb652ce96": {
+    "url": "https://www.town.yoshimi.saitama.jp/soshiki/shogaigakushuk/7/2162.html",
+    "filename": "86b0e68cb652ce96.html",
+    "sha256": "018c6ca549a43e713934bde2ae1c60ef0bbe6de5310c14822994d5bb4adea2c2",
+    "fetched_at": "2026-07-07T06:09:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2922e4aa74ed242c": {
+    "url": "https://www.town.yoshimi.saitama.jp/material/files/group/2/yosimimatibunnkazaiitirannhyou.pdf",
+    "filename": "2922e4aa74ed242c.pdf",
+    "sha256": "6cc950e9c6466802766e2e59b0f11be4e030ba15b5bc60777d4781a389112301",
+    "fetched_at": "2026-07-07T06:09:32Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

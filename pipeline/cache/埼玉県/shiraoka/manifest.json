@@ -1,0 +1,18 @@
+{
+  "7a20ee9b5f3e2fda": {
+    "url": "https://www.city.shiraoka.lg.jp/soshiki/kyouikubu/syougaigakusyuuka/36/bunnkazaihogo/siteibunnkazai/index.html",
+    "filename": "7a20ee9b5f3e2fda.html",
+    "sha256": "a0f9b3a866d5875a587340d47ba1f3789b3946e547115972dc98a7f971e55416",
+    "fetched_at": "2026-07-07T06:09:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b8a0b0121e177fd8": {
+    "url": "https://www.city.shiraoka.lg.jp/material/files/group/43/sitei1.pdf",
+    "filename": "b8a0b0121e177fd8.pdf",
+    "sha256": "21756bb3a1b3b5291b2b3dc56f3cbbb9cabbf8dd1c17087804d8b2658f8c13e4",
+    "fetched_at": "2026-07-07T06:09:13Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

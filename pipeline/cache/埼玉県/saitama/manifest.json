@@ -1,0 +1,18 @@
+{
+  "8c21856b0e097c60": {
+    "url": "https://www.city.saitama.lg.jp/004/005/006/003/p001267_d/fil/bunkazaiitiran.pdf",
+    "filename": "8c21856b0e097c60.pdf",
+    "sha256": "b7e5e909d1067797010c462efe8a2b0f5454dc8d099bc7c38224c61b2630a2eb",
+    "fetched_at": "2026-07-07T06:08:08Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "0bfee40e9205041e": {
+    "url": "https://www.city.saitama.lg.jp/004/005/006/003/p001267_d/fil/bunkazaikensuu.pdf",
+    "filename": "0bfee40e9205041e.pdf",
+    "sha256": "6be1dd48c22ef209ea5d3f794a1641325f929fcdf109df4e7e3b27d9a22ff89b",
+    "fetched_at": "2026-07-07T06:08:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

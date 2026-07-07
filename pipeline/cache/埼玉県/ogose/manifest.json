@@ -1,0 +1,66 @@
+{
+  "55adb4c1efbb2ee1": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745453420.html",
+    "filename": "55adb4c1efbb2ee1.html",
+    "sha256": "2989bfe3f8a4bd781cdf267528977ad41007609fcfc9967319322267fb5e345e",
+    "fetched_at": "2026-07-07T06:09:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "44799869a4188213": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745465315.html",
+    "filename": "44799869a4188213.html",
+    "sha256": "9509c188b700946f6bb5b73707a9e7a79f5a7d533116dff0f7536172118fdf80",
+    "fetched_at": "2026-07-07T06:09:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2f2c3cdda95df3b4": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745477873.html",
+    "filename": "2f2c3cdda95df3b4.html",
+    "sha256": "04466346397b3452797e5c8991ad384e12ddbb7de714f03c5a9b5a41061ce0db",
+    "fetched_at": "2026-07-07T06:09:18Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "759361821a601703": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745489028.html",
+    "filename": "759361821a601703.html",
+    "sha256": "302b3fdfedc4f6ccbf7e49ed480433157d7c8a35b3a48c55c47fbc0bfe97dd01",
+    "fetched_at": "2026-07-07T06:09:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3af567fac226287b": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745499457.html",
+    "filename": "3af567fac226287b.html",
+    "sha256": "81ad1e531be9879037295afae4fa4590b1a1b7f33f8605ae37580806b1a0c4ad",
+    "fetched_at": "2026-07-07T06:09:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c4848e710036aca1": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745511745.html",
+    "filename": "c4848e710036aca1.html",
+    "sha256": "e435db63cea23e5d5b28b6b1e93dda6e54677bbc39bf0b1dae253c10271a8ec5",
+    "fetched_at": "2026-07-07T06:09:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0a69e93f708da05f": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745526480.html",
+    "filename": "0a69e93f708da05f.html",
+    "sha256": "f3db1739155690182bd1ccfcde3667a00394cb7aea70b5ca8c8b09f2423c7003",
+    "fetched_at": "2026-07-07T06:09:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "183cf26012a1ceee": {
+    "url": "https://www.town.ogose.saitama.jp/kyoiku/kyouiku/syougai/bunkazai/1501745537830.html",
+    "filename": "183cf26012a1ceee.html",
+    "sha256": "e7f2970438743f3848788ea453d178869bef575f0d7ec0630ed4fdddec10e307",
+    "fetched_at": "2026-07-07T06:09:28Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

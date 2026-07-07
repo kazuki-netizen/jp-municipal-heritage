@@ -1,0 +1,26 @@
+{
+  "d9552915c94fb603": {
+    "url": "https://www.city.honjo.lg.jp/soshiki/kyoikuiinkai/bunkazai/tantoujouhou/bunkazai/1375751186101.html",
+    "filename": "d9552915c94fb603.html",
+    "sha256": "8290c662b764dd0ea76a6d7279f5afd0386fe35bf8f6725687d423de374e47cf",
+    "fetched_at": "2026-07-07T06:08:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7124749760adbbe8": {
+    "url": "https://www.city.honjo.lg.jp/soshiki/kyoikuiinkai/bunkazai/tantoujouhou/bunkazai/1380503567132.html",
+    "filename": "7124749760adbbe8.html",
+    "sha256": "1820caa5d7ad0da7ecfef15368c1b2067a4f0440c179d995f9eb8490e8fb4f90",
+    "fetched_at": "2026-07-07T06:08:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "67d0100c1e574350": {
+    "url": "https://www.city.honjo.lg.jp/soshiki/kyoikuiinkai/bunkazai/tantoujouhou/bunkazai/1379643815579.html",
+    "filename": "67d0100c1e574350.html",
+    "sha256": "1ae450424286ccee9bf58831d50fa536c872aa2b0627cdbc19bb9a42ed18c7ab",
+    "fetched_at": "2026-07-07T06:08:44Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

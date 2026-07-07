@@ -1,0 +1,18 @@
+{
+  "f53eb6f654e4f350": {
+    "url": "https://www.city.shiki.lg.jp/site/kyouikuiinkai/6740.html",
+    "filename": "f53eb6f654e4f350.html",
+    "sha256": "b8ce2b2ab75f16c82a4efea45d80853d8d952f0cf6f00c6f8667f2ec39ce62f8",
+    "fetched_at": "2026-07-07T06:08:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6864dc02108f630e": {
+    "url": "https://www.city.shiki.lg.jp/uploaded/attachment/5806.pdf",
+    "filename": "6864dc02108f630e.pdf",
+    "sha256": "5dfa071ce2a00626d346b01b826b0aac9dfc34e7d2e279910c9833f8ab4f7d00",
+    "fetched_at": "2026-07-07T06:08:59Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}
