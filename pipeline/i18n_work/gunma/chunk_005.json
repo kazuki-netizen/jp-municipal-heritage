@@ -1,0 +1,372 @@
+[
+ {
+  "jmh_id": "JMH-106046-0010",
+  "name": "木造・阿弥陀如来坐像（近世）",
+  "category": "有形文化財",
+  "subcategory": "彫刻（近世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0005",
+  "name": "双体道祖神",
+  "category": "有形文化財",
+  "subcategory": "石造物（近世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0015",
+  "name": "雷電神社本殿・棟札",
+  "category": "有形文化財",
+  "subcategory": "建造物（近世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0003",
+  "name": "勝軍地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻（近世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0006",
+  "name": "安勝寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品（近世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0001",
+  "name": "「光明真言」金亀宝筐印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（近世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0002",
+  "name": "世界大人類絵図",
+  "category": "有形文化財",
+  "subcategory": "絵画（近世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0004",
+  "name": "十王十仏板碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（中世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0013",
+  "name": "甲冑",
+  "category": "有形文化財",
+  "subcategory": "工芸品（中世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0007",
+  "name": "木造 千手観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（中世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0014",
+  "name": "銅造 薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（中世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0011",
+  "name": "木造・阿弥陀如来立像（中世）",
+  "category": "有形文化財",
+  "subcategory": "彫刻（中世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0008",
+  "name": "木造・性信上人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（中世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0009",
+  "name": "木造・釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（中世）",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-106046-0012",
+  "name": "板倉音頭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-104558-0008",
+  "name": "中村天満宮舞殿",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-07-24",
+  "municipality": "みなかみ町",
+  "location": "下津2332-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0028",
+  "name": "茂左衛門の奥之院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1975-05-21",
+  "municipality": "みなかみ町",
+  "location": "上津807-14"
+ },
+ {
+  "jmh_id": "JMH-104558-0033",
+  "name": "大峰神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1977-10-22",
+  "municipality": "みなかみ町",
+  "location": "小仁田74-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0034",
+  "name": "富士浅間神社中宮",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1977-10-22",
+  "municipality": "みなかみ町",
+  "location": "谷川556-43"
+ },
+ {
+  "jmh_id": "JMH-104558-0035",
+  "name": "菅原神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1977-10-22",
+  "municipality": "みなかみ町",
+  "location": "小日向473"
+ },
+ {
+  "jmh_id": "JMH-104558-0048",
+  "name": "藤原諏訪神社歌舞伎舞台並びに観覧席",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1981-02-26",
+  "municipality": "みなかみ町",
+  "location": "藤原3419"
+ },
+ {
+  "jmh_id": "JMH-104558-0060",
+  "name": "羽場日枝神社の下座",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2008-04-01",
+  "municipality": "みなかみ町",
+  "location": "羽場588-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0072",
+  "name": "月夜野神社本殿（附 棟札1枚）",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2025-09-12",
+  "municipality": "みなかみ町",
+  "location": "月夜野1259-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0006",
+  "name": "貞亨の水帳",
+  "category": "有形文化財",
+  "subcategory": "古文書（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1970-04-01",
+  "municipality": "みなかみ町",
+  "location": "みなかみ町役場"
+ },
+ {
+  "jmh_id": "JMH-104558-0001",
+  "name": "上杉謙信の供養塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1970-04-01",
+  "municipality": "みなかみ町",
+  "location": "上津2578"
+ },
+ {
+  "jmh_id": "JMH-104558-0009",
+  "name": "名胡桃の芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-07-24",
+  "municipality": "みなかみ町",
+  "location": "下津2439-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0010",
+  "name": "月夜野の芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-07-24",
+  "municipality": "みなかみ町",
+  "location": "月夜野488-2"
+ },
+ {
+  "jmh_id": "JMH-104558-0007",
+  "name": "下牧の芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-07-24",
+  "municipality": "みなかみ町",
+  "location": "下牧1248-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0012",
+  "name": "貞治の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1973-06-01",
+  "municipality": "みなかみ町",
+  "location": "上津1610-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0011",
+  "name": "明徳の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1973-06-01",
+  "municipality": "みなかみ町",
+  "location": "下津4061"
+ },
+ {
+  "jmh_id": "JMH-104558-0014",
+  "name": "応永の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1973-07-01",
+  "municipality": "みなかみ町",
+  "location": "上牧1623"
+ },
+ {
+  "jmh_id": "JMH-104558-0025",
+  "name": "赤谷十二神社の絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1974-03-18",
+  "municipality": "みなかみ町",
+  "location": "県立歴史博物館"
+ },
+ {
+  "jmh_id": "JMH-104558-0024",
+  "name": "羽場日枝神社の間引絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1974-03-18",
+  "municipality": "みなかみ町",
+  "location": "羽場588-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0023",
+  "name": "羽場日枝神社の獅子頭",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1974-03-18",
+  "municipality": "みなかみ町",
+  "location": "羽場588-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0022",
+  "name": "猿ヶ京神明神社の雨宮神額",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1974-03-18",
+  "municipality": "みなかみ町",
+  "location": "猿ヶ京温泉1500-2"
+ },
+ {
+  "jmh_id": "JMH-104558-0030",
+  "name": "龍谷寺の十六羅漢像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1975-05-21",
+  "municipality": "みなかみ町",
+  "location": "師1668-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0029",
+  "name": "長野神社の棟札",
+  "category": "有形文化財",
+  "subcategory": "古文書（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1975-05-21",
+  "municipality": "みなかみ町",
+  "location": "下牧682-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0027",
+  "name": "村主八幡神社の算額",
+  "category": "有形文化財",
+  "subcategory": "古文書（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1975-05-21",
+  "municipality": "みなかみ町",
+  "location": "上津1233"
+ },
+ {
+  "jmh_id": "JMH-104558-0032",
+  "name": "北貝戸の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1977-10-22",
+  "municipality": "みなかみ町",
+  "location": "湯原1169"
+ },
+ {
+  "jmh_id": "JMH-104558-0031",
+  "name": "一般田の双体道祖神（塞神）",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1977-10-22",
+  "municipality": "みなかみ町",
+  "location": "藤原4375"
+ }
+]

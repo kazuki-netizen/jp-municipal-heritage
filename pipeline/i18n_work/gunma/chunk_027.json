@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-102024-0305",
+  "name": "八幡の鳥追い祭り",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2025-09-01",
+  "municipality": "高崎市",
+  "location": "八幡六郷流お囃子保存会"
+ },
+ {
+  "jmh_id": "JMH-102024-0306",
+  "name": "鹿嶋の七日火",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2025-09-01",
+  "municipality": "高崎市",
+  "location": "鹿嶋宮七日火実行委員会"
+ },
+ {
+  "jmh_id": "JMH-102024-0002",
+  "name": "徳川忠長の墓（附忠長の霊牌その他）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1966-04-20",
+  "municipality": "高崎市",
+  "location": "大信寺（通町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0003",
+  "name": "康元の板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "高崎市",
+  "location": "妙典寺（小八木町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0004",
+  "name": "正応の板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0018",
+  "name": "村上鬼城の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1969-03-25",
+  "municipality": "高崎市",
+  "location": "龍廣寺墓地（若松町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0021",
+  "name": "町屋の宝塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1970-02-28",
+  "municipality": "高崎市",
+  "location": "宝福寺（町屋町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0032",
+  "name": "佐野の船橋歌碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1972-05-18",
+  "municipality": "高崎市",
+  "location": "上佐野第2町内会（上佐野町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0037",
+  "name": "将軍塚古墳　附　周濠出土の底部穿孔壺型土器等一括資料",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-31",
+  "municipality": "高崎市",
+  "location": "島名神社ほか（元島名町）高崎市（歴史民俗資料館）"
+ },
+ {
+  "jmh_id": "JMH-102024-0036",
+  "name": "安楽寺の異形板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-31",
+  "municipality": "高崎市",
+  "location": "安楽寺境内（倉賀野町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0035",
+  "name": "例幣使街道の常夜灯及び道しるべ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-31",
+  "municipality": "高崎市",
+  "location": "倉賀野町下町町内会（倉賀野町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0038",
+  "name": "山名城址　二の丸　本丸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-31",
+  "municipality": "高崎市",
+  "location": "個人・高崎市（山名町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0040",
+  "name": "三島塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-16",
+  "municipality": "高崎市",
+  "location": "石原町下2町内会ほか（石原町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0042",
+  "name": "来迎阿弥陀画像板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-16",
+  "municipality": "高崎市",
+  "location": "天水山ノ上組（山名町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0058",
+  "name": "桜塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1974-01-31",
+  "municipality": "高崎市",
+  "location": "高崎市（石原町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0059",
+  "name": "満勝寺の石幢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1974-01-31",
+  "municipality": "高崎市",
+  "location": "満勝寺（北新波町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0061",
+  "name": "長野氏累代の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1974-01-31",
+  "municipality": "高崎市",
+  "location": "来迎寺（浜川町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0074",
+  "name": "館の百庚申",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1975-01-31",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0073",
+  "name": "楽間の宝塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1975-01-31",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0077",
+  "name": "八幡原A号及びB号石槨",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1976-01-14",
+  "municipality": "高崎市",
+  "location": "高崎市（八幡原町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0084",
+  "name": "鶯塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1977-01-12",
+  "municipality": "高崎市",
+  "location": "高崎市（乗附町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0130",
+  "name": "高崎城址（三の丸外囲の土居と堀）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-02-17",
+  "municipality": "高崎市",
+  "location": "高崎市（高松町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0179",
+  "name": "三国道の道しるべ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1983-02-16",
+  "municipality": "高崎市",
+  "location": "下小鳥町"
+ },
+ {
+  "jmh_id": "JMH-102024-0180",
+  "name": "岩鼻代官吉川栄左衛門貞寛の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1983-02-16",
+  "municipality": "高崎市",
+  "location": "観音寺（岩鼻町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0188",
+  "name": "元ロシア人兵士之墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1986-02-13",
+  "municipality": "高崎市",
+  "location": "龍廣寺（若松町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0222",
+  "name": "上小塙稲荷山古墳　附　須恵器器台1・須恵器壺2・須恵器はそう1・須恵器提瓶1",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "高崎市",
+  "location": "烏子稲荷神社（上小塙町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0229",
+  "name": "不動山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1992-03-02",
+  "municipality": "高崎市",
+  "location": "普賢寺（綿貫町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0231",
+  "name": "山名古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1992-03-02",
+  "municipality": "高崎市",
+  "location": "高崎市・個人高崎市（山名町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0234",
+  "name": "浜尻天王山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1993-03-01",
+  "municipality": "高崎市",
+  "location": "諏訪神社（浜尻町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0265",
+  "name": "八幡二子塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2002-02-20",
+  "municipality": "高崎市",
+  "location": "高崎市ほか（八幡町）"
+ },
+ {
+  "jmh_id": "JMH-102024-0157",
+  "name": "榛名山座主の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0166",
+  "name": "石上のしん寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0137",
+  "name": "伝説・権田栗毛終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0167",
+  "name": "箕輪城主夫人藤鶴姫の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0138",
+  "name": "僧戒定の供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0150",
+  "name": "小栗上野介忠順終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "国（倉渕町水沼）"
+ },
+ {
+  "jmh_id": "JMH-102024-0143",
+  "name": "地蔵峠道・元禄の道しるべ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0163",
+  "name": "水沼弥生時代住居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "高崎市（倉渕町水沼）"
+ },
+ {
+  "jmh_id": "JMH-102024-0154",
+  "name": "心学者塚越桃翁の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-102024-0144",
+  "name": "大明神山の砦跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "高崎市",
+  "location": "浅間神社（倉渕町川浦）"
+ }
+]

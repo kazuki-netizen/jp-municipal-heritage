@@ -1,0 +1,378 @@
+[
+ {
+  "jmh_id": "JMH-103020-0004",
+  "name": "コナラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "村指定天然記念物",
+  "designation": "村指定",
+  "municipality": "榛東村"
+ },
+ {
+  "jmh_id": "JMH-103020-0006",
+  "name": "スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "村指定天然記念物",
+  "designation": "村指定",
+  "municipality": "榛東村"
+ },
+ {
+  "jmh_id": "JMH-104086-0018",
+  "name": "防空監視哨跡（聴音壕）",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2004-05-20",
+  "municipality": "長野原町",
+  "location": "長野原町"
+ },
+ {
+  "jmh_id": "JMH-104086-0003",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1974-09-21",
+  "municipality": "長野原町",
+  "location": "中央小学校"
+ },
+ {
+  "jmh_id": "JMH-104086-0006",
+  "name": "瓦塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1974-09-21",
+  "municipality": "長野原町",
+  "location": "中央小学校"
+ },
+ {
+  "jmh_id": "JMH-104086-0013",
+  "name": "桜岩地蔵堂境内の丁杭式観音",
+  "category": "有形文化財",
+  "subcategory": "彫刻（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1978-02-28",
+  "municipality": "長野原町",
+  "location": "桜岩地蔵堂"
+ },
+ {
+  "jmh_id": "JMH-104086-0009",
+  "name": "六里ヶ原丁杭式基点観音",
+  "category": "有形文化財",
+  "subcategory": "彫刻（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1978-02-28",
+  "municipality": "長野原町",
+  "location": "桜岩地蔵堂境内"
+ },
+ {
+  "jmh_id": "JMH-104086-0011",
+  "name": "常林寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1978-02-28",
+  "municipality": "長野原町",
+  "location": "やんば天明泥流ミュージアム"
+ },
+ {
+  "jmh_id": "JMH-104086-0010",
+  "name": "川原畑諏訪神社の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1978-02-28",
+  "municipality": "長野原町",
+  "location": "川原畑諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-104086-0008",
+  "name": "仙峩滝不動堂の宝塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1978-02-28",
+  "municipality": "長野原町",
+  "location": "長野原町"
+ },
+ {
+  "jmh_id": "JMH-104086-0015",
+  "name": "桜岩地蔵尊",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財（町指定重要有形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1987-03-09",
+  "municipality": "長野原町",
+  "location": "桜岩"
+ },
+ {
+  "jmh_id": "JMH-104086-0004",
+  "name": "海野長門守の墓碑（供養塔）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1974-09-21",
+  "municipality": "長野原町",
+  "location": "長野原町"
+ },
+ {
+  "jmh_id": "JMH-104086-0007",
+  "name": "羽根尾城",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1974-09-21",
+  "municipality": "長野原町",
+  "location": "城峰山"
+ },
+ {
+  "jmh_id": "JMH-104086-0002",
+  "name": "朝比奈三郎義秀の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1974-09-21",
+  "municipality": "長野原町",
+  "location": "長野原町"
+ },
+ {
+  "jmh_id": "JMH-104086-0001",
+  "name": "御塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1974-09-21",
+  "municipality": "長野原町",
+  "location": "長野原町浦野家墓地"
+ },
+ {
+  "jmh_id": "JMH-104086-0016",
+  "name": "長野原城跡（別名：箱岩城）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1990-03-27",
+  "municipality": "長野原町",
+  "location": "長野原町街並み北側尾根"
+ },
+ {
+  "jmh_id": "JMH-104086-0017",
+  "name": "狩宿関所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1992-05-12",
+  "municipality": "長野原町",
+  "location": "応桑小学校校庭付近"
+ },
+ {
+  "jmh_id": "JMH-104086-0019",
+  "name": "滝沢観音石仏群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "2019-03-22",
+  "municipality": "長野原町",
+  "location": "長野原町滝沢観音堂"
+ },
+ {
+  "jmh_id": "JMH-104086-0005",
+  "name": "王城山神社の神杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1974-09-21",
+  "municipality": "長野原町",
+  "location": "林王城山神社"
+ },
+ {
+  "jmh_id": "JMH-104086-0014",
+  "name": "浅見家ヒイラギの巨樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1978-02-28",
+  "municipality": "長野原町",
+  "location": "長野原町浅見家旧屋敷跡"
+ },
+ {
+  "jmh_id": "JMH-104086-0012",
+  "name": "御塚霊園境内のイタヤカエデ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1978-02-28",
+  "municipality": "長野原町",
+  "location": "長野原町御塚霊園"
+ },
+ {
+  "jmh_id": "JMH-102083-0012",
+  "name": "石原の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1970-09-25",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0009",
+  "name": "文安の薬師",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1970-09-25",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0008",
+  "name": "半田の早尾神社本殿",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1970-09-25",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0011",
+  "name": "渋川村市日文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1970-09-25",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0010",
+  "name": "永享の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1970-09-25",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0019",
+  "name": "眞光寺の一石造地蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1972-10-20",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0021",
+  "name": "下郷の子育地蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1973-01-26",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0023",
+  "name": "金井宿本陣の地下牢",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1973-05-22",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0027",
+  "name": "甲波宿禰神社の算額",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1975-01-30",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0040",
+  "name": "良珊寺の半鐘",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1978-08-14",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0039",
+  "name": "福島家の戦国文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1978-08-14",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0042",
+  "name": "入澤家文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-24",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0051",
+  "name": "千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1980-10-29",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0078",
+  "name": "堀口藍園印章・藍園詩鈔版木",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1987-02-27",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0093",
+  "name": "剣城の雲版",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1993-06-23",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0113",
+  "name": "真光寺涅槃図",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2007-01-26",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0116",
+  "name": "旧有限責任渋川信用組合",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2011-07-27",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0125",
+  "name": "真光寺万日堂",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "渋川市"
+ },
+ {
+  "jmh_id": "JMH-102083-0018",
+  "name": "川島の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-10-20",
+  "municipality": "渋川市"
+ }
+]

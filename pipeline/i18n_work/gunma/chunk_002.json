@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-102067-0035",
+  "name": "うつぶしの森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-02-03",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0044",
+  "name": "白沢用水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-02-03",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0041",
+  "name": "正縁塚と一本松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1982-02-03",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0002",
+  "name": "義民山口六郎右衛門の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1960-05-20",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0001",
+  "name": "栗生八幡宮",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1960-05-20",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0024",
+  "name": "馬かくれスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0013",
+  "name": "正覚寺のコウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0056",
+  "name": "上古語父の枝垂れ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-02-28",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0055",
+  "name": "くるま屋の欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-02-28",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0057",
+  "name": "石割桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-02-28",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0059",
+  "name": "雲谷寺の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-02-28",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0058",
+  "name": "薬師の楓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-02-28",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0070",
+  "name": "平川古滝庵不動尊の境内",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定名勝",
+  "designation": "市指定",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0051",
+  "name": "古寺の大榧",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-10-14",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0065",
+  "name": "山妻有のサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "2007-02-02",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-106054-0002",
+  "name": "三五詠歌碑",
+  "category": "有形文化財",
+  "subcategory": "書跡（町指定文化財）",
+  "designation": "町指定",
+  "municipality": "明和町",
+  "location": "南大島、森尻氏宅庭"
+ },
+ {
+  "jmh_id": "JMH-106054-0007",
+  "name": "阿弥陀三尊板碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定文化財）",
+  "designation": "町指定",
+  "municipality": "明和町",
+  "location": "矢島、秋野氏屋敷"
+ },
+ {
+  "jmh_id": "JMH-106054-0003",
+  "name": "正和の板碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定文化財）",
+  "designation": "町指定",
+  "municipality": "明和町",
+  "location": "田島、青木氏屋敷"
+ },
+ {
+  "jmh_id": "JMH-106054-0005",
+  "name": "経塚附石経圓塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "municipality": "明和町",
+  "location": "新里天満宮境内"
+ },
+ {
+  "jmh_id": "JMH-106054-0006",
+  "name": "菅原神社鳥居",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "municipality": "明和町",
+  "location": "須賀・菅原神社"
+ },
+ {
+  "jmh_id": "JMH-106054-0004",
+  "name": "江黒古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "municipality": "明和町",
+  "location": "江黒"
+ },
+ {
+  "jmh_id": "JMH-106054-0001",
+  "name": "川俣事件衝突の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1999-12-28",
+  "municipality": "明和町",
+  "location": "川俣・川俣上宿橋付近"
+ },
+ {
+  "jmh_id": "JMH-103616-0005",
+  "name": "西牧関所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0001",
+  "name": "中小坂鉄山・製鉄所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0018",
+  "name": "中小坂鉄山製　鋳鉄大火鉢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1985-07-17",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0013",
+  "name": "諏訪神社の彫刻",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1979-06-29",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0012",
+  "name": "諏訪神社の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "1979-06-29",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0002",
+  "name": "安楽地の板碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0008",
+  "name": "阿唱念の不動尊",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0011",
+  "name": "清泉寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1979-06-29",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0021",
+  "name": "清泉寺の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-03-22",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0003",
+  "name": "小河原の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0006",
+  "name": "赤谷の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0017",
+  "name": "空居上人筆般若心経の碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1984-09-11",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0014",
+  "name": "下仁田戦争跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1982-02-02",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0007",
+  "name": "長楽寺の釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0015",
+  "name": "伊勢山の百庚申",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1984-09-11",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0019",
+  "name": "虻田の百庚申",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1988-03-22",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0004",
+  "name": "清水沢の百庚申",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0010",
+  "name": "初鳥屋の八十八箇所霊場",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1979-06-29",
+  "municipality": "下仁田町"
+ }
+]

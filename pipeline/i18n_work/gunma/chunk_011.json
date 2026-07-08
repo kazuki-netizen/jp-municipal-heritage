@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-104515-0002",
+  "name": "武尊神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1976-07-16",
+  "municipality": "片品村",
+  "location": "花咲2021"
+ },
+ {
+  "jmh_id": "JMH-104515-0004",
+  "name": "賢和六枚双屏風2枚",
+  "category": "有形文化財",
+  "subcategory": "絵画（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1986-10-01",
+  "municipality": "片品村",
+  "location": "鎌田3967-3"
+ },
+ {
+  "jmh_id": "JMH-104515-0003",
+  "name": "登戸十一面観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1986-10-01",
+  "municipality": "片品村",
+  "location": "花咲1334"
+ },
+ {
+  "jmh_id": "JMH-104515-0023",
+  "name": "音昌寺の欄間",
+  "category": "有形文化財",
+  "subcategory": "工芸品（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "越本1267"
+ },
+ {
+  "jmh_id": "JMH-104515-0024",
+  "name": "龍滄院の須弥壇",
+  "category": "有形文化財",
+  "subcategory": "工芸品（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "東小川2900"
+ },
+ {
+  "jmh_id": "JMH-104515-0008",
+  "name": "大圓寺の観世音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "土出886"
+ },
+ {
+  "jmh_id": "JMH-104515-0009",
+  "name": "大圓寺の間引きの絵額",
+  "category": "有形文化財",
+  "subcategory": "絵画（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "土出886"
+ },
+ {
+  "jmh_id": "JMH-104515-0025",
+  "name": "武尊神社の絵額",
+  "category": "有形文化財",
+  "subcategory": "絵画（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1989-11-20",
+  "municipality": "片品村",
+  "location": "土出"
+ },
+ {
+  "jmh_id": "JMH-104515-0029",
+  "name": "幡谷郷蔵",
+  "category": "有形文化財",
+  "subcategory": "建造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1991-03-22",
+  "municipality": "片品村",
+  "location": "幡谷"
+ },
+ {
+  "jmh_id": "JMH-104515-0042",
+  "name": "永井流養蚕伝習所実習棟",
+  "category": "有形文化財",
+  "subcategory": "建造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "2014-07-22",
+  "municipality": "片品村",
+  "location": "針山4"
+ },
+ {
+  "jmh_id": "JMH-104515-0035",
+  "name": "上幡谷の串祭り",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（村指定無形文化財）",
+  "designation": "村指定",
+  "designated_date": "2009-05-15",
+  "municipality": "片品村",
+  "location": "摺渕"
+ },
+ {
+  "jmh_id": "JMH-104515-0038",
+  "name": "針山の十二様祭り",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（村指定無形文化財）",
+  "designation": "村指定",
+  "designated_date": "2009-05-15",
+  "municipality": "片品村",
+  "location": "針山"
+ },
+ {
+  "jmh_id": "JMH-104515-0036",
+  "name": "越本の武尊祭り",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（村指定無形文化財）",
+  "designation": "村指定",
+  "designated_date": "2009-05-15",
+  "municipality": "片品村",
+  "location": "越本1898"
+ },
+ {
+  "jmh_id": "JMH-104515-0037",
+  "name": "越本の諏訪祭り",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（村指定無形文化財）",
+  "designation": "村指定",
+  "designated_date": "2009-05-15",
+  "municipality": "片品村",
+  "location": "越本964-1"
+ },
+ {
+  "jmh_id": "JMH-104515-0027",
+  "name": "禹王の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1990-02-20",
+  "municipality": "片品村",
+  "location": "土出"
+ },
+ {
+  "jmh_id": "JMH-104515-0033",
+  "name": "白根山周辺の山岳信仰遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "2000-10-03",
+  "municipality": "片品村",
+  "location": "東小川"
+ },
+ {
+  "jmh_id": "JMH-104515-0016",
+  "name": "星野家のマメガキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "下平228"
+ },
+ {
+  "jmh_id": "JMH-104515-0007",
+  "name": "吉澤家のカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "摺渕59"
+ },
+ {
+  "jmh_id": "JMH-104515-0015",
+  "name": "星野塚の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "摺渕"
+ },
+ {
+  "jmh_id": "JMH-104515-0012",
+  "name": "宮前のサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "幡谷281"
+ },
+ {
+  "jmh_id": "JMH-104515-0005",
+  "name": "ガニ沢のチョウセンマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "幡谷288-3"
+ },
+ {
+  "jmh_id": "JMH-104515-0006",
+  "name": "三浦家墓地のモミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "幡谷"
+ },
+ {
+  "jmh_id": "JMH-104515-0018",
+  "name": "永井家のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "花咲962"
+ },
+ {
+  "jmh_id": "JMH-104515-0019",
+  "name": "永井家のクロベ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "花咲963"
+ },
+ {
+  "jmh_id": "JMH-104515-0020",
+  "name": "熊野宮のヒノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "東小川1593"
+ },
+ {
+  "jmh_id": "JMH-104515-0011",
+  "name": "大御堂のシダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "東小川238"
+ },
+ {
+  "jmh_id": "JMH-104515-0013",
+  "name": "星稲荷神社イチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "東小川522"
+ },
+ {
+  "jmh_id": "JMH-104515-0021",
+  "name": "音昌寺のウメ（紅）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "越本1267"
+ },
+ {
+  "jmh_id": "JMH-104515-0022",
+  "name": "音昌寺のコノデガシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "越本1268"
+ },
+ {
+  "jmh_id": "JMH-104515-0010",
+  "name": "大屋のナシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "摺渕523"
+ },
+ {
+  "jmh_id": "JMH-104515-0017",
+  "name": "武尊神社のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "摺渕"
+ },
+ {
+  "jmh_id": "JMH-104515-0014",
+  "name": "星野のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1989-02-22",
+  "municipality": "片品村",
+  "location": "下平290"
+ },
+ {
+  "jmh_id": "JMH-104515-0026",
+  "name": "五霊神社のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1990-02-20",
+  "municipality": "片品村",
+  "location": "土出"
+ },
+ {
+  "jmh_id": "JMH-104515-0031",
+  "name": "高山家のカキノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1991-03-22",
+  "municipality": "片品村",
+  "location": "花咲甲1151"
+ },
+ {
+  "jmh_id": "JMH-104515-0028",
+  "name": "伊閑町のチョウセンマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1991-03-22",
+  "municipality": "片品村",
+  "location": "土出1907"
+ },
+ {
+  "jmh_id": "JMH-104515-0030",
+  "name": "穴沢十二様のカラマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1991-03-22",
+  "municipality": "片品村",
+  "location": "東小川"
+ },
+ {
+  "jmh_id": "JMH-104515-0032",
+  "name": "ヒカリゴケ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "2000-10-03",
+  "municipality": "片品村",
+  "location": "東小川"
+ },
+ {
+  "jmh_id": "JMH-104515-0034",
+  "name": "天王ザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "2003-06-26",
+  "municipality": "片品村",
+  "location": "針山"
+ },
+ {
+  "jmh_id": "JMH-104515-0039",
+  "name": "あん場の大石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "2012-09-18",
+  "municipality": "片品村",
+  "location": "東小川字高平"
+ },
+ {
+  "jmh_id": "JMH-104515-0040",
+  "name": "十二様の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "2013-07-23",
+  "municipality": "片品村",
+  "location": "土出2609"
+ }
+]

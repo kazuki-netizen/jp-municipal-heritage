@@ -1,0 +1,364 @@
+[
+ {
+  "jmh_id": "JMH-103038-0014",
+  "name": "三国街道の一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "municipality": "吉岡町"
+ },
+ {
+  "jmh_id": "JMH-103038-0005",
+  "name": "金剛寺の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "1993-09-01",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字南下字大藪187"
+ },
+ {
+  "jmh_id": "JMH-103038-0016",
+  "name": "華蔵寺第八世亮衍の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "municipality": "吉岡町"
+ },
+ {
+  "jmh_id": "JMH-103038-0004",
+  "name": "船尾滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定名勝・天然記念物",
+  "designation": "町指定",
+  "designated_date": "1988-03-23",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字上野田字上ノ原2842-1"
+ },
+ {
+  "jmh_id": "JMH-103038-0015",
+  "name": "大藪獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "吉岡町"
+ },
+ {
+  "jmh_id": "JMH-103038-0009",
+  "name": "下八幡宮獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2003-05-22",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字南下字下八幡848"
+ },
+ {
+  "jmh_id": "JMH-103038-0010",
+  "name": "溝祭三宮神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2003-05-22",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字北下字北発知岡1071-2"
+ },
+ {
+  "jmh_id": "JMH-103038-0011",
+  "name": "三宮神社太々神楽　三楽講",
+  "category": "民俗文化財",
+  "subcategory": "町指定無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2011-11-29",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字北下字北発知岡1071-2"
+ },
+ {
+  "jmh_id": "JMH-102059-0039",
+  "name": "大光院の金祥門",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市金山町37-8"
+ },
+ {
+  "jmh_id": "JMH-102059-0086",
+  "name": "正法寺の仁王門並びに仁王尊",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市脇屋町甲562"
+ },
+ {
+  "jmh_id": "JMH-102059-0094",
+  "name": "浄光寺の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市龍舞町1765"
+ },
+ {
+  "jmh_id": "JMH-102059-0123",
+  "name": "金龍寺の由良氏五輪塔並びに新田義貞公供養塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市金山町40-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0059",
+  "name": "恵林寺の矢場氏墓石群",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市矢場町甲304 1"
+ },
+ {
+  "jmh_id": "JMH-102059-0119",
+  "name": "追分けの道しるべ・石地蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市東本4-3"
+ },
+ {
+  "jmh_id": "JMH-102059-0090",
+  "name": "永福寺の名号角塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市東金井町7-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0076",
+  "name": "曹源寺の名号角塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市東今泉町165"
+ },
+ {
+  "jmh_id": "JMH-102059-0045",
+  "name": "富若の名号角塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市富若町534"
+ },
+ {
+  "jmh_id": "JMH-102059-0100",
+  "name": "矢田堀勘兵衛屋敷の名号角塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市矢田堀町207-9"
+ },
+ {
+  "jmh_id": "JMH-102059-0072",
+  "name": "明王院の石造千体不動塔 附 請負覚書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市安養寺町200-1\n太田市安養寺町"
+ },
+ {
+  "jmh_id": "JMH-102059-0120",
+  "name": "金剛寺の円仏及び妙蓮板碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市世良田町3113-9（新田荘歴史資料館寄託）"
+ },
+ {
+  "jmh_id": "JMH-102059-0058",
+  "name": "徳川館跡の伝新田義重の宝塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市徳川町388-6"
+ },
+ {
+  "jmh_id": "JMH-102059-0096",
+  "name": "清泉寺の宝篋印塔 附 陀羅尼経及び経筒",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市世良田町1490\n太田市世良田町3113-9（新田荘歴史資料館寄託）"
+ },
+ {
+  "jmh_id": "JMH-102059-0074",
+  "name": "明王院の石造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市安養寺町200-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0031",
+  "name": "八坂神社の芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市世良田町1497"
+ },
+ {
+  "jmh_id": "JMH-102059-0138",
+  "name": "龍得寺の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田上江田町309-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0068",
+  "name": "旧来迎寺の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田中江田町592"
+ },
+ {
+  "jmh_id": "JMH-102059-0006",
+  "name": "下田中の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田下田中町"
+ },
+ {
+  "jmh_id": "JMH-102059-0005",
+  "name": "上江田の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田上江田町527"
+ },
+ {
+  "jmh_id": "JMH-102059-0080",
+  "name": "村田の双体道祖神",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田村田町"
+ },
+ {
+  "jmh_id": "JMH-102059-0078",
+  "name": "木崎宿の色地蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田木崎町1063-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0020",
+  "name": "中江田の辻地蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田中江田町888-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0067",
+  "name": "旧常楽寺の石塔群",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市新田木崎町1664-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0097",
+  "name": "牛之塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市薮塚町1989-2"
+ },
+ {
+  "jmh_id": "JMH-102059-0025",
+  "name": "伝薮塚氏の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市薮塚町2203"
+ },
+ {
+  "jmh_id": "JMH-102059-0064",
+  "name": "新井家の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市薮塚町1193-2"
+ },
+ {
+  "jmh_id": "JMH-102059-0002",
+  "name": "あづま道道標",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市大原町505（薮塚本町文化財収蔵庫）\n太田市大原町1521-2（複製品）"
+ },
+ {
+  "jmh_id": "JMH-102059-0116",
+  "name": "西野の層塔及び残片",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市薮塚町2658-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0115",
+  "name": "西福寺の赤子地蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市薮塚町2779-1"
+ },
+ {
+  "jmh_id": "JMH-102059-0070",
+  "name": "旧金山図書館",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市本町27-9"
+ },
+ {
+  "jmh_id": "JMH-102059-0088",
+  "name": "永徳寺の杉戸絵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "太田市",
+  "location": "太田市徳川町甲373"
+ }
+]

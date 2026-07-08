@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-102113-0057",
+  "name": "旧安中藩武家長屋",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1992-03-25",
+  "municipality": "安中市",
+  "location": "安中三丁目6-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0058",
+  "name": "旧安中藩郡奉行役宅",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-28",
+  "municipality": "安中市",
+  "location": "安中三丁目6-9"
+ },
+ {
+  "jmh_id": "JMH-102113-0059",
+  "name": "郷原村の検地竿と水帳・免定",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1994-01-28",
+  "municipality": "安中市",
+  "location": "郷原770-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0060",
+  "name": "八塔石紅地蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1994-09-09",
+  "municipality": "安中市",
+  "location": "松井田町八城168"
+ },
+ {
+  "jmh_id": "JMH-102113-0061",
+  "name": "旧碓氷郡役所",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1996-02-21",
+  "municipality": "安中市",
+  "location": "安中三丁目21-51"
+ },
+ {
+  "jmh_id": "JMH-102113-0065",
+  "name": "古城遺跡出土旧石器",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2001-05-22",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0066",
+  "name": "鷺宮上ノ久保遺跡出土松鶴鏡",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2001-05-22",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0064",
+  "name": "下秋間藤ノ木の地蔵菩薩石像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2001-05-22",
+  "municipality": "安中市",
+  "location": "下秋間2234"
+ },
+ {
+  "jmh_id": "JMH-102113-0069",
+  "name": "太山融斎製作の地球儀",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2009-10-23",
+  "municipality": "安中市",
+  "location": "上間仁田951/原市一丁目"
+ },
+ {
+  "jmh_id": "JMH-102113-0070",
+  "name": "簗瀬二子塚古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2012-11-27",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0072",
+  "name": "蓮久寺板法華曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2014-07-28",
+  "municipality": "安中市",
+  "location": "安中三丁目3-55"
+ },
+ {
+  "jmh_id": "JMH-102113-0071",
+  "name": "佐藤佳丈家文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2014-07-28",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0073",
+  "name": "松井田仲町の獅子頭（附屏風、當番引積書類、祭典入用帳2冊、祭典記録帳）",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2015-10-27",
+  "municipality": "安中市",
+  "location": "松井田町松井田400-2"
+ },
+ {
+  "jmh_id": "JMH-102113-0043",
+  "name": "咲前神社太々神楽鷺宮太々神楽保存会",
+  "category": "無形文化財",
+  "subcategory": "市指定重要無形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-03-26",
+  "municipality": "安中市",
+  "location": "鷺宮3308"
+ },
+ {
+  "jmh_id": "JMH-102113-0062",
+  "name": "八城の人形浄瑠璃（附頭50個）",
+  "category": "無形文化財",
+  "subcategory": "市指定重要無形文化財",
+  "designation": "市指定",
+  "designated_date": "1998-09-26",
+  "municipality": "安中市",
+  "location": "松井田町八城170-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0074",
+  "name": "自性寺焼陶芸家　青木昇",
+  "category": "無形文化財",
+  "subcategory": "市指定重要無形文化財",
+  "designation": "市指定",
+  "designated_date": "2018-09-26",
+  "municipality": "安中市",
+  "location": "下秋間4670-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0001",
+  "name": "仙石因幡守の石祠及頌徳碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1957-04-10",
+  "municipality": "安中市",
+  "location": "磯部76-2"
+ },
+ {
+  "jmh_id": "JMH-102113-0007",
+  "name": "簗瀬八幡平の首塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1959-10-01",
+  "municipality": "安中市",
+  "location": "簗瀬769"
+ },
+ {
+  "jmh_id": "JMH-102113-0010",
+  "name": "野殿天王塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1963-09-27",
+  "municipality": "安中市",
+  "location": "野殿569"
+ },
+ {
+  "jmh_id": "JMH-102113-0011",
+  "name": "元助遺跡義士石像元助遺跡義士供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-12",
+  "municipality": "安中市",
+  "location": "東上秋間3197-1東上秋間2041-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0012",
+  "name": "新島襄旧宅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1964-12-30",
+  "municipality": "安中市",
+  "location": "安中一丁目7-30"
+ },
+ {
+  "jmh_id": "JMH-102113-0013",
+  "name": "荒木寅三郎之墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-12",
+  "municipality": "安中市",
+  "location": "板鼻387"
+ },
+ {
+  "jmh_id": "JMH-102113-0015",
+  "name": "後閑城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1969-06-30",
+  "municipality": "安中市",
+  "location": "中後閑394"
+ },
+ {
+  "jmh_id": "JMH-102113-0016",
+  "name": "太山融斎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-28",
+  "municipality": "安中市",
+  "location": "安中三丁目21-25"
+ },
+ {
+  "jmh_id": "JMH-102113-0017",
+  "name": "山田三川の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-28",
+  "municipality": "安中市",
+  "location": "安中二丁目7-19"
+ },
+ {
+  "jmh_id": "JMH-102113-0018",
+  "name": "漆園の記碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1970-10-01",
+  "municipality": "安中市",
+  "location": "安中一丁目7-30"
+ },
+ {
+  "jmh_id": "JMH-102113-0019",
+  "name": "石川忠房生祠之碑及び生祠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1970-10-01",
+  "municipality": "安中市",
+  "location": "安中三丁目20-16"
+ },
+ {
+  "jmh_id": "JMH-102113-0023",
+  "name": "井伊直政正室の墓・直好生母の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1971-10-01",
+  "municipality": "安中市",
+  "location": "安中三丁目21-44"
+ },
+ {
+  "jmh_id": "JMH-102113-0024",
+  "name": "仁田遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1972-11-28",
+  "municipality": "安中市",
+  "location": "松井田町入山字仁田"
+ },
+ {
+  "jmh_id": "JMH-102113-0025",
+  "name": "堀込家上段の間",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1972-11-28",
+  "municipality": "安中市",
+  "location": "松井田町人見1705-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0028",
+  "name": "岩井重遠の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-13",
+  "municipality": "安中市",
+  "location": "松井田町新井字塩沢"
+ },
+ {
+  "jmh_id": "JMH-102113-0034",
+  "name": "松井田城安中郭跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1974-06-27",
+  "municipality": "安中市",
+  "location": "松井田町新堀1287"
+ },
+ {
+  "jmh_id": "JMH-102113-0040",
+  "name": "寒念仏橋供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1977-12-22",
+  "municipality": "安中市",
+  "location": "板鼻186"
+ },
+ {
+  "jmh_id": "JMH-102113-0042",
+  "name": "便覧舎跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1978-12-21",
+  "municipality": "安中市",
+  "location": "安中二丁目10-15"
+ },
+ {
+  "jmh_id": "JMH-102113-0050",
+  "name": "館の百体馬頭観世音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1986-02-26",
+  "municipality": "安中市",
+  "location": "下秋間1400-2"
+ },
+ {
+  "jmh_id": "JMH-102113-0054",
+  "name": "柏木義円の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1989-07-20",
+  "municipality": "安中市",
+  "location": "安中三丁目21-25"
+ },
+ {
+  "jmh_id": "JMH-102113-0063",
+  "name": "万福原古墳（秋間12号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2000-09-27",
+  "municipality": "安中市",
+  "location": "下秋間2097-2"
+ },
+ {
+  "jmh_id": "JMH-102113-0067",
+  "name": "下秋間後平の百庚申",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2003-03-26",
+  "municipality": "安中市",
+  "location": "下秋間1837-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0075",
+  "name": "松井田城本丸・二の丸・馬出し",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2023-03-27",
+  "municipality": "安中市",
+  "location": "松井田町高梨子字城山1545甲・乙・丙（本丸）松井田町高梨子字城山1543（二の丸）松井田町高梨子字城山1544（馬出し）"
+ },
+ {
+  "jmh_id": "JMH-102113-0008",
+  "name": "大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1962-03-27",
+  "municipality": "安中市",
+  "location": "安中三丁目689"
+ }
+]

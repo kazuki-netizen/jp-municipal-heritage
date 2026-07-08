@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-102016-0100",
+  "name": "苗ヶ島小林の石造物群（小林の赤城塔）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町599"
+ },
+ {
+  "jmh_id": "JMH-102016-0081",
+  "name": "大前田世良田薬師の石造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "大前田町542-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0105",
+  "name": "金剛寺の石幢",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1144 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0095",
+  "name": "湯の沢薬師地蔵",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町2034"
+ },
+ {
+  "jmh_id": "JMH-102016-0078",
+  "name": "三夜沢眞隅田家地鎮尊",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町107-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0103",
+  "name": "赤城神社境内神代文字の碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町114 赤城神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0108",
+  "name": "鼻毛石の宝塔（赤城塔）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "鼻毛石町963"
+ },
+ {
+  "jmh_id": "JMH-102016-0112",
+  "name": "鼻毛石鎌田の石造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "鼻毛石町656-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0091",
+  "name": "柏倉の板碑群",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "柏倉町582"
+ },
+ {
+  "jmh_id": "JMH-102016-0089",
+  "name": "東昌寺石造薬師如来坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "柏倉町1428-1 東昌寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0093",
+  "name": "柏倉六本木家墓地の石造物群",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "柏倉町1940"
+ },
+ {
+  "jmh_id": "JMH-102016-0076",
+  "name": "三夜沢の五輪塔群",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町19"
+ },
+ {
+  "jmh_id": "JMH-102016-0077",
+  "name": "三夜沢の石殿",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町191"
+ },
+ {
+  "jmh_id": "JMH-102016-0079",
+  "name": "三夜沢赤城神社の宝塔（赤城塔）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町114 赤城神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0098",
+  "name": "石殿（おびんづる様）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0101",
+  "name": "赤城塔（並木道祖神）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0126",
+  "name": "石殿（開山円義上人の墓）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1144 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0127",
+  "name": "石灯籠",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1100-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0130",
+  "name": "苗ヶ島西原の石殿",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1088-1 苗島神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0115",
+  "name": "あ・うん石仏",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "馬場町29-1 稲荷神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0135",
+  "name": "馬場の石造物群",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "馬場町459-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0137",
+  "name": "馬場古屋敷の石造物群",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "馬場町402-8、馬場町409-5"
+ },
+ {
+  "jmh_id": "JMH-102016-0117",
+  "name": "三夜沢眞隅田家の板碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町107-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0133",
+  "name": "金剛寺木造十一面観音坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0134",
+  "name": "長刀",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町116"
+ },
+ {
+  "jmh_id": "JMH-102016-0131",
+  "name": "赤城山荒山野論裁許絵図",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町2034、三夜沢町116"
+ },
+ {
+  "jmh_id": "JMH-102016-0122",
+  "name": "市之関住吉神社算額（宮城流算額）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "市之関町665 住吉神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0138",
+  "name": "馬頭観世音懸仏",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "柏倉町1023-1 諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0124",
+  "name": "柏倉の銅造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "柏倉町3956"
+ },
+ {
+  "jmh_id": "JMH-102016-0116",
+  "name": "三夜沢杉下家の板碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "三夜沢町104"
+ },
+ {
+  "jmh_id": "JMH-102016-0132",
+  "name": "金剛寺の懸仏",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0154",
+  "name": "金剛寺本堂の欄間彫刻",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-21",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0160",
+  "name": "鼻毛石竹内の石造地蔵菩薩立像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-12",
+  "municipality": "前橋市",
+  "location": "鼻毛石町837-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0156",
+  "name": "赤城寺の種子十三仏塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-12",
+  "municipality": "前橋市",
+  "location": "鼻毛石町141-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0157",
+  "name": "金剛寺の宝篋印塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-12",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0158",
+  "name": "金剛寺の石造五層塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-12",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0155",
+  "name": "苗ヶ島の芭蕉句碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-12",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1117-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0186",
+  "name": "狂歌合わせの額",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1988-02-13",
+  "municipality": "前橋市",
+  "location": "市之関町665 住吉神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0185",
+  "name": "折句合わせの額",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1988-02-13",
+  "municipality": "前橋市",
+  "location": "市之関町665 住吉神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0014",
+  "name": "滝沢不動明王像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-09-01",
+  "municipality": "前橋市",
+  "location": "粕川町中之沢滝沢"
+ }
+]

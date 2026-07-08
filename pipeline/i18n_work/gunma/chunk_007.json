@@ -1,0 +1,350 @@
+[
+ {
+  "jmh_id": "JMH-104558-0017",
+  "name": "東峰のナシノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1974-03-18",
+  "municipality": "みなかみ町",
+  "location": "東峰953-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0041",
+  "name": "小松八幡宮の大スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1980-06-01",
+  "municipality": "みなかみ町",
+  "location": "下津4299-2"
+ },
+ {
+  "jmh_id": "JMH-104558-0055",
+  "name": "町組のエドヒガンザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2000-03-01",
+  "municipality": "みなかみ町",
+  "location": "月夜野406-1"
+ },
+ {
+  "jmh_id": "JMH-104558-0057",
+  "name": "富士浅間神社のムレスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2003-07-14",
+  "municipality": "みなかみ町",
+  "location": "谷川553"
+ },
+ {
+  "jmh_id": "JMH-104558-0056",
+  "name": "八幡様のムレスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2003-07-14",
+  "municipality": "みなかみ町",
+  "location": "谷川地内"
+ },
+ {
+  "jmh_id": "JMH-104558-0058",
+  "name": "湯原神社のムレスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2003-07-14",
+  "municipality": "みなかみ町",
+  "location": "湯原358"
+ },
+ {
+  "jmh_id": "JMH-104558-0062",
+  "name": "布施稲荷神社のウツクシマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2009-06-04",
+  "municipality": "みなかみ町",
+  "location": "布施2013"
+ },
+ {
+  "jmh_id": "JMH-106062-0001",
+  "name": "仁王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1984-09-11",
+  "municipality": "千代田町",
+  "location": "木崎・東光寺"
+ },
+ {
+  "jmh_id": "JMH-106062-0003",
+  "name": "寳林寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1988-01-30",
+  "municipality": "千代田町",
+  "location": "新福寺・寳林寺"
+ },
+ {
+  "jmh_id": "JMH-106062-0002",
+  "name": "光恩寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1988-01-30",
+  "municipality": "千代田町",
+  "location": "赤岩・光恩寺"
+ },
+ {
+  "jmh_id": "JMH-106062-0006",
+  "name": "白衣観音図",
+  "category": "有形文化財",
+  "subcategory": "絵画（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2022-03-23",
+  "municipality": "千代田町",
+  "location": "新福寺・寳林寺"
+ },
+ {
+  "jmh_id": "JMH-106062-0005",
+  "name": "潮音禅師肖像画",
+  "category": "有形文化財",
+  "subcategory": "絵画（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2022-03-23",
+  "municipality": "千代田町",
+  "location": "新福寺・寳林寺"
+ },
+ {
+  "jmh_id": "JMH-106062-0004",
+  "name": "寳生寺 槙",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2022-03-23",
+  "municipality": "千代田町",
+  "location": "瀬戸井・寳生寺"
+ },
+ {
+  "jmh_id": "JMH-106062-0007",
+  "name": "赤岩の川施餓鬼",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "2022-03-23",
+  "municipality": "千代田町",
+  "location": "赤岩地内"
+ },
+ {
+  "jmh_id": "JMH-102032-0004",
+  "name": "光性寺木彫不動明王像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0006",
+  "name": "前田利家新田老母宛書状",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0055",
+  "name": "浄運寺安土宗論記録",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0033",
+  "name": "彦部家文書仁田山紬注文書",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0040",
+  "name": "東禅寺角塔",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0093",
+  "name": "須永の地蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0094",
+  "name": "須永の弥陀三尊像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0074",
+  "name": "観音寺石幢",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0026",
+  "name": "小倉の石幢",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0083",
+  "name": "重足寺石幢",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0043",
+  "name": "栖松寺石幢",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0068",
+  "name": "石鴨の道祖神",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0075",
+  "name": "観音院涅槃図",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0013",
+  "name": "千手寺石幢",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0054",
+  "name": "法楽寺御正体",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0099",
+  "name": "鳳仙寺輪蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0008",
+  "name": "加茂神社塚出土の環頭大刀",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0096",
+  "name": "鳳仙寺山門",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0098",
+  "name": "鳳仙寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0022",
+  "name": "大雄院山門",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0073",
+  "name": "観音寺山門",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0023",
+  "name": "天満宮末社春日社（国重要文化財指定に伴い解除）",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0067",
+  "name": "矢野本店店舗及び店蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0039",
+  "name": "旧矢野蔵群（有鄰館）",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0038",
+  "name": "旧模範工場桐生撚糸合資会社事務所棟（絹撚記念館）",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ },
+ {
+  "jmh_id": "JMH-102032-0078",
+  "name": "賀茂神社の石灯籠",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財",
+  "designation": "市指定",
+  "municipality": "桐生市"
+ }
+]

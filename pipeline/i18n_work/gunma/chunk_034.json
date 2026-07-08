@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-102041-0105",
+  "name": "茂呂の屋台",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2010-10-01",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市茂呂地区"
+ },
+ {
+  "jmh_id": "JMH-102041-0080",
+  "name": "伊勢崎木遣り",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-06-29",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市宮子町"
+ },
+ {
+  "jmh_id": "JMH-102041-0101",
+  "name": "倭文神社の田遊び",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2007-08-17",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市東上之宮町"
+ },
+ {
+  "jmh_id": "JMH-102041-0097",
+  "name": "国定赤城神社奉納獅子舞",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-06-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市国定町"
+ },
+ {
+  "jmh_id": "JMH-102041-0095",
+  "name": "下渕名の獅子舞",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-06-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境下渕名"
+ },
+ {
+  "jmh_id": "JMH-102041-0096",
+  "name": "剛志の民謡",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-06-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境剛志地区"
+ },
+ {
+  "jmh_id": "JMH-102041-0098",
+  "name": "女塚祭礼囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-06-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境女塚"
+ },
+ {
+  "jmh_id": "JMH-102041-0100",
+  "name": "栄町祭礼囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-06-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境栄"
+ },
+ {
+  "jmh_id": "JMH-102041-0094",
+  "name": "三ツ木祭礼囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-06-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境三ツ木"
+ },
+ {
+  "jmh_id": "JMH-102041-0099",
+  "name": "東新井の獅子舞",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-06-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境東新井"
+ },
+ {
+  "jmh_id": "JMH-102041-0109",
+  "name": "茂呂町一丁目屋台囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-26",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市茂呂町一丁目"
+ },
+ {
+  "jmh_id": "JMH-102041-0110",
+  "name": "茂呂町二丁目屋台囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-26",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市茂呂町二丁目"
+ },
+ {
+  "jmh_id": "JMH-102041-0106",
+  "name": "南北千木町屋台囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-26",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市南北千木町"
+ },
+ {
+  "jmh_id": "JMH-102041-0107",
+  "name": "美茂呂町屋台囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-26",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市美茂呂町"
+ },
+ {
+  "jmh_id": "JMH-102041-0108",
+  "name": "茂呂南町屋台囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-26",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市茂呂南町"
+ },
+ {
+  "jmh_id": "JMH-102041-0111",
+  "name": "東町屋台囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2014-02-25",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境東"
+ },
+ {
+  "jmh_id": "JMH-102041-0112",
+  "name": "気楽流柔術",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2015-02-26",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市東小保方町"
+ },
+ {
+  "jmh_id": "JMH-102041-0116",
+  "name": "山王町屋台囃子",
+  "category": "有形文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2022-02-25",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市山王町"
+ },
+ {
+  "jmh_id": "JMH-102041-0012",
+  "name": "権現山遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1966-04-12",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市豊城町"
+ },
+ {
+  "jmh_id": "JMH-102041-0005",
+  "name": "お富士山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1966-04-12",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市安堀町"
+ },
+ {
+  "jmh_id": "JMH-102041-0007",
+  "name": "今村城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1966-04-12",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市稲荷町"
+ },
+ {
+  "jmh_id": "JMH-102041-0010",
+  "name": "柴宿本陣跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1966-04-12",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市柴町"
+ },
+ {
+  "jmh_id": "JMH-102041-0011",
+  "name": "栗庵似鳩の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1966-04-12",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市上蓮町"
+ },
+ {
+  "jmh_id": "JMH-102041-0033",
+  "name": "稲垣平右衛門長茂の墓 附累代の墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-15",
+  "municipality": "伊勢崎市",
+  "location": "天増寺(昭和町)"
+ },
+ {
+  "jmh_id": "JMH-102041-0031",
+  "name": "小畠武堯の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-15",
+  "municipality": "伊勢崎市",
+  "location": "善応寺(曲輪町)"
+ },
+ {
+  "jmh_id": "JMH-102041-0028",
+  "name": "下城弥一郎・森村熊蔵の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市曲輪町"
+ },
+ {
+  "jmh_id": "JMH-102041-0054",
+  "name": "関当義・重嶷父子の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1973-03-05",
+  "municipality": "伊勢崎市",
+  "location": "同聚院(曲輪町)"
+ },
+ {
+  "jmh_id": "JMH-102041-0057",
+  "name": "丸塚山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1977-09-09",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市三和町"
+ },
+ {
+  "jmh_id": "JMH-102041-0079",
+  "name": "一ノ関古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1998-12-28",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市本関町"
+ },
+ {
+  "jmh_id": "JMH-102041-0037",
+  "name": "十二所古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1971-06-10",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市磯町"
+ },
+ {
+  "jmh_id": "JMH-102041-0075",
+  "name": "庚塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1995-04-01",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市下触町"
+ },
+ {
+  "jmh_id": "JMH-102041-0086",
+  "name": "赤堀城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2004-08-10",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市赤堀今井町"
+ },
+ {
+  "jmh_id": "JMH-102041-0085",
+  "name": "毒島城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2004-08-10",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市赤堀今井町"
+ },
+ {
+  "jmh_id": "JMH-102041-0087",
+  "name": "赤堀茶臼山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2004-08-10",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市赤堀今井町"
+ },
+ {
+  "jmh_id": "JMH-102041-0084",
+  "name": "天幕城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2004-08-10",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市磯町"
+ },
+ {
+  "jmh_id": "JMH-102041-0034",
+  "name": "六道の道標とあずま道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1969-02-21",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市上田町"
+ },
+ {
+  "jmh_id": "JMH-102041-0063",
+  "name": "旗本久永氏陣屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1988-03-04",
+  "municipality": "伊勢崎市",
+  "location": "大東神社(東小保方町)"
+ },
+ {
+  "jmh_id": "JMH-102041-0036",
+  "name": "鶴巻古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1969-02-21",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市東小保方町"
+ },
+ {
+  "jmh_id": "JMH-102041-0002",
+  "name": "郷学五惇堂の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1960-03-01",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境伊与久"
+ },
+ {
+  "jmh_id": "JMH-102041-0001",
+  "name": "北米岡縄文文化遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1960-03-01",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境米岡"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-104043-0056",
+  "name": "赤岩湯本家住宅",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1999-08-25",
+  "municipality": "中之条町",
+  "location": "大字赤岩281"
+ },
+ {
+  "jmh_id": "JMH-104043-0059",
+  "name": "市城の宝塔",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2000-03-27",
+  "municipality": "中之条町",
+  "location": "大字市城872-3"
+ },
+ {
+  "jmh_id": "JMH-104043-0060",
+  "name": "永林寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2000-03-27",
+  "municipality": "中之条町",
+  "location": "大字上沢渡2016"
+ },
+ {
+  "jmh_id": "JMH-104043-0058",
+  "name": "宗本寺本堂の欄間",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2000-03-27",
+  "municipality": "中之条町",
+  "location": "大字下沢渡494"
+ },
+ {
+  "jmh_id": "JMH-104043-0061",
+  "name": "薬師堂のお籠堂",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2000-03-27",
+  "municipality": "中之条町",
+  "location": "大字四万4371"
+ },
+ {
+  "jmh_id": "JMH-104043-0065",
+  "name": "吾妻三十三番札所再興記念碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2006-03-24",
+  "municipality": "中之条町",
+  "location": "大字大塚2413-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0069",
+  "name": "銅印",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2006-03-24",
+  "municipality": "中之条町",
+  "location": "大字中之条町947-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0066",
+  "name": "永徳斎作有職雛一式",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2006-03-24",
+  "municipality": "中之条町",
+  "location": "大字中之条町947-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0071",
+  "name": "積善館の前新",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2014-07-23",
+  "municipality": "中之条町",
+  "location": "大字四万4236-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0073",
+  "name": "積善館の廊下橋",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2014-07-23",
+  "municipality": "中之条町",
+  "location": "大字四万4236-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0072",
+  "name": "積善館の向新",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2014-07-23",
+  "municipality": "中之条町",
+  "location": "大字四万4233-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0064",
+  "name": "小雨・生須の鳥追い",
+  "category": "民俗文化財",
+  "subcategory": "町指定重要無形文化財",
+  "designation": "町指定",
+  "designated_date": "2000-06-29",
+  "municipality": "中之条町",
+  "location": "大字小雨・生須地内"
+ },
+ {
+  "jmh_id": "JMH-104043-0001",
+  "name": "広池遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1976-03-27",
+  "municipality": "中之条町",
+  "location": "大字赤岩1121"
+ },
+ {
+  "jmh_id": "JMH-104043-0003",
+  "name": "桃瀬の水牢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1979-03-08",
+  "municipality": "中之条町",
+  "location": "大字横尾1639"
+ },
+ {
+  "jmh_id": "JMH-104043-0004",
+  "name": "樋塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1979-03-08",
+  "municipality": "中之条町",
+  "location": "大字平1057-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0016",
+  "name": "百八十八観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1987-04-22",
+  "municipality": "中之条町",
+  "location": "大字入山乙3533-6"
+ },
+ {
+  "jmh_id": "JMH-104043-0024",
+  "name": "小川古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字中之条町"
+ },
+ {
+  "jmh_id": "JMH-104043-0031",
+  "name": "笛吹塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字山田134-2"
+ },
+ {
+  "jmh_id": "JMH-104043-0023",
+  "name": "小塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字横尾1305"
+ },
+ {
+  "jmh_id": "JMH-104043-0020",
+  "name": "城峯城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字西中之条"
+ },
+ {
+  "jmh_id": "JMH-104043-0025",
+  "name": "嵩山城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字五反田"
+ },
+ {
+  "jmh_id": "JMH-104043-0018",
+  "name": "八幡城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字横尾"
+ },
+ {
+  "jmh_id": "JMH-104043-0032",
+  "name": "道路元標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字中之条町959-2"
+ },
+ {
+  "jmh_id": "JMH-104043-0033",
+  "name": "吾嬬橋",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-02-21",
+  "municipality": "中之条町",
+  "location": "町道小雨生須線白砂川上"
+ },
+ {
+  "jmh_id": "JMH-104043-0034",
+  "name": "小雨馬頭観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-02-21",
+  "municipality": "中之条町",
+  "location": "六合支所北側"
+ },
+ {
+  "jmh_id": "JMH-104043-0035",
+  "name": "生須馬頭観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-02-21",
+  "municipality": "中之条町",
+  "location": "大字生須県道脇"
+ },
+ {
+  "jmh_id": "JMH-104043-0044",
+  "name": "旧名久田発電所放水口",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字横尾1329-2"
+ },
+ {
+  "jmh_id": "JMH-104043-0049",
+  "name": "石の塔古墳及び出土品",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字中之条町400-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0043",
+  "name": "山田城址（古城）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字山田696他"
+ },
+ {
+  "jmh_id": "JMH-104043-0045",
+  "name": "桑田城址（寺山）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字山田2181-1他"
+ },
+ {
+  "jmh_id": "JMH-104043-0039",
+  "name": "内山城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字折田2070-1他"
+ },
+ {
+  "jmh_id": "JMH-104043-0054",
+  "name": "青山の浅間石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字青山234-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0068",
+  "name": "蟻川波右衛門史跡と関係資料",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "2006-03-24",
+  "municipality": "中之条町",
+  "location": "大字蟻川他"
+ },
+ {
+  "jmh_id": "JMH-104043-0067",
+  "name": "石の塔の浅間石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "2006-03-24",
+  "municipality": "中之条町",
+  "location": "大字中之条町452"
+ },
+ {
+  "jmh_id": "JMH-104043-0013",
+  "name": "妙全杉（逆さ杉）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "1981-12-12",
+  "municipality": "中之条町",
+  "location": "大字日影1160"
+ },
+ {
+  "jmh_id": "JMH-104043-0015",
+  "name": "十二の杜（楢）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "1986-02-13",
+  "municipality": "中之条町",
+  "location": "大字入山4047"
+ },
+ {
+  "jmh_id": "JMH-104043-0014",
+  "name": "シダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "1986-02-13",
+  "municipality": "中之条町",
+  "location": "大字入山（小倉）"
+ },
+ {
+  "jmh_id": "JMH-104043-0030",
+  "name": "町田家のシイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字中之条町931-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0028",
+  "name": "林昌寺のシダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字伊勢町1002"
+ },
+ {
+  "jmh_id": "JMH-104043-0017",
+  "name": "お神明さんのサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字伊勢町1303"
+ }
+]

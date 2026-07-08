@@ -1,0 +1,389 @@
+[
+ {
+  "jmh_id": "JMH-103616-0016",
+  "name": "永寿寺の芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1984-09-11",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0020",
+  "name": "高橋道斎譔并書による長清道士之碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1988-03-22",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0009",
+  "name": "伏見山十一面観音",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1979-06-29",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0023",
+  "name": "荒船風穴蚕種貯蔵所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "2006-11-29",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0022",
+  "name": "上野鉄道鬼ケ沢橋梁",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2006-11-29",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0024",
+  "name": "春秋館文書",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "2013-01-23",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0025",
+  "name": "下鎌田・杣瀬遺跡出土品",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "2016-03-18",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0026",
+  "name": "桑本のザゼンソウ群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "designated_date": "2016-03-18",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0028",
+  "name": "春秋館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-103616-0027",
+  "name": "初鳥屋遺跡出土の石棒",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "2019-03-19",
+  "municipality": "下仁田町"
+ },
+ {
+  "jmh_id": "JMH-102105-0001",
+  "name": "北山茶臼山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1971-04-10",
+  "municipality": "富岡市",
+  "location": "南後箇99-1上高瀬1817上高瀬1799"
+ },
+ {
+  "jmh_id": "JMH-102105-0002",
+  "name": "八幡宮（横瀬）",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1972-02-08",
+  "municipality": "富岡市",
+  "location": "上高瀬864"
+ },
+ {
+  "jmh_id": "JMH-102105-0003",
+  "name": "太子堂塚（旅寝塚）古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1974-05-13",
+  "municipality": "富岡市",
+  "location": "一ノ宮245-1一ノ宮245-2一ノ宮246"
+ },
+ {
+  "jmh_id": "JMH-102105-0005",
+  "name": "芭蕉句碑附雲裡房句碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1974-05-13",
+  "municipality": "富岡市",
+  "location": "一ノ宮245-1"
+ },
+ {
+  "jmh_id": "JMH-102105-0004",
+  "name": "栖雲寺画像板碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1974-05-13",
+  "municipality": "富岡市",
+  "location": "富岡1839"
+ },
+ {
+  "jmh_id": "JMH-102105-0006",
+  "name": "嘉暦銘板碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1975-04-30",
+  "municipality": "富岡市",
+  "location": "野上乙1841"
+ },
+ {
+  "jmh_id": "JMH-102105-0007",
+  "name": "木彫阿弥陀如来坐像附　金銅製十一面観音懸仏",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-07",
+  "municipality": "富岡市",
+  "location": "一ノ宮227"
+ },
+ {
+  "jmh_id": "JMH-102105-0008",
+  "name": "鐃鈸",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-07",
+  "municipality": "富岡市",
+  "location": "下高瀬731"
+ },
+ {
+  "jmh_id": "JMH-102105-0009",
+  "name": "観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "富岡市",
+  "location": "富岡1193"
+ },
+ {
+  "jmh_id": "JMH-102105-0010",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "富岡市",
+  "location": "富岡1193"
+ },
+ {
+  "jmh_id": "JMH-102105-0011",
+  "name": "佐藤探雲の墓碑　附　探雲自画像・硯",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1979-03-28",
+  "municipality": "富岡市",
+  "location": "野上2625"
+ },
+ {
+  "jmh_id": "JMH-102105-0012",
+  "name": "折本大般若波羅密多経（巻第三百四十二・巻第三百四十六）",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1980-04-22",
+  "municipality": "富岡市",
+  "location": "七日市841"
+ },
+ {
+  "jmh_id": "JMH-102105-0013",
+  "name": "木喰仏",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1980-04-22",
+  "municipality": "富岡市",
+  "location": "下丹生1568"
+ },
+ {
+  "jmh_id": "JMH-102105-0014",
+  "name": "正嘉銘板碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-27",
+  "municipality": "富岡市",
+  "location": "下黒岩1454"
+ },
+ {
+  "jmh_id": "JMH-102105-0015",
+  "name": "円空作十一面千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1981-05-26",
+  "municipality": "富岡市",
+  "location": "黒川596不動堂"
+ },
+ {
+  "jmh_id": "JMH-102105-0067",
+  "name": "堂山稲荷古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "富岡市",
+  "location": "一ノ宮115一ノ宮116"
+ },
+ {
+  "jmh_id": "JMH-102105-0068",
+  "name": "宮崎神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "municipality": "富岡市",
+  "location": "宮崎547"
+ },
+ {
+  "jmh_id": "JMH-102105-0016",
+  "name": "石造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1985-01-24",
+  "municipality": "富岡市",
+  "location": "南後箇1187"
+ },
+ {
+  "jmh_id": "JMH-102105-0017",
+  "name": "貫前神社のスダジイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-06-25",
+  "municipality": "富岡市",
+  "location": "一ノ宮1535"
+ },
+ {
+  "jmh_id": "JMH-102105-0018",
+  "name": "変形四獣鏡",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1986-10-20",
+  "municipality": "富岡市",
+  "location": "黒川351-1市立美術博物館"
+ },
+ {
+  "jmh_id": "JMH-102105-0020",
+  "name": "鯰尾の兜　附　守神",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1986-10-20",
+  "municipality": "富岡市",
+  "location": "黒川351-1市立美術博物館（寄託)"
+ },
+ {
+  "jmh_id": "JMH-102105-0019",
+  "name": "木造虚空蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1986-10-20",
+  "municipality": "富岡市",
+  "location": "中沢211"
+ },
+ {
+  "jmh_id": "JMH-102105-0026",
+  "name": "菅原神社本殿",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-26",
+  "municipality": "富岡市",
+  "location": "妙義町菅原1423"
+ },
+ {
+  "jmh_id": "JMH-102105-0027",
+  "name": "高太神社本殿",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-26",
+  "municipality": "富岡市",
+  "location": "妙義町下高田661"
+ },
+ {
+  "jmh_id": "JMH-102105-0023",
+  "name": "女神像碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-26",
+  "municipality": "富岡市",
+  "location": "妙義町菅原985-1"
+ },
+ {
+  "jmh_id": "JMH-102105-0021",
+  "name": "十一面観音菩薩碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-26",
+  "municipality": "富岡市",
+  "location": "妙義町菅原985-1"
+ },
+ {
+  "jmh_id": "JMH-102105-0024",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-26",
+  "municipality": "富岡市",
+  "location": "妙義町上高田1209-13富岡市郷土館"
+ },
+ {
+  "jmh_id": "JMH-102105-0022",
+  "name": "地蔵菩薩碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-26",
+  "municipality": "富岡市",
+  "location": "妙義町八木連堂谷"
+ },
+ {
+  "jmh_id": "JMH-102105-0025",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-26",
+  "municipality": "富岡市",
+  "location": "妙義町下高田441"
+ },
+ {
+  "jmh_id": "JMH-102105-0028",
+  "name": "木彫馬頭観音立像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1989-03-24",
+  "municipality": "富岡市",
+  "location": "藤木249藤木観音堂"
+ }
+]
