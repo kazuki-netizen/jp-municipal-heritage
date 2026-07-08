@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-043222-0056",
+  "name": "柴田郡足立村絵図面",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2019-08-20",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫"
+ },
+ {
+  "jmh_id": "JMH-043222-0057",
+  "name": "猫神の石碑",
+  "category": "民俗文化財",
+  "subcategory": "その他",
+  "designation": "町指定",
+  "designated_date": "2019-08-20",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字菅生字宮"
+ },
+ {
+  "jmh_id": "JMH-043222-0034",
+  "name": "小泉熊野神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字小泉字新畑"
+ },
+ {
+  "jmh_id": "JMH-043222-0038",
+  "name": "沼辺八幡神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字中山"
+ },
+ {
+  "jmh_id": "JMH-043222-0039",
+  "name": "菅生神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字菅生字宮前"
+ },
+ {
+  "jmh_id": "JMH-043222-0040",
+  "name": "足立稲田姫神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字足立字馬立"
+ },
+ {
+  "jmh_id": "JMH-043222-0035",
+  "name": "小谷やすとこ",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字小泉字北小谷"
+ },
+ {
+  "jmh_id": "JMH-043222-0042",
+  "name": "関場田植踊",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字関場字砂子"
+ },
+ {
+  "jmh_id": "JMH-043222-0041",
+  "name": "関場七福神舞",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字関場字入沢"
+ },
+ {
+  "jmh_id": "JMH-043222-0037",
+  "name": "沼田七福神舞",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼田字横山"
+ },
+ {
+  "jmh_id": "JMH-043222-0036",
+  "name": "本郷布袋踊",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字北沢"
+ },
+ {
+  "jmh_id": "JMH-043222-0002",
+  "name": "古舘横穴古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-03-10",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字小泉字古舘"
+ },
+ {
+  "jmh_id": "JMH-043222-0001",
+  "name": "中山囲横穴古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-03-10",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字中山"
+ },
+ {
+  "jmh_id": "JMH-043222-0003",
+  "name": "龍泉院横穴古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-03-10",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字関場字砂子"
+ },
+ {
+  "jmh_id": "JMH-043222-0012",
+  "name": "願勝寺山門",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字東"
+ },
+ {
+  "jmh_id": "JMH-043222-0005",
+  "name": "伊達宗高公御廟及び殉死者の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字大槻下"
+ },
+ {
+  "jmh_id": "JMH-043222-0006",
+  "name": "奥山大学常良の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字大槻下"
+ },
+ {
+  "jmh_id": "JMH-043222-0009",
+  "name": "村田城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫ほか"
+ },
+ {
+  "jmh_id": "JMH-043222-0011",
+  "name": "白鳥神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字七小路"
+ },
+ {
+  "jmh_id": "JMH-043222-0013",
+  "name": "お荼毘塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字広畑囲"
+ },
+ {
+  "jmh_id": "JMH-043222-0024",
+  "name": "輝井太郎墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字山の上"
+ },
+ {
+  "jmh_id": "JMH-043222-0017",
+  "name": "旧奥州街道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字韮神"
+ },
+ {
+  "jmh_id": "JMH-043222-0016",
+  "name": "小泉館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字小泉字古舘"
+ },
+ {
+  "jmh_id": "JMH-043222-0018",
+  "name": "星城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字足立字星城囲"
+ },
+ {
+  "jmh_id": "JMH-043222-0015",
+  "name": "千塚山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字千塚"
+ },
+ {
+  "jmh_id": "JMH-043222-0025",
+  "name": "長窪山遺跡群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字長窪山"
+ },
+ {
+  "jmh_id": "JMH-043222-0026",
+  "name": "韮神山遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字韮神"
+ },
+ {
+  "jmh_id": "JMH-043222-0021",
+  "name": "経塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字大槻下"
+ },
+ {
+  "jmh_id": "JMH-043222-0030",
+  "name": "武家屋敷（旧田山家）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1994-08-02",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字西"
+ },
+ {
+  "jmh_id": "JMH-043222-0031",
+  "name": "松尾観音堂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-12",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字足立字奥松尾"
+ },
+ {
+  "jmh_id": "JMH-043222-0044",
+  "name": "新峯崎遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1998-02-27",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字関場字新峯崎"
+ },
+ {
+  "jmh_id": "JMH-043222-0052",
+  "name": "菅生館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2016-03-25",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字菅生字館"
+ },
+ {
+  "jmh_id": "JMH-043222-0023",
+  "name": "谷山自然公園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町荒川上流"
+ },
+ {
+  "jmh_id": "JMH-043222-0004",
+  "name": "フジ、ケヤキ、イチョウ、シラカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字七小路"
+ },
+ {
+  "jmh_id": "JMH-043222-0020",
+  "name": "立石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字沼辺字立石"
+ },
+ {
+  "jmh_id": "JMH-043222-0029",
+  "name": "サクラ（金剛桜）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1994-08-02",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字小泉字古舘"
+ },
+ {
+  "jmh_id": "JMH-043222-0033",
+  "name": "ヤマモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1996-12-26",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字北沢"
+ },
+ {
+  "jmh_id": "JMH-043222-0046",
+  "name": "浮島の植物群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-04-18",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字関場字屋敷前"
+ },
+ {
+  "jmh_id": "JMH-043222-0054",
+  "name": "シダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2019-08-20",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字菅生字鍛治谷"
+ },
+ {
+  "jmh_id": "JMH-042072-0001",
+  "name": "熊野堂横穴墓群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡(横穴墓）",
+  "designation": "市指定",
+  "designated_date": "1966-03-31",
+  "municipality": "名取市",
+  "location": "名取市高舘熊野堂字大門山35"
+ }
+]

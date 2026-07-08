@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-042021-0053",
+  "name": "カヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-12-01",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市桃生町倉埣山居"
+ },
+ {
+  "jmh_id": "JMH-042021-0054",
+  "name": "ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-12-01",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市桃生町太田字十貫壱番 日高見神社"
+ },
+ {
+  "jmh_id": "JMH-042021-0055",
+  "name": "ヤマザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-12-01",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市桃生町太田字中下 長谷寺"
+ },
+ {
+  "jmh_id": "JMH-042021-0006",
+  "name": "経筒",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1980-11-01",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市開成1-8 石巻市博物館 マルホンまきあーとテラス内"
+ },
+ {
+  "jmh_id": "JMH-042021-0023",
+  "name": "太刀備前長船住兼光",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1983-12-17",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市鮎川浜金華山 黄金山神社"
+ },
+ {
+  "jmh_id": "JMH-042021-0024",
+  "name": "太刀山城粟田口住藤四郎吉光",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1983-12-17",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市鮎川浜金華山 黄金山神社"
+ },
+ {
+  "jmh_id": "JMH-042021-0005",
+  "name": "弘安八年の碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-11-01",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市給分浜後山 陽山寺"
+ },
+ {
+  "jmh_id": "JMH-042021-0019",
+  "name": "明神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-12-17",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市寄磯浜前浜 明神社"
+ },
+ {
+  "jmh_id": "JMH-042021-0002",
+  "name": "仙台藩鮎川唐船番所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "designated_date": "1976-03-01",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市鮎川浜黒崎"
+ },
+ {
+  "jmh_id": "JMH-042021-0056",
+  "name": "海蔵庵板碑群",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2006-04-01",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市尾崎字宮下 海蔵庵"
+ },
+ {
+  "jmh_id": "JMH-042021-0057",
+  "name": "旧観慶丸商店",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2015-10-28",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市中央三丁目6-9"
+ },
+ {
+  "jmh_id": "JMH-042021-0058",
+  "name": "アンバサン",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "市指定",
+  "designated_date": "2019-06-27",
+  "municipality": "石巻市",
+  "location": "宮城県石巻市長面字大入山 大杉神社"
+ },
+ {
+  "jmh_id": "JMH-042110-0003",
+  "name": "米づくりの額・藍づくりの額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1973-03-27",
+  "municipality": "岩沼市",
+  "location": "下野郷字上中筋"
+ },
+ {
+  "jmh_id": "JMH-042110-0004",
+  "name": "竹駒神社楼門（随身門）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1990-05-11",
+  "municipality": "岩沼市",
+  "location": "稲荷町"
+ },
+ {
+  "jmh_id": "JMH-042110-0005",
+  "name": "竹駒神社境内三社（愛宕神社・八幡神社・総社宮）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2020-02-13",
+  "municipality": "岩沼市",
+  "location": "稲荷町"
+ },
+ {
+  "jmh_id": "JMH-042110-0006",
+  "name": "伊達政宗騎馬石膏像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2025-03-06",
+  "municipality": "岩沼市",
+  "location": "稲荷町"
+ },
+ {
+  "jmh_id": "JMH-042110-0002",
+  "name": "竹駒奴",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-05-29",
+  "municipality": "岩沼市"
+ },
+ {
+  "jmh_id": "JMH-042110-0001",
+  "name": "二木の松（武隈の松）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1969-05-29",
+  "municipality": "岩沼市",
+  "location": "二木二丁目"
+ },
+ {
+  "jmh_id": "JMH-042080-0002",
+  "name": "臥牛門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1968-10-01",
+  "municipality": "角田市",
+  "location": "角田・長泉寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0013",
+  "name": "諏訪神社社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "佐倉・諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-042080-0012",
+  "name": "諏訪神社石鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "佐倉・諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-042080-0007",
+  "name": "八幡神社楼門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "角田・八幡神社"
+ },
+ {
+  "jmh_id": "JMH-042080-0010",
+  "name": "斗蔵寺観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "小田・斗蔵寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0025",
+  "name": "旧氏丈邸",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "角田・郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-042080-0004",
+  "name": "木造毘沙門天三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1969-10-01",
+  "municipality": "角田市",
+  "location": "鳩原・福應寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0005",
+  "name": "木造十一面千手観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-02-01",
+  "municipality": "角田市",
+  "location": "佐倉・自照院"
+ },
+ {
+  "jmh_id": "JMH-042080-0015",
+  "name": "木造阿弥陀如来坐像(旧像)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-03-26",
+  "municipality": "角田市",
+  "location": "高倉・高蔵寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0027",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "平貫・定迎寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0026",
+  "name": "木造千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "小田・斗蔵寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0003",
+  "name": "鉄鉢",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1968-10-01",
+  "municipality": "角田市",
+  "location": "小田・斗蔵寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0014",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "神次郎・妙立寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0009",
+  "name": "敵国降伏の扁額",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "角田・八幡神社"
+ },
+ {
+  "jmh_id": "JMH-042080-0016",
+  "name": "高蔵寺の寺号額",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1982-03-26",
+  "municipality": "角田市",
+  "location": "高倉・高蔵寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0024",
+  "name": "妙立寺の長持",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "神次郎・妙立寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0035",
+  "name": "紺糸最上胴具足",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1998-01-06",
+  "municipality": "角田市",
+  "location": "角田・郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-042080-0037",
+  "name": "長泉寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "2004-07-22",
+  "municipality": "角田市",
+  "location": "角田・長泉寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0039",
+  "name": "称名寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "2007-12-27",
+  "municipality": "角田市",
+  "location": "尾山・称名寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0040",
+  "name": "石川昭光木像・七殉死者木像",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "2014-07-05",
+  "municipality": "角田市",
+  "location": "角田・長泉寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0001",
+  "name": "文永12年銘供養碑",
+  "category": "有形文化財",
+  "subcategory": "古碑",
+  "designation": "市指定",
+  "designated_date": "1968-10-01",
+  "municipality": "角田市",
+  "location": "藤田・藤田寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0011",
+  "name": "正徳2年銘恕軒大町先生碑",
+  "category": "有形文化財",
+  "subcategory": "古碑",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "藤田・喜松院"
+ }
+]

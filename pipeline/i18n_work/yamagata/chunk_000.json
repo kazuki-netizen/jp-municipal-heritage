@@ -1,0 +1,378 @@
+[
+ {
+  "jmh_id": "JMH-063231-0002",
+  "name": "ハッチョウトンボ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 記念物 天然記念物",
+  "designation": "町指定",
+  "designated_date": "1982-01-13",
+  "municipality": "朝日町",
+  "location": "町内"
+ },
+ {
+  "jmh_id": "JMH-063231-0001",
+  "name": "大隅遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定・史跡・記念物",
+  "designation": "町指定",
+  "designated_date": "1981-04-20",
+  "municipality": "朝日町",
+  "location": "朝日町大字和合"
+ },
+ {
+  "jmh_id": "JMH-063630-0002",
+  "name": "薬師瑠璃光如来",
+  "category": "有形文化財",
+  "subcategory": "町指定有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "1962-04-01",
+  "municipality": "舟形町",
+  "location": "松橋多目的集会所（舟形町堀内）"
+ },
+ {
+  "jmh_id": "JMH-063630-0001",
+  "name": "堀内田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "町指定民俗文化財（芸能）",
+  "designation": "町指定",
+  "designated_date": "1962-04-01",
+  "municipality": "舟形町",
+  "location": "舟形町堀内"
+ },
+ {
+  "jmh_id": "JMH-063630-0004",
+  "name": "親杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物（その他）",
+  "designation": "町指定",
+  "designated_date": "1975-03-01",
+  "municipality": "舟形町",
+  "location": "舟形町富田"
+ },
+ {
+  "jmh_id": "JMH-063630-0003",
+  "name": "祈祷塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物（その他）",
+  "designation": "町指定",
+  "designated_date": "1975-03-01",
+  "municipality": "舟形町",
+  "location": "舟形町富田"
+ },
+ {
+  "jmh_id": "JMH-063630-0007",
+  "name": "薬師如来洗米鉢",
+  "category": "有形文化財",
+  "subcategory": "町指定有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "1985-02-09",
+  "municipality": "舟形町",
+  "location": "松橋多目的集会所（舟形町堀内）"
+ },
+ {
+  "jmh_id": "JMH-063630-0006",
+  "name": "林昌院肩衝筒釜",
+  "category": "有形文化財",
+  "subcategory": "町指定有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "1985-02-09",
+  "municipality": "舟形町",
+  "location": "林昌院（舟形町富田）"
+ },
+ {
+  "jmh_id": "JMH-063630-0005",
+  "name": "新山神社鰐口",
+  "category": "有形文化財",
+  "subcategory": "町指定有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "1985-02-09",
+  "municipality": "舟形町",
+  "location": "新山神社（舟形町長沢）"
+ },
+ {
+  "jmh_id": "JMH-063630-0008",
+  "name": "長沢和紙",
+  "category": "無形文化財",
+  "subcategory": "町指定無形文化財（工芸技術）",
+  "designation": "町指定",
+  "designated_date": "1986-03-20",
+  "municipality": "舟形町",
+  "location": "舟形町長沢"
+ },
+ {
+  "jmh_id": "JMH-063630-0009",
+  "name": "堀内盆踊り",
+  "category": "民俗文化財",
+  "subcategory": "町指定民俗文化財（芸能）",
+  "designation": "町指定",
+  "designated_date": "1987-06-20",
+  "municipality": "舟形町",
+  "location": "舟形町堀内"
+ },
+ {
+  "jmh_id": "JMH-063630-0010",
+  "name": "猿羽根楯",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物（その他）",
+  "designation": "町指定",
+  "designated_date": "1995-04-24",
+  "municipality": "舟形町",
+  "location": "舟形町富田"
+ },
+ {
+  "jmh_id": "JMH-063630-0011",
+  "name": "墨画山水漢人屏風",
+  "category": "有形文化財",
+  "subcategory": "町指定有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "1998-04-25",
+  "municipality": "舟形町",
+  "location": "福昌寺（舟形町長沢）"
+ },
+ {
+  "jmh_id": "JMH-063630-0012",
+  "name": "念仏の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物（その他）",
+  "designation": "町指定",
+  "designated_date": "1998-04-25",
+  "municipality": "舟形町",
+  "location": "舟形町長沢"
+ },
+ {
+  "jmh_id": "JMH-063630-0013",
+  "name": "西ノ前遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物（その他）",
+  "designation": "町指定",
+  "designated_date": "2002-07-29",
+  "municipality": "舟形町",
+  "location": "西ノ前遺跡（舟形町舟形）"
+ },
+ {
+  "jmh_id": "JMH-063630-0014",
+  "name": "大平山神神社 格天井板絵",
+  "category": "有形文化財",
+  "subcategory": "町指定有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "2003-06-23",
+  "municipality": "舟形町",
+  "location": "大平山神神社（舟形町舟形）"
+ },
+ {
+  "jmh_id": "JMH-062111-0003",
+  "name": "沢渡十一面観世音",
+  "category": "有形文化財",
+  "subcategory": "彫刻（仏像）",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0009",
+  "name": "マリア観音",
+  "category": "有形文化財",
+  "subcategory": "彫刻（仏像）",
+  "designation": "市指定",
+  "designated_date": "1969-05-29",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0018",
+  "name": "大森山の磨崖仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻（仏像）",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0008",
+  "name": "高橋由一筆・小池理右衛門夫妻肖像画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0014",
+  "name": "高橋由一作・岡田清八郎肖像画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1977-10-15",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0007",
+  "name": "青山永耕作・阿吽双龍絵図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0020",
+  "name": "石山太柏筆・「庭井」屏風絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-04-01",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0023",
+  "name": "長瀞小学校の想画集",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1996-12-25",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0006",
+  "name": "長瀞陣屋絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0002",
+  "name": "村山旧藩領絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0012",
+  "name": "坤輿万国全図（古世界地図） 渾素義図屏風（古天体図）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1971-05-25",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0028",
+  "name": "紅花絵巻・農耕絵巻",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2010-03-16",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0030",
+  "name": "観音順礼大絵馬",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2011-04-01",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0001",
+  "name": "わらび手刀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0005",
+  "name": "鉄製つぼ鐙",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0010",
+  "name": "円 鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1969-05-29",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0013",
+  "name": "黒塗頭形冑",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1975-10-13",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0027",
+  "name": "異形注口土器",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2007-04-19",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0031",
+  "name": "猪野沢横台遺跡出土土器",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2015-05-01",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0032",
+  "name": "鹿角製腰飾",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2025-04-01",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0004",
+  "name": "石造鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1966-10-05",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0011",
+  "name": "六面幢",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1971-05-25",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0015",
+  "name": "小田島田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-12-23",
+  "municipality": "東根市"
+ },
+ {
+  "jmh_id": "JMH-062111-0017",
+  "name": "黒伏山神社沢渡獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-12-23",
+  "municipality": "東根市"
+ }
+]

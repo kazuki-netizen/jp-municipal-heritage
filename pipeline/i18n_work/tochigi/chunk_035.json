@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092037-0031",
+  "name": "皆川城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-05-19",
+  "municipality": "栃木市",
+  "location": "栃木市皆川城内町"
+ },
+ {
+  "jmh_id": "JMH-092037-0030",
+  "name": "狩岡古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-05-19",
+  "municipality": "栃木市",
+  "location": "栃木市皆川城内町"
+ },
+ {
+  "jmh_id": "JMH-092037-0029",
+  "name": "朝日塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-05-19",
+  "municipality": "栃木市",
+  "location": "栃木市柏倉町"
+ },
+ {
+  "jmh_id": "JMH-092037-0032",
+  "name": "角道山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-05-19",
+  "municipality": "栃木市",
+  "location": "栃木市岩出町"
+ },
+ {
+  "jmh_id": "JMH-092037-0033",
+  "name": "永倉遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1965-03-20",
+  "municipality": "栃木市",
+  "location": "栃木市大久保町"
+ },
+ {
+  "jmh_id": "JMH-092037-0035",
+  "name": "星野遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "栃木市",
+  "location": "栃木市星野町"
+ },
+ {
+  "jmh_id": "JMH-092037-0036",
+  "name": "下野惣社（室の八嶋）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-16",
+  "municipality": "栃木市",
+  "location": "栃木市惣社町"
+ },
+ {
+  "jmh_id": "JMH-092037-0041",
+  "name": "日枝神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-16",
+  "municipality": "栃木市",
+  "location": "栃木市国府町"
+ },
+ {
+  "jmh_id": "JMH-092037-0042",
+  "name": "権現宮遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-16",
+  "municipality": "栃木市",
+  "location": "栃木市田村町"
+ },
+ {
+  "jmh_id": "JMH-092037-0043",
+  "name": "白山神社遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-16",
+  "municipality": "栃木市",
+  "location": "栃木市田村町"
+ },
+ {
+  "jmh_id": "JMH-092037-0037",
+  "name": "丸山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-16",
+  "municipality": "栃木市",
+  "location": "栃木市田村町"
+ },
+ {
+  "jmh_id": "JMH-092037-0039",
+  "name": "岩家古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-16",
+  "municipality": "栃木市",
+  "location": "栃木市大塚町"
+ },
+ {
+  "jmh_id": "JMH-092037-0059",
+  "name": "栃木城址の一部",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-08-28",
+  "municipality": "栃木市",
+  "location": "栃木市城内町"
+ },
+ {
+  "jmh_id": "JMH-092037-0060",
+  "name": "白山台",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-10-27",
+  "municipality": "栃木市",
+  "location": "栃木市皆川城内町"
+ },
+ {
+  "jmh_id": "JMH-092037-0064",
+  "name": "入定平",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0071",
+  "name": "伊吹山",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-17",
+  "municipality": "栃木市",
+  "location": "栃木市吹上町"
+ },
+ {
+  "jmh_id": "JMH-092037-0111",
+  "name": "荒宿Ｂ古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-04-18",
+  "municipality": "栃木市",
+  "location": "栃木市皆川城内町"
+ },
+ {
+  "jmh_id": "JMH-092037-0119",
+  "name": "しわぶきノ杜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-01-06",
+  "municipality": "栃木市",
+  "location": "栃木市国府町"
+ },
+ {
+  "jmh_id": "JMH-092037-0083",
+  "name": "茶臼山第一号古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-03-01",
+  "municipality": "栃木市",
+  "location": "栃木市大平町富田"
+ },
+ {
+  "jmh_id": "JMH-092037-0082",
+  "name": "白岩第七号古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-03-01",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田"
+ },
+ {
+  "jmh_id": "JMH-092037-0078",
+  "name": "下皆川将門霊神古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-03-01",
+  "municipality": "栃木市",
+  "location": "栃木市大平町下皆川"
+ },
+ {
+  "jmh_id": "JMH-092037-0077",
+  "name": "下皆川マガキ第一号古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-03-01",
+  "municipality": "栃木市",
+  "location": "栃木市大平町下皆川"
+ },
+ {
+  "jmh_id": "JMH-092037-0079",
+  "name": "伯仲第一号古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-03-01",
+  "municipality": "栃木市",
+  "location": "栃木市大平町伯仲"
+ },
+ {
+  "jmh_id": "JMH-092037-0107",
+  "name": "オトカ塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-03-25",
+  "municipality": "栃木市",
+  "location": "栃木市大平町富田"
+ },
+ {
+  "jmh_id": "JMH-092037-0002",
+  "name": "篠山貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町藤岡"
+ },
+ {
+  "jmh_id": "JMH-092037-0001",
+  "name": "山王寺大桝塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町蛭沼"
+ },
+ {
+  "jmh_id": "JMH-092037-0004",
+  "name": "赤麻古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町赤麻"
+ },
+ {
+  "jmh_id": "JMH-092037-0047",
+  "name": "升塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-24",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町升塚"
+ },
+ {
+  "jmh_id": "JMH-092037-0048",
+  "name": "華厳寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-24",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町木"
+ },
+ {
+  "jmh_id": "JMH-092037-0093",
+  "name": "宇都宮領境界標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-03-05",
+  "municipality": "栃木市",
+  "location": "栃木市西方町金崎"
+ },
+ {
+  "jmh_id": "JMH-092037-0118",
+  "name": "画聖田崎草雲の墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1987-12-12",
+  "municipality": "栃木市",
+  "location": "栃木市西方町真名子"
+ },
+ {
+  "jmh_id": "JMH-092037-0052",
+  "name": "慈覚大師誕生の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町下津原"
+ },
+ {
+  "jmh_id": "JMH-092037-0050",
+  "name": "小野寺禅司太郎墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町小野寺"
+ },
+ {
+  "jmh_id": "JMH-092037-0051",
+  "name": "慈覚大師御母公墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町上岡"
+ },
+ {
+  "jmh_id": "JMH-092037-0120",
+  "name": "大慈寺奥の院",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町小野寺"
+ },
+ {
+  "jmh_id": "JMH-092037-0011",
+  "name": "出流鍾乳洞",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市出流町"
+ },
+ {
+  "jmh_id": "JMH-092037-0005",
+  "name": "さしも草",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市吹上町"
+ },
+ {
+  "jmh_id": "JMH-092037-0058",
+  "name": "出流自然林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-08-28",
+  "municipality": "栃木市",
+  "location": "栃木市出流町"
+ },
+ {
+  "jmh_id": "JMH-092037-0062",
+  "name": "しだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0068",
+  "name": "新井町の欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市新井町"
+ }
+]

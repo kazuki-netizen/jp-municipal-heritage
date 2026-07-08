@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-044016-0068",
+  "name": "龍山三開祖伝",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0050",
+  "name": "松島諸勝記",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0048",
+  "name": "慈光不昧禅師号綸旨",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0042",
+  "name": "大悲円満国師号宸翰",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0074",
+  "name": "御船歌集",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1995-09-29",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0082",
+  "name": "松島御仮屋守文書",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1998-12-25",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0075",
+  "name": "文永紀年の供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1995-09-29",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0081",
+  "name": "覚満禅師墓碑「附・防火石」",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1995-09-29",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0014",
+  "name": "圓通院洞窟",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-06-27",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0016",
+  "name": "天麟院洞窟",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-06-27",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0023",
+  "name": "松島明神跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-07-15",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字道珍浜"
+ },
+ {
+  "jmh_id": "JMH-044016-0022",
+  "name": "品井沼潜穴",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-07-15",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町幡谷・根廻"
+ },
+ {
+  "jmh_id": "JMH-044016-0010",
+  "name": "瑞巌寺老杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0012",
+  "name": "陽徳院・高野まき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0007",
+  "name": "天麟院・はりもみ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0008",
+  "name": "富山・杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町手樽字三浦"
+ },
+ {
+  "jmh_id": "JMH-044016-0009",
+  "name": "扇谷・混合雑木林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字桜岡入"
+ },
+ {
+  "jmh_id": "JMH-044016-0006",
+  "name": "いぶきびゃくしん",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0011",
+  "name": "蒜沢阿弥陀堂境内・銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1970-12-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町根廻字蒜沢"
+ },
+ {
+  "jmh_id": "JMH-044016-0076",
+  "name": "松島せっこく",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1995-09-29",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-046060-0012",
+  "name": "大雄寺の山門・鐘楼",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1971-03-26",
+  "municipality": "南三陸町",
+  "location": "志津川字田尻畑"
+ },
+ {
+  "jmh_id": "JMH-046060-0036",
+  "name": "松笠屋敷",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1993-06-29",
+  "municipality": "南三陸町",
+  "location": "入谷字桜沢（ひころの里）"
+ },
+ {
+  "jmh_id": "JMH-046060-0031",
+  "name": "鏃（やじり）のささった海獣の骨",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津字伊里前"
+ },
+ {
+  "jmh_id": "JMH-046060-0026",
+  "name": "三筋壷",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津字伊里前"
+ },
+ {
+  "jmh_id": "JMH-046060-0006",
+  "name": "歌建山津龍院の寺宝",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1968-09-14",
+  "municipality": "南三陸町",
+  "location": "歌津字館浜"
+ },
+ {
+  "jmh_id": "JMH-046060-0023",
+  "name": "払川民俗年中行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 風俗習慣",
+  "designation": "町指定",
+  "designated_date": "1976-11-18",
+  "municipality": "南三陸町",
+  "location": "歌津払川地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0024",
+  "name": "ささよ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 風俗習慣",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津寄木地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0038",
+  "name": "波伝谷の春祈祷",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 風俗習慣",
+  "designation": "町指定",
+  "designated_date": "1998-02-27",
+  "municipality": "南三陸町",
+  "location": "戸倉波伝谷地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0001",
+  "name": "本吉法印神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1968-07-18",
+  "municipality": "南三陸町",
+  "location": "戸倉地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0017",
+  "name": "伊里前獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1973-09-01",
+  "municipality": "南三陸町",
+  "location": "歌津伊里前地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0018",
+  "name": "石浜神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1973-09-01",
+  "municipality": "南三陸町",
+  "location": "歌津石浜地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0019",
+  "name": "泊浜のふるだ舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1974-12-20",
+  "municipality": "南三陸町",
+  "location": "歌津泊浜地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0020",
+  "name": "韮の浜獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1974-12-20",
+  "municipality": "南三陸町",
+  "location": "歌津韮の浜地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0041",
+  "name": "泊浜獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2000-02-25",
+  "municipality": "南三陸町",
+  "location": "歌津泊浜地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0042",
+  "name": "行山流水戸辺鹿子躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財 民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2002-04-30",
+  "municipality": "南三陸町",
+  "location": "戸倉水戸辺地区"
+ },
+ {
+  "jmh_id": "JMH-046060-0016",
+  "name": "水車及び水車小屋",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南三陸町",
+  "location": "歌津字払川"
+ },
+ {
+  "jmh_id": "JMH-046060-0022",
+  "name": "合木船（かっこぶね）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1976-11-18",
+  "municipality": "南三陸町",
+  "location": "歌津字吉野沢"
+ },
+ {
+  "jmh_id": "JMH-046060-0011",
+  "name": "大雄寺の古碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1971-03-26",
+  "municipality": "南三陸町",
+  "location": "志津川字田尻畑（大雄寺墓地内）"
+ },
+ {
+  "jmh_id": "JMH-046060-0015",
+  "name": "道標（みちしるべ）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1971-03-26",
+  "municipality": "南三陸町",
+  "location": "町内各地"
+ },
+ {
+  "jmh_id": "JMH-046060-0039",
+  "name": "郷土文化保存伝習館収蔵資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1998-02-27",
+  "municipality": "南三陸町",
+  "location": "入谷字童子下（郷土文化保存伝習館）"
+ }
+]

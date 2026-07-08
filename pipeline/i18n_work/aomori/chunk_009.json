@@ -1,0 +1,387 @@
+[
+ {
+  "jmh_id": "JMH-022071-0018",
+  "name": "廣澤安任肖像写真ガラス原版",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(美術工芸品)",
+  "designation": "市指定",
+  "designated_date": "2016-03-24",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0016",
+  "name": "勝海舟書「六十九種艸堂」扁額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(美術工芸品)",
+  "designation": "市指定",
+  "designated_date": "2016-03-24",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0020",
+  "name": "松方正義書「牧艸々堂」扁額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(美術工芸品)",
+  "designation": "市指定",
+  "designated_date": "2016-03-24",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0021",
+  "name": "開祖堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "2016-03-24",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0006",
+  "name": "上北地方の紡織用具及び麻布",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-11-10",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0007",
+  "name": "上北地方の食生活用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-07-12",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0002",
+  "name": "根井神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-04-25",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0001",
+  "name": "塩釜神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-04-25",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0003",
+  "name": "浜三沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-04-25",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0005",
+  "name": "織笠神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-25",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0013",
+  "name": "浜三沢豊年踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-06",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0010",
+  "name": "山中神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-06",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0011",
+  "name": "岡三沢鹿子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-06",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022071-0004",
+  "name": "寺屋敷のツキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-05-27",
+  "municipality": "三沢市"
+ },
+ {
+  "jmh_id": "JMH-022080-0005",
+  "name": "山本家文書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市文化財収蔵庫 ◀ ◀"
+ },
+ {
+  "jmh_id": "JMH-022080-0013",
+  "name": "和鏡(梅花双雀鏡)",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1984-07-01",
+  "municipality": "むつ市",
+  "location": "むつ市"
+ },
+ {
+  "jmh_id": "JMH-022080-0014",
+  "name": "和鏡(菊枝散雙鳥鏡)",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1984-07-01",
+  "municipality": "むつ市",
+  "location": "むつ市大字田名部字最花"
+ },
+ {
+  "jmh_id": "JMH-022080-0016",
+  "name": "俳諧額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1990-03-20",
+  "municipality": "むつ市",
+  "location": "むつ市川内町川内324番地"
+ },
+ {
+  "jmh_id": "JMH-022080-0019",
+  "name": "青面金剛塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1990-03-20",
+  "municipality": "むつ市",
+  "location": "むつ市川内町川内324番地"
+ },
+ {
+  "jmh_id": "JMH-022080-0027",
+  "name": "呑香稲荷神社奉納物 俳諧額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2008-01-09",
+  "municipality": "むつ市",
+  "location": "むつ市旭町275番地"
+ },
+ {
+  "jmh_id": "JMH-022080-0028",
+  "name": "原始謾筆風土年表",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2012-03-08",
+  "municipality": "むつ市",
+  "location": "むつ市"
+ },
+ {
+  "jmh_id": "JMH-022080-0006",
+  "name": "海祥山慈眼寺 喚鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市田名部町4番8号"
+ },
+ {
+  "jmh_id": "JMH-022080-0022",
+  "name": "鈴木誠作記念館(旧大湊ホテル)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-10-01",
+  "municipality": "むつ市",
+  "location": "むつ市中央二丁目13番地 る。"
+ },
+ {
+  "jmh_id": "JMH-022080-0021",
+  "name": "旧大湊要港部乙第10号･11号官舎(石造)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-10-01",
+  "municipality": "むつ市",
+  "location": "むつ市桜木町5番64号"
+ },
+ {
+  "jmh_id": "JMH-022080-0001",
+  "name": "一ノ谷屋島合戦図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市田名部4番8号"
+ },
+ {
+  "jmh_id": "JMH-022080-0017",
+  "name": "川内風景図屏風土岐蓑虫(蓑虫山人筆)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-03-20",
+  "municipality": "むつ市",
+  "location": "むつ市川内町川内90番地"
+ },
+ {
+  "jmh_id": "JMH-022080-0011",
+  "name": "第一田名部小学校校庭遺跡出土土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市文化財収蔵庫"
+ },
+ {
+  "jmh_id": "JMH-022080-0003",
+  "name": "女館貝塚出土土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市文化財収蔵庫"
+ },
+ {
+  "jmh_id": "JMH-022080-0004",
+  "name": "女館貝塚石器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市金谷一丁目1番10号"
+ },
+ {
+  "jmh_id": "JMH-022080-0012",
+  "name": "弥生式土器 壷",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1980-02-20",
+  "municipality": "むつ市",
+  "location": "むつ市"
+ },
+ {
+  "jmh_id": "JMH-022080-0015",
+  "name": "香炉峯見送り幕「紅毛唐人憩図」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "designated_date": "1986-11-01",
+  "municipality": "むつ市",
+  "location": "むつ市新町15番3号"
+ },
+ {
+  "jmh_id": "JMH-022080-0010",
+  "name": "田名部海辺三十三番順禮札所標示板",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市新町4番11号"
+ },
+ {
+  "jmh_id": "JMH-022080-0009",
+  "name": "田名部海辺三十三番順禮札所",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市"
+ },
+ {
+  "jmh_id": "JMH-022080-0002",
+  "name": "兵主神社奉納物 絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市大湊上町21番34号"
+ },
+ {
+  "jmh_id": "JMH-022080-0008",
+  "name": "生活用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市金谷一丁目1番10号 江戸時代末期から昭和初期にかけて使用されて"
+ },
+ {
+  "jmh_id": "JMH-022080-0007",
+  "name": "海祥山慈眼寺 棟札",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-02-16",
+  "municipality": "むつ市",
+  "location": "むつ市田名部町4番8号"
+ },
+ {
+  "jmh_id": "JMH-022080-0020",
+  "name": "宿野部水車小屋",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-02-26",
+  "municipality": "むつ市",
+  "location": "むつ市川内町宿野部上野平192番地"
+ },
+ {
+  "jmh_id": "JMH-022080-0023",
+  "name": "木造和漁船",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1997-11-19",
+  "municipality": "むつ市",
+  "location": "むつ市脇野沢九艘泊476番地"
+ },
+ {
+  "jmh_id": "JMH-022080-0026",
+  "name": "近川稲荷神社金刀比羅神社奉納物 絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-15",
+  "municipality": "むつ市",
+  "location": "むつ市大湊浜町1番1号"
+ },
+ {
+  "jmh_id": "JMH-022080-0025",
+  "name": "奥内歌舞伎",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-01-16",
+  "municipality": "むつ市"
+ }
+]

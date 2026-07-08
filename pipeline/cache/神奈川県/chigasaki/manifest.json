@@ -1,0 +1,18 @@
+{
+  "0a52530391763274": {
+    "url": "https://www.city.chigasaki.kanagawa.jp/bunka_rekishi/shiteibunkazai/index.html",
+    "filename": "0a52530391763274.html",
+    "sha256": "df2e5ec6202e0f0270d5c92a9d4d1c172a8679c0a60c27db4cdcfad3d6787230",
+    "fetched_at": "2026-07-08T03:18:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ffbbfb0a6a884779": {
+    "url": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/006/150/bunkazai07.pdf",
+    "filename": "ffbbfb0a6a884779.pdf",
+    "sha256": "95f62dc4aef5dec2dbfbf02e14d484564448f815d4b8fafeb21466c14ca0a497",
+    "fetched_at": "2026-07-08T03:18:44Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

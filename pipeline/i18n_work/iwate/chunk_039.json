@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032077-0115",
+  "name": "大森の大谷地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2013-03-26",
+  "municipality": "遠野市",
+  "location": "宮守町達曽部"
+ },
+ {
+  "jmh_id": "JMH-032077-0122",
+  "name": "上琴畑湿原",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2020-09-23",
+  "municipality": "遠野市",
+  "location": "土淵町栃内"
+ },
+ {
+  "jmh_id": "JMH-032131-0013",
+  "name": "白坂の大鏡",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／歴史",
+  "designation": "市指定",
+  "designated_date": "1974-07-20",
+  "municipality": "八幡平市",
+  "location": "西根寺田第20地割27番地（聖福寺）"
+ },
+ {
+  "jmh_id": "JMH-032131-0010",
+  "name": "七面観世音",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／歴史",
+  "designation": "市指定",
+  "designated_date": "1974-07-20",
+  "municipality": "八幡平市",
+  "location": "西根寺田第20地割27番地（聖福寺）"
+ },
+ {
+  "jmh_id": "JMH-032131-0014",
+  "name": "白坂の棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／歴史",
+  "designation": "市指定",
+  "designated_date": "1974-07-20",
+  "municipality": "八幡平市",
+  "location": "西根寺田第20地割27番地（聖福寺）"
+ },
+ {
+  "jmh_id": "JMH-032131-0034",
+  "name": "木造釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／歴史",
+  "designation": "市指定",
+  "designated_date": "1978-08-31",
+  "municipality": "八幡平市",
+  "location": "西根寺田第20地割27番地（聖福寺）"
+ },
+ {
+  "jmh_id": "JMH-032131-0036",
+  "name": "赤銅板懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／歴史",
+  "designation": "市指定",
+  "designated_date": "1978-08-31",
+  "municipality": "八幡平市",
+  "location": "西根寺田第15地割127番地（西根歴史民俗資料館）"
+ },
+ {
+  "jmh_id": "JMH-032131-0011",
+  "name": "土沢の浄屋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／民俗",
+  "designation": "市指定",
+  "designated_date": "1974-07-20",
+  "municipality": "八幡平市",
+  "location": "西根寺田 土沢地区内"
+ },
+ {
+  "jmh_id": "JMH-032131-0042",
+  "name": "つぼ及び古銭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／考古",
+  "designation": "市指定",
+  "designated_date": "1985-07-22",
+  "municipality": "八幡平市",
+  "location": "西根寺田第22地割64番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0043",
+  "name": "古銭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／考古",
+  "designation": "市指定",
+  "designated_date": "1985-07-22",
+  "municipality": "八幡平市",
+  "location": "西根寺田第22地割63番地2"
+ },
+ {
+  "jmh_id": "JMH-032131-0045",
+  "name": "荒屋八幡神社鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／歴史",
+  "designation": "市指定",
+  "designated_date": "1990-05-25",
+  "municipality": "八幡平市",
+  "location": "荒屋新町152番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0048",
+  "name": "佐比内山の神",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／民俗",
+  "designation": "市指定",
+  "designated_date": "2000-01-04",
+  "municipality": "八幡平市",
+  "location": "佐比内74番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0049",
+  "name": "鉄造菩薩立像懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財／民俗",
+  "designation": "市指定",
+  "designated_date": "2003-01-31",
+  "municipality": "八幡平市",
+  "location": "打田内70番地2"
+ },
+ {
+  "jmh_id": "JMH-032131-0015",
+  "name": "イチョウ（メス）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物／樹木（巨木）",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾寄木第24地割97番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0016",
+  "name": "イチョウ（メス）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物／樹木（巨木）",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾寄木第27地割91番地2"
+ },
+ {
+  "jmh_id": "JMH-032131-0020",
+  "name": "スギ（大・双子）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物／樹木（巨木）",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾寄木第27地割144番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0021",
+  "name": "スギ（小・単）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物／樹木（巨木）",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾寄木第27地割144番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0018",
+  "name": "サワラ（大）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物／樹木（巨木）",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾寄木第27地割144番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0019",
+  "name": "サワラ（小）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物／樹木（巨木）",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾寄木第27地割144番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0017",
+  "name": "サワラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物／樹木（巨木）",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾第14地割159番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0012",
+  "name": "山崎一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1974-07-20",
+  "municipality": "八幡平市",
+  "location": "平舘第9地割内"
+ },
+ {
+  "jmh_id": "JMH-032131-0037",
+  "name": "留之沢一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1980-01-31",
+  "municipality": "八幡平市",
+  "location": "七時雨国有林内"
+ },
+ {
+  "jmh_id": "JMH-032131-0005",
+  "name": "七時雨一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-19",
+  "municipality": "八幡平市",
+  "location": "高畑96番地82"
+ },
+ {
+  "jmh_id": "JMH-032131-0009",
+  "name": "荒屋一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-19",
+  "municipality": "八幡平市",
+  "location": "清水154番地2"
+ },
+ {
+  "jmh_id": "JMH-032131-0006",
+  "name": "曲田一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-19",
+  "municipality": "八幡平市",
+  "location": "曲田427番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0007",
+  "name": "苗代沢一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-19",
+  "municipality": "八幡平市",
+  "location": "姥子石259番地3"
+ },
+ {
+  "jmh_id": "JMH-032131-0032",
+  "name": "一字一石供養塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1978-08-31",
+  "municipality": "八幡平市",
+  "location": "西根寺田第26地割内"
+ },
+ {
+  "jmh_id": "JMH-032131-0035",
+  "name": "白坂薬師堂跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1978-08-31",
+  "municipality": "八幡平市",
+  "location": "西根寺田第1地割19番地3"
+ },
+ {
+  "jmh_id": "JMH-032131-0033",
+  "name": "塞の神群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1978-08-31",
+  "municipality": "八幡平市",
+  "location": "西根寺田第26地割内"
+ },
+ {
+  "jmh_id": "JMH-032131-0008",
+  "name": "苗代沢窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-19",
+  "municipality": "八幡平市",
+  "location": "苗代沢59番地3"
+ },
+ {
+  "jmh_id": "JMH-032131-0002",
+  "name": "殿坂の石碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡／民俗",
+  "designation": "市指定",
+  "designated_date": "1971-04-21",
+  "municipality": "八幡平市",
+  "location": "沢口70番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0001",
+  "name": "不動の滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝／名勝",
+  "designation": "市指定",
+  "designated_date": "1971-04-21",
+  "municipality": "八幡平市",
+  "location": "高畑89番地3"
+ },
+ {
+  "jmh_id": "JMH-032131-0004",
+  "name": "平笠田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1971-07-20",
+  "municipality": "八幡平市",
+  "location": "平笠第11地割81番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0003",
+  "name": "土沢浄屋の行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1971-07-20",
+  "municipality": "八幡平市",
+  "location": "帷子第4地割22番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0038",
+  "name": "大石平念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-25",
+  "municipality": "八幡平市",
+  "location": "大更第44地割41番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0039",
+  "name": "平笠裸参り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-25",
+  "municipality": "八幡平市",
+  "location": "平笠第11地割38番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0041",
+  "name": "野口鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-25",
+  "municipality": "八幡平市",
+  "location": "西根寺田第8地割60番地11"
+ },
+ {
+  "jmh_id": "JMH-032131-0040",
+  "name": "田頭田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-25",
+  "municipality": "八幡平市",
+  "location": "田頭第33地割46番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0044",
+  "name": "田頭竹の子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-07-22",
+  "municipality": "八幡平市",
+  "location": "田頭第23地割44番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0047",
+  "name": "岩手山神社山伏神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-06-29",
+  "municipality": "八幡平市",
+  "location": "平舘第24地割47番地"
+ }
+]

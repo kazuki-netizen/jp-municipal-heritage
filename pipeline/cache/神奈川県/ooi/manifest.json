@@ -1,0 +1,18 @@
+{
+  "5f7ae75593a1e4a1": {
+    "url": "https://www.town.oi.kanagawa.jp/site/kanko/ooi-bunkazai.html",
+    "filename": "5f7ae75593a1e4a1.html",
+    "sha256": "9bd981a4ea093a68b034d7dce3bda3b4b99d0e51de0018c594bec02fa5d0720b",
+    "fetched_at": "2026-07-08T03:18:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1a942bb1b5d211e6": {
+    "url": "https://www.town.oi.kanagawa.jp/soshiki/16/bunkazai-hogo.html",
+    "filename": "1a942bb1b5d211e6.html",
+    "sha256": "e5994dfb8b9541802b6ff22157e757e9f26c60f5c44654eab799954489e2abd8",
+    "fetched_at": "2026-07-08T03:18:38Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

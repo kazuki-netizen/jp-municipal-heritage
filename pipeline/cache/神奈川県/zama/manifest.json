@@ -1,0 +1,50 @@
+{
+  "922b307def250bba": {
+    "url": "https://www.city.zama.kanagawa.jp/bunkasports/bunkazai/juyou/index.html",
+    "filename": "922b307def250bba.html",
+    "sha256": "0b4cfb4185c811b6af7d9b19eff3e19e83b2e1ebda506a7cc7e03dd606de593c",
+    "fetched_at": "2026-07-08T03:18:57Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e04c64f7c7d717f6": {
+    "url": "https://www.city.zama.kanagawa.jp/bunkasports/bunkazai/juyou/1003310.html",
+    "filename": "e04c64f7c7d717f6.html",
+    "sha256": "d769a43c20cd5dfc98a5db0a02e9f7c503e0e8b1a01a09fcce38ff053fcb7837",
+    "fetched_at": "2026-07-08T03:18:59Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2ffc3327243d8d2a": {
+    "url": "https://www.city.zama.kanagawa.jp/bunkasports/bunkazai/juyou/1003311.html",
+    "filename": "2ffc3327243d8d2a.html",
+    "sha256": "5a3ac4e17029919a29b5c4ae0a12b441912a9838634c864f840807b192259ecd",
+    "fetched_at": "2026-07-08T03:19:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0f265d152c2f9fcd": {
+    "url": "https://www.city.zama.kanagawa.jp/bunkasports/bunkazai/juyou/1003312.html",
+    "filename": "0f265d152c2f9fcd.html",
+    "sha256": "42ac4429d586c4e23eec29f21411a7cea0e0684bba900ffb263a1945e94f52d0",
+    "fetched_at": "2026-07-08T03:19:03Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1ce116d08007de75": {
+    "url": "https://www.city.zama.kanagawa.jp/bunkasports/bunkazai/juyou/1003313.html",
+    "filename": "1ce116d08007de75.html",
+    "sha256": "8bef1596c74c2d561cb4629bf0aef71d4f03ddea01d003cddd90bf0f70d4c207",
+    "fetched_at": "2026-07-08T03:19:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "61f5d3db85797343": {
+    "url": "https://www.city.zama.kanagawa.jp/bunkasports/bunkazai/juyou/1006898.html",
+    "filename": "61f5d3db85797343.html",
+    "sha256": "d8c714a77566d1d67af63ea277e74180ecda4dc3333be3e99699f0ce3dfd5e6d",
+    "fetched_at": "2026-07-08T03:19:07Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

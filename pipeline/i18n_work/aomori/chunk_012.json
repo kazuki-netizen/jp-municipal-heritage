@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-023051-0016",
+  "name": "東風留舘跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2002-05-10",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田塩越"
+ },
+ {
+  "jmh_id": "JMH-023051-0003",
+  "name": "観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1989-03-31",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町平舘門の沢"
+ },
+ {
+  "jmh_id": "JMH-023051-0013",
+  "name": "推定樹齢600年の黒松「長寿の松」",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2001-08-02",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町平舘田の沢"
+ },
+ {
+  "jmh_id": "JMH-023051-0012",
+  "name": "夫婦松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2001-08-02",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町平舘田の沢"
+ },
+ {
+  "jmh_id": "JMH-023051-0002",
+  "name": "藤嶋の藤",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1985-02-01",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町宇鉄藤嶋"
+ },
+ {
+  "jmh_id": "JMH-023051-0001",
+  "name": "荒馬",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1985-02-01",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町三厩増川"
+ },
+ {
+  "jmh_id": "JMH-023051-0017",
+  "name": "太刀振",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2008-03-19",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町三厩下平5-1（外ヶ浜町立三厩中学校）"
+ },
+ {
+  "jmh_id": "JMH-023051-0018",
+  "name": "平舘陣屋跡（お仮屋）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2018-03-31",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町平舘門の沢"
+ },
+ {
+  "jmh_id": "JMH-024538-0024",
+  "name": "閻魔大王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市 釜淵観音堂蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0003",
+  "name": "十王像一号～六号",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市 釜淵観音堂蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0021",
+  "name": "観音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市 釜淵観音堂蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0011",
+  "name": "正観音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市"
+ },
+ {
+  "jmh_id": "JMH-024538-0004",
+  "name": "千体仏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市"
+ },
+ {
+  "jmh_id": "JMH-024538-0008",
+  "name": "恵比須像・大黒像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市"
+ },
+ {
+  "jmh_id": "JMH-024538-0020",
+  "name": "薬師如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字衣更 衣更薬師堂蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0025",
+  "name": "阿弥陀如来像・観世音菩薩像・勢至菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字上野 上野阿弥陀堂蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0002",
+  "name": "十一面観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字下田子 真清田神社蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0019",
+  "name": "薬師像・毘沙門像・弥陀像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字下田子 真清田神社蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0026",
+  "name": "仁王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1985-03-28",
+  "municipality": "田子町",
+  "location": "田子町大字関字関"
+ },
+ {
+  "jmh_id": "JMH-024538-0028",
+  "name": "恵比須・大黒像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1985-03-28",
+  "municipality": "田子町",
+  "location": "田子町大字田子字清水頭"
+ },
+ {
+  "jmh_id": "JMH-024538-0027",
+  "name": "山の神像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1985-03-28",
+  "municipality": "田子町",
+  "location": "田子町大字田子字池振上平"
+ },
+ {
+  "jmh_id": "JMH-024538-0015",
+  "name": "真清田神社棟札一号～七号",
+  "category": "その他",
+  "subcategory": "史料",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字下田子 真清田神社蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0022",
+  "name": "釜淵観音堂棟札一号～四号",
+  "category": "その他",
+  "subcategory": "史料",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市 釜淵観音堂蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0005",
+  "name": "千体仏完成記念碑",
+  "category": "その他",
+  "subcategory": "史料",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字七日市 釜淵観音堂蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0016",
+  "name": "真田泰幸遊歴日記第十号",
+  "category": "その他",
+  "subcategory": "史料",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字関字関"
+ },
+ {
+  "jmh_id": "JMH-024538-0010",
+  "name": "梅内文書",
+  "category": "その他",
+  "subcategory": "史料",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字土橋道ノ上"
+ },
+ {
+  "jmh_id": "JMH-024538-0001",
+  "name": "佐藤家文書",
+  "category": "その他",
+  "subcategory": "史料",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字天神堂向"
+ },
+ {
+  "jmh_id": "JMH-024538-0032",
+  "name": "北地吟哦十首献額",
+  "category": "その他",
+  "subcategory": "史料",
+  "designation": "町指定",
+  "designated_date": "1985-07-04",
+  "municipality": "田子町",
+  "location": "田子町大字原字原 諏訪神社蔵"
+ },
+ {
+  "jmh_id": "JMH-024538-0012",
+  "name": "田子前館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字風張"
+ },
+ {
+  "jmh_id": "JMH-024538-0013",
+  "name": "田子館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字相米字相米向"
+ },
+ {
+  "jmh_id": "JMH-024538-0009",
+  "name": "日ノ沢館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字田子字野月及び日ノ沢"
+ },
+ {
+  "jmh_id": "JMH-024538-0018",
+  "name": "茂市館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字茂市字桜館"
+ },
+ {
+  "jmh_id": "JMH-024538-0006",
+  "name": "原館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字原字諏訪ノ平"
+ },
+ {
+  "jmh_id": "JMH-024538-0014",
+  "name": "相米館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字相米字太田平"
+ },
+ {
+  "jmh_id": "JMH-024538-0017",
+  "name": "石亀館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字石亀字道地及び舘"
+ },
+ {
+  "jmh_id": "JMH-024538-0007",
+  "name": "夏坂御番所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字夏坂字夏坂"
+ },
+ {
+  "jmh_id": "JMH-024538-0023",
+  "name": "関御番所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-06",
+  "municipality": "田子町",
+  "location": "田子町大字関字関"
+ },
+ {
+  "jmh_id": "JMH-024538-0031",
+  "name": "九戸亀千代斬殺の場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1985-07-04",
+  "municipality": "田子町",
+  "location": "田子町大字石亀字道地"
+ },
+ {
+  "jmh_id": "JMH-024538-0029",
+  "name": "洞円寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1985-03-28",
+  "municipality": "田子町",
+  "location": "田子町大字関字関"
+ },
+ {
+  "jmh_id": "JMH-024538-0030",
+  "name": "三十六歌仙彩色画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1985-07-04",
+  "municipality": "田子町",
+  "location": "田子町大字原字原 諏訪神社蔵"
+ }
+]

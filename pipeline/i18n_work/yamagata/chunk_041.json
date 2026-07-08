@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-063010-0015",
+  "name": "安達峰一郎生家",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・建造物",
+  "designation": "町指定",
+  "designated_date": "2004-02-06",
+  "municipality": "山辺町",
+  "location": "山辺"
+ },
+ {
+  "jmh_id": "JMH-063010-0014",
+  "name": "大塚天神古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "2004-02-06",
+  "municipality": "山辺町",
+  "location": "大塚"
+ },
+ {
+  "jmh_id": "JMH-063010-0018",
+  "name": "要害古墳群第一号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "2004-02-06",
+  "municipality": "山辺町",
+  "location": "要害"
+ },
+ {
+  "jmh_id": "JMH-063010-0017",
+  "name": "湯舟の大モミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-02-06",
+  "municipality": "山辺町",
+  "location": "北山"
+ },
+ {
+  "jmh_id": "JMH-063010-0016",
+  "name": "愛宕山の大スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-02-06",
+  "municipality": "山辺町",
+  "location": "山辺"
+ },
+ {
+  "jmh_id": "JMH-063010-0019",
+  "name": "青苧地四身松原帆掛手描",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-06-27",
+  "municipality": "山辺町",
+  "location": "山辺"
+ },
+ {
+  "jmh_id": "JMH-063010-0020",
+  "name": "青苧地松竹梅折鶴文様",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-06-27",
+  "municipality": "山辺町",
+  "location": "山辺"
+ },
+ {
+  "jmh_id": "JMH-063010-0021",
+  "name": "山野辺分見図両高楯深掘町浦々小路明細絵図面",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "2020-07-21",
+  "municipality": "山辺町",
+  "location": "山辺"
+ },
+ {
+  "jmh_id": "JMH-062022-0020",
+  "name": "木造十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1988-01-26",
+  "municipality": "米沢市",
+  "location": "西明寺"
+ },
+ {
+  "jmh_id": "JMH-062022-0063",
+  "name": "銅造阿弥陀三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2025-04-16",
+  "municipality": "米沢市",
+  "location": "龍泉寺"
+ },
+ {
+  "jmh_id": "JMH-062022-0069",
+  "name": "木造男神坐像（老相）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "米沢市",
+  "location": "成島八幡宮"
+ },
+ {
+  "jmh_id": "JMH-062022-0068",
+  "name": "木造男神坐像（壮年相）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "米沢市",
+  "location": "成島八幡宮"
+ },
+ {
+  "jmh_id": "JMH-062022-0065",
+  "name": "木造女神坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "米沢市",
+  "location": "成島八幡宮"
+ },
+ {
+  "jmh_id": "JMH-062022-0067",
+  "name": "木造男神坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "米沢市",
+  "location": "成島八幡宮"
+ },
+ {
+  "jmh_id": "JMH-062022-0066",
+  "name": "木造獅子狛犬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "米沢市",
+  "location": "成島八幡宮"
+ },
+ {
+  "jmh_id": "JMH-062022-0001",
+  "name": "火縄式鉄砲",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1980-12-16",
+  "municipality": "米沢市",
+  "location": "宮坂考古館"
+ },
+ {
+  "jmh_id": "JMH-062022-0005",
+  "name": "五彩虎文大皿「古九谷」",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-12-17",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0021",
+  "name": "繁馬図「絵馬」",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1988-07-25",
+  "municipality": "米沢市",
+  "location": "小菅一宮神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0024",
+  "name": "舞楽面（蘭陵王面・菩薩面）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1990-03-28",
+  "municipality": "米沢市",
+  "location": "成島八幡宮"
+ },
+ {
+  "jmh_id": "JMH-062022-0026",
+  "name": "刀 銘 於江府長運斎綱俊作之",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0029",
+  "name": "脇差 銘 於江府長運斎綱俊",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0057",
+  "name": "三鈷柄剣 附金銅装黒漆鞘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2020-03-31",
+  "municipality": "米沢市",
+  "location": "宮坂考古館"
+ },
+ {
+  "jmh_id": "JMH-062022-0058",
+  "name": "刀 無銘 伝備前守家",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2020-03-31",
+  "municipality": "米沢市",
+  "location": "宮坂考古館"
+ },
+ {
+  "jmh_id": "JMH-062022-0061",
+  "name": "太刀 銘 国綱 附黒革包太刀拵",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2023-03-29",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0062",
+  "name": "毛氈鞍覆",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2025-04-16",
+  "municipality": "米沢市",
+  "location": "上杉神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0003",
+  "name": "鷹山公倹約誓詞",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1980-12-16",
+  "municipality": "米沢市",
+  "location": "白子神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0015",
+  "name": "米沢善本",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1985-11-28",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0059",
+  "name": "大般若経 附経櫃3合",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "2020-03-31",
+  "municipality": "米沢市",
+  "location": "上杉神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0009",
+  "name": "竹井境A遺跡出土土偶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-12-17",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0008",
+  "name": "牛森古墳出土銙帯金具",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-12-17",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0006",
+  "name": "牛森古墳出土刀子",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-12-17",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0007",
+  "name": "牛森古墳出土鉄鏃",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-12-17",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0010",
+  "name": "八幡堂遺跡出土火鑽臼",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1983-02-21",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0011",
+  "name": "八幡堂遺跡出土紡錘車・紡錘杵",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1983-02-21",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0013",
+  "name": "笹原遺跡出土木簡",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1983-02-21",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0012",
+  "name": "笹原遺跡出土円面硯",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1983-02-21",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0028",
+  "name": "大浦B遺跡出土漆紙文書",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0027",
+  "name": "塔之原遺跡出土石製品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0040",
+  "name": "古志田東遺跡出土木製品類",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2007-03-16",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0039",
+  "name": "一ノ坂遺跡出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2007-03-16",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ }
+]

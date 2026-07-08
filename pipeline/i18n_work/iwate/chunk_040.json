@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032131-0022",
+  "name": "山伏神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾第21地割30番地7"
+ },
+ {
+  "jmh_id": "JMH-032131-0024",
+  "name": "田植え踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "野駄第16地割64番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0023",
+  "name": "念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-10-11",
+  "municipality": "八幡平市",
+  "location": "松尾寄木第27地割103番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0030",
+  "name": "浅沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-04-06",
+  "municipality": "八幡平市",
+  "location": "山岸59番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0027",
+  "name": "小屋の畑田植え踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-04-06",
+  "municipality": "八幡平市",
+  "location": "保戸坂30番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0026",
+  "name": "南部手踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-04-06",
+  "municipality": "八幡平市",
+  "location": "保戸坂30番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0029",
+  "name": "曲田先祓い",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-04-06",
+  "municipality": "八幡平市",
+  "location": "上の山314番地"
+ },
+ {
+  "jmh_id": "JMH-032131-0031",
+  "name": "田山先祓い",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-04-06",
+  "municipality": "八幡平市",
+  "location": "下モ川原1番地6"
+ },
+ {
+  "jmh_id": "JMH-032131-0028",
+  "name": "折壁・日泥先祓い",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-04-06",
+  "municipality": "八幡平市",
+  "location": "折壁19番地1"
+ },
+ {
+  "jmh_id": "JMH-032131-0025",
+  "name": "兄川先祓い",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-04-06",
+  "municipality": "八幡平市",
+  "location": "兄川124番地52"
+ },
+ {
+  "jmh_id": "JMH-032131-0046",
+  "name": "横間虫追い祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-11-12",
+  "municipality": "八幡平市",
+  "location": "打田内172番地"
+ },
+ {
+  "jmh_id": "JMH-032093-0015",
+  "name": "常膳寺観音堂",
+  "category": "有形文化財",
+  "subcategory": "有形・建造物",
+  "designation": "市指定",
+  "designated_date": "1993-06-01",
+  "municipality": "陸前高田市",
+  "location": "小友町字上の坊（常膳寺）"
+ },
+ {
+  "jmh_id": "JMH-032093-0004",
+  "name": "光照寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "有形・工芸技術",
+  "designation": "市指定",
+  "designated_date": "1973-03-10",
+  "municipality": "陸前高田市",
+  "location": "高田町字寒風（光照寺）"
+ },
+ {
+  "jmh_id": "JMH-032093-0017",
+  "name": "算額",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "1993-06-01",
+  "municipality": "陸前高田市",
+  "location": "陸前高田市立博物館"
+ },
+ {
+  "jmh_id": "JMH-032093-0021",
+  "name": "閑董院宥健尊師堂",
+  "category": "有形文化財",
+  "subcategory": "有形・建造物",
+  "designation": "市指定",
+  "designated_date": "1994-02-10",
+  "municipality": "陸前高田市",
+  "location": "矢作町字馬越"
+ },
+ {
+  "jmh_id": "JMH-032093-0014",
+  "name": "金銅装双塔文笈",
+  "category": "有形文化財",
+  "subcategory": "有形・工芸技術",
+  "designation": "市指定",
+  "designated_date": "1987-12-01",
+  "municipality": "陸前高田市",
+  "location": "陸前高田市立博物館"
+ },
+ {
+  "jmh_id": "JMH-032093-0019",
+  "name": "青銅製さしなべ",
+  "category": "有形文化財",
+  "subcategory": "有形・考古資料",
+  "designation": "市指定",
+  "designated_date": "1993-06-01",
+  "municipality": "陸前高田市",
+  "location": "陸前高田市立博物館"
+ },
+ {
+  "jmh_id": "JMH-032093-0016",
+  "name": "毛抜形蕨手刀",
+  "category": "有形文化財",
+  "subcategory": "有形・考古資料",
+  "designation": "市指定",
+  "designated_date": "1993-06-01",
+  "municipality": "陸前高田市",
+  "location": "陸前高田市立博物館"
+ },
+ {
+  "jmh_id": "JMH-032093-0025",
+  "name": "米谷欣司氏寄贈考古資料",
+  "category": "有形文化財",
+  "subcategory": "有形・考古資料",
+  "designation": "市指定",
+  "designated_date": "2004-08-24",
+  "municipality": "陸前高田市",
+  "location": "陸前高田市立博物館"
+ },
+ {
+  "jmh_id": "JMH-032093-0030",
+  "name": "上長部観音堂の板碑群",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "気仙町字上長部（上長部観音堂）"
+ },
+ {
+  "jmh_id": "JMH-032093-0046",
+  "name": "要谷の板碑群",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "気仙町字要谷"
+ },
+ {
+  "jmh_id": "JMH-032093-0040",
+  "name": "戸隠神社の永徳四年板碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "小友町字両替（戸隠神社）"
+ },
+ {
+  "jmh_id": "JMH-032093-0031",
+  "name": "下壺の勢至菩薩種子板碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "竹駒町字下壺"
+ },
+ {
+  "jmh_id": "JMH-032093-0048",
+  "name": "鶴樹神社の海嘯溺死霊供養塔",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字根岬（鶴樹神社）"
+ },
+ {
+  "jmh_id": "JMH-032093-0041",
+  "name": "明下の招魂供養塔",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字明下"
+ },
+ {
+  "jmh_id": "JMH-032093-0035",
+  "name": "大陽の津波溺死紀念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字大陽里"
+ },
+ {
+  "jmh_id": "JMH-032093-0039",
+  "name": "慈恩寺の海嘯招霊碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字泊（慈恩寺）"
+ },
+ {
+  "jmh_id": "JMH-032093-0034",
+  "name": "前花貝の津波関連石碑群",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字前花貝"
+ },
+ {
+  "jmh_id": "JMH-032093-0045",
+  "name": "華蔵寺の津波関連石碑群",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "小友町字門前（華蔵寺）"
+ },
+ {
+  "jmh_id": "JMH-032093-0044",
+  "name": "湊の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "気仙町字湊"
+ },
+ {
+  "jmh_id": "JMH-032093-0037",
+  "name": "広田小学校の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字大久保（広田小学校）"
+ },
+ {
+  "jmh_id": "JMH-032093-0047",
+  "name": "長洞の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字長洞"
+ },
+ {
+  "jmh_id": "JMH-032093-0038",
+  "name": "後花貝の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字後花貝"
+ },
+ {
+  "jmh_id": "JMH-032093-0043",
+  "name": "泊の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字泊"
+ },
+ {
+  "jmh_id": "JMH-032093-0032",
+  "name": "中沢の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字中沢"
+ },
+ {
+  "jmh_id": "JMH-032093-0042",
+  "name": "根岬の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字根岬"
+ },
+ {
+  "jmh_id": "JMH-032093-0033",
+  "name": "六ヶ浦の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字六ヶ浦"
+ },
+ {
+  "jmh_id": "JMH-032093-0036",
+  "name": "大陽の津波記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形・歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-04-01",
+  "municipality": "陸前高田市",
+  "location": "広田町字大陽"
+ },
+ {
+  "jmh_id": "JMH-032093-0003",
+  "name": "小田家のおしらがみ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗・偶像類",
+  "designation": "市指定",
+  "designated_date": "1973-03-01",
+  "municipality": "陸前高田市",
+  "location": "矢作町字出口"
+ },
+ {
+  "jmh_id": "JMH-032093-0007",
+  "name": "槻沢剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "陸前高田市",
+  "location": "横田町字槻沢"
+ }
+]

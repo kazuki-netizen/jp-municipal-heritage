@@ -1,0 +1,375 @@
+[
+ {
+  "jmh_id": "JMH-064025-0004",
+  "name": "浅立諏訪神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1970-06-03",
+  "municipality": "白鷹町",
+  "location": "浅立"
+ },
+ {
+  "jmh_id": "JMH-064025-0006",
+  "name": "高玉芝居",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1970-06-03",
+  "municipality": "白鷹町",
+  "location": "高玉"
+ },
+ {
+  "jmh_id": "JMH-064025-0011",
+  "name": "小四王原遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1974-05-30",
+  "municipality": "白鷹町",
+  "location": "高岡字内圸243-2 津島台浄水場敷地"
+ },
+ {
+  "jmh_id": "JMH-064025-0012",
+  "name": "伝光明海上人墳墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1980-09-17",
+  "municipality": "白鷹町",
+  "location": "黒鴨"
+ },
+ {
+  "jmh_id": "JMH-064025-0013",
+  "name": "観音寺観音堂境域",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1981-09-01",
+  "municipality": "白鷹町",
+  "location": "深山"
+ },
+ {
+  "jmh_id": "JMH-064025-0016",
+  "name": "鮎貝城本丸跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1984-01-11",
+  "municipality": "白鷹町",
+  "location": "鮎貝"
+ },
+ {
+  "jmh_id": "JMH-064025-0021",
+  "name": "笠松山遺跡（経塚）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1986-01-16",
+  "municipality": "白鷹町",
+  "location": "十王"
+ },
+ {
+  "jmh_id": "JMH-064025-0023",
+  "name": "荒砥城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1989-04-05",
+  "municipality": "白鷹町",
+  "location": "荒砥甲"
+ },
+ {
+  "jmh_id": "JMH-064025-0025",
+  "name": "称名寺裏遺跡（経塚）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1993-03-29",
+  "municipality": "白鷹町",
+  "location": "十王"
+ },
+ {
+  "jmh_id": "JMH-064025-0008",
+  "name": "羽黒神社境内木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・天然記念物",
+  "designation": "町指定",
+  "designated_date": "1971-10-02",
+  "municipality": "白鷹町",
+  "location": "山口"
+ },
+ {
+  "jmh_id": "JMH-064025-0009",
+  "name": "羽黒神社大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・天然記念物",
+  "designation": "町指定",
+  "designated_date": "1971-10-02",
+  "municipality": "白鷹町",
+  "location": "山口"
+ },
+ {
+  "jmh_id": "JMH-064025-0010",
+  "name": "諏訪神社スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・天然記念物",
+  "designation": "町指定",
+  "designated_date": "1971-10-19",
+  "municipality": "白鷹町",
+  "location": "浅立"
+ },
+ {
+  "jmh_id": "JMH-064025-0014",
+  "name": "粥餅田湿原",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・天然記念物",
+  "designation": "町指定",
+  "designated_date": "1982-07-20",
+  "municipality": "白鷹町",
+  "location": "栃窪"
+ },
+ {
+  "jmh_id": "JMH-064629-0001",
+  "name": "皇大神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・建造物",
+  "designation": "町指定",
+  "designated_date": "1968-12-10",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0021",
+  "name": "安保氏供養塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・建造物",
+  "designation": "町指定",
+  "designated_date": "1982-03-30",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0061",
+  "name": "余目八幡神社宮殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・建造物",
+  "designation": "町指定",
+  "designated_date": "1992-03-26",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0062",
+  "name": "余目八幡神社拝殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・建造物",
+  "designation": "町指定",
+  "designated_date": "1992-03-26",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0004",
+  "name": "紙本墨画 市原円澤筆 十二天像屏風",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1968-12-10",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0011",
+  "name": "絹本着色 雪景の図屏風",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1973-02-07",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0046",
+  "name": "紙本着色 仏涅槃図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1987-02-06",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0052",
+  "name": "北館大学利長公像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1989-03-23",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0063",
+  "name": "八幡の森",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1992-03-26",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0077",
+  "name": "紙本彩色 松鶴図屏風",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1994-08-01",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0083",
+  "name": "絹本著色 釈迦如来図 兆殿司筆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1995-03-31",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0082",
+  "name": "紙本墨画 疎山寿塔図(他二幅)海北友松筆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1995-03-31",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0099",
+  "name": "仏涅槃図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "2005-02-18",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0007",
+  "name": "銅造 阿弥陀三尊懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1968-12-10",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0012",
+  "name": "銅造 阿弥陀如来立像及両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-02-07",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0009",
+  "name": "木造 十一面千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-02-07",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0008",
+  "name": "円空作 観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-02-07",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0015",
+  "name": "木造 阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1977-06-07",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0014",
+  "name": "木造 金剛力士立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1977-06-07",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0017",
+  "name": "銅造 大日如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1977-06-07",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0018",
+  "name": "銅造 玄翁和尚像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1982-02-04",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0032",
+  "name": "木造 聖観音坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-08-30",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0054",
+  "name": "木彫 梅川模様欄間",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1989-03-23",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0068",
+  "name": "木造 虚空蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1994-04-18",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0058",
+  "name": "石造 胎蔵界大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1990-03-31",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0105",
+  "name": "板彫仁王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2013-07-23",
+  "municipality": "庄内町"
+ },
+ {
+  "jmh_id": "JMH-064629-0006",
+  "name": "銅製 鑒子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・工芸品",
+  "designation": "町指定",
+  "designated_date": "1968-12-10",
+  "municipality": "庄内町"
+ }
+]

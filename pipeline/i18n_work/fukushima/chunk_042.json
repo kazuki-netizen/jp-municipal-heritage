@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072052-0039",
+  "name": "高野槙",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-14",
+  "municipality": "白河市",
+  "location": "表郷中野字柳橋向"
+ },
+ {
+  "jmh_id": "JMH-072052-0030",
+  "name": "山藤",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-14",
+  "municipality": "白河市",
+  "location": "表郷番沢字原"
+ },
+ {
+  "jmh_id": "JMH-072052-0026",
+  "name": "五葉松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-14",
+  "municipality": "白河市",
+  "location": "表郷社田字玉岡"
+ },
+ {
+  "jmh_id": "JMH-072052-0025",
+  "name": "カナヤマザサ叢生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-14",
+  "municipality": "白河市",
+  "location": "表郷金山字小手山ほか"
+ },
+ {
+  "jmh_id": "JMH-072052-0038",
+  "name": "菩提樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-14",
+  "municipality": "白河市",
+  "location": "表郷金山字犬神"
+ },
+ {
+  "jmh_id": "JMH-072052-0034",
+  "name": "栃",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-14",
+  "municipality": "白河市",
+  "location": "表郷金山字竹ノ内"
+ },
+ {
+  "jmh_id": "JMH-072052-0035",
+  "name": "槻（月夜見の桜）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-14",
+  "municipality": "白河市",
+  "location": "表郷三森字月桜"
+ },
+ {
+  "jmh_id": "JMH-072052-0052",
+  "name": "満徳寺のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-04-01",
+  "municipality": "白河市",
+  "location": "東上野出島字反町"
+ },
+ {
+  "jmh_id": "JMH-072052-0049",
+  "name": "たらようの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-04-01",
+  "municipality": "白河市",
+  "location": "東深仁井田字千代ノ岡"
+ },
+ {
+  "jmh_id": "JMH-072052-0080",
+  "name": "石原のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-04-01",
+  "municipality": "白河市",
+  "location": "東下野出島字油田"
+ },
+ {
+  "jmh_id": "JMH-072052-0006",
+  "name": "共楽亭",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （建造物）",
+  "designation": "市指定",
+  "designated_date": "1962-02-09",
+  "municipality": "白河市",
+  "location": "南湖"
+ },
+ {
+  "jmh_id": "JMH-072052-0009",
+  "name": "丹羽長重廟",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （建造物）",
+  "designation": "市指定",
+  "designated_date": "1964-03-06",
+  "municipality": "白河市",
+  "location": "円明寺"
+ },
+ {
+  "jmh_id": "JMH-072052-0011",
+  "name": "旧小峰城太鼓櫓",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （建造物）",
+  "designation": "市指定",
+  "designated_date": "1964-03-06",
+  "municipality": "白河市",
+  "location": "郭内"
+ },
+ {
+  "jmh_id": "JMH-072052-0043",
+  "name": "鈴木家住居",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （建造物）",
+  "designation": "市指定",
+  "designated_date": "1981-02-16",
+  "municipality": "白河市",
+  "location": "表郷番沢字桜下"
+ },
+ {
+  "jmh_id": "JMH-072052-0051",
+  "name": "日吉神社",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （建造物）",
+  "designation": "市指定",
+  "designated_date": "1985-04-01",
+  "municipality": "白河市",
+  "location": "東蕪内字南屋敷"
+ },
+ {
+  "jmh_id": "JMH-072052-0105",
+  "name": "旧最勝寺観音堂 （附）棟札、石造露盤、巡礼札及び六十六部廻国聖納札",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （建造物）",
+  "designation": "市指定",
+  "designated_date": "2017-03-24",
+  "municipality": "白河市",
+  "location": "大鹿島"
+ },
+ {
+  "jmh_id": "JMH-072052-0119",
+  "name": "常宣寺本堂および山門",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （建造物）",
+  "designation": "市指定",
+  "designated_date": "2025-06-30",
+  "municipality": "白河市",
+  "location": "向新蔵"
+ },
+ {
+  "jmh_id": "JMH-072052-0008",
+  "name": "十六善神の図（龍蔵寺）",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "1963-03-09",
+  "municipality": "白河市",
+  "location": "年貢町"
+ },
+ {
+  "jmh_id": "JMH-072052-0016",
+  "name": "（伝）亜欧堂田善作 ビードロ絵",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "1964-03-06",
+  "municipality": "白河市",
+  "location": "愛宕町"
+ },
+ {
+  "jmh_id": "JMH-072052-0017",
+  "name": "十六善神の図（関川寺）",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "1966-02-08",
+  "municipality": "白河市",
+  "location": "愛宕町"
+ },
+ {
+  "jmh_id": "JMH-072052-0024",
+  "name": "両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "白河市",
+  "location": "年貢町"
+ },
+ {
+  "jmh_id": "JMH-072052-0041",
+  "name": "大音寺仏画（五幅）",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-02-16",
+  "municipality": "白河市",
+  "location": "中田"
+ },
+ {
+  "jmh_id": "JMH-072052-0106",
+  "name": "絹本著色如信上人像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "白河市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-072052-0107",
+  "name": "絹本著色浄土七祖像・聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "白河市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-072052-0110",
+  "name": "紙本著色常宣寺縁起絵巻 （附）常宣寺縁起",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "2020-02-20",
+  "municipality": "白河市",
+  "location": "向新蔵"
+ },
+ {
+  "jmh_id": "JMH-072052-0111",
+  "name": "老夫妻像（関根正二筆）",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "2020-02-20",
+  "municipality": "白河市",
+  "location": "中田"
+ },
+ {
+  "jmh_id": "JMH-072052-0115",
+  "name": "絹本著色琴棋書画図屏風",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "2023-03-13",
+  "municipality": "白河市",
+  "location": "二番町"
+ },
+ {
+  "jmh_id": "JMH-072052-0116",
+  "name": "絹本著色桜図および楓図 （附）南湖神社献額記",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "2024-03-04",
+  "municipality": "白河市",
+  "location": "菅生舘"
+ },
+ {
+  "jmh_id": "JMH-072052-0117",
+  "name": "絹本著色達磨図",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （絵画）",
+  "designation": "市指定",
+  "designated_date": "2025-03-19",
+  "municipality": "白河市",
+  "location": "中田"
+ },
+ {
+  "jmh_id": "JMH-072052-0054",
+  "name": "鹿島神社の神殿の彫刻",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "1985-04-01",
+  "municipality": "白河市",
+  "location": "東下野出島字坂口"
+ },
+ {
+  "jmh_id": "JMH-072052-0056",
+  "name": "木造柿本人麻呂像（伝）頓阿作",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "1988-02-08",
+  "municipality": "白河市",
+  "location": "中田"
+ },
+ {
+  "jmh_id": "JMH-072052-0067",
+  "name": "木造阿弥陀如来立像（小峰寺）",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "1994-03-07",
+  "municipality": "白河市",
+  "location": "道場町"
+ },
+ {
+  "jmh_id": "JMH-072052-0066",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "1994-03-07",
+  "municipality": "白河市",
+  "location": "道場町"
+ },
+ {
+  "jmh_id": "JMH-072052-0072",
+  "name": "銅造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "1994-03-07",
+  "municipality": "白河市",
+  "location": "郭内"
+ },
+ {
+  "jmh_id": "JMH-072052-0088",
+  "name": "木造阿弥陀如来立像（極楽寺）",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-04-10",
+  "municipality": "白河市",
+  "location": "板橋作田"
+ },
+ {
+  "jmh_id": "JMH-072052-0094",
+  "name": "木造菩薩形立像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "2007-04-12",
+  "municipality": "白河市",
+  "location": "小田川行屋久保"
+ },
+ {
+  "jmh_id": "JMH-072052-0101",
+  "name": "木造地蔵菩薩立像 （附）木造十王坐像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "2014-04-17",
+  "municipality": "白河市",
+  "location": "表郷小松"
+ },
+ {
+  "jmh_id": "JMH-072052-0102",
+  "name": "木造菩薩形立像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "2015-03-30",
+  "municipality": "白河市",
+  "location": "東下野出島"
+ },
+ {
+  "jmh_id": "JMH-072052-0108",
+  "name": "木造釈迦如来坐像及び大迦葉・阿難陀立像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "2019-03-29",
+  "municipality": "白河市",
+  "location": "向新蔵"
+ },
+ {
+  "jmh_id": "JMH-072052-0112",
+  "name": "銅造菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財 （彫刻）",
+  "designation": "市指定",
+  "designated_date": "2020-12-09",
+  "municipality": "白河市",
+  "location": "関辺"
+ }
+]

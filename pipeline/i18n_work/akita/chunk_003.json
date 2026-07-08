@@ -1,0 +1,397 @@
+[
+ {
+  "jmh_id": "JMH-052019-0112",
+  "name": "秋田銀線細工",
+  "category": "無形文化財",
+  "subcategory": "無形",
+  "designation": "市指定",
+  "designated_date": "1996-03-11",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0121",
+  "name": "オエダラ箕",
+  "category": "無形文化財",
+  "subcategory": "無形",
+  "designation": "市指定",
+  "designated_date": "2000-03-02",
+  "municipality": "秋田市",
+  "location": "太平黒沢"
+ },
+ {
+  "jmh_id": "JMH-052019-0068",
+  "name": "紙本着色空素沼請雨法壇荘厳図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗ユウケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1972-01-05",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0071",
+  "name": "倉稲魂神碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗ユウケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1973-03-14",
+  "municipality": "秋田市",
+  "location": "川尻上野町"
+ },
+ {
+  "jmh_id": "JMH-052019-0113",
+  "name": "蝦夷錦赤地牡丹紋様七条袈裟",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗ユウケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1996-04-24",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0115",
+  "name": "倉稲魂神碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗ユウケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1998-03-20",
+  "municipality": "秋田市",
+  "location": "楢山登町"
+ },
+ {
+  "jmh_id": "JMH-052019-0118",
+  "name": "筆塚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗ユウケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1999-02-26",
+  "municipality": "秋田市",
+  "location": "八橋本町四丁目"
+ },
+ {
+  "jmh_id": "JMH-052019-0135",
+  "name": "熊野観心十界曼陀羅図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗ユウケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0139",
+  "name": "熊野観心十界曼陀羅図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗ユウケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2010-03-02",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0028",
+  "name": "黒川番楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "秋田市",
+  "location": "金足黒川"
+ },
+ {
+  "jmh_id": "JMH-052019-0025",
+  "name": "山谷番楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "秋田市",
+  "location": "太平山谷字野田"
+ },
+ {
+  "jmh_id": "JMH-052019-0084",
+  "name": "女米木ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1978-02-17",
+  "municipality": "秋田市",
+  "location": "雄和女米木"
+ },
+ {
+  "jmh_id": "JMH-052019-0085",
+  "name": "萱ヶ沢番楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1978-02-17",
+  "municipality": "秋田市",
+  "location": "雄和萱ヶ沢"
+ },
+ {
+  "jmh_id": "JMH-052019-0089",
+  "name": "羽川剣ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1979-10-09",
+  "municipality": "秋田市",
+  "location": "下浜羽川"
+ },
+ {
+  "jmh_id": "JMH-052019-0117",
+  "name": "寺沢の悪魔はらい",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "1998-06-26",
+  "municipality": "秋田市",
+  "location": "雄和芝野新田字寺沢"
+ },
+ {
+  "jmh_id": "JMH-052019-0123",
+  "name": "川尻の鹿嶋祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2002-03-27",
+  "municipality": "秋田市",
+  "location": "川尻地区"
+ },
+ {
+  "jmh_id": "JMH-052019-0124",
+  "name": "楢山の鹿嶋祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2002-03-27",
+  "municipality": "秋田市",
+  "location": "楢山地区"
+ },
+ {
+  "jmh_id": "JMH-052019-0132",
+  "name": "日吉神社山王祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2005-03-29",
+  "municipality": "秋田市",
+  "location": "新屋地区"
+ },
+ {
+  "jmh_id": "JMH-052019-0149",
+  "name": "新屋の鹿嶋祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2016-03-30",
+  "municipality": "秋田市",
+  "location": "新屋地内"
+ },
+ {
+  "jmh_id": "JMH-052019-0156",
+  "name": "三皇熊野神社の獅子舞行事サンコウクマノジンジャシシマイギョウジ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2021-03-26",
+  "municipality": "秋田市",
+  "location": "牛島地内ウシジマチナイ"
+ },
+ {
+  "jmh_id": "JMH-052019-0162",
+  "name": "勝平神社地口絵灯ろう祭りカツヒラジンジャジグチエトウマツ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗ムケイミンゾク",
+  "designation": "市指定",
+  "designated_date": "2026-03-30",
+  "municipality": "秋田市",
+  "location": "保戸野鉄砲町地内ホドノテッポウマチチナイ"
+ },
+ {
+  "jmh_id": "JMH-052019-0017",
+  "name": "全良寺官修墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-03-30",
+  "municipality": "秋田市",
+  "location": "八橋本町六丁目"
+ },
+ {
+  "jmh_id": "JMH-052019-0030",
+  "name": "栗田神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-03-26",
+  "municipality": "秋田市",
+  "location": "新屋栗田町"
+ },
+ {
+  "jmh_id": "JMH-052019-0032",
+  "name": "黒川ロ－タリ－式５号井",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-03-26",
+  "municipality": "秋田市",
+  "location": "金足黒川字小草生津"
+ },
+ {
+  "jmh_id": "JMH-052019-0033",
+  "name": "街道の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-10-14",
+  "municipality": "秋田市",
+  "location": "雄和相川字銅屋地内"
+ },
+ {
+  "jmh_id": "JMH-052019-0063",
+  "name": "総墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-04-04",
+  "municipality": "秋田市",
+  "location": "雄和平沢字水沢"
+ },
+ {
+  "jmh_id": "JMH-052019-0086",
+  "name": "大張野行在所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-10",
+  "municipality": "秋田市",
+  "location": "河辺大張野字道ノ下"
+ },
+ {
+  "jmh_id": "JMH-052019-0130",
+  "name": "露月山廬書斎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2004-09-21",
+  "municipality": "秋田市",
+  "location": "雄和女米木字宝生口"
+ },
+ {
+  "jmh_id": "JMH-052019-0133",
+  "name": "柳沢遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2006-03-28",
+  "municipality": "秋田市",
+  "location": "手形山南町、広面字柳沢マチ"
+ },
+ {
+  "jmh_id": "JMH-052019-0081",
+  "name": "新波神社の境内",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1976-12-24",
+  "municipality": "秋田市",
+  "location": "新波字樋口"
+ },
+ {
+  "jmh_id": "JMH-052019-0134",
+  "name": "千秋公園（久保田城跡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秋田市",
+  "location": "千秋公園"
+ },
+ {
+  "jmh_id": "JMH-052019-0034",
+  "name": "高尾神社里宮の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-10-14",
+  "municipality": "秋田市",
+  "location": "雄和女米木字猫沢"
+ },
+ {
+  "jmh_id": "JMH-052019-0076",
+  "name": "旭さし木（けやき）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-03-14",
+  "municipality": "秋田市",
+  "location": "寺内大小路"
+ },
+ {
+  "jmh_id": "JMH-052019-0077",
+  "name": "柳田のけやき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-03-14",
+  "municipality": "秋田市",
+  "location": "柳田字佐渡端"
+ },
+ {
+  "jmh_id": "JMH-052019-0075",
+  "name": "川口のいちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-03-14",
+  "municipality": "秋田市",
+  "location": "川元小川町"
+ },
+ {
+  "jmh_id": "JMH-052019-0072",
+  "name": "八田の親杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-03-14",
+  "municipality": "秋田市",
+  "location": "下浜八田字上台"
+ },
+ {
+  "jmh_id": "JMH-052019-0083",
+  "name": "りゅうきゅうつつじ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-12-12",
+  "municipality": "秋田市",
+  "location": "河辺岩見字鵜養"
+ },
+ {
+  "jmh_id": "JMH-052019-0082",
+  "name": "いちい",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-12-12",
+  "municipality": "秋田市",
+  "location": "河辺岩見字鵜養"
+ },
+ {
+  "jmh_id": "JMH-052019-0090",
+  "name": "もみの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-02-05",
+  "municipality": "秋田市",
+  "location": "河辺岩見字鵜養"
+ },
+ {
+  "jmh_id": "JMH-052019-0104",
+  "name": "竹の花の一本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1992-04-23",
+  "municipality": "秋田市",
+  "location": "雄和新波字寺沢"
+ }
+]

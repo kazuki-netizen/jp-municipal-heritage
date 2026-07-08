@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-052035-0076",
+  "name": "戸波神社の芸能",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1990-04-25",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0082",
+  "name": "貴船神社 本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-03-13",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0083",
+  "name": "駒山神社の鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1992-03-13",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0081",
+  "name": "永徳の古碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1992-03-13",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0080",
+  "name": "戎谷南山筆 「後三年合戦絵詞」",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1992-03-13",
+  "municipality": "横手市",
+  "location": "後三年合戦金沢資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0078",
+  "name": "大鳥井山十三塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1992-03-13",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0079",
+  "name": "小野寺泰道墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1992-03-13",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0088",
+  "name": "龍骨鏡",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1992-03-23",
+  "municipality": "横手市",
+  "location": "秋田県立博物館"
+ },
+ {
+  "jmh_id": "JMH-052035-0086",
+  "name": "熊渕の機岳和尚木彫地蔵尊",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1992-03-23",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0087",
+  "name": "荻袋の機岳和尚木彫地蔵尊",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1992-03-23",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0085",
+  "name": "小栗山の機岳和尚木彫地蔵尊",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1992-03-23",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0084",
+  "name": "安養寺の機岳和尚延命地蔵菩薩",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1992-03-23",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0091",
+  "name": "波宇志別神社神楽殿 神輿（佐竹義厚下賜）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1993-01-27",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0089",
+  "name": "坂部の境塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1993-01-27",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0090",
+  "name": "波宇志別神社神楽殿 境内地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1993-01-27",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0094",
+  "name": "戸村義国画像 寺崎廣業筆",
+  "category": "有形文化財",
+  "subcategory": "絵 画",
+  "designation": "市指定",
+  "designated_date": "1994-04-15",
+  "municipality": "横手市",
+  "location": "横手南小学校"
+ },
+ {
+  "jmh_id": "JMH-052035-0092",
+  "name": "三井寺 聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "市指定",
+  "designated_date": "1994-04-15",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0095",
+  "name": "正法寺 七面大天女立像",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "市指定",
+  "designated_date": "1994-04-15",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0093",
+  "name": "妙晴寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1994-04-15",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0096",
+  "name": "金沢ささら舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1994-04-15",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0097",
+  "name": "滝ノ沢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名 勝",
+  "designation": "市指定",
+  "designated_date": "1995-03-16",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0101",
+  "name": "大慈寺谷地の板碑 太刀瑕ある石神",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1996-04-01",
+  "municipality": "横手市",
+  "location": "大雄地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0100",
+  "name": "大慈寺谷地の板碑 光明真言",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1996-04-01",
+  "municipality": "横手市",
+  "location": "大雄地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0098",
+  "name": "八柏の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1996-04-01",
+  "municipality": "横手市",
+  "location": "大雄地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0099",
+  "name": "八柏村検地野帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-04-01",
+  "municipality": "横手市",
+  "location": "雄物川郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0104",
+  "name": "観音寺 千手観世音立像",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "市指定",
+  "designated_date": "1996-05-31",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0102",
+  "name": "八幡の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1996-05-31",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0103",
+  "name": "岩瀬御台の墓所（附 七条袈裟）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1996-05-31",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0105",
+  "name": "佐竹義重の甲冑",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1997-03-26",
+  "municipality": "横手市",
+  "location": "後三年合戦金沢資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0107",
+  "name": "金沢八幡宮 写経（大正年間） 大般若波羅密多 100巻 経",
+  "category": "有形文化財",
+  "subcategory": "書跡・古文書等",
+  "designation": "市指定",
+  "designated_date": "1997-03-26",
+  "municipality": "横手市",
+  "location": "後三年合戦金沢資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0106",
+  "name": "小吉山遺跡出土 線刻石製品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-03-26",
+  "municipality": "横手市",
+  "location": "雄物川郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0110",
+  "name": "百落鹿島流し",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1998-03-26",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0108",
+  "name": "下根田鹿島送り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1998-03-26",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0109",
+  "name": "横手城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1998-03-26",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0111",
+  "name": "藤巻の厄神立て",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1998-07-01",
+  "municipality": "横手市",
+  "location": "大雄地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0112",
+  "name": "戎谷南山筆 『雪の出羽路』写本",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-01-20",
+  "municipality": "横手市",
+  "location": "後三年合戦金沢資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0113",
+  "name": "旭岡山神社の梵天",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1999-01-20",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0115",
+  "name": "薄井村絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-06-22",
+  "municipality": "横手市",
+  "location": "雄物川郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0114",
+  "name": "享保雛(内裏雛)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1999-06-22",
+  "municipality": "横手市",
+  "location": "雄物川郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0116",
+  "name": "造山の傘杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-06-22",
+  "municipality": "横手市",
+  "location": "雄物川地域内"
+ }
+]

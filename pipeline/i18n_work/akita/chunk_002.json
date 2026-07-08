@@ -1,0 +1,383 @@
+[
+ {
+  "jmh_id": "JMH-052019-0097",
+  "name": "黒印御定書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1988-12-01",
+  "municipality": "秋田市",
+  "location": "河辺三内字尼沢 旧河辺農林漁業資料館"
+ },
+ {
+  "jmh_id": "JMH-052019-0098",
+  "name": "川口町丁代文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1989-04-10",
+  "municipality": "秋田市",
+  "location": "山王新町 秋田県公文書館"
+ },
+ {
+  "jmh_id": "JMH-052019-0138",
+  "name": "黒澤家日記",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2009-02-26",
+  "municipality": "秋田市",
+  "location": "千秋公園 佐竹史料館"
+ },
+ {
+  "jmh_id": "JMH-052019-0145",
+  "name": "旧下淀川村武藤助左衛門家伝来文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2014-03-27",
+  "municipality": "秋田市",
+  "location": "千秋公園 佐竹史料館(寄託)"
+ },
+ {
+  "jmh_id": "JMH-052019-0148",
+  "name": "上北手嵯峨家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2016-03-30",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0150",
+  "name": "上肴町記録",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2017-03-27",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0158",
+  "name": "長瀬家文書ナガセケモンジョ",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2023-03-28",
+  "municipality": "秋田市",
+  "location": "千秋明徳町 中央図書館明徳館"
+ },
+ {
+  "jmh_id": "JMH-052019-0012",
+  "name": "須恵器つぼ",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1964-04-03",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0029",
+  "name": "上新城地区出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1968-03-26",
+  "municipality": "秋田市",
+  "location": "雄和妙法字上大部 埋蔵文化財収蔵施設"
+ },
+ {
+  "jmh_id": "JMH-052019-0036",
+  "name": "須恵器（湯野目出土）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1969-12-09",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0035",
+  "name": "須恵器（山崎山出土）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1969-12-09",
+  "municipality": "秋田市",
+  "location": "雄和新波字寺沢 旧雄和ふるさとセンター"
+ },
+ {
+  "jmh_id": "JMH-052019-0037",
+  "name": "風字二面硯",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1969-12-09",
+  "municipality": "秋田市",
+  "location": "雄和新波字寺沢 旧雄和ふるさとセンター(寄託)"
+ },
+ {
+  "jmh_id": "JMH-052019-0070",
+  "name": "須恵器（長者屋敷出土）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1972-04-26",
+  "municipality": "秋田市",
+  "location": "雄和新波字寺沢 旧雄和ふるさとセンター"
+ },
+ {
+  "jmh_id": "JMH-052019-0092",
+  "name": "瓊宮功徳水の石造八角井戸側",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-03-01",
+  "municipality": "秋田市",
+  "location": "寺内焼山 秋田城跡歴史資料館レキシシリョウカン"
+ },
+ {
+  "jmh_id": "JMH-052019-0096",
+  "name": "須恵器系甕",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1988-12-01",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0110",
+  "name": "水車発電機",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1996-03-01",
+  "municipality": "秋田市",
+  "location": "河辺三内字尼沢 旧河辺農林漁業資料館"
+ },
+ {
+  "jmh_id": "JMH-052019-0143",
+  "name": "秋田城跡出土胞衣壺",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2013-03-27",
+  "municipality": "秋田市",
+  "location": "寺内焼山 秋田城跡歴史資料館レキシシリョウカン"
+ },
+ {
+  "jmh_id": "JMH-052019-0147",
+  "name": "秋田城跡ＳＧ４６３沼地跡出土祭祀遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "秋田市",
+  "location": "寺内焼山 秋田城跡歴史資料館レキシシリョウカン"
+ },
+ {
+  "jmh_id": "JMH-052019-0151",
+  "name": "秋田城跡出土戸籍関係漆紙文書 （ＳＫ1555土坑出土）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2017-03-27",
+  "municipality": "秋田市",
+  "location": "寺内焼山 秋田城跡歴史資料館レキシシリョウカン"
+ },
+ {
+  "jmh_id": "JMH-052019-0155",
+  "name": "地方遺跡出土品ジカタイセキシュツドヒン",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2020-03-26",
+  "municipality": "秋田市",
+  "location": "雄和妙法字上大部 埋蔵文化財収蔵施設"
+ },
+ {
+  "jmh_id": "JMH-052019-0009",
+  "name": "佐竹藩主夫人像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1964-04-03",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0024",
+  "name": "佐竹義篤、佐竹義昭の書状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0045",
+  "name": "絹本着色八幡太郎義家肖像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0046",
+  "name": "絹本着色新羅三郎義光肖像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0042",
+  "name": "森川文庫附余楽庵",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市",
+  "location": "山王一丁目 新屋日吉町サンノウイッチョウメアラヤヒヨシマチ"
+ },
+ {
+  "jmh_id": "JMH-052019-0054",
+  "name": "福城寺古過去帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1971-03-17",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0060",
+  "name": "制札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1971-04-04",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0064",
+  "name": "佐竹義和の書跡",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1972-01-05",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0087",
+  "name": "五明文庫",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-10-09",
+  "municipality": "秋田市",
+  "location": "千秋明徳町 中央図書館明徳館（寄託）センシュウメイトクマチ"
+ },
+ {
+  "jmh_id": "JMH-052019-0095",
+  "name": "札山制札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1988-12-01",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0105",
+  "name": "御城下絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1993-04-15",
+  "municipality": "秋田市",
+  "location": "千秋公園 佐竹史料館"
+ },
+ {
+  "jmh_id": "JMH-052019-0106",
+  "name": "御城中略図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1993-04-15",
+  "municipality": "秋田市",
+  "location": "千秋公園 佐竹史料館"
+ },
+ {
+  "jmh_id": "JMH-052019-0111",
+  "name": "御城下絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-03-11",
+  "municipality": "秋田市",
+  "location": "千秋公園 佐竹史料館"
+ },
+ {
+  "jmh_id": "JMH-052019-0120",
+  "name": "破魔矢棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-03-12",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0119",
+  "name": "破魔矢",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-03-12",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0131",
+  "name": "伝久保田城杉戸",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-03-29",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0144",
+  "name": "聲体寺亀趺碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2013-03-27",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0152",
+  "name": "土崎神明社棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2018-03-20",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0157",
+  "name": "勝平神社の石造狛犬カツヒラジンジャセキゾウコマイヌ",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2022-03-29",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0159",
+  "name": "勝平得之版画版木カツヒラトクシハンガハンギ",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2024-03-25",
+  "municipality": "秋田市",
+  "location": "大町三丁目 赤れんが郷土館オオマチミチョウメアカキョウドカン"
+ }
+]

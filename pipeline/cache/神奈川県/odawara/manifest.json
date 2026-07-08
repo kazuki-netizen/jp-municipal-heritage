@@ -1,0 +1,18 @@
+{
+  "40b2d6e517981040": {
+    "url": "https://www.city.odawara.kanagawa.jp/field/lifelong/property/cultural/",
+    "filename": "40b2d6e517981040.html",
+    "sha256": "abf3bb769347ec52655ad89c1b52181b0539f7e650ce476daec2de62df4328cf",
+    "fetched_at": "2026-07-08T03:18:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f2e8a5f1844180ab": {
+    "url": "https://www.city.odawara.kanagawa.jp/field/lifelong/property/cultural/bukensuu.html",
+    "filename": "f2e8a5f1844180ab.html",
+    "sha256": "c623052f8a2c8a659676549f6f8ca2e163ae986eca3d25b08ced22224c4c38a0",
+    "fetched_at": "2026-07-08T03:18:42Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

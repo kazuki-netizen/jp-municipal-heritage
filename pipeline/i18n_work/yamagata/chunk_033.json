@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-062030-0244",
+  "name": "木造地蔵像懸仏 天文十六年正月吉日の刻印",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0294",
+  "name": "東照宮経机 貞享三丙寅年の銘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0292",
+  "name": "最上胴丸",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0330",
+  "name": "鐔 天宥別当作",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0303",
+  "name": "竹取翁面 春日佛師作",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0288",
+  "name": "弁慶の粕鍋",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0332",
+  "name": "青い目の人形",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0093",
+  "name": "紙本墨書 敬天愛人 西郷南洲 筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0150",
+  "name": "紙本墨書 妙法蓮華経 清領院 筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1987-12-15",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0169",
+  "name": "芭蕉筆 芭蕉庵三日月日記",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1989-08-24",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0168",
+  "name": "芭蕉筆 書翰",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1989-08-24",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0166",
+  "name": "芭蕉ほか自筆短冊貼交ぜ三幅対",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1989-08-24",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0167",
+  "name": "芭蕉筆 日光山懐紙",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1989-08-24",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0176",
+  "name": "和歌 後柏原天皇真筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1990-03-30",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0175",
+  "name": "和歌 後奈良天皇真筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1990-03-30",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0172",
+  "name": "一行書 後水尾天皇真筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1990-03-30",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0240",
+  "name": "慈眼大師御訴訟事",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0257",
+  "name": "羽黒山縁起",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0249",
+  "name": "直江兼続書状",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0241",
+  "name": "掛軸紙本墨書 宥俊南無阿弥陀佛名号",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0239",
+  "name": "宥俊書状",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0285",
+  "name": "宥俊御状の覚",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0275",
+  "name": "和歌 後奈良天皇宸翰",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0268",
+  "name": "三十六人歌合 尊圓法親王御自筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0277",
+  "name": "和歌 舜仁親王御染筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0272",
+  "name": "南無能除太子尊号 天宥別当筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0326",
+  "name": "連歌 天宥別当筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0269",
+  "name": "三十六歌仙 天宥別当筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0286",
+  "name": "島文",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0276",
+  "name": "和歌 胤海別当筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0295",
+  "name": "東照宮縁起",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0270",
+  "name": "三日月塚誌",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0297",
+  "name": "短冊(舜仁親王略歴紹介)覚諄別当筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0291",
+  "name": "扁額大東学校 有栖川熾仁親王揮毫",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0290",
+  "name": "扁額佛照山 澄海別当筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0325",
+  "name": "貴船大神 有栖川宮熾仁親王筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0146",
+  "name": "大般若経",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1986-10-01",
+  "municipality": "鶴岡市",
+  "location": "櫛引"
+ },
+ {
+  "jmh_id": "JMH-062030-0253",
+  "name": "紙本紺地金泥妙法蓮華経",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0256",
+  "name": "羽黒山御九重守版木",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0004",
+  "name": "武藤義氏寺領安堵状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1967-07-04",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ }
+]

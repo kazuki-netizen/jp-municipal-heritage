@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-042064-0006",
+  "name": "白石焼壺",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-07-02",
+  "municipality": "白石市",
+  "location": "宮城県白石市南町１丁目7-25"
+ },
+ {
+  "jmh_id": "JMH-042064-0008",
+  "name": "白石焼・山神講徳利",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-03-15",
+  "municipality": "白石市",
+  "location": "宮城県白石市字寺屋敷前25-6"
+ },
+ {
+  "jmh_id": "JMH-042064-0018",
+  "name": "遠藤家資料・中島家資料",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2011-03-11",
+  "municipality": "白石市",
+  "location": "宮城県白石市益岡町2-7"
+ },
+ {
+  "jmh_id": "JMH-042064-0007",
+  "name": "阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1992-04-01",
+  "municipality": "白石市",
+  "location": "宮城県白石市字本町62"
+ },
+ {
+  "jmh_id": "JMH-042064-0020",
+  "name": "釈迦十六善神像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2016-04-19",
+  "municipality": "白石市",
+  "location": "宮城県白石市大平中目字威徳寺1"
+ },
+ {
+  "jmh_id": "JMH-042064-0023",
+  "name": "白石城と家中旗指物屏風",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2023-04-13",
+  "municipality": "白石市",
+  "location": "宮城県白石市南町１丁目7-25"
+ },
+ {
+  "jmh_id": "JMH-042064-0022",
+  "name": "仏涅槃図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2023-04-13",
+  "municipality": "白石市",
+  "location": "宮城県白石市南町１丁目7-35"
+ },
+ {
+  "jmh_id": "JMH-042064-0009",
+  "name": "小原の百矢納め",
+  "category": "無形文化財",
+  "subcategory": "芸能",
+  "designation": "市指定",
+  "designated_date": "2001-04-12",
+  "municipality": "白石市",
+  "location": "白石市小原地内"
+ },
+ {
+  "jmh_id": "JMH-042064-0015",
+  "name": "榊流大町神楽",
+  "category": "無形文化財",
+  "subcategory": "芸能",
+  "designation": "市指定",
+  "designated_date": "2006-05-11",
+  "municipality": "白石市",
+  "location": "宮城県白石市大鷹沢大町"
+ },
+ {
+  "jmh_id": "JMH-042064-0012",
+  "name": "栃原の一本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-03-29",
+  "municipality": "白石市",
+  "location": "宮城県白石市福岡深谷字栃原山156-1"
+ },
+ {
+  "jmh_id": "JMH-042064-0010",
+  "name": "傑山寺の一本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-03-29",
+  "municipality": "白石市",
+  "location": "宮城県白石市南町２丁目213"
+ },
+ {
+  "jmh_id": "JMH-042064-0013",
+  "name": "湯口寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-03-29",
+  "municipality": "白石市",
+  "location": "宮城県白石市福岡深谷字高野原44"
+ },
+ {
+  "jmh_id": "JMH-042064-0011",
+  "name": "堂形のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-03-29",
+  "municipality": "白石市",
+  "location": "白石市福岡蔵本字堂形22"
+ },
+ {
+  "jmh_id": "JMH-042064-0014",
+  "name": "鎌先のトチノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-03-29",
+  "municipality": "白石市",
+  "location": "白石市福岡蔵本字狐峯三番13"
+ },
+ {
+  "jmh_id": "JMH-042064-0016",
+  "name": "常林寺のエドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2008-07-07",
+  "municipality": "白石市",
+  "location": "宮城県白石市南町１丁目7-35"
+ },
+ {
+  "jmh_id": "JMH-042064-0017",
+  "name": "旧刈田病院本館",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2008-07-07",
+  "municipality": "白石市",
+  "location": "宮城県白石市福岡蔵本字長峰14"
+ },
+ {
+  "jmh_id": "JMH-042064-0019",
+  "name": "白石城（三階櫓・大手一ノ門・大手二ノ門・土塀・石垣）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2011-07-06",
+  "municipality": "白石市",
+  "location": "宮城県白石市益岡町1-4ほか"
+ },
+ {
+  "jmh_id": "JMH-042064-0021",
+  "name": "古山家門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2018-09-03",
+  "municipality": "白石市",
+  "location": "宮城県白石市大平坂谷字西在家前27"
+ },
+ {
+  "jmh_id": "JMH-042099-0002",
+  "name": "南安楽寺古碑群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-18",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市新田字南安楽寺"
+ },
+ {
+  "jmh_id": "JMH-042099-0001",
+  "name": "伏石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-18",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市市川字坂下 多賀城跡内"
+ },
+ {
+  "jmh_id": "JMH-042099-0003",
+  "name": "弘安の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2001-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市高崎２丁目"
+ },
+ {
+  "jmh_id": "JMH-042099-0008",
+  "name": "菊池家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-042099-0004",
+  "name": "「観音寺」銘墨書土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-042099-0010",
+  "name": "題箋軸木簡",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-042099-0009",
+  "name": "陸奥国戸籍関係漆紙文書",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-042099-0006",
+  "name": "壺鐙",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-042099-0007",
+  "name": "横笛",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-042099-0005",
+  "name": "刀",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-042099-0011",
+  "name": "天童家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2012-07-01",
+  "municipality": "多賀城市",
+  "location": "宮城県多賀城市中央２丁目２７-１ 多賀城市埋蔵文化財センター"
+ },
+ {
+  "jmh_id": "JMH-044210-0005",
+  "name": "天皇寺庫裡",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2014-03-03",
+  "municipality": "大和町",
+  "location": "大和町吉岡字天皇寺184番地の20"
+ },
+ {
+  "jmh_id": "JMH-044210-0004",
+  "name": "旧宮床伊達家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1997-01-01",
+  "municipality": "大和町",
+  "location": "大和町宮床字下小路64番地"
+ },
+ {
+  "jmh_id": "JMH-044210-0006",
+  "name": "木造伝聖観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（彫刻）",
+  "designation": "町指定",
+  "designated_date": "2018-04-01",
+  "municipality": "大和町",
+  "location": "大和町落合報恩寺字上ノ山31番地"
+ },
+ {
+  "jmh_id": "JMH-044210-0002",
+  "name": "吉川十兵衛の測量関係資料",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（歴史資料）",
+  "designation": "町指定",
+  "designated_date": "1995-04-01",
+  "municipality": "大和町",
+  "location": "非公開"
+ },
+ {
+  "jmh_id": "JMH-044210-0007",
+  "name": "但木成行招魂之碑",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（歴史資料）",
+  "designation": "町指定",
+  "designated_date": "2020-05-01",
+  "municipality": "大和町",
+  "location": "大和町吉田字一ノ坂28番地"
+ },
+ {
+  "jmh_id": "JMH-044210-0003",
+  "name": "金取代々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1995-04-01",
+  "municipality": "大和町",
+  "location": "大和町吉田字金取北ほか（金取地区）"
+ },
+ {
+  "jmh_id": "JMH-044210-0001",
+  "name": "信楽寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1995-04-01",
+  "municipality": "大和町",
+  "location": "大和町宮床字松倉沢94番地の1ほか"
+ },
+ {
+  "jmh_id": "JMH-042153-0003",
+  "name": "旧水沢県庁庁舎",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-05-27",
+  "municipality": "登米市",
+  "location": "宮城県登米市登米町寺池桜小路1"
+ },
+ {
+  "jmh_id": "JMH-042153-0012",
+  "name": "旧鈴木家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-09-29",
+  "municipality": "登米市",
+  "location": "宮城県登米市登米町寺池桜小路79"
+ },
+ {
+  "jmh_id": "JMH-042153-0002",
+  "name": "不老仙館",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1972-10-13",
+  "municipality": "登米市",
+  "location": "宮城県登米市東和町米谷字秈荷65"
+ },
+ {
+  "jmh_id": "JMH-042153-0004",
+  "name": "仙台城二の丸屏風「錦鶏鳥図」半双",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1978-02-01",
+  "municipality": "登米市",
+  "location": "宮城県登米市迫町佐沼字内町63-20 登米市歴史博物館"
+ }
+]

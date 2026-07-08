@@ -1,0 +1,400 @@
+[
+ {
+  "jmh_id": "JMH-032042-0123",
+  "name": "鏑八幡神社社宝「鏑矢」",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1994-08-18",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0152",
+  "name": "鏑八幡神社「刀剣」",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1997-05-22",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0206",
+  "name": "浮田宝塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-06-16",
+  "municipality": "花巻市",
+  "location": "東和町上浮田"
+ },
+ {
+  "jmh_id": "JMH-032042-0205",
+  "name": "安俵五輪塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-06-16",
+  "municipality": "花巻市",
+  "location": "東和町安俵"
+ },
+ {
+  "jmh_id": "JMH-032042-0225",
+  "name": "松尾神社石碑(南部杜氏の碑）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2012-04-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町好地"
+ },
+ {
+  "jmh_id": "JMH-032042-0227",
+  "name": "花巻傘",
+  "category": "無形文化財",
+  "subcategory": "無形工芸技術",
+  "designation": "市指定",
+  "designated_date": "2014-03-25",
+  "municipality": "花巻市"
+ },
+ {
+  "jmh_id": "JMH-032042-0233",
+  "name": "成島和紙",
+  "category": "無形文化財",
+  "subcategory": "無形工芸技術",
+  "designation": "市指定",
+  "designated_date": "2017-02-28",
+  "municipality": "花巻市"
+ },
+ {
+  "jmh_id": "JMH-032042-0181",
+  "name": "葛神楽本（言立本）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2001-03-21",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0129",
+  "name": "胡四王蘇民祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1995-11-22",
+  "municipality": "花巻市",
+  "location": "矢沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0176",
+  "name": "光勝寺五大尊蘇民祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2001-01-15",
+  "municipality": "花巻市",
+  "location": "石鳥谷町五大堂"
+ },
+ {
+  "jmh_id": "JMH-032042-0217",
+  "name": "石鳥谷まつり",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町好地"
+ },
+ {
+  "jmh_id": "JMH-032042-0212",
+  "name": "上郷虫追い祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町新堀"
+ },
+ {
+  "jmh_id": "JMH-032042-0121",
+  "name": "（成島）熊野神社十二番角力式（泣き相撲）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1993-04-15",
+  "municipality": "花巻市",
+  "location": "東和町北成島"
+ },
+ {
+  "jmh_id": "JMH-032042-0189",
+  "name": "土沢祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2002-11-21",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0193",
+  "name": "松庵寺盆踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2004-07-29",
+  "municipality": "花巻市",
+  "location": "双葉町（松庵寺）"
+ },
+ {
+  "jmh_id": "JMH-032042-0236",
+  "name": "花巻まつり",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2018-05-28",
+  "municipality": "花巻市",
+  "location": "花城町"
+ },
+ {
+  "jmh_id": "JMH-032042-0016",
+  "name": "花巻ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1960-12-07",
+  "municipality": "花巻市",
+  "location": "花城町ほか"
+ },
+ {
+  "jmh_id": "JMH-032042-0020",
+  "name": "大念仏（葛大念仏）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1961-07-05",
+  "municipality": "花巻市",
+  "location": "葛"
+ },
+ {
+  "jmh_id": "JMH-032042-0021",
+  "name": "奴踊り（南笹間奴踊）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1961-07-05",
+  "municipality": "花巻市",
+  "location": "南笹間"
+ },
+ {
+  "jmh_id": "JMH-032042-0022",
+  "name": "鹿踊り（湯本鹿踊）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1961-07-05",
+  "municipality": "花巻市",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-032042-0134",
+  "name": "葛神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1996-09-26",
+  "municipality": "花巻市",
+  "location": "葛"
+ },
+ {
+  "jmh_id": "JMH-032042-0156",
+  "name": "羽山神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1997-11-18",
+  "municipality": "花巻市",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-032042-0159",
+  "name": "小瀬川神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1999-03-17",
+  "municipality": "花巻市",
+  "location": "小瀬川"
+ },
+ {
+  "jmh_id": "JMH-032042-0168",
+  "name": "春日流鍋倉鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2000-04-18",
+  "municipality": "花巻市",
+  "location": "鍋倉"
+ },
+ {
+  "jmh_id": "JMH-032042-0188",
+  "name": "上ノ山鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2002-09-26",
+  "municipality": "花巻市",
+  "location": "葛"
+ },
+ {
+  "jmh_id": "JMH-032042-0191",
+  "name": "上根子神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2003-03-26",
+  "municipality": "花巻市",
+  "location": "上根子"
+ },
+ {
+  "jmh_id": "JMH-032042-0197",
+  "name": "糠塚鹿子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2005-03-18",
+  "municipality": "花巻市",
+  "location": "糠塚"
+ },
+ {
+  "jmh_id": "JMH-032042-0224",
+  "name": "太田大念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-09-25",
+  "municipality": "花巻市",
+  "location": "太田"
+ },
+ {
+  "jmh_id": "JMH-032042-0226",
+  "name": "湯本田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2013-04-25",
+  "municipality": "花巻市",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-032042-0023",
+  "name": "中乙念仏踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1961-09-01",
+  "municipality": "花巻市",
+  "location": "大迫町内川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0024",
+  "name": "竪沢鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1961-09-01",
+  "municipality": "花巻市",
+  "location": "大迫町外川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0202",
+  "name": "旭の又神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2005-03-25",
+  "municipality": "花巻市",
+  "location": "大迫町外川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0198",
+  "name": "合石神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2005-03-25",
+  "municipality": "花巻市",
+  "location": "大迫町外川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0200",
+  "name": "岩脇さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2005-03-25",
+  "municipality": "花巻市",
+  "location": "大迫町外川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0056",
+  "name": "貴船神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1975-01-21",
+  "municipality": "花巻市",
+  "location": "石鳥谷町南寺林"
+ },
+ {
+  "jmh_id": "JMH-032042-0054",
+  "name": "十日市神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1975-01-21",
+  "municipality": "花巻市",
+  "location": "石鳥谷町関口"
+ },
+ {
+  "jmh_id": "JMH-032042-0055",
+  "name": "春日流八幡鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1975-01-21",
+  "municipality": "花巻市",
+  "location": "石鳥谷町八幡"
+ },
+ {
+  "jmh_id": "JMH-032042-0095",
+  "name": "種森神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1986-06-27",
+  "municipality": "花巻市",
+  "location": "石鳥谷町新堀"
+ },
+ {
+  "jmh_id": "JMH-032042-0097",
+  "name": "大瀬川奴踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1988-01-18",
+  "municipality": "花巻市",
+  "location": "石鳥谷町大瀬川"
+ },
+ {
+  "jmh_id": "JMH-032042-0109",
+  "name": "八重畑田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1991-02-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町八重畑"
+ }
+]

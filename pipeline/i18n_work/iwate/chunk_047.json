@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-033812-0008",
+  "name": "横道塚敷田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1970-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0009",
+  "name": "西根毘句舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1970-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0010",
+  "name": "六原鬼剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1970-11-12",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0017",
+  "name": "奥州街道二ケ尻一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "三ケ尻"
+ },
+ {
+  "jmh_id": "JMH-033812-0020",
+  "name": "観音寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "永岡"
+ },
+ {
+  "jmh_id": "JMH-033812-0018",
+  "name": "氷照寺正寿院廃寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "永岡"
+ },
+ {
+  "jmh_id": "JMH-033812-0021",
+  "name": "金ケ崎城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "街"
+ },
+ {
+  "jmh_id": "JMH-033812-0015",
+  "name": "丸子館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "三ケ尻"
+ },
+ {
+  "jmh_id": "JMH-033812-0016",
+  "name": "十二本塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "三ケ尻"
+ },
+ {
+  "jmh_id": "JMH-033812-0019",
+  "name": "浮田一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "三ケ尻"
+ },
+ {
+  "jmh_id": "JMH-033812-0038",
+  "name": "モリアオガエルの繁殖地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "金ケ崎町",
+  "location": "西部"
+ },
+ {
+  "jmh_id": "JMH-033812-0013",
+  "name": "ミズバショウ群生地（西部）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1972-06-13",
+  "municipality": "金ケ崎町",
+  "location": "西部"
+ },
+ {
+  "jmh_id": "JMH-033812-0012",
+  "name": "ミズバショウ群生地（永岡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1972-06-13",
+  "municipality": "金ケ崎町",
+  "location": "永岡"
+ },
+ {
+  "jmh_id": "JMH-033812-0023",
+  "name": "ヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "北部"
+ },
+ {
+  "jmh_id": "JMH-033812-0032",
+  "name": "永徳寺境内杉並木（11本）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永岡"
+ },
+ {
+  "jmh_id": "JMH-033812-0011",
+  "name": "中西流細野念仏剣舞（坂水庭園田植踊）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1971-06-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0037",
+  "name": "奥野流富士嶺行山北方鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-17",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0040",
+  "name": "富士嶺行山細野鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2007-12-23",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0044",
+  "name": "二ケ尻笹句舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2019-12-23",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0014",
+  "name": "中西流細野念仏剣舞（書跡）中西流斎術免許状",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "西根"
+ },
+ {
+  "jmh_id": "JMH-033812-0022",
+  "name": "陸奥肥前郡頷輔神社法薬八景和歌",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-20",
+  "municipality": "金ケ崎町",
+  "location": "西根"
+ },
+ {
+  "jmh_id": "JMH-033812-0027",
+  "name": "大谷吉藏禁制",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0031",
+  "name": "正法眼蔵（写本）",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0045",
+  "name": "鍋島山永徳寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2020-04-05",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0042",
+  "name": "瑠花双鳳八稜鏡",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2011-12-20",
+  "municipality": "金ケ崎町",
+  "location": "西根"
+ },
+ {
+  "jmh_id": "JMH-033812-0043",
+  "name": "烏海柵遺跡第18次調査 SJ01竪穴建物跡出土品遺物3点",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2011-12-21",
+  "municipality": "金ケ崎町",
+  "location": "西根"
+ },
+ {
+  "jmh_id": "JMH-032824-0030",
+  "name": "馬淵神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2002-04-01",
+  "municipality": "葛巻町",
+  "location": "江刈"
+ },
+ {
+  "jmh_id": "JMH-032824-0006",
+  "name": "芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1975-09-01",
+  "municipality": "葛巻町",
+  "location": "葛巻"
+ },
+ {
+  "jmh_id": "JMH-032824-0002",
+  "name": "庚申塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1975-09-01",
+  "municipality": "葛巻町",
+  "location": "葛巻"
+ },
+ {
+  "jmh_id": "JMH-032824-0020",
+  "name": "鋳造異形神像懸仏",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1987-07-21",
+  "municipality": "葛巻町",
+  "location": "葛巻"
+ },
+ {
+  "jmh_id": "JMH-032824-0019",
+  "name": "十王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1987-07-21",
+  "municipality": "葛巻町",
+  "location": "田部"
+ },
+ {
+  "jmh_id": "JMH-032824-0029",
+  "name": "銅菊花双雀鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "2002-04-01",
+  "municipality": "葛巻町",
+  "location": "江刈"
+ },
+ {
+  "jmh_id": "JMH-032824-0028",
+  "name": "銅若松散双鶴鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "2002-04-01",
+  "municipality": "葛巻町",
+  "location": "江刈"
+ },
+ {
+  "jmh_id": "JMH-032824-0027",
+  "name": "銅如来座像懸仏",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "2002-04-01",
+  "municipality": "葛巻町",
+  "location": "葛巻"
+ },
+ {
+  "jmh_id": "JMH-032824-0026",
+  "name": "牛方道中絵馬",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "2002-04-01",
+  "municipality": "葛巻町",
+  "location": "葛巻"
+ },
+ {
+  "jmh_id": "JMH-032824-0004",
+  "name": "樹跡馬図",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-09-01",
+  "municipality": "葛巻町",
+  "location": "江刈"
+ },
+ {
+  "jmh_id": "JMH-032824-0003",
+  "name": "本掛絵馬一匹",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-09-01",
+  "municipality": "葛巻町",
+  "location": "江刈"
+ },
+ {
+  "jmh_id": "JMH-032824-0005",
+  "name": "笛吹牛牛の奉額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-09-01",
+  "municipality": "葛巻町",
+  "location": "江刈"
+ },
+ {
+  "jmh_id": "JMH-032824-0001",
+  "name": "参拝御宇前",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-09-01",
+  "municipality": "葛巻町",
+  "location": "江刈"
+ },
+ {
+  "jmh_id": "JMH-032824-0013",
+  "name": "八幡大菩薩",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1982-07-05",
+  "municipality": "葛巻町",
+  "location": "葛巻"
+ }
+]

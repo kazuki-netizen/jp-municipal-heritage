@@ -1,0 +1,336 @@
+[
+ {
+  "jmh_id": "JMH-032107-0006",
+  "name": "明神かつら",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記／植物（天記）",
+  "designation": "市指定",
+  "designated_date": "1973-02-27",
+  "municipality": "釜石市",
+  "location": "栗橋"
+ },
+ {
+  "jmh_id": "JMH-032107-0026",
+  "name": "外山のエゾノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記／植物（天記）",
+  "designation": "市指定",
+  "designated_date": "1987-03-27",
+  "municipality": "釜石市",
+  "location": "鵜住居"
+ },
+ {
+  "jmh_id": "JMH-032107-0039",
+  "name": "峠のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記／植物（天記）",
+  "designation": "市指定",
+  "designated_date": "2004-01-27",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0042",
+  "name": "上栗林のサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記／植物（天記）",
+  "designation": "市指定",
+  "designated_date": "2007-03-29",
+  "municipality": "釜石市",
+  "location": "栗橋"
+ },
+ {
+  "jmh_id": "JMH-032107-0046",
+  "name": "箱崎神社境内林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記／植物（天記）",
+  "designation": "市指定",
+  "designated_date": "2011-02-24",
+  "municipality": "釜石市",
+  "location": "鵜住居"
+ },
+ {
+  "jmh_id": "JMH-032107-0062",
+  "name": "女遊部のトチノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記／植物（天記）",
+  "designation": "市指定",
+  "designated_date": "2021-03-25",
+  "municipality": "釜石市",
+  "location": "鵜住居"
+ },
+ {
+  "jmh_id": "JMH-032107-0065",
+  "name": "大沢川流域の古生界化石産出露頭群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記／地質鉱物（天記）",
+  "designation": "市指定",
+  "designated_date": "2024-03-27",
+  "municipality": "釜石市",
+  "location": "栗林"
+ },
+ {
+  "jmh_id": "JMH-033057-0014",
+  "name": "岩清水不動明王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0019",
+  "name": "昆家の石塔婆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0004",
+  "name": "佐々木家曲家",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0005",
+  "name": "刀(新藤国義作)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0037",
+  "name": "金銅千手観音坐像懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0013",
+  "name": "岩清水不動尊堂奉納額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0038",
+  "name": "鉄造菩薩坐像懸仏",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0001",
+  "name": "まいりのほとけ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0032",
+  "name": "耳取獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0031",
+  "name": "矢次獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0018",
+  "name": "徳丹獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0025",
+  "name": "煙山鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0011",
+  "name": "室岡獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0023",
+  "name": "煙山田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0017",
+  "name": "広宮沢田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0030",
+  "name": "矢次剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0040",
+  "name": "高田念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0029",
+  "name": "白沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0007",
+  "name": "南矢巾さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0016",
+  "name": "広宮沢念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0026",
+  "name": "白沢さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0002",
+  "name": "下赤林さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0039",
+  "name": "高田さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0021",
+  "name": "桜屋獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0033",
+  "name": "舘前南部七軒丁大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0034",
+  "name": "西徳田伝承さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0006",
+  "name": "北郡山さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0035",
+  "name": "赤林一里塚跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0009",
+  "name": "和味一里塚跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0024",
+  "name": "煙山館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0015",
+  "name": "岩清水館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0036",
+  "name": "釈迦堂跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0003",
+  "name": "伝法寺館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ }
+]

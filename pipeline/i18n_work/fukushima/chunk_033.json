@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-072125-0033",
+  "name": "殕森のツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市青田字殕森"
+ },
+ {
+  "jmh_id": "JMH-072125-0030",
+  "name": "寺下のかさ松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字寺下"
+ },
+ {
+  "jmh_id": "JMH-072125-0041",
+  "name": "苗代田神社のモミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市岩根字小屋舘山"
+ },
+ {
+  "jmh_id": "JMH-072125-0046",
+  "name": "仁井田のモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-03-28",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字西町"
+ },
+ {
+  "jmh_id": "JMH-072125-0050",
+  "name": "誓伝寺のキャラボク",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-03-28",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字南山神"
+ },
+ {
+  "jmh_id": "JMH-072125-0047",
+  "name": "本陣のクロマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-03-28",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字舘ノ越"
+ },
+ {
+  "jmh_id": "JMH-072125-0049",
+  "name": "羽黒神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-03-28",
+  "municipality": "本宮市",
+  "location": "本宮市関下字羽黒"
+ },
+ {
+  "jmh_id": "JMH-072125-0048",
+  "name": "竹花のカキノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-03-28",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字竹花"
+ },
+ {
+  "jmh_id": "JMH-072125-0003",
+  "name": "高木寺の鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "本宮市",
+  "location": "本宮市高木字舟場"
+ },
+ {
+  "jmh_id": "JMH-072125-0028",
+  "name": "太郎丸観音堂供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字太郎丸"
+ },
+ {
+  "jmh_id": "JMH-072125-0052",
+  "name": "太郎丸観音堂供養塔(2)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字太郎丸"
+ },
+ {
+  "jmh_id": "JMH-072125-0027",
+  "name": "太郎丸供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字太郎丸"
+ },
+ {
+  "jmh_id": "JMH-072125-0032",
+  "name": "日輪寺供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字字山田"
+ },
+ {
+  "jmh_id": "JMH-072125-0040",
+  "name": "舘供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市青田字舘"
+ },
+ {
+  "jmh_id": "JMH-072125-0038",
+  "name": "神宮寺供養塔(1)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市荒井字荒井"
+ },
+ {
+  "jmh_id": "JMH-072125-0039",
+  "name": "神宮寺供養塔(2)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市荒井字荒井"
+ },
+ {
+  "jmh_id": "JMH-072125-0056",
+  "name": "神宮寺供養塔(3)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市荒井字荒井"
+ },
+ {
+  "jmh_id": "JMH-072125-0055",
+  "name": "白山供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市荒井字白山"
+ },
+ {
+  "jmh_id": "JMH-072125-0057",
+  "name": "荒井観音堂供養塔(6)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市荒井字五百川"
+ },
+ {
+  "jmh_id": "JMH-072125-0058",
+  "name": "荒井観音堂供養塔(8)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市荒井字五百川"
+ },
+ {
+  "jmh_id": "JMH-072125-0051",
+  "name": "五百川供養塔A",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字五百川"
+ },
+ {
+  "jmh_id": "JMH-072125-0024",
+  "name": "五百川供養塔B(1)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字五百川"
+ },
+ {
+  "jmh_id": "JMH-072125-0025",
+  "name": "五百川供養塔C(1)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字五百川"
+ },
+ {
+  "jmh_id": "JMH-072125-0036",
+  "name": "申供養塔A",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字申"
+ },
+ {
+  "jmh_id": "JMH-072125-0037",
+  "name": "申供養塔A(4)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字申"
+ },
+ {
+  "jmh_id": "JMH-072125-0053",
+  "name": "申供養塔B(1)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字申"
+ },
+ {
+  "jmh_id": "JMH-072125-0054",
+  "name": "申供養塔C(1)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-12",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字申"
+ },
+ {
+  "jmh_id": "JMH-072125-0022",
+  "name": "不動堂供養塔(1)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字西町"
+ },
+ {
+  "jmh_id": "JMH-072125-0023",
+  "name": "不動堂供養塔(2)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字西町"
+ },
+ {
+  "jmh_id": "JMH-072125-0034",
+  "name": "浮動堂供養塔(3)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字西町"
+ },
+ {
+  "jmh_id": "JMH-072125-0031",
+  "name": "新昌寺供養塔(2)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字東町"
+ },
+ {
+  "jmh_id": "JMH-072125-0035",
+  "name": "田中稲荷供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市仁井田字田中"
+ },
+ {
+  "jmh_id": "JMH-072125-0042",
+  "name": "高木寺供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市高木字舟場"
+ },
+ {
+  "jmh_id": "JMH-072125-0068",
+  "name": "石網供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "本宮市",
+  "location": "本宮市関下字石網"
+ },
+ {
+  "jmh_id": "JMH-072125-0008",
+  "name": "諏訪神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-03-30",
+  "municipality": "本宮市",
+  "location": "長屋字諏訪"
+ },
+ {
+  "jmh_id": "JMH-072125-0004",
+  "name": "八ツ田内七福神舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-03-30",
+  "municipality": "本宮市",
+  "location": "白岩字塩ノ崎"
+ },
+ {
+  "jmh_id": "JMH-072125-0010",
+  "name": "稲沢御田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-05-01",
+  "municipality": "本宮市",
+  "location": "稲沢字団子森"
+ },
+ {
+  "jmh_id": "JMH-072125-0019",
+  "name": "春日神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-10-21",
+  "municipality": "本宮市",
+  "location": "稲沢字春日"
+ },
+ {
+  "jmh_id": "JMH-072125-0044",
+  "name": "鹿島神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-05-01",
+  "municipality": "本宮市",
+  "location": "松沢字宮前"
+ },
+ {
+  "jmh_id": "JMH-072125-0059",
+  "name": "高松神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-12-07",
+  "municipality": "本宮市",
+  "location": "糠沢字高松"
+ }
+]

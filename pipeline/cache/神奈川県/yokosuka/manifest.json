@@ -1,0 +1,18 @@
+{
+  "e3436de9e181ab5a": {
+    "url": "https://www.city.yokosuka.kanagawa.jp/8120/bunkazai/bunkazai5.html",
+    "filename": "e3436de9e181ab5a.html",
+    "sha256": "227c852832b3ef9dbffeeef4d893d327b604ef7666c55879420adae52354a411",
+    "fetched_at": "2026-07-08T03:18:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2e586f39b07f6624": {
+    "url": "https://www.city.yokosuka.kanagawa.jp/8120/bunkazai/documents/r6shiteibunnkazaiitiran.pdf",
+    "filename": "2e586f39b07f6624.pdf",
+    "sha256": "e0700a5ef89638e3b5a9641ba6801333fe9702a31a95b8d88a211dc19db272a5",
+    "fetched_at": "2026-07-08T03:18:28Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

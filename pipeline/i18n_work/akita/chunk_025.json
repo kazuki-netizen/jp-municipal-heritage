@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-052167-0033",
+  "name": "白山桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1963-10-15",
+  "municipality": "仙北市",
+  "location": "田沢湖生保内字阿気"
+ },
+ {
+  "jmh_id": "JMH-052167-0044",
+  "name": "枝垂桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1971-12-22",
+  "municipality": "仙北市",
+  "location": "田沢湖潟字一の渡"
+ },
+ {
+  "jmh_id": "JMH-052167-0092",
+  "name": "イチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "仙北市",
+  "location": "西木町小山田字八津"
+ },
+ {
+  "jmh_id": "JMH-052167-0093",
+  "name": "五葉松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "仙北市",
+  "location": "西木町上桧木内字寺村"
+ },
+ {
+  "jmh_id": "JMH-052167-0095",
+  "name": "杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "仙北市",
+  "location": "西木町桧木内字相内潟"
+ },
+ {
+  "jmh_id": "JMH-052167-0098",
+  "name": "栗",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "仙北市",
+  "location": "西木町小山田字大浦川内"
+ },
+ {
+  "jmh_id": "JMH-052167-0097",
+  "name": "柏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "仙北市",
+  "location": "西木町桧木内字吉田"
+ },
+ {
+  "jmh_id": "JMH-052167-0099",
+  "name": "桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "仙北市",
+  "location": "西木町桧木内字中里"
+ },
+ {
+  "jmh_id": "JMH-052167-0096",
+  "name": "枝垂れ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "仙北市",
+  "location": "西木町桧木内字松葉"
+ },
+ {
+  "jmh_id": "JMH-052167-0104",
+  "name": "公孫樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-07-19",
+  "municipality": "仙北市",
+  "location": "西木町西明寺字宮田"
+ },
+ {
+  "jmh_id": "JMH-052167-0108",
+  "name": "姥杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1986-10-01",
+  "municipality": "仙北市",
+  "location": "角館町古城山"
+ },
+ {
+  "jmh_id": "JMH-052167-0109",
+  "name": "姥桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1986-10-01",
+  "municipality": "仙北市",
+  "location": "角館町古城山"
+ },
+ {
+  "jmh_id": "JMH-052167-0141",
+  "name": "岩橋家のカシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1999-12-06",
+  "municipality": "仙北市",
+  "location": "角館町東勝楽丁"
+ },
+ {
+  "jmh_id": "JMH-055050-0003",
+  "name": "前郷神社本殿（１棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1986-04-01",
+  "municipality": "羽後町",
+  "location": "西馬音内字宮廻62-2"
+ },
+ {
+  "jmh_id": "JMH-055050-0005",
+  "name": "西蔵寺山門（１棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1986-04-01",
+  "municipality": "羽後町",
+  "location": "西馬音内堀回字寺脇5"
+ },
+ {
+  "jmh_id": "JMH-055050-0004",
+  "name": "地蔵院鐘楼門 （１棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1986-04-01",
+  "municipality": "羽後町",
+  "location": "中仙道字小森出25"
+ },
+ {
+  "jmh_id": "JMH-055050-0002",
+  "name": "三輪神社鐘楼（１棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1986-04-01",
+  "municipality": "羽後町",
+  "location": "杉宮字宮林1"
+ },
+ {
+  "jmh_id": "JMH-055050-0006",
+  "name": "三輪神社境内社 八幡神社本殿（１棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1991-12-19",
+  "municipality": "羽後町",
+  "location": "杉宮字宮林1"
+ },
+ {
+  "jmh_id": "JMH-055050-0007",
+  "name": "久昌寺二王門二王蔵（２躯） 附久昌寺二王門（１棟）",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "町指定",
+  "designated_date": "1991-12-19",
+  "municipality": "羽後町",
+  "location": "杉宮字宿99"
+ },
+ {
+  "jmh_id": "JMH-055050-0008",
+  "name": "木造五大尊（５躯）",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "町指定",
+  "designated_date": "1991-12-19",
+  "municipality": "羽後町",
+  "location": "杉宮字宿99"
+ },
+ {
+  "jmh_id": "JMH-055050-0009",
+  "name": "木造蔵王権現立像（１躯）",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "町指定",
+  "designated_date": "1991-12-19",
+  "municipality": "羽後町",
+  "location": "西馬音内字宮廻62"
+ },
+ {
+  "jmh_id": "JMH-055050-0016",
+  "name": "金銅造千手観音、阿弥陀如来、 薬師如来立像（３躯）",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "町指定",
+  "designated_date": "1993-01-14",
+  "municipality": "羽後町",
+  "location": "田沢字僧ヶ沢113"
+ },
+ {
+  "jmh_id": "JMH-055050-0018",
+  "name": "木造蔵王権現立像（１躯）",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "町指定",
+  "designated_date": "1998-02-25",
+  "municipality": "羽後町",
+  "location": "杉宮字宮林1"
+ },
+ {
+  "jmh_id": "JMH-055050-0027",
+  "name": "釈迦牟尼仏坐像（１躯）",
+  "category": "有形文化財",
+  "subcategory": "彫 刻",
+  "designation": "町指定",
+  "designated_date": "2002-08-02",
+  "municipality": "羽後町",
+  "location": "床舞字門前141"
+ },
+ {
+  "jmh_id": "JMH-055050-0017",
+  "name": "太刀無銘勢田丸（１口）",
+  "category": "有形文化財",
+  "subcategory": "工 芸",
+  "designation": "町指定",
+  "designated_date": "1998-02-25",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0020",
+  "name": "短刀無銘鎧通小合口（１口）",
+  "category": "有形文化財",
+  "subcategory": "工 芸",
+  "designation": "町指定",
+  "designated_date": "1998-02-25",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0022",
+  "name": "刀銘 果（１口）",
+  "category": "有形文化財",
+  "subcategory": "工 芸",
+  "designation": "町指定",
+  "designated_date": "2000-04-20",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0021",
+  "name": "絹本着色五大尊像（１幅）",
+  "category": "有形文化財",
+  "subcategory": "絵 画",
+  "designation": "町指定",
+  "designated_date": "1998-02-25",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0029",
+  "name": "絹本着色風天図（１幅）",
+  "category": "有形文化財",
+  "subcategory": "絵 画",
+  "designation": "町指定",
+  "designated_date": "2014-03-05",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0028",
+  "name": "絹本着色梵天図（１幅）",
+  "category": "有形文化財",
+  "subcategory": "絵 画",
+  "designation": "町指定",
+  "designated_date": "2014-03-05",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0014",
+  "name": "柏原古墳群出土遺物（一括）",
+  "category": "有形文化財",
+  "subcategory": "考 古 資 料",
+  "designation": "町指定",
+  "designated_date": "1993-01-14",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0012",
+  "name": "城神巡り遺跡出土墨書土器 （一括）",
+  "category": "有形文化財",
+  "subcategory": "考 古 資 料",
+  "designation": "町指定",
+  "designated_date": "1993-01-14",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0011",
+  "name": "元徳二年銘名号碑断片（１基）",
+  "category": "有形文化財",
+  "subcategory": "考 古 資 料",
+  "designation": "町指定",
+  "designated_date": "1993-01-14",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0015",
+  "name": "珠洲系陶器壷（１個）",
+  "category": "有形文化財",
+  "subcategory": "考 古 資 料",
+  "designation": "町指定",
+  "designated_date": "1993-01-14",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0013",
+  "name": "御嶽神社棟札（１枚）",
+  "category": "有形文化財",
+  "subcategory": "歴 史 資 料",
+  "designation": "町指定",
+  "designated_date": "1993-01-14",
+  "municipality": "羽後町",
+  "location": "西馬音内字宮廻62"
+ },
+ {
+  "jmh_id": "JMH-055050-0019",
+  "name": "槍（３口）",
+  "category": "有形文化財",
+  "subcategory": "歴 史 資 料",
+  "designation": "町指定",
+  "designated_date": "1998-02-25",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0031",
+  "name": "青い目の人形（２点）",
+  "category": "有形文化財",
+  "subcategory": "歴 史 資 料",
+  "designation": "町指定",
+  "designated_date": "2026-02-20",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-055050-0023",
+  "name": "元城獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗 文化財",
+  "designation": "町指定",
+  "designated_date": "2002-06-26",
+  "municipality": "羽後町",
+  "location": "西馬音内堀回字元城"
+ },
+ {
+  "jmh_id": "JMH-055050-0001",
+  "name": "西馬音内口番所址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "町指定",
+  "designated_date": "1975-09-01",
+  "municipality": "羽後町",
+  "location": "西馬音内堀回字梺44"
+ },
+ {
+  "jmh_id": "JMH-055050-0010",
+  "name": "七高山奥院",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "町指定",
+  "designated_date": "1993-01-14",
+  "municipality": "羽後町",
+  "location": "払体字白藤11-3"
+ }
+]

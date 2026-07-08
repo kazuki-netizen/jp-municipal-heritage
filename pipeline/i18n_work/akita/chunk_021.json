@@ -1,0 +1,379 @@
+[
+ {
+  "jmh_id": "JMH-052060-0042",
+  "name": "誓の御柱",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2014-03-20",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市脇本脇本富永字寒風山62-1"
+ },
+ {
+  "jmh_id": "JMH-052060-0045",
+  "name": "男鹿半島新報",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2019-03-19",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市船川港船川字泉台66-1"
+ },
+ {
+  "jmh_id": "JMH-052060-0026",
+  "name": "琴川のすげ笠",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2001-02-22",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市五里合琴川"
+ },
+ {
+  "jmh_id": "JMH-052060-0008",
+  "name": "丸木舟",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-01-27",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市北浦真山字水喰沢97"
+ },
+ {
+  "jmh_id": "JMH-052060-0018",
+  "name": "真山神社の御神輿",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1997-04-11",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市北浦真山字水喰沢97"
+ },
+ {
+  "jmh_id": "JMH-052060-0030",
+  "name": "魚類供養塚 八龍神信仰碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-14",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市船越字八郎谷地2-1"
+ },
+ {
+  "jmh_id": "JMH-052060-0034",
+  "name": "八龍神社・張切紀念碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2007-03-01",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市払戸字小深見102"
+ },
+ {
+  "jmh_id": "JMH-052060-0046",
+  "name": "杉下八幡神社の木造獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2023-07-24",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市男鹿中滝川"
+ },
+ {
+  "jmh_id": "JMH-052060-0010",
+  "name": "北浦の鹿島祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-04-13",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市北浦北浦"
+ },
+ {
+  "jmh_id": "JMH-052060-0016",
+  "name": "脇本の山ドンド",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-03-29",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市脇本脇本"
+ },
+ {
+  "jmh_id": "JMH-052060-0041",
+  "name": "女川の菖蒲たたき行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2011-03-25",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市船川港女川"
+ },
+ {
+  "jmh_id": "JMH-052060-0005",
+  "name": "渡部家正門・村法碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-07-17",
+  "municipality": "男鹿市"
+ },
+ {
+  "jmh_id": "JMH-052060-0009",
+  "name": "赤神神社五社堂境内地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-01-27",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市船川港本山門前字祓川35"
+ },
+ {
+  "jmh_id": "JMH-052060-0012",
+  "name": "双六のウミネコ繁殖地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-02-23",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市船川港双六"
+ },
+ {
+  "jmh_id": "JMH-052060-0017",
+  "name": "天神様の細葉の椿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-04-11",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市脇本脇本字七沢35"
+ },
+ {
+  "jmh_id": "JMH-052060-0023",
+  "name": "中山神社の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-02-25",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市脇本樽沢字立石116"
+ },
+ {
+  "jmh_id": "JMH-052060-0028",
+  "name": "北浦瑞光寺の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-03-24",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市北浦北浦字杉原53"
+ },
+ {
+  "jmh_id": "JMH-052060-0043",
+  "name": "八英の梅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2016-03-15",
+  "municipality": "男鹿市",
+  "location": "秋田県男鹿市脇本富永字梅ノ沢55-3"
+ },
+ {
+  "jmh_id": "JMH-052167-0056",
+  "name": "金峰神社拝殿、仁王像、力持像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1977-07-31",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0110",
+  "name": "安藤家煉瓦造蔵座敷",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1986-10-01",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0107",
+  "name": "七面堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1986-10-01",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0140",
+  "name": "戸沢家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1999-03-15",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0155",
+  "name": "金峰神社 仁王門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2014-12-26",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0012",
+  "name": "十六羅漢画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0016",
+  "name": "弘法大師自画自讃",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0025",
+  "name": "長山孔寅筆大黒恵比寿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0032",
+  "name": "楠木父子桜井駅訣別の図額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1963-10-15",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0043",
+  "name": "紙本着色あらし山桜花の襖絵",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1968-02-06",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0047",
+  "name": "秋田蘭画",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1972-04-01",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0084",
+  "name": "花下美人図絵額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0073",
+  "name": "大威徳明王像絵額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0076",
+  "name": "岩に葵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0089",
+  "name": "郭子儀",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0075",
+  "name": "岩に百合図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0081",
+  "name": "桑摘み",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0083",
+  "name": "海靏蟠桃の図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0085",
+  "name": "花鳥（鶏・双鳩・鹿）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0077",
+  "name": "岩瀬風景図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0072",
+  "name": "墨竹",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ },
+ {
+  "jmh_id": "JMH-052167-0086",
+  "name": "西王母",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1981-03-24",
+  "municipality": "仙北市"
+ }
+]

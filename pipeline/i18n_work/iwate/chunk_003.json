@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032018-0014",
+  "name": "根田茂高舘剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1971-04-06",
+  "municipality": "盛岡市",
+  "location": "盛岡市根田茂"
+ },
+ {
+  "jmh_id": "JMH-032018-0012",
+  "name": "上鹿妻田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1971-04-06",
+  "municipality": "盛岡市",
+  "location": "盛岡市上鹿妻"
+ },
+ {
+  "jmh_id": "JMH-032018-0044",
+  "name": "宮崎神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市西見前"
+ },
+ {
+  "jmh_id": "JMH-032018-0049",
+  "name": "羽場山伏神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市羽場"
+ },
+ {
+  "jmh_id": "JMH-032018-0043",
+  "name": "大ヶ生山伏神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市大ヶ生"
+ },
+ {
+  "jmh_id": "JMH-032018-0052",
+  "name": "高舘剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市大ヶ生"
+ },
+ {
+  "jmh_id": "JMH-032018-0045",
+  "name": "手代森念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市手代森"
+ },
+ {
+  "jmh_id": "JMH-032018-0051",
+  "name": "高江柄念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市大ヶ生"
+ },
+ {
+  "jmh_id": "JMH-032018-0048",
+  "name": "羽場さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市羽場"
+ },
+ {
+  "jmh_id": "JMH-032018-0042",
+  "name": "城内さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市大ヶ生"
+ },
+ {
+  "jmh_id": "JMH-032018-0050",
+  "name": "見前町田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市西見前"
+ },
+ {
+  "jmh_id": "JMH-032018-0041",
+  "name": "内村田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市下飯岡"
+ },
+ {
+  "jmh_id": "JMH-032018-0053",
+  "name": "黒川田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市黒川"
+ },
+ {
+  "jmh_id": "JMH-032018-0046",
+  "name": "法領田獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市乙部"
+ },
+ {
+  "jmh_id": "JMH-032018-0047",
+  "name": "澤目獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "盛岡市",
+  "location": "盛岡市手代森"
+ },
+ {
+  "jmh_id": "JMH-032018-0078",
+  "name": "下永井獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1984-01-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市永井"
+ },
+ {
+  "jmh_id": "JMH-032018-0079",
+  "name": "都南太鼓",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1984-01-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市三本柳"
+ },
+ {
+  "jmh_id": "JMH-032018-0080",
+  "name": "八ツ口神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1984-04-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市上太田八ツ口"
+ },
+ {
+  "jmh_id": "JMH-032018-0086",
+  "name": "砂子沢高舘剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市砂子沢"
+ },
+ {
+  "jmh_id": "JMH-032018-0083",
+  "name": "上砂子沢鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市砂子沢"
+ },
+ {
+  "jmh_id": "JMH-032018-0087",
+  "name": "上飯岡念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1987-05-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市上飯岡"
+ },
+ {
+  "jmh_id": "JMH-032018-0088",
+  "name": "下久根さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1987-05-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市下飯岡"
+ },
+ {
+  "jmh_id": "JMH-032018-0113",
+  "name": "乙部さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1989-08-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市乙部"
+ },
+ {
+  "jmh_id": "JMH-032018-0118",
+  "name": "玉山神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1990-06-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市玉山字城内"
+ },
+ {
+  "jmh_id": "JMH-032018-0117",
+  "name": "日戸神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1990-06-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市日戸字姥懐"
+ },
+ {
+  "jmh_id": "JMH-032018-0119",
+  "name": "盛岡さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1991-04-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市内一円"
+ },
+ {
+  "jmh_id": "JMH-032018-0149",
+  "name": "桑畑七ツ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1997-04-23",
+  "municipality": "盛岡市",
+  "location": "盛岡市巻堀字上桑畑"
+ },
+ {
+  "jmh_id": "JMH-032018-0148",
+  "name": "外山駒踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1997-04-23",
+  "municipality": "盛岡市",
+  "location": "盛岡市薮川字外山"
+ },
+ {
+  "jmh_id": "JMH-032018-0172",
+  "name": "藪川神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-07-04",
+  "municipality": "盛岡市",
+  "location": "盛岡市薮川字外山"
+ },
+ {
+  "jmh_id": "JMH-032018-0169",
+  "name": "巻堀神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-07-04",
+  "municipality": "盛岡市",
+  "location": "盛岡市巻堀字巻堀"
+ },
+ {
+  "jmh_id": "JMH-032018-0170",
+  "name": "松内神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-07-04",
+  "municipality": "盛岡市",
+  "location": "盛岡市松内字松内"
+ },
+ {
+  "jmh_id": "JMH-032018-0168",
+  "name": "下田田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-07-04",
+  "municipality": "盛岡市",
+  "location": "盛岡市下田字下田"
+ },
+ {
+  "jmh_id": "JMH-032018-0173",
+  "name": "釘ノ平念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-07-04",
+  "municipality": "盛岡市",
+  "location": "盛岡市川又字釘ノ平"
+ },
+ {
+  "jmh_id": "JMH-032018-0171",
+  "name": "澤目さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-07-04",
+  "municipality": "盛岡市",
+  "location": "盛岡市渋民字岩の沢"
+ },
+ {
+  "jmh_id": "JMH-032018-0181",
+  "name": "外山節",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2021-03-29",
+  "municipality": "盛岡市",
+  "location": "盛岡市玉山地域"
+ },
+ {
+  "jmh_id": "JMH-032018-0090",
+  "name": "盛岡八幡宮流鏑馬神事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1988-07-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市八幡町13-1"
+ },
+ {
+  "jmh_id": "JMH-032018-0150",
+  "name": "盛岡の舟っこ流し",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1997-06-20",
+  "municipality": "盛岡市",
+  "location": "夕顔瀬橋および明治橋の上下地点"
+ },
+ {
+  "jmh_id": "JMH-032018-0007",
+  "name": "舟橋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-10-18",
+  "municipality": "盛岡市",
+  "location": "盛岡市南大通三丁目"
+ },
+ {
+  "jmh_id": "JMH-032018-0029",
+  "name": "玉山館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-16",
+  "municipality": "盛岡市",
+  "location": "盛岡市玉山字舘"
+ },
+ {
+  "jmh_id": "JMH-032018-0028",
+  "name": "一字一石一礼供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-02-16",
+  "municipality": "盛岡市",
+  "location": "盛岡市寺林字梨木平"
+ }
+]

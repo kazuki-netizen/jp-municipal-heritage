@@ -1,0 +1,18 @@
+{
+  "d2fe63c0ff97a5f5": {
+    "url": "https://www.city.kamakura.kanagawa.jp/treasury/shiteibunkazai-kensu-list.html",
+    "filename": "d2fe63c0ff97a5f5.html",
+    "sha256": "ff03d25acc957fae4bbcd9ec8c58cd0c7ea4d29c37d4c71eca4d8a65cc7f3b2e",
+    "fetched_at": "2026-07-08T03:18:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "57071c84bec38958": {
+    "url": "https://www.city.kamakura.kanagawa.jp/treasury/documents/shiteibunkazai20260213.pdf",
+    "filename": "57071c84bec38958.pdf",
+    "sha256": "8e153d158feb2bb5c4c6cf66fde7b783a304bd673adb326926d9d16aafd50144",
+    "fetched_at": "2026-07-08T03:18:30Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

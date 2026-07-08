@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092037-0140",
+  "name": "八坂神社の神輿",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1995-06-30",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田(大平歴史民俗資料館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0046",
+  "name": "万葉歌碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町大田和"
+ },
+ {
+  "jmh_id": "JMH-092037-0159",
+  "name": "愛染明王塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-10-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町藤岡"
+ },
+ {
+  "jmh_id": "JMH-092037-0162",
+  "name": "旧延命院所蔵釣鐘",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町藤岡(藤岡歴史民俗資料館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0175",
+  "name": "力石",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町部屋"
+ },
+ {
+  "jmh_id": "JMH-092037-0164",
+  "name": "徳川秀忠黒印状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-09-11",
+  "municipality": "栃木市",
+  "location": "宇都宮市塙田(栃木県立文書館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0165",
+  "name": "藤田信吉知行宛行状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-09-11",
+  "municipality": "栃木市",
+  "location": "宇都宮市塙田(栃木県立文書館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0167",
+  "name": "西方綱吉官途状（渡辺四郎兵衛あて）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-09-11",
+  "municipality": "栃木市",
+  "location": "宇都宮市塙田(栃木県立文書館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0166",
+  "name": "西方綱吉官途状（中新井主水丞あて）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-09-11",
+  "municipality": "栃木市",
+  "location": "宇都宮市塙田(栃木県立文書館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0183",
+  "name": "宇都宮国綱書状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2009-02-11",
+  "municipality": "栃木市",
+  "location": "宇都宮市塙田(栃木県立文書館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0182",
+  "name": "孝山（小山秀綱）書状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2009-02-11",
+  "municipality": "栃木市",
+  "location": "栃木市西方町真名子"
+ },
+ {
+  "jmh_id": "JMH-092037-0192",
+  "name": "徳川斉昭筆袋戸書（二面対）箱書付附「水戸公親題瓊章」（坂倉重平家文書Ｎｏ.2890）４点",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-12-27",
+  "municipality": "栃木市",
+  "location": "栃木市万町"
+ },
+ {
+  "jmh_id": "JMH-092037-0155",
+  "name": "大町の山車（弁慶）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-01-22",
+  "municipality": "栃木市",
+  "location": "栃木市大町"
+ },
+ {
+  "jmh_id": "JMH-092037-0156",
+  "name": "泉町の山車（諫鼓鶏）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-01-22",
+  "municipality": "栃木市",
+  "location": "栃木市泉町"
+ },
+ {
+  "jmh_id": "JMH-092037-0154",
+  "name": "倭町一丁目の獅子頭一対附尾一対",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-01-22",
+  "municipality": "栃木市",
+  "location": "栃木市万町(とちぎ山車会館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0157",
+  "name": "嘉右衛門町の山車（仁徳天皇）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-05-24",
+  "municipality": "栃木市",
+  "location": "栃木市嘉右衛門町"
+ },
+ {
+  "jmh_id": "JMH-092037-0123",
+  "name": "柿本人麻呂の碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-09-20",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田(大平歴史民俗資料館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0160",
+  "name": "馬頭観世音菩薩坐像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2002-02-22",
+  "municipality": "栃木市",
+  "location": "栃木市大平町下高島"
+ },
+ {
+  "jmh_id": "JMH-092037-0184",
+  "name": "露真坊碑・祈雨謝恩塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2009-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町太田"
+ },
+ {
+  "jmh_id": "JMH-092037-0104",
+  "name": "上新田文挟流獅子舞の用具式",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-01-11",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町家中"
+ },
+ {
+  "jmh_id": "JMH-092037-0176",
+  "name": "升塚文挟小流獅子舞の用具式",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-05-03",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町升塚"
+ },
+ {
+  "jmh_id": "JMH-092037-0194",
+  "name": "神明神社の神輿及び祭礼用具一括 附 用具収納箱５合、古文書16点、棟札２枚、担ぎ棒３本",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2019-03-08",
+  "municipality": "栃木市",
+  "location": "栃木市嘉右衛門町"
+ },
+ {
+  "jmh_id": "JMH-092037-0012",
+  "name": "大宮神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市大宮町"
+ },
+ {
+  "jmh_id": "JMH-092037-0026",
+  "name": "大神神社の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1964-05-19",
+  "municipality": "栃木市",
+  "location": "栃木市惣社町"
+ },
+ {
+  "jmh_id": "JMH-092037-0027",
+  "name": "大神神社の鉾祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1964-05-19",
+  "municipality": "栃木市",
+  "location": "栃木市惣社町"
+ },
+ {
+  "jmh_id": "JMH-092037-0069",
+  "name": "百八灯流し",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市湊町"
+ },
+ {
+  "jmh_id": "JMH-092037-0112",
+  "name": "宮野辺神社の祭儀習俗",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-03-30",
+  "municipality": "栃木市",
+  "location": "栃木市田村町"
+ },
+ {
+  "jmh_id": "JMH-092037-0099",
+  "name": "富田節",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-10-23",
+  "municipality": "栃木市",
+  "location": "栃木市大平町富田"
+ },
+ {
+  "jmh_id": "JMH-092037-0101",
+  "name": "横堀の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-10-23",
+  "municipality": "栃木市",
+  "location": "栃木市大平町横堀"
+ },
+ {
+  "jmh_id": "JMH-092037-0100",
+  "name": "新の神田五段囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-10-23",
+  "municipality": "栃木市",
+  "location": "栃木市大平町新"
+ },
+ {
+  "jmh_id": "JMH-092037-0045",
+  "name": "関白流獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-15",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町木"
+ },
+ {
+  "jmh_id": "JMH-092037-0061",
+  "name": "升塚文挟小流獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-10-01",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町升塚"
+ },
+ {
+  "jmh_id": "JMH-092037-0106",
+  "name": "上新田文挟流獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-10-15",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町家中"
+ },
+ {
+  "jmh_id": "JMH-092037-0126",
+  "name": "依田流鷲宮太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-05-17",
+  "municipality": "栃木市",
+  "location": "栃木市都賀町家中"
+ },
+ {
+  "jmh_id": "JMH-092037-0168",
+  "name": "大沢田太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-09-10",
+  "municipality": "栃木市",
+  "location": "栃木市西方町本城"
+ },
+ {
+  "jmh_id": "JMH-092037-0006",
+  "name": "しめじが原",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市川原田町"
+ },
+ {
+  "jmh_id": "JMH-092037-0020",
+  "name": "皆川家歴代祖廟",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市皆川城内町"
+ },
+ {
+  "jmh_id": "JMH-092037-0016",
+  "name": "岩出の古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市岩出町"
+ },
+ {
+  "jmh_id": "JMH-092037-0022",
+  "name": "薗部愛宕下古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市薗部町"
+ },
+ {
+  "jmh_id": "JMH-092037-0025",
+  "name": "小山芳姫の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-04-26",
+  "municipality": "栃木市",
+  "location": "栃木市星野町寒沢"
+ }
+]

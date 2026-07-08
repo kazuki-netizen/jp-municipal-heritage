@@ -1,0 +1,392 @@
+[
+ {
+  "jmh_id": "JMH-074411-0023",
+  "name": "高乾院所蔵文書",
+  "category": "有形文化財",
+  "subcategory": "町指定 典籍",
+  "designation": "町指定",
+  "designated_date": "1983-09-20",
+  "municipality": "三春町",
+  "location": "高乾院"
+ },
+ {
+  "jmh_id": "JMH-074411-0029",
+  "name": "大祥院文書二通",
+  "category": "有形文化財",
+  "subcategory": "町指定 古文書",
+  "designation": "町指定",
+  "designated_date": "1989-11-01",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0030",
+  "name": "平沢文書二通",
+  "category": "有形文化財",
+  "subcategory": "町指定 古文書",
+  "designation": "町指定",
+  "designated_date": "1989-11-01",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0031",
+  "name": "木目沢文書一通",
+  "category": "有形文化財",
+  "subcategory": "町指定 古文書",
+  "designation": "町指定",
+  "designated_date": "1989-11-01",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0060",
+  "name": "申上御訴訟之事（雪村庵関係文書）",
+  "category": "有形文化財",
+  "subcategory": "町指定 古文書",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "三春町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-074411-0062",
+  "name": "秋田実季軍陣掟之條々",
+  "category": "有形文化財",
+  "subcategory": "町指定 古文書",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "三春町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-074411-0034",
+  "name": "西方前遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "町指定 考古資料",
+  "designation": "町指定",
+  "designated_date": "1989-11-01",
+  "municipality": "三春町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-074411-0041",
+  "name": "四種護摩口伝写",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "真照寺"
+ },
+ {
+  "jmh_id": "JMH-074411-0042",
+  "name": "大師御口決",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "真照寺"
+ },
+ {
+  "jmh_id": "JMH-074411-0048",
+  "name": "瑜祇経口伝",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "真照寺"
+ },
+ {
+  "jmh_id": "JMH-074411-0037",
+  "name": "三宝院伝法灌頂私記写",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "真照寺"
+ },
+ {
+  "jmh_id": "JMH-074411-0049",
+  "name": "福聚寺所蔵印證",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "福聚寺"
+ },
+ {
+  "jmh_id": "JMH-074411-0052",
+  "name": "高乾院所蔵印證",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "高乾院"
+ },
+ {
+  "jmh_id": "JMH-074411-0046",
+  "name": "湊福寺史料八通",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "高乾院"
+ },
+ {
+  "jmh_id": "JMH-074411-0043",
+  "name": "安居闔衆名簿",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "高乾院"
+ },
+ {
+  "jmh_id": "JMH-074411-0038",
+  "name": "光格天皇御宸翰",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "高乾院"
+ },
+ {
+  "jmh_id": "JMH-074411-0051",
+  "name": "高乾院寺法",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-01-05",
+  "municipality": "三春町",
+  "location": "高乾院"
+ },
+ {
+  "jmh_id": "JMH-074411-0015",
+  "name": "向田板石供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1981-12-22",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0014",
+  "name": "上舞木板石供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1981-12-22",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0019",
+  "name": "滝板石供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1981-12-22",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0017",
+  "name": "戸ノ内浮彫板石供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1981-12-22",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0021",
+  "name": "町田板石供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1981-12-22",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0028",
+  "name": "並松坂供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1989-11-01",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0054",
+  "name": "三春城起こし絵図",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1998-05-11",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0055",
+  "name": "宝永四年三春城下絵図",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1998-05-11",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0059",
+  "name": "松下時代三春城下絵図",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0061",
+  "name": "秋田一季氏寄贈一括資料",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "三春町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-074411-0057",
+  "name": "三春城鯱瓦",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "三春町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-074411-0056",
+  "name": "三春城鬼瓦",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "三春町",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-074411-0065",
+  "name": "ブリタニカ百科事典",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "2002-04-24",
+  "municipality": "三春町",
+  "location": "三春小学校"
+ },
+ {
+  "jmh_id": "JMH-074411-0066",
+  "name": "龍穏院の姫駕籠",
+  "category": "有形文化財",
+  "subcategory": "町指定 歴史資料",
+  "designation": "町指定",
+  "designated_date": "2002-04-24",
+  "municipality": "三春町",
+  "location": "龍穏院"
+ },
+ {
+  "jmh_id": "JMH-074411-0097",
+  "name": "西方の水かけ祭り",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "西方字仲ノ内"
+ },
+ {
+  "jmh_id": "JMH-074411-0086",
+  "name": "斎藤の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "斎藤字戸ノ内"
+ },
+ {
+  "jmh_id": "JMH-074411-0079",
+  "name": "垢潜の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "富沢字一之沢"
+ },
+ {
+  "jmh_id": "JMH-074411-0083",
+  "name": "富沢太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "富沢字平生田"
+ },
+ {
+  "jmh_id": "JMH-074411-0072",
+  "name": "伝統三春盆踊り",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町"
+ },
+ {
+  "jmh_id": "JMH-074411-0089",
+  "name": "田村大元神社の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "字山中"
+ },
+ {
+  "jmh_id": "JMH-074411-0099",
+  "name": "高木神社の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "実沢字大畑"
+ },
+ {
+  "jmh_id": "JMH-074411-0074",
+  "name": "八幡神社の長獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "字雁木田"
+ },
+ {
+  "jmh_id": "JMH-074411-0090",
+  "name": "田村大元神社の長獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "町指定 無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "三春町",
+  "location": "字山中"
+ }
+]

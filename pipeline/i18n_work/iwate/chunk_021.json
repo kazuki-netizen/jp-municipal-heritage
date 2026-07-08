@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032042-0110",
+  "name": "大瀬川神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1991-02-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町大瀬川"
+ },
+ {
+  "jmh_id": "JMH-032042-0118",
+  "name": "弘渕神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1993-03-02",
+  "municipality": "花巻市",
+  "location": "石鳥谷町江曽"
+ },
+ {
+  "jmh_id": "JMH-032042-0117",
+  "name": "千刈田神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1993-03-02",
+  "municipality": "花巻市",
+  "location": "石鳥谷町新堀"
+ },
+ {
+  "jmh_id": "JMH-032042-0122",
+  "name": "春日流八日市鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1994-03-03",
+  "municipality": "花巻市",
+  "location": "石鳥谷町富沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0151",
+  "name": "五大堂神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1997-03-27",
+  "municipality": "花巻市",
+  "location": "石鳥谷町五大堂"
+ },
+ {
+  "jmh_id": "JMH-032042-0215",
+  "name": "八幡獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町八幡"
+ },
+ {
+  "jmh_id": "JMH-032042-0009",
+  "name": "早池峰大償流晴山神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1960-02-01",
+  "municipality": "花巻市",
+  "location": "東和町東晴山"
+ },
+ {
+  "jmh_id": "JMH-032042-0035",
+  "name": "金津流丹内獅子躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1965-08-27",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ },
+ {
+  "jmh_id": "JMH-032042-0033",
+  "name": "早池峰大償流倉沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1965-08-27",
+  "municipality": "花巻市",
+  "location": "東和町倉沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0032",
+  "name": "丹内山神社社風流神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1965-08-27",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ },
+ {
+  "jmh_id": "JMH-032042-0034",
+  "name": "立石百姓踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1965-08-27",
+  "municipality": "花巻市",
+  "location": "東和町舘迫"
+ },
+ {
+  "jmh_id": "JMH-032042-0037",
+  "name": "秋葉太神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1967-03-29",
+  "municipality": "花巻市",
+  "location": "東和町北川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0043",
+  "name": "早池峰岳流中内神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町中内"
+ },
+ {
+  "jmh_id": "JMH-032042-0040",
+  "name": "丹内山神社 雅楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ },
+ {
+  "jmh_id": "JMH-032042-0052",
+  "name": "東半月流 野金山かながら獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1974-12-25",
+  "municipality": "花巻市",
+  "location": "東和町田瀬"
+ },
+ {
+  "jmh_id": "JMH-032042-0066",
+  "name": "社風流砂子神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1977-06-16",
+  "municipality": "花巻市",
+  "location": "東和町砂子"
+ },
+ {
+  "jmh_id": "JMH-032042-0065",
+  "name": "社風流沼の沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1977-06-16",
+  "municipality": "花巻市",
+  "location": "東和町田瀬"
+ },
+ {
+  "jmh_id": "JMH-032042-0064",
+  "name": "早池峰岳流白土神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1977-06-16",
+  "municipality": "花巻市",
+  "location": "東和町田瀬"
+ },
+ {
+  "jmh_id": "JMH-032042-0094",
+  "name": "倉沢サンサ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1985-05-31",
+  "municipality": "花巻市",
+  "location": "東和町倉沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0088",
+  "name": "中野一里塚1対",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-27",
+  "municipality": "花巻市",
+  "location": "高松"
+ },
+ {
+  "jmh_id": "JMH-032042-0098",
+  "name": "花巻城本丸跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-09-01",
+  "municipality": "花巻市",
+  "location": "城内"
+ },
+ {
+  "jmh_id": "JMH-032042-0111",
+  "name": "熊堂古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1991-05-24",
+  "municipality": "花巻市",
+  "location": "上根子"
+ },
+ {
+  "jmh_id": "JMH-032042-0222",
+  "name": "是信房関係史跡（一つ柏、盲清水、上人塚）3か所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-12-27",
+  "municipality": "花巻市",
+  "location": "中笹間栃内"
+ },
+ {
+  "jmh_id": "JMH-032042-0182",
+  "name": "アバクチ洞穴遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2001-07-25",
+  "municipality": "花巻市",
+  "location": "大迫町外川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0184",
+  "name": "風穴洞穴遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2001-07-25",
+  "municipality": "花巻市",
+  "location": "大迫町外川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0057",
+  "name": "新堀城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-02-03",
+  "municipality": "花巻市",
+  "location": "石鳥谷町新堀"
+ },
+ {
+  "jmh_id": "JMH-032042-0003",
+  "name": "土沢城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1957-03-31",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0036",
+  "name": "田屋ヶ井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-05-23",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0120",
+  "name": "毒沢城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-04-15",
+  "municipality": "花巻市",
+  "location": "東和町毒沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0119",
+  "name": "倉沢城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-04-15",
+  "municipality": "花巻市",
+  "location": "東和町下浮田"
+ },
+ {
+  "jmh_id": "JMH-032042-0157",
+  "name": "押蕪墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-03-05",
+  "municipality": "花巻市",
+  "location": "東和町安俵"
+ },
+ {
+  "jmh_id": "JMH-032042-0204",
+  "name": "丹内山神社 付属建物及び境内",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-06-16",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ },
+ {
+  "jmh_id": "JMH-032042-0179",
+  "name": "胡四王山のヒメギフチョウ群棲地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2001-03-21",
+  "municipality": "花巻市",
+  "location": "矢沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0050",
+  "name": "千本カツラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-11",
+  "municipality": "花巻市",
+  "location": "仲町"
+ },
+ {
+  "jmh_id": "JMH-032042-0051",
+  "name": "梅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-11",
+  "municipality": "花巻市",
+  "location": "膝立"
+ },
+ {
+  "jmh_id": "JMH-032042-0153",
+  "name": "奥州街道 名残りの松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-11-18",
+  "municipality": "花巻市",
+  "location": "外台地内"
+ },
+ {
+  "jmh_id": "JMH-032042-0154",
+  "name": "子安地蔵尊かつら",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-11-18",
+  "municipality": "花巻市",
+  "location": "上根子"
+ },
+ {
+  "jmh_id": "JMH-032042-0155",
+  "name": "廣隆寺の大いちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-11-18",
+  "municipality": "花巻市",
+  "location": "四日町"
+ },
+ {
+  "jmh_id": "JMH-032042-0166",
+  "name": "三川長根の種蒔き桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-04-18",
+  "municipality": "花巻市",
+  "location": "高松"
+ },
+ {
+  "jmh_id": "JMH-032042-0167",
+  "name": "北湯口八坂神社境内の樹木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-04-18",
+  "municipality": "花巻市",
+  "location": "北湯口"
+ }
+]

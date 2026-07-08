@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072087-0111",
+  "name": "大平の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-06-28",
+  "municipality": "二本松市",
+  "location": "矢ノ戸419"
+ },
+ {
+  "jmh_id": "JMH-072087-0112",
+  "name": "木幡津島神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "二本松市",
+  "location": "木幡字道之作425"
+ },
+ {
+  "jmh_id": "JMH-072087-0037",
+  "name": "竹田・根崎用水路跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "竹田1-90"
+ },
+ {
+  "jmh_id": "JMH-072087-0062",
+  "name": "落合の万葉歌碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1989-02-01",
+  "municipality": "二本松市",
+  "location": "落合2"
+ },
+ {
+  "jmh_id": "JMH-072087-0060",
+  "name": "亀谷観音堂の芭蕉句碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1989-02-01",
+  "municipality": "二本松市",
+  "location": "亀谷1-159-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0061",
+  "name": "姫小松の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1989-02-01",
+  "municipality": "二本松市",
+  "location": "姫小松147"
+ },
+ {
+  "jmh_id": "JMH-072087-0074",
+  "name": "雲堂和尚梵字石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-08-07",
+  "municipality": "二本松市",
+  "location": "下長折字移川360"
+ },
+ {
+  "jmh_id": "JMH-072087-0083",
+  "name": "磨崖供養塔（夫婦岩）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2001-03-06",
+  "municipality": "二本松市",
+  "location": "西新殿字宮ノ下409"
+ },
+ {
+  "jmh_id": "JMH-072087-0098",
+  "name": "橋供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "二本松市",
+  "location": "戸沢字不川田24-2"
+ },
+ {
+  "jmh_id": "JMH-072087-0099",
+  "name": "正木善右衛門供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "二本松市",
+  "location": "太田字五福田48-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0119",
+  "name": "二本松藩主丹羽家墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2015-07-01",
+  "municipality": "二本松市",
+  "location": "成田町1-518"
+ },
+ {
+  "jmh_id": "JMH-072087-0122",
+  "name": "加藤明利墓所 附 加藤明利位牌",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2023-07-03",
+  "municipality": "二本松市",
+  "location": "竹田1-200"
+ },
+ {
+  "jmh_id": "JMH-072087-0003",
+  "name": "塩沢のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "二本松市",
+  "location": "末広町467-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0005",
+  "name": "蓮華寺のシダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "二本松市",
+  "location": "亀谷1-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0004",
+  "name": "茶園のサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "二本松市",
+  "location": "茶園1-80"
+ },
+ {
+  "jmh_id": "JMH-072087-0006",
+  "name": "霞ケ城の傘マツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "二本松市",
+  "location": "郭内3-232"
+ },
+ {
+  "jmh_id": "JMH-072087-0008",
+  "name": "富沢のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-12-01",
+  "municipality": "二本松市",
+  "location": "針道字富沢56"
+ },
+ {
+  "jmh_id": "JMH-072087-0012",
+  "name": "祭田のサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-12-01",
+  "municipality": "二本松市",
+  "location": "太田字祭田62"
+ },
+ {
+  "jmh_id": "JMH-072087-0007",
+  "name": "宮田のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-12-01",
+  "municipality": "二本松市",
+  "location": "戸沢字浜井場1"
+ },
+ {
+  "jmh_id": "JMH-072087-0017",
+  "name": "桜の大木（しだれ桜）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "二本松市",
+  "location": "渋川字下原68"
+ },
+ {
+  "jmh_id": "JMH-072087-0021",
+  "name": "最勝寺のコウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-08-29",
+  "municipality": "二本松市",
+  "location": "戸沢字月夜畑90"
+ },
+ {
+  "jmh_id": "JMH-072087-0020",
+  "name": "愛蔵寺の護摩ザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-08-29",
+  "municipality": "二本松市",
+  "location": "戸沢字細田10"
+ },
+ {
+  "jmh_id": "JMH-072087-0023",
+  "name": "毘沙門様のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-08-29",
+  "municipality": "二本松市",
+  "location": "戸沢字松舘山1"
+ },
+ {
+  "jmh_id": "JMH-072087-0024",
+  "name": "香野姫神社の夫婦ザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-08-29",
+  "municipality": "二本松市",
+  "location": "戸沢字伏返120"
+ },
+ {
+  "jmh_id": "JMH-072087-0031",
+  "name": "本久寺のシダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "根崎1-265"
+ },
+ {
+  "jmh_id": "JMH-072087-0038",
+  "name": "舘野のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "舘野2-97"
+ },
+ {
+  "jmh_id": "JMH-072087-0027",
+  "name": "原セ笠張のツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "原セ笠張354"
+ },
+ {
+  "jmh_id": "JMH-072087-0043",
+  "name": "安達家大伽羅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "木幡字梨木内10"
+ },
+ {
+  "jmh_id": "JMH-072087-0059",
+  "name": "合戦場のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-05-01",
+  "municipality": "二本松市",
+  "location": "東新殿字大林142"
+ },
+ {
+  "jmh_id": "JMH-072087-0063",
+  "name": "鏡石寺のシダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-02-01",
+  "municipality": "二本松市",
+  "location": "亀谷1-110"
+ },
+ {
+  "jmh_id": "JMH-072087-0065",
+  "name": "西念寺の臥龍の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-04-01",
+  "municipality": "二本松市",
+  "location": "小浜字新町386"
+ },
+ {
+  "jmh_id": "JMH-072087-0064",
+  "name": "片倉のナシの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-04-01",
+  "municipality": "二本松市",
+  "location": "上長折字片倉80-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0068",
+  "name": "北向のツツジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-06-28",
+  "municipality": "二本松市",
+  "location": "戸沢字北向7"
+ },
+ {
+  "jmh_id": "JMH-072087-0066",
+  "name": "中野のサツキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-06-28",
+  "municipality": "二本松市",
+  "location": "太田字中野52"
+ },
+ {
+  "jmh_id": "JMH-072087-0067",
+  "name": "八幡神社のモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-06-28",
+  "municipality": "二本松市",
+  "location": "戸沢字立石3"
+ },
+ {
+  "jmh_id": "JMH-072087-0070",
+  "name": "菅田の糸ヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-06-28",
+  "municipality": "二本松市",
+  "location": "太田字菅田8"
+ },
+ {
+  "jmh_id": "JMH-072087-0071",
+  "name": "住吉神社の夫婦スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-02-26",
+  "municipality": "二本松市",
+  "location": "太田字本城山1-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0081",
+  "name": "二本松城跡箕輪門のアカマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-04-01",
+  "municipality": "二本松市",
+  "location": "郭内3-232"
+ },
+ {
+  "jmh_id": "JMH-072087-0080",
+  "name": "二本松城跡のイロハカエデ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-04-01",
+  "municipality": "二本松市",
+  "location": "郭内3-232"
+ },
+ {
+  "jmh_id": "JMH-072087-0089",
+  "name": "桃前のサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-05-01",
+  "municipality": "二本松市",
+  "location": "戸沢字桃前67"
+ }
+]

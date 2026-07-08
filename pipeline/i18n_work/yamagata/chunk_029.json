@@ -1,0 +1,389 @@
+[
+ {
+  "jmh_id": "JMH-062103-0052",
+  "name": "道満の三光ヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字道満"
+ },
+ {
+  "jmh_id": "JMH-062103-0044",
+  "name": "臥龍山西常得寺の蟠形杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字蔵増"
+ },
+ {
+  "jmh_id": "JMH-062103-0005",
+  "name": "八幡神社社叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字清池"
+ },
+ {
+  "jmh_id": "JMH-062103-0004",
+  "name": "元諏訪神社のハルニレ群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字芳賀"
+ },
+ {
+  "jmh_id": "JMH-062103-0046",
+  "name": "若松寺古参道沿いの樹叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山元"
+ },
+ {
+  "jmh_id": "JMH-062103-0033",
+  "name": "田麦野のオオヤマザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字田麦野"
+ },
+ {
+  "jmh_id": "JMH-062103-0045",
+  "name": "舞鶴山のエドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字天童"
+ },
+ {
+  "jmh_id": "JMH-062103-0030",
+  "name": "水晶山の風穴群とハシドイの群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字川原子字水晶山"
+ },
+ {
+  "jmh_id": "JMH-062103-0014",
+  "name": "寺津手人形芝居",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字寺津"
+ },
+ {
+  "jmh_id": "JMH-062103-0015",
+  "name": "寺津手人形関係資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "天童市"
+ },
+ {
+  "jmh_id": "JMH-062103-0055",
+  "name": "高擶夜行念佛",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字高擶"
+ },
+ {
+  "jmh_id": "JMH-062103-0056",
+  "name": "高擶夜行念佛講史資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字高擶"
+ },
+ {
+  "jmh_id": "JMH-062030-0063",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1971-05-01",
+  "municipality": "鶴岡市",
+  "location": "朝日"
+ },
+ {
+  "jmh_id": "JMH-062030-0104",
+  "name": "大寶館",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-01-27",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0110",
+  "name": "池神社山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "鶴岡市",
+  "location": "藤島"
+ },
+ {
+  "jmh_id": "JMH-062030-0139",
+  "name": "庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "鶴岡市",
+  "location": "朝日"
+ },
+ {
+  "jmh_id": "JMH-062030-0157",
+  "name": "松ヶ岡開墾士住宅（新徴屋敷）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-12-26",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0165",
+  "name": "三井家蔵座敷",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-08-24",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0226",
+  "name": "日向家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-07-25",
+  "municipality": "鶴岡市",
+  "location": "櫛引"
+ },
+ {
+  "jmh_id": "JMH-062030-0318",
+  "name": "羽黒山東照宮",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0319",
+  "name": "羽黒山蜂子神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0317",
+  "name": "羽黒山斎館",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0316",
+  "name": "羽黒山厳島神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-06",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0022",
+  "name": "絹本水墨 夏珪牧笛図写 三村常和 筆 鶴ヶ岡城襖絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-12-02",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0021",
+  "name": "紙本金地 鶴図 1幅 紙本金地 躑躅 1幅 紙本金地 桐花図 1幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-12-02",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0043",
+  "name": "紙本金地 椿図 1幅 寛平法皇画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-01-21",
+  "municipality": "鶴岡市",
+  "location": "朝日"
+ },
+ {
+  "jmh_id": "JMH-062030-0029",
+  "name": "両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-01-21",
+  "municipality": "鶴岡市",
+  "location": "朝日"
+ },
+ {
+  "jmh_id": "JMH-062030-0037",
+  "name": "弘法大師画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-01-21",
+  "municipality": "鶴岡市",
+  "location": "朝日"
+ },
+ {
+  "jmh_id": "JMH-062030-0068",
+  "name": "鶴ヶ岡城襖絵 紙本金地 鶴図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1971-05-01",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0067",
+  "name": "鶴ヶ岡城襖絵 紙本金地 桐図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1971-05-01",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0066",
+  "name": "紙本淡彩 山水図 六曲屏風 石井子龍 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1971-05-01",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0094",
+  "name": "絹本淡彩 赤壁図 三村常和 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0129",
+  "name": "絹本著色 薬師像 三村常和 画 曲直瀬道 三 賛",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-08-25",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0128",
+  "name": "絹本著色 神農像 三村常和 画 曲直瀬道 三 賛",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-08-25",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0134",
+  "name": "絹本著色 五大尊像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1985-10-01",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0135",
+  "name": "絹本著色 愛染明王像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1985-10-01",
+  "municipality": "鶴岡市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-062030-0148",
+  "name": "絵馬（酒井忠勝寄進）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1986-10-01",
+  "municipality": "鶴岡市",
+  "location": "櫛引"
+ },
+ {
+  "jmh_id": "JMH-062030-0181",
+  "name": "板絵著色お竹大日昇天の図 一勇斎国芳筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-03-30",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0182",
+  "name": "板絵著色お竹如来図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-03-30",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ },
+ {
+  "jmh_id": "JMH-062030-0180",
+  "name": "板絵著色お竹大日堂図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-03-30",
+  "municipality": "鶴岡市",
+  "location": "羽黒"
+ }
+]

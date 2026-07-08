@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-073814-0004",
+  "name": "甲神社のキャラボク",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "村指定",
+  "designated_date": "1992-06-30",
+  "municipality": "西郷村",
+  "location": "西郷村羽太字宮ノ前地内"
+ },
+ {
+  "jmh_id": "JMH-073814-0002",
+  "name": "子安観世音堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "村指定",
+  "designated_date": "1992-06-30",
+  "municipality": "西郷村",
+  "location": "西郷村豊作東7"
+ },
+ {
+  "jmh_id": "JMH-073814-0003",
+  "name": "甲子山大黒天",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "村指定",
+  "designated_date": "1992-06-30",
+  "municipality": "西郷村",
+  "location": "西郷村真船字寺平2"
+ },
+ {
+  "jmh_id": "JMH-073814-0001",
+  "name": "勝花亭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "村指定",
+  "designated_date": "1992-06-30",
+  "municipality": "西郷村",
+  "location": "西郷村真船字寺平2"
+ },
+ {
+  "jmh_id": "JMH-073814-0005",
+  "name": "鬼門鎮護七佛薬師堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "村指定",
+  "designated_date": "1995-02-08",
+  "municipality": "西郷村",
+  "location": "西郷村長坂字長坂153"
+ },
+ {
+  "jmh_id": "JMH-073814-0008",
+  "name": "旧軍馬補充部白河支部事務所・敷地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財・記念物",
+  "designation": "村指定",
+  "designated_date": "1997-12-22",
+  "municipality": "西郷村",
+  "location": "西郷村小田倉字上野原463及び464"
+ },
+ {
+  "jmh_id": "JMH-073814-0007",
+  "name": "延喜式内永倉神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "村指定",
+  "designated_date": "1997-12-22",
+  "municipality": "西郷村",
+  "location": "西郷村長坂字長坂36"
+ },
+ {
+  "jmh_id": "JMH-073814-0009",
+  "name": "火伏観音堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "村指定",
+  "designated_date": "1997-12-22",
+  "municipality": "西郷村",
+  "location": "西郷村真船字観音山3"
+ },
+ {
+  "jmh_id": "JMH-073814-0006",
+  "name": "三十三観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "村指定",
+  "designated_date": "1997-12-22",
+  "municipality": "西郷村",
+  "location": "西郷村真船字観音山3－2"
+ },
+ {
+  "jmh_id": "JMH-073814-0010",
+  "name": "田土ヶ入水芭蕉自生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "村指定",
+  "designated_date": "1997-12-22",
+  "municipality": "西郷村",
+  "location": "西郷村真船字田土ヶ入7"
+ },
+ {
+  "jmh_id": "JMH-073814-0011",
+  "name": "虫笠大日碑ほか2基",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "村指定",
+  "designated_date": "2012-04-27",
+  "municipality": "西郷村",
+  "location": "西郷村羽太字牛窪46"
+ },
+ {
+  "jmh_id": "JMH-073814-0012",
+  "name": "西堂山アラビヤ観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "村指定",
+  "designated_date": "2021-07-21",
+  "municipality": "西郷村",
+  "location": "西郷村柏野字石切場12"
+ },
+ {
+  "jmh_id": "JMH-074659-0001",
+  "name": "熊川稚児鹿舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1972-04-01",
+  "municipality": "大熊町",
+  "location": "熊川地区（諏訪神社）"
+ },
+ {
+  "jmh_id": "JMH-074659-0006",
+  "name": "長者原じゃんがら念仏太鼓踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-04-01",
+  "municipality": "大熊町",
+  "location": "夫沢長者原地区"
+ },
+ {
+  "jmh_id": "JMH-074659-0003",
+  "name": "熊町はなどり地蔵",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-04-01",
+  "municipality": "大熊町",
+  "location": "熊町地区（初発神社境内 地蔵堂内）"
+ },
+ {
+  "jmh_id": "JMH-074659-0004",
+  "name": "熊町一里塚（北側）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1973-04-01",
+  "municipality": "大熊町",
+  "location": "熊町地区"
+ },
+ {
+  "jmh_id": "JMH-074659-0005",
+  "name": "熊町一里塚（南側）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1973-04-01",
+  "municipality": "大熊町",
+  "location": "熊町地区"
+ },
+ {
+  "jmh_id": "JMH-074659-0002",
+  "name": "五郎四郎一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1973-04-01",
+  "municipality": "大熊町",
+  "location": "大熊町"
+ },
+ {
+  "jmh_id": "JMH-074420-0005",
+  "name": "諏訪神社本殿（上羽出庭）",
+  "category": "有形文化財",
+  "subcategory": "町指定 建造物",
+  "designation": "町指定",
+  "designated_date": "1975-02-26",
+  "municipality": "小野町",
+  "location": "上羽出庭字辻ノ内"
+ },
+ {
+  "jmh_id": "JMH-074420-0002",
+  "name": "御正体（懸仏）",
+  "category": "有形文化財",
+  "subcategory": "町指定 建造物",
+  "designation": "町指定",
+  "designated_date": "1975-02-26",
+  "municipality": "小野町",
+  "location": "夏井字町屋"
+ },
+ {
+  "jmh_id": "JMH-074420-0013",
+  "name": "層塔（1基）",
+  "category": "有形文化財",
+  "subcategory": "町指定 建造物",
+  "designation": "町指定",
+  "designated_date": "1990-03-24",
+  "municipality": "小野町",
+  "location": "夏井字寺谷津作134"
+ },
+ {
+  "jmh_id": "JMH-074420-0006",
+  "name": "諏訪神社本殿（夏井）",
+  "category": "有形文化財",
+  "subcategory": "町指定 建造物",
+  "designation": "町指定",
+  "designated_date": "1975-02-26",
+  "municipality": "小野町",
+  "location": "夏井字町屋"
+ },
+ {
+  "jmh_id": "JMH-074420-0015",
+  "name": "熊野神社棟札（2枚）",
+  "category": "有形文化財",
+  "subcategory": "町指定 工芸品",
+  "designation": "町指定",
+  "designated_date": "1992-04-01",
+  "municipality": "小野町",
+  "location": "飯豊字本飯豊153"
+ },
+ {
+  "jmh_id": "JMH-074420-0001",
+  "name": "大日如来座像",
+  "category": "有形文化財",
+  "subcategory": "町指定 彫刻",
+  "designation": "町指定",
+  "designated_date": "1975-02-06",
+  "municipality": "小野町",
+  "location": "湯沢字館ノ越"
+ },
+ {
+  "jmh_id": "JMH-074420-0014",
+  "name": "夫婦煙草調理（絵馬）",
+  "category": "有形文化財",
+  "subcategory": "町指定 工芸品",
+  "designation": "町指定",
+  "designated_date": "1991-03-06",
+  "municipality": "小野町",
+  "location": "小野新町字大倉94（妙見神社）"
+ },
+ {
+  "jmh_id": "JMH-074420-0003",
+  "name": "東堂山鐘楼",
+  "category": "有形文化財",
+  "subcategory": "町指定 建造物",
+  "designation": "町指定",
+  "designated_date": "1975-02-26",
+  "municipality": "小野町",
+  "location": "小戸神字日向128"
+ },
+ {
+  "jmh_id": "JMH-074420-0012",
+  "name": "五輪塔（2基）",
+  "category": "有形文化財",
+  "subcategory": "町指定 建造物",
+  "designation": "町指定",
+  "designated_date": "1990-03-24",
+  "municipality": "小野町",
+  "location": "夏井字寺谷津作134（雲林寺）"
+ },
+ {
+  "jmh_id": "JMH-074420-0007",
+  "name": "久戸塚半鐘",
+  "category": "有形文化財",
+  "subcategory": "町指定 工芸品",
+  "designation": "町指定",
+  "designated_date": "1975-06-26",
+  "municipality": "小野町",
+  "location": "谷津作字久戸塚"
+ },
+ {
+  "jmh_id": "JMH-074420-0004",
+  "name": "無量寺阿弥陀堂",
+  "category": "有形文化財",
+  "subcategory": "町指定 建造物",
+  "designation": "町指定",
+  "designated_date": "1975-02-26",
+  "municipality": "小野町",
+  "location": "小野赤沼字寺前72（無量寺）"
+ },
+ {
+  "jmh_id": "JMH-074420-0009",
+  "name": "種まき桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-10-13",
+  "municipality": "小野町",
+  "location": "吉野辺字伊達内"
+ },
+ {
+  "jmh_id": "JMH-074420-0011",
+  "name": "谷地の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-10-13",
+  "municipality": "小野町",
+  "location": "浮金字柳沢"
+ },
+ {
+  "jmh_id": "JMH-074420-0010",
+  "name": "羽生の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-10-13",
+  "municipality": "小野町",
+  "location": "飯豊字壇ノ越"
+ },
+ {
+  "jmh_id": "JMH-074420-0018",
+  "name": "無量寺のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "2002-09-12",
+  "municipality": "小野町",
+  "location": "小野赤沼寺前"
+ },
+ {
+  "jmh_id": "JMH-074420-0019",
+  "name": "お談様の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "2015-04-10",
+  "municipality": "小野町",
+  "location": "皮籠石字漆平"
+ },
+ {
+  "jmh_id": "JMH-074420-0020",
+  "name": "三又の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "2015-04-10",
+  "municipality": "小野町",
+  "location": "飯豊字三又地内"
+ },
+ {
+  "jmh_id": "JMH-074420-0008",
+  "name": "東堂山の杉並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "1985-06-04",
+  "municipality": "小野町",
+  "location": "小戸神字日向"
+ },
+ {
+  "jmh_id": "JMH-074420-0016",
+  "name": "菅布禰神社の夫婦杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "1995-04-01",
+  "municipality": "小野町",
+  "location": "浮金宮之前"
+ },
+ {
+  "jmh_id": "JMH-074420-0017",
+  "name": "諏訪神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定 天然記念物",
+  "designation": "町指定",
+  "designated_date": "1995-04-01",
+  "municipality": "小野町",
+  "location": "上羽出庭辻ノ内"
+ },
+ {
+  "jmh_id": "JMH-073431-0001",
+  "name": "十楽院のカヤの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1977-07-14",
+  "municipality": "大玉村",
+  "location": "大玉村玉井字馬喰内"
+ },
+ {
+  "jmh_id": "JMH-073431-0016",
+  "name": "相応寺薬師如来三尊像(薬師如来・日光・月光菩薩)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "村指定",
+  "municipality": "大玉村",
+  "location": "大玉村玉井字南町"
+ }
+]

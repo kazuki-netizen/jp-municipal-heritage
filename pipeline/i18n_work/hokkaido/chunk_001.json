@@ -1,0 +1,350 @@
+[
+ {
+  "jmh_id": "JMH-014818-0018",
+  "name": "雄冬遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0024",
+  "name": "舎熊遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-07-01",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0015",
+  "name": "旧高橋農場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0020",
+  "name": "別苅発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-07-01",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0014",
+  "name": "旧増毛山道入口",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0013",
+  "name": "増毛郡役所出張所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0026",
+  "name": "阿分発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0016",
+  "name": "松浦武四郎信砂越えの地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0027",
+  "name": "信砂水田発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1982-08-20",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0019",
+  "name": "仁奈良山道・仁奈良駅逓跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-07-01",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-012351-0001",
+  "name": "第1号 石狩弁天社",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1967-12-22",
+  "municipality": "石狩市",
+  "location": "石狩市弁天町18"
+ },
+ {
+  "jmh_id": "JMH-012351-0002",
+  "name": "第2号 チョウザメのはく製",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "石狩市",
+  "location": "石狩市弁天町30-4(砂丘の風資料館)、所蔵：石狩市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-012351-0003",
+  "name": "第3号 石狩八幡町遺跡ワッカオイ出土の土器9点",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "石狩市",
+  "location": "所蔵：石狩市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-012351-0004",
+  "name": "第4号 旧長野商店",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1994-03-28",
+  "municipality": "石狩市",
+  "location": "石狩市弁天町30-5（砂丘の風資料館の隣）"
+ },
+ {
+  "jmh_id": "JMH-012351-0005",
+  "name": "第5号 金子家文書",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1999-04-22",
+  "municipality": "石狩市",
+  "location": "所蔵：石狩市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-012351-0010",
+  "name": "第6号 旧白鳥番屋",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "石狩市",
+  "location": "石狩市浜益区浜益77"
+ },
+ {
+  "jmh_id": "JMH-012351-0006",
+  "name": "第7号 石狩弁天社の手水鉢",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-28",
+  "municipality": "石狩市",
+  "location": "石狩市弁天町30-4(砂丘の風資料館)、所蔵：石狩市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-012351-0007",
+  "name": "第8号 石狩紅葉山49号遺跡出土の木製品",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2015-07-24",
+  "municipality": "石狩市",
+  "location": "所蔵：石狩市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-012351-0008",
+  "name": "第9号 古潭龍澤寺の鰐口",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2016-10-27",
+  "municipality": "石狩市",
+  "location": "所在地1：石狩市厚田98-2(道の駅石狩あいろーど厚田2階)／所在地2：札幌市厚別区厚別町小野幌53-2(北海道博物館に寄託)"
+ },
+ {
+  "jmh_id": "JMH-012351-0009",
+  "name": "第10号 紅葉山33号遺跡出土の漆塗り弓（文様入り）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2025-06-30",
+  "municipality": "石狩市",
+  "location": "所蔵：石狩市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-016624-0006",
+  "name": "厚岸床潭沼の緋鮒生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0020",
+  "name": "色古丹松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0019",
+  "name": "老桜樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0022",
+  "name": "逆水松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0011",
+  "name": "太田屯田の赤松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0010",
+  "name": "太田屯田の桑並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0008",
+  "name": "厚岸神岩砦跡及び竪穴群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0001",
+  "name": "お供山チャシ跡群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0002",
+  "name": "チカラコタン竪穴群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-016624-0003",
+  "name": "ホロニタイ竪穴群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "厚岸町"
+ },
+ {
+  "jmh_id": "JMH-015784-0002",
+  "name": "ルウンペ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1986-04-04",
+  "municipality": "白老町",
+  "location": "アイヌ民族博物館"
+ },
+ {
+  "jmh_id": "JMH-015784-0004",
+  "name": "白老八幡神社社宝5点",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1996-06-05",
+  "municipality": "白老町",
+  "location": "白老八幡神社"
+ },
+ {
+  "jmh_id": "JMH-015784-0005",
+  "name": "アイヌ生活用具コレクション（児玉コレクション）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2000-03-31",
+  "municipality": "白老町",
+  "location": "アイヌ民族博物館"
+ },
+ {
+  "jmh_id": "JMH-015784-0006",
+  "name": "虎杖浜越後盆踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2000-10-03",
+  "municipality": "白老町",
+  "location": "虎杖浜越後盆踊り保存会"
+ },
+ {
+  "jmh_id": "JMH-015784-0008",
+  "name": "白老町伝統文化継承者",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "白老町",
+  "location": "別表に記載"
+ },
+ {
+  "jmh_id": "JMH-012173-0001",
+  "name": "千古園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "江別市"
+ },
+ {
+  "jmh_id": "JMH-012173-0006",
+  "name": "火薬庫",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "江別市"
+ },
+ {
+  "jmh_id": "JMH-012173-0007",
+  "name": "野幌太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "江別市"
+ },
+ {
+  "jmh_id": "JMH-012173-0004",
+  "name": "扁額「對鴈學校」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "江別市"
+ },
+ {
+  "jmh_id": "JMH-012173-0003",
+  "name": "扁額「冨貴在苦學労力」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "江別市"
+ }
+]

@@ -1,0 +1,333 @@
+[
+ {
+  "jmh_id": "JMH-014605-0003",
+  "name": "富原地区地神及び山の神",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-12-09",
+  "municipality": "上富良野町",
+  "location": "上富良野町東７線北24号"
+ },
+ {
+  "jmh_id": "JMH-014605-0004",
+  "name": "上富良野町郷土館",
+  "category": "有形文化財",
+  "subcategory": "有形文化財/建造物",
+  "designation": "町指定",
+  "designated_date": "2022-01-24",
+  "municipality": "上富良野町",
+  "location": "上富良野町富町1丁目3番30号"
+ },
+ {
+  "jmh_id": "JMH-014605-0005",
+  "name": "上富良野町開拓記念館",
+  "category": "有形文化財",
+  "subcategory": "有形文化財/建造物",
+  "designation": "町指定",
+  "designated_date": "2022-01-24",
+  "municipality": "上富良野町",
+  "location": "上富良野町西３線北28号"
+ },
+ {
+  "jmh_id": "JMH-014605-0006",
+  "name": "後藤純男の絵画作品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財/美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2022-01-24",
+  "municipality": "上富良野町",
+  "location": "上富良野町東４線北21号"
+ },
+ {
+  "jmh_id": "JMH-016659-0001",
+  "name": "屈斜路湖マリゴケ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1969-07-11",
+  "municipality": "弟子屈町"
+ },
+ {
+  "jmh_id": "JMH-016659-0003",
+  "name": "鐺別獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（民俗/郷土芸能）",
+  "designation": "町指定",
+  "designated_date": "1971-07-31",
+  "municipality": "弟子屈町"
+ },
+ {
+  "jmh_id": "JMH-016659-0002",
+  "name": "仁多獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（民俗/郷土芸能）",
+  "designation": "町指定",
+  "designated_date": "1971-07-31",
+  "municipality": "弟子屈町"
+ },
+ {
+  "jmh_id": "JMH-016659-0004",
+  "name": "川湯ばやし",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（民俗/郷土芸能）",
+  "designation": "町指定",
+  "designated_date": "2025-02-26",
+  "municipality": "弟子屈町"
+ },
+ {
+  "jmh_id": "JMH-016918-0012",
+  "name": "西別開基の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0014",
+  "name": "野付の千島桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0013",
+  "name": "試作場の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0001",
+  "name": "オクユキウスの大楢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0016",
+  "name": "風連の楢林・開墾記念のスモモ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0005",
+  "name": "奥行臼駅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0011",
+  "name": "蝋山の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0010",
+  "name": "本別海一本松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0007",
+  "name": "役場支所の柏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0008",
+  "name": "旧別海村営軌道風連線奥行臼停留所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0006",
+  "name": "広野開拓六気の柏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0002",
+  "name": "上西春別小学校の柏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0003",
+  "name": "加賀家文書",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0015",
+  "name": "野付半島沖マンモスゾウ化石群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0004",
+  "name": "厨子入南矢臼別馬頭観世音菩薩坐像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-016918-0009",
+  "name": "旧柏野尋常小学校奉安殿",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "別海町"
+ },
+ {
+  "jmh_id": "JMH-012122-0004",
+  "name": "黄金岬の日和山烽火台跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "市指定",
+  "designated_date": "1999-09-27",
+  "municipality": "留萌市",
+  "location": "留萌市大町2丁目（平成元年度に標柱設置）"
+ },
+ {
+  "jmh_id": "JMH-012122-0002",
+  "name": "三泊漁港遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "市指定",
+  "designated_date": "1999-09-27",
+  "municipality": "留萌市",
+  "location": "留萌市三泊町（平成2年度標柱設置）"
+ },
+ {
+  "jmh_id": "JMH-012122-0003",
+  "name": "星兜残欠",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1999-09-27",
+  "municipality": "留萌市",
+  "location": "留萌市大町2丁目（海のふるさと館にて展示中）"
+ },
+ {
+  "jmh_id": "JMH-012122-0001",
+  "name": "アトゥシ（2点）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1999-09-27",
+  "municipality": "留萌市",
+  "location": "留萌市大町2丁目（海のふるさと館）【現在、公開しておりません】"
+ },
+ {
+  "jmh_id": "JMH-012122-0005",
+  "name": "旧五十嵐億太郎邸跡地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "市指定",
+  "designated_date": "2017-05-16",
+  "municipality": "留萌市",
+  "location": "留萌市大町3丁目37－2内"
+ },
+ {
+  "jmh_id": "JMH-012106-0008",
+  "name": "辻村家ガラス乾板写真及び関連資料",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2025-12-24",
+  "municipality": "岩見沢市"
+ },
+ {
+  "jmh_id": "JMH-013609-0030",
+  "name": "祭礼山車蛭子山人形御面相及び付属品",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1999-04-19",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0032",
+  "name": "祭礼山車豊年山水引唐子春秋之図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1999-04-19",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0033",
+  "name": "祭礼山車豊年山水引日本三景之図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1999-04-19",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0029",
+  "name": "祭礼山車聖武山人形御面相及び付属品",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1999-04-19",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0004",
+  "name": "江差土場鹿子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-02-05",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0005",
+  "name": "江差田沢鹿子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-02-05",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0006",
+  "name": "江差鹿子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-02-05",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0024",
+  "name": "江差鮫踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1991-11-26",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0028",
+  "name": "江差追分踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1995-06-13",
+  "municipality": "江差町"
+ },
+ {
+  "jmh_id": "JMH-013609-0001",
+  "name": "戊辰の役戦死者の墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1971-12-05",
+  "municipality": "江差町"
+ }
+]

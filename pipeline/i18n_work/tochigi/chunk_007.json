@@ -1,0 +1,393 @@
+[
+ {
+  "jmh_id": "JMH-092029-0222",
+  "name": "菅田西根遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1987-12-15",
+  "municipality": "足利市",
+  "location": "菅田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0232",
+  "name": "口明塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1992-06-25",
+  "municipality": "足利市",
+  "location": "山川町"
+ },
+ {
+  "jmh_id": "JMH-092029-0262",
+  "name": "田崎草雲墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2000-11-17",
+  "municipality": "足利市",
+  "location": "西宮町"
+ },
+ {
+  "jmh_id": "JMH-092029-0273",
+  "name": "足利萬古窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2002-11-14",
+  "municipality": "足利市",
+  "location": "樺崎町"
+ },
+ {
+  "jmh_id": "JMH-092029-0272",
+  "name": "助戸山3号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2002-11-14",
+  "municipality": "足利市",
+  "location": "助戸3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0277",
+  "name": "小曽根浅間山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2003-06-20",
+  "municipality": "足利市",
+  "location": "小曽根町"
+ },
+ {
+  "jmh_id": "JMH-092029-0293",
+  "name": "富士山城跡（胎内洞穴を含む）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2010-03-24",
+  "municipality": "足利市",
+  "location": "田中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0297",
+  "name": "物見古墳群第十三号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2011-03-22",
+  "municipality": "足利市",
+  "location": "今福町"
+ },
+ {
+  "jmh_id": "JMH-092029-0043",
+  "name": "龍泉寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1962-06-25",
+  "municipality": "足利市",
+  "location": "稲岡町"
+ },
+ {
+  "jmh_id": "JMH-092029-0049",
+  "name": "臥竜院のエドヒガンザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "足利市",
+  "location": "名草上町"
+ },
+ {
+  "jmh_id": "JMH-092029-0047",
+  "name": "山藤家のクロマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0048",
+  "name": "毘沙門天のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-092029-0069",
+  "name": "タブノ木自生林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1966-03-25",
+  "municipality": "足利市",
+  "location": "本城1丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0070",
+  "name": "助戸阿弥陀堂の関東九本松（クロマツ）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1966-06-15",
+  "municipality": "足利市",
+  "location": "久松町"
+ },
+ {
+  "jmh_id": "JMH-092029-0072",
+  "name": "正蓮寺のコウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "足利市",
+  "location": "粟谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0071",
+  "name": "正蓮寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "足利市",
+  "location": "粟谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0077",
+  "name": "禅定院のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-03-19",
+  "municipality": "足利市",
+  "location": "八幡町2丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0091",
+  "name": "増沢家のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-07-18",
+  "municipality": "足利市",
+  "location": "大月町"
+ },
+ {
+  "jmh_id": "JMH-092029-0092",
+  "name": "樺崎八幡宮のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-07-18",
+  "municipality": "足利市",
+  "location": "樺崎町"
+ },
+ {
+  "jmh_id": "JMH-092029-0093",
+  "name": "無量院のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-07-18",
+  "municipality": "足利市",
+  "location": "葉鹿町"
+ },
+ {
+  "jmh_id": "JMH-092029-0099",
+  "name": "松田神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-09-12",
+  "municipality": "足利市",
+  "location": "松田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0100",
+  "name": "ニホンカワモズク自生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-02-17",
+  "municipality": "足利市",
+  "location": "南大町"
+ },
+ {
+  "jmh_id": "JMH-092029-0103",
+  "name": "最勝寺暖地性植物自生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1978-06-21",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-092029-0107",
+  "name": "鵤木の一本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-07-18",
+  "municipality": "足利市",
+  "location": "鵤木町"
+ },
+ {
+  "jmh_id": "JMH-092029-0114",
+  "name": "日光神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-22",
+  "municipality": "足利市",
+  "location": "名草中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0136",
+  "name": "東陽院のクロマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-04-21",
+  "municipality": "足利市",
+  "location": "駒場町"
+ },
+ {
+  "jmh_id": "JMH-092029-0152",
+  "name": "八雲神社のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-10-18",
+  "municipality": "足利市",
+  "location": "通5丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0206",
+  "name": "篠生神社の社叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1986-03-13",
+  "municipality": "足利市",
+  "location": "葉鹿町2丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0215",
+  "name": "粟谷町山神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-05-20",
+  "municipality": "足利市",
+  "location": "粟谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0241",
+  "name": "松田町字中手のアカシデ林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-03-17",
+  "municipality": "足利市",
+  "location": "松田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0242",
+  "name": "母衣輪神社のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-03-17",
+  "municipality": "足利市",
+  "location": "福居町"
+ },
+ {
+  "jmh_id": "JMH-092029-0243",
+  "name": "母衣輪神社のクスノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-03-17",
+  "municipality": "足利市",
+  "location": "福居町"
+ },
+ {
+  "jmh_id": "JMH-092029-0244",
+  "name": "長昌寺のクロマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-12-19",
+  "municipality": "足利市",
+  "location": "高松町"
+ },
+ {
+  "jmh_id": "JMH-092029-0250",
+  "name": "けやき小学校のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-07-01",
+  "municipality": "足利市",
+  "location": "柳原町"
+ },
+ {
+  "jmh_id": "JMH-092029-0274",
+  "name": "鶏足寺のサルスベリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-11-14",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0271",
+  "name": "五尊教会のタブノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-11-14",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0284",
+  "name": "大岩山多門道のナツフジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2006-11-16",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-093441-0005",
+  "name": "千手観音堂",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "市貝町"
+ },
+ {
+  "jmh_id": "JMH-093441-0002",
+  "name": "上根観音堂",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "市貝町"
+ },
+ {
+  "jmh_id": "JMH-093441-0007",
+  "name": "熊野神社",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "市貝町"
+ }
+]

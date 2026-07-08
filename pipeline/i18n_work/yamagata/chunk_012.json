@@ -1,0 +1,332 @@
+[
+ {
+  "jmh_id": "JMH-063223-0007",
+  "name": "大日寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0019",
+  "name": "木製五輪塔",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0034",
+  "name": "銅製鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0035",
+  "name": "鍛鉄製燭台一対",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0001",
+  "name": "ハゴロモミズナラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0010",
+  "name": "安中坊文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0002",
+  "name": "仏足石",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0028",
+  "name": "稲刈覚",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0026",
+  "name": "百衣観音画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0015",
+  "name": "文殊菩薩画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0030",
+  "name": "若き日の達磨",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0031",
+  "name": "西国三十三観音画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0003",
+  "name": "元大日寺守札・絵札の版木・附棟札",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0027",
+  "name": "砂金採り絵馬",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0014",
+  "name": "御朱印状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0011",
+  "name": "寛永白岩領騒動間沢村三霊供養碑",
+  "category": "有形文化財",
+  "subcategory": "供養碑",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0021",
+  "name": "本道寺山門額 銘 湯殿山",
+  "category": "有形文化財",
+  "subcategory": "木額",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0033",
+  "name": "金山神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0032",
+  "name": "金剛力士像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0013",
+  "name": "弘法大師坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0025",
+  "name": "湯殿山碑",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0016",
+  "name": "旧 大日寺代参塔群",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0017",
+  "name": "旧 本道寺代参塔群",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0018",
+  "name": "月山登拝図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0024",
+  "name": "板絵 出羽三山女講中参詣図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0012",
+  "name": "岩根沢太々神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0004",
+  "name": "六十里越街道の石畳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0009",
+  "name": "安中坊別当屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0005",
+  "name": "吉川村料地絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0006",
+  "name": "大八・大七の墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0022",
+  "name": "本道寺鉦勧進",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0020",
+  "name": "本道寺山門扁額 銘 湯殿山",
+  "category": "有形文化財",
+  "subcategory": "木額",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0023",
+  "name": "本道寺開山堂扁額 銘 開山堂",
+  "category": "有形文化財",
+  "subcategory": "木額",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0008",
+  "name": "天宥両親供養塔",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-063223-0029",
+  "name": "筏流し図",
+  "category": "有形文化財",
+  "subcategory": "絵馬",
+  "designation": "町指定",
+  "municipality": "西川町"
+ },
+ {
+  "jmh_id": "JMH-062120-0008",
+  "name": "龍護寺山門（三間一戸の門）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-11-27",
+  "municipality": "尾花沢市",
+  "location": "大字延沢"
+ },
+ {
+  "jmh_id": "JMH-062120-0003",
+  "name": "紙本絵馬（狩野与一筆）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-27",
+  "municipality": "尾花沢市",
+  "location": "中町（芭蕉、清風歴史資料館に寄託）"
+ },
+ {
+  "jmh_id": "JMH-062120-0025",
+  "name": "尾花沢村絵図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1995-01-31",
+  "municipality": "尾花沢市",
+  "location": "中町（芭蕉、清風歴史資料館に寄託）"
+ },
+ {
+  "jmh_id": "JMH-062120-0002",
+  "name": "如意輪観音懸仏 伝弥勒菩薩座像懸仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-11-27",
+  "municipality": "尾花沢市",
+  "location": "大字野黒沢"
+ },
+ {
+  "jmh_id": "JMH-062120-0011",
+  "name": "聖観音菩薩立像（木彫一本木造）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1969-12-20",
+  "municipality": "尾花沢市",
+  "location": "大字丹生"
+ }
+]

@@ -1,0 +1,384 @@
+[
+ {
+  "jmh_id": "JMH-092134-0035",
+  "name": "城主安全碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1972-10-25",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市波立250"
+ },
+ {
+  "jmh_id": "JMH-092134-0143",
+  "name": "引久保百観音堂棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2011-05-09",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市上塩原418"
+ },
+ {
+  "jmh_id": "JMH-092134-0116",
+  "name": "関谷常夜灯",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1997-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市関谷72-1"
+ },
+ {
+  "jmh_id": "JMH-092134-0050",
+  "name": "上厚崎の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0141",
+  "name": "塩原温泉元湯古絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2011-05-09",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市塩原665"
+ },
+ {
+  "jmh_id": "JMH-092134-0101",
+  "name": "印南丈作の頌徳碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1994-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市三区町635"
+ },
+ {
+  "jmh_id": "JMH-092134-0099",
+  "name": "菊地家市十郎百歳長寿祝文書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1994-02-18",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0078",
+  "name": "太政官壱朱金札印刷用銅版",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-09-25",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0033",
+  "name": "上黒磯の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1972-10-25",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0121",
+  "name": "高尾塚碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-06-23",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市塩原283-2"
+ },
+ {
+  "jmh_id": "JMH-092134-0157",
+  "name": "関谷の駐蹕碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2018-02-27",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市関谷384-3"
+ },
+ {
+  "jmh_id": "JMH-092134-0162",
+  "name": "御公儀様御巡見日記帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0163",
+  "name": "熾仁親王植樹記念碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市三区町635"
+ },
+ {
+  "jmh_id": "JMH-092134-0161",
+  "name": "大田原城主献納石灯籠",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市板室876"
+ },
+ {
+  "jmh_id": "JMH-093645-0005",
+  "name": "算額",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "野木町",
+  "location": "野木神社"
+ },
+ {
+  "jmh_id": "JMH-093645-0003",
+  "name": "満福寺の板碑",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "野木町"
+ },
+ {
+  "jmh_id": "JMH-093645-0001",
+  "name": "古河公方足利成氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "野木町",
+  "location": "満福寺境内"
+ },
+ {
+  "jmh_id": "JMH-093645-0004",
+  "name": "猪苗代兼載の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "町指定",
+  "municipality": "野木町",
+  "location": "満福寺境内"
+ },
+ {
+  "jmh_id": "JMH-093645-0002",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "野木町",
+  "location": "法得寺"
+ },
+ {
+  "jmh_id": "JMH-093645-0006",
+  "name": "銅像薬師如来立像（伝、阿弥陀如来立像）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "野木町",
+  "location": "法得寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0018",
+  "name": "七重塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-09-25",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中央2-13薬師堂境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0020",
+  "name": "舎利塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-09-25",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中央2-13薬師堂境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0037",
+  "name": "勅額門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐良土1401法輪寺境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0049",
+  "name": "山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1966-07-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐久山2243実相院境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0058",
+  "name": "福原八幡宮本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1969-10-01",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市福原1125"
+ },
+ {
+  "jmh_id": "JMH-092100-0111",
+  "name": "薬師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-03-06",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中央2-13"
+ },
+ {
+  "jmh_id": "JMH-092100-0113",
+  "name": "石灯篭(大田原神社)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-05-22",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市山の手2-2039大田原神社境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0128",
+  "name": "雲巌寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-12-09",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市雲岩寺27"
+ },
+ {
+  "jmh_id": "JMH-092100-0141",
+  "name": "滝沢神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2004-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市滝沢402"
+ },
+ {
+  "jmh_id": "JMH-092100-0150",
+  "name": "大宮温泉神社の石灯籠",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2015-06-19",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中野内1942"
+ },
+ {
+  "jmh_id": "JMH-092100-0151",
+  "name": "大田原神社の手水盥",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2016-06-06",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市山の手2-2039大田原神社境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0088",
+  "name": "涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-12-18",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市山の手2-9-2龍泉寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0087",
+  "name": "愛染明王図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-12-18",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市山の手2-9-2龍泉寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0136",
+  "name": "紙本著色大関美作守高増画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2001-06-21",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町450大雄寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0135",
+  "name": "板絵著色十六羅漢図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2001-06-21",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町450大雄寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0144",
+  "name": "絹本著色大関美作守高増画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2005-02-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0143",
+  "name": "紙本著色大関美作守高増画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2005-02-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0145",
+  "name": "絹本著色黒羽城西之図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2005-02-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0021",
+  "name": "金剛力士像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-09-25",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中央2-23薬師堂"
+ },
+ {
+  "jmh_id": "JMH-092100-0019",
+  "name": "十一面千手観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-09-25",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市新富町3-12-6不退寺"
+ }
+]

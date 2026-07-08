@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032042-0177",
+  "name": "小鵇ヶ清水の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2001-03-21",
+  "municipality": "花巻市",
+  "location": "高松"
+ },
+ {
+  "jmh_id": "JMH-032042-0221",
+  "name": "内室堤のイワテヤマナシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-12-27",
+  "municipality": "花巻市",
+  "location": "轟木"
+ },
+ {
+  "jmh_id": "JMH-032042-0230",
+  "name": "上諏訪のキタゴヨウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2016-03-07",
+  "municipality": "花巻市",
+  "location": "上諏訪"
+ },
+ {
+  "jmh_id": "JMH-032042-0086",
+  "name": "稲荷神社千本桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-11-01",
+  "municipality": "花巻市",
+  "location": "大迫町内川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0085",
+  "name": "上住郷のカヤの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-11-01",
+  "municipality": "花巻市",
+  "location": "大迫町内川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0087",
+  "name": "諏訪神社千歳桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-11-01",
+  "municipality": "花巻市",
+  "location": "大迫町外川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0105",
+  "name": "白山杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-06-16",
+  "municipality": "花巻市",
+  "location": "大迫町内川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0164",
+  "name": "山祇桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-09-27",
+  "municipality": "花巻市",
+  "location": "大迫町内川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0165",
+  "name": "才ノ神のサワラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-09-27",
+  "municipality": "花巻市",
+  "location": "大迫町内川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0058",
+  "name": "長善寺の桜樹（エドヒガン）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-02-03",
+  "municipality": "花巻市",
+  "location": "石鳥谷町新堀"
+ },
+ {
+  "jmh_id": "JMH-032042-0218",
+  "name": "米斗利沢神社の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町大興寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0220",
+  "name": "長谷寺の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町大興寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0214",
+  "name": "光林寺の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町中寺林"
+ },
+ {
+  "jmh_id": "JMH-032042-0213",
+  "name": "光林寺のサワラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町中寺林"
+ },
+ {
+  "jmh_id": "JMH-032042-0219",
+  "name": "長善寺のシダレイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町新堀"
+ },
+ {
+  "jmh_id": "JMH-032042-0216",
+  "name": "登呂桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-12-26",
+  "municipality": "花巻市",
+  "location": "石鳥谷町五大堂"
+ },
+ {
+  "jmh_id": "JMH-032042-0045",
+  "name": "泥金山のシラキ自生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町石鳩岡"
+ },
+ {
+  "jmh_id": "JMH-032042-0044",
+  "name": "毒沢のサワラと桜の寄木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町毒沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0039",
+  "name": "中内熊野神社のうば杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町中内"
+ },
+ {
+  "jmh_id": "JMH-032042-0041",
+  "name": "丹内山神社じい杉の根",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ },
+ {
+  "jmh_id": "JMH-032042-0048",
+  "name": "前田の吉野桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-09-06",
+  "municipality": "花巻市",
+  "location": "東和町前田"
+ },
+ {
+  "jmh_id": "JMH-032042-0046",
+  "name": "中川目のヒガン桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-09-06",
+  "municipality": "花巻市",
+  "location": "東和町北川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0049",
+  "name": "前田の染井吉野桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-09-06",
+  "municipality": "花巻市",
+  "location": "東和町前田"
+ },
+ {
+  "jmh_id": "JMH-032042-0047",
+  "name": "八日市場の雲南桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-09-06",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0053",
+  "name": "銀杏岡のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-12-25",
+  "municipality": "花巻市",
+  "location": "東和町東晴山"
+ },
+ {
+  "jmh_id": "JMH-032042-0059",
+  "name": "下中内のオンコ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-09-27",
+  "municipality": "花巻市",
+  "location": "東和町中内"
+ },
+ {
+  "jmh_id": "JMH-032042-0060",
+  "name": "前郷の榧",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-09-27",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0062",
+  "name": "田瀬舘跡の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-09-27",
+  "municipality": "花巻市",
+  "location": "東和町田瀬"
+ },
+ {
+  "jmh_id": "JMH-032042-0063",
+  "name": "町井のサイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-09-27",
+  "municipality": "花巻市",
+  "location": "東和町町井"
+ },
+ {
+  "jmh_id": "JMH-032042-0061",
+  "name": "毒沢の栃の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-09-27",
+  "municipality": "花巻市",
+  "location": "東和町毒沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0090",
+  "name": "金毘羅さんの赤松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-01-26",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0089",
+  "name": "愛宕神社の種蒔き桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-01-26",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0169",
+  "name": "下小山田八幡神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-06-15",
+  "municipality": "花巻市",
+  "location": "東和町前田"
+ },
+ {
+  "jmh_id": "JMH-032042-0208",
+  "name": "町井の夫婦杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-06-16",
+  "municipality": "花巻市",
+  "location": "東和町町井"
+ },
+ {
+  "jmh_id": "JMH-032042-0207",
+  "name": "町井のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-06-16",
+  "municipality": "花巻市",
+  "location": "東和町町井"
+ },
+ {
+  "jmh_id": "JMH-032042-0038",
+  "name": "七ツ滝のおう穴",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町石鳩岡"
+ },
+ {
+  "jmh_id": "JMH-032042-0080",
+  "name": "五角柱状安山岩節理",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-06-25",
+  "municipality": "花巻市",
+  "location": "東和町南成島"
+ },
+ {
+  "jmh_id": "JMH-032042-0210",
+  "name": "蝙蝠岩弘法大師霊場の花崗岩",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-06-16",
+  "municipality": "花巻市",
+  "location": "東和町毒沢"
+ },
+ {
+  "jmh_id": "JMH-032026-0058",
+  "name": "黒森神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-07-19",
+  "municipality": "宮古市",
+  "location": "山口"
+ },
+ {
+  "jmh_id": "JMH-032026-0024",
+  "name": "小山田薬師堂厨子",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-05-29",
+  "municipality": "宮古市",
+  "location": "小山田"
+ }
+]

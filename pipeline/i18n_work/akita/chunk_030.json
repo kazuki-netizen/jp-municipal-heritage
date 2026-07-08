@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-052035-0157",
+  "name": "旧守徳堂村田薬局 店蔵、主屋、座敷蔵及び味 噌蔵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2017-04-24",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0158",
+  "name": "沼館八幡神社 神輿渡御行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2018-04-24",
+  "municipality": "横手市",
+  "location": "雄物川地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0159",
+  "name": "浅舞八幡神社 神輿渡御及び山車巡行行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2018-04-24",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0160",
+  "name": "沼館鏡図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2018-11-20",
+  "municipality": "横手市",
+  "location": "雄物川郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0161",
+  "name": "長安寺 方便法身尊像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2019-04-26",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0162",
+  "name": "横手城下全図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2021-03-29",
+  "municipality": "横手市",
+  "location": "横手図書館"
+ },
+ {
+  "jmh_id": "JMH-052035-0163",
+  "name": "金澤八幡宮伝世鉄製経筒他一式",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2024-06-18",
+  "municipality": "横手市",
+  "location": "後三年合戦金沢資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0164",
+  "name": "羽後平鹿郡阿桜城全景 柴田楳渓筆",
+  "category": "有形文化財",
+  "subcategory": "絵 画",
+  "designation": "市指定",
+  "designated_date": "2025-08-20",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0165",
+  "name": "堀田Ⅰ遺跡出土 烏帽子",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2026-03-24",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052108-0011",
+  "name": "鵜沼家（武家屋敷）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田大町字地蔵坂1-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0010",
+  "name": "遠藤家（武家屋敷）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田大町字地蔵坂1-2"
+ },
+ {
+  "jmh_id": "JMH-052108-0046",
+  "name": "昇降竜図ならびに鳴竜天井建造物",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市藤崎字藤代131"
+ },
+ {
+  "jmh_id": "JMH-052108-0050",
+  "name": "前郷日枝神社神楽殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1984-07-24",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市前郷字前郷95"
+ },
+ {
+  "jmh_id": "JMH-052108-0059",
+  "name": "熊野神社神殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1985-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城赤平字梅ヶ沢10"
+ },
+ {
+  "jmh_id": "JMH-052108-0060",
+  "name": "稲荷神社神殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1985-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城赤平字梅ヶ沢10"
+ },
+ {
+  "jmh_id": "JMH-052108-0061",
+  "name": "鎌田家（お抱え鍛冶屋）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1985-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田大町字地蔵坂1-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0058",
+  "name": "佐々木家（農家）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1985-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田大町字地蔵坂1-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0064",
+  "name": "徳沢不動尊堂・鬼面板二面",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-11-25",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市徳沢字大石沢"
+ },
+ {
+  "jmh_id": "JMH-052108-0063",
+  "name": "大倉沢諏訪神社宮殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-11-25",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市大倉沢字向沢158"
+ },
+ {
+  "jmh_id": "JMH-052108-0125",
+  "name": "切通稲荷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-09-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市長坂字雷田中島3"
+ },
+ {
+  "jmh_id": "JMH-052108-0150",
+  "name": "御嶽神社と境内一円",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1999-01-12",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城勝手字下谷地34"
+ },
+ {
+  "jmh_id": "JMH-052108-0152",
+  "name": "深山軒",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1999-01-12",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城下蛇田字高城地内"
+ },
+ {
+  "jmh_id": "JMH-052108-0151",
+  "name": "惣助亭",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1999-01-12",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城下蛇田字高城地内"
+ },
+ {
+  "jmh_id": "JMH-052108-0002",
+  "name": "金刀比羅神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1974-10-25",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町城内字八森8"
+ },
+ {
+  "jmh_id": "JMH-052108-0005",
+  "name": "木境大物忌神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975-09-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町城内字木境4"
+ },
+ {
+  "jmh_id": "JMH-052108-0191",
+  "name": "宮内八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2010-03-29",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市宮内字上下野15"
+ },
+ {
+  "jmh_id": "JMH-052108-0045",
+  "name": "形名行列図（武者押図）絵巻",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市東町63-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0138",
+  "name": "神馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1995-08-29",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城下蛇田字高城地内"
+ },
+ {
+  "jmh_id": "JMH-052108-0012",
+  "name": "龍門寺宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城赤平向山25"
+ },
+ {
+  "jmh_id": "JMH-052108-0048",
+  "name": "聖観音（坐像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-07-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市観音町24"
+ },
+ {
+  "jmh_id": "JMH-052108-0049",
+  "name": "聖観音（坐像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-07-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市石脇字弁慶川5"
+ },
+ {
+  "jmh_id": "JMH-052108-0053",
+  "name": "地蔵菩薩",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-09-10",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市徳沢字細田"
+ },
+ {
+  "jmh_id": "JMH-052108-0056",
+  "name": "青面金剛童子",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-09-10",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市北福田字沢入"
+ },
+ {
+  "jmh_id": "JMH-052108-0055",
+  "name": "石灯籠",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-09-10",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市新沢字上村14"
+ },
+ {
+  "jmh_id": "JMH-052108-0052",
+  "name": "十六羅漢",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-09-10",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市小栗山字中下モ"
+ },
+ {
+  "jmh_id": "JMH-052108-0062",
+  "name": "十一面観世音菩薩（立像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-02-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市赤田字上田表115"
+ },
+ {
+  "jmh_id": "JMH-052108-0071",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田最上町字本海小路13"
+ },
+ {
+  "jmh_id": "JMH-052108-0070",
+  "name": "御祖師日蓮像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田最上町字最上町145"
+ },
+ {
+  "jmh_id": "JMH-052108-0068",
+  "name": "善光寺式観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田亀田町字今町15"
+ },
+ {
+  "jmh_id": "JMH-052108-0072",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城亀田亀田町字今町15"
+ }
+]

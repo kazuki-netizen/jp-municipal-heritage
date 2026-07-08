@@ -1,0 +1,18 @@
+{
+  "69a592181987e522": {
+    "url": "https://www.city.sagamihara.kanagawa.jp/kankou/bunka/1022295/bunkazai/list/index.html",
+    "filename": "69a592181987e522.html",
+    "sha256": "ad4392c3615c28231bcbd3de93ee751b38eb49c6bfae86e79772ac46bc3acffb",
+    "fetched_at": "2026-07-08T03:18:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3420379c5962dfa0": {
+    "url": "https://www.city.sagamihara.kanagawa.jp/kankou/bunka/1022295/bunkazai/1010101.html",
+    "filename": "3420379c5962dfa0.html",
+    "sha256": "5b8ecd0e9d766d142de9e85229b95d3a8f11ed79efc48a87bbac02c79f1d045d",
+    "fetched_at": "2026-07-08T03:18:25Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

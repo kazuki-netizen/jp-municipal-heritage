@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-042161-0160",
+  "name": "砂山遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢南郷"
+ },
+ {
+  "jmh_id": "JMH-042161-0168",
+  "name": "紙漉沢遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢北郷"
+ },
+ {
+  "jmh_id": "JMH-042161-0162",
+  "name": "秋法館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢南郷"
+ },
+ {
+  "jmh_id": "JMH-042161-0198",
+  "name": "長原遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢袋"
+ },
+ {
+  "jmh_id": "JMH-042161-0185",
+  "name": "菅原館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢南郷"
+ },
+ {
+  "jmh_id": "JMH-042161-0034",
+  "name": "八沢I遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢南郷"
+ },
+ {
+  "jmh_id": "JMH-042161-0041",
+  "name": "半戸六II遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢北郷（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0042",
+  "name": "半戸六遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢北郷"
+ },
+ {
+  "jmh_id": "JMH-042161-0030",
+  "name": "保呂羽館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢南郷（八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0192",
+  "name": "豊後館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢袋"
+ },
+ {
+  "jmh_id": "JMH-042161-0124",
+  "name": "梨木平遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市鶯沢南郷"
+ },
+ {
+  "jmh_id": "JMH-042161-0101",
+  "name": "新山館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字川南"
+ },
+ {
+  "jmh_id": "JMH-042161-0059",
+  "name": "大林城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字大林"
+ },
+ {
+  "jmh_id": "JMH-042161-0214",
+  "name": "鶴ヶ城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳有賀"
+ },
+ {
+  "jmh_id": "JMH-042161-0129",
+  "name": "武鎗城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳武鎗"
+ },
+ {
+  "jmh_id": "JMH-042161-0038",
+  "name": "医王山薬師堂跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳武鎗"
+ },
+ {
+  "jmh_id": "JMH-042161-0169",
+  "name": "紫雲山万日堂跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳武鎗（安養寺ほか）"
+ },
+ {
+  "jmh_id": "JMH-042161-0151",
+  "name": "白玉山明覚寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳武鎗"
+ },
+ {
+  "jmh_id": "JMH-042161-0152",
+  "name": "盲人只都坊人柱の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字福岡"
+ },
+ {
+  "jmh_id": "JMH-042161-0053",
+  "name": "塩森兵庫邸跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字川南"
+ },
+ {
+  "jmh_id": "JMH-042161-0166",
+  "name": "糠塚遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市志波姫新糠塚36"
+ },
+ {
+  "jmh_id": "JMH-042161-0104",
+  "name": "旧奥州街道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市高清水八重壁から先"
+ },
+ {
+  "jmh_id": "JMH-042161-0140",
+  "name": "炭焼藤太の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市金成日向"
+ },
+ {
+  "jmh_id": "JMH-042161-0013",
+  "name": "上戸遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫字嶋躰"
+ },
+ {
+  "jmh_id": "JMH-042161-0195",
+  "name": "運難下遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂字清水"
+ },
+ {
+  "jmh_id": "JMH-042161-0069",
+  "name": "宝領A遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫川口"
+ },
+ {
+  "jmh_id": "JMH-042161-0135",
+  "name": "清水田遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫川口"
+ },
+ {
+  "jmh_id": "JMH-042161-0144",
+  "name": "牛渕渓谷",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫川口"
+ },
+ {
+  "jmh_id": "JMH-042161-0175",
+  "name": "聖徳太子堂御手洗湧水泉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳有賀（官庭寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0206",
+  "name": "音羽山清水寺庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒岩ケ崎（清水寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0118",
+  "name": "桂葉清水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市高清水長福寺"
+ },
+ {
+  "jmh_id": "JMH-042161-0132",
+  "name": "淀ヶ沢溜池の「テツギョ」",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫大川口"
+ },
+ {
+  "jmh_id": "JMH-042161-0077",
+  "name": "峯の高野槇",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳有賀"
+ },
+ {
+  "jmh_id": "JMH-042161-0116",
+  "name": "柳徳寺の桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字川南（柳徳寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0084",
+  "name": "平野神社のめおと銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字川北（平野神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0141",
+  "name": "熊野神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字大林（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0157",
+  "name": "矢立の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳有賀（御賀八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0057",
+  "name": "大川口館の大桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫大川口"
+ },
+ {
+  "jmh_id": "JMH-042161-0029",
+  "name": "保呂羽神社の姥杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂（保呂羽神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0108",
+  "name": "明神の一本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂"
+ }
+]

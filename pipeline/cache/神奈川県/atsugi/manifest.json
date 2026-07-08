@@ -1,0 +1,18 @@
+{
+  "fbab37b172b09c0a": {
+    "url": "https://www.city.atsugi.kanagawa.jp/soshiki/bunkazaihogoka/3/3320.html",
+    "filename": "fbab37b172b09c0a.html",
+    "sha256": "4fa2f75396814511328b17447ccbdc8f0b6a9fa35b8b156af79b93b4dc54fa8c",
+    "fetched_at": "2026-07-08T03:18:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b1e000717bd0b5ac": {
+    "url": "https://www.city.atsugi.kanagawa.jp/material/files/group/74/bunkazaiitiransaisin.xls",
+    "filename": "b1e000717bd0b5ac.csv",
+    "sha256": "0fa21233c6291e1b6931bf2a132682331a1fd26b99e237a59a24ccdc4aff5332",
+    "fetched_at": "2026-07-08T03:18:52Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

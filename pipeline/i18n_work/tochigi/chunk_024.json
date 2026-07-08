@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092100-0076",
+  "name": "南方のキャラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市南方773南方共同墓地内"
+ },
+ {
+  "jmh_id": "JMH-092100-0079",
+  "name": "二斗内のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-14",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市須佐木"
+ },
+ {
+  "jmh_id": "JMH-092100-0077",
+  "name": "洲崎のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市須佐木"
+ },
+ {
+  "jmh_id": "JMH-092100-0097",
+  "name": "ハクウンボク群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-03-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市本町1-2714鶯谷公園内"
+ },
+ {
+  "jmh_id": "JMH-092100-0098",
+  "name": "ユズリハの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-03-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市本町1-5-1成田山境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0104",
+  "name": "大塩のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-11-19",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市北野上110鼻取り地蔵堂内"
+ },
+ {
+  "jmh_id": "JMH-092100-0107",
+  "name": "アカガシ群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-12-06",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市滝岡210-3滝岡温泉神社境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0109",
+  "name": "ヌマスギ群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市加治屋83-1西郷神社境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0123",
+  "name": "雲巌寺のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1992-11-24",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市雲岩寺27"
+ },
+ {
+  "jmh_id": "JMH-092100-0117",
+  "name": "中野内温泉神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1992-11-24",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中野内1942"
+ },
+ {
+  "jmh_id": "JMH-092100-0146",
+  "name": "鹿島神社のモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-02-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市須賀川2039"
+ },
+ {
+  "jmh_id": "JMH-092088-0002",
+  "name": "小山評定跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1964-05-14",
+  "municipality": "小山市",
+  "location": "中央町 小山市"
+ },
+ {
+  "jmh_id": "JMH-092088-0003",
+  "name": "篠塚稲荷神社塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1965-04-27",
+  "municipality": "小山市",
+  "location": "大本 篠塚稲荷神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0006",
+  "name": "飯塚一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1965-09-03",
+  "municipality": "小山市",
+  "location": "飯塚 小山市"
+ },
+ {
+  "jmh_id": "JMH-092088-0037",
+  "name": "神鳥谷曲輪跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "2007-12-28",
+  "municipality": "小山市",
+  "location": "神鳥谷 小山市"
+ },
+ {
+  "jmh_id": "JMH-092088-0014",
+  "name": "外城2号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1979-10-01",
+  "municipality": "小山市",
+  "location": "外城 個人蔵"
+ },
+ {
+  "jmh_id": "JMH-092088-0023",
+  "name": "横倉戸館古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1983-02-01",
+  "municipality": "小山市",
+  "location": "横倉 個人蔵"
+ },
+ {
+  "jmh_id": "JMH-092088-0020",
+  "name": "小山ゴルフクラブ内古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1983-02-01",
+  "municipality": "小山市",
+  "location": "喜沢 小山カントリークラブ"
+ },
+ {
+  "jmh_id": "JMH-092088-0021",
+  "name": "日光街道西一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1983-02-01",
+  "municipality": "小山市",
+  "location": "喜沢 小山カントリークラブ"
+ },
+ {
+  "jmh_id": "JMH-092088-0022",
+  "name": "東島田10号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1983-02-01",
+  "municipality": "小山市",
+  "location": "東島田 日本聖公会北関東教区"
+ },
+ {
+  "jmh_id": "JMH-092088-0019",
+  "name": "寒沢古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1983-02-01",
+  "municipality": "小山市",
+  "location": "乙女 個人蔵"
+ },
+ {
+  "jmh_id": "JMH-092088-0018",
+  "name": "中妻古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1983-02-01",
+  "municipality": "小山市",
+  "location": "乙女 個人蔵"
+ },
+ {
+  "jmh_id": "JMH-092088-0030",
+  "name": "飯塚35号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1988-11-28",
+  "municipality": "小山市",
+  "location": "飯塚 小山市"
+ },
+ {
+  "jmh_id": "JMH-092088-0034",
+  "name": "宮内5号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1998-02-03",
+  "municipality": "小山市",
+  "location": "粟宮 小山市"
+ },
+ {
+  "jmh_id": "JMH-092088-0001",
+  "name": "南飯田の神田囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1964-05-14",
+  "municipality": "小山市",
+  "location": "南飯田地区"
+ },
+ {
+  "jmh_id": "JMH-092088-0004",
+  "name": "篠塚初午祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1965-08-27",
+  "municipality": "小山市",
+  "location": "篠塚稲荷神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0005",
+  "name": "白鳥八幡宮古式祭礼",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1965-08-30",
+  "municipality": "小山市",
+  "location": "白鳥八幡宮"
+ },
+ {
+  "jmh_id": "JMH-092088-0008",
+  "name": "田間血方神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-04-20",
+  "municipality": "小山市",
+  "location": "田間血方神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0012",
+  "name": "花桶かつぎ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-03-11",
+  "municipality": "小山市",
+  "location": "龍樹寺から胸形神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0025",
+  "name": "高椅神社の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-03-01",
+  "municipality": "小山市",
+  "location": "高椅神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0024",
+  "name": "篠塚稲荷神社の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-03-01",
+  "municipality": "小山市",
+  "location": "篠塚稲荷神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0027",
+  "name": "安房神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-02-10",
+  "municipality": "小山市",
+  "location": "安房神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0032",
+  "name": "アワガラ神輿の習俗",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-01",
+  "municipality": "小山市",
+  "location": "安房神社"
+ },
+ {
+  "jmh_id": "JMH-092088-0035",
+  "name": "中河原の廻り地蔵",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-02-27",
+  "municipality": "小山市",
+  "location": "中河原地内"
+ },
+ {
+  "jmh_id": "JMH-092088-0036",
+  "name": "ナムジゾウの習俗",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-12-21",
+  "municipality": "小山市",
+  "location": "中村地内・発戸地内"
+ },
+ {
+  "jmh_id": "JMH-092088-0007",
+  "name": "公孫樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1965-12-21",
+  "municipality": "小山市",
+  "location": "本郷町1丁目（城山公園内）"
+ },
+ {
+  "jmh_id": "JMH-092088-0009",
+  "name": "小宅八幡宮のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-01-09",
+  "municipality": "小山市",
+  "location": "小山市小宅"
+ },
+ {
+  "jmh_id": "JMH-092088-0010",
+  "name": "ナウマン象 第3臼歯化石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-10-02",
+  "municipality": "小山市",
+  "location": "小山市立博物館"
+ },
+ {
+  "jmh_id": "JMH-092088-0011",
+  "name": "愛宕神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-12-18",
+  "municipality": "小山市",
+  "location": "小山市宮本町"
+ },
+ {
+  "jmh_id": "JMH-092088-0013",
+  "name": "安房神社のモミ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-08-01",
+  "municipality": "小山市",
+  "location": "小山市粟宮"
+ }
+]

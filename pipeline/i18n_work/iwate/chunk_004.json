@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032018-0037",
+  "name": "高舘古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-20",
+  "municipality": "盛岡市",
+  "location": "盛岡市上飯岡9地割33"
+ },
+ {
+  "jmh_id": "JMH-032018-0034",
+  "name": "経塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-20",
+  "municipality": "盛岡市",
+  "location": "盛岡市永井21地割5-69"
+ },
+ {
+  "jmh_id": "JMH-032018-0036",
+  "name": "餓死供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-20",
+  "municipality": "盛岡市",
+  "location": "盛岡市乙部13地割129"
+ },
+ {
+  "jmh_id": "JMH-032018-0066",
+  "name": "簗川一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-11-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市簗川第1地割4-5地内、12地内"
+ },
+ {
+  "jmh_id": "JMH-032018-0064",
+  "name": "曽利田一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-11-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市簗川第6地割9-2"
+ },
+ {
+  "jmh_id": "JMH-032018-0063",
+  "name": "大倉峠一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-11-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市簗川第7地割23-2地内"
+ },
+ {
+  "jmh_id": "JMH-032018-0068",
+  "name": "鍛冶町一里塚跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-06-10",
+  "municipality": "盛岡市",
+  "location": "盛岡市紺屋町78-1"
+ },
+ {
+  "jmh_id": "JMH-032018-0076",
+  "name": "大堂一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-08-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市上米内字米内沢50-2、字白石88-13"
+ },
+ {
+  "jmh_id": "JMH-032018-0020",
+  "name": "上米内のシダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-01-12",
+  "municipality": "盛岡市",
+  "location": "盛岡市上米内字赤坂44"
+ },
+ {
+  "jmh_id": "JMH-032018-0027",
+  "name": "法華寺のヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-22",
+  "municipality": "盛岡市",
+  "location": "盛岡市北山一丁目4-10"
+ },
+ {
+  "jmh_id": "JMH-032018-0026",
+  "name": "愛宕町のベニシダレ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-22",
+  "municipality": "盛岡市",
+  "location": "盛岡市愛宕町地内"
+ },
+ {
+  "jmh_id": "JMH-032018-0022",
+  "name": "円光寺の夫婦カツラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-22",
+  "municipality": "盛岡市",
+  "location": "盛岡市南大通三丁目11-49"
+ },
+ {
+  "jmh_id": "JMH-032018-0025",
+  "name": "宰郷のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-22",
+  "municipality": "盛岡市",
+  "location": "盛岡市上太田細工4"
+ },
+ {
+  "jmh_id": "JMH-032018-0024",
+  "name": "大宮神社のモミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-22",
+  "municipality": "盛岡市",
+  "location": "盛岡市本宮字大宮51"
+ },
+ {
+  "jmh_id": "JMH-032018-0023",
+  "name": "南仙北のケンポナシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-22",
+  "municipality": "盛岡市",
+  "location": "盛岡市南仙北二丁目4-11"
+ },
+ {
+  "jmh_id": "JMH-032018-0031",
+  "name": "夏屋敷のキャラボク",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-07-20",
+  "municipality": "盛岡市",
+  "location": "盛岡市黒川18地割33"
+ },
+ {
+  "jmh_id": "JMH-032018-0035",
+  "name": "菖蒲田のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-07-20",
+  "municipality": "盛岡市",
+  "location": "盛岡市乙部28地割10"
+ },
+ {
+  "jmh_id": "JMH-032018-0061",
+  "name": "法華寺のモリオカシダレ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市北山一丁目4-10"
+ },
+ {
+  "jmh_id": "JMH-032018-0060",
+  "name": "本誓寺のホンセイジシダレ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市名須川町3-16"
+ },
+ {
+  "jmh_id": "JMH-032018-0067",
+  "name": "薬師神社のクロビ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-07-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市猪去上平89"
+ },
+ {
+  "jmh_id": "JMH-032018-0115",
+  "name": "名乗坂のエドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-04-01",
+  "municipality": "盛岡市",
+  "location": "盛岡市山岸字名乗15-4"
+ },
+ {
+  "jmh_id": "JMH-032140-0124",
+  "name": "正法寺開山堂・小方丈",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1985-10-16",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢黒石町字正法寺129"
+ },
+ {
+  "jmh_id": "JMH-032140-0136",
+  "name": "竃神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢古城字北高大寺1"
+ },
+ {
+  "jmh_id": "JMH-032140-0152",
+  "name": "旧内田家住宅主屋及び門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢吉小路43"
+ },
+ {
+  "jmh_id": "JMH-032140-0153",
+  "name": "鎮守府八幡宮本殿・拝殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢佐倉河字宮ノ内12"
+ },
+ {
+  "jmh_id": "JMH-032140-0183",
+  "name": "中善蔵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-05-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺大通り3-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0155",
+  "name": "絹本竹之図墨絵",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-06-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字南陣場103-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0156",
+  "name": "絹本鷹之図墨絵",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-06-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字南陣場103-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0029",
+  "name": "木造千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢生母字西舘"
+ },
+ {
+  "jmh_id": "JMH-032140-0052",
+  "name": "木造釈迦如来立像(三沢初子持仏）　附　厨子、釈迦堂創建記石板、釈迦堂棟札",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字山下181"
+ },
+ {
+  "jmh_id": "JMH-032140-0063",
+  "name": "木造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-10-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字山下72"
+ },
+ {
+  "jmh_id": "JMH-032140-0064",
+  "name": "金命丸本舗看板",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-10-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字七日町裏"
+ },
+ {
+  "jmh_id": "JMH-032140-0065",
+  "name": "木造五百羅漢像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-03-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字下小路84"
+ },
+ {
+  "jmh_id": "JMH-032140-0084",
+  "name": "木造僧形坐像外",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺藤里字智福39"
+ },
+ {
+  "jmh_id": "JMH-032140-0086",
+  "name": "木造毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0088",
+  "name": "木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0085",
+  "name": "木造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺玉里字玉崎498"
+ },
+ {
+  "jmh_id": "JMH-032140-0090",
+  "name": "獅子頭",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺梁川字小林193"
+ },
+ {
+  "jmh_id": "JMH-032140-0087",
+  "name": "木造神面",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺田原字大田"
+ },
+ {
+  "jmh_id": "JMH-032140-0111",
+  "name": "木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山字森"
+ }
+]

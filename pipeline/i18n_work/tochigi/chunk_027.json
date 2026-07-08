@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092045-0183",
+  "name": "小曽戸家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2014-07-29",
+  "municipality": "佐野市",
+  "location": "佐野市会沢町"
+ },
+ {
+  "jmh_id": "JMH-092045-0027",
+  "name": "男子武人半身像埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1960-04-09",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0046",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1962-03-22",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0047",
+  "name": "細頸壺形土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1962-03-22",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0079",
+  "name": "鬼面蓮華文鐙瓦",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1968-12-19",
+  "municipality": "佐野市",
+  "location": "佐野市富岡町93"
+ },
+ {
+  "jmh_id": "JMH-092045-0077",
+  "name": "ヘラ描文鐙瓦",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1968-12-19",
+  "municipality": "佐野市",
+  "location": "佐野市富岡町93"
+ },
+ {
+  "jmh_id": "JMH-092045-0078",
+  "name": "押型文国分寺瓦",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1968-12-19",
+  "municipality": "佐野市",
+  "location": "佐野市富岡町93"
+ },
+ {
+  "jmh_id": "JMH-092045-0100",
+  "name": "石造宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1974-12-20",
+  "municipality": "佐野市",
+  "location": "佐野市下彦間町999"
+ },
+ {
+  "jmh_id": "JMH-092045-0152",
+  "name": "蜀山人歌碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1994-02-21",
+  "municipality": "佐野市",
+  "location": "佐野市田沼町1404"
+ },
+ {
+  "jmh_id": "JMH-092045-0150",
+  "name": "石造宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1994-02-21",
+  "municipality": "佐野市",
+  "location": "佐野市山越町345"
+ },
+ {
+  "jmh_id": "JMH-092045-0149",
+  "name": "石造双体道祖神立像",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1994-02-21",
+  "municipality": "佐野市",
+  "location": "佐野市戸奈良町"
+ },
+ {
+  "jmh_id": "JMH-092045-0151",
+  "name": "石造層塔光明真言供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1994-02-21",
+  "municipality": "佐野市",
+  "location": "佐野市下彦間町2031"
+ },
+ {
+  "jmh_id": "JMH-092045-0156",
+  "name": "石幢",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1995-03-20",
+  "municipality": "佐野市",
+  "location": "佐野市栃本町2348"
+ },
+ {
+  "jmh_id": "JMH-092045-0163",
+  "name": "石造宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-10-03",
+  "municipality": "佐野市",
+  "location": "佐野市飛駒町193"
+ },
+ {
+  "jmh_id": "JMH-092045-0162",
+  "name": "崇禅寺の絵馬（猩猩乱図）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-10-03",
+  "municipality": "佐野市",
+  "location": "佐野市長谷場町960"
+ },
+ {
+  "jmh_id": "JMH-092045-0167",
+  "name": "石造佐野坂東観音巡礼開創供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1999-03-30",
+  "municipality": "佐野市",
+  "location": "佐野市吉水町925"
+ },
+ {
+  "jmh_id": "JMH-092045-0168",
+  "name": "銅造半鐘",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1999-03-30",
+  "municipality": "佐野市",
+  "location": "佐野市飛駒町1227"
+ },
+ {
+  "jmh_id": "JMH-092045-0165",
+  "name": "四文字額 「奉納冠句合」",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1999-03-30",
+  "municipality": "佐野市",
+  "location": "佐野市戸室町627"
+ },
+ {
+  "jmh_id": "JMH-092045-0173",
+  "name": "出流原遺跡出土弥生時代資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2004-12-22",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0172",
+  "name": "八幡山古墳出土資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2004-12-22",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0178",
+  "name": "青磁 不遊環花生",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2008-09-25",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0184",
+  "name": "上林遺跡出土旧石器時代資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2018-02-15",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0017",
+  "name": "紙本墨書 念仏日記",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1958-06-25",
+  "municipality": "佐野市",
+  "location": "佐野市犬伏下町2285"
+ },
+ {
+  "jmh_id": "JMH-092045-0021",
+  "name": "紙本着色灯籠献上図及び六角釣灯籠",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1959-10-21",
+  "municipality": "佐野市",
+  "location": "佐野市金吹町"
+ },
+ {
+  "jmh_id": "JMH-092045-0025",
+  "name": "菅神廟の碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1959-12-24",
+  "municipality": "佐野市",
+  "location": "佐野市天神町807"
+ },
+ {
+  "jmh_id": "JMH-092045-0035",
+  "name": "勅額及び下馬札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1961-05-27",
+  "municipality": "佐野市",
+  "location": "佐野市天明町2229"
+ },
+ {
+  "jmh_id": "JMH-092045-0052",
+  "name": "中根東里学則版木",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1962-08-27",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0053",
+  "name": "芭蕉あやめ塚句碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1962-08-27",
+  "municipality": "佐野市",
+  "location": "佐野市金屋下町12"
+ },
+ {
+  "jmh_id": "JMH-092045-0054",
+  "name": "顔氏家廟碑法帖",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1962-10-10",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0070",
+  "name": "下野国絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1966-12-14",
+  "municipality": "佐野市",
+  "location": "佐野市船津川町"
+ },
+ {
+  "jmh_id": "JMH-092045-0076",
+  "name": "キリシタン禁制の高札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1968-12-19",
+  "municipality": "佐野市",
+  "location": "佐野市富岡町93"
+ },
+ {
+  "jmh_id": "JMH-092045-0082",
+  "name": "おしどり塚歌碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-12-16",
+  "municipality": "佐野市",
+  "location": "佐野市浅沼町249"
+ },
+ {
+  "jmh_id": "JMH-092045-0088",
+  "name": "佐野城墟碑及び城郭図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1973-03-22",
+  "municipality": "佐野市",
+  "location": "佐野市植下町"
+ },
+ {
+  "jmh_id": "JMH-092045-0096",
+  "name": "永代接待船供養塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1974-09-14",
+  "municipality": "佐野市",
+  "location": "佐野市西浦町416"
+ },
+ {
+  "jmh_id": "JMH-092045-0097",
+  "name": "永代接待船供養塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1974-09-14",
+  "municipality": "佐野市",
+  "location": "佐野市鐙塚町230-1"
+ },
+ {
+  "jmh_id": "JMH-092045-0104",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1975-06-30",
+  "municipality": "佐野市",
+  "location": "佐野市鉢木町15-5"
+ },
+ {
+  "jmh_id": "JMH-092045-0171",
+  "name": "佐野雛人形",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-12-22",
+  "municipality": "佐野市",
+  "location": "佐野市上台町"
+ },
+ {
+  "jmh_id": "JMH-092045-0024",
+  "name": "竜吐水",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財(有形)",
+  "designation": "市指定",
+  "designated_date": "1959-12-24",
+  "municipality": "佐野市",
+  "location": "佐野市久保町41"
+ },
+ {
+  "jmh_id": "JMH-092045-0032",
+  "name": "額絵馬",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財(有形)",
+  "designation": "市指定",
+  "designated_date": "1960-06-24",
+  "municipality": "佐野市",
+  "location": "佐野市並木町167"
+ },
+ {
+  "jmh_id": "JMH-092045-0038",
+  "name": "紙本着色 十王の図",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財(有形)",
+  "designation": "市指定",
+  "designated_date": "1961-05-27",
+  "municipality": "佐野市",
+  "location": "佐野市天明町2229"
+ }
+]

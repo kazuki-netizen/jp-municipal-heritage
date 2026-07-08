@@ -1,0 +1,380 @@
+[
+ {
+  "jmh_id": "JMH-034029-0031",
+  "name": "吉里吉里鹿子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2020-07-11",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0030",
+  "name": "吉里吉里大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2020-07-11",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-035033-0001",
+  "name": "前川善兵衛寄進の石仏",
+  "category": "有形文化財",
+  "subcategory": "村有形文化財",
+  "designation": "村指定",
+  "designated_date": "1976-05-24",
+  "municipality": "野田村",
+  "location": "野田村"
+ },
+ {
+  "jmh_id": "JMH-035033-0002",
+  "name": "神明様神木ヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "村史跡名勝天然記念物",
+  "designation": "村指定",
+  "designated_date": "1978-03-17",
+  "municipality": "野田村",
+  "location": "野田村門前小路"
+ },
+ {
+  "jmh_id": "JMH-035033-0003",
+  "name": "チョウセンアカシジミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "村史跡名勝天然記念物",
+  "designation": "村指定",
+  "designated_date": "1988-02-19",
+  "municipality": "野田村",
+  "location": "野田村（明内地区・根井地区）"
+ },
+ {
+  "jmh_id": "JMH-035033-0004",
+  "name": "カワシンジュガイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "村史跡名勝天然記念物",
+  "designation": "村指定",
+  "designated_date": "2011-04-28",
+  "municipality": "野田村",
+  "location": "野田村 安家川"
+ },
+ {
+  "jmh_id": "JMH-035033-0005",
+  "name": "米田浜津波堆積物地層",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "村史跡名勝天然記念物",
+  "designation": "村指定",
+  "designated_date": "2022-03-23",
+  "municipality": "野田村",
+  "location": "野田村 十府ヶ浦海岸南端部"
+ },
+ {
+  "jmh_id": "JMH-034282-0001",
+  "name": "笠形燈篭",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1978-07-08",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0002",
+  "name": "経典（六百巻）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "町指定",
+  "designated_date": "1978-07-08",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0004",
+  "name": "舟たんす",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1980-03-31",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0003",
+  "name": "旭日天女像彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1980-03-31",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0005",
+  "name": "鉄山秘書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1980-03-31",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0007",
+  "name": "遮光器土偶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1992-04-01",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0008",
+  "name": "安家村俊作関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0006",
+  "name": "紫根染",
+  "category": "無形文化財",
+  "designation": "町指定",
+  "designated_date": "1992-04-01",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0027",
+  "name": "長田剣舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0023",
+  "name": "救沢念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0020",
+  "name": "岩泉鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0026",
+  "name": "釜津田鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0018",
+  "name": "安家御神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0013",
+  "name": "出羽神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0025",
+  "name": "猿沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0021",
+  "name": "岸神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0011",
+  "name": "中野七頭舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0017",
+  "name": "大牛内七ツ舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0022",
+  "name": "川代鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0009",
+  "name": "中島七ツ舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0019",
+  "name": "安家鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0016",
+  "name": "向町さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0024",
+  "name": "月出七ツ舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0012",
+  "name": "二升石黒森流鹿踊附森山流大念佛",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0010",
+  "name": "中里七ツ舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0015",
+  "name": "南部牛追唄",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-034282-0014",
+  "name": "南部牛方節",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "municipality": "岩泉町",
+  "location": "岩泉町"
+ },
+ {
+  "jmh_id": "JMH-035025-0001",
+  "name": "古屋敷の千本桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "1973-04-01",
+  "municipality": "軽米町",
+  "location": "岩手県九戸郡軽米町大字晴山第26地割77番地4"
+ },
+ {
+  "jmh_id": "JMH-035301-0003",
+  "name": "伝弁慶の墓",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1976-06-15",
+  "municipality": "平泉町",
+  "location": "平泉"
+ },
+ {
+  "jmh_id": "JMH-035301-0002",
+  "name": "岩面大佛（大日如来）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1971-11-12",
+  "municipality": "平泉町",
+  "location": "平泉"
+ },
+ {
+  "jmh_id": "JMH-035301-0001",
+  "name": "多門天像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1971-11-12",
+  "municipality": "平泉町",
+  "location": "平泉"
+ },
+ {
+  "jmh_id": "JMH-035301-0016",
+  "name": "オダイシサマ",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2016-03-01",
+  "municipality": "平泉町",
+  "location": "長嶋"
+ },
+ {
+  "jmh_id": "JMH-035301-0004",
+  "name": "田頭念仏仏",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1982-04-10",
+  "municipality": "平泉町",
+  "location": "平泉"
+ }
+]

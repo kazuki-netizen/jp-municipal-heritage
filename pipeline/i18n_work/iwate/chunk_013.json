@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032085-0110",
+  "name": "道標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-07-28",
+  "municipality": "一関市",
+  "location": "東山町長坂字南磐井里"
+ },
+ {
+  "jmh_id": "JMH-032085-0111",
+  "name": "道標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-07-28",
+  "municipality": "一関市",
+  "location": "東山町田河津字石ノ森"
+ },
+ {
+  "jmh_id": "JMH-032085-0112",
+  "name": "道標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-07-28",
+  "municipality": "一関市",
+  "location": "東山町田河津字丸木"
+ },
+ {
+  "jmh_id": "JMH-032085-0083",
+  "name": "青柳倉記碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1989-03-24",
+  "municipality": "一関市",
+  "location": "東山町松川字中通"
+ },
+ {
+  "jmh_id": "JMH-032085-0109",
+  "name": "菅公夫人の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-07-28",
+  "municipality": "一関市",
+  "location": "東山町田河津字竹沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0108",
+  "name": "磐井清水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-07-28",
+  "municipality": "一関市",
+  "location": "東山町松川字卯入道平"
+ },
+ {
+  "jmh_id": "JMH-032085-0029",
+  "name": "宗松寺の杉並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "一関市",
+  "location": "東山町松川字町裏ノ上"
+ },
+ {
+  "jmh_id": "JMH-032085-0093",
+  "name": "配志和神社の夫婦杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-04-01",
+  "municipality": "一関市",
+  "location": "一関市山目字舘"
+ },
+ {
+  "jmh_id": "JMH-032085-0091",
+  "name": "白鳥神社の姥杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-04-01",
+  "municipality": "一関市",
+  "location": "一関市山目字舘"
+ },
+ {
+  "jmh_id": "JMH-032085-0028",
+  "name": "宗松寺のモミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "一関市",
+  "location": "東山町松川字町裏ノ上"
+ },
+ {
+  "jmh_id": "JMH-032085-0027",
+  "name": "双根のモミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "一関市",
+  "location": "東山町田河津字夏山"
+ },
+ {
+  "jmh_id": "JMH-032085-0092",
+  "name": "配志和神社のモミ林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-04-01",
+  "municipality": "一関市",
+  "location": "一関市山目字舘"
+ },
+ {
+  "jmh_id": "JMH-032085-0137",
+  "name": "モミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-05-01",
+  "municipality": "一関市",
+  "location": "一関市舞川字大平"
+ },
+ {
+  "jmh_id": "JMH-032085-0026",
+  "name": "シダレヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "一関市",
+  "location": "東山町田河津字野土"
+ },
+ {
+  "jmh_id": "JMH-032085-0038",
+  "name": "種蒔桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-03-20",
+  "municipality": "一関市",
+  "location": "千厩町奥玉字物見石"
+ },
+ {
+  "jmh_id": "JMH-032085-0122",
+  "name": "エドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2001-07-01",
+  "municipality": "一関市",
+  "location": "厳美町字滝ノ上"
+ },
+ {
+  "jmh_id": "JMH-032085-0123",
+  "name": "サイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2001-07-01",
+  "municipality": "一関市",
+  "location": "一関市赤荻字外山"
+ },
+ {
+  "jmh_id": "JMH-032085-0131",
+  "name": "サイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-11-25",
+  "municipality": "一関市",
+  "location": "花泉町永井字薬師沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0132",
+  "name": "サイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-11-25",
+  "municipality": "一関市",
+  "location": "花泉町金沢字孫六"
+ },
+ {
+  "jmh_id": "JMH-032085-0025",
+  "name": "イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "一関市",
+  "location": "東山町田河津字田ノ萱"
+ },
+ {
+  "jmh_id": "JMH-032085-0030",
+  "name": "紅梅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "一関市",
+  "location": "東山町長坂字東本町"
+ },
+ {
+  "jmh_id": "JMH-032085-0037",
+  "name": "神中の桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-03-20",
+  "municipality": "一関市",
+  "location": "千厩町小梨字天神"
+ },
+ {
+  "jmh_id": "JMH-032085-0039",
+  "name": "糸ヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-03-20",
+  "municipality": "一関市",
+  "location": "千厩町磐清水字関上"
+ },
+ {
+  "jmh_id": "JMH-032085-0094",
+  "name": "長泉寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-04-01",
+  "municipality": "一関市",
+  "location": "一関市萩荘字舘下"
+ },
+ {
+  "jmh_id": "JMH-032085-0095",
+  "name": "イロハモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-10-01",
+  "municipality": "一関市",
+  "location": "一関市萩荘字舘山"
+ },
+ {
+  "jmh_id": "JMH-032085-0096",
+  "name": "コナラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-10-01",
+  "municipality": "一関市",
+  "location": "一関市萩荘字長倉"
+ },
+ {
+  "jmh_id": "JMH-032085-0134",
+  "name": "シラカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-11-25",
+  "municipality": "一関市",
+  "location": "花泉町油島字伊沢黒"
+ },
+ {
+  "jmh_id": "JMH-032085-0133",
+  "name": "シダレグリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-11-25",
+  "municipality": "一関市",
+  "location": "花泉町日形字上通"
+ },
+ {
+  "jmh_id": "JMH-032085-0147",
+  "name": "芦東山日記",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "2020-08-19",
+  "municipality": "一関市",
+  "location": "大東町渋民"
+ },
+ {
+  "jmh_id": "JMH-032085-0144",
+  "name": "玩易齋遺稿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(典籍)",
+  "designation": "市指定",
+  "designated_date": "2020-08-19",
+  "municipality": "一関市",
+  "location": "大東町渋民"
+ },
+ {
+  "jmh_id": "JMH-032085-0145",
+  "name": "白澤神社おためし神事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(風俗慣習)",
+  "designation": "市指定",
+  "designated_date": "2020-08-19",
+  "municipality": "一関市",
+  "location": "藤沢町西口"
+ },
+ {
+  "jmh_id": "JMH-032085-0142",
+  "name": "小沼鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "2020-08-19",
+  "municipality": "一関市",
+  "location": "大東町摺沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0141",
+  "name": "下猿澤伊勢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "2020-08-19",
+  "municipality": "一関市",
+  "location": "大東町猿沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0143",
+  "name": "渋民伊勢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "2020-08-19",
+  "municipality": "一関市",
+  "location": "大東町渋民"
+ },
+ {
+  "jmh_id": "JMH-032085-0146",
+  "name": "舞草鉦太鼓念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "2020-08-19",
+  "municipality": "一関市",
+  "location": "舞川"
+ },
+ {
+  "jmh_id": "JMH-032085-0148",
+  "name": "銅造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(彫刻)",
+  "designation": "市指定",
+  "designated_date": "2022-08-24",
+  "municipality": "一関市",
+  "location": "千厩町千厩字北方"
+ },
+ {
+  "jmh_id": "JMH-032085-0151",
+  "name": "銚子浪分神社の猫絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財(信仰)",
+  "designation": "市指定",
+  "designated_date": "2023-04-26",
+  "municipality": "一関市",
+  "location": "大東町渋民字小林"
+ },
+ {
+  "jmh_id": "JMH-032085-0149",
+  "name": "かま神",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財(信仰)",
+  "designation": "市指定",
+  "designated_date": "2023-04-26",
+  "municipality": "一関市",
+  "location": "大東町渋民字小林・千厩町千厩字北方"
+ },
+ {
+  "jmh_id": "JMH-032085-0150",
+  "name": "油しめ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財(生業)",
+  "designation": "市指定",
+  "designated_date": "2023-04-26",
+  "municipality": "一関市",
+  "location": "大東町渋民字小林"
+ },
+ {
+  "jmh_id": "JMH-032085-0152",
+  "name": "蕨手刀 附関係資料一括",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2023-09-22",
+  "municipality": "一関市",
+  "location": "藤沢町黄海字八景下"
+ }
+]

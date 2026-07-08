@@ -1,0 +1,322 @@
+[
+ {
+  "jmh_id": "JMH-033057-0022",
+  "name": "森の栃の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0020",
+  "name": "本淨寺の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0028",
+  "name": "白沢のハコネウツギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0027",
+  "name": "白沢のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0008",
+  "name": "和味のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0010",
+  "name": "和山のハコネウツギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-033057-0012",
+  "name": "小白沢のヤマクワ群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "矢巾町"
+ },
+ {
+  "jmh_id": "JMH-032123-0037",
+  "name": "槻蔭舎",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0051",
+  "name": "稲荷文庫",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0070",
+  "name": "陸奥の土風",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0053",
+  "name": "蕐籠（けこ）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0031",
+  "name": "懸仏（御正躰）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0063",
+  "name": "鉄鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0065",
+  "name": "銅造阿弥陀三尊立像懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0026",
+  "name": "天台寺古仏像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0066",
+  "name": "銅鍾",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0062",
+  "name": "釣灯籠",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0052",
+  "name": "華鬘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0067",
+  "name": "鑿子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0049",
+  "name": "神輿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0072",
+  "name": "香炉",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0017",
+  "name": "半鐘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0027",
+  "name": "天台寺大絵馬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0029",
+  "name": "天台時詩歌額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0028",
+  "name": "天台寺赤漆前机",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0010",
+  "name": "仁王像（阿吽）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0045",
+  "name": "獅子頭（天台寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0046",
+  "name": "獅子頭（武内神社）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0044",
+  "name": "獅子頭（大宮神社）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0030",
+  "name": "如意輪観音像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0069",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0059",
+  "name": "金剛力士像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0057",
+  "name": "観音菩薩立像（福岡地区）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0058",
+  "name": "観音菩薩立像（龍岩寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0056",
+  "name": "観音菩薩坐像（龍岩寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0055",
+  "name": "観音菩薩坐像（岩谷観音堂）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0071",
+  "name": "韋駄天像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0007",
+  "name": "不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0012",
+  "name": "伝薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ },
+ {
+  "jmh_id": "JMH-032123-0068",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "二戸市"
+ }
+]

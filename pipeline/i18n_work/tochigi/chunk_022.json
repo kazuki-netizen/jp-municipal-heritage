@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092100-0093",
+  "name": "黒羽城鳥瞰図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-07-19",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0094",
+  "name": "半鐘",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-09-07",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市薄葉"
+ },
+ {
+  "jmh_id": "JMH-092100-0099",
+  "name": "大田原宿町並の図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-03-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市新富町"
+ },
+ {
+  "jmh_id": "JMH-092100-0129",
+  "name": "紙本著色大田原資清と一族の肖像画",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1998-02-23",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市山の手2-9-2龍泉寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0137",
+  "name": "紙本著色黒羽城郭(居館)の図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-06-21",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町450大雄寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0134",
+  "name": "大関公之碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-06-21",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田1073鎮国神社境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0138",
+  "name": "芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-06-21",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽向町100常念寺境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0142",
+  "name": "旧作新館講堂格天井",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-02-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町525黒羽小学校内"
+ },
+ {
+  "jmh_id": "JMH-092100-0148",
+  "name": "紙本墨画達磨図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2010-08-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町450大雄寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0149",
+  "name": "絹本墨画乗龍菩薩・竹・梅",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2010-08-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町450大雄寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0112",
+  "name": "額絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-03-06",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市山の手2-2039大田原神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0003",
+  "name": "永代々神楽(那須神社)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1961-03-22",
+  "municipality": "大田原市",
+  "location": "大田原南金丸1628那須神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0010",
+  "name": "天念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1961-12-08",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市花園1207長泉寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0013",
+  "name": "草刈唄",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1961-12-08",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市花園"
+ },
+ {
+  "jmh_id": "JMH-092100-0016",
+  "name": "獅子舞(那須神社)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1962-06-22",
+  "municipality": "大田原市",
+  "location": "大田原南金丸1628那須神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0015",
+  "name": "太々神楽(八龍神社)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1962-06-22",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市羽田681八龍神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0022",
+  "name": "餅つき唄(福原)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963-03-07",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市福原1264玄性寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0069",
+  "name": "温泉神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中野内1942温泉神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0068",
+  "name": "温泉神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中野内1942温泉神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0095",
+  "name": "大田原の盆踊り唄",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-09-07",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市"
+ },
+ {
+  "jmh_id": "JMH-092100-0096",
+  "name": "天祭(八龍神社)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-09-07",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市羽田681八龍神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0108",
+  "name": "両郷磯上太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-05-21",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市両郷"
+ },
+ {
+  "jmh_id": "JMH-092100-0147",
+  "name": "黒羽餅つき唄",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-02-16",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市北滝"
+ },
+ {
+  "jmh_id": "JMH-092100-0002",
+  "name": "一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-03-22",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中田原2090-5"
+ },
+ {
+  "jmh_id": "JMH-092100-0004",
+  "name": "湯坂遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-03-22",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市北金丸2180"
+ },
+ {
+  "jmh_id": "JMH-092100-0006",
+  "name": "蒲盧碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-03-22",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市親園3034-1湯殿神社境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0014",
+  "name": "蒲盧碑原文",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-08",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市親園3034-1湯殿神社境内"
+ },
+ {
+  "jmh_id": "JMH-092100-0009",
+  "name": "大田原城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-08",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市城山2丁目"
+ },
+ {
+  "jmh_id": "JMH-092100-0008",
+  "name": "佐久山城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-08",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐久山4458"
+ },
+ {
+  "jmh_id": "JMH-092100-0011",
+  "name": "水口居館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-08",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市町島295-2"
+ },
+ {
+  "jmh_id": "JMH-092100-0012",
+  "name": "縄文時代中期住居跡(平林真子遺跡)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-08",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市若草2-1188他"
+ },
+ {
+  "jmh_id": "JMH-092100-0017",
+  "name": "那須氏墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-06-22",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市福原361玄性寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0026",
+  "name": "大田原氏墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1965-10-01",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中田原1264、山の手2-11-14(光真寺内)"
+ },
+ {
+  "jmh_id": "JMH-092100-0029",
+  "name": "侍塚古墳群1号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上5-15"
+ },
+ {
+  "jmh_id": "JMH-092100-0030",
+  "name": "侍塚古墳群2号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上323-2"
+ },
+ {
+  "jmh_id": "JMH-092100-0031",
+  "name": "侍塚古墳群3号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上325"
+ },
+ {
+  "jmh_id": "JMH-092100-0032",
+  "name": "侍塚古墳群4号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上5-26"
+ },
+ {
+  "jmh_id": "JMH-092100-0033",
+  "name": "侍塚古墳群5号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上5-20"
+ },
+ {
+  "jmh_id": "JMH-092100-0034",
+  "name": "侍塚古墳群6号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上5-34"
+ },
+ {
+  "jmh_id": "JMH-092100-0035",
+  "name": "侍塚古墳群7号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上5-32"
+ }
+]

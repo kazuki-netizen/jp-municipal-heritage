@@ -1,0 +1,399 @@
+[
+ {
+  "jmh_id": "JMH-022021-0052",
+  "name": "普門院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2021-05-25",
+  "municipality": "弘前市",
+  "location": "弘前市大字西茂森二丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0069",
+  "name": "津軽為信公画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1963-03-20",
+  "municipality": "弘前市",
+  "location": "弘前市大字藤代一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0082",
+  "name": "紙本墨画淡彩松に虎の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1981-07-13",
+  "municipality": "弘前市",
+  "location": "弘前市大字下白銀町 弘前市立博物館"
+ },
+ {
+  "jmh_id": "JMH-022021-0037",
+  "name": "屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1992-01-31",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡 高岡の森弘前藩歴史館"
+ },
+ {
+  "jmh_id": "JMH-022021-0017",
+  "name": "信政公葬送図絵巻",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1992-01-31",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡 高岡の森弘前藩歴史館"
+ },
+ {
+  "jmh_id": "JMH-022021-0075",
+  "name": "甲州廿四将之図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1992-01-31",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡 高岡の森弘前藩歴史館"
+ },
+ {
+  "jmh_id": "JMH-022021-0023",
+  "name": "刺繍両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1999-10-27",
+  "municipality": "弘前市",
+  "location": "弘前市大字笹森町"
+ },
+ {
+  "jmh_id": "JMH-022021-0002",
+  "name": "お山参詣図襖絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2003-03-28",
+  "municipality": "弘前市",
+  "location": "弘前市大字下白銀町 弘前市立博物館"
+ },
+ {
+  "jmh_id": "JMH-022021-0085",
+  "name": "紙本著色元三大師縁起絵巻・慈眼大師縁起絵巻",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2014-07-04",
+  "municipality": "弘前市",
+  "location": "弘前市大字新寺町"
+ },
+ {
+  "jmh_id": "JMH-022021-0091",
+  "name": "絹本墨画淡彩 返魂香之図 附箱・游魂図説",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2021-05-25",
+  "municipality": "弘前市",
+  "location": "弘前市大字坂元字山元"
+ },
+ {
+  "jmh_id": "JMH-022021-0093",
+  "name": "絹本著色津軽為信・信枚・信義像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2025-12-22",
+  "municipality": "弘前市",
+  "location": "弘前市西茂森1丁目23番地8"
+ },
+ {
+  "jmh_id": "JMH-022021-0084",
+  "name": "紙本著色仙桃院像 附 紙本著色仙桃院像（模本）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2025-12-22",
+  "municipality": "弘前市",
+  "location": "弘前市西茂森1丁目23番地8"
+ },
+ {
+  "jmh_id": "JMH-022021-0094",
+  "name": "絹本著色満天姫像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2025-12-22",
+  "municipality": "弘前市",
+  "location": "弘前市西茂森1丁目23番地8"
+ },
+ {
+  "jmh_id": "JMH-022021-0086",
+  "name": "紙本著色津軽信著像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2025-12-22",
+  "municipality": "弘前市",
+  "location": "弘前市西茂森1丁目23番地8"
+ },
+ {
+  "jmh_id": "JMH-022021-0092",
+  "name": "絹本著色津軽寧親像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2025-12-22",
+  "municipality": "弘前市",
+  "location": "弘前市下白銀町1番地6（弘前市立博物館）"
+ },
+ {
+  "jmh_id": "JMH-022021-0062",
+  "name": "木造豊太閤坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1963-03-20",
+  "municipality": "弘前市",
+  "location": "弘前市大字藤代一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0056",
+  "name": "木造十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1963-03-20",
+  "municipality": "弘前市",
+  "location": "弘前市大字石川"
+ },
+ {
+  "jmh_id": "JMH-022021-0061",
+  "name": "木造素木龍頭",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1964-06-05",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0054",
+  "name": "木造不朱塗獅子頭",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1964-06-05",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0120",
+  "name": "石造狛犬（弘前八幡宮）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1964-06-05",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目、弘前市大字田町四丁目、弘前市大字桜庭"
+ },
+ {
+  "jmh_id": "JMH-022021-0122",
+  "name": "石造狛犬（熊野奥照神社）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-10-26",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目、弘前市大字田町四丁目、弘前市大字桜庭"
+ },
+ {
+  "jmh_id": "JMH-022021-0123",
+  "name": "石造狛犬（多賀神社）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1975-04-17",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目、弘前市大字田町四丁目、弘前市大字桜庭"
+ },
+ {
+  "jmh_id": "JMH-022021-0063",
+  "name": "木造釈迦涅槃像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-09-30",
+  "municipality": "弘前市",
+  "location": "弘前市大字新寺町"
+ },
+ {
+  "jmh_id": "JMH-022021-0020",
+  "name": "円空作 十一面観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-02-02",
+  "municipality": "弘前市",
+  "location": "弘前市大字西茂森二丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0079",
+  "name": "石造両界大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-01-21",
+  "municipality": "弘前市",
+  "location": "弘前市大字津賀野字岡本"
+ },
+ {
+  "jmh_id": "JMH-022021-0057",
+  "name": "木造津軽信明坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-03",
+  "municipality": "弘前市",
+  "location": "弘前市大字新寺町"
+ },
+ {
+  "jmh_id": "JMH-022021-0058",
+  "name": "木造津軽寧親坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-03",
+  "municipality": "弘前市",
+  "location": "弘前市大字新寺町"
+ },
+ {
+  "jmh_id": "JMH-022021-0059",
+  "name": "木造津軽監物親守坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-03",
+  "municipality": "弘前市",
+  "location": "弘前市大字新寺町"
+ },
+ {
+  "jmh_id": "JMH-022021-0055",
+  "name": "木造伝覚範法印坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-03",
+  "municipality": "弘前市",
+  "location": "弘前市大字新寺町"
+ },
+ {
+  "jmh_id": "JMH-022021-0060",
+  "name": "木造笠原八郎兵衛坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2012-04-13",
+  "municipality": "弘前市",
+  "location": "弘前市大字下白銀町 弘前市立博物館"
+ },
+ {
+  "jmh_id": "JMH-022021-0064",
+  "name": "木造金剛力士立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2024-07-29",
+  "municipality": "弘前市",
+  "location": "弘前市大字銅屋町"
+ },
+ {
+  "jmh_id": "JMH-022021-0109",
+  "name": "高照神社刀剣類",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1985-02-27",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡 高岡の森弘前藩歴史館"
+ },
+ {
+  "jmh_id": "JMH-022021-0117",
+  "name": "大太刀（大小揃のうち大）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1964-06-05",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0118",
+  "name": "大太刀（大小揃のうち小）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1964-06-05",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0119",
+  "name": "大薙刀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1964-06-05",
+  "municipality": "弘前市",
+  "location": "弘前市大字八幡町一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0048",
+  "name": "日本刀 銘 相模守藤原来國吉",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1969-08-02",
+  "municipality": "弘前市"
+ },
+ {
+  "jmh_id": "JMH-022021-0034",
+  "name": "大脇差 銘 相模守来國吉",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-10-26",
+  "municipality": "弘前市"
+ },
+ {
+  "jmh_id": "JMH-022021-0121",
+  "name": "刀 銘 陸奥大掾橘盛宗",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-10-26",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡 高岡の森弘前藩歴史館"
+ },
+ {
+  "jmh_id": "JMH-022021-0125",
+  "name": "刀 銘 陸奥大掾橘盛宗",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-01-27",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡 高岡の森弘前藩歴史館"
+ },
+ {
+  "jmh_id": "JMH-022021-0047",
+  "name": "日本刀 銘 奥州津軽波岡之住森宗",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1969-08-02",
+  "municipality": "弘前市"
+ }
+]

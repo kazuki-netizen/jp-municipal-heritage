@@ -1,0 +1,18 @@
+{
+  "092274e348850677": {
+    "url": "https://www.town.ninomiya.kanagawa.jp/0000000516.html",
+    "filename": "092274e348850677.html",
+    "sha256": "199b8c54e0c4fb5ae23f8e05b2015e5a8f194a4ba82f855dfabf89720e6098f2",
+    "fetched_at": "2026-07-08T03:18:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "78b9789d179b9741": {
+    "url": "https://www.town.ninomiya.kanagawa.jp/0000000030.html",
+    "filename": "78b9789d179b9741.html",
+    "sha256": "fee741c0836ec19942766c136428c256ca63756e36a35c86a4b5dc805ca5816e",
+    "fetched_at": "2026-07-08T03:18:35Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

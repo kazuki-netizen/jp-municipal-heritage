@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032034-0029",
+  "name": "瓶子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0016",
+  "name": "古版木",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0067",
+  "name": "金銅千手観音立像懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "2013-01-23",
+  "municipality": "大船渡市",
+  "location": "末崎町字山根"
+ },
+ {
+  "jmh_id": "JMH-032034-0068",
+  "name": "銅造馬頭観音坐像懸仏 附木造厨子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "2013-01-23",
+  "municipality": "大船渡市",
+  "location": "立根町字堰口"
+ },
+ {
+  "jmh_id": "JMH-032034-0021",
+  "name": "御意書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（典籍）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0040",
+  "name": "七條袈裟",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町吉浜字根白（真称寺）"
+ },
+ {
+  "jmh_id": "JMH-032034-0050",
+  "name": "石塔婆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町越喜来字肥の田（新山神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0045",
+  "name": "庚申碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町綾里字黒土田（秋葉神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0046",
+  "name": "恵比須像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町綾里字館（天照御祖神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0042",
+  "name": "八将神",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町越喜来字肥の田（八坂神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0001",
+  "name": "小通鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "日頃市町字小通"
+ },
+ {
+  "jmh_id": "JMH-032034-0003",
+  "name": "永浜鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "赤崎町字永浜および大立"
+ },
+ {
+  "jmh_id": "JMH-032034-0006",
+  "name": "笹崎鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "大船渡町字笹崎および野々田"
+ },
+ {
+  "jmh_id": "JMH-032034-0007",
+  "name": "菅生田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "立根町字下欠"
+ },
+ {
+  "jmh_id": "JMH-032034-0005",
+  "name": "盛町曲録",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "盛町字館下"
+ },
+ {
+  "jmh_id": "JMH-032034-0004",
+  "name": "甲子鎧剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "日頃市町字甲子"
+ },
+ {
+  "jmh_id": "JMH-032034-0008",
+  "name": "赤沢鎧剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "大船渡町字新田"
+ },
+ {
+  "jmh_id": "JMH-032034-0002",
+  "name": "川原鎧剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-01",
+  "municipality": "大船渡市",
+  "location": "立根町字久保川原"
+ },
+ {
+  "jmh_id": "JMH-032034-0009",
+  "name": "前田鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-10-01",
+  "municipality": "大船渡市",
+  "location": "猪川町字前田"
+ },
+ {
+  "jmh_id": "JMH-032034-0010",
+  "name": "平組はしご虎舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-10-01",
+  "municipality": "大船渡市",
+  "location": "末崎町字平"
+ },
+ {
+  "jmh_id": "JMH-032034-0039",
+  "name": "坂本沢鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-10-01",
+  "municipality": "大船渡市",
+  "location": "日頃市町字坂本沢"
+ },
+ {
+  "jmh_id": "JMH-032034-0053",
+  "name": "大森肩怒剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-10-17",
+  "municipality": "大船渡市",
+  "location": "日頃市町字大森"
+ },
+ {
+  "jmh_id": "JMH-032034-0054",
+  "name": "石橋鎧剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-07-25",
+  "municipality": "大船渡市",
+  "location": "日頃市町字石橋"
+ },
+ {
+  "jmh_id": "JMH-032034-0057",
+  "name": "吉浜鎧剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1999-02-01",
+  "municipality": "大船渡市",
+  "location": "三陸町吉浜字大野"
+ },
+ {
+  "jmh_id": "JMH-032034-0062",
+  "name": "崎浜念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-07-01",
+  "municipality": "大船渡市",
+  "location": "三陸町越喜来字崎浜"
+ },
+ {
+  "jmh_id": "JMH-032034-0063",
+  "name": "根白剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-07-01",
+  "municipality": "大船渡市",
+  "location": "三陸町吉浜字根白"
+ },
+ {
+  "jmh_id": "JMH-032034-0065",
+  "name": "野形剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-07-01",
+  "municipality": "大船渡市",
+  "location": "三陸町綾里字野形"
+ },
+ {
+  "jmh_id": "JMH-032034-0064",
+  "name": "白浜剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-07-01",
+  "municipality": "大船渡市",
+  "location": "三陸町綾里字白浜"
+ },
+ {
+  "jmh_id": "JMH-032034-0061",
+  "name": "上甫嶺念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-07-01",
+  "municipality": "大船渡市",
+  "location": "三陸町越喜来字上甫嶺"
+ },
+ {
+  "jmh_id": "JMH-032034-0066",
+  "name": "金津流浦浜獅子躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-07-01",
+  "municipality": "大船渡市",
+  "location": "三陸町越喜来字浦浜"
+ },
+ {
+  "jmh_id": "JMH-032034-0055",
+  "name": "細野一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-01-01",
+  "municipality": "大船渡市",
+  "location": "立根町字細野"
+ },
+ {
+  "jmh_id": "JMH-032034-0048",
+  "name": "河内一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町越喜来字小出"
+ },
+ {
+  "jmh_id": "JMH-032034-0044",
+  "name": "平根一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町吉浜字平根"
+ },
+ {
+  "jmh_id": "JMH-032034-0049",
+  "name": "白木沢一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町吉浜字扇洞"
+ },
+ {
+  "jmh_id": "JMH-032034-0052",
+  "name": "鍬台一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町吉浜字根白"
+ },
+ {
+  "jmh_id": "JMH-032034-0043",
+  "name": "宮野貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町綾里字宮野"
+ },
+ {
+  "jmh_id": "JMH-032034-0056",
+  "name": "新峠河内一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1997-03-10",
+  "municipality": "大船渡市",
+  "location": "三陸町越喜来字小出"
+ },
+ {
+  "jmh_id": "JMH-032034-0041",
+  "name": "不動滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1978-02-10",
+  "municipality": "大船渡市",
+  "location": "三陸町綾里字熊之入"
+ },
+ {
+  "jmh_id": "JMH-032034-0011",
+  "name": "いちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "日頃市町字長安寺（長安寺）"
+ },
+ {
+  "jmh_id": "JMH-032034-0018",
+  "name": "奥州しだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "日頃市町字長安寺（長安寺）"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032077-0013",
+  "name": "日蓮真筆曼陀羅",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-032077-0024",
+  "name": "明治時代の教科書",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1964-12-18",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0070",
+  "name": "大般若経典",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1988-06-23",
+  "municipality": "遠野市",
+  "location": "上郷町清水川"
+ },
+ {
+  "jmh_id": "JMH-032077-0062",
+  "name": "南部利直黒印状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1984-06-08",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0104",
+  "name": "『遠野物語』原稿及び関連資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2009-05-27",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0103",
+  "name": "『遠野物語』初版本第１号",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2009-05-27",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0097",
+  "name": "金取遺跡出土品（石斧等62点）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2002-08-01",
+  "municipality": "遠野市",
+  "location": "宮守町下宮守"
+ },
+ {
+  "jmh_id": "JMH-032077-0027",
+  "name": "大出早池峰神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-05-20",
+  "municipality": "遠野市",
+  "location": "附馬牛町大出"
+ },
+ {
+  "jmh_id": "JMH-032077-0032",
+  "name": "遠野南部流鏑馬",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-02-20",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0060",
+  "name": "小友町裸参り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-04-20",
+  "municipality": "遠野市",
+  "location": "小友町"
+ },
+ {
+  "jmh_id": "JMH-032077-0083",
+  "name": "鱒沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-03-31",
+  "municipality": "遠野市",
+  "location": "宮守町上鱒沢"
+ },
+ {
+  "jmh_id": "JMH-032077-0086",
+  "name": "行山流鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-12-02",
+  "municipality": "遠野市",
+  "location": "宮守町達曽部涌水"
+ },
+ {
+  "jmh_id": "JMH-032077-0102",
+  "name": "氷口御祝",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-11-30",
+  "municipality": "遠野市",
+  "location": "小友町氷口"
+ },
+ {
+  "jmh_id": "JMH-032077-0120",
+  "name": "綾織しし踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "遠野市",
+  "location": "綾織町新里"
+ },
+ {
+  "jmh_id": "JMH-032077-0121",
+  "name": "鷹鳥屋獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "遠野市",
+  "location": "小友町鷹鳥屋"
+ },
+ {
+  "jmh_id": "JMH-032077-0118",
+  "name": "山谷獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "遠野市",
+  "location": "小友町山谷"
+ },
+ {
+  "jmh_id": "JMH-032077-0117",
+  "name": "土淵しし踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "遠野市",
+  "location": "土淵町柏崎"
+ },
+ {
+  "jmh_id": "JMH-032077-0119",
+  "name": "細越獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "遠野市",
+  "location": "上郷町細越"
+ },
+ {
+  "jmh_id": "JMH-032077-0116",
+  "name": "佐比内しし踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-23",
+  "municipality": "遠野市",
+  "location": "上郷町佐比内"
+ },
+ {
+  "jmh_id": "JMH-032077-0029",
+  "name": "鋳掛用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-05-20",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0020",
+  "name": "早池峰駒形の版木",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1961-11-25",
+  "municipality": "遠野市",
+  "location": "附馬牛町小林"
+ },
+ {
+  "jmh_id": "JMH-032077-0028",
+  "name": "蚕祭文",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-05-20",
+  "municipality": "遠野市",
+  "location": "青笹町瀬内"
+ },
+ {
+  "jmh_id": "JMH-032077-0078",
+  "name": "オシラサマ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-08-10",
+  "municipality": "遠野市",
+  "location": "小友町下川原"
+ },
+ {
+  "jmh_id": "JMH-032077-0082",
+  "name": "猿曳駒版木",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-05-21",
+  "municipality": "遠野市",
+  "location": "附馬牛町大出"
+ },
+ {
+  "jmh_id": "JMH-032077-0105",
+  "name": "十月仏",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2011-07-29",
+  "municipality": "遠野市",
+  "location": "宮守町上鱒沢"
+ },
+ {
+  "jmh_id": "JMH-032077-0009",
+  "name": "久子翠峰の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-032077-0012",
+  "name": "新谷番所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "小友町荒谷"
+ },
+ {
+  "jmh_id": "JMH-032077-0021",
+  "name": "松崎観音の石碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-11-25",
+  "municipality": "遠野市",
+  "location": "松崎町下松崎"
+ },
+ {
+  "jmh_id": "JMH-032077-0022",
+  "name": "下同心丁桝形",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-04-26",
+  "municipality": "遠野市",
+  "location": "下組町"
+ },
+ {
+  "jmh_id": "JMH-032077-0023",
+  "name": "辷田峠一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-04-26",
+  "municipality": "遠野市",
+  "location": "上郷町辷田峠"
+ },
+ {
+  "jmh_id": "JMH-032077-0034",
+  "name": "遠野八幡宮馬場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-02-23",
+  "municipality": "遠野市",
+  "location": "松崎町八幡"
+ },
+ {
+  "jmh_id": "JMH-032077-0053",
+  "name": "佐比内鉄鉱山遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-05-20",
+  "municipality": "遠野市",
+  "location": "上郷町佐比内"
+ },
+ {
+  "jmh_id": "JMH-032077-0080",
+  "name": "東禅寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1991-08-10",
+  "municipality": "遠野市",
+  "location": "附馬牛町東禅寺字大寺"
+ },
+ {
+  "jmh_id": "JMH-032077-0085",
+  "name": "七里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-03-10",
+  "municipality": "遠野市",
+  "location": "宮守町達曽部"
+ },
+ {
+  "jmh_id": "JMH-032077-0084",
+  "name": "一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-03-10",
+  "municipality": "遠野市",
+  "location": "宮守町下鱒沢"
+ },
+ {
+  "jmh_id": "JMH-032077-0100",
+  "name": "金取遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2004-06-01",
+  "municipality": "遠野市",
+  "location": "宮守町達曽部"
+ },
+ {
+  "jmh_id": "JMH-032077-0114",
+  "name": "登坂氏庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "2012-04-27",
+  "municipality": "遠野市",
+  "location": "六日町"
+ },
+ {
+  "jmh_id": "JMH-032077-0005",
+  "name": "田屋の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-07-16",
+  "municipality": "遠野市",
+  "location": "綾織町山口"
+ },
+ {
+  "jmh_id": "JMH-032077-0015",
+  "name": "続石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "綾織町大畑"
+ },
+ {
+  "jmh_id": "JMH-032077-0026",
+  "name": "ナラガシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-25",
+  "municipality": "遠野市",
+  "location": "松崎町白岩字畑中"
+ }
+]

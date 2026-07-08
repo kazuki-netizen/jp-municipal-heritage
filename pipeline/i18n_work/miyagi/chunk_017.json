@@ -1,0 +1,396 @@
+[
+ {
+  "jmh_id": "JMH-042072-0011",
+  "name": "十三塚遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡(集落跡）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市手倉田字山外"
+ },
+ {
+  "jmh_id": "JMH-042072-0016",
+  "name": "大門山遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（供養所跡）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市高舘熊野堂字大門山52､53"
+ },
+ {
+  "jmh_id": "JMH-042072-0026",
+  "name": "高舘山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡(古墳）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市高舘吉田字西真坂"
+ },
+ {
+  "jmh_id": "JMH-042072-0014",
+  "name": "名取大塚山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡(古墳）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市愛島笠島字北台143､144外"
+ },
+ {
+  "jmh_id": "JMH-042072-0025",
+  "name": "高舘城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡(古墳）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市高舘吉田字西真坂"
+ },
+ {
+  "jmh_id": "JMH-042072-0002",
+  "name": "笠島廃寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡(寺院跡）",
+  "designation": "市指定",
+  "designated_date": "1966-03-31",
+  "municipality": "名取市",
+  "location": "名取市愛島笠島字西台32"
+ },
+ {
+  "jmh_id": "JMH-042072-0003",
+  "name": "衣笠の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1966-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田二丁目2-1"
+ },
+ {
+  "jmh_id": "JMH-042072-0022",
+  "name": "耕龍寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田字北谷157 耕龍寺"
+ },
+ {
+  "jmh_id": "JMH-042072-0018",
+  "name": "東光寺石造宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市下増田字丁地233 東光寺"
+ },
+ {
+  "jmh_id": "JMH-042072-0017",
+  "name": "新宮寺文殊菩薩像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市高舘熊野堂字岩口中35 熊野新宮寺"
+ },
+ {
+  "jmh_id": "JMH-042072-0005",
+  "name": "新宮寺一切経",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（典籍）",
+  "designation": "市指定",
+  "designated_date": "1972-12-15",
+  "municipality": "名取市",
+  "location": "名取市高舘熊野堂字岩口中35 熊野新宮寺"
+ },
+ {
+  "jmh_id": "JMH-042072-0012",
+  "name": "十三塚遺跡出土弥生土器",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品(考古資料)",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0024",
+  "name": "雷神山古墳出土遺物",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品(考古資料)",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0015",
+  "name": "名取熊野堂大館跡出土遺物",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品(考古資料)",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0020",
+  "name": "熊野神社文書",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（古文書）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市高舘熊野堂字岩口上51 熊野神社"
+ },
+ {
+  "jmh_id": "JMH-042072-0019",
+  "name": "熊野堂村御検地帳",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0013",
+  "name": "吉田村御検地帳",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0009",
+  "name": "上増田村御検地帳",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0021",
+  "name": "田高村御検地帳",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0023",
+  "name": "釜神様",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市増田一丁目7-37 名取市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-042072-0006",
+  "name": "熊野堂十二神鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "1972-12-15",
+  "municipality": "名取市",
+  "location": "名取市高舘熊野堂字五反田34 熊野本宮社"
+ },
+ {
+  "jmh_id": "JMH-042072-0007",
+  "name": "花町神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "1972-12-15",
+  "municipality": "名取市",
+  "location": "館腰地域"
+ },
+ {
+  "jmh_id": "JMH-042072-0010",
+  "name": "今熊野神社付属神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "1990-03-31",
+  "municipality": "名取市",
+  "location": "名取市高舘川上字北台8 今熊野神社"
+ },
+ {
+  "jmh_id": "JMH-042072-0008",
+  "name": "閖上大漁唄込み踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "1972-12-15",
+  "municipality": "名取市",
+  "location": "閖上地域"
+ },
+ {
+  "jmh_id": "JMH-042072-0004",
+  "name": "下増田麦搗き踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "1972-12-15",
+  "municipality": "名取市",
+  "location": "下増田地域"
+ },
+ {
+  "jmh_id": "JMH-042072-0027",
+  "name": "手倉田枡取り舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財(民俗芸能)",
+  "designation": "市指定",
+  "designated_date": "2007-01-31",
+  "municipality": "名取市",
+  "location": "手倉田地域"
+ },
+ {
+  "jmh_id": "JMH-043214-0003",
+  "name": "繁昌院 阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "重要文化財",
+  "designation": "町指定",
+  "designated_date": "1977-09-06",
+  "municipality": "大河原町",
+  "location": "繁昌院"
+ },
+ {
+  "jmh_id": "JMH-043214-0002",
+  "name": "小山田やすとこ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1977-09-06",
+  "municipality": "大河原町"
+ },
+ {
+  "jmh_id": "JMH-043214-0001",
+  "name": "堤神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1977-09-06",
+  "municipality": "大河原町"
+ },
+ {
+  "jmh_id": "JMH-044245-0003",
+  "name": "大衡城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "2003-12-01",
+  "municipality": "大衡村",
+  "location": "宮城県黒川郡大衡村大衡字塩浪4-1他"
+ },
+ {
+  "jmh_id": "JMH-044245-0002",
+  "name": "大瓜神楽",
+  "category": "民俗文化財",
+  "subcategory": "芸能",
+  "designation": "村指定",
+  "designated_date": "2003-12-01",
+  "municipality": "大衡村",
+  "location": "宮城県黒川郡大衡村大瓜"
+ },
+ {
+  "jmh_id": "JMH-044245-0001",
+  "name": "須岐神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "1997-04-28",
+  "municipality": "大衡村",
+  "location": "宮城県黒川郡大衡村駒場字下宮前2"
+ },
+ {
+  "jmh_id": "JMH-045810-0001",
+  "name": "三十三観音碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "女川町"
+ },
+ {
+  "jmh_id": "JMH-045810-0003",
+  "name": "補陀閣関係石碑・木額・鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "女川町",
+  "location": "女川町文化財保存展示施設"
+ },
+ {
+  "jmh_id": "JMH-045810-0002",
+  "name": "波切不動尊",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "女川町",
+  "location": "三十三観音道入口"
+ },
+ {
+  "jmh_id": "JMH-042188-0035",
+  "name": "黒江薬師堂絵馬(寛文2年)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1979-06-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山金谷 薬師堂"
+ },
+ {
+  "jmh_id": "JMH-042188-0033",
+  "name": "羽黒神社絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1979-06-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 羽黒神社"
+ },
+ {
+  "jmh_id": "JMH-042188-0047",
+  "name": "渡辺亮輔スケッチブック",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0060",
+  "name": "黒江薬師堂絵馬(文化8年)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山金谷 薬師堂"
+ },
+ {
+  "jmh_id": "JMH-042188-0053",
+  "name": "天神社絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山次橋 天神社"
+ }
+]

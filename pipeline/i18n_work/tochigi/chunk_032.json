@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092037-0057",
+  "name": "西院の河原堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1972-04-01",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町静"
+ },
+ {
+  "jmh_id": "JMH-092037-0130",
+  "name": "慈覚大師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-04-10",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町小野寺"
+ },
+ {
+  "jmh_id": "JMH-092037-0190",
+  "name": "高平寺本堂（客殿）附宮殿１基 客殿棟札１枚宮殿置札１枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2016-03-04",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町下津原"
+ },
+ {
+  "jmh_id": "JMH-092037-0193",
+  "name": "旧栃木町役場庁舎",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2017-12-28",
+  "municipality": "栃木市",
+  "location": "栃木市入舟町"
+ },
+ {
+  "jmh_id": "JMH-092037-0014",
+  "name": "太平山神社随神門 天井絵「龍図」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0028",
+  "name": "大麻収穫の絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1964-05-19",
+  "municipality": "栃木市",
+  "location": "栃木市立美術館"
+ },
+ {
+  "jmh_id": "JMH-092037-0073",
+  "name": "天平古寺（海竜王寺）の絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1977-03-17",
+  "municipality": "栃木市",
+  "location": "栃木市立美術館"
+ },
+ {
+  "jmh_id": "JMH-092037-0095",
+  "name": "不動明王像軸",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1981-10-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町甲"
+ },
+ {
+  "jmh_id": "JMH-092037-0124",
+  "name": "紙本墨画淡彩 山水図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-09-20",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西野田"
+ },
+ {
+  "jmh_id": "JMH-092037-0133",
+  "name": "半跏思惟像図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1993-03-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町甲"
+ },
+ {
+  "jmh_id": "JMH-092037-0169",
+  "name": "田﨑草雲紙本墨画淡彩「農家団欒図」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2004-09-10",
+  "municipality": "栃木市",
+  "location": "足利早雲美術館"
+ },
+ {
+  "jmh_id": "JMH-092037-0170",
+  "name": "田﨑草雲紙本墨画淡彩「鍾馗の図」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2004-09-10",
+  "municipality": "栃木市",
+  "location": "足利早雲美術館"
+ },
+ {
+  "jmh_id": "JMH-092037-0172",
+  "name": "福田棠陰絹本着色「花鳥図」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2004-09-10",
+  "municipality": "栃木市",
+  "location": "栃木市西方町元"
+ },
+ {
+  "jmh_id": "JMH-092037-0171",
+  "name": "福田棠陰絹本着色「秋影山水図」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2004-09-10",
+  "municipality": "栃木市",
+  "location": "栃木市西方町元"
+ },
+ {
+  "jmh_id": "JMH-092037-0189",
+  "name": "岩船山地蔵菩薩縁起（仮名本５巻）・下野州岩船山縁起（真名本１巻/附 本尊木造地蔵菩薩立像（厨子入）１躯、紀伊藩主徳川宗将卿簾中寄進七条袈裟 額装２面、石造岩船地蔵菩薩立像 船型台座 １躯、石造岩船地蔵菩薩立像 １躯、石造船型台 １隻、山門扁額１面",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2015-03-31",
+  "municipality": "栃木市",
+  "location": "栃木市岩舟町静"
+ },
+ {
+  "jmh_id": "JMH-092037-0023",
+  "name": "薬師如来",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市皆川城内町"
+ },
+ {
+  "jmh_id": "JMH-092037-0015",
+  "name": "定願寺御成門の彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市旭町"
+ },
+ {
+  "jmh_id": "JMH-092037-0018",
+  "name": "成就院不動堂の扉の彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市旭町"
+ },
+ {
+  "jmh_id": "JMH-092037-0008",
+  "name": "三鬼尊の内、中位青鬼像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-12-21",
+  "municipality": "栃木市",
+  "location": "栃木市旭町"
+ },
+ {
+  "jmh_id": "JMH-092037-0070",
+  "name": "阿しゅく如来像（釈迦如来像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0065",
+  "name": "大威徳夜叉明王",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0067",
+  "name": "文殊菩薩",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0066",
+  "name": "大日如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0063",
+  "name": "不動明王",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1976-07-01",
+  "municipality": "栃木市",
+  "location": "栃木市平井町"
+ },
+ {
+  "jmh_id": "JMH-092037-0139",
+  "name": "金銅 阿弥陀如来立像・脇侍像（善光寺式）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1994-10-25",
+  "municipality": "栃木市",
+  "location": "栃木市箱森町"
+ },
+ {
+  "jmh_id": "JMH-092037-0163",
+  "name": "木造 菩薩形坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2003-07-24",
+  "municipality": "栃木市",
+  "location": "栃木市野中町"
+ },
+ {
+  "jmh_id": "JMH-092037-0089",
+  "name": "童形聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-09-21",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田(大平歴史民俗資料館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0088",
+  "name": "烈國志像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-09-21",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田(大平歴史民俗資料館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0085",
+  "name": "双龍像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-09-21",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田(大平歴史民俗資料館内)"
+ },
+ {
+  "jmh_id": "JMH-092037-0121",
+  "name": "木造 勝軍地蔵・毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1989-09-20",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田"
+ },
+ {
+  "jmh_id": "JMH-092037-0122",
+  "name": "木造 歓喜天立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1989-09-20",
+  "municipality": "栃木市",
+  "location": "栃木市大平町富田"
+ },
+ {
+  "jmh_id": "JMH-092037-0110",
+  "name": "諏訪神社「百首歌」額",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-03-25",
+  "municipality": "栃木市",
+  "location": "栃木市大平町真弓"
+ },
+ {
+  "jmh_id": "JMH-092037-0109",
+  "name": "大中寺山門額",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-03-25",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田"
+ },
+ {
+  "jmh_id": "JMH-092037-0129",
+  "name": "木造 地蔵菩薩半跏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-11-12",
+  "municipality": "栃木市",
+  "location": "栃木市大平町西山田"
+ },
+ {
+  "jmh_id": "JMH-092037-0096",
+  "name": "孝養太子像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-10-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町甲"
+ },
+ {
+  "jmh_id": "JMH-092037-0146",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1997-10-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町赤麻"
+ },
+ {
+  "jmh_id": "JMH-092037-0158",
+  "name": "如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2001-10-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町中根"
+ },
+ {
+  "jmh_id": "JMH-092037-0161",
+  "name": "木造 馬頭観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2002-10-01",
+  "municipality": "栃木市",
+  "location": "栃木市藤岡町都賀"
+ },
+ {
+  "jmh_id": "JMH-092037-0092",
+  "name": "八百比丘尼尊",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-05",
+  "municipality": "栃木市",
+  "location": "栃木市西方町真名子"
+ },
+ {
+  "jmh_id": "JMH-092037-0105",
+  "name": "聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-06-21",
+  "municipality": "栃木市",
+  "location": "栃木市西方町本城"
+ }
+]

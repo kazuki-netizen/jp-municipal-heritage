@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032140-0179",
+  "name": "山岸のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川山岸"
+ },
+ {
+  "jmh_id": "JMH-032140-0178",
+  "name": "古舘のエドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川古館"
+ },
+ {
+  "jmh_id": "JMH-032140-0177",
+  "name": "古戸のサワラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川古戸"
+ },
+ {
+  "jmh_id": "JMH-032140-0205",
+  "name": "増沢のエゾイタヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-08-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川増沢272-4"
+ },
+ {
+  "jmh_id": "JMH-032140-0217",
+  "name": "梁川のエドヒガン（種蒔桜）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2012-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺梁川字市道"
+ },
+ {
+  "jmh_id": "JMH-032140-0223",
+  "name": "秋葉神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2014-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺伊手字荒谷55"
+ },
+ {
+  "jmh_id": "JMH-032140-0222",
+  "name": "戸隠神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2014-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺伊手字小中田54"
+ },
+ {
+  "jmh_id": "JMH-032140-0048",
+  "name": "袖山の輝石安山岩柱状節理",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字袖山"
+ },
+ {
+  "jmh_id": "JMH-032085-0014",
+  "name": "阿弥陀如来および脇侍像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1976-06-01",
+  "municipality": "一関市",
+  "location": "一関市萩荘字中町"
+ },
+ {
+  "jmh_id": "JMH-032085-0013",
+  "name": "金剛力士仁王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1976-06-01",
+  "municipality": "一関市",
+  "location": "一関市舞川字大平"
+ },
+ {
+  "jmh_id": "JMH-032085-0046",
+  "name": "十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-02-25",
+  "municipality": "一関市",
+  "location": "大東町渋民字小林"
+ },
+ {
+  "jmh_id": "JMH-032085-0058",
+  "name": "伝水月観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-03-28",
+  "municipality": "一関市",
+  "location": "花泉町金沢字大門沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0066",
+  "name": "木造不動明王坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "一関市",
+  "location": "一関市字釣山"
+ },
+ {
+  "jmh_id": "JMH-032085-0098",
+  "name": "木造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-24",
+  "municipality": "一関市",
+  "location": "千厩町奥玉字林ノ沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0099",
+  "name": "木造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-24",
+  "municipality": "一関市",
+  "location": "千厩町奥玉字林ノ沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0101",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-24",
+  "municipality": "一関市",
+  "location": "千厩町奥玉字林ノ沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0100",
+  "name": "木造菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-24",
+  "municipality": "一関市",
+  "location": "千厩町奥玉字林ノ沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0117",
+  "name": "石造三十三観音",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1998-12-25",
+  "municipality": "一関市",
+  "location": "室根町折壁字室根山"
+ },
+ {
+  "jmh_id": "JMH-032085-0121",
+  "name": "石仏三十三観音像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2000-03-29",
+  "municipality": "一関市",
+  "location": "千厩町磐清水字荻生田"
+ },
+ {
+  "jmh_id": "JMH-032085-0129",
+  "name": "木造阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-11-01",
+  "municipality": "一関市",
+  "location": "川崎町薄衣字畑の沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0060",
+  "name": "一関藩時の太鼓",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "一関市",
+  "location": "一関市真柴字宮沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0009",
+  "name": "経壺",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "一関市",
+  "location": "花泉町永井字薬師沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0056",
+  "name": "鹿之畑経壺",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-07-23",
+  "municipality": "一関市",
+  "location": "花泉町日形字中通"
+ },
+ {
+  "jmh_id": "JMH-032085-0075",
+  "name": "金銅製経筒",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-05-01",
+  "municipality": "一関市",
+  "location": "大東町猿沢字地ノ神"
+ },
+ {
+  "jmh_id": "JMH-032085-0074",
+  "name": "蕨手刀",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-05-01",
+  "municipality": "一関市",
+  "location": "大東町摺沢字八幡前"
+ },
+ {
+  "jmh_id": "JMH-032085-0052",
+  "name": "刀 銘 一関士源宗明造 元治元年甲子年八月吉日",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-01",
+  "municipality": "一関市",
+  "location": "一関市大町四丁目"
+ },
+ {
+  "jmh_id": "JMH-032085-0053",
+  "name": "刀 銘 源宗明作 応八重柏冨煕需",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-01",
+  "municipality": "一関市",
+  "location": "滝沢字鶴ヶ沢"
+ },
+ {
+  "jmh_id": "JMH-032085-0064",
+  "name": "太刀 銘 一関士宗明",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "一関市",
+  "location": "一関市厳美町字沖野々"
+ },
+ {
+  "jmh_id": "JMH-032085-0063",
+  "name": "先込式大筒 銘 宗明 金象眼銘 雲月",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "一関市",
+  "location": "一関市厳美町字沖野々"
+ },
+ {
+  "jmh_id": "JMH-032085-0078",
+  "name": "刀 銘 一関士宗明 元治元年八月日",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "一関市",
+  "location": "一関市萩荘字館下"
+ },
+ {
+  "jmh_id": "JMH-032085-0069",
+  "name": "脇差 銘 宗明",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "一関市",
+  "location": "一関市厳美町字沖野々"
+ },
+ {
+  "jmh_id": "JMH-032085-0079",
+  "name": "朱塗海老鞘巻拵および剣",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "一関市",
+  "location": "一関市厳美町字沖野々"
+ },
+ {
+  "jmh_id": "JMH-032085-0055",
+  "name": "脇指 銘 奥州一関武広安英 文化十四丁丑二月日 応及川房幹需以古伝造之",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-01",
+  "municipality": "一関市",
+  "location": "一関市地主町"
+ },
+ {
+  "jmh_id": "JMH-032085-0065",
+  "name": "太刀 銘 宝寿八月日",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "一関市",
+  "location": "一関市桜木町"
+ },
+ {
+  "jmh_id": "JMH-032085-0068",
+  "name": "脇差 銘 兼則",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-07-01",
+  "municipality": "一関市",
+  "location": "一関市桜木町"
+ },
+ {
+  "jmh_id": "JMH-032085-0080",
+  "name": "脇差 銘 明弘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "一関市",
+  "location": "一関市厳美町字沖野々"
+ },
+ {
+  "jmh_id": "JMH-032085-0054",
+  "name": "脇差 銘 奥州舞草友長",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-01",
+  "municipality": "一関市",
+  "location": "一関市厳美町字沖野々"
+ },
+ {
+  "jmh_id": "JMH-032085-0077",
+  "name": "刀 無銘 伝舞草",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-07-01",
+  "municipality": "一関市",
+  "location": "一関市厳美町字沖野々"
+ },
+ {
+  "jmh_id": "JMH-032085-0071",
+  "name": "刀 銘 明雲斎盛壽 北村市蔵作 明治三十五年八月日 六十三",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-03-24",
+  "municipality": "一関市",
+  "location": "千厩町千厩字前田"
+ },
+ {
+  "jmh_id": "JMH-032085-0105",
+  "name": "日本刀製作技術",
+  "category": "無形文化財",
+  "subcategory": "無形文化財(工芸技術)",
+  "designation": "市指定",
+  "designated_date": "1995-05-31",
+  "municipality": "一関市",
+  "location": "大東町大原字下烏神"
+ }
+]

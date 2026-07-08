@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032140-0117",
+  "name": "銅造蔵王権現像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山字森"
+ },
+ {
+  "jmh_id": "JMH-032140-0110",
+  "name": "木造十一面観音菩薩座像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳字松原127"
+ },
+ {
+  "jmh_id": "JMH-032140-0112",
+  "name": "木造山神立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳字上鹿合"
+ },
+ {
+  "jmh_id": "JMH-032140-0140",
+  "name": "木造孝養太子立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-06-27",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川平23-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0139",
+  "name": "木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-06-27",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川六道"
+ },
+ {
+  "jmh_id": "JMH-032140-0180",
+  "name": "中善観音",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-03-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0227",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2019-05-10",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字山下64"
+ },
+ {
+  "jmh_id": "JMH-032140-0003",
+  "name": "銅鐘",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1957-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢羽田町字門下80"
+ },
+ {
+  "jmh_id": "JMH-032140-0062",
+  "name": "長胴太鼓（時太鼓）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢寺小路33"
+ },
+ {
+  "jmh_id": "JMH-032140-0060",
+  "name": "金銅華鬘",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢黒石町字長田"
+ },
+ {
+  "jmh_id": "JMH-032140-0058",
+  "name": "石灯篭",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢日高小路14"
+ },
+ {
+  "jmh_id": "JMH-032140-0059",
+  "name": "石灯篭",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢東町4-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0079",
+  "name": "銅鐘",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢東町2"
+ },
+ {
+  "jmh_id": "JMH-032140-0080",
+  "name": "銅鐘",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢黒石町字山内17"
+ },
+ {
+  "jmh_id": "JMH-032140-0142",
+  "name": "金銅阿弥陀如来坐像懸仏",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-06-27",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川下河内"
+ },
+ {
+  "jmh_id": "JMH-032140-0143",
+  "name": "銅鰐口",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-06-27",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川山口"
+ },
+ {
+  "jmh_id": "JMH-032140-0174",
+  "name": "懸仏",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1997-08-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0175",
+  "name": "鉦鼓",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1997-08-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺田原字新田"
+ },
+ {
+  "jmh_id": "JMH-032140-0083",
+  "name": "木製供具（華瓶・高坏）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺藤里字智福39"
+ },
+ {
+  "jmh_id": "JMH-032140-0216",
+  "name": "龍文真形鉄湯釜",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-09-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢羽田町字向田"
+ },
+ {
+  "jmh_id": "JMH-032140-0129",
+  "name": "明善寺文書",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-02-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0169",
+  "name": "小山の久保五嶋家文書",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1996-12-10",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0171",
+  "name": "若柳の油地千田家文書",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1996-12-10",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0170",
+  "name": "若柳の惣之町阿部家文書",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1996-12-10",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0197",
+  "name": "新里の中屋敷千田家文書",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-06-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0226",
+  "name": "江刺郡片岡村伊達左兵衛在郷屋敷絵図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2018-11-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0024",
+  "name": "白磁四耳壺",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1972-01-25",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0130",
+  "name": "暗文のある坏型土器",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-02-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0132",
+  "name": "須恵器坏型土器",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-02-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0181",
+  "name": "経壼",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-03-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0184",
+  "name": "須恵器系波状文四耳壺",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-05-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0020",
+  "name": "比賢館の版木",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1965-03-04",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字小名丸102-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0031",
+  "name": "高野長英獄中角筆詩文（伝爪書）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢中上野町1-9"
+ },
+ {
+  "jmh_id": "JMH-032140-0028",
+  "name": "シーボルト処方箋",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢中上野町1-9"
+ },
+ {
+  "jmh_id": "JMH-032140-0030",
+  "name": "海国兵談（版本）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字下小路"
+ },
+ {
+  "jmh_id": "JMH-032140-0053",
+  "name": "西説医原枢要（版本）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢中上野町1-9"
+ },
+ {
+  "jmh_id": "JMH-032140-0128",
+  "name": "市野々の算額",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-02-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0126",
+  "name": "化粧坂の算額",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-02-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字化粧坂"
+ },
+ {
+  "jmh_id": "JMH-032140-0125",
+  "name": "上伊澤元禄絵図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-02-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字加賀谷地1-1"
+ },
+ {
+  "jmh_id": "JMH-032140-0172",
+  "name": "仙台水沢住坂本運治行盛作火縄銃",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1997-01-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢東上野町4-1"
+ }
+]

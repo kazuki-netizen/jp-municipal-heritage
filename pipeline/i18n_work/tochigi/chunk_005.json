@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092029-0004",
+  "name": "光得寺 五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1959-02-17",
+  "municipality": "足利市",
+  "location": "菅田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0014",
+  "name": "鑁阿寺 宝庫",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1959-02-17",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0025",
+  "name": "山門付仁王像",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "松田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0079",
+  "name": "物外軒茶室",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1968-11-01",
+  "municipality": "足利市",
+  "location": "通6丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0084",
+  "name": "鶏足寺 勅使門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1970-03-02",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0178",
+  "name": "大岩毘沙門天 本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-092029-0177",
+  "name": "大岩毘沙門天 山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-092029-0199",
+  "name": "光明寺の鐘楼",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-03-13",
+  "municipality": "足利市",
+  "location": "田島町"
+ },
+ {
+  "jmh_id": "JMH-092029-0210",
+  "name": "浄林寺 離れ",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-09-24",
+  "municipality": "足利市",
+  "location": "五十部町"
+ },
+ {
+  "jmh_id": "JMH-092029-0208",
+  "name": "樺崎八幡宮 本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-09-24",
+  "municipality": "足利市",
+  "location": "樺崎町"
+ },
+ {
+  "jmh_id": "JMH-092029-0217",
+  "name": "鑁阿寺 北門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1987-05-20",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0225",
+  "name": "八幡宮 拝殿・幣殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1991-01-22",
+  "municipality": "足利市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-092029-0226",
+  "name": "鑁阿寺 観音壇厨子",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1991-01-22",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0231",
+  "name": "鑁阿寺 智願寺殿御霊屋（蛭子堂）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1991-11-22",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0234",
+  "name": "稲岡観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-06-25",
+  "municipality": "足利市",
+  "location": "稲岡町"
+ },
+ {
+  "jmh_id": "JMH-092029-0237",
+  "name": "旧足利学校遺蹟図書館（付属建物を含む）付新築竣工図",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-03-22",
+  "municipality": "足利市",
+  "location": "昌平町（足利学校）"
+ },
+ {
+  "jmh_id": "JMH-092029-0240",
+  "name": "赤城神社 本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-08-22",
+  "municipality": "足利市",
+  "location": "上渋垂町"
+ },
+ {
+  "jmh_id": "JMH-092029-0239",
+  "name": "星宮神社 本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-08-22",
+  "municipality": "足利市",
+  "location": "梁田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0248",
+  "name": "長林寺 山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-10-18",
+  "municipality": "足利市",
+  "location": "西宮町"
+ },
+ {
+  "jmh_id": "JMH-092029-0253",
+  "name": "鑁阿寺 御水屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-07-01",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0268",
+  "name": "鑁阿寺 中御堂（不動堂）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-11-19",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0278",
+  "name": "宗泉寺 本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003-11-13",
+  "municipality": "足利市",
+  "location": "松田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0280",
+  "name": "円満寺 不動堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-02-24",
+  "municipality": "足利市",
+  "location": "借宿町"
+ },
+ {
+  "jmh_id": "JMH-092029-0286",
+  "name": "四所神社 本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-03-22",
+  "municipality": "足利市",
+  "location": "朝倉町3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0018",
+  "name": "御神楽（大和流渋井派）",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1960-04-01",
+  "municipality": "足利市",
+  "location": "大前町"
+ },
+ {
+  "jmh_id": "JMH-092029-0046",
+  "name": "上加子崇聖寺盆踊唄（神子流笛藤派）",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "足利市",
+  "location": "久保田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0050",
+  "name": "御神楽（大山祇神社太々神楽）",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1965-10-01",
+  "municipality": "足利市",
+  "location": "大沼田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0095",
+  "name": "足利鳶木遣り",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-04-02",
+  "municipality": "足利市",
+  "location": "助戸1丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0109",
+  "name": "示現神社神代神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1980-01-22",
+  "municipality": "足利市",
+  "location": "月谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0159",
+  "name": "樺崎八幡宮太々神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-02-23",
+  "municipality": "足利市",
+  "location": "樺崎町"
+ },
+ {
+  "jmh_id": "JMH-092029-0153",
+  "name": "南大町宮比講神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-02-23",
+  "municipality": "足利市",
+  "location": "南大町"
+ },
+ {
+  "jmh_id": "JMH-092029-0197",
+  "name": "足利雷電神社大和流神代神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-08-26",
+  "municipality": "足利市",
+  "location": "本城1丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0275",
+  "name": "八木節",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2003-03-18",
+  "municipality": "足利市",
+  "location": "福居町"
+ },
+ {
+  "jmh_id": "JMH-092029-0310",
+  "name": "彦谷神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2020-03-26",
+  "municipality": "足利市",
+  "location": "葉鹿町"
+ },
+ {
+  "jmh_id": "JMH-092029-0015",
+  "name": "絵馬 外国船の図",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1959-04-01",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0016",
+  "name": "絵馬 銘酒玉の井繁昌の図",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1959-04-01",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0117",
+  "name": "癪除八幡宮御神体",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-03-22",
+  "municipality": "足利市",
+  "location": "高松町"
+ },
+ {
+  "jmh_id": "JMH-092029-0120",
+  "name": "千匹猿の絵馬",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-02-25",
+  "municipality": "足利市",
+  "location": "名草中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0137",
+  "name": "板倉神社の神迎祭",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-04-21",
+  "municipality": "足利市",
+  "location": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-092029-0161",
+  "name": "金蔵院の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-02-23",
+  "municipality": "足利市",
+  "location": "名草中町"
+ }
+]

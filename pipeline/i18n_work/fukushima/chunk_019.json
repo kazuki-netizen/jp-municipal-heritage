@@ -1,0 +1,379 @@
+[
+ {
+  "jmh_id": "JMH-073300-0012",
+  "name": "旧五十島家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "金山町",
+  "location": "金山町大字中川字上居平949番地1"
+ },
+ {
+  "jmh_id": "JMH-073300-0007",
+  "name": "宮崎聖観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "金山町",
+  "location": "金山町大字中川字居平1786番地（大悲堂内）"
+ },
+ {
+  "jmh_id": "JMH-073300-0006",
+  "name": "宮崎式弥生土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "金山町",
+  "location": "出土場所 宮崎遺跡 金山町大字中川字居平1886（只見川の右岸、第一河岸段丘、国道252号と只見川の中間） 保管場所 金山町大字中川字上居平（こぶし館、収蔵庫）"
+ },
+ {
+  "jmh_id": "JMH-073300-0008",
+  "name": "宮崎館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "金山町",
+  "location": "金山町大字中川字館ノ越747-1"
+ },
+ {
+  "jmh_id": "JMH-073300-0011",
+  "name": "廻戸の一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "金山町",
+  "location": "金山町大字沼沢字廻戸"
+ },
+ {
+  "jmh_id": "JMH-073300-0001",
+  "name": "キマダラルリツバメ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "金山町"
+ },
+ {
+  "jmh_id": "JMH-073300-0003",
+  "name": "大塩の老杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "金山町",
+  "location": "金山町大字大塩字要害（宇奈多理神社境内）"
+ },
+ {
+  "jmh_id": "JMH-074683-0001",
+  "name": "葛尾三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1973-04-28",
+  "municipality": "葛尾村",
+  "location": "上葛尾・下葛尾行政区"
+ },
+ {
+  "jmh_id": "JMH-074683-0004",
+  "name": "磨崖仏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1975-06-05",
+  "municipality": "葛尾村",
+  "location": "葛尾字敷井畑"
+ },
+ {
+  "jmh_id": "JMH-074683-0002",
+  "name": "イチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1975-06-05",
+  "municipality": "葛尾村",
+  "location": "葛尾字中清水"
+ },
+ {
+  "jmh_id": "JMH-074683-0003",
+  "name": "宇佐の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1975-06-05",
+  "municipality": "葛尾村",
+  "location": "野川字南仲ノ内71（八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-074683-0005",
+  "name": "磯前神社社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "1988-12-05",
+  "municipality": "葛尾村",
+  "location": "葛尾字関場100（磯前神社）"
+ },
+ {
+  "jmh_id": "JMH-074683-0007",
+  "name": "高御座の夫婦大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1988-12-05",
+  "municipality": "葛尾村",
+  "location": "葛尾字関場100（磯前神社）"
+ },
+ {
+  "jmh_id": "JMH-074683-0006",
+  "name": "薬師観音大尽墓石群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1988-12-05",
+  "municipality": "葛尾村",
+  "location": "葛尾字関場100（磯前神社）"
+ },
+ {
+  "jmh_id": "JMH-074683-0011",
+  "name": "金剛界大日如来仏像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "村指定",
+  "designated_date": "1995-07-14",
+  "municipality": "葛尾村",
+  "location": "葛尾字北平11（薬師寺）"
+ },
+ {
+  "jmh_id": "JMH-074683-0010",
+  "name": "涅槃像掛け軸",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "村指定",
+  "designated_date": "1995-07-14",
+  "municipality": "葛尾村",
+  "location": "葛尾字北平11（薬師寺）"
+ },
+ {
+  "jmh_id": "JMH-074683-0009",
+  "name": "大般若経（600巻）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "村指定",
+  "designated_date": "1995-07-14",
+  "municipality": "葛尾村",
+  "location": "葛尾字北平11（薬師寺）"
+ },
+ {
+  "jmh_id": "JMH-074683-0008",
+  "name": "大般若経理趣分経",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "村指定",
+  "designated_date": "1995-07-14",
+  "municipality": "葛尾村",
+  "location": "葛尾字北平11（薬師寺）"
+ },
+ {
+  "jmh_id": "JMH-074683-0015",
+  "name": "種蒔桜（関場）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2008-06-18",
+  "municipality": "葛尾村",
+  "location": "野川字関場"
+ },
+ {
+  "jmh_id": "JMH-074683-0014",
+  "name": "種蒔桜（湯殿）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2008-06-18",
+  "municipality": "葛尾村",
+  "location": "野川字湯殿"
+ },
+ {
+  "jmh_id": "JMH-074683-0012",
+  "name": "しだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2008-06-18",
+  "municipality": "葛尾村",
+  "location": "葛尾字関場"
+ },
+ {
+  "jmh_id": "JMH-074683-0013",
+  "name": "大尽屋敷跡のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2008-06-18",
+  "municipality": "葛尾村",
+  "location": "葛尾字敷井畑"
+ },
+ {
+  "jmh_id": "JMH-074683-0018",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "村指定",
+  "designated_date": "2020-09-07",
+  "municipality": "葛尾村",
+  "location": "野川字南仲ノ内71（八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-074683-0017",
+  "name": "鈴",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "村指定",
+  "designated_date": "2020-09-07",
+  "municipality": "葛尾村",
+  "location": "野川字南仲ノ内71（八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-074683-0016",
+  "name": "神輿",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "村指定",
+  "designated_date": "2020-09-07",
+  "municipality": "葛尾村",
+  "location": "野川字南仲ノ内71（八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-073610-0005",
+  "name": "春日神社 拝殿・本殿・摂社",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "川俣町",
+  "location": "福島県伊達郡川俣町字宮前37番地"
+ },
+ {
+  "jmh_id": "JMH-073610-0004",
+  "name": "春日神社 大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "川俣町",
+  "location": "福島県伊達郡川俣町字宮前37番地"
+ },
+ {
+  "jmh_id": "JMH-073610-0002",
+  "name": "大清水機織御前堂旧跡地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "municipality": "川俣町",
+  "location": "福島県伊達郡川俣町字東大清水22"
+ },
+ {
+  "jmh_id": "JMH-073610-0003",
+  "name": "旧壁沢川石橋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "川俣町",
+  "location": "福島県伊達郡川俣町字東大清水22"
+ },
+ {
+  "jmh_id": "JMH-073610-0001",
+  "name": "中島の石塔婆（建武の碑）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "川俣町",
+  "location": "福島県伊達郡川俣町字中島14番地"
+ },
+ {
+  "jmh_id": "JMH-072133-0042",
+  "name": "木造如意輪観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0043",
+  "name": "木造虚空蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0044",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0053",
+  "name": "熊野神社経筒",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0022",
+  "name": "大般若経六百巻付経櫃六合",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0027",
+  "name": "布流遠藤家の供養碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0028",
+  "name": "布流高橋家の供養碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0023",
+  "name": "太田の供養碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0066",
+  "name": "菅井の供養碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0082",
+  "name": "宮中八幡神社農耕絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2008-07-22",
+  "municipality": "喜多方市"
+ }
+]

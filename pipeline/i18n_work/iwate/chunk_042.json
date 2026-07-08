@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-035068-0041",
+  "name": "越田八幡宮梵鐘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2004-11-26",
+  "municipality": "一戸町",
+  "location": "御所野縄文博物館"
+ },
+ {
+  "jmh_id": "JMH-035068-0032",
+  "name": "帰住証文替証文",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1990-03-26",
+  "municipality": "一戸町",
+  "location": "御所野縄文博物館"
+ },
+ {
+  "jmh_id": "JMH-035068-0028",
+  "name": "横矧鋲綴桶側二枚胴具足",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1985-03-25",
+  "municipality": "一戸町",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-035068-0026",
+  "name": "宝永六年銘青面金剛庚申供養塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-12-25",
+  "municipality": "一戸町",
+  "location": "一戸字北舘"
+ },
+ {
+  "jmh_id": "JMH-035068-0029",
+  "name": "嘉永七年盛岡暦",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1986-12-25",
+  "municipality": "一戸町",
+  "location": "御所野縄文博物館"
+ },
+ {
+  "jmh_id": "JMH-035068-0034",
+  "name": "西方寺毘沙門堂絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1992-03-25",
+  "municipality": "一戸町",
+  "location": "西法寺字西法寺、御所野縄文博物館"
+ },
+ {
+  "jmh_id": "JMH-035068-0037",
+  "name": "浪岡家の型紙",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1993-11-01",
+  "municipality": "一戸町",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-035068-0044",
+  "name": "小鳥谷七ツ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2014-02-24",
+  "municipality": "一戸町",
+  "location": "小鳥谷地区"
+ },
+ {
+  "jmh_id": "JMH-035068-0043",
+  "name": "小友神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2014-02-24",
+  "municipality": "一戸町",
+  "location": "小友地区"
+ },
+ {
+  "jmh_id": "JMH-035068-0045",
+  "name": "田中新山社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2014-02-24",
+  "municipality": "一戸町",
+  "location": "岩舘地区"
+ },
+ {
+  "jmh_id": "JMH-035068-0046",
+  "name": "女鹿神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2019-07-25",
+  "municipality": "一戸町",
+  "location": "女鹿地区"
+ },
+ {
+  "jmh_id": "JMH-035068-0022",
+  "name": "火行墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "中山字西火行"
+ },
+ {
+  "jmh_id": "JMH-035068-0024",
+  "name": "笹目子・上女鹿沢一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "小鳥谷字笹目子、小鳥谷字上女鹿沢"
+ },
+ {
+  "jmh_id": "JMH-035068-0023",
+  "name": "穴久保・下女鹿沢一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "小鳥谷字穴久保、小鳥谷字下女鹿沢"
+ },
+ {
+  "jmh_id": "JMH-035068-0036",
+  "name": "姉帯城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1993-05-01",
+  "municipality": "一戸町",
+  "location": "姉帯字川久保舘"
+ },
+ {
+  "jmh_id": "JMH-035068-0008",
+  "name": "佐藤家のイグネ林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1973-02-01",
+  "municipality": "一戸町",
+  "location": "女鹿字上女鹿"
+ },
+ {
+  "jmh_id": "JMH-035068-0013",
+  "name": "宮古沢のアズマヒガンザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1973-02-01",
+  "municipality": "一戸町",
+  "location": "鳥越字宮古沢"
+ },
+ {
+  "jmh_id": "JMH-035068-0010",
+  "name": "出ル町のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1973-02-01",
+  "municipality": "一戸町",
+  "location": "出ル町字出ル町"
+ },
+ {
+  "jmh_id": "JMH-035068-0009",
+  "name": "八坂神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1973-02-01",
+  "municipality": "一戸町",
+  "location": "高善寺字野田"
+ },
+ {
+  "jmh_id": "JMH-035068-0012",
+  "name": "姉帯鬼渕のセンノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1973-02-01",
+  "municipality": "一戸町",
+  "location": "姉帯字鬼渕"
+ },
+ {
+  "jmh_id": "JMH-035068-0011",
+  "name": "姉帯上里のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1973-02-01",
+  "municipality": "一戸町",
+  "location": "姉帯字上里"
+ },
+ {
+  "jmh_id": "JMH-035068-0033",
+  "name": "野尻の大イチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1990-03-26",
+  "municipality": "一戸町",
+  "location": "平糠字野尻"
+ },
+ {
+  "jmh_id": "JMH-035068-0035",
+  "name": "観音堂のフジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1992-03-25",
+  "municipality": "一戸町",
+  "location": "小鳥谷字仁昌寺"
+ },
+ {
+  "jmh_id": "JMH-035068-0038",
+  "name": "鳥越観音の参道樹木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1994-05-01",
+  "municipality": "一戸町",
+  "location": "鳥越字宮古沢"
+ },
+ {
+  "jmh_id": "JMH-035068-0042",
+  "name": "奥中山のクリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "2009-11-25",
+  "municipality": "一戸町",
+  "location": "奥中山字西田子"
+ },
+ {
+  "jmh_id": "JMH-032158-0003",
+  "name": "川前神楽",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-12-10",
+  "municipality": "滝沢市",
+  "location": "滝沢市川前地区"
+ },
+ {
+  "jmh_id": "JMH-032158-0008",
+  "name": "滝沢駒踊り",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-19",
+  "municipality": "滝沢市",
+  "location": "滝沢市川前地区"
+ },
+ {
+  "jmh_id": "JMH-032158-0017",
+  "name": "大沢田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "滝沢市",
+  "location": "滝沢市大沢地区"
+ },
+ {
+  "jmh_id": "JMH-032158-0002",
+  "name": "餓死供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-03-01",
+  "municipality": "滝沢市",
+  "location": "滝沢市鵜飼狐洞367番地"
+ },
+ {
+  "jmh_id": "JMH-032158-0006",
+  "name": "追分けの碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1979-10-01",
+  "municipality": "滝沢市",
+  "location": "滝沢市巣子180番地先"
+ },
+ {
+  "jmh_id": "JMH-032158-0007",
+  "name": "鹿角街道・菊塚一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1981-05-28",
+  "municipality": "滝沢市",
+  "location": "滝沢市巣子地内"
+ },
+ {
+  "jmh_id": "JMH-032158-0001",
+  "name": "田村神社のスギ・カツラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-03-01",
+  "municipality": "滝沢市",
+  "location": "滝沢市篠木上篠木12番地"
+ },
+ {
+  "jmh_id": "JMH-032158-0004",
+  "name": "角掛神社の五龍のフジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1978-10-02",
+  "municipality": "滝沢市",
+  "location": "滝沢市湯舟沢34番地"
+ },
+ {
+  "jmh_id": "JMH-032158-0005",
+  "name": "山神神社のスギ・クリ・ベニイタヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-18",
+  "municipality": "滝沢市",
+  "location": "滝沢市鵜飼姥屋敷30の1の内の3"
+ },
+ {
+  "jmh_id": "JMH-032158-0009",
+  "name": "チョウセンアカシジミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物(昆虫)",
+  "designation": "市指定",
+  "designated_date": "1987-06-30",
+  "municipality": "滝沢市",
+  "location": "滝沢市巣子"
+ },
+ {
+  "jmh_id": "JMH-032158-0010",
+  "name": "八幡館山遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2010-03-29",
+  "municipality": "滝沢市",
+  "location": "滝沢市大釜白山50-21ほか"
+ },
+ {
+  "jmh_id": "JMH-032158-0011",
+  "name": "大釜館遺跡7号溝出土土器19点",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2010-03-29",
+  "municipality": "滝沢市",
+  "location": "滝沢市湯舟沢327-13(滝沢市埋蔵文化財センター)"
+ },
+ {
+  "jmh_id": "JMH-032158-0013",
+  "name": "足形付土版1点",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2013-07-30",
+  "municipality": "滝沢市",
+  "location": "滝沢市湯舟沢327-13(滝沢市埋蔵文化財センター)"
+ },
+ {
+  "jmh_id": "JMH-032158-0012",
+  "name": "人体文付深鉢1点",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2013-07-30",
+  "municipality": "滝沢市",
+  "location": "滝沢市湯舟沢327-13(滝沢市埋蔵文化財センター)"
+ },
+ {
+  "jmh_id": "JMH-032158-0016",
+  "name": "滝沢市さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2023-02-27",
+  "municipality": "滝沢市",
+  "location": "滝沢市鵜飼地区"
+ }
+]

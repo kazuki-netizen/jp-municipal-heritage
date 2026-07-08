@@ -1,0 +1,378 @@
+[
+ {
+  "jmh_id": "JMH-022080-0024",
+  "name": "一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2002-01-11",
+  "municipality": "むつ市",
+  "location": "むつ市大字田名部字赤川"
+ },
+ {
+  "jmh_id": "JMH-022080-0018",
+  "name": "銀杏木の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-03-20",
+  "municipality": "むつ市",
+  "location": "むつ市川内町銀杏木54番地 1570～1572年に、イチョウのこずえに金色のしめ"
+ },
+ {
+  "jmh_id": "JMH-023841-0002",
+  "name": "宮越家離れ",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2018-12-01",
+  "municipality": "中泊町",
+  "location": "中泊町"
+ },
+ {
+  "jmh_id": "JMH-023841-0001",
+  "name": "宮越家庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "2018-12-01",
+  "municipality": "中泊町",
+  "location": "中泊町"
+ },
+ {
+  "jmh_id": "JMH-023841-0003",
+  "name": "宮越家主屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2020-07-01",
+  "municipality": "中泊町",
+  "location": "中泊町"
+ },
+ {
+  "jmh_id": "JMH-023841-0004",
+  "name": "宮越家文庫蔵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2020-07-01",
+  "municipality": "中泊町",
+  "location": "中泊町"
+ },
+ {
+  "jmh_id": "JMH-023841-0005",
+  "name": "宮越家米蔵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2020-07-01",
+  "municipality": "中泊町",
+  "location": "中泊町"
+ },
+ {
+  "jmh_id": "JMH-023418-0001",
+  "name": "広泰寺および不識塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "municipality": "西目屋村",
+  "location": "西目屋村川原平・焼山"
+ },
+ {
+  "jmh_id": "JMH-024015-0007",
+  "name": "野辺地の山車行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "野辺地町"
+ },
+ {
+  "jmh_id": "JMH-024015-0001",
+  "name": "客船帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "野辺地町"
+ },
+ {
+  "jmh_id": "JMH-024015-0006",
+  "name": "西光寺のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "野辺地町"
+ },
+ {
+  "jmh_id": "JMH-024015-0004",
+  "name": "松尾芭蕉の句碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "野辺地町"
+ },
+ {
+  "jmh_id": "JMH-024015-0005",
+  "name": "花鳥号銅像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "municipality": "野辺地町"
+ },
+ {
+  "jmh_id": "JMH-024015-0003",
+  "name": "本州最北にあるエドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "野辺地町"
+ },
+ {
+  "jmh_id": "JMH-024015-0002",
+  "name": "常夜燈",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "野辺地町"
+ },
+ {
+  "jmh_id": "JMH-024112-0001",
+  "name": "泊のまるきぶね",
+  "category": "有形文化財",
+  "subcategory": "民具",
+  "designation": "村指定",
+  "designated_date": "1963-05-15",
+  "municipality": "六ヶ所村",
+  "location": "泊地区"
+ },
+ {
+  "jmh_id": "JMH-024112-0012",
+  "name": "大石平遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "1995-06-15",
+  "municipality": "六ヶ所村",
+  "location": "大石平"
+ },
+ {
+  "jmh_id": "JMH-024112-0002",
+  "name": "小川原湖のハクチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1972-12-05",
+  "municipality": "六ヶ所村",
+  "location": "小川原湖"
+ },
+ {
+  "jmh_id": "JMH-024112-0005",
+  "name": "宝生の柴栗舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1974-03-29",
+  "municipality": "六ヶ所村",
+  "location": "宝生地区"
+ },
+ {
+  "jmh_id": "JMH-024112-0009",
+  "name": "貴的の柴栗舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1974-03-29",
+  "municipality": "六ヶ所村",
+  "location": "貴的地区"
+ },
+ {
+  "jmh_id": "JMH-024112-0008",
+  "name": "諏訪の神楽舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1974-03-29",
+  "municipality": "六ヶ所村",
+  "location": "諏訪地区"
+ },
+ {
+  "jmh_id": "JMH-024112-0006",
+  "name": "新山権現の神楽舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1974-03-29",
+  "municipality": "六ヶ所村",
+  "location": "六ヶ所村"
+ },
+ {
+  "jmh_id": "JMH-024112-0003",
+  "name": "大奥寺のいちい",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1974-03-01",
+  "municipality": "六ヶ所村",
+  "location": "大奥寺境内"
+ },
+ {
+  "jmh_id": "JMH-024112-0004",
+  "name": "千倉中学校のしなのき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1974-03-29",
+  "municipality": "六ヶ所村",
+  "location": "千倉中学校"
+ },
+ {
+  "jmh_id": "JMH-024112-0007",
+  "name": "能登七右エ門文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "村指定",
+  "designated_date": "1974-03-29",
+  "municipality": "六ヶ所村",
+  "location": "船泊太郎"
+ },
+ {
+  "jmh_id": "JMH-024112-0010",
+  "name": "秋沢文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "村指定",
+  "designated_date": "1979-03-12",
+  "municipality": "六ヶ所村",
+  "location": "横地市墅"
+ },
+ {
+  "jmh_id": "JMH-024112-0011",
+  "name": "木村文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "村指定",
+  "designated_date": "1979-05-30",
+  "municipality": "六ヶ所村",
+  "location": "木村館"
+ },
+ {
+  "jmh_id": "JMH-024058-0008",
+  "name": "学秀作大日如来像・学秀作七菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2001-10-14",
+  "municipality": "六戸町",
+  "location": "鶴喰地区月窓寺境内"
+ },
+ {
+  "jmh_id": "JMH-024058-0006",
+  "name": "旧苫米地家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1992-11-30",
+  "municipality": "六戸町",
+  "location": "国道45号線沿い「道の駅ろくのへ」隣（柳町より移築）"
+ },
+ {
+  "jmh_id": "JMH-024058-0003",
+  "name": "鶴喰鶏舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1980-02-18",
+  "municipality": "六戸町",
+  "location": "鶴喰集落"
+ },
+ {
+  "jmh_id": "JMH-024058-0002",
+  "name": "折茂今熊神楽",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1980-02-18",
+  "municipality": "六戸町",
+  "location": "折茂集落"
+ },
+ {
+  "jmh_id": "JMH-024058-0001",
+  "name": "上吉田南部駒舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1980-02-18",
+  "municipality": "六戸町",
+  "location": "上吉田地区"
+ },
+ {
+  "jmh_id": "JMH-024058-0009",
+  "name": "上吉田大黒舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "六戸町",
+  "location": "上吉田地区"
+ },
+ {
+  "jmh_id": "JMH-024058-0004",
+  "name": "久乃助のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1992-11-30",
+  "municipality": "六戸町",
+  "location": "六戸町内"
+ },
+ {
+  "jmh_id": "JMH-024058-0005",
+  "name": "今熊神社の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1992-11-30",
+  "municipality": "六戸町",
+  "location": "折茂集落北西1km"
+ },
+ {
+  "jmh_id": "JMH-024058-0007",
+  "name": "鶴喰若宮八幡宮のサワラ・カツラ・銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1992-11-30",
+  "municipality": "六戸町",
+  "location": "鶴喰集落南方"
+ },
+ {
+  "jmh_id": "JMH-024341-0003",
+  "name": "廻船卸客帳 一帖",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024341-0009",
+  "name": "鉄扇 一柄",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024341-0005",
+  "name": "菅江真澄直筆 三葉",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書籍）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024341-0004",
+  "name": "菅江真澄直筆 一葉",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書籍）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ }
+]

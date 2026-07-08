@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032140-0054",
+  "name": "上姉体館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢姉体町字寺ノ西"
+ },
+ {
+  "jmh_id": "JMH-032140-0076",
+  "name": "半入豪族屋敷",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢佐倉河字半入"
+ },
+ {
+  "jmh_id": "JMH-032140-0092",
+  "name": "豊田城跡碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂字下苗代沢"
+ },
+ {
+  "jmh_id": "JMH-032140-0089",
+  "name": "瀬谷子窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺稲瀬字瀬谷子"
+ },
+ {
+  "jmh_id": "JMH-032140-0081",
+  "name": "人首山本の旧盛街道七里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺米里字山本"
+ },
+ {
+  "jmh_id": "JMH-032140-0137",
+  "name": "真城中上野の旧奥州街道一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-12-23",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢真城字中上野"
+ },
+ {
+  "jmh_id": "JMH-032140-0154",
+  "name": "水沢鋳物発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1994-06-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢羽田町字御山下"
+ },
+ {
+  "jmh_id": "JMH-032140-0157",
+  "name": "若柳堰袋の旧仙北街道一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-03-10",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳字堰袋100-10"
+ },
+ {
+  "jmh_id": "JMH-032140-0001",
+  "name": "千養寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢羽田町字門下80"
+ },
+ {
+  "jmh_id": "JMH-032140-0002",
+  "name": "日高神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢日高小路14"
+ },
+ {
+  "jmh_id": "JMH-032140-0027",
+  "name": "大手町のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢大手町一丁目1"
+ },
+ {
+  "jmh_id": "JMH-032140-0037",
+  "name": "松山寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川女石127"
+ },
+ {
+  "jmh_id": "JMH-032140-0038",
+  "name": "松山寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川女石127"
+ },
+ {
+  "jmh_id": "JMH-032140-0040",
+  "name": "関袋のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川関袋"
+ },
+ {
+  "jmh_id": "JMH-032140-0032",
+  "name": "並木前のエドヒガン・コナラ合体木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川並木前"
+ },
+ {
+  "jmh_id": "JMH-032140-0033",
+  "name": "北館のエドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川横道下"
+ },
+ {
+  "jmh_id": "JMH-032140-0034",
+  "name": "山口のヒノキアスナロ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川山口"
+ },
+ {
+  "jmh_id": "JMH-032140-0035",
+  "name": "後滝の沢のスギとフジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川後滝の沢"
+ },
+ {
+  "jmh_id": "JMH-032140-0039",
+  "name": "畦畑のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川畦畑"
+ },
+ {
+  "jmh_id": "JMH-032140-0036",
+  "name": "懸田のヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川懸田"
+ },
+ {
+  "jmh_id": "JMH-032140-0061",
+  "name": "長田のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢黒石町字長田"
+ },
+ {
+  "jmh_id": "JMH-032140-0078",
+  "name": "羽田八雲神社のイロハモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-03-30",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢羽田町字粟ノ瀬21"
+ },
+ {
+  "jmh_id": "JMH-032140-0082",
+  "name": "向平当のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-05-19",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺米里字向平当"
+ },
+ {
+  "jmh_id": "JMH-032140-0099",
+  "name": "前大畑のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山字前大畑"
+ },
+ {
+  "jmh_id": "JMH-032140-0106",
+  "name": "小十文字のサイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田字小十文字"
+ },
+ {
+  "jmh_id": "JMH-032140-0100",
+  "name": "前大畑のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山字前大畑"
+ },
+ {
+  "jmh_id": "JMH-032140-0105",
+  "name": "大谷地のヤブツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山上大谷地"
+ },
+ {
+  "jmh_id": "JMH-032140-0075",
+  "name": "荒谷のイロハモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-08-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢生母字荒谷"
+ },
+ {
+  "jmh_id": "JMH-032140-0074",
+  "name": "太幸邸のウメ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-08-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市前沢字七日町"
+ },
+ {
+  "jmh_id": "JMH-032140-0147",
+  "name": "土橋のエドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳字土橋"
+ },
+ {
+  "jmh_id": "JMH-032140-0149",
+  "name": "峠のトウゲダケ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山字峠"
+ },
+ {
+  "jmh_id": "JMH-032140-0151",
+  "name": "鹿合のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳字上鹿合"
+ },
+ {
+  "jmh_id": "JMH-032140-0150",
+  "name": "明善寺のヒヨクヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳字香取297"
+ },
+ {
+  "jmh_id": "JMH-032140-0166",
+  "name": "野崎のヤマトアオダモ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川野崎"
+ },
+ {
+  "jmh_id": "JMH-032140-0165",
+  "name": "石ヶ沢のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川石ケ沢"
+ },
+ {
+  "jmh_id": "JMH-032140-0168",
+  "name": "餅転のネズコ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川餅転"
+ },
+ {
+  "jmh_id": "JMH-032140-0167",
+  "name": "餅転のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川餅転"
+ },
+ {
+  "jmh_id": "JMH-032140-0162",
+  "name": "旧殿のコウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川西風山25"
+ },
+ {
+  "jmh_id": "JMH-032140-0163",
+  "name": "楢原のサルスベリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川楢原"
+ },
+ {
+  "jmh_id": "JMH-032140-0164",
+  "name": "楢原のヤマボウシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川楢原"
+ }
+]

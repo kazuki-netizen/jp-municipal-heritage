@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-042188-0064",
+  "name": "絹本着色両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1991-04-25",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川三日町 市民ギャラリー"
+ },
+ {
+  "jmh_id": "JMH-042188-0071",
+  "name": "長勢暮春(長瀬の船着場)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1995-02-28",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川福沼 荒雄神社"
+ },
+ {
+  "jmh_id": "JMH-042188-0070",
+  "name": "江合川の船着場",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1995-02-28",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川江合本町 八幡神社"
+ },
+ {
+  "jmh_id": "JMH-042188-0012",
+  "name": "瑞川寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1970-12-05",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川三日町 瑞川寺"
+ },
+ {
+  "jmh_id": "JMH-042188-0055",
+  "name": "石雲寺薬医門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 石雲寺"
+ },
+ {
+  "jmh_id": "JMH-042188-0021",
+  "name": "中白鳥毛槍",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-07-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0067",
+  "name": "大身槍（銘 義助）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1992-01-17",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石"
+ },
+ {
+  "jmh_id": "JMH-042188-0061",
+  "name": "黒江薬師堂鰐口",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山金谷 黒江薬師堂"
+ },
+ {
+  "jmh_id": "JMH-042188-0059",
+  "name": "黒江薬師堂狛犬",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山金谷 黒江薬師堂"
+ },
+ {
+  "jmh_id": "JMH-042188-0057",
+  "name": "菊地家鉄黒漆五枚胴具足",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石"
+ },
+ {
+  "jmh_id": "JMH-042188-0066",
+  "name": "刀（銘 菊文伊賀守藤原金道）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1992-01-17",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山金谷"
+ },
+ {
+  "jmh_id": "JMH-042188-0010",
+  "name": "弘安の碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-12-05",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川堤根 天性寺"
+ },
+ {
+  "jmh_id": "JMH-042188-0011",
+  "name": "正応の碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-12-05",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川中里 極楽寺"
+ },
+ {
+  "jmh_id": "JMH-042188-0009",
+  "name": "延慶の碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-12-05",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川休塚"
+ },
+ {
+  "jmh_id": "JMH-042188-0014",
+  "name": "蕨手刀",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-12-25",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川川熊 古川出土文化財管理センター"
+ },
+ {
+  "jmh_id": "JMH-042188-0034",
+  "name": "金谷亀井囲横穴古墳群出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-06-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0045",
+  "name": "上野館表門鯱瓦",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0048",
+  "name": "須摩屋八幡神社板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山須摩屋 須摩屋八幡神社"
+ },
+ {
+  "jmh_id": "JMH-042188-0046",
+  "name": "次橋板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山次橋"
+ },
+ {
+  "jmh_id": "JMH-042188-0063",
+  "name": "文永の碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-04-25",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川福浦"
+ },
+ {
+  "jmh_id": "JMH-042188-0068",
+  "name": "元享2年銘結衆板碑及び無記念名号結衆板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1993-04-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市三本木新沼 若宮八幡神社"
+ },
+ {
+  "jmh_id": "JMH-042188-0076",
+  "name": "弘安の碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2000-01-27",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市岩出山浦小路 来迎寺"
+ },
+ {
+  "jmh_id": "JMH-042188-0079",
+  "name": "天王寺の建武の碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-03-28",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市岩出山上野目"
+ },
+ {
+  "jmh_id": "JMH-042188-0044",
+  "name": "上野館周辺絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0052",
+  "name": "天神社棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山次橋 天神社"
+ },
+ {
+  "jmh_id": "JMH-042188-0050",
+  "name": "人車",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0073",
+  "name": "志田郡古川古館之図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-04-26",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川駅前大通 大崎市図書館"
+ },
+ {
+  "jmh_id": "JMH-042188-0077",
+  "name": "鹿島台小学校校門（一門二扉）_鎌田三之助銅像一基とその周辺敷地",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-03-31",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市鹿島台平渡 鹿島台小学校"
+ },
+ {
+  "jmh_id": "JMH-042188-0078",
+  "name": "吉野作造造立 細川松三郎頌徳碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-03-26",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川二ノ構 古川第一小学校"
+ },
+ {
+  "jmh_id": "JMH-042188-0084",
+  "name": "天球儀 地球儀",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-05-28",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市岩出山船場 岩出山公民館"
+ },
+ {
+  "jmh_id": "JMH-042188-0089",
+  "name": "吉野作造関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-11-01",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川福沼 吉野作造記念館"
+ },
+ {
+  "jmh_id": "JMH-042188-0051",
+  "name": "千石村肝入文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0056",
+  "name": "茂庭家記録",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "仙台市青葉区川内"
+ },
+ {
+  "jmh_id": "JMH-042188-0054",
+  "name": "書(武田文国筆 軸装)",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1989-08-15",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石"
+ },
+ {
+  "jmh_id": "JMH-042188-0074",
+  "name": "千葉文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1997-03-25",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川駅前大通 大崎市図書館"
+ },
+ {
+  "jmh_id": "JMH-042188-0083",
+  "name": "古川村風土記御用書出",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2003-04-25",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川駅前大通 大崎市図書館"
+ },
+ {
+  "jmh_id": "JMH-042188-0086",
+  "name": "伊達稙宗書状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2006-03-23",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市松山千石 松山ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-042188-0088",
+  "name": "千葉家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2015-05-08",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川駅前大通 大崎市図書館"
+ },
+ {
+  "jmh_id": "JMH-042188-0087",
+  "name": "加藤家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2015-05-08",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市古川駅前大通 大崎市図書館"
+ },
+ {
+  "jmh_id": "JMH-042188-0019",
+  "name": "如意輪観音半跏像及び四天王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-08-04",
+  "municipality": "大崎市",
+  "location": "宮城県大崎市岩出山上野目 天王寺"
+ }
+]

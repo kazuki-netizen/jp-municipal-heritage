@@ -1,0 +1,18 @@
+{
+  "c03bf7673338b707": {
+    "url": "https://www.city.hadano.kanagawa.jp/soshiki/4/1019/8/5/3/3/index.html",
+    "filename": "c03bf7673338b707.html",
+    "sha256": "26f2bd6f81acbdfb3c5e3adee05eb442615538d45c101e5afaf4a0b1796321e7",
+    "fetched_at": "2026-07-08T03:18:47Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "70ede4c966c49dbf": {
+    "url": "https://www.city.hadano.kanagawa.jp/www/genre/1000000000247/index.html",
+    "filename": "70ede4c966c49dbf.html",
+    "sha256": null,
+    "fetched_at": "2026-07-08T03:18:49Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}
