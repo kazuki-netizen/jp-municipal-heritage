@@ -1,0 +1,366 @@
+[
+ {
+  "jmh_id": "JMH-012033-0001",
+  "name": "北海道鉄道開通起点",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-11-03",
+  "municipality": "小樽市"
+ },
+ {
+  "jmh_id": "JMH-012041-0001",
+  "name": "上川郡農作試験所事務所棟(忠別太駅逓第一美英舎)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1966-01-15",
+  "municipality": "旭川市",
+  "location": "神居1条1丁目"
+ },
+ {
+  "jmh_id": "JMH-012041-0003",
+  "name": "近文山国見の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1966-01-15",
+  "municipality": "旭川市",
+  "location": "江丹別町嵐山"
+ },
+ {
+  "jmh_id": "JMH-012041-0002",
+  "name": "梅の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1966-01-15",
+  "municipality": "旭川市",
+  "location": "東旭川町米原 旭川第一小校庭"
+ },
+ {
+  "jmh_id": "JMH-012041-0004",
+  "name": "神居古潭おう穴群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1966-07-25",
+  "municipality": "旭川市",
+  "location": "神居町神居古潭 石狩川河川敷"
+ },
+ {
+  "jmh_id": "JMH-012041-0005",
+  "name": "永山屯田兵屋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1970-07-06",
+  "municipality": "旭川市",
+  "location": "神楽3条7丁目 旭川市博物館"
+ },
+ {
+  "jmh_id": "JMH-012041-0006",
+  "name": "養蚕民家",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1973-03-19",
+  "municipality": "旭川市",
+  "location": "東旭川町瑞穂1576-1"
+ },
+ {
+  "jmh_id": "JMH-012041-0007",
+  "name": "旭川兵村（東旭川屯田）中隊記録",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1981-02-20",
+  "municipality": "旭川市",
+  "location": "東旭川南1条6丁目 旭川兵村記念館"
+ },
+ {
+  "jmh_id": "JMH-012041-0011",
+  "name": "旭川兵村（東旭川屯田）中隊記録（追加分）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2006-03-30",
+  "municipality": "旭川市",
+  "location": "東旭川南1条6丁目 旭川兵村記念館"
+ },
+ {
+  "jmh_id": "JMH-012041-0009",
+  "name": "錦町5遺跡出土の斧柄",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1986-08-20",
+  "municipality": "旭川市",
+  "location": "神楽3条7丁目 旭川市博物館"
+ },
+ {
+  "jmh_id": "JMH-012041-0008",
+  "name": "蕨手刀",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1986-08-20",
+  "municipality": "旭川市",
+  "location": "神楽3条7丁目 旭川市博物館"
+ },
+ {
+  "jmh_id": "JMH-012041-0010",
+  "name": "旧神居古潭駅舎",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1991-03-15",
+  "municipality": "旭川市",
+  "location": "江丹別町春日197-1"
+ },
+ {
+  "jmh_id": "JMH-012041-0013",
+  "name": "第七師団関係記録",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2006-03-30",
+  "municipality": "旭川市",
+  "location": "春光町国有無番地 陸上自衛隊第二師団旭川駐屯地 北鎮記念館"
+ },
+ {
+  "jmh_id": "JMH-012041-0012",
+  "name": "知里幸恵遺稿ノート",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2006-03-30",
+  "municipality": "旭川市",
+  "location": "神楽3条7丁目 旭川市博物館"
+ },
+ {
+  "jmh_id": "JMH-012300-0002",
+  "name": "円空作観音像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-09-02",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0001",
+  "name": "円空作聖観音像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-09-02",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0005",
+  "name": "高村東雲作観音像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-09-02",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0004",
+  "name": "日野愛憙の「明治2年以降片倉家北海道移住顛末」",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-09-02",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0003",
+  "name": "幌別鉱山獅子舞",
+  "category": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-09-02",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0006",
+  "name": "黒澤家史料",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1998-02-10",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0007",
+  "name": "登別化石林の炭化木（トドマツ）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "市指定",
+  "designated_date": "2017-02-01",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0008",
+  "name": "幌別村役場文書",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2019-04-26",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0009",
+  "name": "片倉家主従開拓記念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "designation": "市指定",
+  "designated_date": "2022-03-30",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0010",
+  "name": "丈草の記",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2023-02-24",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-012300-0011",
+  "name": "石川脩次コレクション",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2025-06-04",
+  "municipality": "登別市"
+ },
+ {
+  "jmh_id": "JMH-013455-0003",
+  "name": "円空作「観音菩薩坐像」1体",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2011-03-23",
+  "municipality": "長万部町"
+ },
+ {
+  "jmh_id": "JMH-013455-0001",
+  "name": "アイヌ民族衣装「ルウンペ」2着、「チヂリ」2着／計4着",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2011-03-23",
+  "municipality": "長万部町"
+ },
+ {
+  "jmh_id": "JMH-013455-0002",
+  "name": "丸木舟",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2011-03-23",
+  "municipality": "長万部町"
+ },
+ {
+  "jmh_id": "JMH-012050-0002",
+  "name": "輪西屯田兵旧火薬庫",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1972-03-23",
+  "municipality": "室蘭市",
+  "location": "宮の森町(中嶋神社境内)"
+ },
+ {
+  "jmh_id": "JMH-012050-0003",
+  "name": "輪西屯田兵記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1972-03-23",
+  "municipality": "室蘭市",
+  "location": "宮の森町(中嶋神社境内)"
+ },
+ {
+  "jmh_id": "JMH-014818-0012",
+  "name": "増毛土木派出所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0003",
+  "name": "官立札幌病院増毛出張所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-06-30",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0002",
+  "name": "増毛運上屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-06-30",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0022",
+  "name": "水戸藩主一行宿営の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-07-01",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0010",
+  "name": "開拓使増毛船改所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-06-30",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0011",
+  "name": "入舟町浜茶屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0023",
+  "name": "秋田藩元陣屋第二台場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-07-01",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0028",
+  "name": "リンゴ栽培の父藤原筆吉翁の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1983-07-21",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0031",
+  "name": "天塩国水産会さけます孵化場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1999-02-10",
+  "municipality": "増毛町"
+ },
+ {
+  "jmh_id": "JMH-014818-0017",
+  "name": "雄冬冷清水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-07-25",
+  "municipality": "増毛町"
+ }
+]

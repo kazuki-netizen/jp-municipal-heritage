@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092029-0296",
+  "name": "絹本著色 白鷹図（伝徽宗筆）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2010-12-15",
+  "municipality": "足利市",
+  "location": "昌平町（足利学校）"
+ },
+ {
+  "jmh_id": "JMH-092029-0298",
+  "name": "紙本墨画 鍾馗図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2012-11-15",
+  "municipality": "足利市",
+  "location": "八幡町3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0299",
+  "name": "絹本著色 鍾馗図（中山嵩岳描表装）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2012-11-15",
+  "municipality": "足利市",
+  "location": "八幡町3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0301",
+  "name": "紙本著色 熊野歓心十界曼荼羅図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2013-01-16",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0303",
+  "name": "絹本墨画淡彩 雪景山水図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2015-02-16",
+  "municipality": "足利市",
+  "location": "家富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0307",
+  "name": "山水図 伝謝時臣筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2019-07-26",
+  "municipality": "足利市",
+  "location": "昌平町（足利学校）"
+ },
+ {
+  "jmh_id": "JMH-092029-0314",
+  "name": "絹本著色 武陵桃源図（田崎草雲筆）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2021-03-25",
+  "municipality": "足利市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-092029-0009",
+  "name": "木造 小野篁坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-02-17",
+  "municipality": "足利市",
+  "location": "昌平町"
+ },
+ {
+  "jmh_id": "JMH-092029-0036",
+  "name": "銅造 釈迦牟尼仏坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0035",
+  "name": "銅像 阿弥陀如来立像及び両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "松田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0026",
+  "name": "木造 十六羅漢像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "松田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0038",
+  "name": "木造 聖観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-11-22",
+  "municipality": "足利市",
+  "location": "奥戸町"
+ },
+ {
+  "jmh_id": "JMH-092029-0076",
+  "name": "木造 大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1968-03-19",
+  "municipality": "足利市",
+  "location": "粟谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0090",
+  "name": "銅造 大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-06-20",
+  "municipality": "足利市",
+  "location": "西宮町"
+ },
+ {
+  "jmh_id": "JMH-092029-0111",
+  "name": "円空仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1980-03-22",
+  "municipality": "足利市",
+  "location": "小曽根町"
+ },
+ {
+  "jmh_id": "JMH-092029-0119",
+  "name": "銅造 地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1980-03-22",
+  "municipality": "足利市",
+  "location": "高松町"
+ },
+ {
+  "jmh_id": "JMH-092029-0121",
+  "name": "木造 延命地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-02-25",
+  "municipality": "足利市",
+  "location": "久保田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0130",
+  "name": "木造 地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-03-15",
+  "municipality": "足利市",
+  "location": "稲岡町"
+ },
+ {
+  "jmh_id": "JMH-092029-0131",
+  "name": "木造 金剛力士立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-03-15",
+  "municipality": "足利市",
+  "location": "稲岡町"
+ },
+ {
+  "jmh_id": "JMH-092029-0138",
+  "name": "木造 大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-06-20",
+  "municipality": "足利市",
+  "location": "粟谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0140",
+  "name": "木造 釈迦三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-06-20",
+  "municipality": "足利市",
+  "location": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-092029-0139",
+  "name": "木造 延命地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-06-20",
+  "municipality": "足利市",
+  "location": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-092029-0158",
+  "name": "木造 釈迦三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-02-23",
+  "municipality": "足利市",
+  "location": "名草上町"
+ },
+ {
+  "jmh_id": "JMH-092029-0157",
+  "name": "木造 薬師如来立像 両脇侍像、十二神将像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-02-23",
+  "municipality": "足利市",
+  "location": "名草中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0163",
+  "name": "銅造 毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-02-23",
+  "municipality": "足利市",
+  "location": "名草中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0188",
+  "name": "銅造 阿弥陀如来立像及び観音菩薩、聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "菅田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0187",
+  "name": "示現神社木造 左・右大臣像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "月谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0185",
+  "name": "石造 地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "江川町3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0184",
+  "name": "石造 不動明王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "江川町3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0182",
+  "name": "木造 聖観世音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "江川町3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0183",
+  "name": "木造 金剛力士立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-092029-0193",
+  "name": "木造 阿弥陀三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-08-26",
+  "municipality": "足利市",
+  "location": "福居町"
+ },
+ {
+  "jmh_id": "JMH-092029-0192",
+  "name": "木造 釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-08-26",
+  "municipality": "足利市",
+  "location": "山下町"
+ },
+ {
+  "jmh_id": "JMH-092029-0195",
+  "name": "耳だれ地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-08-26",
+  "municipality": "足利市",
+  "location": "福富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0200",
+  "name": "千蔵院の木造閻魔王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-03-13",
+  "municipality": "足利市",
+  "location": "葉鹿町"
+ },
+ {
+  "jmh_id": "JMH-092029-0205",
+  "name": "東光寺の薬師三尊並びに十二神将像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-03-13",
+  "municipality": "足利市",
+  "location": "葉鹿町"
+ },
+ {
+  "jmh_id": "JMH-092029-0204",
+  "name": "徳蔵寺の愛染明王像付厨子及び愛染堂",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-03-13",
+  "municipality": "足利市",
+  "location": "猿田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0207",
+  "name": "木造 阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-09-24",
+  "municipality": "足利市",
+  "location": "福富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0219",
+  "name": "伝行基像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-12-15",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-092029-0228",
+  "name": "厨子入 木造十一面観音立像（附体内文書）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-11-22",
+  "municipality": "足利市",
+  "location": "島田町"
+ }
+]

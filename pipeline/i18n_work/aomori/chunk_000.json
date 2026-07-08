@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-023213-0047",
+  "name": "鰺ヶ沢雪景図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1991-10-21",
+  "municipality": "鰺ヶ沢町",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-023213-0027",
+  "name": "館地蔵堂の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "舞戸町"
+ },
+ {
+  "jmh_id": "JMH-023213-0046",
+  "name": "館の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1991-10-21",
+  "municipality": "鰺ヶ沢町",
+  "location": "舞戸町"
+ },
+ {
+  "jmh_id": "JMH-023213-0014",
+  "name": "無量庵跡の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "田中町"
+ },
+ {
+  "jmh_id": "JMH-023213-0012",
+  "name": "松源寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "赤石町"
+ },
+ {
+  "jmh_id": "JMH-023213-0010",
+  "name": "日照田の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "日照田町"
+ },
+ {
+  "jmh_id": "JMH-023213-0023",
+  "name": "種里旧墓地の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "種里町"
+ },
+ {
+  "jmh_id": "JMH-023213-0013",
+  "name": "永禄の墓石",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "中村町"
+ },
+ {
+  "jmh_id": "JMH-023213-0020",
+  "name": "種里八幡宮棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "種里町"
+ },
+ {
+  "jmh_id": "JMH-023213-0022",
+  "name": "種里八幡宮身正体",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "種里町"
+ },
+ {
+  "jmh_id": "JMH-023213-0019",
+  "name": "種里八幡宮弓具",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "種里町"
+ },
+ {
+  "jmh_id": "JMH-023213-0021",
+  "name": "種里八幡宮獅子頭",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "種里町"
+ },
+ {
+  "jmh_id": "JMH-023213-0044",
+  "name": "白八幡宮絵馬群",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1991-10-21",
+  "municipality": "鰺ヶ沢町",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-023213-0017",
+  "name": "白八幡宮玉垣",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-023213-0008",
+  "name": "常灯碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-023213-0041",
+  "name": "明和地震供養塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1989-05-19",
+  "municipality": "鰺ヶ沢町",
+  "location": "富根町"
+ },
+ {
+  "jmh_id": "JMH-023213-0005",
+  "name": "堀切沢の天明飢饉供養塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "舞戸町"
+ },
+ {
+  "jmh_id": "JMH-023213-0043",
+  "name": "岸文靖墓道表",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1991-10-21",
+  "municipality": "鰺ヶ沢町",
+  "location": "釣町"
+ },
+ {
+  "jmh_id": "JMH-023213-0011",
+  "name": "日蔭塚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "舞戸町"
+ },
+ {
+  "jmh_id": "JMH-023213-0002",
+  "name": "保村晩杏句碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "舞戸町"
+ },
+ {
+  "jmh_id": "JMH-023213-0004",
+  "name": "化石塚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "釣町"
+ },
+ {
+  "jmh_id": "JMH-023213-0024",
+  "name": "芭蕉塚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "七ッ石町"
+ },
+ {
+  "jmh_id": "JMH-023213-0018",
+  "name": "禽翁齋宗全墓",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-023213-0006",
+  "name": "塩越屋羽扇墓",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "七ッ石町"
+ },
+ {
+  "jmh_id": "JMH-023213-0015",
+  "name": "生駒き員墓",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "釣町"
+ },
+ {
+  "jmh_id": "JMH-023213-0025",
+  "name": "豊島佳兮墓",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "所在不明"
+ },
+ {
+  "jmh_id": "JMH-023213-0009",
+  "name": "日和山の岩木山遥拝所碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "舞戸町"
+ },
+ {
+  "jmh_id": "JMH-023213-0042",
+  "name": "八衢神碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1991-10-21",
+  "municipality": "鰺ヶ沢町",
+  "location": "七ッ石町"
+ },
+ {
+  "jmh_id": "JMH-023213-0007",
+  "name": "大然大山祇神社社標（マタギ記念銘）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "一ッ森町"
+ },
+ {
+  "jmh_id": "JMH-023213-0001",
+  "name": "白八幡宮神輿渡御",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1981-05-21",
+  "municipality": "鰺ヶ沢町"
+ },
+ {
+  "jmh_id": "JMH-023213-0028",
+  "name": "正調鰺ヶ沢甚句",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-09-19",
+  "municipality": "鰺ヶ沢町"
+ },
+ {
+  "jmh_id": "JMH-023213-0029",
+  "name": "鰺ヶ沢くどき",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-09-19",
+  "municipality": "鰺ヶ沢町"
+ },
+ {
+  "jmh_id": "JMH-023213-0045",
+  "name": "目内崎獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1991-10-21",
+  "municipality": "鰺ヶ沢町"
+ },
+ {
+  "jmh_id": "JMH-023213-0026",
+  "name": "赤石の追分碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "赤石町"
+ },
+ {
+  "jmh_id": "JMH-023213-0016",
+  "name": "田村麻呂の腰掛石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-023213-0003",
+  "name": "公墓跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1983-04-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "南浮田町"
+ },
+ {
+  "jmh_id": "JMH-023213-0040",
+  "name": "鬼神神社のクロマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "建石町"
+ },
+ {
+  "jmh_id": "JMH-023213-0039",
+  "name": "願行寺のクロマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-023213-0034",
+  "name": "松源寺のクロマツ・ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "赤石町"
+ },
+ {
+  "jmh_id": "JMH-023213-0035",
+  "name": "石神神社のクロマツ・セン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "建石町"
+ }
+]

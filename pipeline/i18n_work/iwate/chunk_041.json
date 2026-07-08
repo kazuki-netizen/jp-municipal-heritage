@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032093-0009",
+  "name": "舞出鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "陸前高田市",
+  "location": "横田町字舞出"
+ },
+ {
+  "jmh_id": "JMH-032093-0008",
+  "name": "生出神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "陸前高田市",
+  "location": "矢作町字木戸口"
+ },
+ {
+  "jmh_id": "JMH-032093-0010",
+  "name": "雪沢田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "陸前高田市",
+  "location": "矢作町字雪沢"
+ },
+ {
+  "jmh_id": "JMH-032093-0005",
+  "name": "二日市寅舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "陸前高田市",
+  "location": "気仙町字丑沢"
+ },
+ {
+  "jmh_id": "JMH-032093-0006",
+  "name": "根岬梯子虎舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-05-27",
+  "municipality": "陸前高田市",
+  "location": "広田町字根岬"
+ },
+ {
+  "jmh_id": "JMH-032093-0013",
+  "name": "長部湊七福神舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-06-03",
+  "municipality": "陸前高田市",
+  "location": "気仙町字湊"
+ },
+ {
+  "jmh_id": "JMH-032093-0012",
+  "name": "要谷たるこ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-06-03",
+  "municipality": "陸前高田市",
+  "location": "気仙町字要谷"
+ },
+ {
+  "jmh_id": "JMH-032093-0011",
+  "name": "三ノ戸剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-06-03",
+  "municipality": "陸前高田市",
+  "location": "矢作町字三ノ戸"
+ },
+ {
+  "jmh_id": "JMH-032093-0020",
+  "name": "田束念仏鎧剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1994-02-10",
+  "municipality": "陸前高田市",
+  "location": "小友町字茂里花"
+ },
+ {
+  "jmh_id": "JMH-032093-0022",
+  "name": "中平神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1996-06-25",
+  "municipality": "陸前高田市",
+  "location": "矢作町字中平"
+ },
+ {
+  "jmh_id": "JMH-032093-0023",
+  "name": "生出鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1996-06-25",
+  "municipality": "陸前高田市",
+  "location": "矢作町字的場"
+ },
+ {
+  "jmh_id": "JMH-032093-0026",
+  "name": "広田御祝い",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2009-03-26",
+  "municipality": "陸前高田市",
+  "location": "広田町字長洞"
+ },
+ {
+  "jmh_id": "JMH-032093-0028",
+  "name": "本宿梯子虎舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2009-03-26",
+  "municipality": "陸前高田市",
+  "location": "横田町字本宿"
+ },
+ {
+  "jmh_id": "JMH-032093-0027",
+  "name": "新田梯子虎舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2009-03-26",
+  "municipality": "陸前高田市",
+  "location": "竹駒町字新田"
+ },
+ {
+  "jmh_id": "JMH-032093-0029",
+  "name": "槻沢梯子虎舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2009-03-26",
+  "municipality": "陸前高田市",
+  "location": "横田町字槻沢"
+ },
+ {
+  "jmh_id": "JMH-032093-0001",
+  "name": "タラヨウの巨木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物・植物",
+  "designation": "市指定",
+  "designated_date": "1973-03-01",
+  "municipality": "陸前高田市",
+  "location": "矢作町字袖野"
+ },
+ {
+  "jmh_id": "JMH-032093-0002",
+  "name": "圓城寺の枝垂性トウヒ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物・植物",
+  "designation": "市指定",
+  "designated_date": "1973-03-01",
+  "municipality": "陸前高田市",
+  "location": "矢作町字愛宕下（圓城寺）"
+ },
+ {
+  "jmh_id": "JMH-032093-0018",
+  "name": "華蔵寺のモミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物・植物",
+  "designation": "市指定",
+  "designated_date": "1993-06-01",
+  "municipality": "陸前高田市",
+  "location": "小友町字門前（華蔵寺）"
+ },
+ {
+  "jmh_id": "JMH-032093-0024",
+  "name": "玉御前の石割ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物・植物",
+  "designation": "市指定",
+  "designated_date": "2004-08-24",
+  "municipality": "陸前高田市",
+  "location": "竹駒町（玉山神社境内）"
+ },
+ {
+  "jmh_id": "JMH-035068-0016",
+  "name": "阿弥陀如来座像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1976-09-25",
+  "municipality": "一戸町",
+  "location": "西法寺字西法寺"
+ },
+ {
+  "jmh_id": "JMH-035068-0015",
+  "name": "毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1976-09-25",
+  "municipality": "一戸町",
+  "location": "西法寺字西法寺"
+ },
+ {
+  "jmh_id": "JMH-035068-0014",
+  "name": "地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1976-09-25",
+  "municipality": "一戸町",
+  "location": "西法寺字西法寺"
+ },
+ {
+  "jmh_id": "JMH-035068-0027",
+  "name": "木造阿弥陀三尊立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1984-12-25",
+  "municipality": "一戸町",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-035068-0003",
+  "name": "姉帯馬場宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-06-08",
+  "municipality": "一戸町",
+  "location": "姉帯馬場"
+ },
+ {
+  "jmh_id": "JMH-035068-0007",
+  "name": "悪戸平宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-06-08",
+  "municipality": "一戸町",
+  "location": "鳥越字悪戸平"
+ },
+ {
+  "jmh_id": "JMH-035068-0005",
+  "name": "小井田宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-06-08",
+  "municipality": "一戸町",
+  "location": "一戸字小井田"
+ },
+ {
+  "jmh_id": "JMH-035068-0002",
+  "name": "大観森宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-06-08",
+  "municipality": "一戸町",
+  "location": "一戸字小井田"
+ },
+ {
+  "jmh_id": "JMH-035068-0004",
+  "name": "実相寺宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-06-08",
+  "municipality": "一戸町",
+  "location": "一戸字大沢"
+ },
+ {
+  "jmh_id": "JMH-035068-0006",
+  "name": "広全寺宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-06-08",
+  "municipality": "一戸町",
+  "location": "一戸字大沢"
+ },
+ {
+  "jmh_id": "JMH-035068-0001",
+  "name": "出ル町宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-06-08",
+  "municipality": "一戸町",
+  "location": "出ル町字楢木"
+ },
+ {
+  "jmh_id": "JMH-035068-0025",
+  "name": "薬師堂宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "月舘字薬師堂"
+ },
+ {
+  "jmh_id": "JMH-035068-0020",
+  "name": "小姓堂宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "小鳥谷字小姓堂"
+ },
+ {
+  "jmh_id": "JMH-035068-0018",
+  "name": "上里宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "姉帯字上里"
+ },
+ {
+  "jmh_id": "JMH-035068-0021",
+  "name": "椛ノ木宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "小友字椛ノ木"
+ },
+ {
+  "jmh_id": "JMH-035068-0019",
+  "name": "半在家五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1978-10-30",
+  "municipality": "一戸町",
+  "location": "小友字半在家"
+ },
+ {
+  "jmh_id": "JMH-035068-0017",
+  "name": "青龍刀形石器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1977-08-24",
+  "municipality": "一戸町",
+  "location": "御所野縄文博物館"
+ },
+ {
+  "jmh_id": "JMH-035068-0030",
+  "name": "櫛目波状文双耳壺",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1986-12-25",
+  "municipality": "一戸町",
+  "location": "御所野縄文博物館"
+ },
+ {
+  "jmh_id": "JMH-035068-0031",
+  "name": "青磁香炉",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1988-01-26",
+  "municipality": "一戸町",
+  "location": "御所野縄文博物館"
+ },
+ {
+  "jmh_id": "JMH-035068-0039",
+  "name": "越田八幡宮板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1995-10-02",
+  "municipality": "一戸町",
+  "location": "一戸字小井田"
+ },
+ {
+  "jmh_id": "JMH-035068-0040",
+  "name": "関屋大日堂板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1995-10-02",
+  "municipality": "一戸町",
+  "location": "西法寺字関屋"
+ }
+]

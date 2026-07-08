@@ -1,0 +1,360 @@
+[
+ {
+  "jmh_id": "JMH-062103-0003",
+  "name": "佛向寺の板碑と石仏",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "小路"
+ },
+ {
+  "jmh_id": "JMH-062103-0035",
+  "name": "石佛寺の石仏群",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字高擶"
+ },
+ {
+  "jmh_id": "JMH-062103-0031",
+  "name": "清池の六面幢",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字清池"
+ },
+ {
+  "jmh_id": "JMH-062103-0032",
+  "name": "清池の大日板碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字清池"
+ },
+ {
+  "jmh_id": "JMH-062103-0010",
+  "name": "多宝仏塔(東漸寺跡の宝塔)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字貫津"
+ },
+ {
+  "jmh_id": "JMH-062103-0018",
+  "name": "徳正寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字奈良沢"
+ },
+ {
+  "jmh_id": "JMH-062103-0001",
+  "name": "上荻野戸の板碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字上荻野戸"
+ },
+ {
+  "jmh_id": "JMH-062103-0047",
+  "name": "荒谷の板碑群",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字荒谷"
+ },
+ {
+  "jmh_id": "JMH-062103-0006",
+  "name": "北原の層塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字川原子"
+ },
+ {
+  "jmh_id": "JMH-062103-0013",
+  "name": "安楽寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字高擶"
+ },
+ {
+  "jmh_id": "JMH-062103-0036",
+  "name": "紙本墨画寒山拾得図 伝 可翁宗然 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市"
+ },
+ {
+  "jmh_id": "JMH-062103-0037",
+  "name": "絵馬舎人曳駒之図(紙本着色神馬図) 最上家信 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字北目"
+ },
+ {
+  "jmh_id": "JMH-062103-0039",
+  "name": "絹本淡彩東都上野霧中之花図 東都上野不忍雨中之花図 歌川広重 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "一日町"
+ },
+ {
+  "jmh_id": "JMH-062103-0041",
+  "name": "絹本淡彩武金沢雀ヶ浦図 武金沢飛石山図 歌川広重 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市"
+ },
+ {
+  "jmh_id": "JMH-062103-0028",
+  "name": "柳鴉之図(紙本墨画雨烏図) 郷目貞繁 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字寺津"
+ },
+ {
+  "jmh_id": "JMH-062103-0042",
+  "name": "絹本着色松平康邦像 歌川広重 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "老野森"
+ },
+ {
+  "jmh_id": "JMH-062103-0043",
+  "name": "絹本着色田野文仲像 歌川広重 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "老野森"
+ },
+ {
+  "jmh_id": "JMH-062103-0040",
+  "name": "絹本淡彩東都隅田川図 東都飛島山図 歌川広重 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "一日町"
+ },
+ {
+  "jmh_id": "JMH-062103-0038",
+  "name": "絹本淡彩吉野之櫻図 龍田川之紅葉図 歌川広重 筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "鎌田本町"
+ },
+ {
+  "jmh_id": "JMH-062103-0024",
+  "name": "木造伝行基菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山元"
+ },
+ {
+  "jmh_id": "JMH-062103-0025",
+  "name": "木造僧形文殊菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山元"
+ },
+ {
+  "jmh_id": "JMH-062103-0023",
+  "name": "木造不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山元"
+ },
+ {
+  "jmh_id": "JMH-062103-0027",
+  "name": "木造狛犬（一対）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山元"
+ },
+ {
+  "jmh_id": "JMH-062103-0054",
+  "name": "銅造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山元"
+ },
+ {
+  "jmh_id": "JMH-062103-0048",
+  "name": "華光菩薩（木造伝弥勒菩薩）倚像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字高木"
+ },
+ {
+  "jmh_id": "JMH-062103-0026",
+  "name": "木造徳本上人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "小路"
+ },
+ {
+  "jmh_id": "JMH-062103-0002",
+  "name": "伝勝軍地蔵菩薩像（木造地蔵菩薩坐像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字道満"
+ },
+ {
+  "jmh_id": "JMH-062103-0029",
+  "name": "桐唐草鳳凰文様唐織貼付竹筒（文書入れ筒）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字成生"
+ },
+ {
+  "jmh_id": "JMH-062103-0050",
+  "name": "袖無編衣（阿弥衣）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "小路"
+ },
+ {
+  "jmh_id": "JMH-062103-0053",
+  "name": "鉦鼓（永仁三年三月日銘鉦鼓）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "小路"
+ },
+ {
+  "jmh_id": "JMH-062103-0022",
+  "name": "最上義光の書翰",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山元"
+ },
+ {
+  "jmh_id": "JMH-062103-0008",
+  "name": "吉田大八の遺墨",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字天童"
+ },
+ {
+  "jmh_id": "JMH-062103-0011",
+  "name": "大明神原出土の大刀 (第一号)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字乱川"
+ },
+ {
+  "jmh_id": "JMH-062103-0012",
+  "name": "大明神原出土の大刀 (第二号)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字道満"
+ },
+ {
+  "jmh_id": "JMH-062103-0034",
+  "name": "異形土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字道満"
+ },
+ {
+  "jmh_id": "JMH-062103-0057",
+  "name": "高野坊遺跡出土墨書礫",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字大清水"
+ },
+ {
+  "jmh_id": "JMH-062103-0009",
+  "name": "吉田大八像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字天童"
+ },
+ {
+  "jmh_id": "JMH-062103-0007",
+  "name": "原崎の鴨棲息沼",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山口"
+ },
+ {
+  "jmh_id": "JMH-062103-0049",
+  "name": "薬師神社のケヤキ林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字成生"
+ },
+ {
+  "jmh_id": "JMH-062103-0017",
+  "name": "建勲神社社叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字天童"
+ }
+]

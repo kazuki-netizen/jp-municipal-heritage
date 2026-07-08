@@ -1,0 +1,400 @@
+[
+ {
+  "jmh_id": "JMH-063215-0046",
+  "name": "浦木文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "municipality": "河北町"
+ },
+ {
+  "jmh_id": "JMH-062073-0032",
+  "name": "堅磐橋（かきわばし）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975-07-24",
+  "municipality": "上山市",
+  "location": "上山市川口字川原"
+ },
+ {
+  "jmh_id": "JMH-062073-0033",
+  "name": "新橋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "上山市",
+  "location": "上山市楢下"
+ },
+ {
+  "jmh_id": "JMH-062073-0034",
+  "name": "覗橋（のぞきばし）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "上山市",
+  "location": "上山市楢下"
+ },
+ {
+  "jmh_id": "JMH-062073-0036",
+  "name": "中山橋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-12-28",
+  "municipality": "上山市",
+  "location": "上山市中山字上町"
+ },
+ {
+  "jmh_id": "JMH-062073-0053",
+  "name": "細谷石造大鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1983-11-18",
+  "municipality": "上山市",
+  "location": "上山市細谷上原"
+ },
+ {
+  "jmh_id": "JMH-062073-0059",
+  "name": "楢下宿「庄内屋」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-08-14",
+  "municipality": "上山市",
+  "location": "上山市楢下23-3"
+ },
+ {
+  "jmh_id": "JMH-062073-0067",
+  "name": "楢下宿「大黒屋」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1995-05-26",
+  "municipality": "上山市",
+  "location": "上山市楢下32"
+ },
+ {
+  "jmh_id": "JMH-062073-0069",
+  "name": "楢下宿「山田屋」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1995-10-24",
+  "municipality": "上山市",
+  "location": "上山市楢下56"
+ },
+ {
+  "jmh_id": "JMH-062073-0068",
+  "name": "楢下宿 「武田家」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1995-10-24",
+  "municipality": "上山市",
+  "location": "上山市楢下9-2"
+ },
+ {
+  "jmh_id": "JMH-062073-0064",
+  "name": "武家屋敷 「森本家」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-08-24",
+  "municipality": "上山市",
+  "location": "上山市鶴脛町一丁目7-48"
+ },
+ {
+  "jmh_id": "JMH-062073-0062",
+  "name": "武家屋敷 「三輪家」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-08-24",
+  "municipality": "上山市",
+  "location": "上山市鶴脛町一丁目7-46"
+ },
+ {
+  "jmh_id": "JMH-062073-0063",
+  "name": "武家屋敷 「旧曽我部家」附「井戸」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-08-24",
+  "municipality": "上山市",
+  "location": "上山市鶴脛町一丁目7-38"
+ },
+ {
+  "jmh_id": "JMH-062073-0071",
+  "name": "武家屋敷 「山田家」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2004-10-27",
+  "municipality": "上山市",
+  "location": "上山市鶴脛町一丁目7-41"
+ },
+ {
+  "jmh_id": "JMH-062073-0029",
+  "name": "絹本極彩色阿弥陀如来像図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-02-26",
+  "municipality": "上山市",
+  "location": "上山市石崎二丁目6-8"
+ },
+ {
+  "jmh_id": "JMH-062073-0012",
+  "name": "法円寺欄間の彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市栄町一丁目3-30"
+ },
+ {
+  "jmh_id": "JMH-062073-0010",
+  "name": "松平家牌所阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市軽井沢二丁目1-1"
+ },
+ {
+  "jmh_id": "JMH-062073-0020",
+  "name": "浄光寺阿弥陀如来像立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-10-05",
+  "municipality": "上山市",
+  "location": "上山市軽井沢二丁目1-1"
+ },
+ {
+  "jmh_id": "JMH-062073-0030",
+  "name": "金剛阿弥陀三尊立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-02-26",
+  "municipality": "上山市",
+  "location": "上山市石崎二丁目6-8"
+ },
+ {
+  "jmh_id": "JMH-062073-0047",
+  "name": "銅造 阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-17",
+  "municipality": "上山市",
+  "location": "上山市金瓶字北1651"
+ },
+ {
+  "jmh_id": "JMH-062073-0054",
+  "name": "観音寺大日堂懸魚・向拝（龍）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-11-18",
+  "municipality": "上山市",
+  "location": "上山市十日町9-29"
+ },
+ {
+  "jmh_id": "JMH-062073-0009",
+  "name": "朱蓮花盆",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市元城内3-23"
+ },
+ {
+  "jmh_id": "JMH-062073-0006",
+  "name": "名越弥七郎銘 釣鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市高松131"
+ },
+ {
+  "jmh_id": "JMH-062073-0073",
+  "name": "刀 銘 伯耆守藤原信高",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2010-03-24",
+  "municipality": "上山市",
+  "location": "上山市元城内3-7"
+ },
+ {
+  "jmh_id": "JMH-062073-0002",
+  "name": "上山見聞随筆 全六冊",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市二日町9-29"
+ },
+ {
+  "jmh_id": "JMH-062073-0013",
+  "name": "清光院日記 全十二冊",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市軽井沢一丁目1-36"
+ },
+ {
+  "jmh_id": "JMH-062073-0061",
+  "name": "徳川幕府大老・老中よりの書翰",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1990-08-23",
+  "municipality": "上山市",
+  "location": "上山市元城内3-23"
+ },
+ {
+  "jmh_id": "JMH-062073-0060",
+  "name": "山内典子遺言書",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1990-08-23",
+  "municipality": "上山市",
+  "location": "上山市元城内（上山城寄託）"
+ },
+ {
+  "jmh_id": "JMH-062073-0015",
+  "name": "牧野の文保二年追分板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市牧野字中原2038"
+ },
+ {
+  "jmh_id": "JMH-062073-0014",
+  "name": "牧野の文保二年天神板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市牧野字屋敷44-乙"
+ },
+ {
+  "jmh_id": "JMH-062073-0016",
+  "name": "阿弥陀地の元応三年板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市阿弥陀地50"
+ },
+ {
+  "jmh_id": "JMH-062073-0007",
+  "name": "如来寺跡の元亨三年大日板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市牧野字如来1183-丙"
+ },
+ {
+  "jmh_id": "JMH-062073-0008",
+  "name": "如来寺跡の嘉暦二年三尊板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市牧野字如来1183-丙"
+ },
+ {
+  "jmh_id": "JMH-062073-0011",
+  "name": "権現堂の正中二年板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市権現堂公民館庭"
+ },
+ {
+  "jmh_id": "JMH-062073-0004",
+  "name": "久昌寺の嘉暦三年三尊板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市牧野2488"
+ },
+ {
+  "jmh_id": "JMH-062073-0005",
+  "name": "五十嵐小文治の墓",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-04-20",
+  "municipality": "上山市",
+  "location": "上山市葉山2-20"
+ },
+ {
+  "jmh_id": "JMH-062073-0021",
+  "name": "十日町の市神石幢",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1960-05-25",
+  "municipality": "上山市",
+  "location": "上山市十日町2-7"
+ },
+ {
+  "jmh_id": "JMH-062073-0027",
+  "name": "上山藩領境界石標",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-02-26",
+  "municipality": "上山市",
+  "location": "上山市十日町6-16"
+ },
+ {
+  "jmh_id": "JMH-062073-0041",
+  "name": "圓通寺の応安元年板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-05-17",
+  "municipality": "上山市",
+  "location": "上山市長清水一丁目7-28"
+ },
+ {
+  "jmh_id": "JMH-062073-0039",
+  "name": "久保川の応永六年阿弥陀板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-05-17",
+  "municipality": "上山市",
+  "location": "上山市久保川145-1"
+ }
+]

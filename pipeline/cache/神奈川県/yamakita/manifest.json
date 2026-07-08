@@ -1,0 +1,18 @@
+{
+  "5b92adaa94d639b2": {
+    "url": "https://www.town.yamakita.kanagawa.jp/0000005164.html",
+    "filename": "5b92adaa94d639b2.html",
+    "sha256": "e79d1ef63a493dcb7a902f1c3b9e6f6235fe51fd23ba092fddd4c80c6dbdf73d",
+    "fetched_at": "2026-07-08T03:18:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6864aeceab2b23a0": {
+    "url": "https://www.town.yamakita.kanagawa.jp/category/1-12-7-0-0.html",
+    "filename": "6864aeceab2b23a0.html",
+    "sha256": "61809b1e06c8afe08344dafd69f3a307b05f0165ab89a1c6967903429cdb3d46",
+    "fetched_at": "2026-07-08T03:18:40Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

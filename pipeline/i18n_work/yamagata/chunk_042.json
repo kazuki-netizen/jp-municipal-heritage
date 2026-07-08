@@ -1,0 +1,386 @@
+[
+ {
+  "jmh_id": "JMH-062022-0060",
+  "name": "大南遺跡出土木製品類",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2023-03-29",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0002",
+  "name": "白子神社「扁額」",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1980-12-16",
+  "municipality": "米沢市",
+  "location": "白子神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0018",
+  "name": "「かてもの」版木",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1988-01-26",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0019",
+  "name": "「嚶鳴館遺稿」版木",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1988-01-26",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0022",
+  "name": "白子神社伝鬼瓦",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-03-27",
+  "municipality": "米沢市",
+  "location": "白子神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0023",
+  "name": "成島八幡神社「棟札」等",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1990-03-28",
+  "municipality": "米沢市",
+  "location": "成島八幡宮"
+ },
+ {
+  "jmh_id": "JMH-062022-0055",
+  "name": "龍師火帝の碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2017-03-30",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0036",
+  "name": "塩地平の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "1997-03-28",
+  "municipality": "米沢市",
+  "location": "田沢コミュニティセンター"
+ },
+ {
+  "jmh_id": "JMH-062022-0038",
+  "name": "白夫平の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "1997-03-28",
+  "municipality": "米沢市",
+  "location": "田沢コミュニティセンター"
+ },
+ {
+  "jmh_id": "JMH-062022-0035",
+  "name": "上屋敷の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "1997-03-28",
+  "municipality": "米沢市",
+  "location": "田沢コミュニティセンター"
+ },
+ {
+  "jmh_id": "JMH-062022-0037",
+  "name": "大代原の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "1997-03-28",
+  "municipality": "米沢市",
+  "location": "三沢コミュニティセンター"
+ },
+ {
+  "jmh_id": "JMH-062022-0034",
+  "name": "上中原の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "1997-03-28",
+  "municipality": "米沢市",
+  "location": "田沢自彊会"
+ },
+ {
+  "jmh_id": "JMH-062022-0045",
+  "name": "大明神沢の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0053",
+  "name": "赤芝の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "龍性院"
+ },
+ {
+  "jmh_id": "JMH-062022-0048",
+  "name": "戸長里の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0051",
+  "name": "糸畔の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0046",
+  "name": "大荒沢の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0043",
+  "name": "下中原の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0050",
+  "name": "神原の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0042",
+  "name": "下の町の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "田澤寺"
+ },
+ {
+  "jmh_id": "JMH-062022-0052",
+  "name": "赤浜の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "地権者7名"
+ },
+ {
+  "jmh_id": "JMH-062022-0047",
+  "name": "小野川の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "甲子大黒天本山宝珠寺"
+ },
+ {
+  "jmh_id": "JMH-062022-0044",
+  "name": "刈安の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0049",
+  "name": "梓山の草木塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-29",
+  "municipality": "米沢市",
+  "location": "大社梓神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0056",
+  "name": "米沢藩上杉砲術",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-15",
+  "municipality": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0016",
+  "name": "戸塚山古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1986-02-10",
+  "municipality": "米沢市",
+  "location": "地権者27名"
+ },
+ {
+  "jmh_id": "JMH-062022-0017",
+  "name": "谷地河原堤防（直江石堤）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1986-09-08",
+  "municipality": "米沢市",
+  "location": "国土交通省(山形県管理)"
+ },
+ {
+  "jmh_id": "JMH-062022-0025",
+  "name": "寶領塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1991-03-25",
+  "municipality": "米沢市",
+  "location": "地権者10名"
+ },
+ {
+  "jmh_id": "JMH-062022-0031",
+  "name": "牛森古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1994-03-31",
+  "municipality": "米沢市",
+  "location": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0033",
+  "name": "長手第1号・第2号古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-03-01",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0032",
+  "name": "木和田窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-03-01",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-062022-0054",
+  "name": "八幡塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2017-03-30",
+  "municipality": "米沢市",
+  "location": "白山神社(外ノ内町内会)"
+ },
+ {
+  "jmh_id": "JMH-062022-0004",
+  "name": "ホタル生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-12-17",
+  "municipality": "米沢市",
+  "location": "国土交通省(山形県管理)"
+ },
+ {
+  "jmh_id": "JMH-062022-0014",
+  "name": "吾妻の白猿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-08-29",
+  "municipality": "米沢市"
+ },
+ {
+  "jmh_id": "JMH-062022-0030",
+  "name": "上小菅観音堂のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-03-31",
+  "municipality": "米沢市",
+  "location": "金松寺"
+ },
+ {
+  "jmh_id": "JMH-062022-0041",
+  "name": "李山宮ノ前諏訪神社の大スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2007-03-16",
+  "municipality": "米沢市",
+  "location": "諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-062022-0064",
+  "name": "南原のオオクリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2026-03-31",
+  "municipality": "米沢市",
+  "location": "個人"
+ },
+ {
+  "jmh_id": "JMH-064815-0002",
+  "name": "横町上代神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "遊佐町"
+ },
+ {
+  "jmh_id": "JMH-064815-0001",
+  "name": "内野目おかめ神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "遊佐町"
+ }
+]

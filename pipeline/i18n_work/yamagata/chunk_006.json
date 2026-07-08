@@ -1,0 +1,391 @@
+[
+ {
+  "jmh_id": "JMH-064637-0021",
+  "name": "厨子入金銅造虚空蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1982-11-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0025",
+  "name": "絹本着色来迎阿弥陀如来",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1982-11-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0022",
+  "name": "改正丈量大成絵図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1982-11-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0026",
+  "name": "銅鏡（梅花散双鶴鏡）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1982-11-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0028",
+  "name": "蛇ニオ",
+  "category": "民俗文化財",
+  "subcategory": "有形の民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1987-03-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0027",
+  "name": "能面（12点1組）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1987-03-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0029",
+  "name": "耕福寺力士像（3体1組）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1991-03-31",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0030",
+  "name": "俳額（2枚1組）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1995-08-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0031",
+  "name": "コウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2010-01-10",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-064637-0032",
+  "name": "阿弥陀三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2019-04-01",
+  "municipality": "三川町"
+ },
+ {
+  "jmh_id": "JMH-063622-0001",
+  "name": "荒れ唐獅子",
+  "category": "有形文化財",
+  "subcategory": "最上町有形文化財",
+  "designation": "町指定",
+  "designated_date": "1976-11-19",
+  "municipality": "最上町",
+  "location": "富山馬頭観音"
+ },
+ {
+  "jmh_id": "JMH-063622-0002",
+  "name": "藤井家のさいかちの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "最上町文化財指定天然記念物",
+  "designation": "町指定",
+  "municipality": "最上町",
+  "location": "本城地区"
+ },
+ {
+  "jmh_id": "JMH-062081-0012",
+  "name": "祥雲寺宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1968-09-10",
+  "municipality": "村山市",
+  "location": "楯岡湯沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0009",
+  "name": "宮の下宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1968-09-10",
+  "municipality": "村山市",
+  "location": "大字白鳥"
+ },
+ {
+  "jmh_id": "JMH-062081-0008",
+  "name": "宮の下六面幢",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1968-09-10",
+  "municipality": "村山市",
+  "location": "大字白鳥"
+ },
+ {
+  "jmh_id": "JMH-062081-0010",
+  "name": "富並の六面幢付燈籠",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1968-09-10",
+  "municipality": "村山市",
+  "location": "大字富並"
+ },
+ {
+  "jmh_id": "JMH-062081-0030",
+  "name": "殺生禁断碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1981-01-19",
+  "municipality": "村山市",
+  "location": "大字岩野"
+ },
+ {
+  "jmh_id": "JMH-062081-0032",
+  "name": "葉山への道標",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1981-01-19",
+  "municipality": "村山市",
+  "location": "大字岩野"
+ },
+ {
+  "jmh_id": "JMH-062081-0041",
+  "name": "葉山への道標",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1998-10-28",
+  "municipality": "村山市",
+  "location": "大字湯野沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0042",
+  "name": "葉山への道標",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1998-10-28",
+  "municipality": "村山市",
+  "location": "大字湯野沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0043",
+  "name": "葉山への道標（しめ掛けブナ前の道標）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2001-01-25",
+  "municipality": "村山市",
+  "location": "大字湯野沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0031",
+  "name": "湯殿・月山・葉山三山碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1981-01-19",
+  "municipality": "村山市",
+  "location": "大字湯野沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0033",
+  "name": "中沢不動尊堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1988-11-18",
+  "municipality": "村山市",
+  "location": "大字たも山"
+ },
+ {
+  "jmh_id": "JMH-062081-0044",
+  "name": "幾代橋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2006-03-28",
+  "municipality": "村山市",
+  "location": "大字岩野"
+ },
+ {
+  "jmh_id": "JMH-062081-0045",
+  "name": "小松沢観音の絵馬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "2012-11-29",
+  "municipality": "村山市",
+  "location": "大字楯岡字小松沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0014",
+  "name": "木造阿弥陀如来座像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1973-12-10",
+  "municipality": "村山市",
+  "location": "楯岡笛田"
+ },
+ {
+  "jmh_id": "JMH-062081-0026",
+  "name": "木造漆箔阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "村山市",
+  "location": "大字富並"
+ },
+ {
+  "jmh_id": "JMH-062081-0024",
+  "name": "木造彩色地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "村山市",
+  "location": "大字富並"
+ },
+ {
+  "jmh_id": "JMH-062081-0025",
+  "name": "木造漆箔聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "村山市",
+  "location": "楯岡湯沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0005",
+  "name": "銅造阿弥陀如来座像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1959-11-05",
+  "municipality": "村山市",
+  "location": "楯岡笛田"
+ },
+ {
+  "jmh_id": "JMH-062081-0015",
+  "name": "銅造観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1973-12-10",
+  "municipality": "村山市",
+  "location": "楯岡大沢川"
+ },
+ {
+  "jmh_id": "JMH-062081-0004",
+  "name": "羽黒堂写経",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（典籍）",
+  "designation": "市指定",
+  "designated_date": "1959-11-05",
+  "municipality": "村山市",
+  "location": "大字大久保ほか"
+ },
+ {
+  "jmh_id": "JMH-062081-0028",
+  "name": "紺紙金泥経",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（典籍）",
+  "designation": "市指定",
+  "designated_date": "1979-02-09",
+  "municipality": "村山市",
+  "location": "楯岡新町"
+ },
+ {
+  "jmh_id": "JMH-062081-0007",
+  "name": "最上楯岡元祖記",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1966-07-25",
+  "municipality": "村山市",
+  "location": "楯岡湯沢"
+ },
+ {
+  "jmh_id": "JMH-062081-0011",
+  "name": "楯岡甲斐守書翰",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1968-09-10",
+  "municipality": "村山市",
+  "location": "楯岡晦日町"
+ },
+ {
+  "jmh_id": "JMH-062081-0016",
+  "name": "高札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1973-12-10",
+  "municipality": "村山市",
+  "location": "中央"
+ },
+ {
+  "jmh_id": "JMH-062081-0017",
+  "name": "宮林主膳正書状",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1976-07-20",
+  "municipality": "村山市",
+  "location": "楯岡十日町"
+ },
+ {
+  "jmh_id": "JMH-062081-0027",
+  "name": "楯岡甲斐守宛書状",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "村山市",
+  "location": "楯岡新町"
+ },
+ {
+  "jmh_id": "JMH-062081-0020",
+  "name": "最上徳内伝記",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "村山市",
+  "location": "楯岡新町"
+ },
+ {
+  "jmh_id": "JMH-062081-0021",
+  "name": "最上徳内書状",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "村山市",
+  "location": "中央"
+ }
+]

@@ -1,0 +1,368 @@
+[
+ {
+  "jmh_id": "JMH-023817-0008",
+  "name": "アカマツ（深味）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-07-21",
+  "municipality": "板柳町",
+  "location": "板柳町大字深味字深宮4番地"
+ },
+ {
+  "jmh_id": "JMH-023817-0011",
+  "name": "サイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-07-21",
+  "municipality": "板柳町",
+  "location": "板柳町大字掛落林字宮本111番地"
+ },
+ {
+  "jmh_id": "JMH-023817-0010",
+  "name": "イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-07-21",
+  "municipality": "板柳町",
+  "location": "板柳町大字小幡字柳田45番地"
+ },
+ {
+  "jmh_id": "JMH-023817-0013",
+  "name": "ハルニレ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-07-21",
+  "municipality": "板柳町",
+  "location": "板柳町大字石野字宮本1番地"
+ },
+ {
+  "jmh_id": "JMH-023817-0009",
+  "name": "アカマツ（赤田）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-07-21",
+  "municipality": "板柳町",
+  "location": "板柳町大字赤田字松下無番地"
+ },
+ {
+  "jmh_id": "JMH-023817-0012",
+  "name": "トチノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2004-07-21",
+  "municipality": "板柳町",
+  "location": "板柳町大字夕顔関字長田34番地2"
+ },
+ {
+  "jmh_id": "JMH-023817-0014",
+  "name": "古文書（板屋野木中屋敷並堤之間数、同寺屋敷宮地書付控之帳他九点）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2007-07-05",
+  "municipality": "板柳町"
+ },
+ {
+  "jmh_id": "JMH-023817-0015",
+  "name": "板柳町獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2009-02-25",
+  "municipality": "板柳町"
+ },
+ {
+  "jmh_id": "JMH-023817-0016",
+  "name": "板柳町どだればぢ踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2012-06-25",
+  "municipality": "板柳町"
+ },
+ {
+  "jmh_id": "JMH-023817-0017",
+  "name": "海童神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2012-06-25",
+  "municipality": "板柳町"
+ },
+ {
+  "jmh_id": "JMH-023817-0018",
+  "name": "海童神社神輿渡御",
+  "category": "民俗文化財",
+  "subcategory": "風俗慣習",
+  "designation": "町指定",
+  "designated_date": "2015-06-24",
+  "municipality": "板柳町"
+ },
+ {
+  "jmh_id": "JMH-024554-0025",
+  "name": "恵海上人五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財建造物",
+  "designation": "町指定",
+  "designated_date": "1983-03-05",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0041",
+  "name": "桜場安房の墓石",
+  "category": "有形文化財",
+  "subcategory": "有形文化財建造物",
+  "designation": "町指定",
+  "designated_date": "2005-09-28",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0040",
+  "name": "岩舘右京の墓石",
+  "category": "有形文化財",
+  "subcategory": "有形文化財建造物",
+  "designation": "町指定",
+  "designated_date": "2005-09-28",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0039",
+  "name": "八木橋藤十郎の墓石",
+  "category": "有形文化財",
+  "subcategory": "有形文化財建造物",
+  "designation": "町指定",
+  "designated_date": "2005-09-28",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0019",
+  "name": "早稲田観音像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財彫刻",
+  "designation": "町指定",
+  "designated_date": "1978-10-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0021",
+  "name": "隅ノ観音像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財彫刻",
+  "designation": "町指定",
+  "designated_date": "1978-10-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0028",
+  "name": "観音菩薩立像（奇峯学秀作）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財彫刻",
+  "designation": "町指定",
+  "designated_date": "1991-04-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0026",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財工芸品",
+  "designation": "町指定",
+  "designated_date": "1984-03-13",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0032",
+  "name": "櫛払",
+  "category": "有形文化財",
+  "subcategory": "有形文化財考古資料",
+  "designation": "町指定",
+  "designated_date": "1997-06-27",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0035",
+  "name": "上名久井諏訪神社棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財歴史資料",
+  "designation": "町指定",
+  "designated_date": "2000-10-31",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0045",
+  "name": "木造僧形山神半跏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2009-11-18",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0047",
+  "name": "木造薬師如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2015-02-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0046",
+  "name": "木造牛頭天王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2015-02-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0048",
+  "name": "木造薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2015-02-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0049",
+  "name": "牛頭天王棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2015-02-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0051",
+  "name": "向鶴銅製品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2016-05-18",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0052",
+  "name": "金箔土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2016-05-18",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0053",
+  "name": "相内神明宮お神楽（獅子頭）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2017-03-15",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0057",
+  "name": "西有穆山関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2019-03-20",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0061",
+  "name": "剣吉諏訪神社棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "2019-11-20",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0065",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2020-03-18",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0064",
+  "name": "木造薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2020-03-18",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0067",
+  "name": "花厳院文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "2021-02-17",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0070",
+  "name": "木造如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2021-05-19",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0072",
+  "name": "木造男女神像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2021-05-19",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0069",
+  "name": "木造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2021-05-19",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0071",
+  "name": "木造毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2021-05-19",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0068",
+  "name": "木造不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2021-05-19",
+  "municipality": "南部町"
+ },
+ {
+  "jmh_id": "JMH-024554-0073",
+  "name": "剣吉諏訪神社文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "2022-09-20",
+  "municipality": "南部町"
+ }
+]

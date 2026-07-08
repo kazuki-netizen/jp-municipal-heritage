@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-052027-0050",
+  "name": "梅内駒踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "能代市",
+  "location": "二ツ井町字梅内"
+ },
+ {
+  "jmh_id": "JMH-052027-0048",
+  "name": "小掛ささら踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "能代市",
+  "location": "二ツ井町字小掛"
+ },
+ {
+  "jmh_id": "JMH-052027-0051",
+  "name": "田代盆踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "能代市",
+  "location": "二ツ井町字田代"
+ },
+ {
+  "jmh_id": "JMH-052027-0054",
+  "name": "駒形獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "能代市",
+  "location": "二ツ井町字駒形"
+ },
+ {
+  "jmh_id": "JMH-052027-0059",
+  "name": "小掛の鍾馗様",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-12-24",
+  "municipality": "能代市",
+  "location": "二ツ井町字小掛"
+ },
+ {
+  "jmh_id": "JMH-052027-0046",
+  "name": "呉庵清水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1986-01-24",
+  "municipality": "能代市",
+  "location": "檜山字星場台"
+ },
+ {
+  "jmh_id": "JMH-052027-0029",
+  "name": "古四王神社の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1978-04-26",
+  "municipality": "能代市",
+  "location": "檜山字越王下"
+ },
+ {
+  "jmh_id": "JMH-052027-0047",
+  "name": "七座神社境内林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "能代市",
+  "location": "二ツ井町字小繋"
+ },
+ {
+  "jmh_id": "JMH-052043-0007",
+  "name": "武家門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-01-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0006",
+  "name": "絵馬額",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-10-11",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0019",
+  "name": "観経曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1979-07-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0021",
+  "name": "釈迦涅槃絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1979-07-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0017",
+  "name": "花鳥 佐竹義文",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1979-07-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0018",
+  "name": "花鳥 戸村後草園",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1979-07-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0031",
+  "name": "聖像画（イコン）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1991-09-03",
+  "municipality": "大館市",
+  "location": "大館市曲田"
+ },
+ {
+  "jmh_id": "JMH-052043-0032",
+  "name": "釈迦涅槃図 紙本彩色",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1991-09-03",
+  "municipality": "大館市",
+  "location": "大館市十二所"
+ },
+ {
+  "jmh_id": "JMH-052043-0004",
+  "name": "大日如来像 木造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-10-11",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0002",
+  "name": "十一面千手観音菩薩像 木造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-10-11",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0003",
+  "name": "四天王像 木造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-10-11",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0001",
+  "name": "不動尊像 木造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-10-11",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0005",
+  "name": "毘沙門十王像 木造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-10-11",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0025",
+  "name": "延命地蔵菩薩 木造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-12-10",
+  "municipality": "大館市",
+  "location": "大館市"
+ },
+ {
+  "jmh_id": "JMH-052043-0026",
+  "name": "虚空蔵菩薩 青銅造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-12-10",
+  "municipality": "大館市",
+  "location": "大館市花岡町"
+ },
+ {
+  "jmh_id": "JMH-052043-0040",
+  "name": "放光王地蔵菩薩座像 青銅造",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2001-03-05",
+  "municipality": "大館市",
+  "location": "大館市"
+ },
+ {
+  "jmh_id": "JMH-052043-0010",
+  "name": "脇差 銘 出羽住忠秀",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "大館市",
+  "location": "大館市"
+ },
+ {
+  "jmh_id": "JMH-052043-0008",
+  "name": "刀 銘 来国俊",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "大館市",
+  "location": "大館市"
+ },
+ {
+  "jmh_id": "JMH-052043-0009",
+  "name": "太刀 銘 京都住人菅原国長",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "大館市",
+  "location": "大館市十二所"
+ },
+ {
+  "jmh_id": "JMH-052043-0016",
+  "name": "琵琶",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1979-07-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0022",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1979-07-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0020",
+  "name": "赤絵茶壷 長康亭道三",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1979-07-20",
+  "municipality": "大館市",
+  "location": "大館市比内町"
+ },
+ {
+  "jmh_id": "JMH-052043-0023",
+  "name": "刀 銘 出羽住正近",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "市指定",
+  "designated_date": "1980-03-04",
+  "municipality": "大館市",
+  "location": "大館市"
+ },
+ {
+  "jmh_id": "JMH-052043-0015",
+  "name": "十二所士族屋敷絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1979-03-29",
+  "municipality": "大館市",
+  "location": "大館郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-052043-0024",
+  "name": "鸞斎書「六曲一双屏風」",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1981-03-30",
+  "municipality": "大館市",
+  "location": "大館郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-052043-0030",
+  "name": "扁額「十二天」",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1991-09-03",
+  "municipality": "大館市",
+  "location": "大館市十二所"
+ },
+ {
+  "jmh_id": "JMH-052043-0043",
+  "name": "真崎文庫",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "2005-09-01",
+  "municipality": "大館市",
+  "location": "市立栗盛記念図書館"
+ },
+ {
+  "jmh_id": "JMH-052043-0034",
+  "name": "大型ナイフ形石器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1992-06-15",
+  "municipality": "大館市",
+  "location": "大館郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-052043-0033",
+  "name": "壷（珠洲焼） 壺 四耳壺① 四耳壺②",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1992-06-15",
+  "municipality": "大館市",
+  "location": "大館郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-052043-0036",
+  "name": "山田獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-05-31",
+  "municipality": "大館市",
+  "location": "大館市山田"
+ },
+ {
+  "jmh_id": "JMH-052043-0037",
+  "name": "蛭沢獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-05-31",
+  "municipality": "大館市",
+  "location": "大館市岩瀬"
+ },
+ {
+  "jmh_id": "JMH-052043-0035",
+  "name": "代野番楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-05-31",
+  "municipality": "大館市",
+  "location": "大館市岩瀬"
+ }
+]

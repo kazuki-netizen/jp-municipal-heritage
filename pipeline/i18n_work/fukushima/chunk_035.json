@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072087-0011",
+  "name": "木幡山隠津島神社拝殿・本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1976-12-01",
+  "municipality": "二本松市",
+  "location": "木幡字治家49-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0009",
+  "name": "岩蔵寺薬師堂・厨子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1976-12-01",
+  "municipality": "二本松市",
+  "location": "太田字岩前78"
+ },
+ {
+  "jmh_id": "JMH-072087-0013",
+  "name": "竹中の長屋門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1976-12-01",
+  "municipality": "二本松市",
+  "location": "木幡字竹中12"
+ },
+ {
+  "jmh_id": "JMH-072087-0022",
+  "name": "木幡山門神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1980-08-29",
+  "municipality": "二本松市",
+  "location": "木幡字治家49-2"
+ },
+ {
+  "jmh_id": "JMH-072087-0048",
+  "name": "樵家の土蔵",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "木幡字上貝屋23"
+ },
+ {
+  "jmh_id": "JMH-072087-0047",
+  "name": "村松家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "木幡字舘707-2"
+ },
+ {
+  "jmh_id": "JMH-072087-0046",
+  "name": "本多家の古井戸",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "太田字高槻22"
+ },
+ {
+  "jmh_id": "JMH-072087-0069",
+  "name": "大実取の穀入れ",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "1991-06-28",
+  "municipality": "二本松市",
+  "location": "木幡字大実取571"
+ },
+ {
+  "jmh_id": "JMH-072087-0093",
+  "name": "地福寺宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [建造物]",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "二本松市",
+  "location": "太田字白髭48"
+ },
+ {
+  "jmh_id": "JMH-072087-0025",
+  "name": "高林寺の涅槃画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "1980-08-29",
+  "municipality": "二本松市",
+  "location": "太田字西田1"
+ },
+ {
+  "jmh_id": "JMH-072087-0051",
+  "name": "絵馬 天の岩戸",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "太田字若宮1"
+ },
+ {
+  "jmh_id": "JMH-072087-0052",
+  "name": "絵馬 異人曳馬図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "戸沢字月夜畑90"
+ },
+ {
+  "jmh_id": "JMH-072087-0049",
+  "name": "紙本十三仏来迎図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "戸沢字細田10"
+ },
+ {
+  "jmh_id": "JMH-072087-0053",
+  "name": "絹本著色十六善神画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "戸沢字細田10"
+ },
+ {
+  "jmh_id": "JMH-072087-0050",
+  "name": "紙本種子両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "戸沢字細田10"
+ },
+ {
+  "jmh_id": "JMH-072087-0073",
+  "name": "丹羽氏歴代画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "1997-07-01",
+  "municipality": "二本松市",
+  "location": "成田町1-532"
+ },
+ {
+  "jmh_id": "JMH-072087-0090",
+  "name": "狩野益信筆西村志摩之助画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "2002-05-01",
+  "municipality": "二本松市",
+  "location": "太田字本町215"
+ },
+ {
+  "jmh_id": "JMH-072087-0113",
+  "name": "丹羽光重自画自賛肖像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [絵画]",
+  "designation": "市指定",
+  "designated_date": "2009-06-01",
+  "municipality": "二本松市",
+  "location": "二伊滝1-81"
+ },
+ {
+  "jmh_id": "JMH-072087-0015",
+  "name": "十一面観世音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "二本松市",
+  "location": "油井字桑原舘山99"
+ },
+ {
+  "jmh_id": "JMH-072087-0016",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "二本松市",
+  "location": "渋川字清水9"
+ },
+ {
+  "jmh_id": "JMH-072087-0018",
+  "name": "白狐の大額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "二本松市",
+  "location": "上川崎字三ツ石55"
+ },
+ {
+  "jmh_id": "JMH-072087-0030",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "根崎1-249"
+ },
+ {
+  "jmh_id": "JMH-072087-0029",
+  "name": "木造釈迦涅槃像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "根崎1-249"
+ },
+ {
+  "jmh_id": "JMH-072087-0039",
+  "name": "観音寺の力士像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "五月町3-65"
+ },
+ {
+  "jmh_id": "JMH-072087-0045",
+  "name": "木造十一面観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "戸沢字月夜畑90"
+ },
+ {
+  "jmh_id": "JMH-072087-0058",
+  "name": "木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "二本松市",
+  "location": "五月町1-66"
+ },
+ {
+  "jmh_id": "JMH-072087-0057",
+  "name": "木造毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "二本松市",
+  "location": "亀谷2-186"
+ },
+ {
+  "jmh_id": "JMH-072087-0084",
+  "name": "銅造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "2002-04-01",
+  "municipality": "二本松市",
+  "location": "若宮1-243"
+ },
+ {
+  "jmh_id": "JMH-072087-0087",
+  "name": "木造彩色千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "2002-05-01",
+  "municipality": "二本松市",
+  "location": "木幡字山本89"
+ },
+ {
+  "jmh_id": "JMH-072087-0088",
+  "name": "木造彩色弁才天坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "2002-05-01",
+  "municipality": "二本松市",
+  "location": "木幡字山本89"
+ },
+ {
+  "jmh_id": "JMH-072087-0086",
+  "name": "千手観音菩薩立像・弁才天坐像版木",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "2002-05-01",
+  "municipality": "二本松市",
+  "location": "木幡字山本89"
+ },
+ {
+  "jmh_id": "JMH-072087-0092",
+  "name": "銅造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "2002-05-01",
+  "municipality": "二本松市",
+  "location": "太田字本町215"
+ },
+ {
+  "jmh_id": "JMH-072087-0097",
+  "name": "木造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [彫刻]",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "二本松市",
+  "location": "戸沢字細田10"
+ },
+ {
+  "jmh_id": "JMH-072087-0010",
+  "name": "木幡山の銅鐘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [工芸品]",
+  "designation": "市指定",
+  "designated_date": "1976-12-01",
+  "municipality": "二本松市",
+  "location": "木幡字治家49-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0014",
+  "name": "神輿壱基・四神（朱雀・青龍・白虎・玄武）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [工芸品]",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "二本松市",
+  "location": "小浜字反町20"
+ },
+ {
+  "jmh_id": "JMH-072087-0116",
+  "name": "陸奥安達百目木駅八景図版木",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [工芸品]",
+  "designation": "市指定",
+  "designated_date": "2009-06-01",
+  "municipality": "二本松市",
+  "location": "百目木字町215"
+ },
+ {
+  "jmh_id": "JMH-072087-0120",
+  "name": "刀銘「陸奥介弘元」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [工芸品]",
+  "designation": "市指定",
+  "designated_date": "2017-05-01",
+  "municipality": "二本松市",
+  "location": "郭内3-303-5（二本松歴史館）"
+ },
+ {
+  "jmh_id": "JMH-072087-0072",
+  "name": "大般若経六百巻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [典籍]",
+  "designation": "市指定",
+  "designated_date": "1994-03-28",
+  "municipality": "二本松市",
+  "location": "戸沢字細田10"
+ },
+ {
+  "jmh_id": "JMH-072087-0075",
+  "name": "相生集 20巻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [典籍]",
+  "designation": "市指定",
+  "designated_date": "1999-07-01",
+  "municipality": "二本松市",
+  "location": "郭内3-303-5（二本松歴史館）"
+ },
+ {
+  "jmh_id": "JMH-072087-0121",
+  "name": "丹羽家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [古文書]",
+  "designation": "市指定",
+  "designated_date": "2018-06-29",
+  "municipality": "二本松市",
+  "location": "郭内3-303-5（二本松歴史館寄託）"
+ }
+]

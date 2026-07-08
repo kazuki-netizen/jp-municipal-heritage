@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092100-0023",
+  "name": "不動明王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1964-05-27",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐久山2030大日堂"
+ },
+ {
+  "jmh_id": "JMH-092100-0047",
+  "name": "刈切地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1966-07-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市若草1-1350刈切地蔵堂"
+ },
+ {
+  "jmh_id": "JMH-092100-0048",
+  "name": "屋台",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1966-07-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市新富町1丁目"
+ },
+ {
+  "jmh_id": "JMH-092100-0066",
+  "name": "木造観世音仏立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市堀之内120御堂地観音堂"
+ },
+ {
+  "jmh_id": "JMH-092100-0065",
+  "name": "木造十一面観世音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市大久保657道坂観音堂"
+ },
+ {
+  "jmh_id": "JMH-092100-0062",
+  "name": "仁王尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市寺宿303光厳寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0060",
+  "name": "不動明王尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町450大雄寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0090",
+  "name": "金剛界大日如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-18",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市富池1095成就院"
+ },
+ {
+  "jmh_id": "JMH-092100-0089",
+  "name": "羽田太々神楽能面",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-18",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市羽田681八龍神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0103",
+  "name": "田町彫刻屋台",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-25",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町"
+ },
+ {
+  "jmh_id": "JMH-092100-0116",
+  "name": "大天狗面",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-06-14",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐良土1401光丸山"
+ },
+ {
+  "jmh_id": "JMH-092100-0126",
+  "name": "木造千手観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-09",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市堀之内469-2岩谷観音堂"
+ },
+ {
+  "jmh_id": "JMH-092100-0127",
+  "name": "木造御前立千手観音菩薩坐像付棟札",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-09",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市堀之内469-2岩谷観音堂"
+ },
+ {
+  "jmh_id": "JMH-092100-0125",
+  "name": "木造十一面観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-09",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市久野又467不動院"
+ },
+ {
+  "jmh_id": "JMH-092100-0024",
+  "name": "甲冑(紺糸威)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1964-05-27",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市南金丸1584-6那須与一伝承館"
+ },
+ {
+  "jmh_id": "JMH-092100-0025",
+  "name": "甲冑(紺糸威)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1964-05-27",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市南金丸1628那須神社"
+ },
+ {
+  "jmh_id": "JMH-092100-0050",
+  "name": "甲冑(金箔押本小札縹糸威二枚胴具足)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1966-07-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市平沢"
+ },
+ {
+  "jmh_id": "JMH-092100-0073",
+  "name": "銅製鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市中野内"
+ },
+ {
+  "jmh_id": "JMH-092100-0067",
+  "name": "毛織物(フェルト)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1971-02-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市蜂巣"
+ },
+ {
+  "jmh_id": "JMH-092100-0133",
+  "name": "光厳寺三鋳銘鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-06-21",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市寺宿303光厳寺"
+ },
+ {
+  "jmh_id": "JMH-092100-0052",
+  "name": "三語便覧",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐久山(那須与一伝承館寄託)"
+ },
+ {
+  "jmh_id": "JMH-092100-0053",
+  "name": "五方通語",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐久山(那須与一伝承館寄託)"
+ },
+ {
+  "jmh_id": "JMH-092100-0091",
+  "name": "籾取高覚帳",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1975-12-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市河原"
+ },
+ {
+  "jmh_id": "JMH-092100-0118",
+  "name": "旧黒羽藩主大関家文庫蔵写本佐竹得昭著護法秘策",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1992-11-24",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0124",
+  "name": "東野遺稿",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "designated_date": "1993-05-27",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市黒羽田町"
+ },
+ {
+  "jmh_id": "JMH-092100-0054",
+  "name": "武将起請文",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1968-02-15",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市福原1130(那須与一伝承館寄託)"
+ },
+ {
+  "jmh_id": "JMH-092100-0057",
+  "name": "検地帳・名寄帳・地検の証",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1968-07-26",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上5-1081"
+ },
+ {
+  "jmh_id": "JMH-092100-0121",
+  "name": "旧黒羽藩主大関家蔵領知朱印状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1992-11-24",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0122",
+  "name": "旧黒羽藩主大関家蔵領知目録",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1992-11-24",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0119",
+  "name": "旧黒羽藩主大関家蔵徳川秀忠より大関左衛門督宛状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1992-11-24",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0120",
+  "name": "旧黒羽藩主大関家蔵本多弥八郎より大関左衛門督宛状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1992-11-24",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0130",
+  "name": "佐竹義重起請文",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-11-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0132",
+  "name": "賞典書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-11-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0131",
+  "name": "太政官辞令(黒羽藩知事)",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-11-12",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市前田980-1黒羽芭蕉の館"
+ },
+ {
+  "jmh_id": "JMH-092100-0101",
+  "name": "縄文土器湯坂遺跡出土",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-03-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上192なす風土記の丘湯津上資料館"
+ },
+ {
+  "jmh_id": "JMH-092100-0100",
+  "name": "縄文土器平林真子遺跡出土",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-03-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市若草"
+ },
+ {
+  "jmh_id": "JMH-092100-0102",
+  "name": "縄文土器高山遺跡出土",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-03-28",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市佐久山4427"
+ },
+ {
+  "jmh_id": "JMH-092100-0114",
+  "name": "川木谷遺跡遺物(表採)土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1989-09-20",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市亀久"
+ },
+ {
+  "jmh_id": "JMH-092100-0115",
+  "name": "川木谷遺跡遺物(表採)石器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1989-09-20",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市亀久"
+ },
+ {
+  "jmh_id": "JMH-092100-0140",
+  "name": "縄文土器羽田長者ヶ平遺跡出土",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2003-04-17",
+  "municipality": "大田原市",
+  "location": "栃木県大田原市湯津上192なす風土記の丘湯津上資料館"
+ }
+]

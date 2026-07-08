@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032077-0014",
+  "name": "瑞応院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-032077-0010",
+  "name": "五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-032077-0025",
+  "name": "早池峯神社神門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1972-08-22",
+  "municipality": "遠野市",
+  "location": "附馬牛町大出"
+ },
+ {
+  "jmh_id": "JMH-032077-0054",
+  "name": "早池峯神社（本殿・拝殿）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1983-05-20",
+  "municipality": "遠野市",
+  "location": "附馬牛町大出"
+ },
+ {
+  "jmh_id": "JMH-032077-0074",
+  "name": "平倉観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-08-10",
+  "municipality": "遠野市",
+  "location": "上郷町平倉字大寺"
+ },
+ {
+  "jmh_id": "JMH-032077-0096",
+  "name": "早池峯神社の中門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-06-29",
+  "municipality": "遠野市",
+  "location": "附馬牛町大出"
+ },
+ {
+  "jmh_id": "JMH-032077-0113",
+  "name": "登坂家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2012-04-27",
+  "municipality": "遠野市",
+  "location": "六日町"
+ },
+ {
+  "jmh_id": "JMH-032077-0107",
+  "name": "佐々木家住宅（佐々木喜善生家）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2012-04-27",
+  "municipality": "遠野市",
+  "location": "土淵町山口"
+ },
+ {
+  "jmh_id": "JMH-032077-0106",
+  "name": "佐々木家住宅（与五兵衛）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2012-04-27",
+  "municipality": "遠野市",
+  "location": "上郷町板沢"
+ },
+ {
+  "jmh_id": "JMH-032077-0110",
+  "name": "工藤家住宅（サスドン）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2012-04-27",
+  "municipality": "遠野市",
+  "location": "青笹町中沢"
+ },
+ {
+  "jmh_id": "JMH-032077-0108",
+  "name": "佐々木家住宅（佐々木精米所店舗兼住宅）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2012-04-27",
+  "municipality": "遠野市",
+  "location": "宮守町下宮守"
+ },
+ {
+  "jmh_id": "JMH-032077-0109",
+  "name": "小林荒物雑貨店",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2012-04-27",
+  "municipality": "遠野市",
+  "location": "中央通り"
+ },
+ {
+  "jmh_id": "JMH-032077-0002",
+  "name": "光明本",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1957-07-16",
+  "municipality": "遠野市",
+  "location": "松崎町海上"
+ },
+ {
+  "jmh_id": "JMH-032077-0019",
+  "name": "仏画｢参りの仏｣",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1961-11-25",
+  "municipality": "遠野市",
+  "location": "小友町平笹"
+ },
+ {
+  "jmh_id": "JMH-032077-0091",
+  "name": "鞍迫観音堂絵馬（221枚）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1997-09-10",
+  "municipality": "遠野市",
+  "location": "宮守町上鱒沢"
+ },
+ {
+  "jmh_id": "JMH-032077-0007",
+  "name": "阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1957-07-16",
+  "municipality": "遠野市",
+  "location": "小友町下小友"
+ },
+ {
+  "jmh_id": "JMH-032077-0006",
+  "name": "観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1957-07-16",
+  "municipality": "遠野市",
+  "location": "小友町下小友"
+ },
+ {
+  "jmh_id": "JMH-032077-0003",
+  "name": "勢至菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1957-07-16",
+  "municipality": "遠野市",
+  "location": "小友町下小友"
+ },
+ {
+  "jmh_id": "JMH-032077-0016",
+  "name": "道元禅師像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "土淵町大杉"
+ },
+ {
+  "jmh_id": "JMH-032077-0017",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "綾織町館川原"
+ },
+ {
+  "jmh_id": "JMH-032077-0011",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "中央通り"
+ },
+ {
+  "jmh_id": "JMH-032077-0008",
+  "name": "不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-10",
+  "municipality": "遠野市",
+  "location": "中央通り"
+ },
+ {
+  "jmh_id": "JMH-032077-0018",
+  "name": "仁王尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-11-25",
+  "municipality": "遠野市",
+  "location": "土淵町大杉"
+ },
+ {
+  "jmh_id": "JMH-032077-0031",
+  "name": "鞍迫観音（木造十一面観音像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977-12-20",
+  "municipality": "遠野市",
+  "location": "宮守町上鱒沢"
+ },
+ {
+  "jmh_id": "JMH-032077-0033",
+  "name": "伊豆神社御神体獅子頭",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-02-23",
+  "municipality": "遠野市",
+  "location": "上郷町来内"
+ },
+ {
+  "jmh_id": "JMH-032077-0036",
+  "name": "愛宕延命菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-25",
+  "municipality": "遠野市",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-032077-0056",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-05-20",
+  "municipality": "遠野市",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-032077-0055",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-05-20",
+  "municipality": "遠野市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-032077-0058",
+  "name": "十王仏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-04-20",
+  "municipality": "遠野市",
+  "location": "遠野町浜峠"
+ },
+ {
+  "jmh_id": "JMH-032077-0061",
+  "name": "葬頭河婆像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-04-20",
+  "municipality": "遠野市",
+  "location": "遠野町浜峠"
+ },
+ {
+  "jmh_id": "JMH-032077-0075",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990-08-10",
+  "municipality": "遠野市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-032077-0004",
+  "name": "山谷観音経筒",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1957-07-16",
+  "municipality": "遠野市",
+  "location": "小友町山谷"
+ },
+ {
+  "jmh_id": "JMH-032077-0001",
+  "name": "信成堂の版木",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1957-07-16",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0065",
+  "name": "梵鍾",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1985-06-27",
+  "municipality": "遠野市",
+  "location": "大工町"
+ },
+ {
+  "jmh_id": "JMH-032077-0072",
+  "name": "銅造菩薩三尊坐像懸仏",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-05-24",
+  "municipality": "遠野市",
+  "location": "綾織町長岡"
+ },
+ {
+  "jmh_id": "JMH-032077-0071",
+  "name": "鉄造菩薩坐像懸仏",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-05-24",
+  "municipality": "遠野市",
+  "location": "綾織町長岡"
+ },
+ {
+  "jmh_id": "JMH-032077-0076",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1990-08-10",
+  "municipality": "遠野市",
+  "location": "小友町山谷"
+ },
+ {
+  "jmh_id": "JMH-032077-0077",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1990-08-10",
+  "municipality": "遠野市",
+  "location": "遠野町浜峠"
+ },
+ {
+  "jmh_id": "JMH-032077-0081",
+  "name": "鉄板黒漆塗横矧桶側二枚胴紺糸胸取具足",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1991-08-10",
+  "municipality": "遠野市",
+  "location": "東舘町"
+ },
+ {
+  "jmh_id": "JMH-032077-0079",
+  "name": "太刀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1991-08-10",
+  "municipality": "遠野市",
+  "location": "附馬牛町大出"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032069-0017",
+  "name": "日野沢の宝篋印塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1985-04-10",
+  "municipality": "久慈市",
+  "location": "山形町日野沢3-3-1 日野沢公葬地内"
+ },
+ {
+  "jmh_id": "JMH-032069-0041",
+  "name": "木売内の三界萬霊追分碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-04-28",
+  "municipality": "久慈市",
+  "location": "山根町木売内8-125"
+ },
+ {
+  "jmh_id": "JMH-032069-0036",
+  "name": "川代の二十三夜塔・庚申供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-04-28",
+  "municipality": "久慈市",
+  "location": "夏井町夏井22-41"
+ },
+ {
+  "jmh_id": "JMH-032069-0016",
+  "name": "庚申供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1985-04-10",
+  "municipality": "久慈市",
+  "location": "山形町戸呂町6-35-3 八幡宮"
+ },
+ {
+  "jmh_id": "JMH-032069-0031",
+  "name": "チョウセンアカシジミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-10-27",
+  "municipality": "久慈市",
+  "location": "宇部町"
+ },
+ {
+  "jmh_id": "JMH-032069-0012",
+  "name": "下戸鎖の欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-11-01",
+  "municipality": "久慈市",
+  "location": "山根町下戸鎖5-38 熊野神社"
+ },
+ {
+  "jmh_id": "JMH-032069-0013",
+  "name": "枝成沢のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-11-01",
+  "municipality": "久慈市",
+  "location": "枝成沢 (個人宅)"
+ },
+ {
+  "jmh_id": "JMH-032069-0025",
+  "name": "蒼前神社のアカマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-08-01",
+  "municipality": "久慈市",
+  "location": "小久慈町66-20-2 蒼前神社"
+ },
+ {
+  "jmh_id": "JMH-032069-0020",
+  "name": "大滝小滝大明神のアカマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-08-01",
+  "municipality": "久慈市",
+  "location": "小久慈町1-4-1 稲荷神社"
+ },
+ {
+  "jmh_id": "JMH-032069-0019",
+  "name": "侍浜八幡の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-08-01",
+  "municipality": "久慈市",
+  "location": "侍浜町本町7-43 侍浜八幡宮"
+ },
+ {
+  "jmh_id": "JMH-032069-0045",
+  "name": "端神の大桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-04-28",
+  "municipality": "久慈市",
+  "location": "山根町端神３-9-1 桂の水車広場"
+ },
+ {
+  "jmh_id": "JMH-032069-0044",
+  "name": "熊野神社のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-04-28",
+  "municipality": "久慈市",
+  "location": "山根町下戸鎖5-38 熊野神社"
+ },
+ {
+  "jmh_id": "JMH-032069-0040",
+  "name": "日吉神社のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-04-28",
+  "municipality": "久慈市",
+  "location": "小久慈町51-2 日吉神社"
+ },
+ {
+  "jmh_id": "JMH-032069-0034",
+  "name": "天神堂のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-04-28",
+  "municipality": "久慈市",
+  "location": "天神堂35"
+ },
+ {
+  "jmh_id": "JMH-032069-0033",
+  "name": "和野のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-04-28",
+  "municipality": "久慈市",
+  "location": "宇部町４"
+ },
+ {
+  "jmh_id": "JMH-032069-0053",
+  "name": "慈光寺の杉並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-09-01",
+  "municipality": "久慈市",
+  "location": "大川目町22-62 慈光寺"
+ },
+ {
+  "jmh_id": "JMH-032069-0054",
+  "name": "琥珀大原石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-06-01",
+  "municipality": "久慈市",
+  "location": "川崎町17-1 久慈市文化会館"
+ },
+ {
+  "jmh_id": "JMH-032069-0009",
+  "name": "白笹地鶏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-08-09",
+  "municipality": "久慈市",
+  "location": "山形町小国"
+ },
+ {
+  "jmh_id": "JMH-032069-0014",
+  "name": "続石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-03-07",
+  "municipality": "久慈市",
+  "location": "山形町日野沢13-58-25 続石神社"
+ },
+ {
+  "jmh_id": "JMH-032107-0022",
+  "name": "アーチ橋梁（1号橋・2号橋）",
+  "category": "有形文化財",
+  "subcategory": "有形／建造物",
+  "designation": "市指定",
+  "designated_date": "1980-03-28",
+  "municipality": "釜石市",
+  "location": "甲子"
+ },
+ {
+  "jmh_id": "JMH-032107-0004",
+  "name": "聖観音銅像",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1970-02-20",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0020",
+  "name": "脇差　銘　奥刕南部栗林住神清照",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1978-11-28",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0018",
+  "name": "槍　銘　奥州南部神清照作",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1978-11-28",
+  "municipality": "釜石市",
+  "location": "栗橋"
+ },
+ {
+  "jmh_id": "JMH-032107-0015",
+  "name": "懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1978-11-28",
+  "municipality": "釜石市",
+  "location": "甲子"
+ },
+ {
+  "jmh_id": "JMH-032107-0019",
+  "name": "細布",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1978-11-28",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0025",
+  "name": "脇差　銘　應貫洞長章需盛岡住山内國多以巖鉄造之萬延元年二月日",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1980-03-28",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0032",
+  "name": "懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1998-07-30",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0033",
+  "name": "懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1998-07-30",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0048",
+  "name": "尾崎神社の鋳鉄製宝剣",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "2012-11-28",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0051",
+  "name": "釜石製鐵所山神社扁額",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "2012-11-28",
+  "municipality": "釜石市",
+  "location": "甲子"
+ },
+ {
+  "jmh_id": "JMH-032107-0049",
+  "name": "本郷の半鐘",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "2012-11-28",
+  "municipality": "釜石市",
+  "location": "唐丹"
+ },
+ {
+  "jmh_id": "JMH-032107-0052",
+  "name": "尾崎神社鋳鉄製扁額",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "2013-12-24",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0053",
+  "name": "懸仏鉄造聖観音坐像",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "2013-12-24",
+  "municipality": "釜石市",
+  "location": "甲子"
+ },
+ {
+  "jmh_id": "JMH-032107-0056",
+  "name": "白牛頭天王神社鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（工芸品）",
+  "designation": "市指定",
+  "designated_date": "2015-03-26",
+  "municipality": "釜石市",
+  "location": "栗橋"
+ },
+ {
+  "jmh_id": "JMH-032107-0010",
+  "name": "制札（天和・明和・捨馬）",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（書跡）",
+  "designation": "市指定",
+  "designated_date": "1978-11-28",
+  "municipality": "釜石市",
+  "location": "栗橋"
+ },
+ {
+  "jmh_id": "JMH-032107-0034",
+  "name": "正一位尾崎大明神扁額",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（書跡）",
+  "designation": "市指定",
+  "designated_date": "1998-07-30",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0044",
+  "name": "天照御祖神社奉納額三面（和歌・狂歌・俳句）",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（書跡）",
+  "designation": "市指定",
+  "designated_date": "2010-02-25",
+  "municipality": "釜石市",
+  "location": "唐丹"
+ },
+ {
+  "jmh_id": "JMH-032107-0045",
+  "name": "熊野神社俳句奉納額",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（書跡）",
+  "designation": "市指定",
+  "designated_date": "2010-02-25",
+  "municipality": "釜石市",
+  "location": "唐丹"
+ },
+ {
+  "jmh_id": "JMH-032107-0011",
+  "name": "南部領平田村仙台領唐丹村境絵図",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（古文書）",
+  "designation": "市指定",
+  "designated_date": "1978-11-28",
+  "municipality": "釜石市",
+  "location": "釜石"
+ },
+ {
+  "jmh_id": "JMH-032107-0021",
+  "name": "釜石新道図",
+  "category": "有形文化財",
+  "subcategory": "有形／美術工芸品（古文書）",
+  "designation": "市指定",
+  "designated_date": "1978-11-28",
+  "municipality": "釜石市",
+  "location": "釜石"
+ }
+]

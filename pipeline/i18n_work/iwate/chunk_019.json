@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032042-0011",
+  "name": "南部利剛夫人乗物（駕篭）1乗",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1960-05-07",
+  "municipality": "花巻市",
+  "location": "城内"
+ },
+ {
+  "jmh_id": "JMH-032042-0027",
+  "name": "花巻人形古型",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1963-05-04",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0071",
+  "name": "梅忠就栄作雲龍図鍔1枚",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1977-12-09",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0091",
+  "name": "脇指銘新藤二郎義国1口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1985-02-23",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0136",
+  "name": "鰐口1口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1996-09-26",
+  "municipality": "花巻市",
+  "location": "上小舟渡"
+ },
+ {
+  "jmh_id": "JMH-032042-0081",
+  "name": "亀ヶ森愛宕神社鉄灯籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1980-10-19",
+  "municipality": "花巻市",
+  "location": "大迫町亀ヶ森"
+ },
+ {
+  "jmh_id": "JMH-032042-0175",
+  "name": "鰐口1口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-06-23",
+  "municipality": "花巻市",
+  "location": "石鳥谷町松林寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0028",
+  "name": "丹内山神社擬宝珠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1964-07-21",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ },
+ {
+  "jmh_id": "JMH-032042-0069",
+  "name": "浄光寺山門の山号額",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1977-08-30",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0211",
+  "name": "鏑八幡神社「神輿」",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-12-12",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0128",
+  "name": "勅額本書1幅",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1995-06-16",
+  "municipality": "花巻市",
+  "location": "石鳥谷町中寺林"
+ },
+ {
+  "jmh_id": "JMH-032042-0015",
+  "name": "浅野長吉証文1",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1960-12-07",
+  "municipality": "花巻市",
+  "location": "南川原町"
+ },
+ {
+  "jmh_id": "JMH-032042-0031",
+  "name": "太平記外古文書7点",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1965-03-18",
+  "municipality": "花巻市",
+  "location": "愛宕町"
+ },
+ {
+  "jmh_id": "JMH-032042-0235",
+  "name": "猫塚家文書 諸御用日記33冊",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2018-02-28",
+  "municipality": "花巻市",
+  "location": "高松"
+ },
+ {
+  "jmh_id": "JMH-032042-0127",
+  "name": "光林寺文書4冊22通",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1995-06-16",
+  "municipality": "花巻市",
+  "location": "石鳥谷町中寺林"
+ },
+ {
+  "jmh_id": "JMH-032042-0173",
+  "name": "松林寺文書類94点",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2000-06-23",
+  "municipality": "花巻市",
+  "location": "石鳥谷町松林寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0083",
+  "name": "経塚壺（高松山経塚群出土）1点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-03-12",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0082",
+  "name": "三筋壺（高松山経塚群出土）1点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-03-12",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0195",
+  "name": "白磁四耳壺・渥美片口鉢2点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2004-07-29",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0196",
+  "name": "庫理遺跡出土須恵器長頸瓶3点及び水鳥戯画線刻文土器破片4点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-03-18",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0183",
+  "name": "立石遺跡出土の土製品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-07-25",
+  "municipality": "花巻市",
+  "location": "大迫町大迫"
+ },
+ {
+  "jmh_id": "JMH-032042-0007",
+  "name": "松川家墓誌銘（地蔵寺出土）3枚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1959-09-07",
+  "municipality": "花巻市",
+  "location": "城内"
+ },
+ {
+  "jmh_id": "JMH-032042-0013",
+  "name": "正慶の碑（元年）1基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1960-05-07",
+  "municipality": "花巻市",
+  "location": "膝立 円万寺観音堂"
+ },
+ {
+  "jmh_id": "JMH-032042-0012",
+  "name": "正慶の碑（2年）1基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1960-05-07",
+  "municipality": "花巻市",
+  "location": "円万寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0075",
+  "name": "松川家墓誌銘（瑞興寺出土）3枚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-03-10",
+  "municipality": "花巻市",
+  "location": "城内"
+ },
+ {
+  "jmh_id": "JMH-032042-0096",
+  "name": "追分の碑1基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1987-04-02",
+  "municipality": "花巻市",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-032042-0131",
+  "name": "小舟渡八幡宮献額（寛保3年銘）1面",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-09-26",
+  "municipality": "花巻市",
+  "location": "上小舟渡"
+ },
+ {
+  "jmh_id": "JMH-032042-0132",
+  "name": "小舟渡八幡宮献額（弘化2年銘）1面",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-09-26",
+  "municipality": "花巻市",
+  "location": "上小舟渡"
+ },
+ {
+  "jmh_id": "JMH-032042-0194",
+  "name": "永徳四年の碑1基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2004-07-29",
+  "municipality": "花巻市",
+  "location": "中根子 駒形神社"
+ },
+ {
+  "jmh_id": "JMH-032042-0223",
+  "name": "追分の碑2基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-12-27",
+  "municipality": "花巻市",
+  "location": "二枚橋町"
+ },
+ {
+  "jmh_id": "JMH-032042-0228",
+  "name": "八坂神社の青面金剛像庚申塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "花巻市",
+  "location": "北湯口"
+ },
+ {
+  "jmh_id": "JMH-032042-0229",
+  "name": "田力の青面金剛像七庚申塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "花巻市",
+  "location": "田力"
+ },
+ {
+  "jmh_id": "JMH-032042-0232",
+  "name": "清水寺嘉永3年算額 清水寺明治25年算額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-03-07",
+  "municipality": "花巻市",
+  "location": "太田"
+ },
+ {
+  "jmh_id": "JMH-032042-0231",
+  "name": "東光寺慶応2年算額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-03-07",
+  "municipality": "花巻市",
+  "location": "北笹間"
+ },
+ {
+  "jmh_id": "JMH-032042-0106",
+  "name": "貞治の碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-06-16",
+  "municipality": "花巻市",
+  "location": "大迫町亀ヶ森"
+ },
+ {
+  "jmh_id": "JMH-032042-0199",
+  "name": "天保義民碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-03-25",
+  "municipality": "花巻市",
+  "location": "大迫町亀ヶ森"
+ },
+ {
+  "jmh_id": "JMH-032042-0099",
+  "name": "稗貫氏の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-03-31",
+  "municipality": "花巻市",
+  "location": "石鳥谷町大興寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0125",
+  "name": "光林寺の石塔5基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1995-06-16",
+  "municipality": "花巻市",
+  "location": "石鳥谷町中寺林"
+ },
+ {
+  "jmh_id": "JMH-032042-0172",
+  "name": "松林寺の棟札類21枚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-06-23",
+  "municipality": "花巻市",
+  "location": "石鳥谷町松林寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0029",
+  "name": "丹内山神社棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1964-07-21",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ }
+]

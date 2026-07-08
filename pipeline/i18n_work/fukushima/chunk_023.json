@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072036-0006",
+  "name": "石造塔婆(音路太子堂)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市富田町字音路32"
+ },
+ {
+  "jmh_id": "JMH-072036-0005",
+  "name": "石造塔婆(静御前堂)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市静町37"
+ },
+ {
+  "jmh_id": "JMH-072036-0004",
+  "name": "板石塔婆(如宝寺)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市堂前町4-24"
+ },
+ {
+  "jmh_id": "JMH-072036-0002",
+  "name": "切支丹墓碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市堂前町4-24"
+ },
+ {
+  "jmh_id": "JMH-072036-0017",
+  "name": "復弁蓮華文鐙瓦",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1960-02-16",
+  "municipality": "郡山市",
+  "location": "郡山市鶴見坦一丁目"
+ },
+ {
+  "jmh_id": "JMH-072036-0018",
+  "name": "素弁蓮華文鐙瓦",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1960-02-16",
+  "municipality": "郡山市",
+  "location": "郡山市鶴見坦一丁目"
+ },
+ {
+  "jmh_id": "JMH-072036-0013",
+  "name": "音路の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市富田町"
+ },
+ {
+  "jmh_id": "JMH-072036-0012",
+  "name": "針生古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市静町37"
+ },
+ {
+  "jmh_id": "JMH-072036-0080",
+  "name": "安積開拓発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1992-03-21",
+  "municipality": "郡山市",
+  "location": "郡山市開成三丁目3-7ほか"
+ },
+ {
+  "jmh_id": "JMH-072036-0114",
+  "name": "御代田B遺跡出土土器",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "2024-07-25",
+  "municipality": "郡山市",
+  "location": "郡山市麓山一丁目5-30"
+ },
+ {
+  "jmh_id": "JMH-072036-0031",
+  "name": "田村神社本殿・脇社々殿",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷135"
+ },
+ {
+  "jmh_id": "JMH-072036-0066",
+  "name": "光照寺念仏堂",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-03-31",
+  "municipality": "郡山市",
+  "location": "田村町細田字宿65"
+ },
+ {
+  "jmh_id": "JMH-072036-0034",
+  "name": "磨崖三十三観音",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "田村町大供"
+ },
+ {
+  "jmh_id": "JMH-072036-0052",
+  "name": "大般若波羅蜜多経",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-03-31",
+  "municipality": "郡山市",
+  "location": "田村町川曲字鍛冶屋敷6"
+ },
+ {
+  "jmh_id": "JMH-072036-0067",
+  "name": "延宝八年検地燈籠",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1987-03-31",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷135"
+ },
+ {
+  "jmh_id": "JMH-072036-0047",
+  "name": "算額(田村神社)",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-05-11",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷135"
+ },
+ {
+  "jmh_id": "JMH-072036-0049",
+  "name": "絵馬 鎮西八郎為朝図",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-05-11",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷135"
+ },
+ {
+  "jmh_id": "JMH-072036-0037",
+  "name": "糠塚の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "田村町糠塚"
+ },
+ {
+  "jmh_id": "JMH-072036-0069",
+  "name": "ザクの磨崖三十三観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1988-06-25",
+  "municipality": "郡山市",
+  "location": "田村町糠塚字下滝434-22"
+ },
+ {
+  "jmh_id": "JMH-072036-0093",
+  "name": "両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "2002-01-22",
+  "municipality": "郡山市",
+  "location": "田村町御代田字北町"
+ },
+ {
+  "jmh_id": "JMH-072036-0094",
+  "name": "甚日寺供養塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "2002-01-22",
+  "municipality": "郡山市",
+  "location": "田村町御代田字北町"
+ },
+ {
+  "jmh_id": "JMH-072036-0095",
+  "name": "護摩堂趾供養塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "2002-01-22",
+  "municipality": "郡山市",
+  "location": "田村町御代田字北町"
+ },
+ {
+  "jmh_id": "JMH-072036-0106",
+  "name": "守山城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "2016-12-01",
+  "municipality": "郡山市",
+  "location": "田村町字三ノ丸、城ノ腰"
+ },
+ {
+  "jmh_id": "JMH-072036-0109",
+  "name": "大元帥明王（たいげんみょうおう）立像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "2022-06-29",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷"
+ },
+ {
+  "jmh_id": "JMH-072036-0108",
+  "name": "大元帥明王（たいげんみょうおう）図像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "2022-06-29",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷"
+ },
+ {
+  "jmh_id": "JMH-072036-0110",
+  "name": "弥明（みみょう）の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "2022-06-29",
+  "municipality": "郡山市",
+  "location": "田村町守山字弥明"
+ },
+ {
+  "jmh_id": "JMH-072036-0111",
+  "name": "景勝（かげかつ）の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "2022-12-22",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷135"
+ },
+ {
+  "jmh_id": "JMH-072036-0112",
+  "name": "佐文山（さぶんざん）書 田村神社扁額二面",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "2024-05-13",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷135"
+ },
+ {
+  "jmh_id": "JMH-072036-0113",
+  "name": "田村神社御神刀（伊達吉村（だてよしむら）奉納）",
+  "category": "その他",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "2024-05-13",
+  "municipality": "郡山市",
+  "location": "田村町山中字本郷135"
+ },
+ {
+  "jmh_id": "JMH-072036-0041",
+  "name": "黒木の石造三層塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "郡山市中田町黒木字大坂"
+ },
+ {
+  "jmh_id": "JMH-072036-0021",
+  "name": "古絵馬七面",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "郡山市中田町駒板字表71"
+ },
+ {
+  "jmh_id": "JMH-072036-0036",
+  "name": "算額(稲荷神社)",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "郡山市中田町上石字国見265"
+ },
+ {
+  "jmh_id": "JMH-072036-0059",
+  "name": "柳橋の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-10-01",
+  "municipality": "郡山市",
+  "location": "郡山市中田町柳橋"
+ },
+ {
+  "jmh_id": "JMH-072036-0056",
+  "name": "北高倉の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-10-01",
+  "municipality": "郡山市",
+  "location": "郡山市中田町高倉"
+ },
+ {
+  "jmh_id": "JMH-072036-0057",
+  "name": "南高倉の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-10-01",
+  "municipality": "郡山市",
+  "location": "郡山市中田町高倉"
+ },
+ {
+  "jmh_id": "JMH-072036-0058",
+  "name": "木目沢の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-10-01",
+  "municipality": "郡山市",
+  "location": "郡山市中田町木目沢"
+ },
+ {
+  "jmh_id": "JMH-072036-0062",
+  "name": "柳橋の歌舞伎",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-03-31",
+  "municipality": "郡山市",
+  "location": "郡山市中田町柳橋"
+ },
+ {
+  "jmh_id": "JMH-072036-0098",
+  "name": "柳橋歌舞伎衣裳",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-05-20",
+  "municipality": "郡山市",
+  "location": "郡山市中田町柳橋字町向"
+ },
+ {
+  "jmh_id": "JMH-072036-0064",
+  "name": "篠坂の神楽",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-03-31",
+  "municipality": "郡山市",
+  "location": "郡山市中田町柳橋"
+ },
+ {
+  "jmh_id": "JMH-072036-0084",
+  "name": "柳橋の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1995-07-18",
+  "municipality": "郡山市",
+  "location": "郡山市田町柳橋"
+ }
+]

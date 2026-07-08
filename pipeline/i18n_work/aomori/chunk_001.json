@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-023213-0031",
+  "name": "中村久須志神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "中村町"
+ },
+ {
+  "jmh_id": "JMH-023213-0036",
+  "name": "種里八幡宮のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "種里町"
+ },
+ {
+  "jmh_id": "JMH-023213-0037",
+  "name": "種里御廟所のスギ・アカマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "種里町"
+ },
+ {
+  "jmh_id": "JMH-023213-0032",
+  "name": "日照田高倉神社のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "日照田町"
+ },
+ {
+  "jmh_id": "JMH-023213-0033",
+  "name": "来生寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "釣町"
+ },
+ {
+  "jmh_id": "JMH-023213-0030",
+  "name": "一ッ森のサイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "一ッ森町"
+ },
+ {
+  "jmh_id": "JMH-023213-0038",
+  "name": "細ヶ平のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-08-20",
+  "municipality": "鰺ヶ沢町",
+  "location": "深谷町"
+ },
+ {
+  "jmh_id": "JMH-022012-0003",
+  "name": "額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1962-10-26",
+  "municipality": "青森市",
+  "location": "青森県青森市問屋町1-18-27"
+ },
+ {
+  "jmh_id": "JMH-022012-0002",
+  "name": "井戸茶碗",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1962-10-26",
+  "municipality": "青森市",
+  "location": "青森県青森市"
+ },
+ {
+  "jmh_id": "JMH-022012-0005",
+  "name": "木彫釈迦牟尼如来座像（円空作）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1963-10-25",
+  "municipality": "青森市",
+  "location": "青森県青森市大字油川字大浜249-1"
+ },
+ {
+  "jmh_id": "JMH-022012-0006",
+  "name": "掛軸「見返りの松」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1967-06-26",
+  "municipality": "青森市",
+  "location": "青森県青森市本町1-5-5"
+ },
+ {
+  "jmh_id": "JMH-022012-0007",
+  "name": "法華堂茶釜",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1967-06-26",
+  "municipality": "青森市",
+  "location": "青森県青森市本町1-5-12"
+ },
+ {
+  "jmh_id": "JMH-022012-0010",
+  "name": "狛犬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1972-06-30",
+  "municipality": "青森市",
+  "location": "青森県青森市大字入内字駒田"
+ },
+ {
+  "jmh_id": "JMH-022012-0011",
+  "name": "木彫阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-08-03",
+  "municipality": "青森市",
+  "location": "青森県青森市大字奥内字宮田37"
+ },
+ {
+  "jmh_id": "JMH-022012-0014",
+  "name": "土偶",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1980-04-28",
+  "municipality": "青森市",
+  "location": "青森県青森市"
+ },
+ {
+  "jmh_id": "JMH-022012-0017",
+  "name": "延文二年銘の碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1981-07-31",
+  "municipality": "青森市",
+  "location": "青森県青森市大字宮田字玉水65"
+ },
+ {
+  "jmh_id": "JMH-022012-0016",
+  "name": "石器土器図絵六曲屏風",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1980-11-21",
+  "municipality": "青森市",
+  "location": "青森県青森市"
+ },
+ {
+  "jmh_id": "JMH-022012-0019",
+  "name": "石器図絵屏風・土器図絵屏風",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-11-21",
+  "municipality": "青森市",
+  "location": "青森県青森市"
+ },
+ {
+  "jmh_id": "JMH-022012-0018",
+  "name": "波状文四耳壷",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-11-21",
+  "municipality": "青森市",
+  "location": "青森県青森市"
+ },
+ {
+  "jmh_id": "JMH-022012-0020",
+  "name": "森山弥七郎供養碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1991-08-20",
+  "municipality": "青森市",
+  "location": "青森県青森市大字油川字大浜249-1"
+ },
+ {
+  "jmh_id": "JMH-022012-0022",
+  "name": "歩兵第五聯隊第二大隊遭難記念碑（八甲田山雪中行軍遭難後藤伍長銅像）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1999-02-22",
+  "municipality": "青森市",
+  "location": "青森県青森市大字駒込字深沢"
+ },
+ {
+  "jmh_id": "JMH-022012-0024",
+  "name": "青森市森林博物館",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-11-17",
+  "municipality": "青森市",
+  "location": "青森県青森市柳川2-4-37"
+ },
+ {
+  "jmh_id": "JMH-022012-0026",
+  "name": "浪岡八幡宮再興棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-12-21",
+  "municipality": "青森市",
+  "location": "青森県青森市浪岡大字浪岡字林本123"
+ },
+ {
+  "jmh_id": "JMH-022012-0028",
+  "name": "浪岡八幡宮茸替鳥居新造棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-12-22",
+  "municipality": "青森市",
+  "location": "青森県青森市浪岡大字浪岡字林本123"
+ },
+ {
+  "jmh_id": "JMH-022012-0029",
+  "name": "浪岡八幡宮新造棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-12-23",
+  "municipality": "青森市",
+  "location": "青森県青森市浪岡大字浪岡字林本123"
+ },
+ {
+  "jmh_id": "JMH-022012-0027",
+  "name": "細野雪田家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-12-21",
+  "municipality": "青森市",
+  "location": "青森県青森市"
+ },
+ {
+  "jmh_id": "JMH-022012-0031",
+  "name": "小牧野遺跡の縄文後期の遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-04-01",
+  "municipality": "青森市",
+  "location": "青森県青森市大字野沢字沢部108-3"
+ },
+ {
+  "jmh_id": "JMH-022012-0030",
+  "name": "小牧野遺跡の続縄文土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-04-01",
+  "municipality": "青森市",
+  "location": "青森県青森市大字野沢字沢部108-3"
+ },
+ {
+  "jmh_id": "JMH-022012-0013",
+  "name": "伝北畠氏墓所（一）（二）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-04-28",
+  "municipality": "青森市",
+  "location": "青森県青森市浪岡大字北中野"
+ },
+ {
+  "jmh_id": "JMH-022012-0004",
+  "name": "幸畑陸軍墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡天然記念物",
+  "designation": "市指定",
+  "designated_date": "1963-07-19",
+  "municipality": "青森市",
+  "location": "青森県青森市大字幸畑字阿部野"
+ },
+ {
+  "jmh_id": "JMH-022012-0001",
+  "name": "いちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1962-10-26",
+  "municipality": "青森市",
+  "location": "青森県青森市大字宮田字山下"
+ },
+ {
+  "jmh_id": "JMH-022012-0008",
+  "name": "黒松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-06-26",
+  "municipality": "青森市",
+  "location": "青森県青森市大字六枚橋字不浪知1-1"
+ },
+ {
+  "jmh_id": "JMH-022012-0009",
+  "name": "田代平湿原植物群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-11-07",
+  "municipality": "青森市",
+  "location": "青森県青森市大字駒込字深沢"
+ },
+ {
+  "jmh_id": "JMH-022012-0012",
+  "name": "三内稲荷神社の杜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-06-29",
+  "municipality": "青森市",
+  "location": "青森県青森市大字三内字丸山37"
+ },
+ {
+  "jmh_id": "JMH-022012-0015",
+  "name": "源常林の銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-04-28",
+  "municipality": "青森市",
+  "location": "青森県青森市浪岡大字北中野字沢田107"
+ },
+ {
+  "jmh_id": "JMH-022012-0021",
+  "name": "楊子杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1998-08-07",
+  "municipality": "青森市",
+  "location": "青森県青森市浪岡大字五本松字羽黒平1"
+ },
+ {
+  "jmh_id": "JMH-022012-0023",
+  "name": "又八沼に生息するシナイモツゴ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-10-31",
+  "municipality": "青森市",
+  "location": "青森県青森市大字羽白字野木和"
+ },
+ {
+  "jmh_id": "JMH-022012-0025",
+  "name": "黒松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-11-17",
+  "municipality": "青森市",
+  "location": "青森県青森市合浦二丁目17"
+ },
+ {
+  "jmh_id": "JMH-023612-0001",
+  "name": "板碑（稲荷神社）",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "municipality": "藤崎町",
+  "location": "藤崎町字下町 稲荷神社境内"
+ },
+ {
+  "jmh_id": "JMH-023230-0049",
+  "name": "白山神社本殿「二間流造」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1993-12-24",
+  "municipality": "深浦町",
+  "location": "深浦字吾妻沢"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-033049-0040",
+  "name": "源秀院殿自筆稿",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0013",
+  "name": "南部利直黒印状等三筆掛軸",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0069",
+  "name": "足利直義教書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0032",
+  "name": "志和稲荷天正十六年棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0012",
+  "name": "南日詰乾元二年碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0042",
+  "name": "犬渕暦応四年碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0008",
+  "name": "二日町嘉元三年碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "古館"
+ },
+ {
+  "jmh_id": "JMH-033049-0037",
+  "name": "東長岡永仁三年碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "長岡"
+ },
+ {
+  "jmh_id": "JMH-033049-0043",
+  "name": "箱清水石卒都婆群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0046",
+  "name": "赤沢石卒都婆群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0049",
+  "name": "金田石卒都婆群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0007",
+  "name": "下松本二ツ屋五輪塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0022",
+  "name": "大日堂五輪泥塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0078",
+  "name": "キリシタン墓碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1989-12-15",
+  "municipality": "紫波町",
+  "location": "佐比内"
+ },
+ {
+  "jmh_id": "JMH-033049-0070",
+  "name": "陣羽織一領",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0026",
+  "name": "彦部田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "彦部"
+ },
+ {
+  "jmh_id": "JMH-033049-0048",
+  "name": "遠山田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0039",
+  "name": "沢田大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0047",
+  "name": "赤沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0044",
+  "name": "紫野鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0024",
+  "name": "宮手鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0009",
+  "name": "二日町鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "古館"
+ },
+ {
+  "jmh_id": "JMH-033049-0025",
+  "name": "平沢鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0017",
+  "name": "四ッ堰鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0045",
+  "name": "蔭沼奴踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0061",
+  "name": "彦部大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "彦部"
+ },
+ {
+  "jmh_id": "JMH-033049-0060",
+  "name": "岡田田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0068",
+  "name": "船久保さんさ踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0058",
+  "name": "中陣大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "古館"
+ },
+ {
+  "jmh_id": "JMH-033049-0081",
+  "name": "星山神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2002-10-29",
+  "municipality": "紫波町",
+  "location": "彦部"
+ },
+ {
+  "jmh_id": "JMH-033049-0083",
+  "name": "櫻町田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2002-10-29",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0082",
+  "name": "権現堂さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2002-10-29",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0084",
+  "name": "日詰かじ町さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2012-05-23",
+  "municipality": "紫波町",
+  "location": "日詰"
+ },
+ {
+  "jmh_id": "JMH-033049-0016",
+  "name": "善知鳥館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0038",
+  "name": "樋爪館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0054",
+  "name": "高水寺城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "古館"
+ },
+ {
+  "jmh_id": "JMH-033049-0041",
+  "name": "片寄城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0051",
+  "name": "長岡城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "長岡"
+ },
+ {
+  "jmh_id": "JMH-033049-0021",
+  "name": "大巻館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "彦部"
+ },
+ {
+  "jmh_id": "JMH-033049-0011",
+  "name": "佐比内城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "佐比内"
+ }
+]

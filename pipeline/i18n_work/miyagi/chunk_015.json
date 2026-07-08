@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-046060-0037",
+  "name": "入谷の修羅型きんま",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1995-05-26",
+  "municipality": "南三陸町",
+  "location": "入谷字桜沢（ひころの里）"
+ },
+ {
+  "jmh_id": "JMH-046060-0004",
+  "name": "唐船番所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1968-09-14",
+  "municipality": "南三陸町",
+  "location": "歌津字尾崎"
+ },
+ {
+  "jmh_id": "JMH-046060-0008",
+  "name": "長者屋敷遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1968-09-14",
+  "municipality": "南三陸町",
+  "location": "歌津字管の浜"
+ },
+ {
+  "jmh_id": "JMH-046060-0010",
+  "name": "田茂川遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1970-05-01",
+  "municipality": "南三陸町",
+  "location": "歌津字田茂川"
+ },
+ {
+  "jmh_id": "JMH-046060-0027",
+  "name": "梶原館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津字田の浦"
+ },
+ {
+  "jmh_id": "JMH-046060-0028",
+  "name": "満海上人壇",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津字払川（満海山）"
+ },
+ {
+  "jmh_id": "JMH-046060-0033",
+  "name": "蝦夷塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981-11-18",
+  "municipality": "南三陸町",
+  "location": "志津川字上保呂毛"
+ },
+ {
+  "jmh_id": "JMH-046060-0032",
+  "name": "天女塚・狗塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981-11-18",
+  "municipality": "南三陸町",
+  "location": "戸倉字津の宮"
+ },
+ {
+  "jmh_id": "JMH-046060-0035",
+  "name": "山内甚之丞・甚兵衛父子の墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-06-22",
+  "municipality": "南三陸町",
+  "location": "入谷字桜沢（弥生公園）"
+ },
+ {
+  "jmh_id": "JMH-046060-0029",
+  "name": "穴滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津字樋の口（行者の道）"
+ },
+ {
+  "jmh_id": "JMH-046060-0030",
+  "name": "蜘蛛滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津字樋の口（行者の道）"
+ },
+ {
+  "jmh_id": "JMH-046060-0014",
+  "name": "志津川湾のヤマセミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 動物",
+  "designation": "町指定",
+  "designated_date": "1971-03-26",
+  "municipality": "南三陸町",
+  "location": "町内"
+ },
+ {
+  "jmh_id": "JMH-046060-0013",
+  "name": "志津川湾のイソヒヨドリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 動物",
+  "designation": "町指定",
+  "designated_date": "1971-03-26",
+  "municipality": "南三陸町",
+  "location": "町内"
+ },
+ {
+  "jmh_id": "JMH-046060-0003",
+  "name": "千本桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1968-09-14",
+  "municipality": "南三陸町",
+  "location": "歌津字払川"
+ },
+ {
+  "jmh_id": "JMH-046060-0007",
+  "name": "泊浜のモクゲンジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1968-09-14",
+  "municipality": "南三陸町",
+  "location": "歌津字泊浜"
+ },
+ {
+  "jmh_id": "JMH-046060-0002",
+  "name": "アスナロ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1968-09-14",
+  "municipality": "南三陸町",
+  "location": "歌津字館浜"
+ },
+ {
+  "jmh_id": "JMH-046060-0005",
+  "name": "大滝の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1968-09-14",
+  "municipality": "南三陸町",
+  "location": "歌津字樋の口（行者の道）"
+ },
+ {
+  "jmh_id": "JMH-046060-0009",
+  "name": "田束山つつじ園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1970-05-01",
+  "municipality": "南三陸町",
+  "location": "歌津字樋の口（田束山）"
+ },
+ {
+  "jmh_id": "JMH-046060-0025",
+  "name": "ハマナス群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1980-08-21",
+  "municipality": "南三陸町",
+  "location": "歌津字長柴"
+ },
+ {
+  "jmh_id": "JMH-046060-0034",
+  "name": "館浜のモクゲンジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1986-04-01",
+  "municipality": "南三陸町",
+  "location": "歌津字館浜"
+ },
+ {
+  "jmh_id": "JMH-046060-0021",
+  "name": "志津川湾のミヤマシキミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 植物",
+  "designation": "町指定",
+  "designated_date": "1976-03-15",
+  "municipality": "南三陸町",
+  "location": "町内"
+ },
+ {
+  "jmh_id": "JMH-046060-0040",
+  "name": "皿貝化石標本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物 地質鉱物",
+  "designation": "町指定",
+  "designated_date": "1999-02-25",
+  "municipality": "南三陸町",
+  "location": "歌津字管の浜"
+ },
+ {
+  "jmh_id": "JMH-043222-0027",
+  "name": "小泉愛宕堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1976-02-09",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字小泉字愛宕山"
+ },
+ {
+  "jmh_id": "JMH-043222-0028",
+  "name": "薄木愛宕堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1976-02-09",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字薄木字武久市"
+ },
+ {
+  "jmh_id": "JMH-043222-0032",
+  "name": "旧八巻家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1994-12-20",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字小泉字肬石"
+ },
+ {
+  "jmh_id": "JMH-043222-0010",
+  "name": "源義家自筆太刀寄進状",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字七小路"
+ },
+ {
+  "jmh_id": "JMH-043222-0008",
+  "name": "従二位近衛忠広書状",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字七小路"
+ },
+ {
+  "jmh_id": "JMH-043222-0007",
+  "name": "定龍寺縁起説全２巻",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1969-12-22",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字七小路"
+ },
+ {
+  "jmh_id": "JMH-043222-0019",
+  "name": "毘沙門天像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字大槻下"
+ },
+ {
+  "jmh_id": "JMH-043222-0022",
+  "name": "茶釜",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字大槻下"
+ },
+ {
+  "jmh_id": "JMH-043222-0014",
+  "name": "伊達宗高書状",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1970-12-16",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字大槻下"
+ },
+ {
+  "jmh_id": "JMH-043222-0043",
+  "name": "司馬江漢「弄笛図」",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1998-02-27",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫"
+ },
+ {
+  "jmh_id": "JMH-043222-0045",
+  "name": "新峯崎遺跡出土祭祀遺物",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1998-02-27",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫"
+ },
+ {
+  "jmh_id": "JMH-043222-0051",
+  "name": "源蔵沢の板碑",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-03-25",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字菅生字源蔵沢"
+ },
+ {
+  "jmh_id": "JMH-043222-0047",
+  "name": "北山寒厳筆「月に兎図」",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-03-25",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫"
+ },
+ {
+  "jmh_id": "JMH-043222-0049",
+  "name": "本町西契約講帳",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-03-25",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫"
+ },
+ {
+  "jmh_id": "JMH-043222-0053",
+  "name": "雛人形箱",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-03-25",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫"
+ },
+ {
+  "jmh_id": "JMH-043222-0048",
+  "name": "市神の石碑",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-03-25",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字町"
+ },
+ {
+  "jmh_id": "JMH-043222-0050",
+  "name": "村田小学校日誌",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2016-03-25",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字迫"
+ },
+ {
+  "jmh_id": "JMH-043222-0055",
+  "name": "柴田郡絵図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "2019-08-20",
+  "municipality": "村田町",
+  "location": "宮城県柴田郡村田町大字村田字町"
+ }
+]

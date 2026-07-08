@@ -1,0 +1,379 @@
+[
+ {
+  "jmh_id": "JMH-032050-0080",
+  "name": "緑釉陶器片",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "1997-08-28",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地２"
+ },
+ {
+  "jmh_id": "JMH-032050-0089",
+  "name": "薬師堂板碑",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "1998-10-16",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0087",
+  "name": "大畑屋敷板碑",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "1998-10-16",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0084",
+  "name": "全明寺板碑",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "1998-10-16",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0083",
+  "name": "五輪山板碑",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "1998-10-16",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0082",
+  "name": "五輪山宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "1998-10-16",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0095",
+  "name": "相去遺跡群出土土師器皿",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "2000-03-17",
+  "municipality": "北上市",
+  "location": "北上市立花14地割59番地"
+ },
+ {
+  "jmh_id": "JMH-032050-0092",
+  "name": "上大谷地遺跡出土須恵器大甕",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "2000-03-17",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地２"
+ },
+ {
+  "jmh_id": "JMH-032050-0096",
+  "name": "藤沢遺跡出土須恵器大甕",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "2000-03-17",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地２"
+ },
+ {
+  "jmh_id": "JMH-032050-0112",
+  "name": "境屋敷板碑",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "2013-08-02",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0113",
+  "name": "大竹廃寺跡出土鉄鐘",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "市指定",
+  "designated_date": "2013-08-02",
+  "municipality": "北上市",
+  "location": "北上市立花14地割59番地"
+ },
+ {
+  "jmh_id": "JMH-032050-0075",
+  "name": "旧大泉家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-08-28",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地3"
+ },
+ {
+  "jmh_id": "JMH-032050-0076",
+  "name": "旧渡辺家門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-08-28",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0086",
+  "name": "多岐神社本殿・棟札",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1998-10-16",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0088",
+  "name": "旧菅原家住宅(主屋・中門馬屋)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1998-10-16",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0094",
+  "name": "旧佐々木家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2000-03-17",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0098",
+  "name": "旧北川家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-02-23",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0099",
+  "name": "白鳥神社本殿・棟札1枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-02-23",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0102",
+  "name": "旧仙台藩寺坂番所",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003-05-01",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0103",
+  "name": "旧修験宝珠院道場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003-05-01",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0104",
+  "name": "旧今野家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-01-04",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0106",
+  "name": "旧小野寺家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2006-10-02",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0108",
+  "name": "旧菅原家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2006-10-02",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0109",
+  "name": "旧高橋家外馬屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2006-10-02",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0107",
+  "name": "旧星川家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2006-10-02",
+  "municipality": "北上市",
+  "location": "北上市立花14地割62番地３"
+ },
+ {
+  "jmh_id": "JMH-032050-0014",
+  "name": "船絵馬(享和元年銘)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1980-04-21",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0016",
+  "name": "船絵馬(文政九年銘)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1980-04-21",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0015",
+  "name": "船絵馬(天明五年銘)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1980-04-21",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0012",
+  "name": "板札型絵馬(元禄八年銘)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1980-04-21",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0035",
+  "name": "阿弥陀如来四十八光仏画像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0036",
+  "name": "雲中地蔵画像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0037",
+  "name": "黒駒太子画像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0029",
+  "name": "放光阿弥陀如来画像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0030",
+  "name": "放光阿弥陀如来画像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0034",
+  "name": "阿弥陀三尊付連坐御影画像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0025",
+  "name": "六字名号書幅",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0038",
+  "name": "黒駒太子画像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1982-04-05",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0045",
+  "name": "聖徳太子曼茶羅",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1984-03-27",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0055",
+  "name": "當国三拾番御詠歌奉納額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1986-05-26",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032050-0061",
+  "name": "當国二拾八番所巡礼納札",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1987-06-12",
+  "municipality": "北上市"
+ }
+]

@@ -1,0 +1,364 @@
+[
+ {
+  "jmh_id": "JMH-052019-0125",
+  "name": "白幡の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-03-27",
+  "municipality": "秋田市",
+  "location": "下浜名ケ沢字曲田"
+ },
+ {
+  "jmh_id": "JMH-052019-0146",
+  "name": "待入堤の水草群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "秋田市",
+  "location": "金足高岡字井内沢"
+ },
+ {
+  "jmh_id": "JMH-052132-0007",
+  "name": "諏訪神社格天井",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-12-04",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0015",
+  "name": "秋景山水の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0010",
+  "name": "極彩色秋景山水の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0014",
+  "name": "淡彩色柳堤の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0012",
+  "name": "極彩色絹本山水の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0013",
+  "name": "水墨山水の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0008",
+  "name": "前後赤壁",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0011",
+  "name": "極彩色紙本お多福の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0016",
+  "name": "絹本水僕竹石の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0044",
+  "name": "紙本角間川港の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1979-06-01",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0103",
+  "name": "釈迦涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-09-11",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0004",
+  "name": "力士像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1965-02-17",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0174",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2019-11-20",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0005",
+  "name": "神棚用神殿",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1965-02-17",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0042",
+  "name": "ナマコ瓢形花瓶",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1979-01-16",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0043",
+  "name": "草花文徳利",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1979-01-16",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0070",
+  "name": "百万塔",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1985-06-01",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0009",
+  "name": "十六面画帖",
+  "category": "有形文化財",
+  "subcategory": "書跡典籍",
+  "designation": "市指定",
+  "designated_date": "1972-07-10",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0097",
+  "name": "熊野の本地",
+  "category": "有形文化財",
+  "subcategory": "書跡典籍",
+  "designation": "市指定",
+  "designated_date": "1989-11-28",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0003",
+  "name": "板碑（画像碑）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1963-12-02",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0002",
+  "name": "板碑（永和碑）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1963-12-02",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0017",
+  "name": "板碑（画像碑）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-08-07",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0018",
+  "name": "石棒（黒色・双頭式）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-08-07",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0075",
+  "name": "板碑（貞和碑）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1987-10-26",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0098",
+  "name": "須恵器（横瓮）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1989-11-28",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0001",
+  "name": "大曲村年中行事絵巻",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1963-12-02",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0130",
+  "name": "太田の田神碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1995-01-25",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0006",
+  "name": "角間川盆踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-06-21",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0113",
+  "name": "鳥子舞い",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-12-24",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0108",
+  "name": "伊豆山神社獅子神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-12-24",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0140",
+  "name": "伊豆山神社川を渡る梵天",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1999-05-31",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0110",
+  "name": "恙虫病研究所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1991-12-24",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0169",
+  "name": "御前井",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2008-04-22",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0170",
+  "name": "蛭川渡船場の渡しぶね",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-09-25",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0173",
+  "name": "角間川給人屋敷のモミ群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2019-04-24",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0072",
+  "name": "多郎兵衛稲荷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-12-16",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0066",
+  "name": "十二天画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1983-09-22",
+  "municipality": "大仙市"
+ },
+ {
+  "jmh_id": "JMH-052132-0064",
+  "name": "七僧画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1983-09-22",
+  "municipality": "大仙市"
+ }
+]

@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-023230-0045",
+  "name": "釜屋の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1993-11-25",
+  "municipality": "深浦町",
+  "location": "嶋木字三浦"
+ },
+ {
+  "jmh_id": "JMH-023230-0038",
+  "name": "一本松遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1993-11-25",
+  "municipality": "深浦町",
+  "location": "広戸字家野上"
+ },
+ {
+  "jmh_id": "JMH-023230-0012",
+  "name": "横磯のエノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1974-08-16",
+  "municipality": "深浦町",
+  "location": "横磯字下岡崎"
+ },
+ {
+  "jmh_id": "JMH-023230-0011",
+  "name": "椿山",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1974-08-16",
+  "municipality": "深浦町",
+  "location": "舸作字鍋石"
+ },
+ {
+  "jmh_id": "JMH-023230-0015",
+  "name": "関のタブノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1974-08-16",
+  "municipality": "深浦町",
+  "location": "関字栃沢"
+ },
+ {
+  "jmh_id": "JMH-023230-0010",
+  "name": "春日神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1974-08-16",
+  "municipality": "深浦町",
+  "location": "北金ケ沢字塩見形"
+ },
+ {
+  "jmh_id": "JMH-023230-0018",
+  "name": "モクゲンジの林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1976-12-24",
+  "municipality": "深浦町",
+  "location": "大間越字笠"
+ },
+ {
+  "jmh_id": "JMH-023230-0020",
+  "name": "岩崎武甕槌神社のタブノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1976-12-24",
+  "municipality": "深浦町",
+  "location": "岩崎字浜野"
+ },
+ {
+  "jmh_id": "JMH-023230-0017",
+  "name": "カラスザンショウの林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1976-12-24",
+  "municipality": "深浦町",
+  "location": "松神字上浜松"
+ },
+ {
+  "jmh_id": "JMH-023230-0039",
+  "name": "入前崎集魚林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1993-11-25",
+  "municipality": "深浦町",
+  "location": "深浦字岡崎"
+ },
+ {
+  "jmh_id": "JMH-023230-0040",
+  "name": "円覚寺竜灯杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1993-11-25",
+  "municipality": "深浦町",
+  "location": "深浦字浜町（円覚寺）"
+ },
+ {
+  "jmh_id": "JMH-023230-0053",
+  "name": "夫婦杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1995-11-28",
+  "municipality": "深浦町",
+  "location": "岩坂字長谷野"
+ },
+ {
+  "jmh_id": "JMH-023230-0052",
+  "name": "夫婦イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1995-11-28",
+  "municipality": "深浦町",
+  "location": "岩坂字湯野"
+ },
+ {
+  "jmh_id": "JMH-022055-0005",
+  "name": "楠美家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2000-11-02",
+  "municipality": "五所川原市",
+  "location": "五所川原市持子沢隠川695番地4"
+ },
+ {
+  "jmh_id": "JMH-022055-0012",
+  "name": "妙竜寺七面大明神宮殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-12-20",
+  "municipality": "五所川原市",
+  "location": "五所川原市飯詰字福泉29番地"
+ },
+ {
+  "jmh_id": "JMH-022055-0006",
+  "name": "毛内翁土功之碑",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2000-11-02",
+  "municipality": "五所川原市",
+  "location": "五所川原市錦町1番地5 （久須志神社）"
+ },
+ {
+  "jmh_id": "JMH-022055-0019",
+  "name": "岩偶",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2018-10-25",
+  "municipality": "五所川原市",
+  "location": "五所川原市字布屋町41番地1"
+ },
+ {
+  "jmh_id": "JMH-022055-0004",
+  "name": "伊勢海利助追慕碑",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2000-11-02",
+  "municipality": "五所川原市",
+  "location": "五所川原市錦町1番地5 （久須志神社）"
+ },
+ {
+  "jmh_id": "JMH-022055-0022",
+  "name": "千立山願昌寺念仏供養塔",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2023-03-20",
+  "municipality": "五所川原市",
+  "location": "五所川原市川端町10 （千立山願昌寺）"
+ },
+ {
+  "jmh_id": "JMH-022055-0023",
+  "name": "御郡中惣絵図",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2023-03-20",
+  "municipality": "五所川原市",
+  "location": "ー"
+ },
+ {
+  "jmh_id": "JMH-022055-0003",
+  "name": "虫おくり",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "1992-06-08",
+  "municipality": "五所川原市",
+  "location": "五所川原市"
+ },
+ {
+  "jmh_id": "JMH-022055-0007",
+  "name": "漆川獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2000-11-02",
+  "municipality": "五所川原市",
+  "location": "五所川原市漆川"
+ },
+ {
+  "jmh_id": "JMH-022055-0011",
+  "name": "五所川原甚句",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2001-12-20",
+  "municipality": "五所川原市",
+  "location": "五所川原市（立佞武多広場）"
+ },
+ {
+  "jmh_id": "JMH-022055-0015",
+  "name": "五所川原立佞武多",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2010-12-22",
+  "municipality": "五所川原市",
+  "location": "立佞武多の館 五所川原市大町21番地1"
+ },
+ {
+  "jmh_id": "JMH-022055-0017",
+  "name": "飯詰獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2017-07-20",
+  "municipality": "五所川原市",
+  "location": "五所川原市大字飯詰字福泉166番地1"
+ },
+ {
+  "jmh_id": "JMH-022055-0020",
+  "name": "飯詰稲荷神社裸参り",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2018-10-25",
+  "municipality": "五所川原市",
+  "location": "五所川原市飯詰福泉405"
+ },
+ {
+  "jmh_id": "JMH-022055-0001",
+  "name": "ホロムイイチゴ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然 記念物",
+  "designation": "市指定",
+  "designated_date": "1975-08-27",
+  "municipality": "五所川原市",
+  "location": "五所川原市長富(二ノ沢溜池内）"
+ },
+ {
+  "jmh_id": "JMH-022055-0002",
+  "name": "川倉賽の河原地蔵尊",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-08-10",
+  "municipality": "五所川原市",
+  "location": "五所川原市川倉七夕野426番地1"
+ },
+ {
+  "jmh_id": "JMH-022055-0021",
+  "name": "三縞こぎん",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2022-01-26",
+  "municipality": "五所川原市",
+  "location": "五所川原市金木町菅原・嘉瀬"
+ },
+ {
+  "jmh_id": "JMH-022055-0008",
+  "name": "十三・湊迎寺の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2001-03-02",
+  "municipality": "五所川原市",
+  "location": "市浦歴史民俗資料館 五所川原市十三土佐1番地298"
+ },
+ {
+  "jmh_id": "JMH-022055-0009",
+  "name": "相内・蓮華庵の板碑",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2001-03-02",
+  "municipality": "五所川原市",
+  "location": "五所川原市相内（蓮華庵境内）"
+ },
+ {
+  "jmh_id": "JMH-022055-0018",
+  "name": "人面形浅鉢",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "市指定",
+  "designated_date": "2018-10-25",
+  "municipality": "五所川原市",
+  "location": "五所川原市字布屋町41番地1"
+ },
+ {
+  "jmh_id": "JMH-022055-0016",
+  "name": "五月女萢遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2017-07-20",
+  "municipality": "五所川原市",
+  "location": "五所川原市相内545番地"
+ },
+ {
+  "jmh_id": "JMH-022055-0014",
+  "name": "相内の坊様踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2002-02-28",
+  "municipality": "五所川原市",
+  "location": "五所川原市相内"
+ },
+ {
+  "jmh_id": "JMH-022055-0013",
+  "name": "十三の砂山踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2002-02-28",
+  "municipality": "五所川原市",
+  "location": "五所川原市十三"
+ },
+ {
+  "jmh_id": "JMH-022055-0010",
+  "name": "磯松の一本松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然 記念物",
+  "designation": "市指定",
+  "designated_date": "2001-03-02",
+  "municipality": "五所川原市",
+  "location": "五所川原市磯松磯野54番地"
+ },
+ {
+  "jmh_id": "JMH-022039-0050",
+  "name": "旧八戸城東門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-06-03",
+  "municipality": "八戸市"
+ },
+ {
+  "jmh_id": "JMH-022039-0001",
+  "name": "八戸二十景屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1959-09-15",
+  "municipality": "八戸市"
+ },
+ {
+  "jmh_id": "JMH-022039-0053",
+  "name": "名花十二客図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1998-06-23",
+  "municipality": "八戸市"
+ },
+ {
+  "jmh_id": "JMH-022039-0031",
+  "name": "阿弥陀如来像（浄生寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-04-13",
+  "municipality": "八戸市"
+ }
+]

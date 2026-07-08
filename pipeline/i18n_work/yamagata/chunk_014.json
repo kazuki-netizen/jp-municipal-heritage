@@ -1,0 +1,393 @@
+[
+ {
+  "jmh_id": "JMH-064017-0008",
+  "name": "黒沢峠の敷石道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1982-03-31",
+  "municipality": "小国町",
+  "location": "黒沢"
+ },
+ {
+  "jmh_id": "JMH-064017-0027",
+  "name": "樽口の穴堰",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "樽口"
+ },
+ {
+  "jmh_id": "JMH-064017-0017",
+  "name": "三平岩屋",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "玉川"
+ },
+ {
+  "jmh_id": "JMH-064017-0032",
+  "name": "笹生代官屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1985-03-31",
+  "municipality": "小国町",
+  "location": "増岡"
+ },
+ {
+  "jmh_id": "JMH-064017-0004",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・建造物",
+  "designation": "町指定",
+  "designated_date": "1982-03-31",
+  "municipality": "小国町",
+  "location": "越中里（菅原神社）"
+ },
+ {
+  "jmh_id": "JMH-064017-0003",
+  "name": "善光寺式三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1982-03-31",
+  "municipality": "小国町",
+  "location": "小国小坂町（光岳寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0005",
+  "name": "阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1982-03-31",
+  "municipality": "小国町",
+  "location": "叶水（済広寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0002",
+  "name": "六面地蔵",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1982-03-31",
+  "municipality": "小国町",
+  "location": "町原"
+ },
+ {
+  "jmh_id": "JMH-064017-0014",
+  "name": "薬師如来三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "種沢（種沢）"
+ },
+ {
+  "jmh_id": "JMH-064017-0013",
+  "name": "聖観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "玉川（玉泉寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0010",
+  "name": "獅子頭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "大宮（大宮神社）"
+ },
+ {
+  "jmh_id": "JMH-064017-0009",
+  "name": "狛犬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "大宮（大宮神社）"
+ },
+ {
+  "jmh_id": "JMH-064017-0011",
+  "name": "男神像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "越中里（菅原神社）"
+ },
+ {
+  "jmh_id": "JMH-064017-0015",
+  "name": "虚空蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "小股（小股）"
+ },
+ {
+  "jmh_id": "JMH-064017-0022",
+  "name": "千手観音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "小玉川（宝泉寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0024",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "朝篠（円長寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0028",
+  "name": "欄間",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "沼沢（多福寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0030",
+  "name": "薬師如来像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "田沢頭（盤昌寺薬師堂）"
+ },
+ {
+  "jmh_id": "JMH-064017-0034",
+  "name": "薬師如来像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1985-03-31",
+  "municipality": "小国町",
+  "location": "焼山（焼山如来堂）"
+ },
+ {
+  "jmh_id": "JMH-064017-0033",
+  "name": "聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1985-03-31",
+  "municipality": "小国町",
+  "location": "太鼓沢（日光院）"
+ },
+ {
+  "jmh_id": "JMH-064017-0035",
+  "name": "鳥天狗像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1985-03-31",
+  "municipality": "小国町",
+  "location": "玉川（玉川十二山神社）"
+ },
+ {
+  "jmh_id": "JMH-064017-0036",
+  "name": "不動明王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1992-03-31",
+  "municipality": "小国町",
+  "location": "白子沢（清安寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0001",
+  "name": "「興學」の掛軸",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・書跡・典籍",
+  "designation": "町指定",
+  "designated_date": "1982-03-31",
+  "municipality": "小国町",
+  "location": "岩井沢（小国高等学校）"
+ },
+ {
+  "jmh_id": "JMH-064017-0012",
+  "name": "短冊",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・書跡・典籍",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "小国小坂町"
+ },
+ {
+  "jmh_id": "JMH-064017-0016",
+  "name": "軍扇",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・工芸品",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "小国町",
+  "location": "小国小坂町"
+ },
+ {
+  "jmh_id": "JMH-064017-0019",
+  "name": "上杉景勝公御下賜の采配",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・工芸品",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "小国小坂町"
+ },
+ {
+  "jmh_id": "JMH-064017-0018",
+  "name": "上杉景勝公御下賜の扇子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・工芸品",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "小国小坂町"
+ },
+ {
+  "jmh_id": "JMH-064017-0023",
+  "name": "地獄変相図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・絵画",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "朝篠（円長寺）"
+ },
+ {
+  "jmh_id": "JMH-064017-0026",
+  "name": "景虎の府内大橋場掟書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "小国小坂町"
+ },
+ {
+  "jmh_id": "JMH-064017-0038",
+  "name": "東山紺野遺跡出土の黒曜石製石器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "2019-03-26",
+  "municipality": "小国町",
+  "location": "岩井沢"
+ },
+ {
+  "jmh_id": "JMH-064017-0020",
+  "name": "五味沢の獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "五味沢"
+ },
+ {
+  "jmh_id": "JMH-064017-0029",
+  "name": "舟渡の獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-03-31",
+  "municipality": "小国町",
+  "location": "舟渡"
+ },
+ {
+  "jmh_id": "JMH-064017-0037",
+  "name": "古田歌舞伎",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1992-03-31",
+  "municipality": "小国町",
+  "location": "古田"
+ },
+ {
+  "jmh_id": "JMH-064017-0031",
+  "name": "大里峠の凶霊供養塔",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1985-03-31",
+  "municipality": "小国町",
+  "location": "玉川"
+ },
+ {
+  "jmh_id": "JMH-063410-0002",
+  "name": "乗舩寺 涅槃像",
+  "category": "有形文化財",
+  "subcategory": "町指定文化財",
+  "designation": "町指定",
+  "municipality": "大石田町"
+ },
+ {
+  "jmh_id": "JMH-063410-0003",
+  "name": "愛宕山の枝垂桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "大石田町"
+ },
+ {
+  "jmh_id": "JMH-063410-0001",
+  "name": "ギフチョウ及びヒメギフチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "大石田町"
+ },
+ {
+  "jmh_id": "JMH-062049-0063",
+  "name": "浄福寺の唐門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1963-03-09",
+  "municipality": "酒田市"
+ },
+ {
+  "jmh_id": "JMH-062049-0233",
+  "name": "旧白崎医院 付両便所供待所",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1978-09-08",
+  "municipality": "酒田市"
+ },
+ {
+  "jmh_id": "JMH-062049-0279",
+  "name": "旧光丘文庫本館 附書庫 付属家具室内装飾品 並建築工事関係資料",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-03-01",
+  "municipality": "酒田市"
+ }
+]

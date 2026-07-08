@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-033049-0052",
+  "name": "陣ヶ岡陣営跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0035",
+  "name": "志和稲荷街道跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0023",
+  "name": "安倍道跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0050",
+  "name": "鎌倉街道跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0036",
+  "name": "木戸脇一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0018",
+  "name": "土舘新山寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0019",
+  "name": "土舘源勝寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0079",
+  "name": "是信房墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1989-12-25",
+  "municipality": "紫波町",
+  "location": "彦部"
+ },
+ {
+  "jmh_id": "JMH-033049-0027",
+  "name": "御神明のカツラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "佐比内"
+ },
+ {
+  "jmh_id": "JMH-033049-0020",
+  "name": "大峯のカリン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "彦部"
+ },
+ {
+  "jmh_id": "JMH-033049-0002",
+  "name": "サワラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0005",
+  "name": "ナラカシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "長岡"
+ },
+ {
+  "jmh_id": "JMH-033049-0001",
+  "name": "ケヤキ群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "古館"
+ },
+ {
+  "jmh_id": "JMH-033049-0029",
+  "name": "志和稲荷の大スギ群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0003",
+  "name": "シダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0006",
+  "name": "モウソウダケの群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0004",
+  "name": "シラカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "志和"
+ },
+ {
+  "jmh_id": "JMH-033049-0014",
+  "name": "南面のサクラ・ヒガンザクラ群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1975-03-25",
+  "municipality": "紫波町",
+  "location": "赤石"
+ },
+ {
+  "jmh_id": "JMH-033049-0057",
+  "name": "ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "古館"
+ },
+ {
+  "jmh_id": "JMH-033049-0055",
+  "name": "アサダ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "赤沢"
+ },
+ {
+  "jmh_id": "JMH-033049-0056",
+  "name": "カシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1979-11-19",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0075",
+  "name": "ツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1982-05-07",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0073",
+  "name": "シダレアカマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1982-05-07",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-033049-0074",
+  "name": "スギ群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（植物）",
+  "designation": "町指定",
+  "designated_date": "1982-05-07",
+  "municipality": "紫波町",
+  "location": "水分"
+ },
+ {
+  "jmh_id": "JMH-032034-0022",
+  "name": "木造不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "猪川町字長谷堂（長谷寺収蔵庫）"
+ },
+ {
+  "jmh_id": "JMH-032034-0023",
+  "name": "木造十一面観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "猪川町字長谷堂（長谷寺収蔵庫）"
+ },
+ {
+  "jmh_id": "JMH-032034-0025",
+  "name": "木造聖徳太子立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "猪川町字長谷堂（長谷寺収蔵庫）"
+ },
+ {
+  "jmh_id": "JMH-032034-0024",
+  "name": "木造如来仏頭部",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "猪川町字長谷堂（長谷寺収蔵庫）"
+ },
+ {
+  "jmh_id": "JMH-032034-0028",
+  "name": "獅子頭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0036",
+  "name": "高麗犬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0032",
+  "name": "貴徳面",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0059",
+  "name": "木造地蔵菩薩半跏像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1999-10-01",
+  "municipality": "大船渡市",
+  "location": "猪川町字前田"
+ },
+ {
+  "jmh_id": "JMH-032034-0058",
+  "name": "木造地蔵・十王・奪衣婆像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1999-10-01",
+  "municipality": "大船渡市",
+  "location": "赤崎町字沢田"
+ },
+ {
+  "jmh_id": "JMH-032034-0060",
+  "name": "木造孝養太子立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1999-10-01",
+  "municipality": "大船渡市",
+  "location": "赤崎町字沢田"
+ },
+ {
+  "jmh_id": "JMH-032034-0017",
+  "name": "太鼓胴",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0037",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0035",
+  "name": "額字",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0033",
+  "name": "釜",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0027",
+  "name": "椀",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-032034-0034",
+  "name": "錫杖頭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸）",
+  "designation": "市指定",
+  "designated_date": "1972-03-25",
+  "municipality": "大船渡市",
+  "location": "末崎町字中森（熊野神社）"
+ }
+]

@@ -1,0 +1,377 @@
+[
+ {
+  "jmh_id": "JMH-022098-0003",
+  "name": "松枝遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-08-01",
+  "municipality": "つがる市",
+  "location": "稲垣町吉出吉田・稲富"
+ },
+ {
+  "jmh_id": "JMH-022098-0004",
+  "name": "ヤチダモ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-09-30",
+  "municipality": "つがる市",
+  "location": "稲垣町豊川千代島107‐18"
+ },
+ {
+  "jmh_id": "JMH-022098-0010",
+  "name": "欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-03-10",
+  "municipality": "つがる市",
+  "location": "稲垣町下繁田磯繁11‐9"
+ },
+ {
+  "jmh_id": "JMH-022098-0011",
+  "name": "旧尾野家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-04-28",
+  "municipality": "つがる市",
+  "location": "稲垣町豊川宮川145‐1 (稲穂いこいの里)"
+ },
+ {
+  "jmh_id": "JMH-022098-0012",
+  "name": "銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-12-16",
+  "municipality": "つがる市",
+  "location": "稲垣町豊川初瀬33"
+ },
+ {
+  "jmh_id": "JMH-022098-0014",
+  "name": "黒印状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2003-02-19",
+  "municipality": "つがる市",
+  "location": "牛潟町"
+ },
+ {
+  "jmh_id": "JMH-024066-0001",
+  "name": "岩倉不動尊",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1983-09-20",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0002",
+  "name": "牛ノ沢舘跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1983-09-20",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0003",
+  "name": "桧木在八幡神社 海浜殖生自然林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1985-03-20",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0004",
+  "name": "神明宮跡地大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1986-08-29",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0005",
+  "name": "下北の能舞（塚名平神楽会）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "1999-02-23",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0006",
+  "name": "横浜町の獅子舞（浜町神楽会）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "1999-02-23",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0009",
+  "name": "横浜町の神楽（舘町神楽会）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "2002-07-09",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0008",
+  "name": "横浜町の神楽（新丁神楽会）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "2002-07-09",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0007",
+  "name": "横浜町の南部手踊り（横浜町南部手踊保存会）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "2002-07-09",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0010",
+  "name": "八幡神社 社殿",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "町指定",
+  "designated_date": "2018-04-01",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0011",
+  "name": "八幡神社 神幸祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "2018-04-01",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0012",
+  "name": "ホオジロザメの歯の有孔装身具",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "町指定",
+  "designated_date": "2023-03-01",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024066-0013",
+  "name": "獣面突起付土器",
+  "category": "有形文化財",
+  "subcategory": "有形",
+  "designation": "町指定",
+  "designated_date": "2023-03-01",
+  "municipality": "横浜町"
+ },
+ {
+  "jmh_id": "JMH-024520-0001",
+  "name": "五戸代官所の門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-09-20",
+  "municipality": "五戸町",
+  "location": "歴史みらいパーク内五戸町図書館近く"
+ },
+ {
+  "jmh_id": "JMH-024520-0002",
+  "name": "石冠",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2023-04-13",
+  "municipality": "五戸町",
+  "location": "上蛇沢(2)遺跡（五戸町大字切谷内字上蛇沢）出土／ごのへ郷土館展示"
+ },
+ {
+  "jmh_id": "JMH-023019-0003",
+  "name": "ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "平内町",
+  "location": "平内町小湊字小湊77（浄尊寺内）"
+ },
+ {
+  "jmh_id": "JMH-023019-0008",
+  "name": "観音のオンコ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "平内町",
+  "location": "平内町小湊字観音地内"
+ },
+ {
+  "jmh_id": "JMH-023019-0001",
+  "name": "ご家中のマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "平内町",
+  "location": "平内町小湊字小湊地内（旧法務局前）"
+ },
+ {
+  "jmh_id": "JMH-023019-0004",
+  "name": "タタラの五本松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "平内町",
+  "location": "平内町白砂字白砂地内"
+ },
+ {
+  "jmh_id": "JMH-023019-0002",
+  "name": "オンコ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "平内町",
+  "location": "平内町大字東滝字滝48"
+ },
+ {
+  "jmh_id": "JMH-023019-0006",
+  "name": "松野木剣舞踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "平内町"
+ },
+ {
+  "jmh_id": "JMH-023019-0007",
+  "name": "藤沢獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "平内町"
+ },
+ {
+  "jmh_id": "JMH-023019-0005",
+  "name": "内童子獅子舞・太刀振り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "平内町"
+ },
+ {
+  "jmh_id": "JMH-022021-0116",
+  "name": "黒門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1978-03-30",
+  "municipality": "弘前市",
+  "location": "弘前市大字西茂森一丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0067",
+  "name": "栄螺堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-02-01",
+  "municipality": "弘前市",
+  "location": "弘前市大字西茂森二丁目"
+ },
+ {
+  "jmh_id": "JMH-022021-0100",
+  "name": "藤原信政公霊所 瑞垣・木柵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-01-08",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡"
+ },
+ {
+  "jmh_id": "JMH-022021-0111",
+  "name": "高照神社文庫",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1995-11-09",
+  "municipality": "弘前市",
+  "location": "弘前市大字高岡"
+ },
+ {
+  "jmh_id": "JMH-022021-0112",
+  "name": "高照神社神饌殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-10-15",
+  "municipality": "弘前市"
+ },
+ {
+  "jmh_id": "JMH-022021-0043",
+  "name": "揚亀園揚亀庵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-10-20",
+  "municipality": "弘前市",
+  "location": "弘前市大字亀甲町 津軽藩ねぷた村内"
+ },
+ {
+  "jmh_id": "JMH-022021-0012",
+  "name": "乳井神社社殿（旧毘沙門堂）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1998-11-27",
+  "municipality": "弘前市",
+  "location": "弘前市大字乳井字外ノ沢"
+ },
+ {
+  "jmh_id": "JMH-022021-0049",
+  "name": "旧小山内家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-11-09",
+  "municipality": "弘前市",
+  "location": "弘前市大字清水富田 弘前市りんご公園内"
+ },
+ {
+  "jmh_id": "JMH-022021-0051",
+  "name": "旧青森銀行津軽支店",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2002-01-30",
+  "municipality": "弘前市",
+  "location": "弘前市大字百石町"
+ },
+ {
+  "jmh_id": "JMH-022021-0050",
+  "name": "旧藤田家住宅(太宰治学生時代の下宿)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2006-03-24",
+  "municipality": "弘前市",
+  "location": "弘前市大字御幸町"
+ },
+ {
+  "jmh_id": "JMH-022021-0038",
+  "name": "平川家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2017-04-14",
+  "municipality": "弘前市",
+  "location": "弘前市大字若党町"
+ }
+]

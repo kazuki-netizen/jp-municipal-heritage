@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-043230-0019",
+  "name": "中江前出土「櫂」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1971-10-10",
+  "municipality": "柴田町",
+  "location": "宮城県柴田郡柴田町西船迫1丁目6-26"
+ },
+ {
+  "jmh_id": "JMH-043230-0032",
+  "name": "深山神社付属立花小川流神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "町指定",
+  "designated_date": "1973-04-03",
+  "municipality": "柴田町",
+  "location": "宮城県柴田郡柴田町大字富沢字深山"
+ },
+ {
+  "jmh_id": "JMH-043230-0023",
+  "name": "八雲神社付属榊流神楽",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "町指定",
+  "designated_date": "1973-04-03",
+  "municipality": "柴田町",
+  "location": "宮城県柴田郡柴田町大字入間田字古内"
+ },
+ {
+  "jmh_id": "JMH-043230-0033",
+  "name": "鉄錆地五枚胴具足 六十二間筋兜・小具足付 附 関係文書9通",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1973-04-03",
+  "municipality": "柴田町",
+  "location": "宮城県柴田郡柴田町船岡西1丁目6-26"
+ },
+ {
+  "jmh_id": "JMH-043230-0030",
+  "name": "柴田意利所用堤重",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1973-04-03",
+  "municipality": "柴田町",
+  "location": "宮城県柴田郡柴田町船岡西1丁目6-26"
+ },
+ {
+  "jmh_id": "JMH-043230-0026",
+  "name": "小室達関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1973-04-03",
+  "municipality": "柴田町",
+  "location": "宮城県柴田郡柴田町船岡西1丁目6-26"
+ },
+ {
+  "jmh_id": "JMH-044032-0001",
+  "name": "国府厨印",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1971",
+  "municipality": "七ヶ浜町",
+  "location": "境山2丁目1-12（歴史資料館寄託管理）"
+ },
+ {
+  "jmh_id": "JMH-044032-0002",
+  "name": "湊浜薬師堂及び薬師座像並びに榧の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981-10-01",
+  "municipality": "七ヶ浜町",
+  "location": "湊浜字熊野、字砂山地内"
+ },
+ {
+  "jmh_id": "JMH-044032-0006",
+  "name": "鼻節神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-04-01",
+  "municipality": "七ヶ浜町",
+  "location": "花渕浜字誰道"
+ },
+ {
+  "jmh_id": "JMH-044032-0005",
+  "name": "建治三年銘古碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1990-04-01",
+  "municipality": "七ヶ浜町",
+  "location": "代ヶ崎浜字影田"
+ },
+ {
+  "jmh_id": "JMH-044032-0004",
+  "name": "下がり松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1990-04-01",
+  "municipality": "七ヶ浜町",
+  "location": "代ヶ崎浜字細田54-16"
+ },
+ {
+  "jmh_id": "JMH-044032-0007",
+  "name": "「鰐鮫頭骨収納箱」附鰐鮫頭骨および釣針",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1998-08-01",
+  "municipality": "七ヶ浜町",
+  "location": "境山2丁目1-12（歴史資料館寄託管理）"
+ },
+ {
+  "jmh_id": "JMH-044032-0003",
+  "name": "吉田浜獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1985-03-01",
+  "municipality": "七ヶ浜町",
+  "location": "吉田浜字宮前11-1（吉田神社）"
+ },
+ {
+  "jmh_id": "JMH-043028-0001",
+  "name": "東光寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1993-04-26",
+  "municipality": "七ヶ宿町"
+ },
+ {
+  "jmh_id": "JMH-043028-0003",
+  "name": "聖観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1993-04-26",
+  "municipality": "七ヶ宿町"
+ },
+ {
+  "jmh_id": "JMH-043028-0002",
+  "name": "浪花講・真誠講の看板",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1993-04-26",
+  "municipality": "七ヶ宿町",
+  "location": "水と歴史の館（保管）"
+ },
+ {
+  "jmh_id": "JMH-043028-0004",
+  "name": "大峰桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2003-02-27",
+  "municipality": "七ヶ宿町"
+ },
+ {
+  "jmh_id": "JMH-044440-0001",
+  "name": "船形神社「木造十二神将立像」",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2012-12-03",
+  "municipality": "色麻町",
+  "location": "小栗山地区・船形神社"
+ },
+ {
+  "jmh_id": "JMH-042030-0001",
+  "name": "志波彦神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1963-07-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市一森山1番1号 志波彦神社"
+ },
+ {
+  "jmh_id": "JMH-042030-0002",
+  "name": "桂島貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "遺跡",
+  "designation": "市指定",
+  "designated_date": "1969-09-18",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市浦戸桂島字台"
+ },
+ {
+  "jmh_id": "JMH-042030-0003",
+  "name": "老杉（御神木）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "市指定",
+  "designated_date": "1976-10-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市一森山1番1号 鹽竈神社境内"
+ },
+ {
+  "jmh_id": "JMH-042030-0004",
+  "name": "銅鉄合製燈籠（文化燈籠）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-10-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市一森山1番1号 鹽竈神社境内"
+ },
+ {
+  "jmh_id": "JMH-042030-0009",
+  "name": "寒風沢造艦の碑",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1987-02-01",
+  "municipality": "塩竈市",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-042030-0006",
+  "name": "塩釜村風土記",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1987-02-01",
+  "municipality": "塩竈市",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-042030-0008",
+  "name": "宮城郡塩竈村下町組御蔵入茶畑御物成小割帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1987-02-01",
+  "municipality": "塩竈市",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-042030-0007",
+  "name": "奥塩地名集",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1987-02-01",
+  "municipality": "塩竈市",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-042030-0005",
+  "name": "十二支方角石",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1987-02-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市浦戸寒風沢字日和山"
+ },
+ {
+  "jmh_id": "JMH-042030-0010",
+  "name": "絵馬「鮭を運ぶアイヌ」",
+  "category": "民俗文化財",
+  "subcategory": "有形の民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-07-01",
+  "municipality": "塩竈市",
+  "location": "宮城県多賀城市高崎1丁目22番1号 東北歴史博物館"
+ },
+ {
+  "jmh_id": "JMH-042030-0011",
+  "name": "塩竈神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形の民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2010-03-01",
+  "municipality": "塩竈市"
+ },
+ {
+  "jmh_id": "JMH-042030-0012",
+  "name": "旧塩竈市公民館",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2013-10-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市本町8番1号 塩竈市杉村惇美術館"
+ },
+ {
+  "jmh_id": "JMH-042030-0013",
+  "name": "東園寺碑拓本掛け軸、東園寺碑残欠",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2018-09-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市旭町4番1号 東園寺"
+ },
+ {
+  "jmh_id": "JMH-042030-0015",
+  "name": "貞享特令写",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "2018-09-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市旭町4番1号 東園寺"
+ },
+ {
+  "jmh_id": "JMH-042030-0014",
+  "name": "石燈籠",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2018-09-01",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市一森山1番1号 鹽竈神社境内"
+ },
+ {
+  "jmh_id": "JMH-042030-0016",
+  "name": "勝画楼",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2018-10-05",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市宮町6番1号 勝画楼"
+ },
+ {
+  "jmh_id": "JMH-042030-0017",
+  "name": "絹本著色仏涅槃図（小池曲江筆）附納箱",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2020-12-23",
+  "municipality": "塩竈市",
+  "location": "宮城県塩竈市旭町4番1号 東園寺"
+ },
+ {
+  "jmh_id": "JMH-042064-0002",
+  "name": "堂田遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-25",
+  "municipality": "白石市",
+  "location": "宮城県白石市西益岡町6-52福岡八宮字堂田13-2"
+ },
+ {
+  "jmh_id": "JMH-042064-0004",
+  "name": "郡山横穴古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-25",
+  "municipality": "白石市",
+  "location": "宮城県白石市郡山字穴前63"
+ },
+ {
+  "jmh_id": "JMH-042064-0001",
+  "name": "世良修蔵の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-25",
+  "municipality": "白石市",
+  "location": "宮城県白石市福岡蔵本字陣場45-4"
+ },
+ {
+  "jmh_id": "JMH-042064-0003",
+  "name": "片倉家御廟所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-07-25",
+  "municipality": "白石市",
+  "location": "宮城県白石市福岡蔵本字愛宕山197-2"
+ },
+ {
+  "jmh_id": "JMH-042064-0005",
+  "name": "白石城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-07-02",
+  "municipality": "白石市",
+  "location": "宮城県白石市益岡2-3ほか"
+ }
+]

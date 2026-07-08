@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-074217-0009",
+  "name": "薬王寺の仏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1976-10-27",
+  "municipality": "石川町",
+  "location": "字大室563"
+ },
+ {
+  "jmh_id": "JMH-074217-0011",
+  "name": "上母畑のささら",
+  "category": "無形文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1985-12-07",
+  "municipality": "石川町",
+  "location": "母畑地区"
+ },
+ {
+  "jmh_id": "JMH-074217-0012",
+  "name": "上母畑の白鍬踊",
+  "category": "無形文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1985-12-07",
+  "municipality": "石川町",
+  "location": "母畑地区"
+ },
+ {
+  "jmh_id": "JMH-074217-0014",
+  "name": "迎森一文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1991-03-25",
+  "municipality": "石川町",
+  "location": "字長久保96"
+ },
+ {
+  "jmh_id": "JMH-074217-0013",
+  "name": "吉田光一文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1991-03-25",
+  "municipality": "石川町",
+  "location": "石都々古和気神社所有"
+ },
+ {
+  "jmh_id": "JMH-074217-0015",
+  "name": "鈴木家主屋及び門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1995-05-20",
+  "municipality": "石川町",
+  "location": "字下泉163の1"
+ },
+ {
+  "jmh_id": "JMH-074217-0018",
+  "name": "曲木石造供養塔婆群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1996-06-01",
+  "municipality": "石川町",
+  "location": "大字曲木字坂ノ下81の2"
+ },
+ {
+  "jmh_id": "JMH-074217-0017",
+  "name": "安養寺の石造供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1996-06-01",
+  "municipality": "石川町",
+  "location": "大字沢井字東内打305"
+ },
+ {
+  "jmh_id": "JMH-074217-0016",
+  "name": "和久石造供養塔婆群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1996-06-01",
+  "municipality": "石川町",
+  "location": "字和久299"
+ },
+ {
+  "jmh_id": "JMH-074217-0019",
+  "name": "沢井舘石造五輪塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1996-06-01",
+  "municipality": "石川町",
+  "location": "大字沢井字舘81"
+ },
+ {
+  "jmh_id": "JMH-074217-0020",
+  "name": "伊達政宗書状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2003-09-05",
+  "municipality": "石川町",
+  "location": "字長久保185-4"
+ },
+ {
+  "jmh_id": "JMH-074217-0021",
+  "name": "光渡寺木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2009-06-05",
+  "municipality": "石川町",
+  "location": "大字板橋字沢古屋地内"
+ },
+ {
+  "jmh_id": "JMH-074217-0022",
+  "name": "塩釜神社のアカガシ樹叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2009-06-05",
+  "municipality": "石川町",
+  "location": "字当町地内"
+ },
+ {
+  "jmh_id": "JMH-074217-0023",
+  "name": "石都々古和気神社の狛犬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2016-05-08",
+  "municipality": "石川町",
+  "location": "字下泉地内"
+ },
+ {
+  "jmh_id": "JMH-074217-0024",
+  "name": "近津神社の石造神馬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2020-05-12",
+  "municipality": "石川町",
+  "location": "字南町地内"
+ },
+ {
+  "jmh_id": "JMH-072044-0050",
+  "name": "飯野八幡宮幣殿拝殿",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1982-03-26",
+  "municipality": "いわき市",
+  "location": "平字八幡小路"
+ },
+ {
+  "jmh_id": "JMH-072044-0053",
+  "name": "専称寺鐘楼堂",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1984-01-24",
+  "municipality": "いわき市",
+  "location": "平山崎字梅福山"
+ },
+ {
+  "jmh_id": "JMH-072044-0056",
+  "name": "龍門寺楼門（附）棟札木簡2枚",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1985-03-29",
+  "municipality": "いわき市",
+  "location": "平下荒川字諏訪下"
+ },
+ {
+  "jmh_id": "JMH-072044-0067",
+  "name": "密蔵院楼門（附）棟札木簡1枚",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1988-03-25",
+  "municipality": "いわき市",
+  "location": "平沼ノ内字代ノ下"
+ },
+ {
+  "jmh_id": "JMH-072044-0085",
+  "name": "長福寺 本堂 山門",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1992-03-27",
+  "municipality": "いわき市",
+  "location": "小川町下小川字上ノ台"
+ },
+ {
+  "jmh_id": "JMH-072044-0098",
+  "name": "旧川口家住宅",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1995-04-28",
+  "municipality": "いわき市",
+  "location": "鹿島町下矢田字散野（伝承郷）"
+ },
+ {
+  "jmh_id": "JMH-072044-0100",
+  "name": "旧猪狩家住宅",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1996-07-19",
+  "municipality": "いわき市",
+  "location": "鹿島町下矢田字散野（伝承郷）"
+ },
+ {
+  "jmh_id": "JMH-072044-0104",
+  "name": "旧高木家住宅",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1997-05-13",
+  "municipality": "いわき市",
+  "location": "鹿島町下矢田字散野（伝承郷）"
+ },
+ {
+  "jmh_id": "JMH-072044-0103",
+  "name": "旧芳賀家住宅",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "1997-05-13",
+  "municipality": "いわき市",
+  "location": "鹿島町下矢田字散野（伝承郷）"
+ },
+ {
+  "jmh_id": "JMH-072044-0124",
+  "name": "江尻家住宅",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2001-04-27",
+  "municipality": "いわき市",
+  "location": "泉町下川字井戸内"
+ },
+ {
+  "jmh_id": "JMH-072044-0131",
+  "name": "浄光院銅造宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2002-04-30",
+  "municipality": "いわき市",
+  "location": "小名浜字古湊"
+ },
+ {
+  "jmh_id": "JMH-072044-0134",
+  "name": "柳沢観音堂",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2003-04-25",
+  "municipality": "いわき市",
+  "location": "小名浜野田字峰岸"
+ },
+ {
+  "jmh_id": "JMH-072044-0138",
+  "name": "大国魂神社本殿（附）棟札7枚",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2004-04-28",
+  "municipality": "いわき市",
+  "location": "平菅波字宮前"
+ },
+ {
+  "jmh_id": "JMH-072044-0142",
+  "name": "八劔神社本殿",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2005-04-27",
+  "municipality": "いわき市",
+  "location": "平下高久字馬場"
+ },
+ {
+  "jmh_id": "JMH-072044-0148",
+  "name": "温泉神社本殿（附）棟札8枚、扁額1面",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2005-04-27",
+  "municipality": "いわき市",
+  "location": "常磐湯本町三函"
+ },
+ {
+  "jmh_id": "JMH-072044-0155",
+  "name": "出羽神社本殿（附）社号額1面、棟札3枚",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2007-06-27",
+  "municipality": "いわき市",
+  "location": "平中神谷字石脇"
+ },
+ {
+  "jmh_id": "JMH-072044-0160",
+  "name": "小名浜諏訪神社境内末社 人形六社神社本殿（附）棟札3枚",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2010-04-23",
+  "municipality": "いわき市",
+  "location": "小名浜諏訪町"
+ },
+ {
+  "jmh_id": "JMH-072044-0166",
+  "name": "普門寺観音堂（附）扁額1面",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2013-04-24",
+  "municipality": "いわき市",
+  "location": "平字北目町"
+ },
+ {
+  "jmh_id": "JMH-072044-0173",
+  "name": "江名諏訪神社本殿",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2014-05-01",
+  "municipality": "いわき市",
+  "location": "江名字走出"
+ },
+ {
+  "jmh_id": "JMH-072044-0178",
+  "name": "吉田家門",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2016-05-02",
+  "municipality": "いわき市",
+  "location": "泉町三丁目"
+ },
+ {
+  "jmh_id": "JMH-072044-0184",
+  "name": "浄應寺山門",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2017-05-01",
+  "municipality": "いわき市",
+  "location": "平豊間字寺前"
+ },
+ {
+  "jmh_id": "JMH-072044-0188",
+  "name": "円通寺鐘楼門",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2020-05-01",
+  "municipality": "いわき市",
+  "location": "遠野町上遠野字根小屋"
+ },
+ {
+  "jmh_id": "JMH-072044-0196",
+  "name": "法田寺観音堂",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2025-05-01",
+  "municipality": "いわき市",
+  "location": "山田町仁井谷"
+ },
+ {
+  "jmh_id": "JMH-072044-0195",
+  "name": "専称寺開山堂",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財建造物",
+  "designation": "市指定",
+  "designated_date": "2025-05-01",
+  "municipality": "いわき市",
+  "location": "平山崎字梅福山"
+ },
+ {
+  "jmh_id": "JMH-072044-0025",
+  "name": "絹本著色真言八祖像",
+  "category": "有形文化財",
+  "subcategory": "市指定 有形文化財絵画",
+  "designation": "市指定",
+  "designated_date": "1976-05-27",
+  "municipality": "いわき市",
+  "location": "四倉町薬王寺字塙"
+ }
+]

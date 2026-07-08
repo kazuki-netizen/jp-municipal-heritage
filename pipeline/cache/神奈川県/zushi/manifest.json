@@ -1,0 +1,18 @@
+{
+  "5d4df6ccec7d71e4": {
+    "url": "https://www.city.zushi.kanagawa.jp/shiminkatsudo/bunkazai/1004542/1004544.html",
+    "filename": "5d4df6ccec7d71e4.html",
+    "sha256": "5581f2f535416f174af29fc520800860582b1296db8b9ba74cb09b38d751c4ed",
+    "fetched_at": "2026-07-08T03:18:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "adb310589faa617f": {
+    "url": "https://www.city.zushi.kanagawa.jp/shiminkatsudo/bunkazai/1009130/1004534.html",
+    "filename": "adb310589faa617f.html",
+    "sha256": "6870849a023b589c27a48a3495aa4f20159a09d0efee815e878b11bb8b253a19",
+    "fetched_at": "2026-07-08T03:18:47Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-052108-0039",
+  "name": "大井家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1981-03-30",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町舘町"
+ },
+ {
+  "jmh_id": "JMH-052108-0074",
+  "name": "土田直鎮家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1988-07-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町七日町字羽坂64-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0154",
+  "name": "木村仁左衛門家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-02-26",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市川西字米山下"
+ },
+ {
+  "jmh_id": "JMH-052108-0174",
+  "name": "高橋與兵衛家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2000-04-17",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市町村字上ノ畑"
+ },
+ {
+  "jmh_id": "JMH-052108-0090",
+  "name": "中山家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1989-12-16",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市鳥海町伏見字赤渋28-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0037",
+  "name": "須恵四耳壺",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-11-06",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市館前字館前"
+ },
+ {
+  "jmh_id": "JMH-052108-0054",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-09-10",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市新沢字新サ沢56"
+ },
+ {
+  "jmh_id": "JMH-052108-0092",
+  "name": "土偶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1989-12-16",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市鳥海町伏見字赤渋28-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0145",
+  "name": "深鉢部分（縄文土器）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-05-14",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市新沢字猫屋布45旧下川大内小学校"
+ },
+ {
+  "jmh_id": "JMH-052108-0175",
+  "name": "板碑群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-04-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町坂之下字上八塩沢"
+ },
+ {
+  "jmh_id": "JMH-052108-0181",
+  "name": "提鍋遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2002-03-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市新沢字猫屋布45旧下川大内小学校"
+ },
+ {
+  "jmh_id": "JMH-052108-0099",
+  "name": "魚形文刻石",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1990-05-28",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町城内字田屋の下26"
+ },
+ {
+  "jmh_id": "JMH-052108-0192",
+  "name": "銅印",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2011-04-26",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市川口字後野"
+ },
+ {
+  "jmh_id": "JMH-052108-0197",
+  "name": "菖蒲崎貝塚出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2017-03-24",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市新沢字猫屋布45旧下川大内小学校"
+ },
+ {
+  "jmh_id": "JMH-052108-0036",
+  "name": "石沢郷検地帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-11-06",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市石脇字弁慶川5"
+ },
+ {
+  "jmh_id": "JMH-052108-0035",
+  "name": "本荘藩分限帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-11-06",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市石脇字弁慶川5"
+ },
+ {
+  "jmh_id": "JMH-052108-0142",
+  "name": "武術絵馬額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-06-20",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市松ヶ崎字宮ノ腰102"
+ },
+ {
+  "jmh_id": "JMH-052108-0158",
+  "name": "本荘城下絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-06-29",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市石脇字弁慶川5"
+ },
+ {
+  "jmh_id": "JMH-052108-0156",
+  "name": "古雪・観音両町絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-06-29",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市石脇字弁慶川5"
+ },
+ {
+  "jmh_id": "JMH-052108-0185",
+  "name": "高札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-11-26",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市石脇字弁慶川5"
+ },
+ {
+  "jmh_id": "JMH-052108-0017",
+  "name": "大井五郎の什器・めし椀・ヘラ",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1977-07-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町七日町字羽坂64-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0018",
+  "name": "大井五郎の旗指物",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1977-07-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町七日町字羽坂64-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0020",
+  "name": "生駒藩主肖像画（親正・一正・正俊・高俊・親孝）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1977-07-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町城内字田屋の下26"
+ },
+ {
+  "jmh_id": "JMH-052108-0028",
+  "name": "出羽國油利郡岩屋内川口御検地帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-07",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市大内三川字熊野田"
+ },
+ {
+  "jmh_id": "JMH-052108-0027",
+  "name": "出羽之國油利郡岩屋内米坂村御検地之野帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-07",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市米坂"
+ },
+ {
+  "jmh_id": "JMH-052108-0066",
+  "name": "中帳村苗代御検地帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1987-05-26",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市中帳字谷地"
+ },
+ {
+  "jmh_id": "JMH-052108-0079",
+  "name": "福王寺の二師像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1988-07-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町城内字田屋の下54"
+ },
+ {
+  "jmh_id": "JMH-052108-0075",
+  "name": "大杉家修験遺物",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1988-07-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町七日町字羽坂64-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0083",
+  "name": "天旗",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-04-28",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町七日町字羽坂64-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0086",
+  "name": "生駒讃岐守一正手形写真摺",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-04-28",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町七日町字羽坂64-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0161",
+  "name": "大山祗神社棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-12-10",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市松本字小川口"
+ },
+ {
+  "jmh_id": "JMH-052108-0173",
+  "name": "由理十二頭軍記",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-04-17",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市川西字新屋敷"
+ },
+ {
+  "jmh_id": "JMH-052108-0172",
+  "name": "由利十二頭記・滝澤傳来記",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-04-17",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市前郷字前郷"
+ },
+ {
+  "jmh_id": "JMH-052108-0170",
+  "name": "傳来記",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-04-17",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市川西字奉行免"
+ },
+ {
+  "jmh_id": "JMH-052108-0171",
+  "name": "滝澤傳来記",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-04-17",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市森子字明法"
+ },
+ {
+  "jmh_id": "JMH-052108-0031",
+  "name": "松上の鷹（絵馬）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-07",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市新沢字上村14"
+ },
+ {
+  "jmh_id": "JMH-052108-0030",
+  "name": "岩屋能登守朝盛書簡",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-07",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市新沢字上村"
+ },
+ {
+  "jmh_id": "JMH-052108-0029",
+  "name": "岩屋十右エ門朝立請取証一切",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-07",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩谷麓字中谷地"
+ },
+ {
+  "jmh_id": "JMH-052108-0032",
+  "name": "物成並諸役相定條々",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-07",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市北福田字岩洞川原"
+ },
+ {
+  "jmh_id": "JMH-052108-0033",
+  "name": "真木山裁許書並に真木山事件に関する一切の文書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-07",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市中館字上場口"
+ }
+]

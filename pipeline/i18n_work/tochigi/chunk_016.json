@@ -1,0 +1,393 @@
+[
+ {
+  "jmh_id": "JMH-094072-0021",
+  "name": "伊王野氏山城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野1970他"
+ },
+ {
+  "jmh_id": "JMH-094072-0043",
+  "name": "堂の下の岩観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1990-03-01",
+  "municipality": "那須町",
+  "location": "那須町大字芦野383他"
+ },
+ {
+  "jmh_id": "JMH-094072-0004",
+  "name": "温泉神社境内の杉並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野1443（伊王野温泉神社）"
+ },
+ {
+  "jmh_id": "JMH-094072-0042",
+  "name": "伊王野温泉神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1990-03-01",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野1443"
+ },
+ {
+  "jmh_id": "JMH-094072-0035",
+  "name": "那須の五葉松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字湯本182"
+ },
+ {
+  "jmh_id": "JMH-094072-0029",
+  "name": "落合の海棲動物化石層",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字沼野井9（河川敷）"
+ },
+ {
+  "jmh_id": "JMH-094072-0041",
+  "name": "上ノ宮の「イチョウ」",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1990-03-01",
+  "municipality": "那須町",
+  "location": "那須町大字芦野2538"
+ },
+ {
+  "jmh_id": "JMH-094072-0045",
+  "name": "揚源寺の「アスナロウ」",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1990-03-01",
+  "municipality": "那須町",
+  "location": "那須町大字芦野2901"
+ },
+ {
+  "jmh_id": "JMH-094072-0005",
+  "name": "湯本温泉源",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字湯本181（河川地内）"
+ },
+ {
+  "jmh_id": "JMH-092134-0063",
+  "name": "三島通庸の肖像画（長原孝太郎作）（みしまみちつねのしょうぞうが（ながはらこうたろうさく））",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-04-01",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0015",
+  "name": "鶉(秋月)図(相馬寛哉作)(うずら(しゅうげつ)ず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-10-07",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0164",
+  "name": "三島弥太郎の肖像画（長原孝太郎作）(みしまやたろうのしょうぞうが（ながはらこうたろうさく）)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0014",
+  "name": "桐花に鳳凰図(相馬寛哉作)(とうかにほうおうず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-10-07",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0012",
+  "name": "すすきに鶉図(相馬寛哉作)(すすきにうずらず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-10-07",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0055",
+  "name": "菊鶏図(相馬寛哉作)(きっけいず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1978-12-06",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0056",
+  "name": "鑿道八景（高橋由一作）(さくどうはっけい(たかはしゆいちさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1978-12-06",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0064",
+  "name": "月に鶴図(相馬寛哉作)(つきにつるず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-04-01",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0066",
+  "name": "菊に鶏図(相馬寛哉作)(きくににわとりず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-04-01",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0013",
+  "name": "よしに雁図(相馬寛哉作)(よしにかり(がん)ず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-10-07",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0154",
+  "name": "平家物語 小督と仲国(高久隆古作)(へいけものがたり こごうとなかくに(たかくりゅうこさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2017-03-30",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0062",
+  "name": "すすきに鶉図(相馬寛哉作)(すすきにうずらず(そうまかんさいさく))",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-04-01",
+  "municipality": "那須塩原市"
+ },
+ {
+  "jmh_id": "JMH-092134-0134",
+  "name": "紙本墨画 山水図（高久靄がい（",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2009-03-27",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0136",
+  "name": "絹本淡彩 夏暁山水図（高久靄がい（",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2009-03-27",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0146",
+  "name": "西園雅集図屏風(高久靄がい（",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2013-03-28",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0135",
+  "name": "絹本墨画 松渓曳杖図(高久靄がい（",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2009-03-27",
+  "municipality": "那須塩原市",
+  "location": "那須野が原博物館"
+ },
+ {
+  "jmh_id": "JMH-092134-0089",
+  "name": "新湯温泉神社(本殿)(あらゆおんせんじんじゃ(ほんでん))",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市湯本塩原3"
+ },
+ {
+  "jmh_id": "JMH-092134-0106",
+  "name": "数ヶ室の郷蔵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-01-29",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市越堀787-2"
+ },
+ {
+  "jmh_id": "JMH-092134-0085",
+  "name": "妙雲寺(宮殿)(みょううんじ(くうでん))",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市塩原665"
+ },
+ {
+  "jmh_id": "JMH-092134-0088",
+  "name": "嶽山箒根神社高清水(遥拝殿)(たけさんほうきねじんじゃたかしみず(ようはいでん))",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市宇都野939-2"
+ },
+ {
+  "jmh_id": "JMH-092134-0139",
+  "name": "品川弥二郎の旧念仏庵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2011-05-09",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市塩原665"
+ },
+ {
+  "jmh_id": "JMH-092134-0073",
+  "name": "上黒磯の阿弥陀堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-01-22",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市黒磯449-2"
+ },
+ {
+  "jmh_id": "JMH-092134-0037",
+  "name": "峯薬師の仁王門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1972-10-25",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市塩野崎251"
+ },
+ {
+  "jmh_id": "JMH-092134-0021",
+  "name": "旧津久井家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1969-01-01",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市橋本町8-47"
+ },
+ {
+  "jmh_id": "JMH-092134-0084",
+  "name": "塩原八幡宮(本殿)(しおばらはちまんぐう(ほんでん))",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市中塩原11"
+ },
+ {
+  "jmh_id": "JMH-092134-0087",
+  "name": "嶽山箒根神社奥の院(本殿・他2社)(たけさんほうきねじんじゃおくのいん(ほんでん・ほかにしゃ))",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市宇都野1699"
+ },
+ {
+  "jmh_id": "JMH-092134-0081",
+  "name": "引久保百観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-04-24",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市上塩原418"
+ },
+ {
+  "jmh_id": "JMH-092134-0027",
+  "name": "三斗小屋温泉神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1969-07-10",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市板室910"
+ },
+ {
+  "jmh_id": "JMH-092134-0090",
+  "name": "畑下温泉神社(本殿)(はたおりおんせんじんじゃ(ほんでん))",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市塩原625-1"
+ },
+ {
+  "jmh_id": "JMH-092134-0094",
+  "name": "金沢の薬師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市金沢1137"
+ },
+ {
+  "jmh_id": "JMH-092134-0083",
+  "name": "塩の湯温泉神社(本殿)(しおのゆおんせんじんじゃ(ほんでん))",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-03-31",
+  "municipality": "那須塩原市",
+  "location": "那須塩原市塩原366"
+ }
+]

@@ -1,0 +1,371 @@
+[
+ {
+  "jmh_id": "JMH-022101-0042",
+  "name": "獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "大坊"
+ },
+ {
+  "jmh_id": "JMH-022101-0021",
+  "name": "大光寺獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "大光寺"
+ },
+ {
+  "jmh_id": "JMH-022101-0050",
+  "name": "石郷獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "石郷"
+ },
+ {
+  "jmh_id": "JMH-022101-0030",
+  "name": "新屋獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "新屋"
+ },
+ {
+  "jmh_id": "JMH-022101-0033",
+  "name": "柏木町荒馬踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "柏木町"
+ },
+ {
+  "jmh_id": "JMH-022101-0032",
+  "name": "松明流し",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "岩館"
+ },
+ {
+  "jmh_id": "JMH-022101-0039",
+  "name": "沖館獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "沖館"
+ },
+ {
+  "jmh_id": "JMH-022101-0044",
+  "name": "町居獅子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "町居"
+ },
+ {
+  "jmh_id": "JMH-022101-0001",
+  "name": "ボーノ神送り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "平田森"
+ },
+ {
+  "jmh_id": "JMH-022101-0045",
+  "name": "疫ノ神送り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "八幡崎"
+ },
+ {
+  "jmh_id": "JMH-022101-0006",
+  "name": "久吉駒踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "碇ヶ関久吉"
+ },
+ {
+  "jmh_id": "JMH-022101-0003",
+  "name": "三重塔址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-022101-0005",
+  "name": "丑盛",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "2006-01-01",
+  "municipality": "平川市",
+  "location": "猿賀"
+ },
+ {
+  "jmh_id": "JMH-023027-0001",
+  "name": "今別荒馬",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1980-02-01",
+  "municipality": "今別町",
+  "location": "〒030-1502 今別町大字今別字今別"
+ },
+ {
+  "jmh_id": "JMH-023027-0002",
+  "name": "大川平荒馬",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1980-02-01",
+  "municipality": "今別町",
+  "location": "〒030-1505 今別町大字大川平"
+ },
+ {
+  "jmh_id": "JMH-023027-0007",
+  "name": "二股荒馬",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1986-07-26",
+  "municipality": "今別町",
+  "location": "〒030-1505 今別町大字大川平字二股"
+ },
+ {
+  "jmh_id": "JMH-023027-0003",
+  "name": "大銀杏の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財－天然記念物",
+  "designation": "町指定",
+  "designated_date": "1980-02-01",
+  "municipality": "今別町",
+  "location": "〒030-1505 今別町大字大川平字村元"
+ },
+ {
+  "jmh_id": "JMH-023027-0004",
+  "name": "大開城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財－史跡",
+  "designation": "町指定",
+  "designated_date": "1981-05-11",
+  "municipality": "今別町",
+  "location": "〒030-1505 今別町大川平字西大川平山国有林"
+ },
+ {
+  "jmh_id": "JMH-023027-0005",
+  "name": "今別八幡宮狛犬2対",
+  "category": "有形文化財",
+  "subcategory": "有形文化財－彫刻",
+  "designation": "町指定",
+  "designated_date": "1986-05-01",
+  "municipality": "今別町",
+  "location": "〒030-1502 今別町大字今別字今別"
+ },
+ {
+  "jmh_id": "JMH-023027-0006",
+  "name": "貞伝上人作石佛",
+  "category": "有形文化財",
+  "subcategory": "有形文化財－彫刻",
+  "designation": "町指定",
+  "designated_date": "1986-05-01",
+  "municipality": "今別町",
+  "location": "〒030-1502 今別町大字今別字今別119"
+ },
+ {
+  "jmh_id": "JMH-023027-0009",
+  "name": "善導大師・圓光大師の座像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財－彫刻",
+  "designation": "町指定",
+  "designated_date": "1990-03-30",
+  "municipality": "今別町",
+  "location": "〒030-1501 今別町大字浜名字浜名"
+ },
+ {
+  "jmh_id": "JMH-023027-0013",
+  "name": "鉦鼓",
+  "category": "有形文化財",
+  "subcategory": "有形文化財－工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-03-30",
+  "municipality": "今別町",
+  "location": "〒030-1501 今別町大字浜名字浜名"
+ },
+ {
+  "jmh_id": "JMH-023027-0011",
+  "name": "石仏薬師如来像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財－彫刻",
+  "designation": "町指定",
+  "designated_date": "1990-03-30",
+  "municipality": "今別町",
+  "location": "〒030-1502 今別町大字今別字西田"
+ },
+ {
+  "jmh_id": "JMH-023027-0010",
+  "name": "愍栄上人作観音像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財－彫刻",
+  "designation": "町指定",
+  "designated_date": "1990-03-30",
+  "municipality": "今別町",
+  "location": "〒030-1505 今別町大字大川平字二股"
+ },
+ {
+  "jmh_id": "JMH-023027-0015",
+  "name": "阿弥陀如来像貞伝金仏（貞伝万体仏）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財－彫刻",
+  "designation": "町指定",
+  "designated_date": "2018-04-27",
+  "municipality": "今別町"
+ },
+ {
+  "jmh_id": "JMH-023027-0012",
+  "name": "船絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形文化財－民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1990-03-30",
+  "municipality": "今別町",
+  "location": "〒030-1513 今別町大字袰月字袰村元"
+ },
+ {
+  "jmh_id": "JMH-023027-0008",
+  "name": "ホウノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財－天然記念物",
+  "designation": "町指定",
+  "designated_date": "1990-03-20",
+  "municipality": "今別町",
+  "location": "〒030-1501 今別町大字浜名字浜名"
+ },
+ {
+  "jmh_id": "JMH-023027-0014",
+  "name": "ハリギリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財－天然記念物",
+  "designation": "町指定",
+  "designated_date": "2017-05-30",
+  "municipality": "今別町",
+  "location": "〒030-1504 今別町大字鍋田字関口1"
+ },
+ {
+  "jmh_id": "JMH-023647-0008",
+  "name": "垂柳獅子踊り",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0010",
+  "name": "田舎舘城址",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0002",
+  "name": "サイカチ大樹",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0005",
+  "name": "二本柳一族の墓碑",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0003",
+  "name": "中村喜時の資料と家筋関係資料",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0009",
+  "name": "極楽寺大日堂文書",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0001",
+  "name": "エゾエノキ大樹",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0007",
+  "name": "嘉暦の古碑",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0006",
+  "name": "二津屋の板碑",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-023647-0004",
+  "name": "中村喜時著「耕作噺」",
+  "category": "その他",
+  "designation": "村指定",
+  "municipality": "田舎館村"
+ },
+ {
+  "jmh_id": "JMH-022047-0005",
+  "name": "浄仙寺仁王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-10-12",
+  "municipality": "黒石市",
+  "location": "黒石市大字南中野字黒森下"
+ },
+ {
+  "jmh_id": "JMH-022047-0010",
+  "name": "藩祖信英公書状",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1986-01-07",
+  "municipality": "黒石市",
+  "location": "黒石市大字市ノ町"
+ }
+]

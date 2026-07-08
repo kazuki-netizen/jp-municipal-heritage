@@ -1,0 +1,393 @@
+[
+ {
+  "jmh_id": "JMH-074470-0083",
+  "name": "萩野風穴",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "糸沢字萩野山"
+ },
+ {
+  "jmh_id": "JMH-074470-0103",
+  "name": "黒岩湿原",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "針生字昼滝山"
+ },
+ {
+  "jmh_id": "JMH-074470-0086",
+  "name": "藤生熊野神社男杉・女杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "藤生字上平"
+ },
+ {
+  "jmh_id": "JMH-074470-0100",
+  "name": "鴫山城跡イチイの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "田島"
+ },
+ {
+  "jmh_id": "JMH-074470-0019",
+  "name": "如活禅師墓地イチイの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "中荒井"
+ },
+ {
+  "jmh_id": "JMH-074470-0101",
+  "name": "鹿島神社のトチの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "井桁"
+ },
+ {
+  "jmh_id": "JMH-074470-0067",
+  "name": "照国寺のイチイの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "古町"
+ },
+ {
+  "jmh_id": "JMH-074470-0007",
+  "name": "北野神社大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "大新田"
+ },
+ {
+  "jmh_id": "JMH-074470-0022",
+  "name": "宮床湿原",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "南会津町",
+  "location": "宮床"
+ },
+ {
+  "jmh_id": "JMH-072109-0004",
+  "name": "裏刳蓋付舟形刳抜石棺",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1966-03-31",
+  "municipality": "南相馬市",
+  "location": "小高区泉沢"
+ },
+ {
+  "jmh_id": "JMH-072109-0005",
+  "name": "平福穂庵筆神馬額",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1967-08-29",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0006",
+  "name": "藤田家所蔵文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1967-08-29",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0009",
+  "name": "薮内の十一面観音",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1968-02-01",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0013",
+  "name": "龍と唐獅子",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1970-11-12",
+  "municipality": "南相馬市",
+  "location": "原町区本町"
+ },
+ {
+  "jmh_id": "JMH-072109-0012",
+  "name": "野馬追図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-11-12",
+  "municipality": "南相馬市",
+  "location": "原町区本町"
+ },
+ {
+  "jmh_id": "JMH-072109-0031",
+  "name": "阿弥陀寺の善光寺式仏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "南相馬市",
+  "location": "鹿島区南屋形"
+ },
+ {
+  "jmh_id": "JMH-072109-0044",
+  "name": "浮田の木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区浮田"
+ },
+ {
+  "jmh_id": "JMH-072109-0047",
+  "name": "深鉢「縄文前期関山式併行」",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1982-09-20",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0049",
+  "name": "上栃窪遺跡出土の縄文土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1986-09-01",
+  "municipality": "南相馬市",
+  "location": "鹿島区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0050",
+  "name": "阿弥陀寺の銅鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-09-01",
+  "municipality": "南相馬市",
+  "location": "鹿島区南屋形"
+ },
+ {
+  "jmh_id": "JMH-072109-0051",
+  "name": "高台寺式唐草模様懸盤漆塗膳椀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-09-01",
+  "municipality": "南相馬市",
+  "location": "鹿島区南屋形"
+ },
+ {
+  "jmh_id": "JMH-072109-0053",
+  "name": "安養寺の十三仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-12-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区小池"
+ },
+ {
+  "jmh_id": "JMH-072109-0052",
+  "name": "一文字頭本縫丸胴具足",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1987-12-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0057",
+  "name": "陣幕",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1988-12-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区塩崎"
+ },
+ {
+  "jmh_id": "JMH-072109-0056",
+  "name": "北郷の四脚門一括",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-12-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区北海老ほか"
+ },
+ {
+  "jmh_id": "JMH-072109-0059",
+  "name": "中村迫の文殊菩薩座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990-02-14",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0060",
+  "name": "中村迫の虚空蔵菩薩座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990-02-14",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0058",
+  "name": "下岩崎の聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990-02-14",
+  "municipality": "南相馬市",
+  "location": "小高区福岡"
+ },
+ {
+  "jmh_id": "JMH-072109-0067",
+  "name": "曳覆曼荼羅版木",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-06-09",
+  "municipality": "南相馬市",
+  "location": "鹿島区北海老"
+ },
+ {
+  "jmh_id": "JMH-072109-0068",
+  "name": "牛王宝印版木",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-06-09",
+  "municipality": "南相馬市",
+  "location": "鹿島区北海老"
+ },
+ {
+  "jmh_id": "JMH-072109-0066",
+  "name": "弘法大師御影版木",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-06-09",
+  "municipality": "南相馬市",
+  "location": "鹿島区北海老"
+ },
+ {
+  "jmh_id": "JMH-072109-0073",
+  "name": "四日市文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1995-07-13",
+  "municipality": "南相馬市",
+  "location": "鹿島区南柚木"
+ },
+ {
+  "jmh_id": "JMH-072109-0072",
+  "name": "中村城小書院板壁画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1995-07-13",
+  "municipality": "南相馬市",
+  "location": "鹿島区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0078",
+  "name": "木造聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1998-08-11",
+  "municipality": "南相馬市",
+  "location": "鹿島区江垂"
+ },
+ {
+  "jmh_id": "JMH-072109-0079",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1998-08-11",
+  "municipality": "南相馬市",
+  "location": "鹿島区大内"
+ },
+ {
+  "jmh_id": "JMH-072109-0081",
+  "name": "八幡大菩薩旗",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0085",
+  "name": "能装束",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0080",
+  "name": "伝相馬昌胤着用白羅紗地陣羽織",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0087",
+  "name": "麻地錆浅葱色大紋",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0082",
+  "name": "女房火事装束",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ }
+]

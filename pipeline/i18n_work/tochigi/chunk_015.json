@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-094072-0015",
+  "name": "聖徳太子立像（木造）（しょうとくたいりゅうぞう（もくぞう））",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字芦野3239"
+ },
+ {
+  "jmh_id": "JMH-094072-0030",
+  "name": "薬師如来立像付十二神将",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野1256"
+ },
+ {
+  "jmh_id": "JMH-094072-0054",
+  "name": "薬師如来座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2005-04-25",
+  "municipality": "那須町",
+  "location": "那須町大字東岩崎字堰上487"
+ },
+ {
+  "jmh_id": "JMH-094072-0055",
+  "name": "釈迦誕生仏立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2005-04-25",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野1622（専称寺）"
+ },
+ {
+  "jmh_id": "JMH-094072-0012",
+  "name": "喰初寺の題目碑",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字湯本227（喰初寺）"
+ },
+ {
+  "jmh_id": "JMH-094072-0024",
+  "name": "べこ石の碑",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字横岡154"
+ },
+ {
+  "jmh_id": "JMH-094072-0032",
+  "name": "諭農の碑",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字横岡589－1"
+ },
+ {
+  "jmh_id": "JMH-094072-0026",
+  "name": "人見本曽良日記",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字湯本182（那須温泉神社）"
+ },
+ {
+  "jmh_id": "JMH-094072-0052",
+  "name": "絹本墨書 聖天掛軸",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "2002-04-24",
+  "municipality": "那須町",
+  "location": "那須町大字芦野2836（三光寺）"
+ },
+ {
+  "jmh_id": "JMH-094072-0056",
+  "name": "句集「常盤木」と献句集",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "designated_date": "2012-03-12",
+  "municipality": "那須町",
+  "location": "那須町大字芦野2232"
+ },
+ {
+  "jmh_id": "JMH-094072-0051",
+  "name": "小島疱瘡神社の算額",
+  "category": "有形文化財",
+  "subcategory": "歴史史料",
+  "designation": "町指定",
+  "designated_date": "2002-04-24",
+  "municipality": "那須町",
+  "location": "那須町大字寺子丙1391"
+ },
+ {
+  "jmh_id": "JMH-094072-0049",
+  "name": "制札",
+  "category": "有形文化財",
+  "subcategory": "歴史史料",
+  "designation": "町指定",
+  "designated_date": "2002-04-24",
+  "municipality": "那須町",
+  "location": "那須町大字芦野2232他"
+ },
+ {
+  "jmh_id": "JMH-094072-0050",
+  "name": "前久保のドウロクジン",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2002-04-24",
+  "municipality": "那須町",
+  "location": "那須町大字寺子乙944－2"
+ },
+ {
+  "jmh_id": "JMH-094072-0014",
+  "name": "大沢の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字高久丙（大沢）"
+ },
+ {
+  "jmh_id": "JMH-094072-0011",
+  "name": "北条の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字高久丙（北条）"
+ },
+ {
+  "jmh_id": "JMH-094072-0036",
+  "name": "一ツ樅の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "那須町",
+  "location": "那須町大字高久丙（一ツ樅）"
+ },
+ {
+  "jmh_id": "JMH-094072-0039",
+  "name": "狸久保獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "那須町",
+  "location": "那須町大字寺子乙（狸久保）"
+ },
+ {
+  "jmh_id": "JMH-094072-0040",
+  "name": "伊王野温泉神社の付け祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1985-01-22",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野"
+ },
+ {
+  "jmh_id": "JMH-094072-0053",
+  "name": "時庭の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2005-04-25",
+  "municipality": "那須町",
+  "location": "那須町大字寺子乙（時庭）"
+ },
+ {
+  "jmh_id": "JMH-094072-0003",
+  "name": "堂平仏堂跡および茶畑上代集落跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字東岩崎487他"
+ },
+ {
+  "jmh_id": "JMH-094072-0009",
+  "name": "門場縄文式遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字大島313他"
+ },
+ {
+  "jmh_id": "JMH-094072-0018",
+  "name": "赤坂西丘 北縄文式遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野876－1、2"
+ },
+ {
+  "jmh_id": "JMH-094072-0057",
+  "name": "何耕地縄文式遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野1100他"
+ },
+ {
+  "jmh_id": "JMH-094072-0020",
+  "name": "上田弥生式遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字富岡624"
+ },
+ {
+  "jmh_id": "JMH-094072-0031",
+  "name": "行人塚前期縄文遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野686－4"
+ },
+ {
+  "jmh_id": "JMH-094072-0034",
+  "name": "追の窪晩期縄文式遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字寄居1170他"
+ },
+ {
+  "jmh_id": "JMH-094072-0033",
+  "name": "迯室無土器文化遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字豊原丙1508他"
+ },
+ {
+  "jmh_id": "JMH-094072-0001",
+  "name": "ハッケトンヤ縄文式遺跡および舟戸古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字稲沢8他"
+ },
+ {
+  "jmh_id": "JMH-094072-0019",
+  "name": "一里塚（夫婦石、板屋、泉田）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字芦野1357-1461（夫婦石）／大字横岡584-1、589-1（板屋）／大字寄居1038（泉田）"
+ },
+ {
+  "jmh_id": "JMH-094072-0008",
+  "name": "芭蕉翁塚杜鵑の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字高久甲878－1"
+ },
+ {
+  "jmh_id": "JMH-094072-0010",
+  "name": "伊王野氏の新墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野2019（長源寺）"
+ },
+ {
+  "jmh_id": "JMH-094072-0017",
+  "name": "芦野氏旧墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字芦野字若林1069－3"
+ },
+ {
+  "jmh_id": "JMH-094072-0023",
+  "name": "芦野氏新墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字芦野1015（建中寺）"
+ },
+ {
+  "jmh_id": "JMH-094072-0046",
+  "name": "追分の明神住吉玉津島神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-03-01",
+  "municipality": "那須町",
+  "location": "那須町大字簑沢1352"
+ },
+ {
+  "jmh_id": "JMH-094072-0044",
+  "name": "境の明神",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-03-01",
+  "municipality": "那須町",
+  "location": "那須町大字寄居2242－1"
+ },
+ {
+  "jmh_id": "JMH-094072-0002",
+  "name": "伊王野氏居館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字伊王野1537"
+ },
+ {
+  "jmh_id": "JMH-094072-0016",
+  "name": "芦野氏居館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1961-10-01",
+  "municipality": "那須町",
+  "location": "那須町大字芦野1640・1662"
+ },
+ {
+  "jmh_id": "JMH-094072-0007",
+  "name": "芦野氏陣屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1960-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字芦野1039"
+ },
+ {
+  "jmh_id": "JMH-094072-0022",
+  "name": "稲沢氏居館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-10-15",
+  "municipality": "那須町",
+  "location": "那須町大字稲沢498他"
+ },
+ {
+  "jmh_id": "JMH-094072-0025",
+  "name": "二岐ヶ峰城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-07-15",
+  "municipality": "那須町",
+  "location": "那須町大字簑沢"
+ }
+]

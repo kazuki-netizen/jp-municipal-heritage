@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-042161-0076",
+  "name": "山神社拝殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒桜田（山神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0035",
+  "name": "円鏡寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒岩ケ崎（円鏡寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0040",
+  "name": "千葉周作ゆかりの家（旧佐藤家）長屋門・住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字草木沢（孤雲屋敷）"
+ },
+ {
+  "jmh_id": "JMH-042161-0032",
+  "name": "八幡神社本殿・拝殿・神輿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市瀬峰横森前（八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0186",
+  "name": "蔵王権現御嶽神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字本沢（御嶽神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0066",
+  "name": "妙教寺祖師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫柳目（妙教寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0197",
+  "name": "金成ハリストス正教会 聖使徒イオアン聖堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市金成上町西裏60-1"
+ },
+ {
+  "jmh_id": "JMH-042161-0103",
+  "name": "旧くりはら田園鉄道 客車庫、機関車庫及び車輌修繕庫、車輌係員詰所",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳字川北"
+ },
+ {
+  "jmh_id": "JMH-042161-0062",
+  "name": "大沼かねよ画伯絵画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県仙台市青葉区川内（宮城県美術館へ寄託）"
+ },
+ {
+  "jmh_id": "JMH-042161-0001",
+  "name": "「ある記録」狭間二郎作",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂"
+ },
+ {
+  "jmh_id": "JMH-042161-0005",
+  "name": "「生きる」狭間二郎作",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂"
+ },
+ {
+  "jmh_id": "JMH-042161-0003",
+  "name": "「北海道印象」狭間二郎作",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂"
+ },
+ {
+  "jmh_id": "JMH-042161-0004",
+  "name": "「図案」遠藤速雄作",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂"
+ },
+ {
+  "jmh_id": "JMH-042161-0006",
+  "name": "「老梅」遠藤速雄作",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫字川口"
+ },
+ {
+  "jmh_id": "JMH-042161-0002",
+  "name": "「モミジ」遠藤速雄作",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫字萩生"
+ },
+ {
+  "jmh_id": "JMH-042161-0172",
+  "name": "聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳有賀（官庭寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0111",
+  "name": "木造如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒栗原（栗原寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0112",
+  "name": "木造菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒栗原（栗原寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0025",
+  "name": "仰け返り地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市高清水仰返り"
+ },
+ {
+  "jmh_id": "JMH-042161-0050",
+  "name": "善光寺阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市高清水字善光寺（善光寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0014",
+  "name": "不動明王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫字不動西（水神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0091",
+  "name": "御作面",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫字清水目"
+ },
+ {
+  "jmh_id": "JMH-042161-0093",
+  "name": "撞鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字本沢"
+ },
+ {
+  "jmh_id": "JMH-042161-0209",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字本沢"
+ },
+ {
+  "jmh_id": "JMH-042161-0126",
+  "name": "槍",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山（盗難不明）"
+ },
+ {
+  "jmh_id": "JMH-042161-0189",
+  "name": "袖がらみ",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字本沢"
+ },
+ {
+  "jmh_id": "JMH-042161-0037",
+  "name": "刺また",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字本沢"
+ },
+ {
+  "jmh_id": "JMH-042161-0177",
+  "name": "脇差し",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字本沢"
+ },
+ {
+  "jmh_id": "JMH-042161-0210",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒八幡（屯岡八幡宮）"
+ },
+ {
+  "jmh_id": "JMH-042161-0045",
+  "name": "厨子と神像・白鹿図",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市金成中町（日枝神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0131",
+  "name": "洞泉院格天井、前机、須弥壇",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒文字（洞泉院）"
+ },
+ {
+  "jmh_id": "JMH-042161-0158",
+  "name": "石刻造「茶臼」",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市栗駒沼倉（円年寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0036",
+  "name": "冨塚氏の持仏堂",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂（龍雲寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0094",
+  "name": "政岡の円鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市一迫真坂（龍雲寺）"
+ },
+ {
+  "jmh_id": "JMH-042161-0070",
+  "name": "寒湯番所関係古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市花山字本沢"
+ },
+ {
+  "jmh_id": "JMH-042161-0017",
+  "name": "中世大崎古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市築館字下宮野町"
+ },
+ {
+  "jmh_id": "JMH-042161-0187",
+  "name": "藤原通理、長親、国豊三卿の書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳有賀（御賀八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-042161-0018",
+  "name": "中村庚申講帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市瀬峰下田"
+ },
+ {
+  "jmh_id": "JMH-042161-0190",
+  "name": "観音堂の額",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市瀬峰北ノ沢"
+ },
+ {
+  "jmh_id": "JMH-042161-0173",
+  "name": "聖徳太子像奉納歌他",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "栗原市",
+  "location": "宮城県栗原市若柳有賀（御賀八幡神社）"
+ }
+]

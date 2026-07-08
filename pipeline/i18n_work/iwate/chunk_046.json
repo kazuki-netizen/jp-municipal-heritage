@@ -1,0 +1,400 @@
+[
+ {
+  "jmh_id": "JMH-035220-0005",
+  "name": "典膳館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-12-15",
+  "municipality": "西和賀町",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-035220-0012",
+  "name": "高下一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1969-12-15",
+  "municipality": "西和賀町",
+  "location": "川舟"
+ },
+ {
+  "jmh_id": "JMH-035220-0017",
+  "name": "草木供養絲",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-07-01",
+  "municipality": "西和賀町",
+  "location": "七内"
+ },
+ {
+  "jmh_id": "JMH-035220-0025",
+  "name": "八幡館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-06-15",
+  "municipality": "西和賀町",
+  "location": "太田"
+ },
+ {
+  "jmh_id": "JMH-035220-0013",
+  "name": "芳ヶ沢一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1976-04-01",
+  "municipality": "西和賀町",
+  "location": "芳ヶ沢"
+ },
+ {
+  "jmh_id": "JMH-035220-0026",
+  "name": "坪山一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1992-01-01",
+  "municipality": "西和賀町",
+  "location": "礒"
+ },
+ {
+  "jmh_id": "JMH-035220-0006",
+  "name": "大銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1969-12-15",
+  "municipality": "西和賀町",
+  "location": "太田"
+ },
+ {
+  "jmh_id": "JMH-035220-0008",
+  "name": "柏樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1969-12-15",
+  "municipality": "西和賀町",
+  "location": "貝沢"
+ },
+ {
+  "jmh_id": "JMH-035220-0016",
+  "name": "ミズバショウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1980-07-01",
+  "municipality": "西和賀町",
+  "location": "蛭〜鍵沢"
+ },
+ {
+  "jmh_id": "JMH-035220-0020",
+  "name": "泉沢の一本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "西和賀町",
+  "location": "太田"
+ },
+ {
+  "jmh_id": "JMH-035220-0019",
+  "name": "沢内の雪つばき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "西和賀町",
+  "location": "太田"
+ },
+ {
+  "jmh_id": "JMH-035220-0028",
+  "name": "越中畑の山神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1997-07-17",
+  "municipality": "西和賀町",
+  "location": "越中畑"
+ },
+ {
+  "jmh_id": "JMH-035220-0027",
+  "name": "左草のナツツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1997-07-17",
+  "municipality": "西和賀町",
+  "location": "左草"
+ },
+ {
+  "jmh_id": "JMH-035220-0029",
+  "name": "シダレザクラ（新町）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2001-02-27",
+  "municipality": "西和賀町",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-035220-0030",
+  "name": "シダレザクラ（鍵沢）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2001-02-27",
+  "municipality": "西和賀町",
+  "location": "新町"
+ },
+ {
+  "jmh_id": "JMH-035220-0031",
+  "name": "川前断層",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2001-02-27",
+  "municipality": "西和賀町",
+  "location": "若坂〜川屋"
+ },
+ {
+  "jmh_id": "JMH-035220-0032",
+  "name": "峰桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2003-07-25",
+  "municipality": "西和賀町",
+  "location": "貝沢"
+ },
+ {
+  "jmh_id": "JMH-035220-0004",
+  "name": "二ツ島",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1969-12-15",
+  "municipality": "西和賀町",
+  "location": "栃橋"
+ },
+ {
+  "jmh_id": "JMH-035220-0003",
+  "name": "七ツ釜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1969-12-15",
+  "municipality": "西和賀町",
+  "location": "飯豊"
+ },
+ {
+  "jmh_id": "JMH-033812-0002",
+  "name": "片平丁・旧大沼家侍住宅",
+  "category": "有形文化財",
+  "subcategory": "町指定文化財（侍住宅・建造物）",
+  "designation": "町指定",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町城内諏訪小路（伝統的建造物群保存地区内）"
+ },
+ {
+  "jmh_id": "JMH-033812-0001",
+  "name": "土合丁・旧大沼家侍住宅",
+  "category": "有形文化財",
+  "subcategory": "町指定文化財（侍住宅・建造物）",
+  "designation": "町指定",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町城内諏訪小路（伝統的建造物群保存地区内）"
+ },
+ {
+  "jmh_id": "JMH-033812-0025",
+  "name": "四脚門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "西根"
+ },
+ {
+  "jmh_id": "JMH-033812-0028",
+  "name": "奉来菩薩供養碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永沢"
+ },
+ {
+  "jmh_id": "JMH-033812-0039",
+  "name": "土合丁・旧大沼家侍住宅（馬屋）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2002-07-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町城内（西根）"
+ },
+ {
+  "jmh_id": "JMH-033812-0041",
+  "name": "土合丁・旧大沼家侍住宅（土合丁）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2009-12-16",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町城内（西根）"
+ },
+ {
+  "jmh_id": "JMH-033812-0024",
+  "name": "伝聖観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永沢"
+ },
+ {
+  "jmh_id": "JMH-033812-0034",
+  "name": "聖観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永沢"
+ },
+ {
+  "jmh_id": "JMH-033812-0029",
+  "name": "文殊菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0030",
+  "name": "普賢菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0036",
+  "name": "達磨大使坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0026",
+  "name": "大権修理菩薩倚像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0035",
+  "name": "道元遺愛禅師坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0033",
+  "name": "瑩山紹瑾禅師坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-08-30",
+  "municipality": "金ケ崎町",
+  "location": "永栄"
+ },
+ {
+  "jmh_id": "JMH-033812-0046",
+  "name": "中西流細野念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1969-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0004",
+  "name": "川日鬼剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1969-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0006",
+  "name": "表林念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1969-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0007",
+  "name": "長志田念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1969-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0005",
+  "name": "百岡毘沙門神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1969-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0047",
+  "name": "二ケ尻神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1969-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ },
+ {
+  "jmh_id": "JMH-033812-0003",
+  "name": "二ケ尻蔵敷田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1969-11-01",
+  "municipality": "金ケ崎町",
+  "location": "金ケ崎町"
+ }
+]

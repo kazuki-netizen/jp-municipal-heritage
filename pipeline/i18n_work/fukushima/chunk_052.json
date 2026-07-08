@@ -1,0 +1,353 @@
+[
+ {
+  "jmh_id": "JMH-073865-0019",
+  "name": "栄林寺の伏鉦",
+  "category": "その他",
+  "subcategory": "天栄村指定文化財",
+  "designation": "村指定",
+  "municipality": "天栄村"
+ },
+ {
+  "jmh_id": "JMH-073865-0020",
+  "name": "栄林寺の涅槃図",
+  "category": "その他",
+  "subcategory": "天栄村指定文化財",
+  "designation": "村指定",
+  "municipality": "天栄村"
+ },
+ {
+  "jmh_id": "JMH-073857-0001",
+  "name": "国神城館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1973-04-01",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0002",
+  "name": "下荒具古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1974-06-07",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0003",
+  "name": "三城目獅子舞・平鍬踊り",
+  "category": "無形文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1975-04-15",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0004",
+  "name": "谷中古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1976-04-15",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0005",
+  "name": "五本松の松並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1977-09-07",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0006",
+  "name": "原宿の熊野講",
+  "category": "無形文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1981-05-01",
+  "municipality": "矢吹町",
+  "location": "中畑"
+ },
+ {
+  "jmh_id": "JMH-073857-0008",
+  "name": "滝八幡三十三観音磨崖仏群",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1981-05-01",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0007",
+  "name": "大和久の天道念仏踊り",
+  "category": "無形文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1981-05-01",
+  "municipality": "矢吹町",
+  "location": "大和久、大和内"
+ },
+ {
+  "jmh_id": "JMH-073857-0010",
+  "name": "明新供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2004-05-07",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0011",
+  "name": "根宿天王祭太鼓",
+  "category": "無形文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2004-05-07",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0009",
+  "name": "寺内阿弥陀堂供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2004-05-07",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0012",
+  "name": "正福寺本堂 格子天井絵84枚",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2004-05-07",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073857-0013",
+  "name": "阿弥陀湯供養塔三基",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2004-05-07",
+  "municipality": "矢吹町",
+  "location": "堰の上"
+ },
+ {
+  "jmh_id": "JMH-073857-0014",
+  "name": "旧水戸街道常夜燈一基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2013-02-15",
+  "municipality": "矢吹町"
+ },
+ {
+  "jmh_id": "JMH-073245-0002",
+  "name": "龍蔵庵舩木家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1985-10-16",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0001",
+  "name": "木造聖徳太子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1985-10-16",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0004",
+  "name": "石造小柳津悲母観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1986-10-17",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0003",
+  "name": "田代観音山三十三観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1986-01-01",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0005",
+  "name": "孫太郎松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1987-10-25",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0007",
+  "name": "中野竹子筆紙本掛軸",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "町指定",
+  "designated_date": "1987-12-20",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0006",
+  "name": "中野優子愛用漆塗樫棒",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1987-12-20",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0008",
+  "name": "木造閻魔大王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1987-12-23",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0009",
+  "name": "木造不動明王尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1988-01-01",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0010",
+  "name": "木造文殊菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1988-01-01",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0011",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1998-04-01",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0012",
+  "name": "石生前遺跡出土品(硬玉製の玉)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1998-04-01",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0013",
+  "name": "頼三樹三郎の真蹟",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "町指定",
+  "designated_date": "2001-07-24",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073245-0014",
+  "name": "奥会津・柳津町の保存食",
+  "category": "無形文化財",
+  "subcategory": "無形",
+  "designation": "町指定",
+  "designated_date": "2024-10-01",
+  "municipality": "柳津町"
+ },
+ {
+  "jmh_id": "JMH-073229-0014",
+  "name": "木造徳一菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0015",
+  "name": "木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0013",
+  "name": "木造千手観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0017",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0019",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0008",
+  "name": "大日如来坐像および両脇侍像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0024",
+  "name": "絹本着色両界曼茶羅図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0023",
+  "name": "紙本着色真言八祖像掛軸",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0022",
+  "name": "紙本着色十二天画像掛軸",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ },
+ {
+  "jmh_id": "JMH-073229-0002",
+  "name": "伝笈塚",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "村指定",
+  "municipality": "湯川村"
+ }
+]

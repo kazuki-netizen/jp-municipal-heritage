@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-024538-0033",
+  "name": "石亀神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "1990-05-01",
+  "municipality": "田子町"
+ },
+ {
+  "jmh_id": "JMH-022063-0002",
+  "name": "法心和尚像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1965-03-30",
+  "municipality": "十和田市",
+  "location": "十和田市大字洞内字前田"
+ },
+ {
+  "jmh_id": "JMH-022063-0004",
+  "name": "道無和尚像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1965-03-30",
+  "municipality": "十和田市",
+  "location": "十和田市大字洞内字前田"
+ },
+ {
+  "jmh_id": "JMH-022063-0001",
+  "name": "伽羅聖観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1965-03-30",
+  "municipality": "十和田市",
+  "location": "十和田市大字洞内字前田"
+ },
+ {
+  "jmh_id": "JMH-022063-0003",
+  "name": "法心塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1965-03-30",
+  "municipality": "十和田市",
+  "location": "十和田市大字洞内字沼田野"
+ },
+ {
+  "jmh_id": "JMH-022063-0008",
+  "name": "新山神社の記録及び修験道の古記録類",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1968-04-03",
+  "municipality": "十和田市",
+  "location": "十和田市大字赤沼字下平"
+ },
+ {
+  "jmh_id": "JMH-022063-0012",
+  "name": "一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-01-31",
+  "municipality": "十和田市",
+  "location": "十和田市大字相坂字白上"
+ },
+ {
+  "jmh_id": "JMH-022063-0014",
+  "name": "新渡戸記念館収蔵品及び新渡戸家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1981-04-24",
+  "municipality": "十和田市",
+  "location": "十和田市東三番町"
+ },
+ {
+  "jmh_id": "JMH-022063-0018",
+  "name": "板石塔婆",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1990-08-23",
+  "municipality": "十和田市",
+  "location": "十和田市大字大不動字柏木"
+ },
+ {
+  "jmh_id": "JMH-022063-0016",
+  "name": "六十六部日本廻国巡礼納経札",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1990-08-23",
+  "municipality": "十和田市",
+  "location": "十和田市大字伝法寺字平窪"
+ },
+ {
+  "jmh_id": "JMH-022063-0017",
+  "name": "山神の石碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1990-08-23",
+  "municipality": "十和田市",
+  "location": "十和田市大字三本木字倉出"
+ },
+ {
+  "jmh_id": "JMH-022063-0019",
+  "name": "金毘羅山の石碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1990-08-23",
+  "municipality": "十和田市",
+  "location": "十和田市大字三本木字倉出"
+ },
+ {
+  "jmh_id": "JMH-022063-0024",
+  "name": "寛文三本木村絵図",
+  "category": "有形文化財",
+  "subcategory": "絵図",
+  "designation": "市指定",
+  "designated_date": "1998-06-19",
+  "municipality": "十和田市",
+  "location": "十和田市元町西一丁目"
+ },
+ {
+  "jmh_id": "JMH-022063-0025",
+  "name": "三本木原実測図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1999-08-23",
+  "municipality": "十和田市",
+  "location": "十和田市東二十一番町"
+ },
+ {
+  "jmh_id": "JMH-022063-0030",
+  "name": "日本廻国納経供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2014-11-28",
+  "municipality": "十和田市",
+  "location": "十和田市大字深持"
+ },
+ {
+  "jmh_id": "JMH-022063-0029",
+  "name": "廻国奉納経帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2014-11-28",
+  "municipality": "十和田市",
+  "location": "十和田市大字奥瀬"
+ },
+ {
+  "jmh_id": "JMH-022063-0007",
+  "name": "南部駒踊（南部駒踊米田保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1965-10-08",
+  "municipality": "十和田市",
+  "location": "十和田市大字米田"
+ },
+ {
+  "jmh_id": "JMH-022063-0005",
+  "name": "南部駒踊（南部駒踊滝沢保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1965-10-08",
+  "municipality": "十和田市",
+  "location": "十和田市大字滝沢"
+ },
+ {
+  "jmh_id": "JMH-022063-0006",
+  "name": "南部駒踊（南部駒踊立崎保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1965-10-08",
+  "municipality": "十和田市",
+  "location": "十和田市大字立崎"
+ },
+ {
+  "jmh_id": "JMH-022063-0010",
+  "name": "藤島獅子舞（藤島獅子舞保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1971-12-13",
+  "municipality": "十和田市",
+  "location": "十和田市大字藤島"
+ },
+ {
+  "jmh_id": "JMH-022063-0009",
+  "name": "南部駒踊（南部駒踊相坂若駒会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1971-12-13",
+  "municipality": "十和田市",
+  "location": "十和田市大字相坂"
+ },
+ {
+  "jmh_id": "JMH-022063-0013",
+  "name": "南部洞内神楽（洞内南部神楽保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1980-01-31",
+  "municipality": "十和田市",
+  "location": "十和田市大字洞内"
+ },
+ {
+  "jmh_id": "JMH-022063-0021",
+  "name": "沢田鶏舞（沢田鶏舞保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1993-07-05",
+  "municipality": "十和田市",
+  "location": "十和田市大字沢田"
+ },
+ {
+  "jmh_id": "JMH-022063-0020",
+  "name": "三日市神楽（三日市神楽保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1993-07-05",
+  "municipality": "十和田市",
+  "location": "十和田市大字沢田"
+ },
+ {
+  "jmh_id": "JMH-022063-0022",
+  "name": "六日町鶏舞（六日町鶏舞保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1995-03-22",
+  "municipality": "十和田市",
+  "location": "十和田市大字相坂"
+ },
+ {
+  "jmh_id": "JMH-022063-0023",
+  "name": "南部駒踊（南部駒踊上舘保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "1995-03-22",
+  "municipality": "十和田市",
+  "location": "十和田市大字切田"
+ },
+ {
+  "jmh_id": "JMH-022063-0028",
+  "name": "晴山獅子舞（晴山獅子舞保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "2004-10-19",
+  "municipality": "十和田市",
+  "location": "十和田市大字深持"
+ },
+ {
+  "jmh_id": "JMH-022063-0026",
+  "name": "南部深持神楽（南部深持神楽保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "2004-10-19",
+  "municipality": "十和田市",
+  "location": "十和田市大字深持"
+ },
+ {
+  "jmh_id": "JMH-022063-0027",
+  "name": "大不動鶏舞（大不動鶏舞保存会）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "市指定",
+  "designated_date": "2004-10-19",
+  "municipality": "十和田市",
+  "location": "十和田市大字大不動"
+ },
+ {
+  "jmh_id": "JMH-022063-0031",
+  "name": "板ノ沢のカヤ人形作り",
+  "category": "民俗文化財",
+  "subcategory": "民俗慣習",
+  "designation": "市指定",
+  "designated_date": "2014-11-28",
+  "municipality": "十和田市",
+  "location": "十和田市大字深持"
+ },
+ {
+  "jmh_id": "JMH-022063-0011",
+  "name": "いちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-01-31",
+  "municipality": "十和田市",
+  "location": "十和田市大字大不動字八幡"
+ },
+ {
+  "jmh_id": "JMH-022063-0015",
+  "name": "赤松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-04-24",
+  "municipality": "十和田市",
+  "location": "十和田市大字大不動字柏木"
+ },
+ {
+  "jmh_id": "JMH-022098-0006",
+  "name": "千代の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-04-04",
+  "municipality": "つがる市",
+  "location": "木造千代町101‐3"
+ },
+ {
+  "jmh_id": "JMH-022098-0005",
+  "name": "公孫樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-04-04",
+  "municipality": "つがる市",
+  "location": "木造千代町99‐1 (銀杏ヶ丘公園)"
+ },
+ {
+  "jmh_id": "JMH-022098-0007",
+  "name": "書蹟掛軸",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1985-04-04",
+  "municipality": "つがる市",
+  "location": "木造千代町82"
+ },
+ {
+  "jmh_id": "JMH-022098-0008",
+  "name": "扁額",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1987-03-05",
+  "municipality": "つがる市",
+  "location": "木造日向62‐1"
+ },
+ {
+  "jmh_id": "JMH-022098-0009",
+  "name": "旧制木造中学校講堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-05-08",
+  "municipality": "つがる市",
+  "location": "木造若緑52"
+ },
+ {
+  "jmh_id": "JMH-022098-0001",
+  "name": "「藤の木」三本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1978-12-18",
+  "municipality": "つがる市",
+  "location": "森田町上相野若鷺70"
+ },
+ {
+  "jmh_id": "JMH-022098-0013",
+  "name": "増田家住宅母屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-06-17",
+  "municipality": "つがる市",
+  "location": "森田町床舞稚桜4 (道の駅「もりた」内)"
+ },
+ {
+  "jmh_id": "JMH-022098-0002",
+  "name": "久米川遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "つがる市",
+  "location": "稲垣町沼崎幾米川"
+ }
+]

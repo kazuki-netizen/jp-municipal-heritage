@@ -1,0 +1,374 @@
+[
+ {
+  "jmh_id": "JMH-052019-0001",
+  "name": "石造り五重塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-04-09",
+  "municipality": "秋田市",
+  "location": "八橋本町六丁目"
+ },
+ {
+  "jmh_id": "JMH-052019-0093",
+  "name": "新波神社本殿の腰組み細工基礎建築",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-09-06",
+  "municipality": "秋田市",
+  "location": "雄和新波字樋口"
+ },
+ {
+  "jmh_id": "JMH-052019-0099",
+  "name": "御物頭御番所",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-04-10",
+  "municipality": "秋田市",
+  "location": "千秋公園"
+ },
+ {
+  "jmh_id": "JMH-052019-0100",
+  "name": "秋田聖救主教会聖堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-04-10",
+  "municipality": "秋田市",
+  "location": "保戸野中町"
+ },
+ {
+  "jmh_id": "JMH-052019-0108",
+  "name": "補陀寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-03-04",
+  "municipality": "秋田市",
+  "location": "山内字田中"
+ },
+ {
+  "jmh_id": "JMH-052019-0114",
+  "name": "旧金子家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-10-22",
+  "municipality": "秋田市",
+  "location": "大町一丁目"
+ },
+ {
+  "jmh_id": "JMH-052019-0122",
+  "name": "補陀寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-03-02",
+  "municipality": "秋田市",
+  "location": "山内字田中"
+ },
+ {
+  "jmh_id": "JMH-052019-0140",
+  "name": "藤倉神社宮殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2011-03-03",
+  "municipality": "秋田市",
+  "location": "山内字藤倉"
+ },
+ {
+  "jmh_id": "JMH-052019-0007",
+  "name": "阿弥陀二十五菩薩来迎図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1963-02-26",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0010",
+  "name": "十三仏絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1964-04-03",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0016",
+  "name": "来迎阿弥陀如来図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-04-12",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0031",
+  "name": "聖観世音菩薩像佐竹義和筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-03-26",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0047",
+  "name": "絹本着色涅槃図狩野定信筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0043",
+  "name": "紙本淡彩寒山拾得",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0058",
+  "name": "佐竹義和筆「水墨山水」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1971-04-04",
+  "municipality": "秋田市",
+  "location": "千秋公園 佐竹史料館"
+ },
+ {
+  "jmh_id": "JMH-052019-0067",
+  "name": "紙本水墨達磨像佐竹義敦筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-01-05",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0069",
+  "name": "佐竹義文筆「双鹿」と「鷹と鷲」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-04-26",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0078",
+  "name": "武蔵野屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-03-14",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0074",
+  "name": "古代物語屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-03-14",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0127",
+  "name": "絹本着色花鳥図佐々木原善筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2003-03-18",
+  "municipality": "秋田市",
+  "location": "中通二丁目 千秋美術館"
+ },
+ {
+  "jmh_id": "JMH-052019-0136",
+  "name": "親鸞聖人絵伝",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0137",
+  "name": "絹本着色猟夫平福百穂筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2009-02-26",
+  "municipality": "秋田市",
+  "location": "中通二丁目 千秋美術館"
+ },
+ {
+  "jmh_id": "JMH-052019-0142",
+  "name": "絹本着色岩に秋海棠と蛙図小田野直武筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2012-03-01",
+  "municipality": "秋田市",
+  "location": "中通二丁目 千秋美術館"
+ },
+ {
+  "jmh_id": "JMH-052019-0004",
+  "name": "銅造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-04-09",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0002",
+  "name": "能・狂言面",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-04-09",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0005",
+  "name": "木造文殊菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1963-02-26",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0027",
+  "name": "銅造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-03-30",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0040",
+  "name": "木造釈迦如来座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0041",
+  "name": "木造阿難尊者立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0039",
+  "name": "木造迦葉尊者立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0053",
+  "name": "木造虚空蔵菩薩座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-03-17",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0051",
+  "name": "木造不動明王座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-03-17",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0052",
+  "name": "木造弘法大師座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-03-17",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0061",
+  "name": "北辰妙見像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-04-04",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0059",
+  "name": "僧形八幡",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-04-04",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0065",
+  "name": "木造観音菩薩座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-01-05",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0079",
+  "name": "新波神社の力士",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1975-09-25",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0080",
+  "name": "新波神社の竜",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1975-09-25",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0116",
+  "name": "天徳寺仁王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1998-03-20",
+  "municipality": "秋田市"
+ },
+ {
+  "jmh_id": "JMH-052019-0128",
+  "name": "不動明王三尊立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2004-03-26",
+  "municipality": "秋田市"
+ }
+]

@@ -1,0 +1,358 @@
+[
+ {
+  "jmh_id": "JMH-012173-0002",
+  "name": "坊主山遺跡出土江別式土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "江別市"
+ },
+ {
+  "jmh_id": "JMH-012173-0005",
+  "name": "旧岡田倉庫",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "江別市"
+ },
+ {
+  "jmh_id": "JMH-012149-0019",
+  "name": "釣鐘（1基）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "宗谷"
+ },
+ {
+  "jmh_id": "JMH-012149-0017",
+  "name": "木製懸額（1基）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "宗谷"
+ },
+ {
+  "jmh_id": "JMH-012149-0001",
+  "name": "しょうご（1基）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "宗谷"
+ },
+ {
+  "jmh_id": "JMH-012149-0007",
+  "name": "古文書（5冊）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "宗谷"
+ },
+ {
+  "jmh_id": "JMH-012149-0002",
+  "name": "オンコロマナイ2遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "清浜"
+ },
+ {
+  "jmh_id": "JMH-012149-0010",
+  "name": "富磯貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "富磯"
+ },
+ {
+  "jmh_id": "JMH-012149-0003",
+  "name": "シュプントー遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "声問"
+ },
+ {
+  "jmh_id": "JMH-012149-0012",
+  "name": "恵北1遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "下声問"
+ },
+ {
+  "jmh_id": "JMH-012149-0013",
+  "name": "抜海岩陰遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "抜海"
+ },
+ {
+  "jmh_id": "JMH-012149-0011",
+  "name": "弁天1･2号チャシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "港2･3丁目"
+ },
+ {
+  "jmh_id": "JMH-012149-0004",
+  "name": "ピリカタイチャシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "清浜"
+ },
+ {
+  "jmh_id": "JMH-012149-0008",
+  "name": "大岬旧海軍望楼",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "宗谷岬"
+ },
+ {
+  "jmh_id": "JMH-012149-0014",
+  "name": "文化寛政の頃の宗谷絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "宗谷"
+ },
+ {
+  "jmh_id": "JMH-012149-0006",
+  "name": "内藤源助愛刀の鍔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "北方記念館"
+ },
+ {
+  "jmh_id": "JMH-012149-0018",
+  "name": "目梨高山植物群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "目梨"
+ },
+ {
+  "jmh_id": "JMH-012149-0005",
+  "name": "メクマミズナラ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "増幌"
+ },
+ {
+  "jmh_id": "JMH-012149-0009",
+  "name": "宗谷厳島神社（1社）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "宗谷"
+ },
+ {
+  "jmh_id": "JMH-012149-0015",
+  "name": "旧海軍大湊通信隊稚内分遣隊幕別送信所（B棟）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "恵北"
+ },
+ {
+  "jmh_id": "JMH-012149-0016",
+  "name": "旧海軍大湊通信隊稚内分遣隊幕別送信所（C棟）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "稚内市",
+  "location": "恵北"
+ },
+ {
+  "jmh_id": "JMH-013374-0001",
+  "name": "迫田家文書",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1984-11-07",
+  "municipality": "七飯町"
+ },
+ {
+  "jmh_id": "JMH-013374-0002",
+  "name": "飯田甚兵衛の地蔵",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1991-09-03",
+  "municipality": "七飯町"
+ },
+ {
+  "jmh_id": "JMH-013374-0003",
+  "name": "官私山林区別絵図",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2005-05-13",
+  "municipality": "七飯町"
+ },
+ {
+  "jmh_id": "JMH-013374-0004",
+  "name": "峠下村絵図",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2013-01-15",
+  "municipality": "七飯町"
+ },
+ {
+  "jmh_id": "JMH-012084-0008",
+  "name": "屯田兵屋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市公園町1番地北網圏北見文化センター"
+ },
+ {
+  "jmh_id": "JMH-012084-0007",
+  "name": "屯田兵人形",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市川東412番地信善光寺"
+ },
+ {
+  "jmh_id": "JMH-012084-0003",
+  "name": "ピーボディ・マルチニー銃",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市公園町1番地北網圏北見文化センター"
+ },
+ {
+  "jmh_id": "JMH-012084-0009",
+  "name": "広郷遺跡の出土遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市公園町1番地北網圏北見文化センター"
+ },
+ {
+  "jmh_id": "JMH-012084-0004",
+  "name": "中ノ島遺跡の出土遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市公園町1番地北網圏北見文化センター"
+ },
+ {
+  "jmh_id": "JMH-012084-0006",
+  "name": "北進遺跡の出土遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市公園町1番地北網圏北見文化センター"
+ },
+ {
+  "jmh_id": "JMH-012084-0013",
+  "name": "鎖塚の区域",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市端野町緋牛内842番地8"
+ },
+ {
+  "jmh_id": "JMH-012084-0010",
+  "name": "旧野付牛屯田第四大隊第一中隊本部被服糧秣庫",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市端野町一区649番地8"
+ },
+ {
+  "jmh_id": "JMH-012084-0012",
+  "name": "緋牛内の大カシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市端野町緋牛内780番地8"
+ },
+ {
+  "jmh_id": "JMH-012084-0002",
+  "name": "ピアソン記念館",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市幸町7丁目4番28号"
+ },
+ {
+  "jmh_id": "JMH-012084-0005",
+  "name": "北見ハッカ記念館",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市南仲町1丁目7番28号"
+ },
+ {
+  "jmh_id": "JMH-012084-0011",
+  "name": "武華駅逓",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市留辺蘂町滝の湯127番地"
+ },
+ {
+  "jmh_id": "JMH-012084-0001",
+  "name": "カタクリ及び周囲の北方性落葉広葉樹林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "北見市",
+  "location": "北見市端野町"
+ },
+ {
+  "jmh_id": "JMH-014605-0001",
+  "name": "東中尋常高等小学校御真影奉置所",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1973-06-15",
+  "municipality": "上富良野町",
+  "location": "上富良野町東８線北18号"
+ },
+ {
+  "jmh_id": "JMH-014605-0002",
+  "name": "憩いの楡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-02-26",
+  "municipality": "上富良野町",
+  "location": "上富良野町西３線北29号"
+ }
+]

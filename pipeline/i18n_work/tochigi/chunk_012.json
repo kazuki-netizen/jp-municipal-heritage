@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-092053-0095",
+  "name": "玉田囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-05-23",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0105",
+  "name": "鹿沼鳶木遣り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1999-03-31",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0109",
+  "name": "生子神社の日の出祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-11-28",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0027",
+  "name": "尾出山神社関白流獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-05-01",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0031",
+  "name": "賀蘇山神社関白流獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-05-01",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0032",
+  "name": "賀蘇山神社関白流獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-05-01",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0026",
+  "name": "小松神社天下弌関白流獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-05-01",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0044",
+  "name": "日渡路かんだ踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-03-11",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0111",
+  "name": "録事尊の村廻り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2002-01-16",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0115",
+  "name": "玉田囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2007-10-31",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0002",
+  "name": "判官塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-12-12",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0058",
+  "name": "粟野城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-10-10",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0073",
+  "name": "戸木内遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-02-17",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0096",
+  "name": "通順坊平巴の宿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1996-08-19",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0129",
+  "name": "北赤塚一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2020-04-23",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0063",
+  "name": "磯山神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1984-02-14",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0061",
+  "name": "加蘇山神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1984-02-14",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0110",
+  "name": "小川山の六本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2001-05-30",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0028",
+  "name": "日光神社社木豊年杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-05-01",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0025",
+  "name": "叶台カヤの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-05-01",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0029",
+  "name": "横根山井戸湿原",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-05-01",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0059",
+  "name": "賀蘇山神社大杉切株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-10-10",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0057",
+  "name": "浅間神社鍾乳洞",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-10-10",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0117",
+  "name": "横根山の岩海",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2011-01-19",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0120",
+  "name": "尾出山神社のモミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2012-04-26",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0123",
+  "name": "津田小学校のモクゲンジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2017-04-27",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-092053-0132",
+  "name": "深津のザゼンソウ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2021-01-21",
+  "municipality": "鹿沼市"
+ },
+ {
+  "jmh_id": "JMH-093424-0059",
+  "name": "赤松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0053",
+  "name": "芦沼獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0024",
+  "name": "安善寺境内",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0025",
+  "name": "安善寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0040",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0050",
+  "name": "糸桧葉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "大羽〔東部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0030",
+  "name": "岩下製陶（太平窯）登窯",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0015",
+  "name": "内町彫刻屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0042",
+  "name": "梅（光明寺）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0041",
+  "name": "梅（個人蔵）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0019",
+  "name": "大郷戸廃寺跡五輪塔群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0027",
+  "name": "小宅家文書",
+  "category": "有形文化財",
+  "subcategory": "書籍",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0044",
+  "name": "歌舞伎舞台背景襖絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ }
+]

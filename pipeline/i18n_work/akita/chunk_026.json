@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-055050-0025",
+  "name": "地蔵院のシナノキ（１本）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天 然 記念物",
+  "designation": "町指定",
+  "designated_date": "2002-08-02",
+  "municipality": "羽後町",
+  "location": "中仙道字小森出25"
+ },
+ {
+  "jmh_id": "JMH-055050-0026",
+  "name": "大久保のキハダ（１本）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天 然 記念物",
+  "designation": "町指定",
+  "designated_date": "2002-08-02",
+  "municipality": "羽後町",
+  "location": "大久保字家妻136"
+ },
+ {
+  "jmh_id": "JMH-055050-0024",
+  "name": "元城のケンポナシ（１本）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天 然 記念物",
+  "designation": "町指定",
+  "designated_date": "2002-08-02",
+  "municipality": "羽後町",
+  "location": "西馬音内堀回字 元城下42-1"
+ },
+ {
+  "jmh_id": "JMH-055050-0030",
+  "name": "ウゴイルカのタイプ標本化石（１点）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天 然 記念物",
+  "designation": "町指定",
+  "designated_date": "2024-03-04",
+  "municipality": "羽後町",
+  "location": "羽後町歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0001",
+  "name": "大屋の梅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-08-15",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0002",
+  "name": "旭岡山神社の七本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "横手市",
+  "location": "横手地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0003",
+  "name": "二井山神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1975-10-13",
+  "municipality": "横手市",
+  "location": "雄物川地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0009",
+  "name": "波宇志別神社 仁王門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0010",
+  "name": "釣瓶山八幡神社 本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0005",
+  "name": "八沢木番所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0008",
+  "name": "板井田の左門塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0004",
+  "name": "八沢木の百人塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0011",
+  "name": "銀杏の木台の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0006",
+  "name": "十二ノ木のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0007",
+  "name": "岩清水の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-03-31",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0012",
+  "name": "深井焼 徳利・中皿・花瓶",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-09-21",
+  "municipality": "横手市",
+  "location": "雄物川郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0013",
+  "name": "深井焼 碗",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-09-21",
+  "municipality": "横手市",
+  "location": "雄物川郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-052035-0014",
+  "name": "岡本新内",
+  "category": "無形文化財",
+  "subcategory": "無 形",
+  "designation": "市指定",
+  "designated_date": "1978-08-21",
+  "municipality": "横手市",
+  "location": "雄物川地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0015",
+  "name": "善福寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0022",
+  "name": "香最寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0020",
+  "name": "深間内神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0016",
+  "name": "大保中台遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0018",
+  "name": "浅舞の古八幡跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0019",
+  "name": "浅舞の小野塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0017",
+  "name": "小野寺友光墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0021",
+  "name": "白藤神社の姥杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-05-23",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0025",
+  "name": "六盃沢の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1980-02-05",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0027",
+  "name": "梨ノ木塚遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1980-02-05",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0023",
+  "name": "亀田の久蔵碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1980-02-05",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0029",
+  "name": "黒坂兵右衛門碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1980-02-05",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0026",
+  "name": "月山碑（御鷹の碑）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1980-02-05",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0024",
+  "name": "二本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-02-05",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0028",
+  "name": "西百目木のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-02-05",
+  "municipality": "横手市",
+  "location": "大森地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0030",
+  "name": "浅舞の御役屋門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-04-01",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0031",
+  "name": "琴棋書画 佐野江洋筆 六曲屏風",
+  "category": "有形文化財",
+  "subcategory": "絵 画",
+  "designation": "市指定",
+  "designated_date": "1981-04-01",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0032",
+  "name": "一覚・行正・喜覚の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史 跡",
+  "designation": "市指定",
+  "designated_date": "1982-01-14",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0033",
+  "name": "亀田のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-01-14",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0035",
+  "name": "舟繋ぎのサイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-01-14",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0034",
+  "name": "増田のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-01-14",
+  "municipality": "横手市",
+  "location": "増田地域内"
+ },
+ {
+  "jmh_id": "JMH-052035-0036",
+  "name": "中山焼",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "横手市",
+  "location": "平鹿地域内"
+ }
+]

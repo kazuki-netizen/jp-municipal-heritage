@@ -1,0 +1,364 @@
+[
+ {
+  "jmh_id": "JMH-032158-0015",
+  "name": "大沢さんさ踊り",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2023-02-27",
+  "municipality": "滝沢市",
+  "location": "滝沢市大沢地区"
+ },
+ {
+  "jmh_id": "JMH-032158-0014",
+  "name": "カワシンジュガイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "2023-02-27",
+  "municipality": "滝沢市",
+  "location": "滝沢市内の河川"
+ },
+ {
+  "jmh_id": "JMH-034045-0003",
+  "name": "絵入道標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981-09-01",
+  "municipality": "山田町"
+ },
+ {
+  "jmh_id": "JMH-034045-0002",
+  "name": "六角塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981-09-01",
+  "municipality": "山田町"
+ },
+ {
+  "jmh_id": "JMH-034045-0001",
+  "name": "一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981-09-01",
+  "municipality": "山田町"
+ },
+ {
+  "jmh_id": "JMH-034045-0004",
+  "name": "宝壽剣",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1991-11-25",
+  "municipality": "山田町"
+ },
+ {
+  "jmh_id": "JMH-034045-0005",
+  "name": "大釜熊野山神社懸仏",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "2004-02-27",
+  "municipality": "山田町"
+ },
+ {
+  "jmh_id": "JMH-034045-0006",
+  "name": "島田熊野神社懸仏",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "2004-02-27",
+  "municipality": "山田町"
+ },
+ {
+  "jmh_id": "JMH-034045-0007",
+  "name": "牧庵鞭牛碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2006-04-01",
+  "municipality": "山田町"
+ },
+ {
+  "jmh_id": "JMH-034029-0003",
+  "name": "大念寺十一面観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1979-05-09",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0018",
+  "name": "鉄造如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1992-02-29",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0016",
+  "name": "台付浅鉢",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1990-03-27",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0006",
+  "name": "牧庵鞭牛橋供養碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1979-05-09",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0007",
+  "name": "癸卯飢渇亡者供養塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1979-05-09",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0005",
+  "name": "捨馬重科の制札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1979-05-09",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0002",
+  "name": "きりしたん禁止の制札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1979-05-09",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0004",
+  "name": "大槌村記録",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1979-05-09",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0011",
+  "name": "大道年号鍛冶絵巻",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0010",
+  "name": "大槌村御検地野帳之写",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0020",
+  "name": "前川善兵衛寄進石灯籠（上町）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1995-05-01",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0021",
+  "name": "前川善兵衛寄進石灯籠（安渡）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1995-05-01",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0019",
+  "name": "前川善兵衛寄進手水鉢",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1995-05-01",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0033",
+  "name": "前川家文書及び関係資料群",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2020-11-28",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0014",
+  "name": "田中館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0009",
+  "name": "前川善兵衛歴代の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0013",
+  "name": "御社地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0015",
+  "name": "金糞平の山桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0012",
+  "name": "宮洞の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0001",
+  "name": "小鎚神社の樅の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1929-02-29",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0028",
+  "name": "源水川の淡水型イトヨ及びその生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2007-02-26",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0029",
+  "name": "蓬莱島",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "2013-08-08",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0008",
+  "name": "オシラァさま",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1988-11-30",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0017",
+  "name": "大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1990-03-27",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0022",
+  "name": "吉里吉里虎舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0023",
+  "name": "安渡虎舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1999-08-27",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0025",
+  "name": "城内大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2006-09-25",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0024",
+  "name": "中須賀大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2006-09-25",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0026",
+  "name": "徳並鹿子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2006-09-25",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0027",
+  "name": "金澤鹿子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2006-09-25",
+  "municipality": "大槌町"
+ },
+ {
+  "jmh_id": "JMH-034029-0032",
+  "name": "臼澤鹿子踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2020-07-11",
+  "municipality": "大槌町"
+ }
+]

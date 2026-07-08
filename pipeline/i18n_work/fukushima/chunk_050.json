@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072095-0058",
+  "name": "牧野見渡神社の神楽獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "大越町牧野字堀ノ内"
+ },
+ {
+  "jmh_id": "JMH-072095-0051",
+  "name": "栗出の神楽獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "大越町栗出字宮ノ下"
+ },
+ {
+  "jmh_id": "JMH-072095-0050",
+  "name": "栗出の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "大越町栗出字宮ノ下"
+ },
+ {
+  "jmh_id": "JMH-072095-0031",
+  "name": "戸ノ内の神楽獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "大越町下大越字戸ノ内"
+ },
+ {
+  "jmh_id": "JMH-072095-0028",
+  "name": "岩井沢の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町岩井沢字平内地"
+ },
+ {
+  "jmh_id": "JMH-072095-0027",
+  "name": "山根の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町常葉字宮ノ前"
+ },
+ {
+  "jmh_id": "JMH-072095-0020",
+  "name": "子松の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町常葉字中町"
+ },
+ {
+  "jmh_id": "JMH-072095-0015",
+  "name": "大鏑矢神社の夫婦獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町東部台６丁目"
+ },
+ {
+  "jmh_id": "JMH-072095-0062",
+  "name": "石森の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町石森字屋戸"
+ },
+ {
+  "jmh_id": "JMH-072095-0067",
+  "name": "石沢の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町石沢字東宮久保"
+ },
+ {
+  "jmh_id": "JMH-072095-0007",
+  "name": "光大寺の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町芦沢字光大寺"
+ },
+ {
+  "jmh_id": "JMH-072095-0090",
+  "name": "芦沢の八つ頭獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町芦沢字上屋形"
+ },
+ {
+  "jmh_id": "JMH-072095-0009",
+  "name": "入水三十三観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町菅谷字大六"
+ },
+ {
+  "jmh_id": "JMH-072095-0066",
+  "name": "石橋遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町古道字山口"
+ },
+ {
+  "jmh_id": "JMH-072095-0029",
+  "name": "常盤城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町常葉字舘"
+ },
+ {
+  "jmh_id": "JMH-072095-0024",
+  "name": "安倍文殊菩薩堂参道の杉並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町文珠字上"
+ },
+ {
+  "jmh_id": "JMH-072095-0057",
+  "name": "片曽根三十三観音",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町片曽根山頂"
+ },
+ {
+  "jmh_id": "JMH-072095-0021",
+  "name": "宇佐神社の神木（スギ）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町広瀬字宮ノ前"
+ },
+ {
+  "jmh_id": "JMH-072095-0073",
+  "name": "精九郎壇と山毛欅(ブナ)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町神俣字大滝根"
+ },
+ {
+  "jmh_id": "JMH-072095-0001",
+  "name": "あぶくま洞",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町菅谷字東釜山"
+ },
+ {
+  "jmh_id": "JMH-072095-0096",
+  "name": "諏訪神社のあかぎと六郷清水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町広瀬字諏訪"
+ },
+ {
+  "jmh_id": "JMH-072095-0010",
+  "name": "剛叟寺の枝垂桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町神俣字一ノ坪"
+ },
+ {
+  "jmh_id": "JMH-072095-0030",
+  "name": "弁天ザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町菅谷字七曲"
+ },
+ {
+  "jmh_id": "JMH-072095-0016",
+  "name": "大雷神社の枝垂桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "滝根町神俣字木ノ下"
+ },
+ {
+  "jmh_id": "JMH-072095-0071",
+  "name": "社の杜（牧野見渡神社）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "大越町牧野字堀ノ内"
+ },
+ {
+  "jmh_id": "JMH-072095-0013",
+  "name": "大亀神社のアスナロ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町古道字舘腰"
+ },
+ {
+  "jmh_id": "JMH-072095-0095",
+  "name": "西戸観音堂の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町岩井沢字西戸"
+ },
+ {
+  "jmh_id": "JMH-072095-0094",
+  "name": "西戸の森（エノキ、モミ）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町岩井沢字西戸"
+ },
+ {
+  "jmh_id": "JMH-072095-0019",
+  "name": "天日鷲神社の五葉松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町岩井沢字平内地"
+ },
+ {
+  "jmh_id": "JMH-072095-0035",
+  "name": "旧古道小学校の笠松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町古道字北町"
+ },
+ {
+  "jmh_id": "JMH-072095-0100",
+  "name": "馬酔木沢の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町岩井沢字馬酔木沢"
+ },
+ {
+  "jmh_id": "JMH-072095-0005",
+  "name": "中作の種蒔き桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "都路町岩井沢字中作"
+ },
+ {
+  "jmh_id": "JMH-072095-0002",
+  "name": "お伊勢様の鐙摺石ザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町早稲川字一本松"
+ },
+ {
+  "jmh_id": "JMH-072095-0101",
+  "name": "鹿山神社の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町鹿山字早稲田"
+ },
+ {
+  "jmh_id": "JMH-072095-0018",
+  "name": "大黒天の大ザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町久保字栃久保"
+ },
+ {
+  "jmh_id": "JMH-072095-0034",
+  "name": "日鷲神社の男スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町堀田字新屋敷"
+ },
+ {
+  "jmh_id": "JMH-072095-0036",
+  "name": "早稲川舘ザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "常葉町常葉字早稲川舘"
+ },
+ {
+  "jmh_id": "JMH-072095-0098",
+  "name": "長法寺のかや",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町上移字町"
+ },
+ {
+  "jmh_id": "JMH-072095-0056",
+  "name": "熊野大権現堂の杉と藤",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2005-04-18",
+  "municipality": "田村市",
+  "location": "船引町芦沢字舘"
+ },
+ {
+  "jmh_id": "JMH-072095-0102",
+  "name": "制札及び芦沢花立制札場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財及び史跡",
+  "designation": "市指定",
+  "designated_date": "2006-07-10",
+  "municipality": "田村市",
+  "location": "船引町芦沢字花立前ほか"
+ }
+]

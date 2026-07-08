@@ -1,0 +1,397 @@
+[
+ {
+  "jmh_id": "JMH-063819-0007",
+  "name": "酬恩碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1980-03-03",
+  "municipality": "高畠町",
+  "location": "高畠町大字二井宿(小学校校庭内)"
+ },
+ {
+  "jmh_id": "JMH-063819-0008",
+  "name": "黒井渠碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1980-03-03",
+  "municipality": "高畠町",
+  "location": "高畠町大字福沢(喜多院内)"
+ },
+ {
+  "jmh_id": "JMH-063819-0010",
+  "name": "尼子岩陰",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1981-02-10",
+  "municipality": "高畠町",
+  "location": "高畠町大字二井宿字小湯"
+ },
+ {
+  "jmh_id": "JMH-063819-0013",
+  "name": "金原古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1981-02-10",
+  "municipality": "高畠町",
+  "location": "高畠町大字金原字中ノ目"
+ },
+ {
+  "jmh_id": "JMH-063819-0018",
+  "name": "観音岩",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1981-03-16",
+  "municipality": "高畠町",
+  "location": "高畠町大字二井宿字大洞"
+ },
+ {
+  "jmh_id": "JMH-063819-0017",
+  "name": "小湯山石神石仏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1981-03-16",
+  "municipality": "高畠町",
+  "location": "高畠町大字二井宿字東小湯"
+ },
+ {
+  "jmh_id": "JMH-063819-0019",
+  "name": "神立洞窟",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1981-06-05",
+  "municipality": "高畠町",
+  "location": "高畠町大字安久津字大神立"
+ },
+ {
+  "jmh_id": "JMH-063819-0025",
+  "name": "高畑城堀跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・史跡",
+  "designation": "町指定",
+  "designated_date": "1983-03-14",
+  "municipality": "高畠町",
+  "location": "高畠町大字高畠字荒小路"
+ },
+ {
+  "jmh_id": "JMH-063819-0020",
+  "name": "ミヤマツチトリモチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物・天然記念物",
+  "designation": "町指定",
+  "designated_date": "1983-03-14",
+  "municipality": "高畠町",
+  "location": "高畠町大字二井宿小湯"
+ },
+ {
+  "jmh_id": "JMH-063819-0002",
+  "name": "片中門造り萱葺民家",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・建造物",
+  "designation": "町指定",
+  "designated_date": "1972-05-24",
+  "municipality": "高畠町",
+  "location": "高畠町大字糠野目"
+ },
+ {
+  "jmh_id": "JMH-063819-0001",
+  "name": "五百羅漢像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "1972-05-24",
+  "municipality": "高畠町",
+  "location": "高畠町大字金原"
+ },
+ {
+  "jmh_id": "JMH-063819-0037",
+  "name": "貞泉寺本堂欄間および木鼻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・彫刻",
+  "designation": "町指定",
+  "designated_date": "2018-03-29",
+  "municipality": "高畠町",
+  "location": "高畠町大字高畠"
+ },
+ {
+  "jmh_id": "JMH-063819-0003",
+  "name": "四和田村夫食願",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "1979-08-01",
+  "municipality": "高畠町",
+  "location": "高畠町大字元和田"
+ },
+ {
+  "jmh_id": "JMH-063819-0009",
+  "name": "宝暦八年御評定請答留",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "1981-02-10",
+  "municipality": "高畠町",
+  "location": "高畠町大字高畠"
+ },
+ {
+  "jmh_id": "JMH-063819-0012",
+  "name": "相森村方文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "1981-02-10",
+  "municipality": "高畠町",
+  "location": "高畠町大字相森"
+ },
+ {
+  "jmh_id": "JMH-063819-0029",
+  "name": "新藤家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "1988-03-18",
+  "municipality": "高畠町",
+  "location": "高畠町大字安久津"
+ },
+ {
+  "jmh_id": "JMH-063819-0031",
+  "name": "還城楽草紙",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "1990-03-20",
+  "municipality": "高畠町",
+  "location": "高畠町大字安久津"
+ },
+ {
+  "jmh_id": "JMH-063819-0032",
+  "name": "安久津八幡神社文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "1992-10-22",
+  "municipality": "高畠町",
+  "location": "高畠町大字安久津"
+ },
+ {
+  "jmh_id": "JMH-063819-0036",
+  "name": "文禄三年露藤村検地帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・古文書",
+  "designation": "町指定",
+  "designated_date": "2000-08-25",
+  "municipality": "高畠町",
+  "location": "高畠町大字露藤"
+ },
+ {
+  "jmh_id": "JMH-063819-0006",
+  "name": "永仁七年磨崖板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1980-03-03",
+  "municipality": "高畠町",
+  "location": "高畠町大字高畠字羽山南麓"
+ },
+ {
+  "jmh_id": "JMH-063819-0011",
+  "name": "徳冶元年阿弥陀三尊板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1981-02-10",
+  "municipality": "高畠町",
+  "location": "高畠町大字夏茂字大道端"
+ },
+ {
+  "jmh_id": "JMH-063819-0014",
+  "name": "龕殿型阿弥陀三尊板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1981-02-10",
+  "municipality": "高畠町",
+  "location": "高畠町大字安久津字山ノ神"
+ },
+ {
+  "jmh_id": "JMH-063819-0015",
+  "name": "夏刈六面幢",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1981-03-16",
+  "municipality": "高畠町",
+  "location": "高畠町大字夏茂"
+ },
+ {
+  "jmh_id": "JMH-063819-0016",
+  "name": "小倉の石地蔵",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1981-03-16",
+  "municipality": "高畠町",
+  "location": "高畠町大字上和田下組字小倉"
+ },
+ {
+  "jmh_id": "JMH-063819-0022",
+  "name": "中和田阿弥陀堂六面幢",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-03-14",
+  "municipality": "高畠町",
+  "location": "高畠町大字元和田字馬場"
+ },
+ {
+  "jmh_id": "JMH-063819-0021",
+  "name": "下和田六角六面幢",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-03-14",
+  "municipality": "高畠町",
+  "location": "高畠町大字下和田字彦間"
+ },
+ {
+  "jmh_id": "JMH-063819-0024",
+  "name": "滝の下六面幢",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-03-14",
+  "municipality": "高畠町",
+  "location": "高畠町大字元和田字滝の下"
+ },
+ {
+  "jmh_id": "JMH-063819-0023",
+  "name": "文殊一の宮六面幢",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1983-03-14",
+  "municipality": "高畠町",
+  "location": "高畠町大字亀岡字小館山"
+ },
+ {
+  "jmh_id": "JMH-063819-0028",
+  "name": "宝永五年青面金剛磨崖仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "1988-03-18",
+  "municipality": "高畠町",
+  "location": "高畠町大字高畠"
+ },
+ {
+  "jmh_id": "JMH-063819-0035",
+  "name": "大永四年納経塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・考古資料",
+  "designation": "町指定",
+  "designated_date": "2000-08-25",
+  "municipality": "高畠町",
+  "location": "高畠町大字元和田元北和田"
+ },
+ {
+  "jmh_id": "JMH-063819-0027",
+  "name": "高畑城絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "1985-04-18",
+  "municipality": "高畠町",
+  "location": "高畠町大字高畠"
+ },
+ {
+  "jmh_id": "JMH-063819-0034",
+  "name": "大永の制札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "2000-08-25",
+  "municipality": "高畠町",
+  "location": "高畠町大字亀岡"
+ },
+ {
+  "jmh_id": "JMH-063819-0033",
+  "name": "亀岡文殊堂奉納詩歌百首",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "2000-08-25",
+  "municipality": "高畠町",
+  "location": "高畠町大字亀岡"
+ },
+ {
+  "jmh_id": "JMH-063819-0026",
+  "name": "屋代郷昔話",
+  "category": "有形文化財",
+  "subcategory": "有形文化財・歴史資料",
+  "designation": "町指定",
+  "designated_date": "1985-04-18",
+  "municipality": "高畠町",
+  "location": "高畠町大字露藤"
+ },
+ {
+  "jmh_id": "JMH-063819-0030",
+  "name": "石番小屋(イシバゴヤ)",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財・有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1988-03-18",
+  "municipality": "高畠町",
+  "location": "高畠町大字竹森"
+ },
+ {
+  "jmh_id": "JMH-062103-0016",
+  "name": "山口の大仏",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字山口"
+ },
+ {
+  "jmh_id": "JMH-062103-0051",
+  "name": "谷地中の石鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字川原子"
+ },
+ {
+  "jmh_id": "JMH-062103-0020",
+  "name": "愛宕神社社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字北目"
+ },
+ {
+  "jmh_id": "JMH-062103-0019",
+  "name": "愛宕神社石燈籠の竿柱",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字北目"
+ },
+ {
+  "jmh_id": "JMH-062103-0021",
+  "name": "慶長八年棟札及び寛文十二年棟札",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "天童市",
+  "location": "大字北目"
+ }
+]

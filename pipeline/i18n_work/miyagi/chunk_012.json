@@ -1,0 +1,400 @@
+[
+ {
+  "jmh_id": "JMH-043419-0011",
+  "name": "旗巻古戦場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "丸森町",
+  "location": "大内字青葉上"
+ },
+ {
+  "jmh_id": "JMH-043419-0003",
+  "name": "中島家廟所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "丸森町",
+  "location": "金山字鬼形"
+ },
+ {
+  "jmh_id": "JMH-044016-0003",
+  "name": "圓通院山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-10-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0002",
+  "name": "初原天神社厨子",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-10-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町初原字宮下 初原天神社"
+ },
+ {
+  "jmh_id": "JMH-044016-0005",
+  "name": "陽徳院山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-10-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0013",
+  "name": "圓通院本堂大悲亭",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1972-06-27",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0017",
+  "name": "水主町の民家",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1972-06-27",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0019",
+  "name": "解脱院",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1972-06-27",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0021",
+  "name": "三聖堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1978-07-15",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0084",
+  "name": "富山観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2009-08-03",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町手樽字三浦"
+ },
+ {
+  "jmh_id": "JMH-044016-0083",
+  "name": "富山仁王門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2009-08-03",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町手樽字三浦"
+ },
+ {
+  "jmh_id": "JMH-044016-0091",
+  "name": "観月楼（附 旅籠としての記録類）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2013-04-24",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内"
+ },
+ {
+  "jmh_id": "JMH-044016-0093",
+  "name": "富山大仰寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2015-02-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町手樽字三浦"
+ },
+ {
+  "jmh_id": "JMH-044016-0001",
+  "name": "松島真景図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1790-10-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 観瀾亭松島博物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0030",
+  "name": "伊達政宗像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0029",
+  "name": "伊達忠宗像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0036",
+  "name": "伊達綱宗像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0037",
+  "name": "伊達綱村像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0025",
+  "name": "伊達吉村像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0027",
+  "name": "伊達宗村像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0038",
+  "name": "伊達重村像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0033",
+  "name": "伊達斉村像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0026",
+  "name": "伊達周宗像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0032",
+  "name": "伊達斉宗像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0034",
+  "name": "伊達斉義像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0035",
+  "name": "伊達斉邦像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0065",
+  "name": "陽徳院田村氏像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0024",
+  "name": "伊達光宗像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0044",
+  "name": "天麟院五郎八姫像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0066",
+  "name": "雲居希膺像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0053",
+  "name": "洞水東初像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0041",
+  "name": "夢庵如幻像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0039",
+  "name": "出山釈迦・猪頭和尚・蜆子和尚",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0056",
+  "name": "白衣観音像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0059",
+  "name": "絵馬",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1990-04-06",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺宝物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0073",
+  "name": "大仰寺開山洞水禅師画像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1995-09-29",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町手樽字三浦 大仰寺"
+ },
+ {
+  "jmh_id": "JMH-044016-0070",
+  "name": "仙台領内絵図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1995-09-29",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 観瀾亭松島博物館"
+ },
+ {
+  "jmh_id": "JMH-044016-0004",
+  "name": "木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1970-10-01",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 瑞巌寺庫裏"
+ },
+ {
+  "jmh_id": "JMH-044016-0018",
+  "name": "聖観世音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1972-06-27",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 圓通院本堂"
+ },
+ {
+  "jmh_id": "JMH-044016-0020",
+  "name": "釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "町指定",
+  "designated_date": "1972-06-27",
+  "municipality": "松島町",
+  "location": "宮城県宮城郡松島町松島字町内 天麟院本堂"
+ }
+]

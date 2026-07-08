@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-093424-0001",
+  "name": "カヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0036",
+  "name": "旧濱田庄司の母屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0060",
+  "name": "金木犀",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0002",
+  "name": "クスノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0064",
+  "name": "鶏足寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0012",
+  "name": "元禄絵地図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0013",
+  "name": "光明寺薬師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0017",
+  "name": "古代窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "大羽〔東部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0011",
+  "name": "五輪塔及び瓶子",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0058",
+  "name": "西明寺閻魔堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0057",
+  "name": "西明寺大師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0043",
+  "name": "椎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "大羽〔東部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0003",
+  "name": "シカクダケ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0005",
+  "name": "シダレ桜（安善寺）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0004",
+  "name": "シダレ桜（光明寺）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0031",
+  "name": "島岡達三益子焼作品",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0049",
+  "name": "真言八祖絵図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0034",
+  "name": "新町彫刻屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0018",
+  "name": "地蔵院観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "大羽〔東部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0010",
+  "name": "上棟柱立飾山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0026",
+  "name": "宋版大般若経",
+  "category": "有形文化財",
+  "subcategory": "書籍",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "大羽〔東部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0063",
+  "name": "高館城跡（西明寺城）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0046",
+  "name": "田町彫刻屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0006",
+  "name": "タラヨウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0051",
+  "name": "綱神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "大羽〔東部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0021",
+  "name": "天王塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0020",
+  "name": "天保絵地図（長堤村地図）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0062",
+  "name": "長堤太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0061",
+  "name": "長堤八幡宮本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0052",
+  "name": "羽石家五輪塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0045",
+  "name": "濱田庄司作品",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0016",
+  "name": "原彫刻屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0007",
+  "name": "ヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0035",
+  "name": "日枝神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "七井〔北部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0055",
+  "name": "藤根善治の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0056",
+  "name": "襖絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "田野〔南部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0033",
+  "name": "文化絵地図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0054",
+  "name": "菩提樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "大羽〔東部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0048",
+  "name": "益子参考館細工場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ },
+ {
+  "jmh_id": "JMH-093424-0047",
+  "name": "益子参考館内登り窯",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "益子町",
+  "location": "益子〔中部〕"
+ }
+]

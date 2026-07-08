@@ -1,0 +1,66 @@
+{
+  "eb8b1d49b143216b": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/bunkazai_kentiku.html",
+    "filename": "eb8b1d49b143216b.html",
+    "sha256": "fb79a13b2fdc93866043242b50c066f9ce825aca03f603fa1c9f51fe54eba8b1",
+    "fetched_at": "2026-07-08T03:19:07Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5c8a0edfe2cad153": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/bunkazai_tyoukoku.html",
+    "filename": "5c8a0edfe2cad153.html",
+    "sha256": "c530a5b434b97bf851c4867313793bbb906694db5831dd7c1c93d475b67dd7ae",
+    "fetched_at": "2026-07-08T03:19:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9a31c36d0366d10c": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/bunkazai_shiseki.html",
+    "filename": "9a31c36d0366d10c.html",
+    "sha256": "52259ddfd7820d25fbe1457c45343ed6d48a38e9561ed71087759072664d6ea6",
+    "fetched_at": "2026-07-08T03:19:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4c7e732a146f6d84": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/bunkazai_meisyou.html",
+    "filename": "4c7e732a146f6d84.html",
+    "sha256": "1b08587f321dd4772809c9758c232f781786c6b39693043021f51462282808f1",
+    "fetched_at": "2026-07-08T03:19:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "01638eb5e7746765": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/bunkazai_kouko.html",
+    "filename": "01638eb5e7746765.html",
+    "sha256": "b26f5d9204a0d3b3e3d2c348d77cf681772096677008f0c35da2795373564602",
+    "fetched_at": "2026-07-08T03:19:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cc0b5575dfc6ea30": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/bunkazai_minzoku.html",
+    "filename": "cc0b5575dfc6ea30.html",
+    "sha256": "1898ac1c1adb026596605d05efa096f6a5b62f9af61c8a6ada2ba50cb2a31f73",
+    "fetched_at": "2026-07-08T03:19:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "85dc1e31a27128dd": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/bunkazai_tennen.html",
+    "filename": "85dc1e31a27128dd.html",
+    "sha256": "b11440f2e1c3195402d4da0d8d7915867c5e2424f267f97bea47e525544e3af2",
+    "fetched_at": "2026-07-08T03:19:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a4fe86f4d0ee07fd": {
+    "url": "https://www.city.minamiashigara.kanagawa.jp/kurashi/manabi/bunka/p04987.html",
+    "filename": "a4fe86f4d0ee07fd.html",
+    "sha256": "58bf3169589109b7bbe8739a24bac9709821363253618832612b3052dac87693",
+    "fetched_at": "2026-07-08T03:19:21Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

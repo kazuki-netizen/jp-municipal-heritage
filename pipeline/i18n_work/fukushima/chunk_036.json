@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072087-0096",
+  "name": "木幡山の板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [考古資料]",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "二本松市",
+  "location": "木幡字治家49-2"
+ },
+ {
+  "jmh_id": "JMH-072087-0019",
+  "name": "算額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "1978-07-03",
+  "municipality": "二本松市",
+  "location": "下川崎字古城内48-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0082",
+  "name": "浮彫阿弥陀三尊来迎供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "2000-04-01",
+  "municipality": "二本松市",
+  "location": "本町1-148"
+ },
+ {
+  "jmh_id": "JMH-072087-0085",
+  "name": "龍泉寺観音堂の算額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "2002-04-01",
+  "municipality": "二本松市",
+  "location": "二伊滝1-81"
+ },
+ {
+  "jmh_id": "JMH-072087-0091",
+  "name": "農書「耕作稼穡八景」「桑蚕養草」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "2002-05-01",
+  "municipality": "二本松市",
+  "location": "木幡字小太郎内122"
+ },
+ {
+  "jmh_id": "JMH-072087-0095",
+  "name": "天明為民の碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "二本松市",
+  "location": "木幡字治家49-1"
+ },
+ {
+  "jmh_id": "JMH-072087-0114",
+  "name": "扁額「敬学」及び敬学館教科書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "2009-06-01",
+  "municipality": "二本松市",
+  "location": "郭内3-303-5（二本松歴史館）"
+ },
+ {
+  "jmh_id": "JMH-072087-0115",
+  "name": "畠山義国位牌・厨子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "2009-06-01",
+  "municipality": "二本松市",
+  "location": "若宮1-243"
+ },
+ {
+  "jmh_id": "JMH-072087-0117",
+  "name": "小浜郵便局資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 [歴史資料]",
+  "designation": "市指定",
+  "designated_date": "2012-05-01",
+  "municipality": "二本松市",
+  "location": "郭内3-303-5（二本松歴史館）"
+ },
+ {
+  "jmh_id": "JMH-072087-0034",
+  "name": "源頼政鵺退治の図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "本町1-61"
+ },
+ {
+  "jmh_id": "JMH-072087-0026",
+  "name": "丹羽長国奉納歌額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "郭内3-303-5（二本松歴史館寄託）"
+ },
+ {
+  "jmh_id": "JMH-072087-0028",
+  "name": "双松館観桜連中の図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "二伊滝1-81"
+ },
+ {
+  "jmh_id": "JMH-072087-0035",
+  "name": "漢高祖白蛇を切るの図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "西町268"
+ },
+ {
+  "jmh_id": "JMH-072087-0033",
+  "name": "武人の図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "西町268"
+ },
+ {
+  "jmh_id": "JMH-072087-0032",
+  "name": "松の木を折るの図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "西町268"
+ },
+ {
+  "jmh_id": "JMH-072087-0036",
+  "name": "神楽奉楽の図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-09-16",
+  "municipality": "二本松市",
+  "location": "鈴石町41"
+ },
+ {
+  "jmh_id": "JMH-072087-0094",
+  "name": "夏刈の二十三夜塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-02-01",
+  "municipality": "二本松市",
+  "location": "太田字表56"
+ },
+ {
+  "jmh_id": "JMH-072087-0101",
+  "name": "旧大音院修験資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-06-02",
+  "municipality": "二本松市",
+  "location": "舘野2-97"
+ },
+ {
+  "jmh_id": "JMH-072087-0001",
+  "name": "原瀬の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "二本松市",
+  "location": "原セ諏訪232"
+ },
+ {
+  "jmh_id": "JMH-072087-0002",
+  "name": "原瀬の長獅子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-07-21",
+  "municipality": "二本松市",
+  "location": "原セ諏訪232"
+ },
+ {
+  "jmh_id": "JMH-072087-0040",
+  "name": "木幡の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-07-21",
+  "municipality": "二本松市",
+  "location": "木幡字山本114"
+ },
+ {
+  "jmh_id": "JMH-072087-0041",
+  "name": "白鳥神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-07-21",
+  "municipality": "二本松市",
+  "location": "木幡字田ノ入322"
+ },
+ {
+  "jmh_id": "JMH-072087-0054",
+  "name": "針道の山車もみ（暴れ山車）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "針道字来ケ作119"
+ },
+ {
+  "jmh_id": "JMH-072087-0044",
+  "name": "岩倉の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "太田字岩前78"
+ },
+ {
+  "jmh_id": "JMH-072087-0042",
+  "name": "八幡神社の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-06-26",
+  "municipality": "二本松市",
+  "location": "戸沢字立石3"
+ },
+ {
+  "jmh_id": "JMH-072087-0056",
+  "name": "油井神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-06-01",
+  "municipality": "二本松市",
+  "location": "油井字飯出105"
+ },
+ {
+  "jmh_id": "JMH-072087-0055",
+  "name": "八幡神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-06-01",
+  "municipality": "二本松市",
+  "location": "上川崎字宮64"
+ },
+ {
+  "jmh_id": "JMH-072087-0077",
+  "name": "杉沢の三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1999-07-06",
+  "municipality": "二本松市",
+  "location": "杉沢字高森"
+ },
+ {
+  "jmh_id": "JMH-072087-0076",
+  "name": "初森の三匹獅子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1999-07-06",
+  "municipality": "二本松市",
+  "location": "初森字十文字"
+ },
+ {
+  "jmh_id": "JMH-072087-0078",
+  "name": "田沢の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1999-07-06",
+  "municipality": "二本松市",
+  "location": "田沢字中山"
+ },
+ {
+  "jmh_id": "JMH-072087-0079",
+  "name": "茂原の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1999-07-06",
+  "municipality": "二本松市",
+  "location": "茂原字屋戸"
+ },
+ {
+  "jmh_id": "JMH-072087-0100",
+  "name": "平石高田の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-06-02",
+  "municipality": "二本松市",
+  "location": "平石高田1-299"
+ },
+ {
+  "jmh_id": "JMH-072087-0102",
+  "name": "錦町の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-06-02",
+  "municipality": "二本松市",
+  "location": "錦町1-453"
+ },
+ {
+  "jmh_id": "JMH-072087-0104",
+  "name": "小浜成田水雲神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-10-10",
+  "municipality": "二本松市",
+  "location": "成田字大木"
+ },
+ {
+  "jmh_id": "JMH-072087-0108",
+  "name": "西新殿鹿島神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-10-10",
+  "municipality": "二本松市",
+  "location": "西新殿字沖田"
+ },
+ {
+  "jmh_id": "JMH-072087-0106",
+  "name": "杉沢三渡神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-10-10",
+  "municipality": "二本松市",
+  "location": "杉沢字宮ノ前"
+ },
+ {
+  "jmh_id": "JMH-072087-0105",
+  "name": "新殿神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-10-10",
+  "municipality": "二本松市",
+  "location": "東新殿字平石田"
+ },
+ {
+  "jmh_id": "JMH-072087-0103",
+  "name": "代積羽山神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-10-10",
+  "municipality": "二本松市",
+  "location": "上太田字下代積"
+ },
+ {
+  "jmh_id": "JMH-072087-0107",
+  "name": "田沢熊野神社の太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-10-10",
+  "municipality": "二本松市",
+  "location": "田沢字久根ノ内"
+ },
+ {
+  "jmh_id": "JMH-072087-0109",
+  "name": "熊野神社三匹獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-05-06",
+  "municipality": "二本松市",
+  "location": "戸沢字宮内37"
+ }
+]

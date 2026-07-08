@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032140-0004",
+  "name": "上幅庭田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-03-28",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢佐倉河"
+ },
+ {
+  "jmh_id": "JMH-032140-0017",
+  "name": "都鳥田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田"
+ },
+ {
+  "jmh_id": "JMH-032140-0051",
+  "name": "出店田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳"
+ },
+ {
+  "jmh_id": "JMH-032140-0067",
+  "name": "元町座敷田植踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺玉里"
+ },
+ {
+  "jmh_id": "JMH-032140-0158",
+  "name": "大原田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1995-11-06",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川野崎"
+ },
+ {
+  "jmh_id": "JMH-032140-0210",
+  "name": "軽石座敷田植踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺広瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0005",
+  "name": "伊藤流行山鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-03-28",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢羽田町"
+ },
+ {
+  "jmh_id": "JMH-032140-0007",
+  "name": "奥野流富士麓行山鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-03-28",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢佐倉河"
+ },
+ {
+  "jmh_id": "JMH-032140-0012",
+  "name": "市野々念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳"
+ },
+ {
+  "jmh_id": "JMH-032140-0016",
+  "name": "行山流都鳥鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田"
+ },
+ {
+  "jmh_id": "JMH-032140-0009",
+  "name": "化粧坂念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田"
+ },
+ {
+  "jmh_id": "JMH-032140-0011",
+  "name": "南下幅念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1960-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田"
+ },
+ {
+  "jmh_id": "JMH-032140-0019",
+  "name": "新里念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳"
+ },
+ {
+  "jmh_id": "JMH-032140-0022",
+  "name": "鹿合念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-12-23",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳"
+ },
+ {
+  "jmh_id": "JMH-032140-0043",
+  "name": "奥山行山流内ノ目鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺玉里"
+ },
+ {
+  "jmh_id": "JMH-032140-0044",
+  "name": "奥山行山流増沢鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂"
+ },
+ {
+  "jmh_id": "JMH-032140-0049",
+  "name": "金津流伊手獅子躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺伊手"
+ },
+ {
+  "jmh_id": "JMH-032140-0041",
+  "name": "原躰剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺田原"
+ },
+ {
+  "jmh_id": "JMH-032140-0042",
+  "name": "増沢剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂"
+ },
+ {
+  "jmh_id": "JMH-032140-0050",
+  "name": "二の台念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山"
+ },
+ {
+  "jmh_id": "JMH-032140-0068",
+  "name": "奥山行上流餅田鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺岩谷堂"
+ },
+ {
+  "jmh_id": "JMH-032140-0073",
+  "name": "池田胴念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-03-25",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川池田西"
+ },
+ {
+  "jmh_id": "JMH-032140-0071",
+  "name": "大平念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-03-25",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市衣川大平"
+ },
+ {
+  "jmh_id": "JMH-032140-0114",
+  "name": "行山流供養塚鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳"
+ },
+ {
+  "jmh_id": "JMH-032140-0116",
+  "name": "野山田念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢若柳"
+ },
+ {
+  "jmh_id": "JMH-032140-0113",
+  "name": "柳田念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-07-07",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢南都田"
+ },
+ {
+  "jmh_id": "JMH-032140-0118",
+  "name": "軽石薩摩奴踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-03-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺広瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0134",
+  "name": "奥山行山流鴨沢鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-04-25",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺広瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0133",
+  "name": "奥山上山流歌書獅子躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-04-25",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺広瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0135",
+  "name": "行山流角懸鹿躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-04-25",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺玉里"
+ },
+ {
+  "jmh_id": "JMH-032140-0148",
+  "name": "大畑平念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市胆沢小山"
+ },
+ {
+  "jmh_id": "JMH-032140-0069",
+  "name": "奥山行山流地ノ神鹿踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺伊手"
+ },
+ {
+  "jmh_id": "JMH-032140-0206",
+  "name": "兄和田念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺米里"
+ },
+ {
+  "jmh_id": "JMH-032140-0213",
+  "name": "鴨沢念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺広瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0211",
+  "name": "軽石念佛剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺広瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0219",
+  "name": "金津流石関獅子躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-10-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺稲瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0220",
+  "name": "金津流野手崎獅子躍",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-10-31",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺梁川"
+ },
+ {
+  "jmh_id": "JMH-032140-0212",
+  "name": "軽石歌舞伎「中村座」",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市江刺広瀬"
+ },
+ {
+  "jmh_id": "JMH-032140-0057",
+  "name": "留守家墓所(日高神社)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢日高小路14"
+ },
+ {
+  "jmh_id": "JMH-032140-0056",
+  "name": "留守家墓所(大安寺)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "奥州市",
+  "location": "岩手県奥州市水沢東町4-1"
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "526392422e951d52": {
+    "url": "https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/bunkazai/1008793/index.html",
+    "filename": "526392422e951d52.html",
+    "sha256": "1f12a550841bd2308ec5a2f4aed4cc5199bacdd7b6e05095ef98d43e3ac626e0",
+    "fetched_at": "2026-07-08T03:18:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fdedaa72fd53aad3": {
+    "url": "https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/bunkazai/1006604/index.html",
+    "filename": "fdedaa72fd53aad3.html",
+    "sha256": "3a556263f2ddc44e1607f10de180613c1f043cacbc9ffc39c48379fffba27318",
+    "fetched_at": "2026-07-08T03:18:56Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

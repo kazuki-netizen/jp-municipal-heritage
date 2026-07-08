@@ -1,0 +1,386 @@
+[
+ {
+  "jmh_id": "JMH-042080-0020",
+  "name": "伝佐藤継信・忠信供養碑",
+  "category": "有形文化財",
+  "subcategory": "古碑",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "岡字天ヶ迫"
+ },
+ {
+  "jmh_id": "JMH-042080-0038",
+  "name": "弘安元年銘碑",
+  "category": "有形文化財",
+  "subcategory": "古碑",
+  "designation": "市指定",
+  "designated_date": "2007-12-27",
+  "municipality": "角田市",
+  "location": "角田・専福寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0008",
+  "name": "大般若経600巻",
+  "category": "有形文化財",
+  "subcategory": "経典",
+  "designation": "市指定",
+  "designated_date": "1981-10-20",
+  "municipality": "角田市",
+  "location": "角田・長泉寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0023",
+  "name": "妙立寺の大藤",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "神次郎・妙立寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0028",
+  "name": "毘沙門堂の榧",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "鳩原・福應寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0021",
+  "name": "八幡神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "角田・八幡神社"
+ },
+ {
+  "jmh_id": "JMH-042080-0033",
+  "name": "東東洋「松図」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1998-01-06",
+  "municipality": "角田市",
+  "location": "角田・郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-042080-0032",
+  "name": "中村不折「山水図」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1998-01-06",
+  "municipality": "角田市",
+  "location": "角田・郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-042080-0034",
+  "name": "秋月「達磨大師」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1998-01-06",
+  "municipality": "角田市",
+  "location": "角田・郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-042080-0017",
+  "name": "妙安寺の井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-03-29",
+  "municipality": "角田市",
+  "location": "角田字牛舘"
+ },
+ {
+  "jmh_id": "JMH-042080-0018",
+  "name": "吉ノ内古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1986-08-28",
+  "municipality": "角田市",
+  "location": "横倉古墳群"
+ },
+ {
+  "jmh_id": "JMH-042080-0019",
+  "name": "石川家廟所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-01-28",
+  "municipality": "角田市",
+  "location": "角田・長泉寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0031",
+  "name": "大久保古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-06-29",
+  "municipality": "角田市",
+  "location": "尾山字大久保"
+ },
+ {
+  "jmh_id": "JMH-042080-0030",
+  "name": "土浮貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-06-29",
+  "municipality": "角田市",
+  "location": "小坂字土浮"
+ },
+ {
+  "jmh_id": "JMH-042080-0029",
+  "name": "西屋敷1号墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "教育委員会"
+ },
+ {
+  "jmh_id": "JMH-042080-0022",
+  "name": "吉ノ内1号墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-05-28",
+  "municipality": "角田市",
+  "location": "教育委員会"
+ },
+ {
+  "jmh_id": "JMH-042080-0006",
+  "name": "角田祭ばやし",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "1979-06-27",
+  "municipality": "角田市",
+  "location": "角田"
+ },
+ {
+  "jmh_id": "JMH-042080-0036",
+  "name": "福應寺毘沙門堂絵馬",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "1998-09-28",
+  "municipality": "角田市",
+  "location": "鳩原・福應寺"
+ },
+ {
+  "jmh_id": "JMH-042080-0042",
+  "name": "君萱若松神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2024-03-16",
+  "municipality": "角田市",
+  "location": "君萱"
+ },
+ {
+  "jmh_id": "JMH-042080-0043",
+  "name": "大谷神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2024-03-16",
+  "municipality": "角田市",
+  "location": "尾山"
+ },
+ {
+  "jmh_id": "JMH-042080-0044",
+  "name": "島田神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2024-03-16",
+  "municipality": "角田市",
+  "location": "島田"
+ },
+ {
+  "jmh_id": "JMH-042080-0046",
+  "name": "藤田神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2024-03-16",
+  "municipality": "角田市",
+  "location": "藤田"
+ },
+ {
+  "jmh_id": "JMH-042080-0041",
+  "name": "北根田植え踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2024-03-16",
+  "municipality": "角田市",
+  "location": "藤田"
+ },
+ {
+  "jmh_id": "JMH-042080-0045",
+  "name": "藤尾盆踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗",
+  "designation": "市指定",
+  "designated_date": "2024-03-16",
+  "municipality": "角田市",
+  "location": "藤田、尾山"
+ },
+ {
+  "jmh_id": "JMH-044458-0016",
+  "name": "大宮寺山門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "1978-06-15",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0023",
+  "name": "飯豊神社（本殿）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "1992-06-17",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0022",
+  "name": "茅葺き民家（旧佐竹家住宅）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "1992-05-07",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0007",
+  "name": "内出道満の太刀",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "1978-03-31",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0041",
+  "name": "木造聖観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "2008-09-26",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0042",
+  "name": "切込焼染付牡丹唐草文花生一対",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "2014-08-22",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0043",
+  "name": "芹沢長介切込焼コレクション",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "町指定",
+  "designated_date": "2023-03-23",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0011",
+  "name": "新田神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1978-03-31",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0014",
+  "name": "鳴瀬神楽（下狼塚神楽）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1978-03-31",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0008",
+  "name": "四日市場甚句",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1978-03-31",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0025",
+  "name": "宮崎獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0028",
+  "name": "鳥屋ヶ崎獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0026",
+  "name": "米泉獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0024",
+  "name": "北川内神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0027",
+  "name": "谷地森獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（民俗芸能）",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "加美町"
+ },
+ {
+  "jmh_id": "JMH-044458-0020",
+  "name": "愛宕精進講",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（風俗慣習）",
+  "designation": "町指定",
+  "designated_date": "1983-03-31",
+  "municipality": "加美町"
+ }
+]

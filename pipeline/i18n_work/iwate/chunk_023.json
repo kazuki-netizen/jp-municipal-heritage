@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-032026-0041",
+  "name": "杉戸絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-06-27",
+  "municipality": "宮古市",
+  "location": "沢田"
+ },
+ {
+  "jmh_id": "JMH-032026-0004",
+  "name": "阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1956-04-11",
+  "municipality": "宮古市",
+  "location": "長根"
+ },
+ {
+  "jmh_id": "JMH-032026-0009",
+  "name": "延命地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-04-18",
+  "municipality": "宮古市",
+  "location": "蛸の浜町"
+ },
+ {
+  "jmh_id": "JMH-032026-0011",
+  "name": "聖観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-04-18",
+  "municipality": "宮古市",
+  "location": "蛸の浜町"
+ },
+ {
+  "jmh_id": "JMH-032026-0042",
+  "name": "聖観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1989-06-27",
+  "municipality": "宮古市",
+  "location": "藤原"
+ },
+ {
+  "jmh_id": "JMH-032026-0023",
+  "name": "釈迦三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "神田沢町"
+ },
+ {
+  "jmh_id": "JMH-032026-0010",
+  "name": "毘沙門天像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-04-18",
+  "municipality": "宮古市",
+  "location": "小山田"
+ },
+ {
+  "jmh_id": "JMH-032026-0040",
+  "name": "常安寺本堂欄間彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1989-06-27",
+  "municipality": "宮古市",
+  "location": "沢田"
+ },
+ {
+  "jmh_id": "JMH-032026-0025",
+  "name": "小山田薬師堂本尊懸仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1980-05-29",
+  "municipality": "宮古市",
+  "location": "小山田"
+ },
+ {
+  "jmh_id": "JMH-032026-0038",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-06-25",
+  "municipality": "宮古市",
+  "location": "宮町"
+ },
+ {
+  "jmh_id": "JMH-032026-0036",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-06-25",
+  "municipality": "宮古市",
+  "location": "宮町"
+ },
+ {
+  "jmh_id": "JMH-032026-0092",
+  "name": "三十四間筋兜",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2009-05-21",
+  "municipality": "宮古市",
+  "location": "崎山"
+ },
+ {
+  "jmh_id": "JMH-032026-0064",
+  "name": "黒森神社普請古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1993-12-22",
+  "municipality": "宮古市",
+  "location": "宮町"
+ },
+ {
+  "jmh_id": "JMH-032026-0022",
+  "name": "蕨手刀",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "松山"
+ },
+ {
+  "jmh_id": "JMH-032026-0001",
+  "name": "暦応の碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1955-08-08",
+  "municipality": "宮古市",
+  "location": "熊野町"
+ },
+ {
+  "jmh_id": "JMH-032026-0007",
+  "name": "鴨墳の碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1957-12-25",
+  "municipality": "宮古市",
+  "location": "光岸地"
+ },
+ {
+  "jmh_id": "JMH-032026-0006",
+  "name": "織部灯籠",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1957-12-25",
+  "municipality": "宮古市",
+  "location": "光岸地"
+ },
+ {
+  "jmh_id": "JMH-032026-0059",
+  "name": "鞭牛碑群No.1～8",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-07-25",
+  "municipality": "宮古市",
+  "location": "長沢"
+ },
+ {
+  "jmh_id": "JMH-032026-0060",
+  "name": "鞭牛碑群No.9",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-07-25",
+  "municipality": "宮古市",
+  "location": "築地"
+ },
+ {
+  "jmh_id": "JMH-032026-0018",
+  "name": "幕軍勇士墓碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "藤原"
+ },
+ {
+  "jmh_id": "JMH-032026-0101",
+  "name": "鞭牛道供養碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2019-03-25",
+  "municipality": "宮古市",
+  "location": "花原市"
+ },
+ {
+  "jmh_id": "JMH-032026-0026",
+  "name": "小山田薬師堂湯点釜",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-05-29",
+  "municipality": "宮古市",
+  "location": "小山田"
+ },
+ {
+  "jmh_id": "JMH-032026-0019",
+  "name": "幻住庵祇川反古塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "長根"
+ },
+ {
+  "jmh_id": "JMH-032026-0020",
+  "name": "筆塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "鍬ヶ崎"
+ },
+ {
+  "jmh_id": "JMH-032026-0016",
+  "name": "官軍勇士の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "中里団地"
+ },
+ {
+  "jmh_id": "JMH-032026-0017",
+  "name": "官軍小西周右衛門の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "沢田"
+ },
+ {
+  "jmh_id": "JMH-032026-0057",
+  "name": "長根寺桜庭氏墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1990-07-19",
+  "municipality": "宮古市",
+  "location": "長根"
+ },
+ {
+  "jmh_id": "JMH-032026-0027",
+  "name": "十三仏と岩屋",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-10-24",
+  "municipality": "宮古市",
+  "location": "長沢"
+ },
+ {
+  "jmh_id": "JMH-032026-0002",
+  "name": "根城館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1956-04-11",
+  "municipality": "宮古市",
+  "location": "老木"
+ },
+ {
+  "jmh_id": "JMH-032026-0003",
+  "name": "磯鶏蝦夷森貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1956-04-11",
+  "municipality": "宮古市",
+  "location": "磯鶏"
+ },
+ {
+  "jmh_id": "JMH-032026-0062",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1993-12-22",
+  "municipality": "宮古市",
+  "location": "田代"
+ },
+ {
+  "jmh_id": "JMH-032026-0063",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1993-12-22",
+  "municipality": "宮古市",
+  "location": "田代"
+ },
+ {
+  "jmh_id": "JMH-032026-0021",
+  "name": "絵入追分道標",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-07-24",
+  "municipality": "宮古市",
+  "location": "田代"
+ },
+ {
+  "jmh_id": "JMH-032026-0034",
+  "name": "追分碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1984-01-23",
+  "municipality": "宮古市",
+  "location": "田老越田"
+ },
+ {
+  "jmh_id": "JMH-032026-0030",
+  "name": "元禄碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1984-01-23",
+  "municipality": "宮古市",
+  "location": "田老館が森"
+ },
+ {
+  "jmh_id": "JMH-032026-0100",
+  "name": "昭和三陸地震津波写真乾板",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2019-03-25",
+  "municipality": "宮古市",
+  "location": "田老"
+ },
+ {
+  "jmh_id": "JMH-032026-0069",
+  "name": "久慈忠左衛門源治氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1994-12-19",
+  "municipality": "宮古市",
+  "location": "田老摂待"
+ },
+ {
+  "jmh_id": "JMH-032026-0045",
+  "name": "寺院大圓寺",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-12-12",
+  "municipality": "宮古市",
+  "location": "小国"
+ },
+ {
+  "jmh_id": "JMH-032026-0077",
+  "name": "大日如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1998-07-24",
+  "municipality": "宮古市",
+  "location": "腹帯"
+ },
+ {
+  "jmh_id": "JMH-032026-0012",
+  "name": "役の行者･二鬼像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1976-04-21",
+  "municipality": "宮古市",
+  "location": "腹帯"
+ }
+]

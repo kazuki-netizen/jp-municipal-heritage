@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092029-0156",
+  "name": "名草大坂の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-02-23",
+  "municipality": "足利市",
+  "location": "名草下町"
+ },
+ {
+  "jmh_id": "JMH-092029-0164",
+  "name": "石造 青面金剛像",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-07-19",
+  "municipality": "足利市",
+  "location": "八椚町"
+ },
+ {
+  "jmh_id": "JMH-092029-0181",
+  "name": "朝倉の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "朝倉町2丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0179",
+  "name": "大岩毘沙門天本堂の絵馬 及び奉納額",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-11-19",
+  "municipality": "足利市",
+  "location": "大岩町"
+ },
+ {
+  "jmh_id": "JMH-092029-0203",
+  "name": "御厨神社の御筒粥",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-03-13",
+  "municipality": "足利市",
+  "location": "福富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0202",
+  "name": "御厨神社の御田植",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-03-13",
+  "municipality": "足利市",
+  "location": "福富町"
+ },
+ {
+  "jmh_id": "JMH-092029-0216",
+  "name": "西場の百観音",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-05-20",
+  "municipality": "足利市",
+  "location": "西場町"
+ },
+ {
+  "jmh_id": "JMH-092029-0218",
+  "name": "三崎稲荷神社の絵馬",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-12-15",
+  "municipality": "足利市",
+  "location": "大前町"
+ },
+ {
+  "jmh_id": "JMH-092029-0230",
+  "name": "石造 地蔵菩薩立像",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-11-22",
+  "municipality": "足利市",
+  "location": "鵤木町"
+ },
+ {
+  "jmh_id": "JMH-092029-0238",
+  "name": "星宮神社の地租改正絵馬 付地籍図・測量用平板・検尺",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-03-22",
+  "municipality": "足利市",
+  "location": "梁田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0249",
+  "name": "石造 地蔵菩薩立像",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1997-03-19",
+  "municipality": "足利市",
+  "location": "西宮町"
+ },
+ {
+  "jmh_id": "JMH-092029-0254",
+  "name": "浅間神社のペタンコ祭",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-03-20",
+  "municipality": "足利市",
+  "location": "田中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0291",
+  "name": "釋奠",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-06-30",
+  "municipality": "足利市",
+  "location": "昌平町"
+ },
+ {
+  "jmh_id": "JMH-092029-0300",
+  "name": "「行道山みくじ」版木",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-01-16",
+  "municipality": "足利市",
+  "location": "月谷町"
+ },
+ {
+  "jmh_id": "JMH-092029-0313",
+  "name": "川崎天満宮の算額",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2021-03-25",
+  "municipality": "足利市",
+  "location": "川崎町"
+ },
+ {
+  "jmh_id": "JMH-092029-0032",
+  "name": "羽黒古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-092029-0027",
+  "name": "瓢塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0021",
+  "name": "上野田遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "小俣町"
+ },
+ {
+  "jmh_id": "JMH-092029-0022",
+  "name": "中ノ目遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-07-12",
+  "municipality": "足利市",
+  "location": "板倉町"
+ },
+ {
+  "jmh_id": "JMH-092029-0045",
+  "name": "正善寺古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-07-25",
+  "municipality": "足利市",
+  "location": "常見町1丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0051",
+  "name": "居館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-03-01",
+  "municipality": "足利市",
+  "location": "高松町"
+ },
+ {
+  "jmh_id": "JMH-092029-0073",
+  "name": "梁田戦争関連史跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-09-19",
+  "municipality": "足利市",
+  "location": "梁田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0081",
+  "name": "田崎草雲旧宅（庭園を含む）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-03-31",
+  "municipality": "足利市",
+  "location": "緑町2丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0082",
+  "name": "足利公園古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-03-31",
+  "municipality": "足利市",
+  "location": "緑町1丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0086",
+  "name": "足利城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-07-25",
+  "municipality": "足利市",
+  "location": "本城1丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0085",
+  "name": "岩井山城跡（勧農城跡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-07-25",
+  "municipality": "足利市",
+  "location": "岩井町"
+ },
+ {
+  "jmh_id": "JMH-092029-0087",
+  "name": "南氏墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-11-19",
+  "municipality": "足利市",
+  "location": "名草中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0088",
+  "name": "長尾氏墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-11-19",
+  "municipality": "足利市",
+  "location": "本城1丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0089",
+  "name": "長尾氏歴代墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-11-19",
+  "municipality": "足利市",
+  "location": "西宮町"
+ },
+ {
+  "jmh_id": "JMH-092029-0101",
+  "name": "中里城跡（柳田氏居館跡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-02-17",
+  "municipality": "足利市",
+  "location": "福居町"
+ },
+ {
+  "jmh_id": "JMH-092029-0102",
+  "name": "足利義氏墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-02-17",
+  "municipality": "足利市",
+  "location": "本城3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0104",
+  "name": "機神山山頂古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-06-21",
+  "municipality": "足利市",
+  "location": "本城3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0106",
+  "name": "行基平山頂古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-06-21",
+  "municipality": "足利市",
+  "location": "本城3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0127",
+  "name": "須花の庚申塔群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-02-25",
+  "municipality": "足利市",
+  "location": "名草中町"
+ },
+ {
+  "jmh_id": "JMH-092029-0122",
+  "name": "根本神社古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-02-25",
+  "municipality": "足利市",
+  "location": "朝倉町"
+ },
+ {
+  "jmh_id": "JMH-092029-0145",
+  "name": "松田北台・観音堂境内の石塔群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-06-23",
+  "municipality": "足利市",
+  "location": "松田町"
+ },
+ {
+  "jmh_id": "JMH-092029-0144",
+  "name": "明神山古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-06-23",
+  "municipality": "足利市",
+  "location": "朝倉町3丁目"
+ },
+ {
+  "jmh_id": "JMH-092029-0166",
+  "name": "多田木砦跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-12-21",
+  "municipality": "足利市",
+  "location": "多田木町"
+ },
+ {
+  "jmh_id": "JMH-092029-0165",
+  "name": "中日向古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-12-21",
+  "municipality": "足利市",
+  "location": "瑞穂野町"
+ },
+ {
+  "jmh_id": "JMH-092029-0209",
+  "name": "永宝寺古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1986-09-24",
+  "municipality": "足利市",
+  "location": "小曽根町"
+ }
+]

@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-032050-0100",
+  "name": "二子町下川端のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "designated_date": "2003-03-03",
+  "municipality": "北上市"
+ },
+ {
+  "jmh_id": "JMH-032042-0010",
+  "name": "円城寺門1棟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1960-05-07",
+  "municipality": "花巻市",
+  "location": "城内"
+ },
+ {
+  "jmh_id": "JMH-032042-0025",
+  "name": "三嶽神社拝殿1棟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-04-07",
+  "municipality": "花巻市",
+  "location": "西宮野目"
+ },
+ {
+  "jmh_id": "JMH-032042-0078",
+  "name": "同心家屋（旧平野家）1棟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-12-12",
+  "municipality": "花巻市",
+  "location": "桜町"
+ },
+ {
+  "jmh_id": "JMH-032042-0077",
+  "name": "同心家屋（旧今川家）1棟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-12-12",
+  "municipality": "花巻市",
+  "location": "桜町"
+ },
+ {
+  "jmh_id": "JMH-032042-0108",
+  "name": "熊谷家本屋及び付属屋5棟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-11-24",
+  "municipality": "花巻市",
+  "location": "矢沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0178",
+  "name": "昌歓寺山門1棟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-03-21",
+  "municipality": "花巻市",
+  "location": "太田"
+ },
+ {
+  "jmh_id": "JMH-032042-0180",
+  "name": "胡四王神社拝殿と本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-03-21",
+  "municipality": "花巻市",
+  "location": "矢沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0186",
+  "name": "妙圓寺本堂1棟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2002-03-27",
+  "municipality": "花巻市",
+  "location": "愛宕町"
+ },
+ {
+  "jmh_id": "JMH-032042-0192",
+  "name": "鼬幣稲荷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003-11-20",
+  "municipality": "花巻市",
+  "location": "石神町"
+ },
+ {
+  "jmh_id": "JMH-032042-0234",
+  "name": "花巻城内伊藤家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2017-02-28",
+  "municipality": "花巻市",
+  "location": "城内"
+ },
+ {
+  "jmh_id": "JMH-032042-0237",
+  "name": "岳妙泉寺庫裡",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2025-08-20",
+  "municipality": "花巻市",
+  "location": "大迫町内川目"
+ },
+ {
+  "jmh_id": "JMH-032042-0076",
+  "name": "土仏観音堂宇",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-06-01",
+  "municipality": "花巻市",
+  "location": "石鳥谷町大興寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0042",
+  "name": "丹内山神社一ノ鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1970-04-14",
+  "municipality": "花巻市",
+  "location": "東和町谷内"
+ },
+ {
+  "jmh_id": "JMH-032042-0067",
+  "name": "中内熊野神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-08-30",
+  "municipality": "花巻市",
+  "location": "東和町中内"
+ },
+ {
+  "jmh_id": "JMH-032042-0068",
+  "name": "浄光寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-08-30",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0107",
+  "name": "鏑八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-10-19",
+  "municipality": "花巻市",
+  "location": "東和町土沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0185",
+  "name": "石鳩岡観音堂及び内外付属文化財一括",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-11-16",
+  "municipality": "花巻市",
+  "location": "東和町石鳩岡"
+ },
+ {
+  "jmh_id": "JMH-032042-0190",
+  "name": "立石神社及び神社所有文化財一括",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2002-11-21",
+  "municipality": "花巻市",
+  "location": "東和町舘迫"
+ },
+ {
+  "jmh_id": "JMH-032042-0209",
+  "name": "立石神社寄宮及び石碑群",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-06-16",
+  "municipality": "花巻市",
+  "location": "東和町舘迫"
+ },
+ {
+  "jmh_id": "JMH-032042-0019",
+  "name": "鶏路直筆短冊並びに軸物",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1960-12-07",
+  "municipality": "花巻市",
+  "location": "上町"
+ },
+ {
+  "jmh_id": "JMH-032042-0017",
+  "name": "雪蕉筆俳人画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1960-12-07",
+  "municipality": "花巻市",
+  "location": "藤沢町"
+ },
+ {
+  "jmh_id": "JMH-032042-0092",
+  "name": "花鳥図襖絵8枚",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1985-02-23",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0093",
+  "name": "諸葛孔明図1幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1985-02-23",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0133",
+  "name": "布袋児戯図1面",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1996-09-26",
+  "municipality": "花巻市",
+  "location": "中北万丁目"
+ },
+ {
+  "jmh_id": "JMH-032042-0130",
+  "name": "六歌仙図1面",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1996-09-26",
+  "municipality": "花巻市",
+  "location": "中北万丁目"
+ },
+ {
+  "jmh_id": "JMH-032042-0161",
+  "name": "絹本著色顕如上人真影1幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1999-03-17",
+  "municipality": "花巻市",
+  "location": "南川原町"
+ },
+ {
+  "jmh_id": "JMH-032042-0114",
+  "name": "妙琳寺阿弥陀如来真向絵像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1992-03-05",
+  "municipality": "花巻市",
+  "location": "大迫町大迫"
+ },
+ {
+  "jmh_id": "JMH-032042-0201",
+  "name": "平澤屏山「蝦夷風俗十二ヶ月屏風三月、四月」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2005-03-25",
+  "municipality": "花巻市",
+  "location": "花巻市博物館"
+ },
+ {
+  "jmh_id": "JMH-032042-0126",
+  "name": "光林寺の絵画13幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1995-06-16",
+  "municipality": "花巻市",
+  "location": "石鳥谷町中寺林"
+ },
+ {
+  "jmh_id": "JMH-032042-0174",
+  "name": "絵馬扁額20枚",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2000-06-23",
+  "municipality": "花巻市",
+  "location": "石鳥谷町松林寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0170",
+  "name": "小絵馬121枚",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2000-06-23",
+  "municipality": "花巻市",
+  "location": "石鳥谷町松林寺"
+ },
+ {
+  "jmh_id": "JMH-032042-0004",
+  "name": "地蔵菩薩坐像1体",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-07-05",
+  "municipality": "花巻市",
+  "location": "鍛冶町"
+ },
+ {
+  "jmh_id": "JMH-032042-0008",
+  "name": "阿弥陀如来坐像1体",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-09-07",
+  "municipality": "花巻市",
+  "location": "双葉町"
+ },
+ {
+  "jmh_id": "JMH-032042-0014",
+  "name": "釈迦如来坐像1体",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-05-07",
+  "municipality": "花巻市",
+  "location": "十二丁目"
+ },
+ {
+  "jmh_id": "JMH-032042-0018",
+  "name": "馬頭観音立像1体",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-12-07",
+  "municipality": "花巻市",
+  "location": "矢沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0026",
+  "name": "獅子頭1頭",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1963-05-04",
+  "municipality": "花巻市",
+  "location": "南笹間"
+ },
+ {
+  "jmh_id": "JMH-032042-0070",
+  "name": "太子孝養像1体",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977-12-09",
+  "municipality": "花巻市",
+  "location": "北笹間"
+ },
+ {
+  "jmh_id": "JMH-032042-0072",
+  "name": "千手観音立像1体",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-03-10",
+  "municipality": "花巻市",
+  "location": "矢沢"
+ },
+ {
+  "jmh_id": "JMH-032042-0073",
+  "name": "厨子入地蔵菩薩立像1体",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-03-10",
+  "municipality": "花巻市",
+  "location": "桜町"
+ }
+]

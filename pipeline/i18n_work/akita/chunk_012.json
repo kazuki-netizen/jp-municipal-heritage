@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-052094-0003",
+  "name": "藍染の型紙",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-03-19",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市花輪字荒田4-1"
+ },
+ {
+  "jmh_id": "JMH-052094-0014",
+  "name": "又鬼資料 3点(熊槍・カンジキ・雪ベラ)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田大湯"
+ },
+ {
+  "jmh_id": "JMH-052094-0011",
+  "name": "又鬼用具(アマブタ)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田大湯"
+ },
+ {
+  "jmh_id": "JMH-052094-0013",
+  "name": "又鬼用具(熊槍・玉造り器)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田大湯"
+ },
+ {
+  "jmh_id": "JMH-052094-0012",
+  "name": "又鬼用具(火縄銃・鉛玉・煙硝入れ)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田大湯"
+ },
+ {
+  "jmh_id": "JMH-052094-0001",
+  "name": "火事装束",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-03-19",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市花輪字荒田4-1"
+ },
+ {
+  "jmh_id": "JMH-052094-0002",
+  "name": "葦名神社の絵馬(付棟札 5点)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-03-19",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田山根字堂ノ上34"
+ },
+ {
+  "jmh_id": "JMH-052094-0021",
+  "name": "細布織機(付 細布1巻・細布印2コ)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田錦木"
+ },
+ {
+  "jmh_id": "JMH-052094-0020",
+  "name": "百人一首献額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田毛馬内字毛馬内沢32"
+ },
+ {
+  "jmh_id": "JMH-052094-0047",
+  "name": "栗山家「古代かづの紫根染・茜染資料」(染物38点、道具37点)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-04-01",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市花輪字荒田4-1"
+ },
+ {
+  "jmh_id": "JMH-052094-0008",
+  "name": "下川原駒踊",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市花輪字下川原"
+ },
+ {
+  "jmh_id": "JMH-052094-0035",
+  "name": "小豆沢のオジナオバナ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字小豆沢"
+ },
+ {
+  "jmh_id": "JMH-052094-0034",
+  "name": "宮野平のオジナオバナ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田大湯字宮野平"
+ },
+ {
+  "jmh_id": "JMH-052094-0030",
+  "name": "からめ節金山踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市尾去沢字軽井沢"
+ },
+ {
+  "jmh_id": "JMH-052094-0036",
+  "name": "湯瀬神明社先祓舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字湯瀬一羽根"
+ },
+ {
+  "jmh_id": "JMH-052094-0037",
+  "name": "谷内天照皇御祖神社先祓舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字谷内14"
+ },
+ {
+  "jmh_id": "JMH-052094-0038",
+  "name": "長嶺八幡神社先祓舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字長嶺"
+ },
+ {
+  "jmh_id": "JMH-052094-0033",
+  "name": "大里川原稲荷神社先祓舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字大里"
+ },
+ {
+  "jmh_id": "JMH-052094-0032",
+  "name": "土深井裸まいり",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田末広"
+ },
+ {
+  "jmh_id": "JMH-052094-0044",
+  "name": "川原大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-03-26",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田毛馬内字休堂"
+ },
+ {
+  "jmh_id": "JMH-052094-0051",
+  "name": "芦名沢大太鼓",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2009-01-20",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田山根"
+ },
+ {
+  "jmh_id": "JMH-052094-0052",
+  "name": "花輪ねぷた",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-05-28",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市花輪"
+ },
+ {
+  "jmh_id": "JMH-052094-0053",
+  "name": "水沢盆踊り太鼓",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-03-01",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字平"
+ },
+ {
+  "jmh_id": "JMH-052094-0055",
+  "name": "錦木古川大太鼓",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2020-02-21",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田錦木字古川"
+ },
+ {
+  "jmh_id": "JMH-052094-0040",
+  "name": "中ノ渡り一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1989-03-24",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田大湯"
+ },
+ {
+  "jmh_id": "JMH-052094-0005",
+  "name": "シダレカツラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平"
+ },
+ {
+  "jmh_id": "JMH-052094-0006",
+  "name": "シダレカツラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市花輪字新田町11-4"
+ },
+ {
+  "jmh_id": "JMH-052094-0025",
+  "name": "唐傘松(アカ松)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1978-02-22",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字湯瀬堰根口48"
+ },
+ {
+  "jmh_id": "JMH-052094-0029",
+  "name": "神明社親杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-07-15",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田末広字向イ平106"
+ },
+ {
+  "jmh_id": "JMH-052094-0039",
+  "name": "長嶺毘沙門神社の大公孫樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字堂の前"
+ },
+ {
+  "jmh_id": "JMH-052094-0031",
+  "name": "八幡平神社境内のミズナラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-01-16",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市八幡平字切留平50-2"
+ },
+ {
+  "jmh_id": "JMH-052094-0041",
+  "name": "大欠千手観音堂の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-03-26",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市十和田末広字沖ノ平63"
+ },
+ {
+  "jmh_id": "JMH-052094-0007",
+  "name": "下川原トビウオ生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-02-04",
+  "municipality": "鹿角市",
+  "location": "秋田県鹿角市花輪字赤川"
+ },
+ {
+  "jmh_id": "JMH-052140-0023",
+  "name": "七日市長岐邸",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 / 建造物",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "北秋田市",
+  "location": "鷹巣"
+ },
+ {
+  "jmh_id": "JMH-052140-0038",
+  "name": "専念寺山門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 / 建造物",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "北秋田市",
+  "location": "阿仁"
+ },
+ {
+  "jmh_id": "JMH-052140-0040",
+  "name": "比立内発電所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡 / 遺跡",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "北秋田市",
+  "location": "阿仁"
+ },
+ {
+  "jmh_id": "JMH-052140-0003",
+  "name": "明治天皇鷹巣行在所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡 / 遺跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-01",
+  "municipality": "北秋田市",
+  "location": "鷹巣"
+ },
+ {
+  "jmh_id": "JMH-052140-0009",
+  "name": "首切り塚と五義民地蔵",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡 / 遺跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-01",
+  "municipality": "北秋田市",
+  "location": "鷹巣"
+ },
+ {
+  "jmh_id": "JMH-052140-0006",
+  "name": "綴子肝煎屋敷本陣跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡 / 遺跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-01",
+  "municipality": "北秋田市",
+  "location": "鷹巣"
+ },
+ {
+  "jmh_id": "JMH-052140-0007",
+  "name": "胡桃館遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡 / 遺跡",
+  "designation": "市指定",
+  "designated_date": "1978-02-01",
+  "municipality": "北秋田市",
+  "location": "鷹巣"
+ }
+]

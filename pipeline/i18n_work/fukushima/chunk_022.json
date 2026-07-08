@@ -1,0 +1,391 @@
+[
+ {
+  "jmh_id": "JMH-072133-0077",
+  "name": "馬景遺跡出土品甕型土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0049",
+  "name": "渡船場制札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0015",
+  "name": "六地蔵石幢",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0025",
+  "name": "小林家所蔵の暦",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0056",
+  "name": "石造五輪塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0074",
+  "name": "阿弥陀三尊種子供養塔（板碑）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0012",
+  "name": "伝小野小町塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0039",
+  "name": "春日神社石祠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0020",
+  "name": "塩坪化石層",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2006-01-04",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0095",
+  "name": "ギフチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2020-02-18",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072133-0094",
+  "name": "キマダラルリツバメ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2020-02-18",
+  "municipality": "喜多方市"
+ },
+ {
+  "jmh_id": "JMH-072036-0090",
+  "name": "蛇骨地蔵堂",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "2000-04-25",
+  "municipality": "郡山市",
+  "location": "郡山市日和田町字日和田125"
+ },
+ {
+  "jmh_id": "JMH-072036-0091",
+  "name": "西方寺の傘マツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-04-25",
+  "municipality": "郡山市",
+  "location": "郡山市日和田町字日和田125"
+ },
+ {
+  "jmh_id": "JMH-072036-0065",
+  "name": "銅鐘(阿弥陀寺)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-12-20",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町久保田字久保田52"
+ },
+ {
+  "jmh_id": "JMH-072036-0025",
+  "name": "山王舘遺跡出土「浅鉢」",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町久保田字山王舘(出土地)"
+ },
+ {
+  "jmh_id": "JMH-072036-0024",
+  "name": "山王舘遺跡出土「三角壔立体土製品」",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町久保田字山王舘(出土地)"
+ },
+ {
+  "jmh_id": "JMH-072036-0023",
+  "name": "山王舘遺跡出土「三角土製品」",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-13",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町久保田字山王舘(出土地)"
+ },
+ {
+  "jmh_id": "JMH-072036-0053",
+  "name": "石造浮彫阿弥陀三尊塔婆(本栖寺)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-03-31",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町福原字福原11"
+ },
+ {
+  "jmh_id": "JMH-072036-0054",
+  "name": "石造浮彫阿弥陀如来坐像塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1979-03-31",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町福原字福原11"
+ },
+ {
+  "jmh_id": "JMH-072036-0086",
+  "name": "堂坂供養塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1996-09-26",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町堂坂字岩ケ作3"
+ },
+ {
+  "jmh_id": "JMH-072036-0001",
+  "name": "伊東肥前の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市富久山町久保田字山王舘19"
+ },
+ {
+  "jmh_id": "JMH-072036-0072",
+  "name": "平田尚範書状",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1990-10-16",
+  "municipality": "郡山市",
+  "location": "郡山市西田町三町目"
+ },
+ {
+  "jmh_id": "JMH-072036-0076",
+  "name": "関根の石造塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1991-02-19",
+  "municipality": "郡山市",
+  "location": "郡山市西田町三町目字関根"
+ },
+ {
+  "jmh_id": "JMH-072036-0075",
+  "name": "関根の石造五輪塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1991-02-19",
+  "municipality": "郡山市",
+  "location": "郡山市西田町三町目字関根"
+ },
+ {
+  "jmh_id": "JMH-072036-0048",
+  "name": "絵馬 神馬図",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-05-11",
+  "municipality": "郡山市",
+  "location": "郡山市西田町丹伊田字宮作239"
+ },
+ {
+  "jmh_id": "JMH-072036-0068",
+  "name": "高柴の七福神踊り",
+  "category": "民俗文化財",
+  "subcategory": "市指定重要無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-03-31",
+  "municipality": "郡山市",
+  "location": "郡山市西田町高柴"
+ },
+ {
+  "jmh_id": "JMH-072036-0096",
+  "name": "内出のサクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "2002-12-24",
+  "municipality": "郡山市",
+  "location": "郡山市西田町土棚字内出"
+ },
+ {
+  "jmh_id": "JMH-072036-0078",
+  "name": "安積開拓官舎(旧立岩一郎邸)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1991-08-02",
+  "municipality": "郡山市",
+  "location": "郡山市開成三丁目3-7"
+ },
+ {
+  "jmh_id": "JMH-072036-0088",
+  "name": "安積開拓入植者住宅(旧小山家)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1996-12-26",
+  "municipality": "郡山市",
+  "location": "郡山市開成三丁目3-7"
+ },
+ {
+  "jmh_id": "JMH-072036-0014",
+  "name": "音路の石造層塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市富田町字音路32"
+ },
+ {
+  "jmh_id": "JMH-072036-0045",
+  "name": "絹本著色真宗系太子略絵伝",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-21",
+  "municipality": "郡山市",
+  "location": "郡山市小原田一丁目9-14"
+ },
+ {
+  "jmh_id": "JMH-072036-0019",
+  "name": "太刀 勝光",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1960-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市開成三丁目1-38"
+ },
+ {
+  "jmh_id": "JMH-072036-0020",
+  "name": "槍銘 国綱",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1960-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市開成三丁目1-38"
+ },
+ {
+  "jmh_id": "JMH-072036-0011",
+  "name": "石造浮彫阿弥陀三尊塔婆(阿邪訶根神社)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市大町二丁目14-1"
+ },
+ {
+  "jmh_id": "JMH-072036-0008",
+  "name": "石造浮彫阿弥陀三尊塔婆(円寿寺)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市小原田一丁目9-14"
+ },
+ {
+  "jmh_id": "JMH-072036-0010",
+  "name": "石造浮彫阿弥陀三尊塔婆(熊野神社)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市本町一丁目18"
+ },
+ {
+  "jmh_id": "JMH-072036-0007",
+  "name": "石造浮彫阿弥陀三尊塔婆(今泉女子専門学校)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市大町一丁目2-3"
+ },
+ {
+  "jmh_id": "JMH-072036-0009",
+  "name": "石造浮彫阿弥陀三尊塔婆(富田町)",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市富田町字丸山"
+ },
+ {
+  "jmh_id": "JMH-072036-0003",
+  "name": "山崎の石造塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1958-05-14",
+  "municipality": "郡山市",
+  "location": "郡山市香久池二丁目9-14"
+ },
+ {
+  "jmh_id": "JMH-072036-0016",
+  "name": "山崎の延文双式塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要有形文化財",
+  "designation": "市指定",
+  "designated_date": "1960-02-16",
+  "municipality": "郡山市",
+  "location": "郡山市香久池二丁目9-14"
+ }
+]

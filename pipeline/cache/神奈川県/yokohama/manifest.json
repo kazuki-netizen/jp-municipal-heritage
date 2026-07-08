@@ -1,0 +1,18 @@
+{
+  "044e15fb27838f92": {
+    "url": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunya12000.html",
+    "filename": "044e15fb27838f92.html",
+    "sha256": "af85ad5dd9c311c5bc3752573afb1cb8f7d4835380231e963a8ad128b179d6e1",
+    "fetched_at": "2026-07-08T03:18:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f63ec516730c891a": {
+    "url": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunya12000.files/0052_20260616.pdf",
+    "filename": "f63ec516730c891a.pdf",
+    "sha256": "8cbed43ef100e396b694f03652a7005a4db22244ca409c282e58669dad00b09e",
+    "fetched_at": "2026-07-08T03:18:21Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

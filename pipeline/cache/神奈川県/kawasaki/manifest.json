@@ -1,0 +1,18 @@
+{
+  "43f9a68061a7a23d": {
+    "url": "https://www.city.kawasaki.jp/880/category/10-6-2-12-0-0-0-0-0-0.html",
+    "filename": "43f9a68061a7a23d.html",
+    "sha256": "662dfaeb8e257e366cf82c4b0c97dfc93843495f94dc19f5d5752ec39fe52d1d",
+    "fetched_at": "2026-07-08T03:18:21Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "80e9725fc3774f00": {
+    "url": "https://www.city.kawasaki.jp/880/category/10-6-2-0-0-0-0-0-0-0.html",
+    "filename": "80e9725fc3774f00.html",
+    "sha256": "b3254fe9bcb00c42fd4954fe8fb9f85c13e3b235d1c7cd6112321214c8f3995c",
+    "fetched_at": "2026-07-08T03:18:23Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,387 @@
+[
+ {
+  "jmh_id": "JMH-024341-0006",
+  "name": "蓑虫山人の書 一幅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書籍）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024341-0002",
+  "name": "勝海舟の書 ニ幅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書籍）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024341-0007",
+  "name": "蓑虫山人の絵 三帖",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024341-0008",
+  "name": "蓑虫山人の絵 六帖",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024341-0001",
+  "name": "オシラサマ 二躯",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（信仰）",
+  "designation": "村指定",
+  "municipality": "佐井村"
+ },
+ {
+  "jmh_id": "JMH-024511-0001",
+  "name": "弘法大師坐像",
+  "category": "その他",
+  "designation": "町指定",
+  "municipality": "三戸町",
+  "location": "三戸町同心町字諏訪内"
+ },
+ {
+  "jmh_id": "JMH-024023-0002",
+  "name": "薬師如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "七戸町",
+  "location": "七戸町"
+ },
+ {
+  "jmh_id": "JMH-024023-0003",
+  "name": "青岩寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "七戸町",
+  "location": "七戸町"
+ },
+ {
+  "jmh_id": "JMH-024023-0001",
+  "name": "天間舘一里塚ケヤキの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "七戸町",
+  "location": "七戸町天間舘"
+ },
+ {
+  "jmh_id": "JMH-024601-0008",
+  "name": "田中鶏舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "西越田中鶏舞保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0007",
+  "name": "田中獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "田中獅子舞保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0009",
+  "name": "西越獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "西越獅子舞保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0003",
+  "name": "中里神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "中里神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0002",
+  "name": "中崎神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "中崎神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0012",
+  "name": "間明田駒踊り",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "間明田駒踊り保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0005",
+  "name": "大谷地神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "大谷地神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0006",
+  "name": "栃窪逆栃",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 天然記念物",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "西越字栃窪"
+ },
+ {
+  "jmh_id": "JMH-024601-0004",
+  "name": "大石上方位石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 名勝",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "戸来字雨池"
+ },
+ {
+  "jmh_id": "JMH-024601-0011",
+  "name": "金沢山長泉寺旧跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 史跡",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "戸来字獅子神"
+ },
+ {
+  "jmh_id": "JMH-024601-0010",
+  "name": "赤坂森環状列石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 史跡",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "戸来字赤坂森"
+ },
+ {
+  "jmh_id": "JMH-024601-0001",
+  "name": "三嶽神社御神木欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 天然記念物",
+  "designation": "村指定",
+  "designated_date": "1962-08-16",
+  "municipality": "新郷村",
+  "location": "戸来字三嶽下"
+ },
+ {
+  "jmh_id": "JMH-024601-0013",
+  "name": "水芭蕉群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 天然記念物",
+  "designation": "村指定",
+  "designated_date": "1977-05-14",
+  "municipality": "新郷村",
+  "location": "戸来字雨池"
+ },
+ {
+  "jmh_id": "JMH-024601-0014",
+  "name": "金ケ沢獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財 民俗芸能",
+  "designation": "村指定",
+  "designated_date": "1977-05-14",
+  "municipality": "新郷村",
+  "location": "金ヶ沢獅子舞保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0015",
+  "name": "中国古銭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "村指定",
+  "designated_date": "1979-05-23",
+  "municipality": "新郷村",
+  "location": "戸来字女ケ崎"
+ },
+ {
+  "jmh_id": "JMH-024601-0016",
+  "name": "えんぶり烏帽子",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "村指定",
+  "designated_date": "1988-10-26",
+  "municipality": "新郷村",
+  "location": "小坂地区"
+ },
+ {
+  "jmh_id": "JMH-024601-0017",
+  "name": "鹿頭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "村指定",
+  "designated_date": "1988-10-26",
+  "municipality": "新郷村",
+  "location": "鹿田地区"
+ },
+ {
+  "jmh_id": "JMH-024601-0018",
+  "name": "神楽面",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "村指定",
+  "designated_date": "1991-04-30",
+  "municipality": "新郷村",
+  "location": "田中獅子舞保存会"
+ },
+ {
+  "jmh_id": "JMH-024601-0019",
+  "name": "野沢温泉 ひばの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 天然記念物",
+  "designation": "村指定",
+  "designated_date": "1991-07-20",
+  "municipality": "新郷村",
+  "location": "西越財産区議会"
+ },
+ {
+  "jmh_id": "JMH-024601-0020",
+  "name": "神楽面",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "村指定",
+  "designated_date": "1995-10-23",
+  "municipality": "新郷村",
+  "location": "西越地区"
+ },
+ {
+  "jmh_id": "JMH-024601-0021",
+  "name": "香の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物 天然記念物",
+  "designation": "村指定",
+  "designated_date": "1995-10-23",
+  "municipality": "新郷村",
+  "location": "西越字北向"
+ },
+ {
+  "jmh_id": "JMH-023051-0006",
+  "name": "武者絵懸額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田大平山元"
+ },
+ {
+  "jmh_id": "JMH-023051-0004",
+  "name": "付合い句懸額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田田ノ沢"
+ },
+ {
+  "jmh_id": "JMH-023051-0007",
+  "name": "漁労懸額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田塩越"
+ },
+ {
+  "jmh_id": "JMH-023051-0010",
+  "name": "赤平清兵衛塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田塩越"
+ },
+ {
+  "jmh_id": "JMH-023051-0009",
+  "name": "蟹田奉行所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田上蟹田"
+ },
+ {
+  "jmh_id": "JMH-023051-0005",
+  "name": "外ケ浜道跡（あかふら峠）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田塩越"
+ },
+ {
+  "jmh_id": "JMH-023051-0011",
+  "name": "鍛冶屋の一本松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田鰐ヶ淵"
+ },
+ {
+  "jmh_id": "JMH-023051-0008",
+  "name": "皀莢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1995-12-18",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田小国山崎"
+ },
+ {
+  "jmh_id": "JMH-023051-0015",
+  "name": "専念寺山門と仁王尊像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-05-10",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田下蟹田"
+ },
+ {
+  "jmh_id": "JMH-023051-0014",
+  "name": "外ケ浜道跡（観瀾山下）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2002-05-10",
+  "municipality": "外ヶ浜町",
+  "location": "外ヶ浜町蟹田中師宮本"
+ }
+]

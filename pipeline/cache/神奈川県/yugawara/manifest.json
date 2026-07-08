@@ -1,0 +1,18 @@
+{
+  "4bc8eb903a647912": {
+    "url": "https://www.town.yugawara.kanagawa.jp/uploaded/attachment/17820.pdf",
+    "filename": "4bc8eb903a647912.pdf",
+    "sha256": "bab9053794003648e8f7a249fc995e1b026a2d39d7d44db49840fda0764cdd2f",
+    "fetched_at": "2026-07-08T03:19:25Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "863d42607bfc2ade": {
+    "url": "https://www.town.yugawara.kanagawa.jp/kyoiku/rekishibunnka/historic-spot.html",
+    "filename": "863d42607bfc2ade.html",
+    "sha256": "27789696d88dd1c84e2b165cc3c07475ba301b40c796ab087ea56b92c87c38f8",
+    "fetched_at": "2026-07-08T03:19:27Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

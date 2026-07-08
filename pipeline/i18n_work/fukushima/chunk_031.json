@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072109-0086",
+  "name": "野馬狩の告文",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0084",
+  "name": "相馬家系図",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0083",
+  "name": "小高城跡採集金鯱片",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1999-02-17",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0089",
+  "name": "火矢野原六字名号石碑",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1999-06-25",
+  "municipality": "南相馬市",
+  "location": "鹿島区小池"
+ },
+ {
+  "jmh_id": "JMH-072109-0088",
+  "name": "大六天遺跡出土ヘラ書「少毅殿」土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1999-06-25",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0092",
+  "name": "銅製鰐口（正長元年鋳造）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-02-01",
+  "municipality": "南相馬市",
+  "location": "原町区江井"
+ },
+ {
+  "jmh_id": "JMH-072109-0091",
+  "name": "銅製鰐口（元禄九年鋳造）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-02-01",
+  "municipality": "南相馬市",
+  "location": "原町区江井"
+ },
+ {
+  "jmh_id": "JMH-072109-0094",
+  "name": "上渋佐7号墳出土銅鏡",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-09-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0095",
+  "name": "生駒家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2002-03-31",
+  "municipality": "南相馬市",
+  "location": "小高区泉沢"
+ },
+ {
+  "jmh_id": "JMH-072109-0100",
+  "name": "高平の板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2002-11-05",
+  "municipality": "南相馬市",
+  "location": "原町区上高平"
+ },
+ {
+  "jmh_id": "JMH-072109-0098",
+  "name": "荷渡大権現の板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2002-11-05",
+  "municipality": "南相馬市",
+  "location": "原町区北長野"
+ },
+ {
+  "jmh_id": "JMH-072109-0096",
+  "name": "相馬太田神社の板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2002-11-05",
+  "municipality": "南相馬市",
+  "location": "原町区中太田"
+ },
+ {
+  "jmh_id": "JMH-072109-0097",
+  "name": "社号額「大明神」",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2002-11-05",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0101",
+  "name": "火縄銃 銘中村住神尾久右衛門橘公宗",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-03-31",
+  "municipality": "南相馬市",
+  "location": "原町区押釜"
+ },
+ {
+  "jmh_id": "JMH-072109-0102",
+  "name": "黒漆塗鳩胸五枚胴具足 附采配、具足櫃、櫃覆",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-03-31",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0103",
+  "name": "文禄四年「俵口橘左衛門宛相馬義胤書状」",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2005-10-13",
+  "municipality": "南相馬市",
+  "location": "鹿島区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0045",
+  "name": "牛河内の木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区牛河内"
+ },
+ {
+  "jmh_id": "JMH-072109-0007",
+  "name": "陣太鼓",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-08-29",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0008",
+  "name": "鳥毛槍",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-08-29",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0040",
+  "name": "聖石",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区大甕"
+ },
+ {
+  "jmh_id": "JMH-072109-0042",
+  "name": "金箔押盛上本小札紺糸威二枚胴具足",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0039",
+  "name": "紺糸威二枚胴具足の兜と大袖",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区栄町"
+ },
+ {
+  "jmh_id": "JMH-072109-0036",
+  "name": "盛上本小札紺糸裾濃威胴丸",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0037",
+  "name": "盛上本小札縹糸威二枚胴丸",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0035",
+  "name": "切付盛上札色々威二枚胴具足",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0041",
+  "name": "色々威胴丸",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0038",
+  "name": "紺糸威丸胴および兜と袖",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0043",
+  "name": "金箔押盛上本小札緋威鹿角紺糸紋柄威二枚胴具足",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0063",
+  "name": "測量具と量地三略版木",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-09-14",
+  "municipality": "南相馬市",
+  "location": "鹿島区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0077",
+  "name": "旧門馬家所蔵火伏せ資料、外火伏せ資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-08-11",
+  "municipality": "南相馬市",
+  "location": "鹿島区博物館"
+ },
+ {
+  "jmh_id": "JMH-072109-0104",
+  "name": "小浜千石稲荷神社 地引網漁図絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2009-04-10",
+  "municipality": "南相馬市",
+  "location": "原町区小浜"
+ },
+ {
+  "jmh_id": "JMH-072109-0105",
+  "name": "北右田の屋敷林",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2021-04-23",
+  "municipality": "南相馬市",
+  "location": "鹿島区北右田"
+ },
+ {
+  "jmh_id": "JMH-072109-0003",
+  "name": "相馬家墓地並びに相馬家霊堂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-03-31",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0002",
+  "name": "浪岩横穴古墳A群11号",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-03-31",
+  "municipality": "南相馬市",
+  "location": "小高区泉沢"
+ },
+ {
+  "jmh_id": "JMH-072109-0001",
+  "name": "村上城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-03-31",
+  "municipality": "南相馬市",
+  "location": "小高区村上"
+ },
+ {
+  "jmh_id": "JMH-072109-0011",
+  "name": "菖蒲沢の野馬土手・高木戸の野馬土手",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-01",
+  "municipality": "南相馬市",
+  "location": "小高区羽倉"
+ },
+ {
+  "jmh_id": "JMH-072109-0017",
+  "name": "小谷津の貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区泉沢"
+ },
+ {
+  "jmh_id": "JMH-072109-0021",
+  "name": "片草の貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区片草"
+ },
+ {
+  "jmh_id": "JMH-072109-0023",
+  "name": "角部内南台の東貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区角部内"
+ },
+ {
+  "jmh_id": "JMH-072109-0022",
+  "name": "角部内南台の南貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区角部内"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-092088-0016",
+  "name": "間々田八幡宮のコナラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "小山市",
+  "location": "小山市間々田"
+ },
+ {
+  "jmh_id": "JMH-092088-0017",
+  "name": "間々田八幡宮のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "小山市",
+  "location": "小山市間々田"
+ },
+ {
+  "jmh_id": "JMH-092088-0015",
+  "name": "田中家のツゲ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "小山市",
+  "location": "小山市南飯田"
+ },
+ {
+  "jmh_id": "JMH-092088-0026",
+  "name": "天翁院のコウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-05-01",
+  "municipality": "小山市",
+  "location": "小山市本郷町"
+ },
+ {
+  "jmh_id": "JMH-092088-0029",
+  "name": "福地家のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-11-28",
+  "municipality": "小山市",
+  "location": "小山市西黒田"
+ },
+ {
+  "jmh_id": "JMH-092088-0031",
+  "name": "鷲神社参道のスギ並木と境内のシラカシ2本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-11-28",
+  "municipality": "小山市",
+  "location": "小山市外城"
+ },
+ {
+  "jmh_id": "JMH-092088-0028",
+  "name": "国府神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-11-28",
+  "municipality": "小山市",
+  "location": "小山市下国府塚"
+ },
+ {
+  "jmh_id": "JMH-092088-0033",
+  "name": "日枝神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-05-01",
+  "municipality": "小山市",
+  "location": "小山市喜沢"
+ },
+ {
+  "jmh_id": "JMH-092045-0006",
+  "name": "銅造 鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-01-10",
+  "municipality": "佐野市",
+  "location": "佐野市大蔵町2928"
+ },
+ {
+  "jmh_id": "JMH-092045-0007",
+  "name": "銅造 鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-01-10",
+  "municipality": "佐野市",
+  "location": "佐野市植下町430"
+ },
+ {
+  "jmh_id": "JMH-092045-0013",
+  "name": "仁王門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-02-12",
+  "municipality": "佐野市",
+  "location": "佐野市並木町1185"
+ },
+ {
+  "jmh_id": "JMH-092045-0016",
+  "name": "民家",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-06-25",
+  "municipality": "佐野市",
+  "location": "佐野市鐙塚町"
+ },
+ {
+  "jmh_id": "JMH-092045-0023",
+  "name": "石灯籠",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1959-12-24",
+  "municipality": "佐野市",
+  "location": "佐野市久保町"
+ },
+ {
+  "jmh_id": "JMH-092045-0109",
+  "name": "仁王門及び仁王像",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-04-30",
+  "municipality": "佐野市",
+  "location": "佐野市飛駒町2900"
+ },
+ {
+  "jmh_id": "JMH-092045-0115",
+  "name": "東光寺中門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1985-09-25",
+  "municipality": "佐野市",
+  "location": "佐野市寺中町2337"
+ },
+ {
+  "jmh_id": "JMH-092045-0119",
+  "name": "熊野神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-12-06",
+  "municipality": "佐野市",
+  "location": "佐野市石塚町1721"
+ },
+ {
+  "jmh_id": "JMH-092045-0130",
+  "name": "旧三好小学校校舎",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-04-17",
+  "municipality": "佐野市",
+  "location": "佐野市岩崎町1325-1"
+ },
+ {
+  "jmh_id": "JMH-092045-0135",
+  "name": "一瓶塚稲荷神社及び西宮神社の社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1991-02-14",
+  "municipality": "佐野市",
+  "location": "佐野市田沼町1404"
+ },
+ {
+  "jmh_id": "JMH-092045-0170",
+  "name": "嘉多山七輪窯",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2000-11-29",
+  "municipality": "佐野市",
+  "location": "佐野市嘉多山町1790"
+ },
+ {
+  "jmh_id": "JMH-092045-0186",
+  "name": "惣宗寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2018-02-15",
+  "municipality": "佐野市",
+  "location": "佐野市金井上町2233"
+ },
+ {
+  "jmh_id": "JMH-092045-0018",
+  "name": "絹本着色 佐野昌綱画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-06-25",
+  "municipality": "佐野市",
+  "location": "佐野市犬伏下町2285"
+ },
+ {
+  "jmh_id": "JMH-092045-0068",
+  "name": "絹本着色 柿本人麻呂像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1966-05-10",
+  "municipality": "佐野市",
+  "location": "佐野市小中町1062"
+ },
+ {
+  "jmh_id": "JMH-092045-0081",
+  "name": "安蘇馬車鉄道㈱時代の葛生駅附近図絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1969-07-25",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0084",
+  "name": "望月省三作水彩画 「熱海梅林」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-12-18",
+  "municipality": "佐野市",
+  "location": "佐野市赤見町3229"
+ },
+ {
+  "jmh_id": "JMH-092045-0085",
+  "name": "望月省三作水彩画「麦打ち」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1970-12-18",
+  "municipality": "佐野市",
+  "location": "佐野市出流原町628-1"
+ },
+ {
+  "jmh_id": "JMH-092045-0129",
+  "name": "紙本淡彩 琴棋書画図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-03-20",
+  "municipality": "佐野市",
+  "location": "佐野市大橋町2047"
+ },
+ {
+  "jmh_id": "JMH-092045-0143",
+  "name": "小堀靹音筆 「佐野乃雪」",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1993-02-12",
+  "municipality": "佐野市",
+  "location": "佐野市葛生西"
+ },
+ {
+  "jmh_id": "JMH-092045-0159",
+  "name": "天井絵雲龍花鳥図156枚、木村護之介勝守 （尚遷莢守） 図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1997-10-03",
+  "municipality": "佐野市",
+  "location": "佐野市戸奈良町960"
+ },
+ {
+  "jmh_id": "JMH-092045-0004",
+  "name": "銅造 阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-01-10",
+  "municipality": "佐野市",
+  "location": "佐野市大祝町2312"
+ },
+ {
+  "jmh_id": "JMH-092045-0005",
+  "name": "銅造 阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-01-10",
+  "municipality": "佐野市",
+  "location": "佐野市金井上町2237"
+ },
+ {
+  "jmh_id": "JMH-092045-0003",
+  "name": "銅造 地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-01-10",
+  "municipality": "佐野市",
+  "location": "佐野市赤見町1148"
+ },
+ {
+  "jmh_id": "JMH-092045-0014",
+  "name": "木造 金剛力士像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-02-12",
+  "municipality": "佐野市",
+  "location": "佐野市並木町1185"
+ },
+ {
+  "jmh_id": "JMH-092045-0015",
+  "name": "木造 阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-06-25",
+  "municipality": "佐野市",
+  "location": "佐野市犬伏下町2285"
+ },
+ {
+  "jmh_id": "JMH-092045-0019",
+  "name": "銅造 薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-06-25",
+  "municipality": "佐野市",
+  "location": "佐野市犬伏下町2285"
+ },
+ {
+  "jmh_id": "JMH-092045-0020",
+  "name": "神楽面",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-10-01",
+  "municipality": "佐野市",
+  "location": "佐野市小中町1062"
+ },
+ {
+  "jmh_id": "JMH-092045-0028",
+  "name": "銅造 地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-04-09",
+  "municipality": "佐野市",
+  "location": "佐野市越名町406"
+ },
+ {
+  "jmh_id": "JMH-092045-0037",
+  "name": "木造 地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-05-27",
+  "municipality": "佐野市",
+  "location": "佐野市天明町2229"
+ },
+ {
+  "jmh_id": "JMH-092045-0040",
+  "name": "銅造 阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-05-27",
+  "municipality": "佐野市",
+  "location": "佐野市天明町2229"
+ },
+ {
+  "jmh_id": "JMH-092045-0045",
+  "name": "木造 釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-03-22",
+  "municipality": "佐野市",
+  "location": "佐野市村上町788"
+ },
+ {
+  "jmh_id": "JMH-092045-0044",
+  "name": "木造 地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-03-22",
+  "municipality": "佐野市",
+  "location": "佐野市村上町788"
+ }
+]

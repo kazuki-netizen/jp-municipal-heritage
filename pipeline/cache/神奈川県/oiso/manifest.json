@@ -1,0 +1,18 @@
+{
+  "d538716dfc140e42": {
+    "url": "https://www.town.oiso.kanagawa.jp/bunka_sports/bunka/culture/1553505871959.html",
+    "filename": "d538716dfc140e42.html",
+    "sha256": "22aa3af2d340b92d72baf5c1b7a97a4e3b908d87ca9e61770e35ef1cb2978113",
+    "fetched_at": "2026-07-08T03:18:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "51f53c79e1189c6b": {
+    "url": "https://www.town.oiso.kanagawa.jp/material/files/group/30/bunkazaiR71209.pdf",
+    "filename": "51f53c79e1189c6b.pdf",
+    "sha256": "7468385514cad42318152bf82f1b71ad05893e8e0a56f2f96a8b2aa7d3d39a2a",
+    "fetched_at": "2026-07-08T03:18:33Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

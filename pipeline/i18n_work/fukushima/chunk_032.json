@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-072109-0020",
+  "name": "浦尻の神ノ前貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区浦尻"
+ },
+ {
+  "jmh_id": "JMH-072109-0019",
+  "name": "浦尻の北向貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区浦尻"
+ },
+ {
+  "jmh_id": "JMH-072109-0018",
+  "name": "浦尻の北原貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区浦尻"
+ },
+ {
+  "jmh_id": "JMH-072109-0014",
+  "name": "上浦の加賀後貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0015",
+  "name": "上浦の宮田北貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0016",
+  "name": "上浦の宮田東貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-05-31",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0024",
+  "name": "羽山岳の木戸跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-07-01",
+  "municipality": "南相馬市",
+  "location": "原町区上太田"
+ },
+ {
+  "jmh_id": "JMH-072109-0025",
+  "name": "泉の舘跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-06-01",
+  "municipality": "南相馬市",
+  "location": "原町区泉"
+ },
+ {
+  "jmh_id": "JMH-072109-0029",
+  "name": "岩屋堂の磨崖仏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "南相馬市",
+  "location": "鹿島区塩崎"
+ },
+ {
+  "jmh_id": "JMH-072109-0026",
+  "name": "北原古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "南相馬市",
+  "location": "鹿島区南海老"
+ },
+ {
+  "jmh_id": "JMH-072109-0046",
+  "name": "日向横穴群1号墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-09-20",
+  "municipality": "南相馬市",
+  "location": "小高区塚原"
+ },
+ {
+  "jmh_id": "JMH-072109-0065",
+  "name": "岩屋堂石仏並びに横穴墓群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1994-01-26",
+  "municipality": "南相馬市",
+  "location": "小高区吉名"
+ },
+ {
+  "jmh_id": "JMH-072109-0090",
+  "name": "桜井古墳群上渋佐7号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2000-02-01",
+  "municipality": "南相馬市",
+  "location": "原町区上渋佐"
+ },
+ {
+  "jmh_id": "JMH-072109-0099",
+  "name": "野馬土手",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2002-11-05",
+  "municipality": "南相馬市",
+  "location": "原町区上渋佐"
+ },
+ {
+  "jmh_id": "JMH-072109-0010",
+  "name": "行津の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-02-01",
+  "municipality": "南相馬市",
+  "location": "小高区行津"
+ },
+ {
+  "jmh_id": "JMH-072109-0032",
+  "name": "阿弥陀寺の大いちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "南相馬市",
+  "location": "鹿島区南屋形"
+ },
+ {
+  "jmh_id": "JMH-072109-0030",
+  "name": "日吉神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "南相馬市",
+  "location": "鹿島区江垂"
+ },
+ {
+  "jmh_id": "JMH-072109-0027",
+  "name": "宝蔵寺の楓と大モミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "南相馬市",
+  "location": "鹿島区北海老"
+ },
+ {
+  "jmh_id": "JMH-072109-0028",
+  "name": "山田沼のモリアオガエル生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-12-20",
+  "municipality": "南相馬市",
+  "location": "鹿島区上栃窪"
+ },
+ {
+  "jmh_id": "JMH-072109-0033",
+  "name": "同慶寺のいちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "南相馬市",
+  "location": "小高区小高"
+ },
+ {
+  "jmh_id": "JMH-072109-0048",
+  "name": "飯崎のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-09-20",
+  "municipality": "南相馬市",
+  "location": "小高区飯崎"
+ },
+ {
+  "jmh_id": "JMH-072109-0061",
+  "name": "冠嶺神社の樹林一括",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-10-12",
+  "municipality": "南相馬市",
+  "location": "鹿島区上栃窪"
+ },
+ {
+  "jmh_id": "JMH-072109-0062",
+  "name": "八坂神社のアカガシ樹林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1993-04-01",
+  "municipality": "南相馬市",
+  "location": "原町区石神"
+ },
+ {
+  "jmh_id": "JMH-072109-0064",
+  "name": "上浦のキャラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-01-26",
+  "municipality": "南相馬市",
+  "location": "小高区上浦"
+ },
+ {
+  "jmh_id": "JMH-072109-0071",
+  "name": "下大神宮のヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-07-13",
+  "municipality": "南相馬市",
+  "location": "鹿島区南柚木"
+ },
+ {
+  "jmh_id": "JMH-072109-0074",
+  "name": "恐竜の足跡化石産出地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-04-17",
+  "municipality": "南相馬市",
+  "location": "鹿島区小山田"
+ },
+ {
+  "jmh_id": "JMH-072109-0075",
+  "name": "（新種）裸子植物ソテツ目の絶滅種化石ニルソニオ・クレイダス・タイラエ/ニルソニオ・クレイダイス・ジャポニカス",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-04-17",
+  "municipality": "南相馬市",
+  "location": "鹿島区烏崎"
+ },
+ {
+  "jmh_id": "JMH-072109-0076",
+  "name": "大富のヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1997-07-01",
+  "municipality": "南相馬市",
+  "location": "小高区大富"
+ },
+ {
+  "jmh_id": "JMH-072109-0093",
+  "name": "小林家のアカガシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2001-06-04",
+  "municipality": "南相馬市",
+  "location": "鹿島区小池"
+ },
+ {
+  "jmh_id": "JMH-072109-0034",
+  "name": "金谷の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "南相馬市",
+  "location": "小高区金谷"
+ },
+ {
+  "jmh_id": "JMH-072109-0054",
+  "name": "小池の獅子踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-12-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区小池"
+ },
+ {
+  "jmh_id": "JMH-072109-0055",
+  "name": "中村藩日置流印西派弓組",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-12-15",
+  "municipality": "南相馬市",
+  "location": "鹿島区塩崎"
+ },
+ {
+  "jmh_id": "JMH-072109-0069",
+  "name": "北萱浜の天狗舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1995-05-01",
+  "municipality": "南相馬市",
+  "location": "原町区北萱浜"
+ },
+ {
+  "jmh_id": "JMH-072109-0070",
+  "name": "馬場の神楽七芸",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1995-05-01",
+  "municipality": "南相馬市",
+  "location": "原町区馬場"
+ },
+ {
+  "jmh_id": "JMH-072109-0106",
+  "name": "鹿島御子神社の火伏祭りと天灯籠神事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2022-04-25",
+  "municipality": "南相馬市",
+  "location": "鹿島区鹿島"
+ },
+ {
+  "jmh_id": "JMH-072125-0002",
+  "name": "庚申壇古墳(史跡)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字竹花"
+ },
+ {
+  "jmh_id": "JMH-072125-0026",
+  "name": "天王壇古墳(史跡)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字南ノ内"
+ },
+ {
+  "jmh_id": "JMH-072125-0001",
+  "name": "岩井の清水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1970-03-31",
+  "municipality": "本宮市",
+  "location": "本宮市青田字岩井"
+ },
+ {
+  "jmh_id": "JMH-072125-0013",
+  "name": "日輪寺の枝垂桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-05-26",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字山田"
+ },
+ {
+  "jmh_id": "JMH-072125-0029",
+  "name": "安達太良神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-12-25",
+  "municipality": "本宮市",
+  "location": "本宮市本宮字舘ノ越"
+ }
+]

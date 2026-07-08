@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-041009-0092",
+  "name": "藩政用仙台城下絵図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-04-28",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区川内26"
+ },
+ {
+  "jmh_id": "JMH-041009-0090",
+  "name": "仙台城下鳥瞰図",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-04-28",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区川内26"
+ },
+ {
+  "jmh_id": "JMH-041009-0113",
+  "name": "仙台藩修復帳",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2019-12-13",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区片平2丁目1-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0093",
+  "name": "伊達政宗和歌詠草「入そめて」",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-03-22",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区川内26"
+ },
+ {
+  "jmh_id": "JMH-041009-0094",
+  "name": "旧大橋の擬宝珠",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-03-22",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区川内26"
+ },
+ {
+  "jmh_id": "JMH-041009-0059",
+  "name": "上前十三塚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1990-03-19",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区坪沼字上前"
+ },
+ {
+  "jmh_id": "JMH-041009-0069",
+  "name": "源頼政鵺退治図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-07-07",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区向山4丁目17-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0070",
+  "name": "牛若丸剣道修行図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-07-07",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区向山4丁目17-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0066",
+  "name": "中村景貞乗馬図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-07-07",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区四郎丸字落合60"
+ },
+ {
+  "jmh_id": "JMH-041009-0068",
+  "name": "曳馬図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-07-07",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区四郎丸字落合60"
+ },
+ {
+  "jmh_id": "JMH-041009-0067",
+  "name": "宇治川先陣図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-07-07",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区四郎丸字落合60"
+ },
+ {
+  "jmh_id": "JMH-041009-0071",
+  "name": "金銅板押出三重塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-07-07",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区四郎丸字落合60"
+ },
+ {
+  "jmh_id": "JMH-041009-0050",
+  "name": "馬場愛宕神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1986-08-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区秋保町馬場"
+ },
+ {
+  "jmh_id": "JMH-041009-0064",
+  "name": "榊流青麻神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-10-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市宮城野区岩切字青麻沢"
+ },
+ {
+  "jmh_id": "JMH-041009-0065",
+  "name": "生出森八幡神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-10-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市太白区茂庭字中ノ瀬西"
+ },
+ {
+  "jmh_id": "JMH-041009-0002",
+  "name": "善応寺横穴古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-02-15",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市宮城野区燕沢2丁目"
+ },
+ {
+  "jmh_id": "JMH-041009-0006",
+  "name": "三沢初子の墓など",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-02-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市宮城野区榴岡5丁目4"
+ },
+ {
+  "jmh_id": "JMH-041009-0024",
+  "name": "刀工本郷国包各代の墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-10-20",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市若林区新寺2丁目7-33"
+ },
+ {
+  "jmh_id": "JMH-041009-0027",
+  "name": "経ヶ峯伊達家墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1984-07-21",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区霊屋下"
+ },
+ {
+  "jmh_id": "JMH-041009-0009",
+  "name": "西館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-12-11",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区下愛子字館"
+ },
+ {
+  "jmh_id": "JMH-041009-0010",
+  "name": "郷六城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-12-11",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区郷六字庄子"
+ },
+ {
+  "jmh_id": "JMH-041009-0004",
+  "name": "栽松院墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-03-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市泉区根白石字館下"
+ },
+ {
+  "jmh_id": "JMH-041009-0057",
+  "name": "松森焔硝蔵跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1987-05-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市泉区南光台東2丁目35"
+ },
+ {
+  "jmh_id": "JMH-041009-0008",
+  "name": "霊屋下セコイヤ類化石林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-08-06",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区米ヶ袋1丁目;米ヶ袋3丁目;霊屋下"
+ },
+ {
+  "jmh_id": "JMH-041009-0021",
+  "name": "大梅寺のヒヨクヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-03-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区茂庭字綱木裏山4"
+ },
+ {
+  "jmh_id": "JMH-041009-0001",
+  "name": "泉ヶ岳のミズバショウほか湿生植物群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1960-05-12",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市泉区福岡字岳山"
+ },
+ {
+  "jmh_id": "JMH-041009-0028",
+  "name": "賀茂神社のアラカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-04-25",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市泉区古内字糺1"
+ },
+ {
+  "jmh_id": "JMH-041009-0116",
+  "name": "陸奥国分寺鐘楼堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2023-03-29",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市若林区木ノ下3丁目78番10"
+ },
+ {
+  "jmh_id": "JMH-041009-0117",
+  "name": "陸奥国分寺準胝観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2024-03-29",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市若林区木ノ下3丁目70番2"
+ },
+ {
+  "jmh_id": "JMH-041009-0088",
+  "name": "堤人形土型",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1999-02-01",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区堤町"
+ },
+ {
+  "jmh_id": "JMH-041009-0049",
+  "name": "簪桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1986-05-30",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区愛子中央"
+ },
+ {
+  "jmh_id": "JMH-041009-0096",
+  "name": "中在家南遺跡出土遺物",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2003-03-25",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市宮城野区高砂2丁目22-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0099",
+  "name": "押口遺跡出土遺物",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2003-03-25",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市宮城野区高砂2丁目22-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0097",
+  "name": "堤人形土型",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2003-03-25",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区堤町"
+ },
+ {
+  "jmh_id": "JMH-041009-0098",
+  "name": "大梅寺所蔵文書(慈悲尾山寺関連文書)",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2003-03-25",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区茂庭字綱木裏山4"
+ },
+ {
+  "jmh_id": "JMH-041009-0102",
+  "name": "東光寺の石窟群域・西平場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2006-01-17",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市宮城野区岩切字入山地内"
+ },
+ {
+  "jmh_id": "JMH-041009-0115",
+  "name": "旧石切町の石工用具(黒田家資料)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2021-06-17",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区八幡;宮城野区高砂2丁目22-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0100",
+  "name": "旧石切町の石工用具(小梨家資料)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-11-30",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市宮城野区高砂2丁目22-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0101",
+  "name": "大崎八幡宮の松焚祭(どんと祭)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-01-17",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区八幡4丁目6-1"
+ },
+ {
+  "jmh_id": "JMH-041009-0106",
+  "name": "黒漆五枚胴具足（伊達政宗所用・菅野正左衛門重成拝領）",
+  "category": "有形文化財",
+  "subcategory": "美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2008-03-24",
+  "municipality": "仙台市",
+  "location": "宮城県仙台市青葉区川内26"
+ }
+]

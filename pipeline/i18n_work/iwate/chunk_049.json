@@ -1,0 +1,115 @@
+[
+ {
+  "jmh_id": "JMH-034401-0002",
+  "name": "鶏舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1981-02-28",
+  "municipality": "田野畑村"
+ },
+ {
+  "jmh_id": "JMH-034401-0001",
+  "name": "チョウセンアカシジミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1973-07-14",
+  "municipality": "田野畑村",
+  "location": "村内全域"
+ },
+ {
+  "jmh_id": "JMH-034436-0001",
+  "name": "チョウセンアカシジミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1984-10-01",
+  "municipality": "普代村",
+  "location": "村内の河川敷等"
+ },
+ {
+  "jmh_id": "JMH-034436-0002",
+  "name": "鵜鳥神社社夫婦杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1984-10-01",
+  "municipality": "普代村",
+  "location": "普代村25-7"
+ },
+ {
+  "jmh_id": "JMH-034010-0001",
+  "name": "木造定印阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1963-07-01",
+  "municipality": "住田町",
+  "location": "上有住"
+ },
+ {
+  "jmh_id": "JMH-034010-0007",
+  "name": "木造聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1983-11-01",
+  "municipality": "住田町",
+  "location": "上有住"
+ },
+ {
+  "jmh_id": "JMH-034010-0004",
+  "name": "木平念仏剣舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-11-01",
+  "municipality": "住田町"
+ },
+ {
+  "jmh_id": "JMH-034010-0002",
+  "name": "外館の鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-11-01",
+  "municipality": "住田町"
+ },
+ {
+  "jmh_id": "JMH-034010-0003",
+  "name": "月川鹿踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1973-11-01",
+  "municipality": "住田町"
+ },
+ {
+  "jmh_id": "JMH-034010-0006",
+  "name": "大股神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1976-07-17",
+  "municipality": "住田町"
+ },
+ {
+  "jmh_id": "JMH-034010-0005",
+  "name": "下在大名行列",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1976-07-17",
+  "municipality": "住田町"
+ },
+ {
+  "jmh_id": "JMH-034010-0008",
+  "name": "山谷神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1995-04-03",
+  "municipality": "住田町"
+ }
+]

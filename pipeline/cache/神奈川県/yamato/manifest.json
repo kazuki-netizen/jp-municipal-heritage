@@ -1,0 +1,18 @@
+{
+  "fb8fca51dbeccefb": {
+    "url": "https://www.city.yamato.lg.jp/bunkahyakka/artarchives/shiteibunkazai/index.html",
+    "filename": "fb8fca51dbeccefb.html",
+    "sha256": "517081cc5dc3d96cda0aa85ba5a7cc2ab7857bcf57e59b0c84f807d56173ec86",
+    "fetched_at": "2026-07-08T03:18:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "51ce66553d0e2f20": {
+    "url": "https://www.city.yamato.lg.jp/material/files/group/46/000133517.pdf",
+    "filename": "51ce66553d0e2f20.pdf",
+    "sha256": "33b3ffe14002d35c6a7ebe5151f1a163561f6a33c44987c41b9013150e51859e",
+    "fetched_at": "2026-07-08T03:18:54Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

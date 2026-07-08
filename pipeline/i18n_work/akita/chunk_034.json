@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-052108-0091",
+  "name": "伏見神楽獅子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-16",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市鳥海町伏見集落"
+ },
+ {
+  "jmh_id": "JMH-052108-0098",
+  "name": "貝沢神楽獅子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-16",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市鳥海町貝沢集落"
+ },
+ {
+  "jmh_id": "JMH-052108-0096",
+  "name": "秋葉獅子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-16",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市鳥海町上笹子字町集落"
+ },
+ {
+  "jmh_id": "JMH-052108-0108",
+  "name": "切通稲荷神社梵天祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-09-02",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市長坂字雷田中島"
+ },
+ {
+  "jmh_id": "JMH-052108-0109",
+  "name": "石脇神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-11-27",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市石脇"
+ },
+ {
+  "jmh_id": "JMH-052108-0132",
+  "name": "大日神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1995-02-20",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市前郷字前郷"
+ },
+ {
+  "jmh_id": "JMH-052108-0143",
+  "name": "濁川獅子舞（番楽）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1997-01-31",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町荒沢字野際"
+ },
+ {
+  "jmh_id": "JMH-052108-0144",
+  "name": "熊之子沢神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1997-01-31",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町荒沢字熊之子沢"
+ },
+ {
+  "jmh_id": "JMH-052108-0179",
+  "name": "飯沢菖蒲叩き行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-04-18",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市飯沢字山岸"
+ },
+ {
+  "jmh_id": "JMH-052108-0178",
+  "name": "曲沢精霊だち行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-04-18",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市曲沢"
+ },
+ {
+  "jmh_id": "JMH-052108-0184",
+  "name": "蒲田天神講行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-04-17",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市東鮎川字蒲田前"
+ },
+ {
+  "jmh_id": "JMH-052108-0186",
+  "name": "八ツ杉星宮大明神神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-11-08",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町立石字前田表"
+ },
+ {
+  "jmh_id": "JMH-052108-0190",
+  "name": "矢島の神明社八朔祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-10-25",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町水上ほか"
+ },
+ {
+  "jmh_id": "JMH-052108-0007",
+  "name": "義烈良民之墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-09-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町元町字新町128-2"
+ },
+ {
+  "jmh_id": "JMH-052108-0013",
+  "name": "龍門寺山門を中心とするその一円",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市岩城赤平向山25"
+ },
+ {
+  "jmh_id": "JMH-052108-0014",
+  "name": "八森城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-03-23",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町城内字八森3他"
+ },
+ {
+  "jmh_id": "JMH-052108-0040",
+  "name": "根井館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-03-30",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町元町字新町30他"
+ },
+ {
+  "jmh_id": "JMH-052108-0041",
+  "name": "佐藤楨卿の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-09-25",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町坂之下字北の沢6の内"
+ },
+ {
+  "jmh_id": "JMH-052108-0042",
+  "name": "根城館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-09-25",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町荒沢字根城舘11他"
+ },
+ {
+  "jmh_id": "JMH-052108-0047",
+  "name": "新荘館",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-06-15",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町坂之下字舟場川原"
+ },
+ {
+  "jmh_id": "JMH-052108-0103",
+  "name": "川大内街道（中田代殿様道路）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1991-12-21",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市中田代字上ノ山"
+ },
+ {
+  "jmh_id": "JMH-052108-0126",
+  "name": "下村氏墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-10-27",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市東由利蔵字蔵127"
+ },
+ {
+  "jmh_id": "JMH-052108-0124",
+  "name": "畑中喜右衛門の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-06-22",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市吉沢字芋ケ台他"
+ },
+ {
+  "jmh_id": "JMH-052108-0122",
+  "name": "山田合戦の跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-06-22",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市山本字下野他"
+ },
+ {
+  "jmh_id": "JMH-052108-0123",
+  "name": "由利仲八郎政春終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-06-22",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市川西字根城他"
+ },
+ {
+  "jmh_id": "JMH-052108-0121",
+  "name": "万箇将軍の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-06-22",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市町村字下黒森沢128-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0176",
+  "name": "荒倉館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2001-04-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町坂之下字荒倉沢"
+ },
+ {
+  "jmh_id": "JMH-052108-0177",
+  "name": "薬師堂宮殿安置跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2001-04-13",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町元町字片平3"
+ },
+ {
+  "jmh_id": "JMH-052108-0001",
+  "name": "山寺のツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-10-25",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町七日町字山寺53"
+ },
+ {
+  "jmh_id": "JMH-052108-0008",
+  "name": "高建寺臥竜松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-09-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町立石字上野121"
+ },
+ {
+  "jmh_id": "JMH-052108-0003",
+  "name": "サイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-09-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町立石字下田表104"
+ },
+ {
+  "jmh_id": "JMH-052108-0006",
+  "name": "梅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-09-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町元町字新所82"
+ },
+ {
+  "jmh_id": "JMH-052108-0004",
+  "name": "八幡神社欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-09-11",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市矢島町元町字相庭舘5-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0089",
+  "name": "葛岡金峯神社叢林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-10-19",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市葛岡字宮ノ腰73-1"
+ },
+ {
+  "jmh_id": "JMH-052108-0100",
+  "name": "白山神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-09-17",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市船岡字永田上30-2"
+ },
+ {
+  "jmh_id": "JMH-052108-0102",
+  "name": "大久保のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-01-21",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市鳥海町下川内字大久保9-3"
+ },
+ {
+  "jmh_id": "JMH-052108-0101",
+  "name": "休石のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-01-21",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市鳥海町下直根字休石156-2"
+ },
+ {
+  "jmh_id": "JMH-052108-0130",
+  "name": "赤沼の赤松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-04-20",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市赤沼町25"
+ },
+ {
+  "jmh_id": "JMH-052108-0129",
+  "name": "石沢館のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-04-20",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市館字石沢館10"
+ },
+ {
+  "jmh_id": "JMH-052108-0140",
+  "name": "大台のオンコ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-23",
+  "municipality": "由利本荘市",
+  "location": "由利本荘市東由利宿字大台19"
+ }
+]
