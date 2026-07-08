@@ -1,0 +1,26 @@
+{
+  "e831cd73ff049511": {
+    "url": "https://www.city.katori.lg.jp/culture_sport/bunkazai/ichiran.html",
+    "filename": "e831cd73ff049511.html",
+    "sha256": "01a4317922dfee489504d2a90d823de0355f16cd153ad9db00e1103a51ef3457",
+    "fetched_at": "2026-07-07T11:09:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b924278233a0b605": {
+    "url": "https://www.city.katori.lg.jp/culture_sport/bunkazai/ichiran.files/bunkazai-3.pdf",
+    "filename": "b924278233a0b605.pdf",
+    "sha256": "fe7f25754876e5ee311a41f958e8f48afd5c8ef94fda4e605a82c27144c6005b",
+    "fetched_at": "2026-07-07T11:10:01Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "86bc3297f5a5f465": {
+    "url": "https://www.city.katori.lg.jp/culture_sport/bunkazai/ichiran.files/bunkazai-0.pdf",
+    "filename": "86bc3297f5a5f465.pdf",
+    "sha256": "ae4cf2500a88edd9686571541dbbe7e28dcac7c76f61592e880c6ea08bb3e426",
+    "fetched_at": "2026-07-07T11:10:02Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

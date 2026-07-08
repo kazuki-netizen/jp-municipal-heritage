@@ -1,0 +1,18 @@
+{
+  "2f5e9ee31a59db98": {
+    "url": "https://www.town.tako.chiba.jp/category/bunya/kanko/rekishi/",
+    "filename": "2f5e9ee31a59db98.html",
+    "sha256": "b6a0fab3f455dc75ba4cac437f68fbbc26410e2a5598719e527f9ef73c603804",
+    "fetched_at": "2026-07-07T11:10:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "156d629539d02bcf": {
+    "url": "https://www.town.tako.chiba.jp/spot/index_spot@historic-site.html",
+    "filename": "156d629539d02bcf.html",
+    "sha256": "812c8830d06321118a6d1781eac07b9d78cca290c964475eb0b03ed532c54f40",
+    "fetched_at": "2026-07-07T11:10:08Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

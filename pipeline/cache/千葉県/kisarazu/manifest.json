@@ -1,0 +1,18 @@
+{
+  "9abb3f846bfc67a5": {
+    "url": "https://www.city.kisarazu.lg.jp/soshiki/kyoiku/bunka/1/3746.html",
+    "filename": "9abb3f846bfc67a5.html",
+    "sha256": "93f2db00527326c450712a6e450ee7ce92c698ceb5b1db1ae880b0f14ab08dd3",
+    "fetched_at": "2026-07-07T11:09:07Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d9383fd46266c9c8": {
+    "url": "https://www.city.kisarazu.lg.jp/material/files/group/53/20250731-02.pdf",
+    "filename": "d9383fd46266c9c8.pdf",
+    "sha256": "6782a40aea20915b7086dedee03be0b00371d71a7dd655c0de3804b9912cfc26",
+    "fetched_at": "2026-07-07T11:09:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

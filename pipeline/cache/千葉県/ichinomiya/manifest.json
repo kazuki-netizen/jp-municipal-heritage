@@ -1,0 +1,18 @@
+{
+  "f54531169e08474b": {
+    "url": "https://www.town.ichinomiya.chiba.jp/kankou/kankouannai/bunkazai/machisitei/",
+    "filename": "f54531169e08474b.html",
+    "sha256": "0fd98bd445cc9a09ed92a94b3432184662af314c355d5217d8de27f4a82789ce",
+    "fetched_at": "2026-07-07T11:10:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f54699c698209bc6": {
+    "url": "https://www.town.ichinomiya.chiba.jp/assets/files/kyouiku/%E4%B8%80%E5%AE%AE%E7%94%BA%E3%81%AE%E6%8C%87%E5%AE%9A%E6%96%87%E5%8C%96%E8%B2%A1%E3%83%91%E3%83%B3%E3%83%95WEB%E7%94%A8.pdf",
+    "filename": "f54699c698209bc6.pdf",
+    "sha256": "1065cbc5651da77d1b7e1c1cd27f7ede2d3155f3df29d32dfecc1f2f2c740538",
+    "fetched_at": "2026-07-07T11:10:13Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "bbdd578497735fd4": {
+    "url": "https://www.city.futtsu.lg.jp/0000000782.html",
+    "filename": "bbdd578497735fd4.html",
+    "sha256": "d02eab1e0c3353db800215eed3bde5cbad85e4d013ed982d1199c95df1b810d8",
+    "fetched_at": "2026-07-07T11:09:27Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d77fcd061d796029": {
+    "url": "https://www.city.futtsu.lg.jp/0000000783.html",
+    "filename": "d77fcd061d796029.html",
+    "sha256": "d28a5c996fa4d39d20200ff4e876d47204fbd98f3abf5e5f39ea9f058d8ec193",
+    "fetched_at": "2026-07-07T11:09:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ddf7368917178453": {
+    "url": "https://www.city.futtsu.lg.jp/0000000784.html",
+    "filename": "ddf7368917178453.html",
+    "sha256": "d87578535bd212b11eb835e6f6c3de83bcc0830a82a0365617a658135b841569",
+    "fetched_at": "2026-07-07T11:09:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "29c97af8ae56c510": {
+    "url": "https://www.city.futtsu.lg.jp/0000000785.html",
+    "filename": "29c97af8ae56c510.html",
+    "sha256": "90fa71b09a3bd2aef49889d3752e0aca5c2eabff4b98169bba543c2c9ad16dd3",
+    "fetched_at": "2026-07-07T11:09:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8c17d9cac8a73b81": {
+    "url": "https://www.city.futtsu.lg.jp/0000000786.html",
+    "filename": "8c17d9cac8a73b81.html",
+    "sha256": "6bdd1879f4083bcfd360051576103cb34909543bffe5ab0820746b0a7131f9b1",
+    "fetched_at": "2026-07-07T11:09:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3f8b438a3af6abde": {
+    "url": "https://www.city.futtsu.lg.jp/0000000788.html",
+    "filename": "3f8b438a3af6abde.html",
+    "sha256": "b8e98ab5c1fdc6bfcc8f79d56a4eb16cc4039d437cc7e6ab4b61ab6f76685d13",
+    "fetched_at": "2026-07-07T11:09:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d925163575bbfd0d": {
+    "url": "https://www.city.futtsu.lg.jp/0000000789.html",
+    "filename": "d925163575bbfd0d.html",
+    "sha256": "2bb894a58499258be535ee9603a8e0051745b48db10b4147f4edae2c0a0a827e",
+    "fetched_at": "2026-07-07T11:09:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b56c16332db5c1ac": {
+    "url": "https://www.city.futtsu.lg.jp/0000000790.html",
+    "filename": "b56c16332db5c1ac.html",
+    "sha256": "afc6f54b7f7bdf69a90bf26950c3c764e72fab479dda15d7df1955f130135f6c",
+    "fetched_at": "2026-07-07T11:09:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ba26d7efdd5f629f": {
+    "url": "https://www.city.futtsu.lg.jp/0000000792.html",
+    "filename": "ba26d7efdd5f629f.html",
+    "sha256": "f6eb92cb4f2d4ac43188fa051cc24ab981d4073e04ee299d65757e7410158123",
+    "fetched_at": "2026-07-07T11:09:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c8f120ffcc4390fd": {
+    "url": "https://www.city.futtsu.lg.jp/0000008024.html",
+    "filename": "c8f120ffcc4390fd.html",
+    "sha256": "21867196975c9953cbe92be54dd037c38029e276977181c2606a2a228668075d",
+    "fetched_at": "2026-07-07T11:09:45Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

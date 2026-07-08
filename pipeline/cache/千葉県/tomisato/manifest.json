@@ -1,0 +1,18 @@
+{
+  "fd740a271d50bf54": {
+    "url": "https://www.city.tomisato.lg.jp/0000010527.html",
+    "filename": "fd740a271d50bf54.html",
+    "sha256": "3e80ab9697783c4ef1844061bf74d4ede57fb4aa652440f1f588f9e04b5c3027",
+    "fetched_at": "2026-07-07T11:09:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "beddfbdbe9e3a501": {
+    "url": "https://www.city.tomisato.lg.jp/cmsfiles/contents/0000010/10527/122335_cultural_property.csv",
+    "filename": "beddfbdbe9e3a501.csv",
+    "sha256": "09fd9a8e221c61a2bd16d7bf2852ae7cf06d1c26f850346fde287c3ade7ec62f",
+    "fetched_at": "2026-07-07T11:09:55Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

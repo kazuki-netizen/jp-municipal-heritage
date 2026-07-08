@@ -1,0 +1,42 @@
+{
+  "4c41f621d65e23f9": {
+    "url": "https://www.city.nagareyama.chiba.jp/tourism/1013087/1013107/index.html",
+    "filename": "4c41f621d65e23f9.html",
+    "sha256": "99bd27df51c6ef5c051319a288483b7b5c48ac812eb759ffd6d54981b19c0814",
+    "fetched_at": "2026-07-07T11:09:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "549a78d3475551c0": {
+    "url": "https://www.city.nagareyama.chiba.jp/tourism/1013087/1013138/index.html",
+    "filename": "549a78d3475551c0.html",
+    "sha256": "7db1d74556f7a039cd472b600721d8614883debb4b8437f6a55fbbd75cb2963d",
+    "fetched_at": "2026-07-07T11:09:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f9a460e117f886ac": {
+    "url": "https://www.city.nagareyama.chiba.jp/tourism/1013087/1013101/index.html",
+    "filename": "f9a460e117f886ac.html",
+    "sha256": "8747d8193bdce46257c3a4ab7fe93205e4e49649e3eed13541c06fbb7c71ad9b",
+    "fetched_at": "2026-07-07T11:09:18Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a3486f80b7ae056c": {
+    "url": "https://www.city.nagareyama.chiba.jp/tourism/1013087/1013105/index.html",
+    "filename": "a3486f80b7ae056c.html",
+    "sha256": "0179d43dacc4f46593a9f029d47841bd682961a0fc514e99be962f8168af8239",
+    "fetched_at": "2026-07-07T11:09:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "057d0d3fde0ad48a": {
+    "url": "https://www.city.nagareyama.chiba.jp/tourism/1013087/1013097/index.html",
+    "filename": "057d0d3fde0ad48a.html",
+    "sha256": "b689f207a7fdbb3687f3524d0409771e3340bbb858940561ad4de2698a6e87e8",
+    "fetched_at": "2026-07-07T11:09:22Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}
