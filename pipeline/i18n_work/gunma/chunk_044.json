@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-106071-0002",
+  "name": "小泉城跡（富岡城跡）附、城之内古墳（復元）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1979-11-30",
+  "municipality": "大泉町"
+ },
+ {
+  "jmh_id": "JMH-106071-0001",
+  "name": "伝、児島高徳墳墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1979-11-30",
+  "municipality": "大泉町"
+ },
+ {
+  "jmh_id": "JMH-106071-0009",
+  "name": "青麻神社庚申塔（寛文9年銘）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財（町指定重要民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1983-12-01",
+  "municipality": "大泉町"
+ },
+ {
+  "jmh_id": "JMH-102016-0008",
+  "name": "文政四年天川原村分間絵図",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-12-22",
+  "municipality": "前橋市",
+  "location": "文京町三丁目27-26 県立文書館"
+ },
+ {
+  "jmh_id": "JMH-102016-0007",
+  "name": "文政四年前橋町絵図",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-12-22",
+  "municipality": "前橋市",
+  "location": "文京町三丁目27-26 県立文書館"
+ },
+ {
+  "jmh_id": "JMH-102016-0005",
+  "name": "大徳寺総門",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-12-22",
+  "municipality": "前橋市",
+  "location": "小相木町91 大徳寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0006",
+  "name": "廃覚動寺宝塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-12-22",
+  "municipality": "前橋市",
+  "location": "公田町544-1 乗明院"
+ },
+ {
+  "jmh_id": "JMH-102016-0002",
+  "name": "カロウト山古墳石棺",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-12-22",
+  "municipality": "前橋市",
+  "location": "三河町二丁目1-3 中川小学校"
+ },
+ {
+  "jmh_id": "JMH-102016-0009",
+  "name": "書跡豊臣秀吉和歌短冊",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-12-22",
+  "municipality": "前橋市",
+  "location": "千代田町三丁目3-30 妙安寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0021",
+  "name": "笠薬師塔婆",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1970-02-10",
+  "municipality": "前橋市",
+  "location": "問屋町二丁目3-4 稲荷神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0034",
+  "name": "結城政勝画像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-24",
+  "municipality": "前橋市",
+  "location": "朝日町四丁目29-24 孝顕寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0036",
+  "name": "酒井重忠画像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-24",
+  "municipality": "前橋市",
+  "location": "大手町三丁目17-22 源英寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0029",
+  "name": "東福寺鰐口",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-24",
+  "municipality": "前橋市",
+  "location": "三河町一丁目9-18 東福寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0028",
+  "name": "小島田の供養碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-24",
+  "municipality": "前橋市",
+  "location": "小島田町大門跡530"
+ },
+ {
+  "jmh_id": "JMH-102016-0027",
+  "name": "大徳寺多宝塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-24",
+  "municipality": "前橋市",
+  "location": "小相木町91 大徳寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0038",
+  "name": "阿弥陀三尊画像板碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-24",
+  "municipality": "前橋市",
+  "location": "公田町544-1 乗明院"
+ },
+ {
+  "jmh_id": "JMH-102016-0030",
+  "name": "東覚寺層塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-24",
+  "municipality": "前橋市",
+  "location": "総社町総社1607 光巌寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0046",
+  "name": "日輪寺寛永の絵馬",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1974-08-26",
+  "municipality": "前橋市",
+  "location": "日輪寺町412 日輪寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0049",
+  "name": "産泰神社八稜鏡",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1974-08-26",
+  "municipality": "前橋市",
+  "location": "高崎市綿貫町992-1 群馬県立歴史博物館"
+ },
+ {
+  "jmh_id": "JMH-102016-0066",
+  "name": "慈照院千手観音坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "二之宮町1811 慈照院"
+ },
+ {
+  "jmh_id": "JMH-102016-0059",
+  "name": "伯牙弾琴鏡",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "本町二丁目7-2 八幡宮"
+ },
+ {
+  "jmh_id": "JMH-102016-0060",
+  "name": "光巌寺薬医門",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "総社町総社1607 光巌寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0068",
+  "name": "無量寿寺地蔵菩薩立像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "二之宮町甲764 無量寿寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0067",
+  "name": "無量寿寺十一面観音立像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "二之宮町甲764 無量寿寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0057",
+  "name": "二宮赤城神社梵鐘",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "二之宮町886 二宮赤城神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0058",
+  "name": "二宮赤城神社絵馬",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "二之宮町886 二宮赤城神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0063",
+  "name": "前橋藩刑場跡供養塔ならびに道しるべ",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "天川大島町290-5"
+ },
+ {
+  "jmh_id": "JMH-102016-0064",
+  "name": "宝禅寺異型板碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "上泉町1277-1 宝禅寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0065",
+  "name": "山王の宝塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "山王町99-5"
+ },
+ {
+  "jmh_id": "JMH-102016-0061",
+  "name": "八幡宮文書 一巻九通",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "本町二丁目7-2 八幡宮"
+ },
+ {
+  "jmh_id": "JMH-102016-0062",
+  "name": "前橋祇園祭札絵巻 二巻",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-24",
+  "municipality": "前橋市",
+  "location": "大手町二丁目12-9 市立図書館"
+ },
+ {
+  "jmh_id": "JMH-102016-0150",
+  "name": "酒井家史料 129点",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-04-25",
+  "municipality": "前橋市",
+  "location": "大手町二丁目12-9 市立図書館"
+ },
+ {
+  "jmh_id": "JMH-102016-0147",
+  "name": "二宮赤城神社の宝塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-04-25",
+  "municipality": "前橋市",
+  "location": "二之宮町886 二宮赤城神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0148",
+  "name": "埴輪踊る男子像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-04-25",
+  "municipality": "前橋市",
+  "location": "勝沢町719 芳賀小学校"
+ },
+ {
+  "jmh_id": "JMH-102016-0152",
+  "name": "普蔵寺供養塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-03-12",
+  "municipality": "前橋市",
+  "location": "東大室町甲6 最善寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0162",
+  "name": "一谷山記録 八冊",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-03-27",
+  "municipality": "前橋市",
+  "location": "千代田町三丁目3-30 妙安寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0168",
+  "name": "妙安寺筆録（最頂院成賢筆） 一冊",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-03-27",
+  "municipality": "前橋市",
+  "location": "千代田町三丁目3-30 妙安寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0167",
+  "name": "妙安寺古系図 一巻",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-03-27",
+  "municipality": "前橋市",
+  "location": "千代田町三丁目3-30 妙安寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0161",
+  "name": "一谷山最頂院妙安寺縁起上・下二巻",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-03-27",
+  "municipality": "前橋市",
+  "location": "千代田町三丁目3-30 妙安寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0166",
+  "name": "唯信鈔（伝親鸞筆） 一冊",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1985-03-27",
+  "municipality": "前橋市",
+  "location": "千代田町三丁目3-30 妙安寺"
+ }
+]

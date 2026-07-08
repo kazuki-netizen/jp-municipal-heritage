@@ -1,0 +1,376 @@
+[
+ {
+  "jmh_id": "JMH-103420-0013",
+  "name": "東福寺の殿鐘（半鐘）",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0010",
+  "name": "土生神社の彫刻",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0014",
+  "name": "東福寺本堂の造作",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0012",
+  "name": "木造開山芳谷永黁像、木造達磨大師像、木造大権修理菩薩像",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0016",
+  "name": "相切の庚申塔（青面金剛像塔）",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0005",
+  "name": "中山神社太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "町指定無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0020",
+  "name": "西御荷鉾山の「○大（マルダイ）」",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0025",
+  "name": "高塩東沢のイチイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0006",
+  "name": "八倉下り山の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0026",
+  "name": "龍松寺のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0011",
+  "name": "恐竜の足跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0001",
+  "name": "お諏訪様の桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-103420-0002",
+  "name": "みかぶ帯の枕状溶岩",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定天然記念物",
+  "designation": "町指定",
+  "municipality": "神流町"
+ },
+ {
+  "jmh_id": "JMH-102113-0002",
+  "name": "安中宿本陣古文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1957-06-10",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0003",
+  "name": "三角の橋供養塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1957-09-10",
+  "municipality": "安中市",
+  "location": "東上秋間1470-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0004",
+  "name": "恵宝沢の道標",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1957-09-11",
+  "municipality": "安中市",
+  "location": "西上秋間1816-2"
+ },
+ {
+  "jmh_id": "JMH-102113-0005",
+  "name": "聖観音碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1958-03-14",
+  "municipality": "安中市",
+  "location": "鷺宮121-2"
+ },
+ {
+  "jmh_id": "JMH-102113-0006",
+  "name": "北野寺所蔵文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1958-07-15",
+  "municipality": "安中市",
+  "location": "下後閑1249"
+ },
+ {
+  "jmh_id": "JMH-102113-0009",
+  "name": "熊野神社社殿",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1962-03-27",
+  "municipality": "安中市",
+  "location": "安中三丁目689"
+ },
+ {
+  "jmh_id": "JMH-102113-0014",
+  "name": "萩原家所蔵文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1966-04-18",
+  "municipality": "安中市",
+  "location": "東上磯部852"
+ },
+ {
+  "jmh_id": "JMH-102113-0021",
+  "name": "天竈朝陽・古賀錦山の碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1970-12-18",
+  "municipality": "安中市",
+  "location": "松井田町新堀1335-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0020",
+  "name": "大般若経六百巻",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1970-12-18",
+  "municipality": "安中市",
+  "location": "松井田町行田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0022",
+  "name": "曽根家古文書",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1971-05-27",
+  "municipality": "安中市",
+  "location": "松井田町峠20"
+ },
+ {
+  "jmh_id": "JMH-102113-0026",
+  "name": "芭蕉句碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1972-11-28",
+  "municipality": "安中市",
+  "location": "松井田町坂本"
+ },
+ {
+  "jmh_id": "JMH-102113-0031",
+  "name": "正斎雲霧集・三川雲霧集",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-25",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0029",
+  "name": "安中城主内藤山城守政森真筆「臣軌」上下二巻",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-25",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0032",
+  "name": "称名寺の鐘",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-25",
+  "municipality": "安中市",
+  "location": "板鼻2212"
+ },
+ {
+  "jmh_id": "JMH-102113-0030",
+  "name": "桂昌寺の鐘",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-25",
+  "municipality": "安中市",
+  "location": "下秋間112"
+ },
+ {
+  "jmh_id": "JMH-102113-0035",
+  "name": "甘雨亭叢書の原版及びその他の原版",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1974-10-30",
+  "municipality": "安中市",
+  "location": "松井田町原60-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0037",
+  "name": "安中様のお太鼓",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-15",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0038",
+  "name": "山岡鉄舟揮亳の額(附「公立安中黌」校名板（平成27.10.27追加）",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-15",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0036",
+  "name": "安中小学校事務日誌二十二冊",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-15",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ },
+ {
+  "jmh_id": "JMH-102113-0041",
+  "name": "真光寺の鐘",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1977-12-22",
+  "municipality": "安中市",
+  "location": "原市三丁目2-42"
+ },
+ {
+  "jmh_id": "JMH-102113-0044",
+  "name": "地蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1980-06-25",
+  "municipality": "安中市",
+  "location": "原市2286-1満福寺境外仏堂（地蔵菩薩堂）"
+ },
+ {
+  "jmh_id": "JMH-102113-0046",
+  "name": "磯貝雲峰の碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1982-03-24",
+  "municipality": "安中市",
+  "location": "松井田町下増田203-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0047",
+  "name": "郷原の妙義道常夜燈",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1985-06-21",
+  "municipality": "安中市",
+  "location": "郷原1476-1"
+ },
+ {
+  "jmh_id": "JMH-102113-0048",
+  "name": "郷原自性寺の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1985-11-21",
+  "municipality": "安中市",
+  "location": "郷原2803"
+ },
+ {
+  "jmh_id": "JMH-102113-0052",
+  "name": "乾窓寺山門（附　懸額）",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1987-02-27",
+  "municipality": "安中市",
+  "location": "松井田町土塩2331"
+ },
+ {
+  "jmh_id": "JMH-102113-0055",
+  "name": "上町の山車",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1990-01-31",
+  "municipality": "安中市",
+  "location": "松井田町松井田548"
+ },
+ {
+  "jmh_id": "JMH-102113-0056",
+  "name": "碓氷社万国博覧会英文表彰状",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "designated_date": "1990-09-26",
+  "municipality": "安中市",
+  "location": "上間仁田951"
+ }
+]

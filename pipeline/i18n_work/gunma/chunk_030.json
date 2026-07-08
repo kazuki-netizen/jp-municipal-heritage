@@ -1,0 +1,381 @@
+[
+ {
+  "jmh_id": "JMH-106089-0015",
+  "name": "志士之碑「竹岸武兵衛」",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "中野・神光寺"
+ },
+ {
+  "jmh_id": "JMH-106089-0012",
+  "name": "大雲文龍「水色幽玄」の書跡",
+  "category": "有形文化財",
+  "subcategory": "書跡（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "秋妻・清岩寺蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0018",
+  "name": "慶徳寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "石打・慶徳寺"
+ },
+ {
+  "jmh_id": "JMH-106089-0003",
+  "name": "中世灰釉陶器瓶",
+  "category": "有形文化財",
+  "subcategory": "考古資料（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "石打・慶徳寺蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0011",
+  "name": "十三坊塚北口の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "中野字十三坊塚"
+ },
+ {
+  "jmh_id": "JMH-106089-0022",
+  "name": "縄文時代の石皿",
+  "category": "有形文化財",
+  "subcategory": "考古資料（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "教育委員会蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0014",
+  "name": "弥生式土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "教育委員会蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0019",
+  "name": "松本23号古墳出土銀象嵌大刀",
+  "category": "有形文化財",
+  "subcategory": "考古資料（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "教育委員会蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0004",
+  "name": "中世陶器の壺と古銭",
+  "category": "有形文化財",
+  "subcategory": "考古資料（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "教育委員会蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0023",
+  "name": "脇差鶉古城打",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0027",
+  "name": "長柄神社本殿附安永八年棟札",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "篠塚・長柄神社"
+ },
+ {
+  "jmh_id": "JMH-106089-0025",
+  "name": "長柄神社の桜「エドヒガン」",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "篠塚・長柄神社"
+ },
+ {
+  "jmh_id": "JMH-106089-0008",
+  "name": "五位堂のシラカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "篠塚字坪谷地内"
+ },
+ {
+  "jmh_id": "JMH-106089-0017",
+  "name": "恩林寺のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "鶉・恩林寺"
+ },
+ {
+  "jmh_id": "JMH-106089-0016",
+  "name": "恩林寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "鶉・恩林寺"
+ },
+ {
+  "jmh_id": "JMH-106089-0005",
+  "name": "中野小学校のマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "中野・中野小学校"
+ },
+ {
+  "jmh_id": "JMH-106089-0001",
+  "name": "アリマシノ（種の保存）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "邑楽町内"
+ },
+ {
+  "jmh_id": "JMH-106089-0006",
+  "name": "中野沼と水生動植物群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（町指定天然記念物）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "中野地内"
+ },
+ {
+  "jmh_id": "JMH-106089-0007",
+  "name": "中野絣一式",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財（町指定重要有形民俗文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "教育委員会蔵"
+ },
+ {
+  "jmh_id": "JMH-106089-0026",
+  "name": "長柄神社の里神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "里神楽獅子舞保存会"
+ },
+ {
+  "jmh_id": "JMH-106089-0013",
+  "name": "天王元宿祇園祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "municipality": "邑楽町",
+  "location": "天王元宿祇園囃子を守る会"
+ },
+ {
+  "jmh_id": "JMH-104043-0002",
+  "name": "林昌寺の画像板碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1979-03-08",
+  "municipality": "中之条町",
+  "location": "大字伊勢町1002"
+ },
+ {
+  "jmh_id": "JMH-104043-0006",
+  "name": "稲裹神社の懸仏",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1979-03-08",
+  "municipality": "中之条町",
+  "location": "大字四万1594"
+ },
+ {
+  "jmh_id": "JMH-104043-0005",
+  "name": "滝沢不動堂の石仏",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1979-03-08",
+  "municipality": "中之条町",
+  "location": "大字折田345"
+ },
+ {
+  "jmh_id": "JMH-104043-0007",
+  "name": "一場家文書",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1981-03-07",
+  "municipality": "中之条町",
+  "location": "大字中之条町905-15"
+ },
+ {
+  "jmh_id": "JMH-104043-0011",
+  "name": "折田家文書（附軍旗）",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1981-03-07",
+  "municipality": "中之条町",
+  "location": "大字折田333"
+ },
+ {
+  "jmh_id": "JMH-104043-0009",
+  "name": "小渕家文書",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1981-03-07",
+  "municipality": "中之条町",
+  "location": "大字折田1125"
+ },
+ {
+  "jmh_id": "JMH-104043-0012",
+  "name": "田村家文書（附長槍）",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1981-03-07",
+  "municipality": "中之条町",
+  "location": "大字五反田360"
+ },
+ {
+  "jmh_id": "JMH-104043-0010",
+  "name": "折田八番宮棟札",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1981-03-07",
+  "municipality": "中之条町",
+  "location": "大字折田1124"
+ },
+ {
+  "jmh_id": "JMH-104043-0008",
+  "name": "吾嬬神社神像群附棟札及び絵馬",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1981-03-07",
+  "municipality": "中之条町",
+  "location": "大字山田572"
+ },
+ {
+  "jmh_id": "JMH-104043-0027",
+  "name": "旧大岩学校",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字上沢渡3404-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0026",
+  "name": "旧五反田学校",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字五反田1648"
+ },
+ {
+  "jmh_id": "JMH-104043-0029",
+  "name": "沢渡の画像板碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1988-03-26",
+  "municipality": "中之条町",
+  "location": "大字上沢渡2189"
+ },
+ {
+  "jmh_id": "JMH-104043-0051",
+  "name": "稲荷石稲荷神社の絵馬",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字中之条町681-2"
+ },
+ {
+  "jmh_id": "JMH-104043-0041",
+  "name": "地租改正の絵図",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字下沢渡561-1"
+ },
+ {
+  "jmh_id": "JMH-104043-0048",
+  "name": "町田延陵関係資料と墓碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字山田2306-2"
+ },
+ {
+  "jmh_id": "JMH-104043-0052",
+  "name": "稲裹地神の碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字四万字護葉（国有林内）"
+ },
+ {
+  "jmh_id": "JMH-104043-0050",
+  "name": "福田宗禎(浩斎)の墓碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字上沢渡2158"
+ },
+ {
+  "jmh_id": "JMH-104043-0055",
+  "name": "高橋景作関係資料と篁庵先生追遠碑",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字横尾882他"
+ },
+ {
+  "jmh_id": "JMH-104043-0040",
+  "name": "吾妻神社献額(額9面、武具4点)",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1994-12-01",
+  "municipality": "中之条町",
+  "location": "大字横尾1354-1"
+ }
+]

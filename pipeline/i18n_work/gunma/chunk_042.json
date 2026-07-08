@@ -1,0 +1,338 @@
+[
+ {
+  "jmh_id": "JMH-102113-0027",
+  "name": "安中小学校の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-05-11",
+  "municipality": "安中市",
+  "location": "安中三丁目10-43"
+ },
+ {
+  "jmh_id": "JMH-102113-0033",
+  "name": "五郎の大スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-06-27",
+  "municipality": "安中市",
+  "location": "松井田町坂本（道全）"
+ },
+ {
+  "jmh_id": "JMH-102113-0039",
+  "name": "行田の彼岸桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-06-25",
+  "municipality": "安中市",
+  "location": "松井田町行田978-3"
+ },
+ {
+  "jmh_id": "JMH-102113-0045",
+  "name": "恩賀のグミ樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-03-24",
+  "municipality": "安中市",
+  "location": "松井田町西野牧16902-3"
+ },
+ {
+  "jmh_id": "JMH-102113-0049",
+  "name": "磯部神明宮のヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1986-02-26",
+  "municipality": "安中市",
+  "location": "磯部四丁目898"
+ },
+ {
+  "jmh_id": "JMH-102113-0053",
+  "name": "木馬瀬のフクジュソウ自生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-02-27",
+  "municipality": "安中市",
+  "location": "松井田町上増田2051-3"
+ },
+ {
+  "jmh_id": "JMH-102113-0051",
+  "name": "乾窓寺のモクセイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-02-27",
+  "municipality": "安中市",
+  "location": "松井田町土塩2331"
+ },
+ {
+  "jmh_id": "JMH-102113-0068",
+  "name": "榎下神社の社叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-03-25",
+  "municipality": "安中市",
+  "location": "原市3451"
+ },
+ {
+  "jmh_id": "JMH-102121-0027",
+  "name": "岩宿遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0054",
+  "name": "西鹿田中島遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0024",
+  "name": "岡登次郎兵衛景能公の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0060",
+  "name": "阿左美縄文式文化住居跡",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0025",
+  "name": "岡登用水三俣分水口",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0048",
+  "name": "生品神社本殿",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0023",
+  "name": "山際の重制石幢",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0062",
+  "name": "馬見岡の阿弥陀三尊・石仏",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0028",
+  "name": "岩宿遺跡駐車場地点出土石器",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0046",
+  "name": "清泉寺裏遺跡出土土器",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0045",
+  "name": "清水西丘遺跡出土土器",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0050",
+  "name": "神社裏遺跡出土深鉢形土器",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0047",
+  "name": "獣脚の鋳型",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0056",
+  "name": "金山神社の俳額",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0053",
+  "name": "脇差1口",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0042",
+  "name": "横町太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0063",
+  "name": "馬見岡凝灰岩露出地",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0065",
+  "name": "鹿の川沼のエノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0040",
+  "name": "来迎阿弥陀三尊笠塔婆",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0005",
+  "name": "中島の薬師如来",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0058",
+  "name": "長円寺の阿弥陀三尊",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0003",
+  "name": "カヤの木",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0002",
+  "name": "カタクリ群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0061",
+  "name": "阿左美遺跡出土注口土器",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0015",
+  "name": "天神山古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0014",
+  "name": "天神山3号噴出土品",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0052",
+  "name": "穴原薬師堂",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0039",
+  "name": "木造虚空蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0031",
+  "name": "庚申塔及び大日如来像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0008",
+  "name": "円空仏「月光菩薩立像」",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0022",
+  "name": "小平鍾乳洞",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ },
+ {
+  "jmh_id": "JMH-102121-0026",
+  "name": "岡直三郎商店大間々工場店舗及び主屋、文庫蔵",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財",
+  "designation": "市指定",
+  "municipality": "みどり市"
+ }
+]

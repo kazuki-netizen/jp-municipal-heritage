@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-102016-0215",
+  "name": "不二山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1997-04-21",
+  "municipality": "前橋市",
+  "location": "文京町三丁目151-6"
+ },
+ {
+  "jmh_id": "JMH-102016-0055",
+  "name": "牧野家墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "前橋市",
+  "location": "堀越町1259 養林寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0056",
+  "name": "稲荷塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-07-07",
+  "municipality": "前橋市",
+  "location": "上大屋町8"
+ },
+ {
+  "jmh_id": "JMH-102016-0088",
+  "name": "東宮鐡男大佐の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1150 金剛寺墓地"
+ },
+ {
+  "jmh_id": "JMH-102016-0106",
+  "name": "馬場の大燈籠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "馬場町56-2"
+ },
+ {
+  "jmh_id": "JMH-102016-0097",
+  "name": "白山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1659"
+ },
+ {
+  "jmh_id": "JMH-102016-0087",
+  "name": "新山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "馬場町104-3"
+ },
+ {
+  "jmh_id": "JMH-102016-0085",
+  "name": "市之関縄文前期遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "市之関町353-2他"
+ },
+ {
+  "jmh_id": "JMH-102016-0094",
+  "name": "柏倉殿替戸砦跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "柏倉町1412-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0096",
+  "name": "片並木製鉄跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1796-5"
+ },
+ {
+  "jmh_id": "JMH-102016-0090",
+  "name": "枡形遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町2732他"
+ },
+ {
+  "jmh_id": "JMH-102016-0082",
+  "name": "大前田栄五郎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "大前田町1785-7"
+ },
+ {
+  "jmh_id": "JMH-102016-0119",
+  "name": "大前田内出居砦跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "大前田町1328-1他"
+ },
+ {
+  "jmh_id": "JMH-102016-0120",
+  "name": "小池文七郎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "市之関町728"
+ },
+ {
+  "jmh_id": "JMH-102016-0140",
+  "name": "宿の平城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町2062-1他"
+ },
+ {
+  "jmh_id": "JMH-102016-0011",
+  "name": "大平縄文住居跡遺構",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-09-01",
+  "municipality": "前橋市",
+  "location": "粕川町室沢869"
+ },
+ {
+  "jmh_id": "JMH-102016-0012",
+  "name": "大林縄文住居跡遺構",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-09-01",
+  "municipality": "前橋市",
+  "location": "粕川町室沢1-45他"
+ },
+ {
+  "jmh_id": "JMH-102016-0041",
+  "name": "室沢砦跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-05-01",
+  "municipality": "前橋市",
+  "location": "粕川町室沢938-2他"
+ },
+ {
+  "jmh_id": "JMH-102016-0042",
+  "name": "深津坂田城跡（深津館）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-05-01",
+  "municipality": "前橋市",
+  "location": "粕川町深津1357-2他"
+ },
+ {
+  "jmh_id": "JMH-102016-0040",
+  "name": "女渕城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-05-01",
+  "municipality": "前橋市",
+  "location": "粕川町女渕1221-1他"
+ },
+ {
+  "jmh_id": "JMH-102016-0039",
+  "name": "中村城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-05-01",
+  "municipality": "前橋市",
+  "location": "粕川町中496他"
+ },
+ {
+  "jmh_id": "JMH-102016-0146",
+  "name": "宇通遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-09-01",
+  "municipality": "前橋市",
+  "location": "粕川町中之沢456他"
+ },
+ {
+  "jmh_id": "JMH-102016-0228",
+  "name": "五代大日塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2005-04-19",
+  "municipality": "前橋市",
+  "location": "五代町214"
+ },
+ {
+  "jmh_id": "JMH-102016-0051",
+  "name": "九十九山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-12-01",
+  "municipality": "前橋市",
+  "location": "富士見町原之郷275-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0069",
+  "name": "皆沢焼窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-06-14",
+  "municipality": "前橋市",
+  "location": "富士見町皆沢江戸窪"
+ },
+ {
+  "jmh_id": "JMH-102016-0183",
+  "name": "旧赤城神社参道松並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1987-09-30",
+  "municipality": "前橋市",
+  "location": "富士見町時沢1866"
+ },
+ {
+  "jmh_id": "JMH-102016-0234",
+  "name": "荒子杉山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2010-03-19",
+  "municipality": "前橋市",
+  "location": "荒子町字新宿1188-19他"
+ },
+ {
+  "jmh_id": "JMH-102016-0118",
+  "name": "古屋敷古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "馬場町458"
+ },
+ {
+  "jmh_id": "JMH-102016-0145",
+  "name": "駒形牛頭天王の獅子頭 一対",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-04-26",
+  "municipality": "前橋市",
+  "location": "駒形町710 駒形神社"
+ },
+ {
+  "jmh_id": "JMH-102016-0191",
+  "name": "稲荷新田の薬師",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-04-12",
+  "municipality": "前橋市",
+  "location": "稲荷新田町458 稲荷新田町公民館"
+ },
+ {
+  "jmh_id": "JMH-102016-0207",
+  "name": "泉沢の人形 附小道具等一括",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1994-04-19",
+  "municipality": "前橋市",
+  "location": "粕川町膳89 出土文化財管理センター"
+ },
+ {
+  "jmh_id": "JMH-102016-0015",
+  "name": "込皆戸三番叟人形一括",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1968-09-01",
+  "municipality": "前橋市",
+  "location": "粕川町膳89 出土文化財管理センター"
+ },
+ {
+  "jmh_id": "JMH-102016-0070",
+  "name": "堀下の仏像群",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-01",
+  "municipality": "前橋市",
+  "location": "堀越町969-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0104",
+  "name": "金剛寺の双体道祖神",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147-2 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0109",
+  "name": "鼻毛石の線刻不動尊（爪ひき不動尊）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "鼻毛石町329-1"
+ },
+ {
+  "jmh_id": "JMH-102016-0111",
+  "name": "鼻毛石天神の五輪塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-01",
+  "municipality": "前橋市",
+  "location": "鼻毛石町201-31"
+ },
+ {
+  "jmh_id": "JMH-102016-0129",
+  "name": "苗ヶ島石合薬師の石殿（石合薬師）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町503"
+ },
+ {
+  "jmh_id": "JMH-102016-0121",
+  "name": "山街道の薬師如来坐像（山街道薬師）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町1147 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-102016-0128",
+  "name": "苗ヶ島町石合の石造物群",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "苗ヶ島町501"
+ },
+ {
+  "jmh_id": "JMH-102016-0123",
+  "name": "柏倉の双体道祖神",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "前橋市",
+  "location": "柏倉町1321-3"
+ }
+]

@@ -1,0 +1,387 @@
+[
+ {
+  "jmh_id": "JMH-105015-0009",
+  "name": "五丁目屋台1台",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1987-12-04",
+  "municipality": "玉村町",
+  "location": "玉村町下新田1（玉村八幡宮境内）"
+ },
+ {
+  "jmh_id": "JMH-105015-0010",
+  "name": "六丁目屋台1台",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1988-09-29",
+  "municipality": "玉村町",
+  "location": "玉村町下新田40-1"
+ },
+ {
+  "jmh_id": "JMH-105015-0014",
+  "name": "阿弥陀三尊板碑3基",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1995-11-28",
+  "municipality": "玉村町",
+  "location": "玉村町上之手1282（観照寺）"
+ },
+ {
+  "jmh_id": "JMH-105015-0012",
+  "name": "文安銘五輪塔2基",
+  "category": "有形文化財",
+  "subcategory": "石造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "1995-11-28",
+  "municipality": "玉村町",
+  "location": "玉村町南玉783（個人墓地）"
+ },
+ {
+  "jmh_id": "JMH-105015-0018",
+  "name": "脇差（藤枝太郎英義作）",
+  "category": "有形文化財",
+  "subcategory": "工芸品（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2000-04-27",
+  "municipality": "玉村町",
+  "location": "玉村町福島325（歴史資料館受託）"
+ },
+ {
+  "jmh_id": "JMH-105015-0020",
+  "name": "人物埴輪2体（男子・女子）",
+  "category": "有形文化財",
+  "subcategory": "考古資料（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2002-03-27",
+  "municipality": "玉村町",
+  "location": "玉村町福島325（歴史資料館受託）"
+ },
+ {
+  "jmh_id": "JMH-105015-0022",
+  "name": "千輝玉斎作 豊年満作之図",
+  "category": "有形文化財",
+  "subcategory": "絵画（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2014-03-20",
+  "municipality": "玉村町",
+  "location": "玉村町福島325（歴史資料館）"
+ },
+ {
+  "jmh_id": "JMH-105015-0021",
+  "name": "千輝玉斎作 橋上人物百態図",
+  "category": "有形文化財",
+  "subcategory": "絵画（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2014-03-20",
+  "municipality": "玉村町",
+  "location": "玉村町福島325（歴史資料館）"
+ },
+ {
+  "jmh_id": "JMH-105015-0023",
+  "name": "玉村八幡宮拝殿・幣殿（附 棟札2枚）、隨神門（附 棟札2枚、附 隨神門大修繕略記1枚）、神楽殿、附 棟札2枚",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2016-02-18",
+  "municipality": "玉村町",
+  "location": "玉村町下新田1（玉村八幡宮）"
+ },
+ {
+  "jmh_id": "JMH-105015-0024",
+  "name": "嚮義堂（附 嚮義堂記1基、附 学堂発起帳1冊）",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2020-01-23",
+  "municipality": "玉村町",
+  "location": "玉村町樋越486-1"
+ },
+ {
+  "jmh_id": "JMH-105015-0025",
+  "name": "井田家住宅主屋、酒蔵、土蔵、煙突",
+  "category": "有形文化財",
+  "subcategory": "建造物（町指定重要文化財）",
+  "designation": "町指定",
+  "designated_date": "2021-02-18",
+  "municipality": "玉村町",
+  "location": "玉村町上新田1626、1479-2"
+ },
+ {
+  "jmh_id": "JMH-105015-0008",
+  "name": "稲荷神社獅子舞（上新田）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町上新田1590（稲荷神社）"
+ },
+ {
+  "jmh_id": "JMH-105015-0003",
+  "name": "すみつけ祭（上福島）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町上福島1001（上福島公民館）"
+ },
+ {
+  "jmh_id": "JMH-105015-0004",
+  "name": "横樽音頭（南玉）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町南玉760（住吉神社）"
+ },
+ {
+  "jmh_id": "JMH-105015-0005",
+  "name": "祇園祭（上新田）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町上新田1654（稲荷神社）"
+ },
+ {
+  "jmh_id": "JMH-105015-0006",
+  "name": "祇園祭（下新田）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町下新田1（玉村八幡宮）"
+ },
+ {
+  "jmh_id": "JMH-105015-0007",
+  "name": "祇園祭（角渕）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "1971-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町角渕2075-1他（角渕八幡宮）"
+ },
+ {
+  "jmh_id": "JMH-105015-0015",
+  "name": "地蔵祭（箱石）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "2000-04-27",
+  "municipality": "玉村町",
+  "location": "玉村町箱石342-1（養命寺）"
+ },
+ {
+  "jmh_id": "JMH-105015-0019",
+  "name": "麦蒔御神事（下之宮）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "2000-04-27",
+  "municipality": "玉村町",
+  "location": "玉村町下之宮524（火雷神社）"
+ },
+ {
+  "jmh_id": "JMH-105015-0016",
+  "name": "悪魔払い（飯塚）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "2000-04-27",
+  "municipality": "玉村町",
+  "location": "玉村町飯塚295（飯玉神社）"
+ },
+ {
+  "jmh_id": "JMH-105015-0017",
+  "name": "悪魔祓い（藤川）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財（町指定重要無形民俗文化財）",
+  "designation": "町指定",
+  "designated_date": "2000-04-27",
+  "municipality": "玉村町",
+  "location": "玉村町藤川55-1（稲荷神社）"
+ },
+ {
+  "jmh_id": "JMH-105015-0001",
+  "name": "梨ノ木山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1966-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町下茂木1027-1・-2・-3"
+ },
+ {
+  "jmh_id": "JMH-105015-0002",
+  "name": "軍配山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1966-04-01",
+  "municipality": "玉村町",
+  "location": "玉村町角渕4755"
+ },
+ {
+  "jmh_id": "JMH-105015-0011",
+  "name": "五料関所跡門柱礎石・井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1995-11-28",
+  "municipality": "玉村町",
+  "location": "玉村町五料1066他"
+ },
+ {
+  "jmh_id": "JMH-105015-0013",
+  "name": "木島本陣跡歌碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（町指定史跡）",
+  "designation": "町指定",
+  "designated_date": "1995-11-28",
+  "municipality": "玉村町",
+  "location": "玉村町下新田484-1"
+ },
+ {
+  "jmh_id": "JMH-102067-0017",
+  "name": "涅槃像の図",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0023",
+  "name": "韓信忍耐図",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0005",
+  "name": "十三仏図",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0006",
+  "name": "千手観世音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0015",
+  "name": "沼須一切経",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（典籍）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0008",
+  "name": "天正十八年下河田検地帳",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0012",
+  "name": "文禄二年下河田検地帳",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0011",
+  "name": "文禄二年下河田屋敷帳",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0019",
+  "name": "真田河内守信吉の墓",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0018",
+  "name": "発智兵部左金吾平為時の墓",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0004",
+  "name": "加沢平次左衛門の墓",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0007",
+  "name": "大蓮院殿の墓",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0009",
+  "name": "慶寿院殿の墓",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0020",
+  "name": "禁芸碑",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1976-03-30",
+  "municipality": "沼田市"
+ },
+ {
+  "jmh_id": "JMH-102067-0028",
+  "name": "勝軍地蔵雨宝殿",
+  "category": "有形文化財",
+  "subcategory": "市指定重要文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1977-05-30",
+  "municipality": "沼田市"
+ }
+]

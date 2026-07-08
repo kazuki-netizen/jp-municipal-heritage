@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-102041-0015",
+  "name": "西今井中世館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-02",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境西今井"
+ },
+ {
+  "jmh_id": "JMH-102041-0014",
+  "name": "旧日光例幣使道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-02",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境下武士"
+ },
+ {
+  "jmh_id": "JMH-102041-0021",
+  "name": "村上随憲の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-10",
+  "municipality": "伊勢崎市",
+  "location": "長光寺(境)"
+ },
+ {
+  "jmh_id": "JMH-102041-0056",
+  "name": "雷電神社古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-11",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境伊与久"
+ },
+ {
+  "jmh_id": "JMH-102041-0117",
+  "name": "弥勒寺音次郎・音八父子の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定史跡",
+  "designation": "市指定",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市境下渕名"
+ },
+ {
+  "jmh_id": "JMH-102041-0030",
+  "name": "同聚院の大カヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-02-15",
+  "municipality": "伊勢崎市",
+  "location": "同聚院(曲輪町)"
+ },
+ {
+  "jmh_id": "JMH-102041-0032",
+  "name": "波志江の大シイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-02-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市波志江町"
+ },
+ {
+  "jmh_id": "JMH-102041-0027",
+  "name": "上植木のサカキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-02-15",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市本関町"
+ },
+ {
+  "jmh_id": "JMH-102041-0071",
+  "name": "赤堀今井の信濃柿(マメガキ)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-04-01",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市赤堀今井町1丁目"
+ },
+ {
+  "jmh_id": "JMH-102041-0035",
+  "name": "塩島稲荷の大サザンカ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-02-21",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市八寸町"
+ },
+ {
+  "jmh_id": "JMH-102041-0064",
+  "name": "湧水あまが池",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-03-04",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市上田町"
+ },
+ {
+  "jmh_id": "JMH-102041-0065",
+  "name": "西福寺の大カヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-03-04",
+  "municipality": "伊勢崎市",
+  "location": "伊勢崎市田部井町2丁目"
+ },
+ {
+  "jmh_id": "JMH-104094-0007",
+  "name": "鎌原城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1973-12-18",
+  "municipality": "嬬恋村",
+  "location": "鎌原756-1他"
+ },
+ {
+  "jmh_id": "JMH-104094-0003",
+  "name": "大笹関所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1973-12-18",
+  "municipality": "嬬恋村",
+  "location": "大笹322"
+ },
+ {
+  "jmh_id": "JMH-104094-0005",
+  "name": "抜道の碑",
+  "category": "有形文化財",
+  "subcategory": "書籍・典籍（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1973-12-18",
+  "municipality": "嬬恋村",
+  "location": "大笹1772-1"
+ },
+ {
+  "jmh_id": "JMH-104094-0004",
+  "name": "大笹駅浅間碑（蜀山人の浅間やけ碑）",
+  "category": "有形文化財",
+  "subcategory": "石造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1973-12-18",
+  "municipality": "嬬恋村",
+  "location": "鎌原字モロシコ1053-45"
+ },
+ {
+  "jmh_id": "JMH-104094-0018",
+  "name": "花童子の宮跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "田代善業山国有林215林班わ1小班他"
+ },
+ {
+  "jmh_id": "JMH-104094-0014",
+  "name": "無量院の五輪塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "大笹370"
+ },
+ {
+  "jmh_id": "JMH-104094-0010",
+  "name": "今宮白山権現跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "今井字今宮地内"
+ },
+ {
+  "jmh_id": "JMH-104094-0009",
+  "name": "今井地区遺跡群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "今井字蚕644-1他"
+ },
+ {
+  "jmh_id": "JMH-104094-0015",
+  "name": "熊四郎洞窟",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "千俣字熊四郎山2401"
+ },
+ {
+  "jmh_id": "JMH-104094-0016",
+  "name": "熊野神社奥の院と梵字岩",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "門貝字鳴尾乙499"
+ },
+ {
+  "jmh_id": "JMH-104094-0013",
+  "name": "延命寺石標",
+  "category": "有形文化財",
+  "subcategory": "石造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "鎌原489"
+ },
+ {
+  "jmh_id": "JMH-104094-0011",
+  "name": "天明大笹温泉引湯道跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡（村指定史跡）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "鎌原字湯本1053-2680他"
+ },
+ {
+  "jmh_id": "JMH-104094-0019",
+  "name": "鬼岩",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "千俣字熊四郎山国有林204林班た小班他"
+ },
+ {
+  "jmh_id": "JMH-104094-0017",
+  "name": "石樋",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物（村指定天然記念物）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "千俣字熊四郎山国有林202ぬ2小班他"
+ },
+ {
+  "jmh_id": "JMH-104094-0002",
+  "name": "円通殿",
+  "category": "有形文化財",
+  "subcategory": "建造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1973-12-18",
+  "municipality": "嬬恋村",
+  "location": "千俣1320"
+ },
+ {
+  "jmh_id": "JMH-104094-0006",
+  "name": "芭蕉の句碑",
+  "category": "有形文化財",
+  "subcategory": "石造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1973-12-18",
+  "municipality": "嬬恋村",
+  "location": "大笹176-1"
+ },
+ {
+  "jmh_id": "JMH-104094-0008",
+  "name": "享禄の経筒",
+  "category": "有形文化財",
+  "subcategory": "工芸品（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "長野原町応桑字小宿547"
+ },
+ {
+  "jmh_id": "JMH-104094-0020",
+  "name": "鎌原の郷倉",
+  "category": "有形文化財",
+  "subcategory": "建造物（村指定重要文化財）",
+  "designation": "村指定",
+  "designated_date": "2007-10-26",
+  "municipality": "嬬恋村",
+  "location": "鎌原398"
+ },
+ {
+  "jmh_id": "JMH-104094-0001",
+  "name": "丁石百体観音像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財（村指定重要有形民俗文化財）",
+  "designation": "村指定",
+  "designated_date": "1973-12-18",
+  "municipality": "嬬恋村",
+  "location": "田代鹿沢温泉679"
+ },
+ {
+  "jmh_id": "JMH-104094-0012",
+  "name": "宝篋印塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財（村指定重要有形民俗文化財）",
+  "designation": "村指定",
+  "designated_date": "1976-06-08",
+  "municipality": "嬬恋村",
+  "location": "今井字立石608"
+ },
+ {
+  "jmh_id": "JMH-103038-0002",
+  "name": "桃井館の欄間",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "1982-12-21",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字上野田字田中435-2"
+ },
+ {
+  "jmh_id": "JMH-103038-0003",
+  "name": "三宮神社",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "1988-02-22",
+  "municipality": "吉岡町",
+  "location": "群馬県吉岡町大字大久保字宮1-1"
+ },
+ {
+  "jmh_id": "JMH-103038-0013",
+  "name": "滝沢古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "町指定史跡",
+  "designation": "町指定",
+  "designated_date": "2019-05-30",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字下野田560番地"
+ },
+ {
+  "jmh_id": "JMH-103038-0012",
+  "name": "森田家住宅（主屋・書院・長屋門）",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "2019-05-30",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字上野田字町裏677"
+ },
+ {
+  "jmh_id": "JMH-103038-0008",
+  "name": "華蔵寺の石造弁財天",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財（石造文化財）",
+  "designation": "町指定",
+  "designated_date": "2001-10-22",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字下野田字森下990"
+ },
+ {
+  "jmh_id": "JMH-103038-0007",
+  "name": "下八幡宮の石祠",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財（石造文化財）",
+  "designation": "町指定",
+  "designated_date": "2001-10-22",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字南下字下八幡847-3"
+ },
+ {
+  "jmh_id": "JMH-103038-0006",
+  "name": "華蔵寺獅子園書庫蔵書",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財（書跡）",
+  "designation": "町指定",
+  "designated_date": "2000-11-22",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字下野田字森下990"
+ },
+ {
+  "jmh_id": "JMH-103038-0001",
+  "name": "佐渡街道の道しるべ",
+  "category": "有形文化財",
+  "subcategory": "町指定重要文化財",
+  "designation": "町指定",
+  "designated_date": "1982-12-21",
+  "municipality": "吉岡町",
+  "location": "吉岡町大字大久保字駒寄2338"
+ }
+]
