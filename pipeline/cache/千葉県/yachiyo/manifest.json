@@ -1,0 +1,18 @@
+{
+  "fa0f56432431e092": {
+    "url": "https://www.city.yachiyo.lg.jp/site/promo/4848.html",
+    "filename": "fa0f56432431e092.html",
+    "sha256": "4c6c5a0afd55d511eccc7998d6ec5e0924dba41438101a58f9ffabae65bc21cc",
+    "fetched_at": "2026-07-07T11:09:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fa8cd0a4c22b000d": {
+    "url": "https://www.city.yachiyo.lg.jp/uploaded/attachment/41259.xlsx",
+    "filename": "fa8cd0a4c22b000d.csv",
+    "sha256": "bd3596dfa28dc89b5012bd1d63d3d082080374655ffa74c7ba95c7daab580abb",
+    "fetched_at": "2026-07-07T11:09:25Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "f4b417cb4f5fd9fe": {
+    "url": "https://www.city.inzai.lg.jp/0000000354.html",
+    "filename": "f4b417cb4f5fd9fe.html",
+    "sha256": "ba57cf2d3b1f06aac15723988a958dc80fa670fae20b3301c46c78fe015035d2",
+    "fetched_at": "2026-07-07T11:09:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e264c21a55d94a6c": {
+    "url": "https://www.city.inzai.lg.jp/category/2-18-5-0-0.html",
+    "filename": "e264c21a55d94a6c.html",
+    "sha256": "3bf1ca1a901da62ea87bd77853a939c72642f3ee0f40a70e7319d7cd719c5123",
+    "fetched_at": "2026-07-07T11:09:52Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

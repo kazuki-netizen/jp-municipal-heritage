@@ -1,0 +1,18 @@
+{
+  "ddc7bb69d5a754b6": {
+    "url": "https://www.city.urayasu.lg.jp/shisei/profile/rekishi/1001477.html",
+    "filename": "ddc7bb69d5a754b6.html",
+    "sha256": "49b40035e44171562798c19d177c0777c79e5a9d43eb4c18ef51e1e792f982ac",
+    "fetched_at": "2026-07-07T11:09:46Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1625817bb991a294": {
+    "url": "https://www.city.urayasu.lg.jp/shisei/keikaku/1022110/1025892/1025896/1022365.html",
+    "filename": "1625817bb991a294.html",
+    "sha256": null,
+    "fetched_at": "2026-07-07T11:09:48Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}
