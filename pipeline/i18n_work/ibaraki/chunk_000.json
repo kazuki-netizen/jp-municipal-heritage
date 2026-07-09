@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-082309-0031",
+  "name": "粟田の石塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1993-10-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市粟田384"
+ },
+ {
+  "jmh_id": "JMH-082309-0006",
+  "name": "師付の田井",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中志筑3042-2"
+ },
+ {
+  "jmh_id": "JMH-082309-0007",
+  "name": "本堂家の墓所",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中志筑1353"
+ },
+ {
+  "jmh_id": "JMH-082309-0009",
+  "name": "長興寺山門と本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中志筑1353"
+ },
+ {
+  "jmh_id": "JMH-082309-0002",
+  "name": "不動明王像及び二童子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中志筑1353"
+ },
+ {
+  "jmh_id": "JMH-082309-0003",
+  "name": "千手観音堂",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中志筑1325"
+ },
+ {
+  "jmh_id": "JMH-082309-0038",
+  "name": "石造五輪塔(中志筑)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2007-05-25",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中志筑1277"
+ },
+ {
+  "jmh_id": "JMH-082309-0014",
+  "name": "御野立所",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上志筑495"
+ },
+ {
+  "jmh_id": "JMH-082309-0011",
+  "name": "願成寺跡（堀ノ内館跡)",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上志筑52"
+ },
+ {
+  "jmh_id": "JMH-082309-0017",
+  "name": "石造五輪塔（上志筑)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上志筑135"
+ },
+ {
+  "jmh_id": "JMH-082309-0035",
+  "name": "木造聖観音菩薩立像",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-04-23",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下志筑675"
+ },
+ {
+  "jmh_id": "JMH-082309-0036",
+  "name": "木造阿弥陀如来坐像",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-04-23",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下志筑675"
+ },
+ {
+  "jmh_id": "JMH-082309-0016",
+  "name": "狐塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下志筑1543"
+ },
+ {
+  "jmh_id": "JMH-082309-0005",
+  "name": "大塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下志筑1534"
+ },
+ {
+  "jmh_id": "JMH-082309-0012",
+  "name": "中根長者の屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下土田1443"
+ },
+ {
+  "jmh_id": "JMH-082309-0001",
+  "name": "不動明王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下土田885-1"
+ },
+ {
+  "jmh_id": "JMH-082309-0015",
+  "name": "椿堂遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上土田1029"
+ },
+ {
+  "jmh_id": "JMH-082309-0028",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-06-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上佐谷719"
+ },
+ {
+  "jmh_id": "JMH-082309-0020",
+  "name": "関戸瓦窯跡",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上佐谷1529"
+ },
+ {
+  "jmh_id": "JMH-082309-0039",
+  "name": "雨乞い幕",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2008-10-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上佐谷"
+ },
+ {
+  "jmh_id": "JMH-082309-0040",
+  "name": "雪入十五社神社祭礼幕",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2009-12-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市雪入"
+ },
+ {
+  "jmh_id": "JMH-082309-0010",
+  "name": "雪入の郷倉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市雪入297"
+ },
+ {
+  "jmh_id": "JMH-082309-0013",
+  "name": "助六の首塚",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下佐谷777-1"
+ },
+ {
+  "jmh_id": "JMH-082309-0018",
+  "name": "石造五輪塔（中佐谷）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中佐谷853-3"
+ },
+ {
+  "jmh_id": "JMH-082309-0008",
+  "name": "笠松城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市中佐谷468ほか"
+ },
+ {
+  "jmh_id": "JMH-082309-0019",
+  "name": "西田古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-09-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上稲吉1137-2ほか"
+ },
+ {
+  "jmh_id": "JMH-082309-0034",
+  "name": "木造不動明王立像",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-04-23",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市上稲吉72"
+ },
+ {
+  "jmh_id": "JMH-082309-0004",
+  "name": "坂本家住宅（稲吉宿本陣）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1971-08-01",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市下稲吉1401"
+ },
+ {
+  "jmh_id": "JMH-082309-0023",
+  "name": "風返大日山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-03-22",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市宍倉1022"
+ },
+ {
+  "jmh_id": "JMH-082309-0024",
+  "name": "風返浅間山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-03-22",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市宍倉995"
+ },
+ {
+  "jmh_id": "JMH-082309-0022",
+  "name": "宍倉城本丸跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-03-22",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市宍倉449-1ほか"
+ },
+ {
+  "jmh_id": "JMH-082309-0030",
+  "name": "成井ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-08-24",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市西成井76-1"
+ },
+ {
+  "jmh_id": "JMH-082309-0025",
+  "name": "厨子",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1975-09-27",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市宍倉223"
+ },
+ {
+  "jmh_id": "JMH-082309-0037",
+  "name": "木造千手観音菩薩坐像",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-03-25",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市安食972"
+ },
+ {
+  "jmh_id": "JMH-082309-0026",
+  "name": "柏崎素鵞神社絵馬",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1978-06-20",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市柏崎1587-16"
+ },
+ {
+  "jmh_id": "JMH-082309-0029",
+  "name": "ナギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-03-20",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市田伏2247"
+ },
+ {
+  "jmh_id": "JMH-082309-0027",
+  "name": "田伏鹿島神社算額",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1978-06-20",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市田伏1613"
+ },
+ {
+  "jmh_id": "JMH-082309-0032",
+  "name": "旧福田家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-12-15",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市坂890 民家園"
+ },
+ {
+  "jmh_id": "JMH-082309-0033",
+  "name": "旧福田家板倉",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1993-12-15",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市坂890 民家園"
+ },
+ {
+  "jmh_id": "JMH-082309-0021",
+  "name": "坂稲荷山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-03-22",
+  "municipality": "かすみがうら市",
+  "location": "かすみがうら市坂4016"
+ }
+]

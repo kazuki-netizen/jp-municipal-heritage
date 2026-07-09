@@ -1,0 +1,18 @@
+{
+  "6f9ec8f0cae42627": {
+    "url": "https://www.city.adachi.tokyo.jp/bunka/bunkazai-ichiran.html",
+    "filename": "6f9ec8f0cae42627.html",
+    "sha256": "95c6293410446dfe4f0e0cc9be42ecc1cc71e27222ef5214b4fcb17d32473048",
+    "fetched_at": "2026-07-08T05:39:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bcd75dac90f37c80": {
+    "url": "https://www.city.adachi.tokyo.jp/documents/43563/ichiranhyou.pdf",
+    "filename": "bcd75dac90f37c80.pdf",
+    "sha256": "133cd5da77a05fba3c32a3014a86bf09bd9c385e9d03872362f244c36f169f94",
+    "fetched_at": "2026-07-08T05:39:58Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,396 @@
+[
+ {
+  "jmh_id": "JMH-082261-0018",
+  "name": "西福寺五輪塔",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1984-03-24",
+  "municipality": "那珂市",
+  "location": "那珂市瓜連1173"
+ },
+ {
+  "jmh_id": "JMH-082261-0015",
+  "name": "金剛般若波羅密経版木",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1983-03-10",
+  "municipality": "那珂市",
+  "location": "那珂市下大賀1145"
+ },
+ {
+  "jmh_id": "JMH-082261-0042",
+  "name": "陣太鼓",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2003-07-17",
+  "municipality": "那珂市",
+  "location": "那珂市静2"
+ },
+ {
+  "jmh_id": "JMH-082261-0049",
+  "name": "鹿嶋八幡神社陶造狛犬",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2012-02-17",
+  "municipality": "那珂市",
+  "location": "那珂市額田北郷417"
+ },
+ {
+  "jmh_id": "JMH-082261-0039",
+  "name": "紙本墨書太祖聖人面授口決交名記",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2002-10-17",
+  "municipality": "那珂市",
+  "location": "那珂市額田南郷375"
+ },
+ {
+  "jmh_id": "JMH-082261-0012",
+  "name": "立原翠軒の考古遺墨",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1978-02-15",
+  "municipality": "那珂市"
+ },
+ {
+  "jmh_id": "JMH-082261-0011",
+  "name": "定角式石斧",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-02-15",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0010",
+  "name": "堀之内式注口土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-02-15",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0009",
+  "name": "土師器（甕）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-02-15",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0013",
+  "name": "蛤刃式石斧",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-02-15",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0008",
+  "name": "ハソウ",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-02-15",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0029",
+  "name": "瓜連城跡地内弥生土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-03-18",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0045",
+  "name": "子持勾玉",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2009-03-16",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0051",
+  "name": "子持勾玉",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2020-03-24",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0050",
+  "name": "墨書土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2020-03-24",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428‐2"
+ },
+ {
+  "jmh_id": "JMH-082261-0022",
+  "name": "松岡・南・太田三郡省図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1984-12-14",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0053",
+  "name": "神仏習合関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2022-03-18",
+  "municipality": "那珂市",
+  "location": "那珂市瓜連1276"
+ },
+ {
+  "jmh_id": "JMH-082261-0052",
+  "name": "佐竹義昭奉納棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2022-03-18",
+  "municipality": "那珂市",
+  "location": "那珂市瓜連1276"
+ },
+ {
+  "jmh_id": "JMH-082261-0033",
+  "name": "白河内古墳群２号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1997-06-26",
+  "municipality": "那珂市"
+ },
+ {
+  "jmh_id": "JMH-082261-0034",
+  "name": "額田城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-06-25",
+  "municipality": "那珂市",
+  "location": "那珂市額田南郷103他"
+ },
+ {
+  "jmh_id": "JMH-082261-0024",
+  "name": "権現塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1992-05-22",
+  "municipality": "那珂市",
+  "location": "那珂市静835"
+ },
+ {
+  "jmh_id": "JMH-082261-0028",
+  "name": "宥尊の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1997-03-18",
+  "municipality": "那珂市",
+  "location": "那珂市中里1178-29"
+ },
+ {
+  "jmh_id": "JMH-082261-0001",
+  "name": "三島神社の椎の樹叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-07-15",
+  "municipality": "那珂市",
+  "location": "那珂市本米崎1970"
+ },
+ {
+  "jmh_id": "JMH-082261-0005",
+  "name": "鱗勝院の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-07-15",
+  "municipality": "那珂市",
+  "location": "那珂市額田南郷558-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0004",
+  "name": "高橋家のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-07-15",
+  "municipality": "那珂市"
+ },
+ {
+  "jmh_id": "JMH-082261-0003",
+  "name": "清水寺の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-07-15",
+  "municipality": "那珂市",
+  "location": "那珂市東木倉166-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0002",
+  "name": "坂本家のモチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-07-15",
+  "municipality": "那珂市"
+ },
+ {
+  "jmh_id": "JMH-082261-0006",
+  "name": "蒼龍寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-12-11",
+  "municipality": "那珂市",
+  "location": "那珂市南酒出462"
+ },
+ {
+  "jmh_id": "JMH-082261-0007",
+  "name": "鈴木家のモチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-12-11",
+  "municipality": "那珂市",
+  "location": "（No.5県指定鈴木家住宅地内）"
+ },
+ {
+  "jmh_id": "JMH-082261-0016",
+  "name": "不動院のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1984-02-15",
+  "municipality": "那珂市",
+  "location": "那珂市菅谷3021"
+ },
+ {
+  "jmh_id": "JMH-082261-0025",
+  "name": "住谷家のモチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-06-21",
+  "municipality": "那珂市"
+ },
+ {
+  "jmh_id": "JMH-082261-0026",
+  "name": "鷲神社のウワミズザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-06-21",
+  "municipality": "那珂市",
+  "location": "那珂市鴻巣1509"
+ },
+ {
+  "jmh_id": "JMH-082261-0027",
+  "name": "鷲神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1996-06-21",
+  "municipality": "那珂市",
+  "location": "那珂市鴻巣1509"
+ },
+ {
+  "jmh_id": "JMH-082261-0035",
+  "name": "正覚寺のムクロジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1998-10-29",
+  "municipality": "那珂市",
+  "location": "那珂市菅谷2199-1"
+ },
+ {
+  "jmh_id": "JMH-082261-0014",
+  "name": "上のムクロジ（別名ツブ）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "那珂市",
+  "location": "那珂市瓜連1601-1"
+ },
+ {
+  "jmh_id": "JMH-082261-0046",
+  "name": "高畠家のイトヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2009-03-16",
+  "municipality": "那珂市"
+ },
+ {
+  "jmh_id": "JMH-082261-0043",
+  "name": "菅谷鹿島神社「大助ばやし」",
+  "category": "有形文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2004-12-16",
+  "municipality": "那珂市",
+  "location": "那珂市菅谷2345"
+ },
+ {
+  "jmh_id": "JMH-082261-0044",
+  "name": "「門部ひょっとこ踊り」",
+  "category": "有形文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2009-03-16",
+  "municipality": "那珂市",
+  "location": "那珂市門部2872-2"
+ },
+ {
+  "jmh_id": "JMH-082287-0001",
+  "name": "延命寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "坂東市",
+  "location": "岩井･延命寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0002",
+  "name": "延命寺石製太鼓橋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "坂東市",
+  "location": "岩井･延命寺"
+ }
+]

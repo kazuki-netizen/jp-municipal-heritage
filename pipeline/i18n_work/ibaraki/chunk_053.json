@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-082236-0062",
+  "name": "常陸国行方郡大賀村検地帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1987-07-14",
+  "municipality": "潮来市",
+  "location": "大賀"
+ },
+ {
+  "jmh_id": "JMH-082236-0022",
+  "name": "子子舞塚古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "牛堀17"
+ },
+ {
+  "jmh_id": "JMH-082236-0033",
+  "name": "応永7年銘、阿弥陀三尊種子板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "上戸2154"
+ },
+ {
+  "jmh_id": "JMH-082236-0032",
+  "name": "埴輪武人像",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "牛堀175"
+ },
+ {
+  "jmh_id": "JMH-082236-0066",
+  "name": "江寺常総板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1992-05-01",
+  "municipality": "潮来市",
+  "location": "江寺"
+ },
+ {
+  "jmh_id": "JMH-082236-0017",
+  "name": "潮来節",
+  "category": "有形文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1969-12-13",
+  "municipality": "潮来市",
+  "location": "潮来"
+ },
+ {
+  "jmh_id": "JMH-082236-0019",
+  "name": "みろく踊り",
+  "category": "有形文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "徳島"
+ },
+ {
+  "jmh_id": "JMH-082236-0077",
+  "name": "徳島水神祭",
+  "category": "有形文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "徳島"
+ },
+ {
+  "jmh_id": "JMH-082236-0082",
+  "name": "大生神社庭上祭",
+  "category": "有形文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1996-11-25",
+  "municipality": "潮来市",
+  "location": "大生814"
+ },
+ {
+  "jmh_id": "JMH-082236-0040",
+  "name": "山車人形「源三位頼政鵺退治」",
+  "category": "有形文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "潮来五丁目"
+ },
+ {
+  "jmh_id": "JMH-082236-0049",
+  "name": "古高ささら舞獅子頭",
+  "category": "有形文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1986-03-20",
+  "municipality": "潮来市",
+  "location": "古高"
+ },
+ {
+  "jmh_id": "JMH-082236-0069",
+  "name": "山車人形「神功皇后御頭」",
+  "category": "有形文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1994-03-28",
+  "municipality": "潮来市",
+  "location": "潮来浜丁"
+ },
+ {
+  "jmh_id": "JMH-082236-0087",
+  "name": "山車人形（素戔嗚尊の八岐大蛇退治御頭）",
+  "category": "有形文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2016-11-07",
+  "municipality": "潮来市",
+  "location": "潮来995-1"
+ },
+ {
+  "jmh_id": "JMH-082236-0090",
+  "name": "山車人形「靜御前」",
+  "category": "有形文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2023-07-25",
+  "municipality": "潮来市",
+  "location": "潮来856番地"
+ },
+ {
+  "jmh_id": "JMH-082236-0001",
+  "name": "島崎城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "潮来市",
+  "location": "島須530外"
+ },
+ {
+  "jmh_id": "JMH-082236-0014",
+  "name": "宮本茶村の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-12-13",
+  "municipality": "潮来市",
+  "location": "潮来673"
+ },
+ {
+  "jmh_id": "JMH-082236-0012",
+  "name": "大生殿塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-12-13",
+  "municipality": "潮来市",
+  "location": "大生804-3"
+ },
+ {
+  "jmh_id": "JMH-082236-0013",
+  "name": "大生殿家墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-12-13",
+  "municipality": "潮来市",
+  "location": "大生750"
+ },
+ {
+  "jmh_id": "JMH-082236-0015",
+  "name": "延方郷校跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-12-13",
+  "municipality": "潮来市",
+  "location": "須賀3025"
+ },
+ {
+  "jmh_id": "JMH-082236-0030",
+  "name": "不動の井付洞穴，不動明王像",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "上戸1334"
+ },
+ {
+  "jmh_id": "JMH-082236-0044",
+  "name": "本間自準亭跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "潮来582"
+ },
+ {
+  "jmh_id": "JMH-082236-0039",
+  "name": "大生の思井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "大生751"
+ },
+ {
+  "jmh_id": "JMH-082236-0038",
+  "name": "地蔵河岸の常夜燈",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "洲崎388-ロ"
+ },
+ {
+  "jmh_id": "JMH-082236-0064",
+  "name": "海道地舟越地蔵",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1987-07-14",
+  "municipality": "潮来市",
+  "location": "洲崎849-1"
+ },
+ {
+  "jmh_id": "JMH-082236-0088",
+  "name": "曲松水神社の烏帽子かけ松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2022-02-28",
+  "municipality": "潮来市",
+  "location": "曲松南645-1"
+ },
+ {
+  "jmh_id": "JMH-082236-0089",
+  "name": "長山(永山)城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2022-12-23",
+  "municipality": "潮来市",
+  "location": "永山字城山1900外"
+ },
+ {
+  "jmh_id": "JMH-082236-0007",
+  "name": "三熊野神社の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-08-01",
+  "municipality": "潮来市",
+  "location": "牛堀175"
+ },
+ {
+  "jmh_id": "JMH-082236-0008",
+  "name": "茂木の大シイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-08-01",
+  "municipality": "潮来市",
+  "location": "茂木505"
+ },
+ {
+  "jmh_id": "JMH-082236-0009",
+  "name": "長国寺のマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-08-01",
+  "municipality": "潮来市",
+  "location": "上戸166"
+ },
+ {
+  "jmh_id": "JMH-082236-0021",
+  "name": "妙光寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0026",
+  "name": "田の森のハリギリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "水原1988-1"
+ },
+ {
+  "jmh_id": "JMH-082236-0024",
+  "name": "潮来の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "潮来442"
+ },
+ {
+  "jmh_id": "JMH-082236-0034",
+  "name": "日吉山王神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "永山1176"
+ },
+ {
+  "jmh_id": "JMH-082236-0031",
+  "name": "二本松寺のマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "堀之内1230"
+ },
+ {
+  "jmh_id": "JMH-082236-0036",
+  "name": "清水ヒヨクヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "清水467"
+ },
+ {
+  "jmh_id": "JMH-082236-0035",
+  "name": "清水のタブ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "清水467"
+ },
+ {
+  "jmh_id": "JMH-082236-0048",
+  "name": "鹿嶋吉田神社樹叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "新宮1885"
+ },
+ {
+  "jmh_id": "JMH-082236-0046",
+  "name": "長勝寺のボダイジュ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "潮来428"
+ },
+ {
+  "jmh_id": "JMH-082236-0076",
+  "name": "延方公民館のクスノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "新宮1493-2"
+ },
+ {
+  "jmh_id": "JMH-082236-0075",
+  "name": "延方の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "新宮1929-2"
+ }
+]

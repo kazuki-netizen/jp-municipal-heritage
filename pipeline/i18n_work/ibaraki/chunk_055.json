@@ -1,0 +1,359 @@
+[
+ {
+  "jmh_id": "JMH-082104-0022",
+  "name": "吉澤家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1996-12-26",
+  "municipality": "下妻市",
+  "location": "長塚"
+ },
+ {
+  "jmh_id": "JMH-082104-0006",
+  "name": "親鸞御手植の菩提樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "下妻市",
+  "location": "下妻乙（栗山）"
+ },
+ {
+  "jmh_id": "JMH-082104-0004",
+  "name": "明空御手植の柊",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "下妻市",
+  "location": "下妻乙（栗山）"
+ },
+ {
+  "jmh_id": "JMH-082104-0001",
+  "name": "下妻神社の大欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "下妻市",
+  "location": "下妻乙（西町）"
+ },
+ {
+  "jmh_id": "JMH-082104-0010",
+  "name": "大宝八幡宮十二座神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-01-08",
+  "municipality": "下妻市",
+  "location": "大宝"
+ },
+ {
+  "jmh_id": "JMH-082104-0007",
+  "name": "大町はやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-11-05",
+  "municipality": "下妻市",
+  "location": "下妻丙（大町）"
+ },
+ {
+  "jmh_id": "JMH-082104-0008",
+  "name": "平方はやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-11-05",
+  "municipality": "下妻市",
+  "location": "平方"
+ },
+ {
+  "jmh_id": "JMH-082104-0028",
+  "name": "宗任神社領朱印状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "下妻市",
+  "location": "本宗道"
+ },
+ {
+  "jmh_id": "JMH-082104-0030",
+  "name": "覚　幸嶋十二郷豊田三十三郷惣高",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "下妻市",
+  "location": "本宗道"
+ },
+ {
+  "jmh_id": "JMH-082104-0029",
+  "name": "法光寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "下妻市",
+  "location": "下栗"
+ },
+ {
+  "jmh_id": "JMH-082104-0014",
+  "name": "絹本著色東方朔図（円山応挙）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-03-17",
+  "municipality": "下妻市",
+  "location": "大園木"
+ },
+ {
+  "jmh_id": "JMH-082104-0013",
+  "name": "石造五輪塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1990-03-17",
+  "municipality": "下妻市",
+  "location": "下栗"
+ },
+ {
+  "jmh_id": "JMH-082104-0015",
+  "name": "薬王寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1990-03-17",
+  "municipality": "下妻市",
+  "location": "宗道"
+ },
+ {
+  "jmh_id": "JMH-082104-0012",
+  "name": "無量院の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1990-03-17",
+  "municipality": "下妻市",
+  "location": "皆葉"
+ },
+ {
+  "jmh_id": "JMH-082104-0016",
+  "name": "村岡柴崎古墳1号",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1990-10-08",
+  "municipality": "下妻市",
+  "location": "村岡"
+ },
+ {
+  "jmh_id": "JMH-082104-0017",
+  "name": "村岡柴崎古墳2号",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1990-10-08",
+  "municipality": "下妻市",
+  "location": "村岡"
+ },
+ {
+  "jmh_id": "JMH-082104-0019",
+  "name": "村岡の高灯籠",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-25",
+  "municipality": "下妻市",
+  "location": "村岡"
+ },
+ {
+  "jmh_id": "JMH-082104-0018",
+  "name": "明治諸家画帖全19図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1993-02-25",
+  "municipality": "下妻市",
+  "location": "大園木"
+ },
+ {
+  "jmh_id": "JMH-082104-0020",
+  "name": "石造十三仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-01-18",
+  "municipality": "下妻市",
+  "location": "伊古立"
+ },
+ {
+  "jmh_id": "JMH-082104-0027",
+  "name": "青龍権現老樹碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2002-11-18",
+  "municipality": "下妻市",
+  "location": "鎌庭"
+ },
+ {
+  "jmh_id": "JMH-083101-0024",
+  "name": "小松寺唐門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0025",
+  "name": "小松寺観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0041",
+  "name": "高根山大山寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0020",
+  "name": "大師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0013",
+  "name": "十一面観音立像（鉈彫り観音像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0014",
+  "name": "十二神将軍",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0034",
+  "name": "神像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0028",
+  "name": "悪路王面形彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0042",
+  "name": "鹿島神社本殿彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0031",
+  "name": "木造聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0030",
+  "name": "木造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0032",
+  "name": "木造隆三世明王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0029",
+  "name": "木造地蔵菩薩半跏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0017",
+  "name": "壁面観世音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0022",
+  "name": "宝篋印塔 三基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0018",
+  "name": "大山城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0021",
+  "name": "孫根城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0006",
+  "name": "下圷館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0026",
+  "name": "平治館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "城里町"
+ },
+ {
+  "jmh_id": "JMH-083101-0038",
+  "name": "頓(徳)化原古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "城里町"
+ }
+]

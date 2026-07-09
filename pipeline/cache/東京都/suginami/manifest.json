@@ -1,0 +1,18 @@
+{
+  "e19ae4a2e21e5789": {
+    "url": "https://www.city.suginami.tokyo.jp/documents/7581/r8-bunkazai-csv.csv",
+    "filename": "e19ae4a2e21e5789.csv",
+    "sha256": "a2f5322180940077839c8ab855b74159842d637f031c439eb49386d6b1b37472",
+    "fetched_at": "2026-07-08T05:39:44Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "c53a7691af658e17": {
+    "url": "https://www.city.suginami.tokyo.jp/kyouiku/bunkazai/sitei/index.html",
+    "filename": "c53a7691af658e17.html",
+    "sha256": "e520a0603215df128d82727db7de1b4a64a33357df6c63b9f51042acef6b7019",
+    "fetched_at": "2026-07-08T05:39:46Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

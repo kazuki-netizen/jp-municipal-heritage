@@ -1,0 +1,58 @@
+{
+  "75fcaeef8a5d0306": {
+    "url": "https://www.city.koganei.lg.jp/kankobunka/bunkazai/shiteibunkazai/siteibunkazai.html",
+    "filename": "75fcaeef8a5d0306.html",
+    "sha256": "6a246ad1ea95b578c50b8c77b0b9a11831a40ad7ba59493edc4f0cc2601f1a51",
+    "fetched_at": "2026-07-08T05:40:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4dd8a68026ba64c9": {
+    "url": "https://www.city.koganei.lg.jp/kankobunka/bunkazai/shiteibunkazai/siteibunkazai1.html",
+    "filename": "4dd8a68026ba64c9.html",
+    "sha256": "15a9d20169db291bd39648002f2b9b1b6d55eae186cfa8e1ca56e67a403d77f1",
+    "fetched_at": "2026-07-08T05:40:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bc3f5afd7094845f": {
+    "url": "https://www.city.koganei.lg.jp/kankobunka/bunkazai/shiteibunkazai/siteibunkazai2.html",
+    "filename": "bc3f5afd7094845f.html",
+    "sha256": "248a91e2dc448184cf93533d7ffc1e0d099524b4bf011451a00642d6f2822099",
+    "fetched_at": "2026-07-08T05:40:18Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "82ad3c9e0c5968f1": {
+    "url": "https://www.city.koganei.lg.jp/kankobunka/bunkazai/shiteibunkazai/siteibunkazai3.html",
+    "filename": "82ad3c9e0c5968f1.html",
+    "sha256": "5739605e45e4ab1231fee111346f50b06538a11255c09086090af527bcc3276d",
+    "fetched_at": "2026-07-08T05:40:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "10ff569a7cb9672e": {
+    "url": "https://www.city.koganei.lg.jp/kankobunka/bunkazai/shiteibunkazai/siteibunkazai4.html",
+    "filename": "10ff569a7cb9672e.html",
+    "sha256": "2a9137e7d8eba6bb4757d1369f7a6b7b8019033412b1db4d2eb998a899038402",
+    "fetched_at": "2026-07-08T05:40:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3d4df4b453814299": {
+    "url": "https://www.city.koganei.lg.jp/kankobunka/bunkazai/shiteibunkazai/shibunkazai5.html",
+    "filename": "3d4df4b453814299.html",
+    "sha256": "c46fcc48cca49a5f68db77a353ffdb80dddada878da515a1bb0463f3aa45ebe7",
+    "fetched_at": "2026-07-08T05:40:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d2753117a41c61c4": {
+    "url": "https://www.city.koganei.lg.jp/kankobunka/bunkazai/shiteibunkazai/shibunkazai6.html",
+    "filename": "d2753117a41c61c4.html",
+    "sha256": "12c9a2536837ea71444f082774d2e7b9bbfeb396d42f3a8872b416af23560c86",
+    "fetched_at": "2026-07-08T05:40:26Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

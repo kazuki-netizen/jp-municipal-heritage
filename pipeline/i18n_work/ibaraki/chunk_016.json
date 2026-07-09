@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-085642-0026",
+  "name": "赤松宗旦旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "利根町",
+  "location": "布川３４０９"
+ },
+ {
+  "jmh_id": "JMH-085642-0008",
+  "name": "布川貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "利根町",
+  "location": "布川２８５７"
+ },
+ {
+  "jmh_id": "JMH-085642-0028",
+  "name": "鎌倉街道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "利根町",
+  "location": "町道１２１３号線"
+ },
+ {
+  "jmh_id": "JMH-085642-0019",
+  "name": "杉野東山篆額（圓通閣）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "利根町",
+  "location": "泉光寺"
+ },
+ {
+  "jmh_id": "JMH-082015-0032",
+  "name": "杉崎八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1982-07-01",
+  "municipality": "水戸市",
+  "location": "杉崎町"
+ },
+ {
+  "jmh_id": "JMH-082015-0045",
+  "name": "中原不動尊本堂及び厨子",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-04-01",
+  "municipality": "水戸市",
+  "location": "中原町"
+ },
+ {
+  "jmh_id": "JMH-082015-0048",
+  "name": "東光寺薬師堂及び厨子",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-03-02",
+  "municipality": "水戸市",
+  "location": "大場町"
+ },
+ {
+  "jmh_id": "JMH-082015-0046",
+  "name": "六地蔵寺本堂（地蔵堂）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-03-02",
+  "municipality": "水戸市",
+  "location": "六反田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0047",
+  "name": "六地蔵寺法寶蔵",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1990-03-02",
+  "municipality": "水戸市",
+  "location": "六反田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0059",
+  "name": "和光院不動堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-09-01",
+  "municipality": "水戸市",
+  "location": "田島町"
+ },
+ {
+  "jmh_id": "JMH-082015-0060",
+  "name": "八幡宮拝殿及び幣殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-11-07",
+  "municipality": "水戸市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-082015-0061",
+  "name": "八幡宮神楽殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-11-07",
+  "municipality": "水戸市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-082015-0062",
+  "name": "八幡宮随神門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-11-07",
+  "municipality": "水戸市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-082015-0067",
+  "name": "薬王院四脚門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-10",
+  "municipality": "水戸市",
+  "location": "元吉田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0092",
+  "name": "春日神社本殿　附棟札２枚，扉板２枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2013-02-08",
+  "municipality": "水戸市",
+  "location": "赤尾関町"
+ },
+ {
+  "jmh_id": "JMH-082015-0096",
+  "name": "水戸東武館（道場・正門附塀）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2013-10-25",
+  "municipality": "水戸市",
+  "location": "北見町"
+ },
+ {
+  "jmh_id": "JMH-082015-0100",
+  "name": "鹿島神社本殿・拝殿・中門及び瑞垣(附設計図９点)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2017-02-03",
+  "municipality": "水戸市",
+  "location": "三の丸"
+ },
+ {
+  "jmh_id": "JMH-082015-0050",
+  "name": "三十六歌仙扁額",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1993-04-14",
+  "municipality": "水戸市",
+  "location": "緑町"
+ },
+ {
+  "jmh_id": "JMH-082015-0052",
+  "name": "紙本著色　不動明王像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1994-02-01",
+  "municipality": "水戸市",
+  "location": "田島町"
+ },
+ {
+  "jmh_id": "JMH-082015-0070",
+  "name": "絹本著色　那珂湊口晩望図　立原杏所筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2007-05-09",
+  "municipality": "水戸市",
+  "location": "緑町"
+ },
+ {
+  "jmh_id": "JMH-082015-0071",
+  "name": "絹本著色　雪中小禽・柳下水禽図　立原杏所筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2007-05-09",
+  "municipality": "水戸市",
+  "location": "大町"
+ },
+ {
+  "jmh_id": "JMH-082015-0079",
+  "name": "絹本著色　旭日に波図　狩野興也筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2010-02-18",
+  "municipality": "水戸市",
+  "location": "大町"
+ },
+ {
+  "jmh_id": "JMH-082015-0080",
+  "name": "絹本著色　晃嶺群芳之図　五百城文哉筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2010-02-18",
+  "municipality": "水戸市",
+  "location": "大町"
+ },
+ {
+  "jmh_id": "JMH-082015-0088",
+  "name": "絹本著色　聖徳太子絵伝（断簡）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2011-10-28",
+  "municipality": "水戸市",
+  "location": "酒門町"
+ },
+ {
+  "jmh_id": "JMH-082015-0089",
+  "name": "絹本著色　阿弥陀如来来迎図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2011-10-28",
+  "municipality": "水戸市",
+  "location": "酒門町"
+ },
+ {
+  "jmh_id": "JMH-082015-0108",
+  "name": "紙本墨画　蜻蛉図　林十江筆",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2023-02-10",
+  "municipality": "水戸市",
+  "location": "緑町"
+ },
+ {
+  "jmh_id": "JMH-082015-0010",
+  "name": "銅造　阿弥陀如来及両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1956-12-17",
+  "municipality": "水戸市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-082015-0012",
+  "name": "木造　阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-02-24",
+  "municipality": "水戸市",
+  "location": "吉沼町"
+ },
+ {
+  "jmh_id": "JMH-082015-0020",
+  "name": "木造　十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-11-28",
+  "municipality": "水戸市",
+  "location": "飯富町"
+ },
+ {
+  "jmh_id": "JMH-082015-0027",
+  "name": "木造　薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-09",
+  "municipality": "水戸市",
+  "location": "大場町"
+ },
+ {
+  "jmh_id": "JMH-082015-0029",
+  "name": "十一面観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-10-01",
+  "municipality": "水戸市",
+  "location": "鯉淵町"
+ },
+ {
+  "jmh_id": "JMH-082015-0039",
+  "name": "石造　六地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-03-25",
+  "municipality": "水戸市",
+  "location": "栗崎町"
+ },
+ {
+  "jmh_id": "JMH-082015-0043",
+  "name": "石造　金剛力士立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-06-01",
+  "municipality": "水戸市",
+  "location": "栗崎町"
+ },
+ {
+  "jmh_id": "JMH-082015-0051",
+  "name": "銅造　阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1993-04-14",
+  "municipality": "水戸市",
+  "location": "飯富町"
+ },
+ {
+  "jmh_id": "JMH-082015-0053",
+  "name": "木造　金剛力士立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1994-06-03",
+  "municipality": "水戸市",
+  "location": "元吉田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0058",
+  "name": "木造　神事面",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-11-15",
+  "municipality": "水戸市",
+  "location": "元山町"
+ },
+ {
+  "jmh_id": "JMH-082015-0066",
+  "name": "木造　阿弥陀如来及両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2004-02-06",
+  "municipality": "水戸市",
+  "location": "酒門町"
+ },
+ {
+  "jmh_id": "JMH-082015-0073",
+  "name": "木造　狛犬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2009-02-06",
+  "municipality": "水戸市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-082015-0085",
+  "name": "木造　菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2011-10-28",
+  "municipality": "水戸市",
+  "location": "元吉田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0002",
+  "name": "常葉山時鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1953-09-10",
+  "municipality": "水戸市",
+  "location": "宮町"
+ }
+]

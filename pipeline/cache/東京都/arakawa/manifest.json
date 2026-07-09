@@ -1,0 +1,18 @@
+{
+  "ff804936e85a58ea": {
+    "url": "https://www.city.arakawa.tokyo.jp/a016/bunkageijutsu/bunkazai/bunnkazai.html",
+    "filename": "ff804936e85a58ea.html",
+    "sha256": "c734802f68b8038669f723ad4f72073f322198256e425a81af9f1991d9a552a3",
+    "fetched_at": "2026-07-08T05:39:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9fa63210ea3b3492": {
+    "url": "https://www.city.arakawa.tokyo.jp/documents/3244/bunkazaininteisuu.pdf",
+    "filename": "9fa63210ea3b3492.pdf",
+    "sha256": "97efe7608b7d68fd0f9e3475a2c28916ee7d9b470e473bd66fe211540f184ecb",
+    "fetched_at": "2026-07-08T05:39:55Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

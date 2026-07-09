@@ -1,0 +1,18 @@
+{
+  "202c05df84151f51": {
+    "url": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/004/083/bunkazaidata.csv",
+    "filename": "202c05df84151f51.csv",
+    "sha256": "a4758af18c930b80458c04e371ae773007f6c99da6337872b6e39c5a21132e3a",
+    "fetched_at": "2026-07-08T05:40:39Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "526ec8b9cd48860a": {
+    "url": "https://www.city.tama.lg.jp/kenkofukushi/1008238/1008143/1004083.html",
+    "filename": "526ec8b9cd48860a.html",
+    "sha256": "1feb0758cd0dd8255f91dbb27c8ca56b3c727fd4cecabac3c9d6cbee0e8a0489",
+    "fetched_at": "2026-07-08T05:40:41Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

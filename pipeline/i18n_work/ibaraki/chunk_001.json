@@ -1,0 +1,370 @@
+[
+ {
+  "jmh_id": "JMH-082309-0043",
+  "name": "折越十日塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0052",
+  "name": "銅造千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0045",
+  "name": "木造地蔵菩薩立像",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0047",
+  "name": "牛渡牛塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0042",
+  "name": "戸崎城本丸跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0050",
+  "name": "藤切り祇園祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0053",
+  "name": "銅造菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0051",
+  "name": "貞照の刀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0046",
+  "name": "本堂家の采配",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0054",
+  "name": "銅造薬師如来懸仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0055",
+  "name": "銅造阿弥陀如来懸仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0048",
+  "name": "絹本著色釈迦十六善神図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0044",
+  "name": "木造十一面観音菩薩立像",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0041",
+  "name": "帆引き網漁法の漁具",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0056",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082309-0049",
+  "name": "薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "かすみがうら市"
+ },
+ {
+  "jmh_id": "JMH-082210-0029",
+  "name": "正徳寺の門（しょうとくじのもん）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1982-10-18",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市館山9002"
+ },
+ {
+  "jmh_id": "JMH-082210-0035",
+  "name": "山上門（さんじょうもん）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-06-25",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市栄町1-10 （あづまが丘公園）"
+ },
+ {
+  "jmh_id": "JMH-082210-0011",
+  "name": "木琴と扁額（もっきんとへんがく）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1971-12-21",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0013",
+  "name": "懸仏（かけぼとけ）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-05-02",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市平磯町"
+ },
+ {
+  "jmh_id": "JMH-082210-0037",
+  "name": "湫尾神社蔵神鏡（ぬまおじんじゃぞうしんきょう）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1993-02-16",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市武田"
+ },
+ {
+  "jmh_id": "JMH-082210-0042",
+  "name": "和太鼓（わだいこ）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2000-02-10",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市釈迦町"
+ },
+ {
+  "jmh_id": "JMH-082210-0020",
+  "name": "鉾の宮古墳群第2号墳出土埴輪一括（ほこのみやこふんぐんだい2ごうふんしゅつどはにわいっかつ）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1980-06-16",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0019",
+  "name": "虎塚古墳出土品一括（とらつかこふんしゅつどひんいっかつ）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1980-06-16",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0027",
+  "name": "長岡遺跡出土弥生式土器（ながおかいせきしゅつどやよいしきどき）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1982-06-15",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0028",
+  "name": "馬渡埴輪製作遺跡出土埴輪（まわたりはにわせいさくいせきしゅつどはにわ）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1982-06-15",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0034",
+  "name": "三反田蜆塚貝塚出土土偶（みたんだしいづかかいづかしゅつどどぐう）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1990-01-31",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0036",
+  "name": "大沼経塚群出土経筒（おおぬまきょうづかぐんしゅつどきょうつつ）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1993-02-16",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0043",
+  "name": "磯崎東古墳群出土遺物（いそざきひがしこふんぐんしゅつどいぶつ）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-09-06",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0046",
+  "name": "三反田蜆塚貝塚土坑出土土偶（みたんだしいづかかいづかどこうしゅつどどぐう）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2008-03-11",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0045",
+  "name": "那珂湊反射炉飛田家資料（なかみなとはんしゃろとびたけしりょう）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-10-15",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0044",
+  "name": "常陸湊村町内別明細絵図（ひたちみなとむらちょうないべつめいさいえず）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-10-15",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0006",
+  "name": "平磯の杖術（ひらいそのじょうじゅつ）",
+  "category": "有形文化財",
+  "subcategory": "無形文化財（芸能）",
+  "designation": "市指定",
+  "designated_date": "1971-09-21",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市平磯遠原町31‐2"
+ },
+ {
+  "jmh_id": "JMH-082210-0030",
+  "name": "手づくり張り子の達麿と虎・兎（てづくりはりこのだるまととら・うさぎ）",
+  "category": "有形文化財",
+  "subcategory": "無形文化財 （工芸技術）",
+  "designation": "市指定",
+  "designated_date": "1984-02-08",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市十三奉行1975"
+ },
+ {
+  "jmh_id": "JMH-082210-0026",
+  "name": "車長持（くるまながもち）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-06-15",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0032",
+  "name": "ヤンサマチ使用馬具（やんさまちしようばぐ）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-01-19",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市中根3499（埋蔵文化財調査センター）"
+ },
+ {
+  "jmh_id": "JMH-082210-0015",
+  "name": "船甚句（ふなじんく）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-11-20",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市釈迦町"
+ },
+ {
+  "jmh_id": "JMH-082210-0023",
+  "name": "天満宮の祭礼（てんまんぐうのさいれい）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-11-26",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市湊中央1-2-1"
+ },
+ {
+  "jmh_id": "JMH-082210-0022",
+  "name": "六町目獅子（ろくちょうめしし）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-11-26",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市東本町"
+ },
+ {
+  "jmh_id": "JMH-082210-0021",
+  "name": "元町みろく（もとまちみろく）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-11-26",
+  "municipality": "ひたちなか市",
+  "location": "ひたちなか市湊中央1丁目"
+ }
+]

@@ -34,7 +34,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "site", "geocode_cache.json")
 
-PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa", "tokyo"]
 
 COLUMNS = [
     "pref", "municipality", "name", "category", "subcategory",
@@ -51,7 +51,9 @@ DELAY_SEC = 0.5  # polite delay between geocode requests
 # Tochigi: lat ~36.2–37.0 N; Gunma: lat ~36.0–37.1 N, lon ~138.4–139.7 E — south/west bounds widened to 36.0/138.4.
 # Ibaraki: lat ~35.7–36.9 N, lon ~139.7–140.9 E — south bound widened to 35.7, east bound widened to 140.9.
 # Chiba: lat ~34.9–36.1 N (southern Bōsō Peninsula: 館山・南房総・鋸南) — south bound widened to 34.8.
-BBOX = {"lat_min": 34.8, "lat_max": 45.6, "lon_min": 138.4, "lon_max": 146.0}
+# Tokyo islands: Miyake 34.1N, Mikurajima 33.9N, Hachijo 33.1N, Aogashima 32.5N,
+# Ogasawara (Chichijima 27.1N / Hahajima 26.65N, lon 142.1–142.2E) — south bound widened to 26.5.
+BBOX = {"lat_min": 26.5, "lat_max": 45.6, "lon_min": 138.4, "lon_max": 146.0}
 
 
 def load_rows(pref):

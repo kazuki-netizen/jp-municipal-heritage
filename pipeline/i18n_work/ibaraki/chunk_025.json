@@ -1,0 +1,392 @@
+[
+ {
+  "jmh_id": "JMH-082058-0024",
+  "name": "常陸国分僧寺跡出土古瓦",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-08-23",
+  "municipality": "石岡市",
+  "location": "総社一丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0025",
+  "name": "常陸国分尼寺跡出土古瓦",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-08-23",
+  "municipality": "石岡市",
+  "location": "総社一丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0026",
+  "name": "常陸国分尼寺跡出土墨書土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-08-23",
+  "municipality": "石岡市",
+  "location": "染谷"
+ },
+ {
+  "jmh_id": "JMH-082058-0032",
+  "name": "舟塚山古墳群17号墳出土短甲・盾・直刀",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-08-23",
+  "municipality": "石岡市",
+  "location": "染谷"
+ },
+ {
+  "jmh_id": "JMH-082058-0041",
+  "name": "茨城廃寺礎石1号・2号・3号・4号",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1980-06-27",
+  "municipality": "石岡市",
+  "location": "国府五丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0042",
+  "name": "茨城廃寺礎石5号",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1980-06-27",
+  "municipality": "石岡市",
+  "location": "貝地二丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0043",
+  "name": "茨城廃寺礎石6号",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1980-06-27",
+  "municipality": "石岡市",
+  "location": "国府六丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0049",
+  "name": "茨城廃寺礎石7号",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1985-11-08",
+  "municipality": "石岡市",
+  "location": "国府六丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0047",
+  "name": "大乗妙典日本廻国供養碑（日本地図線刻入）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-07-28",
+  "municipality": "石岡市",
+  "location": "染谷"
+ },
+ {
+  "jmh_id": "JMH-082058-0045",
+  "name": "富田のささら（若獅子・女獅子・老獅子）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-11-25",
+  "municipality": "石岡市",
+  "location": "国府"
+ },
+ {
+  "jmh_id": "JMH-082058-0046",
+  "name": "染谷十二座神楽（猿田彦の面外26）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-11-25",
+  "municipality": "石岡市",
+  "location": "染谷"
+ },
+ {
+  "jmh_id": "JMH-082058-0056",
+  "name": "仲之内町の獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "府中一丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0054",
+  "name": "中町の山車人形「日本武尊」1体",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "国府三丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0077",
+  "name": "金丸町の山車人形「辨財天」1体（附金丸町の山車飾り一式）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "国府二丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0076",
+  "name": "金丸町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "総社一丁目"
+ },
+ {
+  "jmh_id": "JMH-082058-0008",
+  "name": "太々神楽（十二面神楽）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1971-11-26",
+  "municipality": "石岡市",
+  "location": "柿岡"
+ },
+ {
+  "jmh_id": "JMH-082058-0020",
+  "name": "根小屋代々十二神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-12-22",
+  "municipality": "石岡市",
+  "location": "根小屋"
+ },
+ {
+  "jmh_id": "JMH-082058-0066",
+  "name": "柿岡荒宿「ささら舞」",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "柿岡"
+ },
+ {
+  "jmh_id": "JMH-082058-0067",
+  "name": "柿岡館「獅子舞」",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "柿岡"
+ },
+ {
+  "jmh_id": "JMH-082058-0055",
+  "name": "代田の大人形（通称：ダイダラボッチ）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "井関"
+ },
+ {
+  "jmh_id": "JMH-082058-0050",
+  "name": "常陸國總社宮祭礼の獅子・山車・ささら行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2021-10-20",
+  "municipality": "石岡市",
+  "location": "総社二丁目ほか"
+ },
+ {
+  "jmh_id": "JMH-082058-0003",
+  "name": "大覚寺庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1968-03-15",
+  "municipality": "石岡市",
+  "location": "大増"
+ },
+ {
+  "jmh_id": "JMH-082058-0080",
+  "name": "鳴滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "瓦谷"
+ },
+ {
+  "jmh_id": "JMH-082058-0019",
+  "name": "須釜のイトヒバ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-07",
+  "municipality": "石岡市",
+  "location": "須釜"
+ },
+ {
+  "jmh_id": "JMH-082058-0013",
+  "name": "中山のゴヨウマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-11-07",
+  "municipality": "石岡市",
+  "location": "小幡"
+ },
+ {
+  "jmh_id": "JMH-082058-0021",
+  "name": "姫春蝉の生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-12-14",
+  "municipality": "石岡市",
+  "location": "菖蒲沢"
+ },
+ {
+  "jmh_id": "JMH-082058-0022",
+  "name": "姫春蝉の生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-12-14",
+  "municipality": "石岡市",
+  "location": "小山田"
+ },
+ {
+  "jmh_id": "JMH-082058-0052",
+  "name": "上青柳の大ヤマザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "石岡市",
+  "location": "上青柳"
+ },
+ {
+  "jmh_id": "JMH-082074-0029",
+  "name": "結城ぎおんばやし(田間)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-04-24",
+  "municipality": "結城市",
+  "location": "結城市大字田間"
+ },
+ {
+  "jmh_id": "JMH-082074-0031",
+  "name": "結城ぎおんばやし(大木)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-09-20",
+  "municipality": "結城市",
+  "location": "結城市大字大木"
+ },
+ {
+  "jmh_id": "JMH-082074-0032",
+  "name": "結城ぎおんばやし(小森)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-09-20",
+  "municipality": "結城市",
+  "location": "結城市大字小森"
+ },
+ {
+  "jmh_id": "JMH-082074-0033",
+  "name": "結城ぎおんばやし(本田・寺内)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-09-20",
+  "municipality": "結城市",
+  "location": "結城市大字小田林字本田・寺内"
+ },
+ {
+  "jmh_id": "JMH-082074-0030",
+  "name": "結城ぎおんばやし(古新田・黒田)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-09-20",
+  "municipality": "結城市",
+  "location": "結城市大字小田林字古新田・黒田"
+ },
+ {
+  "jmh_id": "JMH-082074-0014",
+  "name": "結城朝光の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(浦町）"
+ },
+ {
+  "jmh_id": "JMH-082074-0007",
+  "name": "慈眼院結城家御廟",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(小塙）"
+ },
+ {
+  "jmh_id": "JMH-082074-0001",
+  "name": "保戸塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字鹿窪"
+ },
+ {
+  "jmh_id": "JMH-082074-0010",
+  "name": "林八幡塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字林"
+ },
+ {
+  "jmh_id": "JMH-082074-0011",
+  "name": "林八幡塚陪塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字林"
+ },
+ {
+  "jmh_id": "JMH-082074-0002",
+  "name": "備中塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字上山川"
+ },
+ {
+  "jmh_id": "JMH-082074-0003",
+  "name": "古山八幡塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字上山川"
+ }
+]

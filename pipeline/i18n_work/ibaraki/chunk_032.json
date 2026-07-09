@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-085219-0002",
+  "name": "塚山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "蕗田"
+ },
+ {
+  "jmh_id": "JMH-085219-0015",
+  "name": "若古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1986-03-28",
+  "municipality": "八千代町",
+  "location": "若"
+ },
+ {
+  "jmh_id": "JMH-085219-0042",
+  "name": "仁江戸５号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2022-12-22",
+  "municipality": "八千代町",
+  "location": "仁江戸"
+ },
+ {
+  "jmh_id": "JMH-085219-0027",
+  "name": "鹿嶋神社境内及び木立地一円",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1994-01-24",
+  "municipality": "八千代町",
+  "location": "野爪"
+ },
+ {
+  "jmh_id": "JMH-085219-0029",
+  "name": "尾崎前山遺跡製鉄炉跡地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1994-09-26",
+  "municipality": "八千代町",
+  "location": "尾崎"
+ },
+ {
+  "jmh_id": "JMH-082201-0001",
+  "name": "佐都ヶ岩屋古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-12",
+  "municipality": "つくば市",
+  "location": "平沢 筑波国際C.C."
+ },
+ {
+  "jmh_id": "JMH-082201-0002",
+  "name": "棄木はやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-11-01",
+  "municipality": "つくば市",
+  "location": "棄木"
+ },
+ {
+  "jmh_id": "JMH-082201-0004",
+  "name": "随神門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-01-23",
+  "municipality": "つくば市",
+  "location": "筑波 筑波山神社"
+ },
+ {
+  "jmh_id": "JMH-082201-0003",
+  "name": "毘沙門天種子板碑",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1979-01-23",
+  "municipality": "つくば市",
+  "location": "北条"
+ },
+ {
+  "jmh_id": "JMH-082201-0005",
+  "name": "上の室盃山はやし",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-10-01",
+  "municipality": "つくば市",
+  "location": "上の室"
+ },
+ {
+  "jmh_id": "JMH-082201-0007",
+  "name": "金村別雷神社（拝殿、神楽殿、回廊）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-03-27",
+  "municipality": "つくば市",
+  "location": "上郷 金村別雷神社"
+ },
+ {
+  "jmh_id": "JMH-082201-0008",
+  "name": "随願院（本堂、山門、鐘楼）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-03-27",
+  "municipality": "つくば市",
+  "location": "上郷 随願院"
+ },
+ {
+  "jmh_id": "JMH-082201-0006",
+  "name": "宝幢院（山門、大師堂）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-03-27",
+  "municipality": "つくば市",
+  "location": "今鹿島 宝幢院"
+ },
+ {
+  "jmh_id": "JMH-082201-0016",
+  "name": "涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷 随願院"
+ },
+ {
+  "jmh_id": "JMH-082201-0025",
+  "name": "閻魔十王図十二幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "酒丸"
+ },
+ {
+  "jmh_id": "JMH-082201-0023",
+  "name": "銅製天部形立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷"
+ },
+ {
+  "jmh_id": "JMH-082201-0024",
+  "name": "銅製明王部形立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷"
+ },
+ {
+  "jmh_id": "JMH-082201-0022",
+  "name": "聖観音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷 随願院"
+ },
+ {
+  "jmh_id": "JMH-082201-0009",
+  "name": "僧形十一面観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷"
+ },
+ {
+  "jmh_id": "JMH-082201-0010",
+  "name": "木造十二神将像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷"
+ },
+ {
+  "jmh_id": "JMH-082201-0013",
+  "name": "木造阿弥陀院如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "神谷森"
+ },
+ {
+  "jmh_id": "JMH-082201-0012",
+  "name": "木造阿弥陀菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "神谷森"
+ },
+ {
+  "jmh_id": "JMH-082201-0011",
+  "name": "木造若至菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "神谷森"
+ },
+ {
+  "jmh_id": "JMH-082201-0018",
+  "name": "石造五輪塔",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷"
+ },
+ {
+  "jmh_id": "JMH-082201-0019",
+  "name": "石造六地蔵宝幢",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "酒丸"
+ },
+ {
+  "jmh_id": "JMH-082201-0021",
+  "name": "石造燈籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "酒丸"
+ },
+ {
+  "jmh_id": "JMH-082201-0020",
+  "name": "石造六地蔵形燈籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上里"
+ },
+ {
+  "jmh_id": "JMH-082201-0014",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷"
+ },
+ {
+  "jmh_id": "JMH-082201-0015",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "上郷"
+ },
+ {
+  "jmh_id": "JMH-082201-0017",
+  "name": "田倉の三匹獅子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-13",
+  "municipality": "つくば市",
+  "location": "田倉"
+ },
+ {
+  "jmh_id": "JMH-082201-0028",
+  "name": "大つげ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-12-01",
+  "municipality": "つくば市",
+  "location": "花室"
+ },
+ {
+  "jmh_id": "JMH-082201-0026",
+  "name": "上境ひよっとこ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-12-01",
+  "municipality": "つくば市",
+  "location": "上境"
+ },
+ {
+  "jmh_id": "JMH-082201-0027",
+  "name": "大けやき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-12-01",
+  "municipality": "つくば市",
+  "location": "栗原 鹿島神社"
+ },
+ {
+  "jmh_id": "JMH-082201-0029",
+  "name": "慶長板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1981-12-01",
+  "municipality": "つくば市",
+  "location": "栗原"
+ },
+ {
+  "jmh_id": "JMH-082201-0031",
+  "name": "照西寺三尊",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "つくば市",
+  "location": "手子生 照西寺"
+ },
+ {
+  "jmh_id": "JMH-082201-0030",
+  "name": "手子生城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "つくば市",
+  "location": "手子生"
+ },
+ {
+  "jmh_id": "JMH-082201-0033",
+  "name": "雄山寺板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "つくば市",
+  "location": "手子生 雄山寺"
+ },
+ {
+  "jmh_id": "JMH-082201-0032",
+  "name": "長峰城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "つくば市",
+  "location": "上郷 豊里C.C."
+ },
+ {
+  "jmh_id": "JMH-082201-0034",
+  "name": "今川家藩所のシイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-10-21",
+  "municipality": "つくば市",
+  "location": "谷田部"
+ },
+ {
+  "jmh_id": "JMH-082201-0035",
+  "name": "百家竜水万灯",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-04-01",
+  "municipality": "つくば市",
+  "location": "百家"
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "273423874e070b19": {
+    "url": "https://www.city.shibuya.tokyo.jp/bunka/bunkazai/bunkazai/kubunka.html",
+    "filename": "273423874e070b19.html",
+    "sha256": "8a81a18d5fdbdaad365b5fe5102dcea4dc2bcb2c450266aacebcd0616b4d41bd",
+    "fetched_at": "2026-07-08T05:39:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4ba3d4f8d67fd799": {
+    "url": "https://www.lib.city.shibuya.tokyo.jp/uploads/2022/06/99-07_bunkazai_ichiran.pdf",
+    "filename": "4ba3d4f8d67fd799.pdf",
+    "sha256": "5b9f1b7a6c5acf3495672e06ae2ea10590be7ff02020c9b347de9da96f187bc3",
+    "fetched_at": "2026-07-08T05:39:43Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,393 @@
+[
+ {
+  "jmh_id": "JMH-082031-0053",
+  "name": "絹本著色涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0220",
+  "name": "絹本両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "土浦市",
+  "location": "永国"
+ },
+ {
+  "jmh_id": "JMH-082031-0171",
+  "name": "捕鯨図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1985-03-20",
+  "municipality": "土浦市",
+  "location": "中央一丁目（市立博物館）"
+ },
+ {
+  "jmh_id": "JMH-082031-0192",
+  "name": "神龍寺旧本堂天井の雲龍図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2001-03-01",
+  "municipality": "土浦市",
+  "location": "文京町"
+ },
+ {
+  "jmh_id": "JMH-082031-0138",
+  "name": "絹本著色草座釈迦像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1978-05-22",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0139",
+  "name": "絹本著色観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1978-05-22",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0147",
+  "name": "絹本著色渡唐天神立像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1980-09-29",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0149",
+  "name": "絹本著色雪伝肖像画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1980-09-29",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0146",
+  "name": "絹本著色両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1980-09-29",
+  "municipality": "土浦市",
+  "location": "藤沢"
+ },
+ {
+  "jmh_id": "JMH-082031-0148",
+  "name": "絹本著色釈迦十六善神図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1980-09-29",
+  "municipality": "土浦市",
+  "location": "藤沢"
+ },
+ {
+  "jmh_id": "JMH-082031-0027",
+  "name": "石造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "菅谷町"
+ },
+ {
+  "jmh_id": "JMH-082031-0044",
+  "name": "木造千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "土浦市",
+  "location": "神立町"
+ },
+ {
+  "jmh_id": "JMH-082031-0045",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "土浦市",
+  "location": "上高津"
+ },
+ {
+  "jmh_id": "JMH-082031-0051",
+  "name": "石造浮彫大日如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "土浦市",
+  "location": "烏山三丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0049",
+  "name": "石造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "土浦市",
+  "location": "神立町"
+ },
+ {
+  "jmh_id": "JMH-082031-0052",
+  "name": "石造浮彫如意輪観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "土浦市",
+  "location": "神立町"
+ },
+ {
+  "jmh_id": "JMH-082031-0050",
+  "name": "石造姥神坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-02-01",
+  "municipality": "土浦市",
+  "location": "神立町"
+ },
+ {
+  "jmh_id": "JMH-082031-0069",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "小松二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0211",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0072",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "神立町"
+ },
+ {
+  "jmh_id": "JMH-082031-0216",
+  "name": "石造浮彫如意輪観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "土浦市",
+  "location": "上高津"
+ },
+ {
+  "jmh_id": "JMH-082031-0073",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "宍塚"
+ },
+ {
+  "jmh_id": "JMH-082031-0070",
+  "name": "木造毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "宍塚"
+ },
+ {
+  "jmh_id": "JMH-082031-0071",
+  "name": "木造釈迦如来両脇侍像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "宍塚"
+ },
+ {
+  "jmh_id": "JMH-082031-0101",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-08-20",
+  "municipality": "土浦市",
+  "location": "木田余"
+ },
+ {
+  "jmh_id": "JMH-082031-0105",
+  "name": "石造浮彫馬頭観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-08-20",
+  "municipality": "土浦市",
+  "location": "木田余"
+ },
+ {
+  "jmh_id": "JMH-082031-0099",
+  "name": "木造十一面観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-08-20",
+  "municipality": "土浦市",
+  "location": "中央二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0100",
+  "name": "木造千手観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-08-20",
+  "municipality": "土浦市",
+  "location": "神立町"
+ },
+ {
+  "jmh_id": "JMH-082031-0102",
+  "name": "木造大黒天像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-08-20",
+  "municipality": "土浦市",
+  "location": "手野町"
+ },
+ {
+  "jmh_id": "JMH-082031-0103",
+  "name": "木造薬師如来坐像及び両脇侍像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-08-20",
+  "municipality": "土浦市",
+  "location": "小松三丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0104",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-08-20",
+  "municipality": "土浦市",
+  "location": "小松三丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0206",
+  "name": "木造不動明王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "土浦市",
+  "location": "永国"
+ },
+ {
+  "jmh_id": "JMH-082031-0119",
+  "name": "木造千手観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1975-08-21",
+  "municipality": "土浦市",
+  "location": "城北町"
+ },
+ {
+  "jmh_id": "JMH-082031-0207",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0208",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0125",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1976-09-25",
+  "municipality": "土浦市",
+  "location": "中高津二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0133",
+  "name": "木造千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-03-25",
+  "municipality": "土浦市",
+  "location": "中央二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0134",
+  "name": "木造大日如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-03-25",
+  "municipality": "土浦市",
+  "location": "中央二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0135",
+  "name": "銅造十一面観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-03-25",
+  "municipality": "土浦市",
+  "location": "中央二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0132",
+  "name": "木造不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-03-25",
+  "municipality": "土浦市",
+  "location": "中央二丁目"
+ }
+]

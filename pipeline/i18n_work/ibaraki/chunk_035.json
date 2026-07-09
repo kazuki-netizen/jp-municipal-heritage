@@ -1,0 +1,379 @@
+[
+ {
+  "jmh_id": "JMH-083411-0024",
+  "name": "ヤマザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2018-03-06",
+  "municipality": "東海村",
+  "location": "個人 村2943-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0010",
+  "name": "鳳台院の山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1978-04-25",
+  "municipality": "笠間市",
+  "location": "箱田2458"
+ },
+ {
+  "jmh_id": "JMH-082163-0015",
+  "name": "城山稲荷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-10-01",
+  "municipality": "笠間市",
+  "location": "笠間6-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0022",
+  "name": "安居の千日堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-05-02",
+  "municipality": "笠間市",
+  "location": "安居1427-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0030",
+  "name": "笠間城門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1982-06-24",
+  "municipality": "笠間市",
+  "location": "笠間824"
+ },
+ {
+  "jmh_id": "JMH-082163-0031",
+  "name": "笠間城門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1982-06-24",
+  "municipality": "笠間市",
+  "location": "笠間818"
+ },
+ {
+  "jmh_id": "JMH-082163-0045",
+  "name": "香取神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "笠間市",
+  "location": "南小泉741"
+ },
+ {
+  "jmh_id": "JMH-082163-0073",
+  "name": "普賢院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "上郷3137"
+ },
+ {
+  "jmh_id": "JMH-082163-0062",
+  "name": "天神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "大渕175-1 外"
+ },
+ {
+  "jmh_id": "JMH-082163-0097",
+  "name": "滝野不動堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "箱田 861"
+ },
+ {
+  "jmh_id": "JMH-082163-0120",
+  "name": "高房神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "鴻巣619"
+ },
+ {
+  "jmh_id": "JMH-082163-0044",
+  "name": "柿本人麻呂の画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1986-04-15",
+  "municipality": "笠間市",
+  "location": "笠間345"
+ },
+ {
+  "jmh_id": "JMH-082163-0060",
+  "name": "大絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "大古山159"
+ },
+ {
+  "jmh_id": "JMH-082163-0098",
+  "name": "竜神尊像軸",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "本戸4412"
+ },
+ {
+  "jmh_id": "JMH-082163-0055",
+  "name": "両界蔓荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "片庭"
+ },
+ {
+  "jmh_id": "JMH-082163-0106",
+  "name": "絹本着色愛染明王像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "上市原942"
+ },
+ {
+  "jmh_id": "JMH-082163-0107",
+  "name": "絹本着色虚空蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "上市原942"
+ },
+ {
+  "jmh_id": "JMH-082163-0108",
+  "name": "絹本着色観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "大田町324"
+ },
+ {
+  "jmh_id": "JMH-082163-0109",
+  "name": "絹本著色聖徳太子略絵伝",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "笠間2591"
+ },
+ {
+  "jmh_id": "JMH-082163-0110",
+  "name": "絹本著色阿弥陀三尊・地蔵菩薩来迎図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "上市原942"
+ },
+ {
+  "jmh_id": "JMH-082163-0104",
+  "name": "紙本著色十二天屏風（六曲屏風）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "大田町324"
+ },
+ {
+  "jmh_id": "JMH-082163-0105",
+  "name": "紙本著色釈迦尊涅槃像図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "小原2912"
+ },
+ {
+  "jmh_id": "JMH-082163-0052",
+  "name": "絹本著色毘沙門天像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2026-03-24",
+  "municipality": "笠間市",
+  "location": "上市原942"
+ },
+ {
+  "jmh_id": "JMH-082163-0053",
+  "name": "絹本著色水天像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2026-03-24",
+  "municipality": "笠間市",
+  "location": "上市原942"
+ },
+ {
+  "jmh_id": "JMH-082163-0001",
+  "name": "十一面観世音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-05-29",
+  "municipality": "笠間市",
+  "location": "泉915"
+ },
+ {
+  "jmh_id": "JMH-082163-0006",
+  "name": "木造如意輪観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977-03-07",
+  "municipality": "笠間市",
+  "location": "福原1811"
+ },
+ {
+  "jmh_id": "JMH-082163-0034",
+  "name": "聖観音菩薩 (木造観世音菩薩立像)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-10-06",
+  "municipality": "笠間市",
+  "location": "南友部976"
+ },
+ {
+  "jmh_id": "JMH-082163-0038",
+  "name": "毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-02-26",
+  "municipality": "笠間市",
+  "location": "稲田650"
+ },
+ {
+  "jmh_id": "JMH-082163-0039",
+  "name": "童子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-02-26",
+  "municipality": "笠間市",
+  "location": "稲田650"
+ },
+ {
+  "jmh_id": "JMH-082163-0037",
+  "name": "弁才天・毘沙門天・大黒天三尊と厨子",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-02-26",
+  "municipality": "笠間市",
+  "location": "笠間1339"
+ },
+ {
+  "jmh_id": "JMH-082163-0040",
+  "name": "金銅仏十一面千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-02-26",
+  "municipality": "笠間市",
+  "location": "笠間1056-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0074",
+  "name": "普賢院本尊十一面観世音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "上郷3137"
+ },
+ {
+  "jmh_id": "JMH-082163-0079",
+  "name": "木造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "片庭2187-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0083",
+  "name": "木造毘沙門天像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "笠間1056-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0075",
+  "name": "木造不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "笠間1056-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0063",
+  "name": "子育地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "笠間2092"
+ },
+ {
+  "jmh_id": "JMH-082163-0112",
+  "name": "胎内石造仏 (子育地蔵菩薩坐像)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "笠間2092"
+ },
+ {
+  "jmh_id": "JMH-082163-0091",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "平町1939-1"
+ },
+ {
+  "jmh_id": "JMH-082163-0088",
+  "name": "木造阿弥陀三尊立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "大田町661"
+ },
+ {
+  "jmh_id": "JMH-082163-0089",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "笠間市",
+  "location": "上市原942"
+ }
+]

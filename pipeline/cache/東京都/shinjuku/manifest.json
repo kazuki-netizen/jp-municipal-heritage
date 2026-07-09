@@ -1,0 +1,18 @@
+{
+  "17d3c94444addaae": {
+    "url": "https://www.city.shinjuku.lg.jp/content/000360399.pdf",
+    "filename": "17d3c94444addaae.pdf",
+    "sha256": "703b456004fbe2eff09abc5bf1269afb53ff74a4c49beb15351cfead973571f1",
+    "fetched_at": "2026-07-08T05:39:27Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "9f13ceb48e2b35fd": {
+    "url": "https://www.city.shinjuku.lg.jp/kanko/bunka02_000004.html",
+    "filename": "9f13ceb48e2b35fd.html",
+    "sha256": "eec03512b9b6852a705a569bc47ab2c49b878765a3112fe3ae833d956f20ba2d",
+    "fetched_at": "2026-07-08T05:39:29Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

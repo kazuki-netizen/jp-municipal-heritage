@@ -1,0 +1,18 @@
+{
+  "0845161a58902bc3": {
+    "url": "https://www.city.chofu.tokyo.jp/www/contents/1460016667186/index.html",
+    "filename": "0845161a58902bc3.html",
+    "sha256": "961f63131af359c5f67ccf9bf9709dacd79c2bc2e44121ef80089ea3f8f862b1",
+    "fetched_at": "2026-07-08T05:40:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "41d8026f7674ad83": {
+    "url": "https://www.city.chofu.tokyo.jp/documents/2369/bunnkazai08.pdf",
+    "filename": "41d8026f7674ad83.pdf",
+    "sha256": null,
+    "fetched_at": "2026-07-08T05:40:11Z",
+    "http_status": 404,
+    "format": "pdf"
+  }
+}

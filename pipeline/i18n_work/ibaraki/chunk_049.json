@@ -1,0 +1,394 @@
+[
+ {
+  "jmh_id": "JMH-082244-0009",
+  "name": "エノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-06-27",
+  "municipality": "守谷市",
+  "location": "守谷市野木崎1159"
+ },
+ {
+  "jmh_id": "JMH-082244-0010",
+  "name": "スダジイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-06-27",
+  "municipality": "守谷市",
+  "location": "守谷市高野1337"
+ },
+ {
+  "jmh_id": "JMH-082244-0018",
+  "name": "ムクノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2012-02-17",
+  "municipality": "守谷市",
+  "location": "守谷市大木676"
+ },
+ {
+  "jmh_id": "JMH-082244-0021",
+  "name": "八坂神社祇園祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2015-12-24",
+  "municipality": "守谷市",
+  "location": "守谷市本町629"
+ },
+ {
+  "jmh_id": "JMH-082279-0027",
+  "name": "観音寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市",
+  "location": "中舘地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0026",
+  "name": "薬師堂本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市",
+  "location": "甲地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0034",
+  "name": "雷神社（本殿・幣殿・拝殿）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市",
+  "location": "樋口地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0038",
+  "name": "五所神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-03-24",
+  "municipality": "筑西市",
+  "location": "五所宮地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0052",
+  "name": "観音院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-03-24",
+  "municipality": "筑西市",
+  "location": "森添島地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0043",
+  "name": "春日神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-03-24",
+  "municipality": "筑西市",
+  "location": "嘉家佐和地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0045",
+  "name": "田中稲荷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-03-24",
+  "municipality": "筑西市",
+  "location": "甲地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0037",
+  "name": "不動堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-03-24",
+  "municipality": "筑西市",
+  "location": "岡芹地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0040",
+  "name": "八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-03-24",
+  "municipality": "筑西市",
+  "location": "甲地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0058",
+  "name": "小栗孫次郎平満重公と家臣の供養塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-03-01",
+  "municipality": "筑西市",
+  "location": "井出蛯沢地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0057",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-03-01",
+  "municipality": "筑西市",
+  "location": "蓬田地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0067",
+  "name": "桑山神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-03-28",
+  "municipality": "筑西市",
+  "location": "桑山地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0066",
+  "name": "八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-03-28",
+  "municipality": "筑西市",
+  "location": "八幡地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0069",
+  "name": "東睿山千妙寺総本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-10-20",
+  "municipality": "筑西市",
+  "location": "黒子地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0071",
+  "name": "虚空蔵堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-01-01",
+  "municipality": "筑西市",
+  "location": "大谷地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0070",
+  "name": "二所神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-01-01",
+  "municipality": "筑西市",
+  "location": "成田地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0082",
+  "name": "徳聖寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1985-05-17",
+  "municipality": "筑西市",
+  "location": "小栗地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0085",
+  "name": "羽黒神社旧拝殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1986-06-26",
+  "municipality": "筑西市",
+  "location": "甲地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0097",
+  "name": "最勝寺薬師堂（附棟札1枚）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2002-03-20",
+  "municipality": "筑西市",
+  "location": "下平塚地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0099",
+  "name": "宮山観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2002-11-15",
+  "municipality": "筑西市",
+  "location": "宮山地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0107",
+  "name": "五所神社石造鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2017-11-17",
+  "municipality": "筑西市",
+  "location": "五所宮地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0023",
+  "name": "漁夫図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市"
+ },
+ {
+  "jmh_id": "JMH-082279-0016",
+  "name": "寿三幅図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市"
+ },
+ {
+  "jmh_id": "JMH-082279-0028",
+  "name": "追羽子図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市"
+ },
+ {
+  "jmh_id": "JMH-082279-0032",
+  "name": "陶淵明山水図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市"
+ },
+ {
+  "jmh_id": "JMH-082279-0021",
+  "name": "東坡乗驢之図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市"
+ },
+ {
+  "jmh_id": "JMH-082279-0017",
+  "name": "文徴明八勝図模写",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市"
+ },
+ {
+  "jmh_id": "JMH-082279-0012",
+  "name": "大機院殿筆画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-06-28",
+  "municipality": "筑西市",
+  "location": "中舘地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0044",
+  "name": "水谷夫人妙西大姉画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1977-03-24",
+  "municipality": "筑西市",
+  "location": "乙地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0072",
+  "name": "孝養太子四臣連座図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1982-02-25",
+  "municipality": "筑西市",
+  "location": "宮後地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0077",
+  "name": "絹本著色刀八毘沙門天星宿像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-03-19",
+  "municipality": "筑西市",
+  "location": "黒子地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0079",
+  "name": "絹本著色馬形護法童子像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-03-19",
+  "municipality": "筑西市",
+  "location": "黒子地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0078",
+  "name": "絹本著色護法童子像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-03-19",
+  "municipality": "筑西市",
+  "location": "黒子地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0086",
+  "name": "顕如上人御影",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-06-27",
+  "municipality": "筑西市",
+  "location": "宮後地内"
+ },
+ {
+  "jmh_id": "JMH-082279-0095",
+  "name": "紙本著色仏涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2001-03-16",
+  "municipality": "筑西市"
+ },
+ {
+  "jmh_id": "JMH-082279-0100",
+  "name": "絹本著色釈迦三尊十六善神図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2003-02-26",
+  "municipality": "筑西市"
+ }
+]

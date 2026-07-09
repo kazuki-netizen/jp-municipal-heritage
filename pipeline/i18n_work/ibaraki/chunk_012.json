@@ -1,0 +1,392 @@
+[
+ {
+  "jmh_id": "JMH-082031-0015",
+  "name": "搦手門の跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "中央一丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0038",
+  "name": "鉄砲塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "都和一丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0016",
+  "name": "旧鎌倉街道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "木田余～真鍋"
+ },
+ {
+  "jmh_id": "JMH-082031-0003",
+  "name": "今泉城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "今泉"
+ },
+ {
+  "jmh_id": "JMH-082031-0017",
+  "name": "木田余城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "木田余"
+ },
+ {
+  "jmh_id": "JMH-082031-0005",
+  "name": "信太範宗の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "木田余"
+ },
+ {
+  "jmh_id": "JMH-082031-0013",
+  "name": "小田治朝の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "沖宿町"
+ },
+ {
+  "jmh_id": "JMH-082031-0004",
+  "name": "佐久良東雄の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "真鍋三丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0011",
+  "name": "大久保要の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "真鍋三丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0035",
+  "name": "色川三中の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "文京町"
+ },
+ {
+  "jmh_id": "JMH-082031-0214",
+  "name": "沼尻墨僊の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0023",
+  "name": "真鍋の道標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "中央一丁目（市立博物館）"
+ },
+ {
+  "jmh_id": "JMH-082031-0090",
+  "name": "退筆塚の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "中央一丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0062",
+  "name": "入江善兵衛の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "文京町"
+ },
+ {
+  "jmh_id": "JMH-082031-0068",
+  "name": "木原老谷の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "真鍋三丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0060",
+  "name": "五十嵐愛山の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "文京町"
+ },
+ {
+  "jmh_id": "JMH-082031-0204",
+  "name": "山口剛の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0059",
+  "name": "中田平山の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "中央二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0224",
+  "name": "高田保の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0082",
+  "name": "照井",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-12-01",
+  "municipality": "土浦市",
+  "location": "真鍋三丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0198",
+  "name": "南門の土塁",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0127",
+  "name": "荒川沖の一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-09-25",
+  "municipality": "土浦市",
+  "location": "荒川沖"
+ },
+ {
+  "jmh_id": "JMH-082031-0221",
+  "name": "辻元順の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "土浦市"
+ },
+ {
+  "jmh_id": "JMH-082031-0131",
+  "name": "安村江癡の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-03-25",
+  "municipality": "土浦市",
+  "location": "沖宿町"
+ },
+ {
+  "jmh_id": "JMH-082031-0189",
+  "name": "常名天神山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "土浦市",
+  "location": "常名"
+ },
+ {
+  "jmh_id": "JMH-082031-0188",
+  "name": "今泉愛宕山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "土浦市",
+  "location": "今泉"
+ },
+ {
+  "jmh_id": "JMH-082031-0120",
+  "name": "中峰和尚と復庵和尚の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-06-17",
+  "municipality": "土浦市",
+  "location": "高岡"
+ },
+ {
+  "jmh_id": "JMH-082031-0169",
+  "name": "武者塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1985-03-11",
+  "municipality": "土浦市",
+  "location": "上坂田"
+ },
+ {
+  "jmh_id": "JMH-082031-0143",
+  "name": "法雲寺境内庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1980-02-25",
+  "municipality": "土浦市",
+  "location": "高岡"
+ },
+ {
+  "jmh_id": "JMH-082031-0142",
+  "name": "向上庵境内庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1980-02-25",
+  "municipality": "土浦市",
+  "location": "小野"
+ },
+ {
+  "jmh_id": "JMH-082031-0014",
+  "name": "岩瀬家のシイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "小山崎"
+ },
+ {
+  "jmh_id": "JMH-082031-0031",
+  "name": "稲荷山のベニヤマザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-07-13",
+  "municipality": "土浦市",
+  "location": "板谷四丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0152",
+  "name": "法泉寺のシイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-09-30",
+  "municipality": "土浦市",
+  "location": "今泉"
+ },
+ {
+  "jmh_id": "JMH-082031-0151",
+  "name": "常福寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-09-30",
+  "municipality": "土浦市",
+  "location": "下高津二丁目"
+ },
+ {
+  "jmh_id": "JMH-082031-0057",
+  "name": "百日紅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-08-27",
+  "municipality": "土浦市",
+  "location": "藤沢"
+ },
+ {
+  "jmh_id": "JMH-082031-0187",
+  "name": "醤油仲間証文帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1989-05-01",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0196",
+  "name": "石田文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2023-03-24",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0180",
+  "name": "地球万国図説",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1989-05-01",
+  "municipality": "土浦市",
+  "location": "中央一丁目（博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-082031-0184",
+  "name": "石造阿弥陀種子板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1989-05-01",
+  "municipality": "土浦市",
+  "location": "宍塚"
+ },
+ {
+  "jmh_id": "JMH-082031-0197",
+  "name": "上高津貝塚出土製塩土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2025-03-28",
+  "municipality": "土浦市",
+  "location": "上高津（考古資料館）"
+ }
+]

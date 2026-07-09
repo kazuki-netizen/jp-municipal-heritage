@@ -1,22 +1,22 @@
 # SCHEMA (v1)
 
-`data/{pref}.jsonl` (e.g. `hokkaido.jsonl`, `iwate.jsonl`, `miyagi.jsonl`, `aomori.jsonl`, `akita.jsonl`, `yamagata.jsonl`, `fukushima.jsonl`, `tochigi.jsonl`, `gunma.jsonl`, `ibaraki.jsonl`, `saitama.jsonl`, `chiba.jsonl`, `kanagawa.jsonl`) is
+`data/{pref}.jsonl` (e.g. `hokkaido.jsonl`, `iwate.jsonl`, `miyagi.jsonl`, `aomori.jsonl`, `akita.jsonl`, `yamagata.jsonl`, `fukushima.jsonl`, `tochigi.jsonl`, `gunma.jsonl`, `ibaraki.jsonl`, `saitama.jsonl`, `chiba.jsonl`, `kanagawa.jsonl`, `tokyo.jsonl`) is
 [JSON Lines](https://jsonlines.org/): one JSON object per line,
 one municipality-designated cultural property (市町村指定文化財) per object. UTF-8.
 `data/{pref}.csv` has the identical columns (UTF-8 with BOM). `data/{pref}.geojson`
-and `data/all.geojson` (combined, all thirteen prefectures) carry the same fields inside each
+and `data/all.geojson` (combined, all fourteen prefectures) carry the same fields inside each
 feature's `properties`, plus a derived `geo_precision`.
 
 ## Fields (v1)
 
 | Field | Type | Null? | Description |
 |---|---|---|---|
-| `pref` | string | no | Prefecture name (Japanese). One of `北海道`, `青森県`, `岩手県`, `宮城県`, `秋田県`, `山形県`, `福島県`, `栃木県`, `群馬県`, `茨城県`, `埼玉県`, `千葉県`, `神奈川県` in this (v10) release. |
+| `pref` | string | no | Prefecture name (Japanese). One of `北海道`, `青森県`, `岩手県`, `宮城県`, `秋田県`, `山形県`, `福島県`, `栃木県`, `群馬県`, `茨城県`, `埼玉県`, `千葉県`, `神奈川県`, `東京都` in this (v11) release. |
 | `municipality` | string | no | City/town/village that made the designation (市町村). |
 | `name` | string | no | Official name of the property (名称), as published by the source. |
 | `category` | string | no | Cultural-property **major class**, normalized to the Agency for Cultural Affairs (文化庁) taxonomy — see "Normalization rules" below. One of: `有形文化財`, `無形文化財`, `民俗文化財`, `記念物(史跡・名勝・天然記念物)`, `その他`. |
 | `subcategory` | string | yes | The source's own 種別/分類 wording (e.g. `彫刻`, `無形民俗文化財`, `史跡`), preserved verbatim. **Not** normalized across municipalities — see rule 4. |
-| `designation` | string | no | Designating authority level: `市指定` / `町指定` / `村指定`. (National `国指定` and prefectural `県指定` items are **excluded** from this dataset by scope.) |
+| `designation` | string | no | Designating authority level: `市指定` / `町指定` / `村指定` / `区指定` (Tokyo special wards, added in v11). (National `国指定` and prefectural/metropolitan `県指定`・`都指定` items are **excluded** from this dataset by scope.) |
 | `designated_date` | string \| null | yes | Designation date (指定年月日) as ISO `YYYY-MM-DD`, converted from 和暦. `null` when the source publishes no date or the date was unrecoverable — see rule 2 and rule "null-over-guess". |
 | `location` | string \| null | yes | Location/address or custodian as published (所在地). Granularity varies by source (full address ↔ 大字 only ↔ holding institution). `null` for placeless items (e.g. a 無形 technique) or where the source omits it. |
 | `description` | string \| null | yes | Free-text notes from the source (員数/附 items, remarks). `null` when absent. |

@@ -1,0 +1,374 @@
+[
+ {
+  "jmh_id": "JMH-082112-0028",
+  "name": "旧報徳銀行水海道支店",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "水海道宝町2784番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0024",
+  "name": "坂野家住宅書院",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "大生郷町2037番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0007",
+  "name": "紫龍石の硯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0006",
+  "name": "弘経寺扁額",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0010",
+  "name": "鉄切付盛上黒漆碁石頭縹糸素掛威二枚胴具足",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0021",
+  "name": "のろ流出孔栓",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "内守谷町3319番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0043",
+  "name": "羽口",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "内守谷町3319番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0050",
+  "name": "金剛界大日三尊像板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "中妻町2467番地3"
+ },
+ {
+  "jmh_id": "JMH-082112-0047",
+  "name": "蔵持建長銘板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "蔵持552番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0048",
+  "name": "西福寺の建長銘板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "新石下1034番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0002",
+  "name": "千姫の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0041",
+  "name": "累の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "羽生町724番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0022",
+  "name": "六所塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "蔵持251番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0045",
+  "name": "菅生城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "菅生町2396番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0008",
+  "name": "紺紙金泥阿弥陀経",
+  "category": "その他",
+  "subcategory": "書籍",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0009",
+  "name": "金銅阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0031",
+  "name": "木造如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "曲田479番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0032",
+  "name": "木造如来立像及び二脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "豊田1956番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0033",
+  "name": "木造正観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "豊田1880番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0035",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "本石下65番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0034",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "大房93"
+ },
+ {
+  "jmh_id": "JMH-082112-0005",
+  "name": "弘経寺のスギ（来迎杉）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0004",
+  "name": "大塚戸のムクノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "大塚戸町786番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0017",
+  "name": "鹿小路のタブノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-10-01",
+  "municipality": "常総市",
+  "location": "内守谷町5449番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0049",
+  "name": "諏訪神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "水海道諏訪町3771番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0025",
+  "name": "大日塚の大けやき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "鴻野山155番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0026",
+  "name": "峯薬師様大椎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "篠山681番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0040",
+  "name": "稲荷神社の大けやき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "新石下222番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0046",
+  "name": "菅生沼のタチスミレ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "菅生町"
+ },
+ {
+  "jmh_id": "JMH-082112-0001",
+  "name": "いしげ結城紬工芸技術",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-12-07",
+  "municipality": "常総市",
+  "location": "新石下3666番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0030",
+  "name": "木版画（渡辺氏）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "新石下4001番地7"
+ },
+ {
+  "jmh_id": "JMH-082112-0029",
+  "name": "木版画（吉田氏）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "本石下85番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0023",
+  "name": "内守谷本郷馬鹿囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "内守谷町4884番地14"
+ },
+ {
+  "jmh_id": "JMH-082112-0051",
+  "name": "長ノ入の獅子舞（馬鹿囃子）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "内守谷町1822番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0036",
+  "name": "水海道神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "水海道栄町2616番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0038",
+  "name": "石下天神ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "原宿67番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0039",
+  "name": "石下飴屋踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "本石下4976番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0020",
+  "name": "とんだやばやし（神田囃子）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "新石下3785番地"
+ },
+ {
+  "jmh_id": "JMH-082317-0007",
+  "name": "五所駒瀧神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1978-11-22",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町山尾499"
+ },
+ {
+  "jmh_id": "JMH-082317-0018",
+  "name": "雨引山黒門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-11-15",
+  "municipality": "桜川市",
+  "location": "桜川市本木1"
+ }
+]

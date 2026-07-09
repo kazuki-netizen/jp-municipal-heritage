@@ -1,0 +1,385 @@
+[
+ {
+  "jmh_id": "JMH-082121-0061",
+  "name": "太刀（1振）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "町田町"
+ },
+ {
+  "jmh_id": "JMH-082121-0063",
+  "name": "太刀（銘 信國）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "天下野町"
+ },
+ {
+  "jmh_id": "JMH-082121-0062",
+  "name": "太刀（無銘）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "天下野町"
+ },
+ {
+  "jmh_id": "JMH-082121-0091",
+  "name": "長巻（無銘）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "天下野町"
+ },
+ {
+  "jmh_id": "JMH-082121-0008",
+  "name": "環頭柄頭（1点）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0001",
+  "name": "人物埴輪（1点）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0012",
+  "name": "馬の埴輪（1点）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0043",
+  "name": "人物埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0044",
+  "name": "土偶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0070",
+  "name": "幡山古墳群出土馬具（一括）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0069",
+  "name": "幡山古墳群出土須恵器（一括）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0058",
+  "name": "入浄塚古墳出土遺物（一括）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0055",
+  "name": "大方2号墳南埴輪棺出土遺物（一括）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2023-04-03",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0002",
+  "name": "佐々宗淳の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0004",
+  "name": "幡山古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "幡町"
+ },
+ {
+  "jmh_id": "JMH-082121-0007",
+  "name": "永田円水の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "稲木町"
+ },
+ {
+  "jmh_id": "JMH-082121-0003",
+  "name": "元太田山埴輪窯跡1号",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "新宿町"
+ },
+ {
+  "jmh_id": "JMH-082121-0013",
+  "name": "馬坂城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "天神林町"
+ },
+ {
+  "jmh_id": "JMH-082121-0011",
+  "name": "那珂通辰の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0027",
+  "name": "小森明神古墳（1基）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "常陸太田市",
+  "location": "大中町"
+ },
+ {
+  "jmh_id": "JMH-082121-0031",
+  "name": "猫淵横穴古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-07-05",
+  "municipality": "常陸太田市",
+  "location": "高柿町"
+ },
+ {
+  "jmh_id": "JMH-082121-0034",
+  "name": "山入城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-10-01",
+  "municipality": "常陸太田市",
+  "location": "国安町"
+ },
+ {
+  "jmh_id": "JMH-082121-0060",
+  "name": "善光寺横穴群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "松栄町"
+ },
+ {
+  "jmh_id": "JMH-082121-0080",
+  "name": "町田焼窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "町田町"
+ },
+ {
+  "jmh_id": "JMH-082121-0057",
+  "name": "中野冨士山古墳（1基）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "中野町"
+ },
+ {
+  "jmh_id": "JMH-082121-0010",
+  "name": "紺紙金泥三部妙典（1巻）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "上河合町"
+ },
+ {
+  "jmh_id": "JMH-082121-0006",
+  "name": "正宗寺所蔵文書（3通）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0005",
+  "name": "木彫義公面（3面）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "新宿町"
+ },
+ {
+  "jmh_id": "JMH-082121-0036",
+  "name": "薬師如来立像（1躯）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-10-01",
+  "municipality": "常陸太田市",
+  "location": "天下野町"
+ },
+ {
+  "jmh_id": "JMH-082121-0038",
+  "name": "本宮神社御神体女神像（1躯）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "常陸太田市",
+  "location": "天下野町"
+ },
+ {
+  "jmh_id": "JMH-082121-0054",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0079",
+  "name": "横川の山車（1台）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "折橋町"
+ },
+ {
+  "jmh_id": "JMH-082121-0077",
+  "name": "木造釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0090",
+  "name": "銅造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "木崎二町"
+ },
+ {
+  "jmh_id": "JMH-082121-0074",
+  "name": "木造十王坐像（附奪衣婆坐像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "岡田町"
+ },
+ {
+  "jmh_id": "JMH-082121-0076",
+  "name": "木造宝冠釈迦如来坐像（1躯）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "天神林町"
+ },
+ {
+  "jmh_id": "JMH-082121-0073",
+  "name": "木造十一面観音坐像（1躯）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "田渡町"
+ },
+ {
+  "jmh_id": "JMH-082121-0075",
+  "name": "木造如来形坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "大里町"
+ },
+ {
+  "jmh_id": "JMH-082121-0014",
+  "name": "正宗寺の柏槙（2株）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-06-15",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0015",
+  "name": "鹿島神社の椎（1株）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-06-15",
+  "municipality": "常陸太田市",
+  "location": "大森町"
+ }
+]
