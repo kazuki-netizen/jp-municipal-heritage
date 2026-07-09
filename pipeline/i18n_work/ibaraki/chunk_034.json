@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-082201-0063",
+  "name": "まるばくす",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-05-21",
+  "municipality": "つくば市",
+  "location": "筑波 筑波山神社"
+ },
+ {
+  "jmh_id": "JMH-082201-0077",
+  "name": "日向廃寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1987-07-09",
+  "municipality": "つくば市",
+  "location": "北条"
+ },
+ {
+  "jmh_id": "JMH-082201-0080",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1988-09-22",
+  "municipality": "つくば市",
+  "location": "大曽根 千光寺"
+ },
+ {
+  "jmh_id": "JMH-082201-0078",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1988-09-22",
+  "municipality": "つくば市",
+  "location": "大曽根 千光寺"
+ },
+ {
+  "jmh_id": "JMH-082201-0079",
+  "name": "木造阿弥陀院如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1988-09-22",
+  "municipality": "つくば市",
+  "location": "吉沼 覚心寺"
+ },
+ {
+  "jmh_id": "JMH-082201-0081",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2002-04-01",
+  "municipality": "つくば市",
+  "location": "上岩崎"
+ },
+ {
+  "jmh_id": "JMH-082201-0082",
+  "name": "香取神社の大けやき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2004-07-01",
+  "municipality": "つくば市",
+  "location": "島名 香取神社"
+ },
+ {
+  "jmh_id": "JMH-082201-0083",
+  "name": "三村山不殺生界碑",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2024-02-01",
+  "municipality": "つくば市",
+  "location": "小田"
+ },
+ {
+  "jmh_id": "JMH-082201-0084",
+  "name": "小田の祇園祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2025-08-22",
+  "municipality": "つくば市",
+  "location": "小田"
+ },
+ {
+  "jmh_id": "JMH-083411-0001",
+  "name": "高台および83三輪玉",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "1984-02-25",
+  "municipality": "東海村",
+  "location": "村768-38"
+ },
+ {
+  "jmh_id": "JMH-083411-0008",
+  "name": "武人埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "1984-03-19",
+  "municipality": "東海村",
+  "location": "村768-38"
+ },
+ {
+  "jmh_id": "JMH-083411-0007",
+  "name": "土偶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "1984-03-19",
+  "municipality": "東海村",
+  "location": "村768-38"
+ },
+ {
+  "jmh_id": "JMH-083411-0014",
+  "name": "采邑遺跡出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2006-07-11",
+  "municipality": "東海村",
+  "location": "村768-38"
+ },
+ {
+  "jmh_id": "JMH-083411-0030",
+  "name": "笄を被る男子埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2022-08-30",
+  "municipality": "東海村",
+  "location": "村768-38"
+ },
+ {
+  "jmh_id": "JMH-083411-0027",
+  "name": "三角形冠を被る武人埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2022-08-30",
+  "municipality": "東海村",
+  "location": "村768-38"
+ },
+ {
+  "jmh_id": "JMH-083411-0011",
+  "name": "常州領田丸所大神宮祭祀・領田神宮寺中行事年中行事帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "村指定",
+  "designated_date": "1986-03-05",
+  "municipality": "東海村",
+  "location": "豊受皇大神宮 白方662-1"
+ },
+ {
+  "jmh_id": "JMH-083411-0029",
+  "name": "竹友・新田家古三成帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "村指定",
+  "designated_date": "2022-08-30",
+  "municipality": "東海村",
+  "location": "(個人宅)"
+ },
+ {
+  "jmh_id": "JMH-083411-0028",
+  "name": "竹友・友別絵図",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "村指定",
+  "designated_date": "2022-08-30",
+  "municipality": "東海村",
+  "location": "(個人宅)"
+ },
+ {
+  "jmh_id": "JMH-083411-0032",
+  "name": "常州久慈郡 茅下村御廻地絵帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "村指定",
+  "municipality": "東海村"
+ },
+ {
+  "jmh_id": "JMH-083411-0031",
+  "name": "常州屋敷浦 孤蔵村廻絵帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "村指定",
+  "designated_date": "2025-05-30",
+  "municipality": "東海村",
+  "location": "村768-38"
+ },
+ {
+  "jmh_id": "JMH-083411-0018",
+  "name": "木造阿弥陀院観知来立像(日本像)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2015-05-11",
+  "municipality": "東海村",
+  "location": "石神外1047"
+ },
+ {
+  "jmh_id": "JMH-083411-0019",
+  "name": "木造阿弥陀院観知来立像(胎内仏)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2015-05-11",
+  "municipality": "東海村",
+  "location": "石神外1047"
+ },
+ {
+  "jmh_id": "JMH-083411-0020",
+  "name": "銅造阿弥陀院観知来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2015-05-11",
+  "municipality": "東海村",
+  "location": "石神外1047"
+ },
+ {
+  "jmh_id": "JMH-083411-0016",
+  "name": "木造聖徳太子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2015-05-11",
+  "municipality": "東海村",
+  "location": "石神外1047"
+ },
+ {
+  "jmh_id": "JMH-083411-0017",
+  "name": "木造阿弥陀院観知来坐像(桟木像)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2015-05-11",
+  "municipality": "東海村",
+  "location": "石神外1047"
+ },
+ {
+  "jmh_id": "JMH-083411-0026",
+  "name": "木造祖師観音薩摩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2018-03-11",
+  "municipality": "東海村",
+  "location": "如意輪寺 舟底55"
+ },
+ {
+  "jmh_id": "JMH-083411-0003",
+  "name": "十王燈および華衣裳",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1984-03-10",
+  "municipality": "東海村",
+  "location": "如意輪寺 舟底55-1"
+ },
+ {
+  "jmh_id": "JMH-083411-0006",
+  "name": "青女俵探偵機",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1984-03-10",
+  "municipality": "東海村",
+  "location": "村8"
+ },
+ {
+  "jmh_id": "JMH-083411-0005",
+  "name": "磯崎貨神祭礼品",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "1984-03-10",
+  "municipality": "東海村",
+  "location": "虚空蔵堂 村8"
+ },
+ {
+  "jmh_id": "JMH-083411-0025",
+  "name": "弦楽木",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "村指定",
+  "designated_date": "2018-03-08",
+  "municipality": "東海村"
+ },
+ {
+  "jmh_id": "JMH-083411-0010",
+  "name": "光岩山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1986-03-05",
+  "municipality": "東海村"
+ },
+ {
+  "jmh_id": "JMH-083411-0012",
+  "name": "明当山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1986-03-05",
+  "municipality": "東海村",
+  "location": "個人 石神外1208-1"
+ },
+ {
+  "jmh_id": "JMH-083411-0013",
+  "name": "水戸八景「村松哥の松」の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "2006-07-11",
+  "municipality": "東海村",
+  "location": "村135"
+ },
+ {
+  "jmh_id": "JMH-083411-0015",
+  "name": "青塚古墳2号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "2008-12-24",
+  "municipality": "東海村",
+  "location": "個人 村松1221-8(1221-9?一部)"
+ },
+ {
+  "jmh_id": "JMH-083411-0009",
+  "name": "石道輪中の光景緑樹林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1984-04-20",
+  "municipality": "東海村",
+  "location": "如意輪寺 舟底54,57"
+ },
+ {
+  "jmh_id": "JMH-083411-0004",
+  "name": "石神町のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1984-03-10",
+  "municipality": "東海村",
+  "location": "石神外1047"
+ },
+ {
+  "jmh_id": "JMH-083411-0002",
+  "name": "住吉神社のシシカシラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "1984-03-10",
+  "municipality": "東海村",
+  "location": "住吉神社 石神外1097"
+ },
+ {
+  "jmh_id": "JMH-083411-0021",
+  "name": "エノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2018-03-06",
+  "municipality": "東海村",
+  "location": "個人 石神外429-2"
+ },
+ {
+  "jmh_id": "JMH-083411-0022",
+  "name": "ケヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2018-03-06",
+  "municipality": "東海村",
+  "location": "個人 洞和田65-1"
+ },
+ {
+  "jmh_id": "JMH-083411-0023",
+  "name": "モチノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2018-03-06",
+  "municipality": "東海村",
+  "location": "個人 石神内前1427"
+ }
+]

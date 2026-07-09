@@ -1,0 +1,42 @@
+{
+  "3b87525d8d1656a0": {
+    "url": "https://www.city.hachioji.tokyo.jp/kankobunka/003/003/001/003/index.html",
+    "filename": "3b87525d8d1656a0.html",
+    "sha256": "7aa25fccb8f7279ffbec94d6d9091a4962274ad2b04de054d5a3588b6e9b98b9",
+    "fetched_at": "2026-07-08T05:39:59Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cceca1fdae758279": {
+    "url": "https://www.city.hachioji.tokyo.jp/kankobunka/003/003/002/002/index.html",
+    "filename": "cceca1fdae758279.html",
+    "sha256": "2bd1c29d776d1289a0b21e6d57ae686a60ff56b08037ebc41a8b0c785b6fff9f",
+    "fetched_at": "2026-07-08T05:40:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7f22a1f6c090dee3": {
+    "url": "https://www.city.hachioji.tokyo.jp/kankobunka/003/003/005/002/index.html",
+    "filename": "7f22a1f6c090dee3.html",
+    "sha256": "d66bdd33693a9ca863c2523a70291402bd8141d6000a8a7f38cc78041b3f9788",
+    "fetched_at": "2026-07-08T05:40:03Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3691213baa48e3cb": {
+    "url": "https://www.city.hachioji.tokyo.jp/kankobunka/003/003/006/001/index.html",
+    "filename": "3691213baa48e3cb.html",
+    "sha256": "9e93981a43ca6ce49252c1742175c3c143ec568a03d1c4e32103a9cb9f6bc98c",
+    "fetched_at": "2026-07-08T05:40:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5742da82f56e470f": {
+    "url": "https://www.city.hachioji.tokyo.jp/kankobunka/003/003/006/002/index.html",
+    "filename": "5742da82f56e470f.html",
+    "sha256": "e98c1bb868c2bdf9e659c256cb4e29e06723e3e1a42c68abe9f3c0509bdeb649",
+    "fetched_at": "2026-07-08T05:40:07Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

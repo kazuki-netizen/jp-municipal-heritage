@@ -1,0 +1,18 @@
+{
+  "37d82a63f4f0f597": {
+    "url": "https://www.vill.hinohara.tokyo.jp/0000001402.html",
+    "filename": "37d82a63f4f0f597.html",
+    "sha256": "257609c95df5bcd8a81fb251d35418f922864acb290a86ece910d7e1eb93426c",
+    "fetched_at": "2026-07-08T05:40:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "36672edbfcd118d5": {
+    "url": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1402/20220817bunkazai.pdf",
+    "filename": "36672edbfcd118d5.pdf",
+    "sha256": "ca2de666d64f2c4e900214cc961f1b9bb6acb0442ef652090f0612fc2903b5a9",
+    "fetched_at": "2026-07-08T05:40:46Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

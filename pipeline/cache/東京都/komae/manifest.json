@@ -1,0 +1,26 @@
+{
+  "7c8adbdd817c3f1d": {
+    "url": "https://www.komae.ed.jp/index.cfm/12,4216,58,html",
+    "filename": "7c8adbdd817c3f1d.html",
+    "sha256": "8de25b60deaa1e48aa5cc4cd422d0887e2c1875ffe44e4da6af77f9ad275027c",
+    "fetched_at": "2026-07-08T05:40:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d60fdc1b9baef17b": {
+    "url": "https://www.komae.ed.jp/index.cfm/12,4221,58,html",
+    "filename": "d60fdc1b9baef17b.html",
+    "sha256": "c2050c3e93794f6038a8d0651494cdf4c255b201cb72d5004aa981f68f5a0f6e",
+    "fetched_at": "2026-07-08T05:40:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ac29a676aa9fcfe3": {
+    "url": "https://www.komae.ed.jp/index.cfm/12,4223,58,html",
+    "filename": "ac29a676aa9fcfe3.html",
+    "sha256": "5f4564523da3e4ac9d066b94def788dfbfe279835beffb72fe78e7b4b6c50ad5",
+    "fetched_at": "2026-07-08T05:40:37Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

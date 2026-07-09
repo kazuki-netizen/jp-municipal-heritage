@@ -1,0 +1,18 @@
+{
+  "c75cc433b302903c": {
+    "url": "https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/029/508/kokubunjishibunkazai4.pdf",
+    "filename": "c75cc433b302903c.pdf",
+    "sha256": "27c356c31323615734b0e9c09e5e82a13a370ae9d1ba69acd87631d6637ae692",
+    "fetched_at": "2026-07-08T05:40:28Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "62fa7973fd29a3a0": {
+    "url": "https://www.city.kokubunji.tokyo.jp/shisetsu/kouen/1029498/1029508.html",
+    "filename": "62fa7973fd29a3a0.html",
+    "sha256": "ecdfb1f335c8105acd3dc928cdb0f07e1c36dfede16f7f0428b7bcc0dbd2f3d6",
+    "fetched_at": "2026-07-08T05:40:29Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

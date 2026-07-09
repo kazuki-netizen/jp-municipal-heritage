@@ -1,0 +1,360 @@
+[
+ {
+  "jmh_id": "JMH-082236-0081",
+  "name": "辻のアオガシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "辻332-1"
+ },
+ {
+  "jmh_id": "JMH-082236-0080",
+  "name": "貝塚の大シイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "築地76"
+ },
+ {
+  "jmh_id": "JMH-082236-0074",
+  "name": "大賀のシイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "大賀721"
+ },
+ {
+  "jmh_id": "JMH-082236-0079",
+  "name": "湯殿山のシイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "大賀於山"
+ },
+ {
+  "jmh_id": "JMH-082236-0078",
+  "name": "文殊院のカヤノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1995-10-25",
+  "municipality": "潮来市",
+  "location": "大賀立野"
+ },
+ {
+  "jmh_id": "JMH-082236-0037",
+  "name": "藤ヶ崎明神の碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1975-02-25",
+  "municipality": "潮来市",
+  "location": "上戸658"
+ },
+ {
+  "jmh_id": "JMH-082236-0072",
+  "name": "長勝寺棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1994-04-27",
+  "municipality": "潮来市",
+  "location": "潮来428"
+ },
+ {
+  "jmh_id": "JMH-082236-0073",
+  "name": "延方郷校大成殿神位",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1994-11-24",
+  "municipality": "潮来市",
+  "location": "牛堀17"
+ },
+ {
+  "jmh_id": "JMH-082236-0083",
+  "name": "文殊院須弥壇宮殿と棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-11-25",
+  "municipality": "潮来市",
+  "location": "大賀"
+ },
+ {
+  "jmh_id": "JMH-083640-0021",
+  "name": "高徳寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0007",
+  "name": "大雲寺観音堂（附属大般若経・附属宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0017",
+  "name": "涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0015",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0013",
+  "name": "木造聖徳太子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0006",
+  "name": "塑造如信上人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0014",
+  "name": "木造観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0005",
+  "name": "仲山古墳群3号墳出土遺物(直刀・刀子・鎌)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0018",
+  "name": "近津神社の中田植",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0019",
+  "name": "道祖神碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0010",
+  "name": "庚申供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0011",
+  "name": "文武館文庫",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0020",
+  "name": "鏡城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0004",
+  "name": "上岡古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0008",
+  "name": "如信上人終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0012",
+  "name": "文武館跡のけやき群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0001",
+  "name": "だき灯籠の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0003",
+  "name": "ヒメザゼンソウの群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0002",
+  "name": "サクラソウの群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0016",
+  "name": "法龍寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-083640-0009",
+  "name": "小生瀬地蔵桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大子町"
+ },
+ {
+  "jmh_id": "JMH-082104-0002",
+  "name": "多賀谷城本丸跡（旧名下妻城）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "下妻市",
+  "location": "本城町"
+ },
+ {
+  "jmh_id": "JMH-082104-0005",
+  "name": "浅間塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "下妻市",
+  "location": "黒駒"
+ },
+ {
+  "jmh_id": "JMH-082104-0003",
+  "name": "小島草庵跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-22",
+  "municipality": "下妻市",
+  "location": "小島"
+ },
+ {
+  "jmh_id": "JMH-082104-0025",
+  "name": "絹本著色愛染明王像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1996-12-26",
+  "municipality": "下妻市",
+  "location": "下妻丙（大町）"
+ },
+ {
+  "jmh_id": "JMH-082104-0011",
+  "name": "木造釈迦涅槃像（寝釈迦像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-03-31",
+  "municipality": "下妻市",
+  "location": "下妻丙（大町）"
+ },
+ {
+  "jmh_id": "JMH-082104-0024",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-12-26",
+  "municipality": "下妻市",
+  "location": "下妻戊（田町）"
+ },
+ {
+  "jmh_id": "JMH-082104-0009",
+  "name": "石造五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-11-05",
+  "municipality": "下妻市",
+  "location": "黒駒"
+ },
+ {
+  "jmh_id": "JMH-082104-0021",
+  "name": "今泉不動堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-12-26",
+  "municipality": "下妻市",
+  "location": "今泉"
+ },
+ {
+  "jmh_id": "JMH-082104-0023",
+  "name": "多貿谷氏発給文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1996-12-26",
+  "municipality": "下妻市",
+  "location": "下妻乙（栗山）"
+ },
+ {
+  "jmh_id": "JMH-082104-0026",
+  "name": "親鸞伝絵",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1996-12-26",
+  "municipality": "下妻市",
+  "location": "下妻乙（栗山）"
+ }
+]

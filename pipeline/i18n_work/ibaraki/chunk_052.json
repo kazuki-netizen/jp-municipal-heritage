@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-082236-0042",
+  "name": "愛染院樓門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0043",
+  "name": "愛染院観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0045",
+  "name": "法華三昧堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0068",
+  "name": "普門院地蔵堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-04-23",
+  "municipality": "潮来市",
+  "location": "洲崎603"
+ },
+ {
+  "jmh_id": "JMH-082236-0067",
+  "name": "文殊院(阿弥陀堂・観音堂・地蔵堂)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-04-23",
+  "municipality": "潮来市",
+  "location": "大賀627"
+ },
+ {
+  "jmh_id": "JMH-082236-0070",
+  "name": "大生神社斎殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-04-27",
+  "municipality": "潮来市",
+  "location": "大生814"
+ },
+ {
+  "jmh_id": "JMH-082236-0011",
+  "name": "絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1969-12-03",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0020",
+  "name": "不動明王画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0028",
+  "name": "釈迦涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0023",
+  "name": "滝見観音像及び竜虎図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "潮来428"
+ },
+ {
+  "jmh_id": "JMH-082236-0050",
+  "name": "土佐絵二幅対",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0004",
+  "name": "木造不動明王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "潮来市",
+  "location": "上戸624"
+ },
+ {
+  "jmh_id": "JMH-082236-0005",
+  "name": "木造聖観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "潮来市",
+  "location": "上戸166"
+ },
+ {
+  "jmh_id": "JMH-082236-0052",
+  "name": "日蓮聖人座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0057",
+  "name": "法華三昧堂額",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0091",
+  "name": "木造十二神将立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "潮来市",
+  "location": "堀之内1230"
+ },
+ {
+  "jmh_id": "JMH-082236-0071",
+  "name": "毘沙門天立像(光背，岩座，共)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1994-04-27",
+  "municipality": "潮来市",
+  "location": "潮来428"
+ },
+ {
+  "jmh_id": "JMH-082236-0085",
+  "name": "長楽院の不動明王",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1997-11-21",
+  "municipality": "潮来市",
+  "location": "潮来304"
+ },
+ {
+  "jmh_id": "JMH-082236-0084",
+  "name": "仏像大威徳明王",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1997-11-21",
+  "municipality": "潮来市",
+  "location": "築地127-1"
+ },
+ {
+  "jmh_id": "JMH-082236-0086",
+  "name": "金剛愛染明王",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2003-05-26",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0002",
+  "name": "抱牡丹紋蒔絵膳椀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "潮来市",
+  "location": "堀之内1230"
+ },
+ {
+  "jmh_id": "JMH-082236-0029",
+  "name": "錫杖",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "大賀"
+ },
+ {
+  "jmh_id": "JMH-082236-0025",
+  "name": "灰造弁財天",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0047",
+  "name": "高麗雲鶴茶碗",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "潮来428"
+ },
+ {
+  "jmh_id": "JMH-082236-0061",
+  "name": "総蒔絵硯箱",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0060",
+  "name": "総蒔絵法衣箱",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0059",
+  "name": "経筒",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0003",
+  "name": "日吉山王神社の大般若経",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "潮来市",
+  "location": "永山1176"
+ },
+ {
+  "jmh_id": "JMH-082236-0016",
+  "name": "書跡般若経文",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1969-12-13",
+  "municipality": "潮来市",
+  "location": "水原1121"
+ },
+ {
+  "jmh_id": "JMH-082236-0018",
+  "name": "豊太閣手簡",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1969-12-13",
+  "municipality": "潮来市",
+  "location": "潮来428"
+ },
+ {
+  "jmh_id": "JMH-082236-0027",
+  "name": "白隠禅師書幅",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1972-06-10",
+  "municipality": "潮来市",
+  "location": "潮来428"
+ },
+ {
+  "jmh_id": "JMH-082236-0054",
+  "name": "日蓮聖人御真筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0056",
+  "name": "日門聖人御真筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0053",
+  "name": "日蓮聖人御消息真筆断片",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0051",
+  "name": "徳川光圀書簡1通",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0058",
+  "name": "紺紙金泥法華経1部開結",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0055",
+  "name": "日輪上人御真筆",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1986-05-15",
+  "municipality": "潮来市",
+  "location": "築地601"
+ },
+ {
+  "jmh_id": "JMH-082236-0065",
+  "name": "祇園祭礼大幟",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1988-06-21",
+  "municipality": "潮来市",
+  "location": "潮来350"
+ },
+ {
+  "jmh_id": "JMH-082236-0041",
+  "name": "延方相撲書留帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1976-12-10",
+  "municipality": "潮来市",
+  "location": "新宮1885"
+ },
+ {
+  "jmh_id": "JMH-082236-0063",
+  "name": "御水帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1987-07-14",
+  "municipality": "潮来市",
+  "location": "大賀"
+ }
+]

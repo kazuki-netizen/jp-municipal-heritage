@@ -1,0 +1,376 @@
+[
+ {
+  "jmh_id": "JMH-082252-0042",
+  "name": "時雍館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "野口 1337"
+ },
+ {
+  "jmh_id": "JMH-082252-0020",
+  "name": "包塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "那賀 404"
+ },
+ {
+  "jmh_id": "JMH-082252-0085",
+  "name": "野田市場古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "野田 445"
+ },
+ {
+  "jmh_id": "JMH-082252-0084",
+  "name": "野口城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "野口 1198外13筆"
+ },
+ {
+  "jmh_id": "JMH-082252-0087",
+  "name": "長倉城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "長倉 1832-1,-5"
+ },
+ {
+  "jmh_id": "JMH-082252-0053",
+  "name": "江畔寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "上小瀬 2247"
+ },
+ {
+  "jmh_id": "JMH-082252-0061",
+  "name": "甲神社御神木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "下町 221"
+ },
+ {
+  "jmh_id": "JMH-082252-0004",
+  "name": "カヤの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "山方 225"
+ },
+ {
+  "jmh_id": "JMH-082252-0012",
+  "name": "二股竹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "下町 221"
+ },
+ {
+  "jmh_id": "JMH-082252-0005",
+  "name": "カヤの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "山方（北皆沢）"
+ },
+ {
+  "jmh_id": "JMH-082252-0026",
+  "name": "大けやき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "北町 104"
+ },
+ {
+  "jmh_id": "JMH-082252-0002",
+  "name": "はぜの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "盛金 2816-1"
+ },
+ {
+  "jmh_id": "JMH-082252-0015",
+  "name": "八房梅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "盛金 3279"
+ },
+ {
+  "jmh_id": "JMH-082252-0001",
+  "name": "えのき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "辰ノ口 94"
+ },
+ {
+  "jmh_id": "JMH-082252-0022",
+  "name": "吉岡の榧",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "小瀬沢 106"
+ },
+ {
+  "jmh_id": "JMH-082252-0096",
+  "name": "鹿子の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "松之草 208"
+ },
+ {
+  "jmh_id": "JMH-082252-0097",
+  "name": "鹿嶋神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "氷之沢 226"
+ },
+ {
+  "jmh_id": "JMH-082252-0076",
+  "name": "諏訪神社の御神木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "高部 2034"
+ },
+ {
+  "jmh_id": "JMH-082252-0039",
+  "name": "志殿杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "上伊勢畑 94-6"
+ },
+ {
+  "jmh_id": "JMH-082252-0058",
+  "name": "漆の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸大宮市",
+  "location": "山方 3312-5"
+ },
+ {
+  "jmh_id": "JMH-082023-0002",
+  "name": "泉川道標",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1971-01-21",
+  "municipality": "日立市",
+  "location": "大みか町"
+ },
+ {
+  "jmh_id": "JMH-082023-0019",
+  "name": "入四間道標",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "日立市",
+  "location": "東河内町"
+ },
+ {
+  "jmh_id": "JMH-082023-0036",
+  "name": "旧共楽館（日立武道館）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "日立市",
+  "location": "白銀町"
+ },
+ {
+  "jmh_id": "JMH-082023-0027",
+  "name": "下孫停車場紀念碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "日立市",
+  "location": "多賀町"
+ },
+ {
+  "jmh_id": "JMH-082023-0020",
+  "name": "絹本著色涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1980-04-24",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0009",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-07-27",
+  "municipality": "日立市",
+  "location": "入四間町"
+ },
+ {
+  "jmh_id": "JMH-082023-0012",
+  "name": "日光・月光菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-03-27",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0017",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-12-21",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0018",
+  "name": "木造釈迦如来・多宝塔如来竝坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-02-22",
+  "municipality": "日立市",
+  "location": "西成沢町"
+ },
+ {
+  "jmh_id": "JMH-082023-0003",
+  "name": "火縄三眼銃",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1971-01-21",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0007",
+  "name": "旧助川西上町舞屋台",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1972-02-24",
+  "municipality": "日立市",
+  "location": "鹿島町"
+ },
+ {
+  "jmh_id": "JMH-082023-0010",
+  "name": "東叡山石燈籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-08-23",
+  "municipality": "日立市",
+  "location": "諏訪町"
+ },
+ {
+  "jmh_id": "JMH-082023-0015",
+  "name": "太刀（銘・大江勝永）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-11-25",
+  "municipality": "日立市",
+  "location": "千石町"
+ },
+ {
+  "jmh_id": "JMH-082023-0026",
+  "name": "短刀（銘・驚鯢丸）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1987-10-22",
+  "municipality": "日立市",
+  "location": "千石町"
+ },
+ {
+  "jmh_id": "JMH-082023-0004",
+  "name": "藤田東湖揮毫諏訪神社大のぼり",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1971-01-21",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0025",
+  "name": "藤田東湖揮毫南高野鹿島神社大幟",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1986-03-27",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0030",
+  "name": "吉田神社棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0040",
+  "name": "艫神社棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "日立市",
+  "location": "十王町"
+ },
+ {
+  "jmh_id": "JMH-082023-0029",
+  "name": "友部村絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ },
+ {
+  "jmh_id": "JMH-082023-0041",
+  "name": "諏訪遺跡出土縄文土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "日立市",
+  "location": "日立市郷土博物館"
+ }
+]

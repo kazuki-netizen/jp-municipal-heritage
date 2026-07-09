@@ -1,0 +1,18 @@
+{
+  "7a51ec16d36684d5": {
+    "url": "https://www.minato-rekishi.com/museum/list.html",
+    "filename": "7a51ec16d36684d5.html",
+    "sha256": "f834cf60d0664c6dc43c64593b9f536970d9ddf161ee6bb2dff9eef6bb6053d3",
+    "fetched_at": "2026-07-08T05:39:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "09f931dc7a60e9c1": {
+    "url": "https://adeac.jp/minato-city-kyouiku/text-list/d100120/ht000730",
+    "filename": "09f931dc7a60e9c1.html",
+    "sha256": "22fe5ab6d24b9822443225ca6b9cd72680fc6f9d124cf799a91dd4c67c9257bf",
+    "fetched_at": "2026-07-08T05:39:27Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

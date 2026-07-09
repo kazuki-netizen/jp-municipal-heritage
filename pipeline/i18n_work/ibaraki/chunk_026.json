@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-082074-0006",
+  "name": "愛宕山塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字上山川"
+ },
+ {
+  "jmh_id": "JMH-082074-0012",
+  "name": "浅間塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(松木合）"
+ },
+ {
+  "jmh_id": "JMH-082074-0004",
+  "name": "地の神塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(松木合）"
+ },
+ {
+  "jmh_id": "JMH-082074-0005",
+  "name": "山の神塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(松木合）"
+ },
+ {
+  "jmh_id": "JMH-082074-0016",
+  "name": "中世武家屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字上山川"
+ },
+ {
+  "jmh_id": "JMH-082074-0021",
+  "name": "玉日姫の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(玉岡町）"
+ },
+ {
+  "jmh_id": "JMH-082074-0024",
+  "name": "結城城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城"
+ },
+ {
+  "jmh_id": "JMH-082074-0022",
+  "name": "砂岡雁宕の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(西町）"
+ },
+ {
+  "jmh_id": "JMH-082074-0020",
+  "name": "源翁和尚の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(玉岡町）"
+ },
+ {
+  "jmh_id": "JMH-082074-0017",
+  "name": "仙太郎稲荷塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(曽我殿台)"
+ },
+ {
+  "jmh_id": "JMH-082074-0018",
+  "name": "庚申塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(曽我殿台)"
+ },
+ {
+  "jmh_id": "JMH-082074-0023",
+  "name": "稲荷塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-01",
+  "municipality": "結城市",
+  "location": "結城市大字北南茂呂"
+ },
+ {
+  "jmh_id": "JMH-082074-0026",
+  "name": "山川綾戸城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-09",
+  "municipality": "結城市",
+  "location": "結城市大字山川新宿"
+ },
+ {
+  "jmh_id": "JMH-082074-0025",
+  "name": "和尚塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-02-09",
+  "municipality": "結城市",
+  "location": "結城市大字結城(公達）"
+ },
+ {
+  "jmh_id": "JMH-082074-0040",
+  "name": "健田神社旧跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-09-11",
+  "municipality": "結城市",
+  "location": "結城市大字結城(見晴町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0056",
+  "name": "増田遷晁文人の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-04",
+  "municipality": "結城市",
+  "location": "結城市大字結城(永横町）"
+ },
+ {
+  "jmh_id": "JMH-082074-0059",
+  "name": "早見晋我の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-03-04",
+  "municipality": "結城市",
+  "location": "結城市大字結城(穀町）"
+ },
+ {
+  "jmh_id": "JMH-082074-0066",
+  "name": "山川家歴代霊廟",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-12-06",
+  "municipality": "結城市",
+  "location": "結城市大字今宿"
+ },
+ {
+  "jmh_id": "JMH-082074-0084",
+  "name": "山川水野家墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "結城市",
+  "location": "結城市大字山川新宿"
+ },
+ {
+  "jmh_id": "JMH-082074-0075",
+  "name": "城の内遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2022-02-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(城の内）"
+ },
+ {
+  "jmh_id": "JMH-082074-0051",
+  "name": "大桑神社の欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-02-05",
+  "municipality": "結城市",
+  "location": "結城市大字小森"
+ },
+ {
+  "jmh_id": "JMH-082074-0027",
+  "name": "石幢",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1967-02-09",
+  "municipality": "結城市",
+  "location": "結城市大字結城(塔の下)"
+ },
+ {
+  "jmh_id": "JMH-082074-0028",
+  "name": "石幢",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1967-02-09",
+  "municipality": "結城市",
+  "location": "結城市大字結城(白銀町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0038",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1968-09-10",
+  "municipality": "結城市",
+  "location": "結城市大字結城(宮の下)"
+ },
+ {
+  "jmh_id": "JMH-082074-0049",
+  "name": "上山川諏訪神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1974-12-27",
+  "municipality": "結城市",
+  "location": "結城市大字上山川"
+ },
+ {
+  "jmh_id": "JMH-082074-0057",
+  "name": "孝顕寺三門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-03-04",
+  "municipality": "結城市",
+  "location": "結城市大字結城(立町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0068",
+  "name": "称名寺御霊屋門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-12-06",
+  "municipality": "結城市",
+  "location": "結城市大字結城(浦町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0067",
+  "name": "称名寺二条門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-12-06",
+  "municipality": "結城市",
+  "location": "結城市大字結城(浦町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0064",
+  "name": "乗国寺四脚門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-12-06",
+  "municipality": "結城市",
+  "location": "結城市大字結城(小塙)"
+ },
+ {
+  "jmh_id": "JMH-082074-0065",
+  "name": "乗国寺楼門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-12-06",
+  "municipality": "結城市",
+  "location": "結城市大字結城(小塙)"
+ },
+ {
+  "jmh_id": "JMH-082074-0071",
+  "name": "諏訪神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-07-13",
+  "municipality": "結城市",
+  "location": "結城市大字北南茂呂"
+ },
+ {
+  "jmh_id": "JMH-082074-0082",
+  "name": "小森大桑神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "結城市",
+  "location": "結城市大字小森"
+ },
+ {
+  "jmh_id": "JMH-082074-0078",
+  "name": "中世五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "結城市",
+  "location": "結城市大字上山川"
+ },
+ {
+  "jmh_id": "JMH-082074-0081",
+  "name": "安穏寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "結城市",
+  "location": "結城市大字結城(鍛治町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0013",
+  "name": "紙本著色結城朝光肖像画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(浦町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0045",
+  "name": "絹本著色復庵和尚頂相",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-03-12",
+  "municipality": "結城市",
+  "location": "結城市大字結城(塔の下)"
+ },
+ {
+  "jmh_id": "JMH-082074-0047",
+  "name": "紙本著色不動明王像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1974-04-26",
+  "municipality": "結城市",
+  "location": "結城市大字結城(永横町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0054",
+  "name": "源翁禅師頂相",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-04-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(鍛冶町)"
+ },
+ {
+  "jmh_id": "JMH-082074-0069",
+  "name": "紙本山川綾戸城古図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1977-12-06",
+  "municipality": "結城市",
+  "location": "東京都日野市"
+ },
+ {
+  "jmh_id": "JMH-082074-0015",
+  "name": "銅造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1963-10-01",
+  "municipality": "結城市",
+  "location": "結城市大字結城(白銀町)"
+ }
+]

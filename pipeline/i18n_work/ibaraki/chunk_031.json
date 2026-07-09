@@ -1,0 +1,396 @@
+[
+ {
+  "jmh_id": "JMH-082040-0021",
+  "name": "石造宝塔",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "古河市"
+ },
+ {
+  "jmh_id": "JMH-082040-0007",
+  "name": "向龍寺応安四年銘板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "古河市"
+ },
+ {
+  "jmh_id": "JMH-082040-0013",
+  "name": "悪戸新田獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "古河市"
+ },
+ {
+  "jmh_id": "JMH-085219-0024",
+  "name": "新長谷寺観音堂 附.棟札1枚、建造仕様書板2枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1994-01-24",
+  "municipality": "八千代町",
+  "location": "八町"
+ },
+ {
+  "jmh_id": "JMH-085219-0028",
+  "name": "鹿嶋神社本殿 附.棟札3枚、小屋組板図1枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1994-01-24",
+  "municipality": "八千代町",
+  "location": "野爪"
+ },
+ {
+  "jmh_id": "JMH-085219-0009",
+  "name": "石造五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "栗山"
+ },
+ {
+  "jmh_id": "JMH-085219-0014",
+  "name": "石造五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1984-04-25",
+  "municipality": "八千代町",
+  "location": "若"
+ },
+ {
+  "jmh_id": "JMH-085219-0019",
+  "name": "鷲神社鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1992-02-27",
+  "municipality": "八千代町",
+  "location": "沼森"
+ },
+ {
+  "jmh_id": "JMH-085219-0020",
+  "name": "日光山縁起絵巻 第二巻",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1993-08-25",
+  "municipality": "八千代町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-085219-0011",
+  "name": "絹本着色両界曼荼羅 箱付",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "八町"
+ },
+ {
+  "jmh_id": "JMH-085219-0036",
+  "name": "絹本着色両界曼荼羅図（鎌倉本）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2003-04-24",
+  "municipality": "八千代町",
+  "location": "沼森"
+ },
+ {
+  "jmh_id": "JMH-085219-0035",
+  "name": "絹本着色両界曼荼羅図（室町本）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2003-04-24",
+  "municipality": "八千代町",
+  "location": "沼森"
+ },
+ {
+  "jmh_id": "JMH-085219-0038",
+  "name": "絹本着色両界曼荼羅図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2004-09-28",
+  "municipality": "八千代町",
+  "location": "高崎"
+ },
+ {
+  "jmh_id": "JMH-085219-0022",
+  "name": "木造十一面観世音菩薩立像（御前立）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1993-08-25",
+  "municipality": "八千代町",
+  "location": "八町"
+ },
+ {
+  "jmh_id": "JMH-085219-0021",
+  "name": "木造不動明王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1993-08-25",
+  "municipality": "八千代町",
+  "location": "川尻"
+ },
+ {
+  "jmh_id": "JMH-085219-0023",
+  "name": "木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1993-08-25",
+  "municipality": "八千代町",
+  "location": "貝谷"
+ },
+ {
+  "jmh_id": "JMH-085219-0025",
+  "name": "木造随身像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1994-01-24",
+  "municipality": "八千代町",
+  "location": "野爪"
+ },
+ {
+  "jmh_id": "JMH-085219-0030",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1997-10-01",
+  "municipality": "八千代町",
+  "location": "新地"
+ },
+ {
+  "jmh_id": "JMH-085219-0033",
+  "name": "木造薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2003-04-24",
+  "municipality": "八千代町",
+  "location": "沼森"
+ },
+ {
+  "jmh_id": "JMH-085219-0031",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2003-04-24",
+  "municipality": "八千代町",
+  "location": "栗山"
+ },
+ {
+  "jmh_id": "JMH-085219-0032",
+  "name": "木造聖観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2003-04-24",
+  "municipality": "八千代町",
+  "location": "平塚"
+ },
+ {
+  "jmh_id": "JMH-085219-0034",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2003-04-24",
+  "municipality": "八千代町",
+  "location": "芦ヶ谷"
+ },
+ {
+  "jmh_id": "JMH-085219-0037",
+  "name": "木造阿弥陀如来坐像 附.如来像頭部1",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2004-09-28",
+  "municipality": "八千代町",
+  "location": "高崎"
+ },
+ {
+  "jmh_id": "JMH-085219-0012",
+  "name": "華形壇",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "八町"
+ },
+ {
+  "jmh_id": "JMH-085219-0013",
+  "name": "銅鋳製鈴",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "野爪"
+ },
+ {
+  "jmh_id": "JMH-085219-0017",
+  "name": "神明宮幟",
+  "category": "有形文化財",
+  "subcategory": "書籍",
+  "designation": "町指定",
+  "designated_date": "1992-02-27",
+  "municipality": "八千代町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-085219-0016",
+  "name": "真菅日記",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1992-02-27",
+  "municipality": "八千代町",
+  "location": "菅谷"
+ },
+ {
+  "jmh_id": "JMH-085219-0026",
+  "name": "朱印状及び朱印地絵図",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1994-01-24",
+  "municipality": "八千代町",
+  "location": "野爪"
+ },
+ {
+  "jmh_id": "JMH-085219-0018",
+  "name": "飯湖新発記",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1992-02-27",
+  "municipality": "八千代町",
+  "location": "茨城県立歴史館"
+ },
+ {
+  "jmh_id": "JMH-085219-0041",
+  "name": "起証（請）文之事",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2019-01-25",
+  "municipality": "八千代町",
+  "location": "尾崎"
+ },
+ {
+  "jmh_id": "JMH-085219-0001",
+  "name": "土師器蔵骨器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-085219-0040",
+  "name": "太田古墳出土遺物（副葬品 銅鏡外）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2019-01-25",
+  "municipality": "八千代町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-085219-0007",
+  "name": "板碑（文和4年11月 1355年）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "新井"
+ },
+ {
+  "jmh_id": "JMH-085219-0004",
+  "name": "板碑（弘安6年4月 1283年）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "瀬戸井"
+ },
+ {
+  "jmh_id": "JMH-085219-0005",
+  "name": "板碑（弘安6年5月 1283年）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "八町"
+ },
+ {
+  "jmh_id": "JMH-085219-0006",
+  "name": "板碑（文保2年4月 1318年）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "新井"
+ },
+ {
+  "jmh_id": "JMH-085219-0039",
+  "name": "十三仏板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2019-01-25",
+  "municipality": "八千代町",
+  "location": "歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-085219-0003",
+  "name": "愛宕山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "仁江戸"
+ },
+ {
+  "jmh_id": "JMH-085219-0008",
+  "name": "矢尻北古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "栗山"
+ },
+ {
+  "jmh_id": "JMH-085219-0010",
+  "name": "秋葉山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-04-01",
+  "municipality": "八千代町",
+  "location": "尾崎"
+ }
+]

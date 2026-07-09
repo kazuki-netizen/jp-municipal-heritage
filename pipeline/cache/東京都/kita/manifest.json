@@ -1,0 +1,18 @@
+{
+  "004bd94ac6a9eeed": {
+    "url": "https://www.city.kita.lg.jp/museum/cultural-properties/index.html",
+    "filename": "004bd94ac6a9eeed.html",
+    "sha256": "8dbcd616f63b936844a81c0f297ae09671047434dd48acabe17ad31555885e4f",
+    "fetched_at": "2026-07-08T05:39:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b622ff0268ccdc26": {
+    "url": "https://web.archive.org/web/20240601/https://www.city.kita.tokyo.jp/hakubutsukan/rekishi/fureru/rekishi/kitakushite/index.html",
+    "filename": "b622ff0268ccdc26.html",
+    "sha256": "8b0092472fef6e288c4999b64927b0989db7b1a36964a4f79e930ea332731706",
+    "fetched_at": "2026-07-08T05:39:52Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

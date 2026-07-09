@@ -1,0 +1,18 @@
+{
+  "1f3b3687f6ddd645": {
+    "url": "https://www.city.kunitachi.tokyo.jp/material/files/group/67/kunitachishinaibunkazaiitiran.pdf",
+    "filename": "1f3b3687f6ddd645.pdf",
+    "sha256": "597e18171e8987f53cdca387e63e2a33d1f663f56040e82cb911e8c9f8d06a02",
+    "fetched_at": "2026-07-08T05:40:30Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "c54b5bcf469857a8": {
+    "url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept08/Div03/Sec01/gyomu/0061/0062/0067/kunitachishinainobunkazaiitiran/index.html",
+    "filename": "c54b5bcf469857a8.html",
+    "sha256": "f2a285876901dd96ba4d13fe770c64ab0dd6d212bb34e4bf3600b8b929a85575",
+    "fetched_at": "2026-07-08T05:40:32Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "803930e8f6f9be43": {
+    "url": "https://www.town.hachijo.tokyo.jp/bunkazai/hachijo/",
+    "filename": "803930e8f6f9be43.html",
+    "sha256": "7d40742a655aaae3a917bbd78aafc870ce524637fdbb14e6c16670e3faa3a306",
+    "fetched_at": "2026-07-08T05:41:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ffba6d36fc590893": {
+    "url": "https://www.town.hachijo.tokyo.jp/bunkazai/all/",
+    "filename": "ffba6d36fc590893.html",
+    "sha256": "f6d11208be3d1d39bf44cb1fd9b29483e7d837f32b477727522c8ba5c381125a",
+    "fetched_at": "2026-07-08T05:41:02Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

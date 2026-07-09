@@ -1,0 +1,382 @@
+[
+ {
+  "jmh_id": "JMH-082121-0025",
+  "name": "大中神社御神木のスギ（1株）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "常陸太田市",
+  "location": "大中町"
+ },
+ {
+  "jmh_id": "JMH-082121-0029",
+  "name": "菊池家のもみじ（1株）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "常陸太田市",
+  "location": "小中町"
+ },
+ {
+  "jmh_id": "JMH-082121-0037",
+  "name": "くまがい草自然群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-05-22",
+  "municipality": "常陸太田市"
+ },
+ {
+  "jmh_id": "JMH-082121-0041",
+  "name": "くまがい草自然群生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1984-06-15",
+  "municipality": "常陸太田市"
+ },
+ {
+  "jmh_id": "JMH-082121-0042",
+  "name": "細田のムクロジ（1株）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1986-09-24",
+  "municipality": "常陸太田市",
+  "location": "上深荻町"
+ },
+ {
+  "jmh_id": "JMH-082121-0045",
+  "name": "常福地のイヌマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "常福地町"
+ },
+ {
+  "jmh_id": "JMH-082121-0088",
+  "name": "里美のイワナ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "里美地区"
+ },
+ {
+  "jmh_id": "JMH-082121-0064",
+  "name": "太郎杉（1株）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "下高倉町"
+ },
+ {
+  "jmh_id": "JMH-082121-0067",
+  "name": "小妻の笠石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "小妻町"
+ },
+ {
+  "jmh_id": "JMH-082121-0065",
+  "name": "妙見山のリチウムペグマタイト",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "小妻町"
+ },
+ {
+  "jmh_id": "JMH-082121-0066",
+  "name": "小中の大石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "小中町"
+ },
+ {
+  "jmh_id": "JMH-082121-0071",
+  "name": "折橋の八丈石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "折橋町"
+ },
+ {
+  "jmh_id": "JMH-082121-0068",
+  "name": "小室家のやまざくら（1株）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "大菅町"
+ },
+ {
+  "jmh_id": "JMH-082121-0094",
+  "name": "高宮神社のアカガシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "西河内上町"
+ },
+ {
+  "jmh_id": "JMH-082121-0059",
+  "name": "利員庄屋の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "中利員町"
+ },
+ {
+  "jmh_id": "JMH-082121-0082",
+  "name": "素鵞神社の樹叢",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "里川町"
+ },
+ {
+  "jmh_id": "JMH-082121-0056",
+  "name": "かな料紙",
+  "category": "無形文化財",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "大里町・大菅町"
+ },
+ {
+  "jmh_id": "JMH-082121-0028",
+  "name": "清水のささら",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "常陸太田市",
+  "location": "折橋町"
+ },
+ {
+  "jmh_id": "JMH-082121-0072",
+  "name": "折橋天満宮火消行列",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "折橋町"
+ },
+ {
+  "jmh_id": "JMH-082121-0024",
+  "name": "三鈷室の碑（1基）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "常陸太田市",
+  "location": "里川町"
+ },
+ {
+  "jmh_id": "JMH-082121-0087",
+  "name": "里川の獅子頭（3頭）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "里川町"
+ },
+ {
+  "jmh_id": "JMH-082121-0092",
+  "name": "首楞厳経版木（64枚）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "大中町"
+ },
+ {
+  "jmh_id": "JMH-082121-0086",
+  "name": "豊後国二孝女関係資料（17点）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "東連地町"
+ },
+ {
+  "jmh_id": "JMH-082121-0085",
+  "name": "諏訪神社天文十一年銘棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "新宿町"
+ },
+ {
+  "jmh_id": "JMH-082121-0078",
+  "name": "東染文書（1875点）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "西二町"
+ },
+ {
+  "jmh_id": "JMH-082261-0036",
+  "name": "那珂市の曲がり屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-07-16",
+  "municipality": "那珂市",
+  "location": "那珂市菅谷4520-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0047",
+  "name": "駒形神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2012-02-17",
+  "municipality": "那珂市",
+  "location": "那珂市南酒出44"
+ },
+ {
+  "jmh_id": "JMH-082261-0031",
+  "name": "三十六歌仙図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1997-05-19",
+  "municipality": "那珂市",
+  "location": "那珂市菅谷2345"
+ },
+ {
+  "jmh_id": "JMH-082261-0030",
+  "name": "七福神図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1997-05-19",
+  "municipality": "那珂市",
+  "location": "那珂市門部2735"
+ },
+ {
+  "jmh_id": "JMH-082261-0017",
+  "name": "厳島明神霊験記絵巻",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-03-24",
+  "municipality": "那珂市",
+  "location": "那珂市下大賀1145"
+ },
+ {
+  "jmh_id": "JMH-082261-0020",
+  "name": "木造聖徳太子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-12-14",
+  "municipality": "那珂市",
+  "location": "那珂市堤243"
+ },
+ {
+  "jmh_id": "JMH-082261-0021",
+  "name": "木造聖徳太子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-12-14",
+  "municipality": "那珂市",
+  "location": "那珂市飯田1085"
+ },
+ {
+  "jmh_id": "JMH-082261-0019",
+  "name": "木造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1984-12-14",
+  "municipality": "那珂市",
+  "location": "那珂市菅谷3021"
+ },
+ {
+  "jmh_id": "JMH-082261-0032",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1997-05-19",
+  "municipality": "那珂市",
+  "location": "那珂市南酒出462"
+ },
+ {
+  "jmh_id": "JMH-082261-0023",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985-03-20",
+  "municipality": "那珂市",
+  "location": "那珂市瓜連1173"
+ },
+ {
+  "jmh_id": "JMH-082261-0037",
+  "name": "木造弘法大師座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2002-10-17",
+  "municipality": "那珂市",
+  "location": "那珂市飯田1085"
+ },
+ {
+  "jmh_id": "JMH-082261-0038",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2002-10-17",
+  "municipality": "那珂市",
+  "location": "那珂市額田北郷542"
+ },
+ {
+  "jmh_id": "JMH-082261-0048",
+  "name": "鹿嶋八幡神社木造狛犬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2012-02-17",
+  "municipality": "那珂市",
+  "location": "那珂市額田北郷417"
+ },
+ {
+  "jmh_id": "JMH-082261-0040",
+  "name": "銅造密教法具",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2002-10-17",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ },
+ {
+  "jmh_id": "JMH-082261-0041",
+  "name": "銅造鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2002-10-17",
+  "municipality": "那珂市",
+  "location": "那珂市戸崎428-2"
+ }
+]

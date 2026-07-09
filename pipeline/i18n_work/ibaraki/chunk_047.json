@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-082287-0003",
+  "name": "国王神社幣殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1977-01-21",
+  "municipality": "坂東市",
+  "location": "岩井･国王神社"
+ },
+ {
+  "jmh_id": "JMH-082287-0017",
+  "name": "八幡神社社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1987-10-01",
+  "municipality": "坂東市",
+  "location": "神田山新田･八幡神社"
+ },
+ {
+  "jmh_id": "JMH-082287-0030",
+  "name": "逆井城跡公園観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-10-25",
+  "municipality": "坂東市",
+  "location": "逆井･坂東市"
+ },
+ {
+  "jmh_id": "JMH-082287-0032",
+  "name": "万蔵院観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-11-29",
+  "municipality": "坂東市",
+  "location": "生子･万蔵院"
+ },
+ {
+  "jmh_id": "JMH-082287-0033",
+  "name": "釈迦三尊像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1997-10-01",
+  "municipality": "坂東市",
+  "location": "坂東市"
+ },
+ {
+  "jmh_id": "JMH-082287-0034",
+  "name": "両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2000-12-27",
+  "municipality": "坂東市",
+  "location": "坂東市"
+ },
+ {
+  "jmh_id": "JMH-082287-0056",
+  "name": "絹本著色親鸞聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "みむら・妙安寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0061",
+  "name": "釈迦三尊像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2022-03-01",
+  "municipality": "坂東市",
+  "location": "生子・萬蔵院"
+ },
+ {
+  "jmh_id": "JMH-082287-0005",
+  "name": "土偶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "坂東市",
+  "location": "坂東市"
+ },
+ {
+  "jmh_id": "JMH-082287-0027",
+  "name": "桐木嘉吉板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "桐木・香取神社"
+ },
+ {
+  "jmh_id": "JMH-082287-0028",
+  "name": "莚打十三仏板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "莚打･阿弥陀堂堂敷"
+ },
+ {
+  "jmh_id": "JMH-082287-0020",
+  "name": "大安寺虚空蔵板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "矢作・大安寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0021",
+  "name": "大崎勢至板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "大崎・高橋豊氏"
+ },
+ {
+  "jmh_id": "JMH-082287-0019",
+  "name": "上出島虚空蔵板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "上出島・野本美千雄氏"
+ },
+ {
+  "jmh_id": "JMH-082287-0024",
+  "name": "弓田弘安板碑（その１）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "弓田・染谷政明氏"
+ },
+ {
+  "jmh_id": "JMH-082287-0025",
+  "name": "弓田弘安板碑（その２）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "弓田・染谷政明氏"
+ },
+ {
+  "jmh_id": "JMH-082287-0023",
+  "name": "幸田辻念仏板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "幸田・小林義雄氏"
+ },
+ {
+  "jmh_id": "JMH-082287-0022",
+  "name": "小山庚申塚板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "小山・片野安男氏"
+ },
+ {
+  "jmh_id": "JMH-082287-0026",
+  "name": "東陽寺十三仏板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "矢作・東陽寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0029",
+  "name": "西念寺来迎図板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-01",
+  "municipality": "坂東市",
+  "location": "辺田・西念寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0004",
+  "name": "歓喜寺江戸彼岸桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-03-08",
+  "municipality": "坂東市",
+  "location": "辺田・歓喜寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0015",
+  "name": "多羅葉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "神田山･妙音寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0012",
+  "name": "のだ藤",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "小山・中川小学校"
+ },
+ {
+  "jmh_id": "JMH-082287-0014",
+  "name": "伽羅木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "馬立・弓馬田小学校"
+ },
+ {
+  "jmh_id": "JMH-082287-0013",
+  "name": "むくろじ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "みむら・浄国寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0010",
+  "name": "かや",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "神田山・延命院"
+ },
+ {
+  "jmh_id": "JMH-082287-0009",
+  "name": "いちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "長谷・長谷寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0011",
+  "name": "なつめ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "幸田新田・飯島小学校"
+ },
+ {
+  "jmh_id": "JMH-082287-0008",
+  "name": "あらかし",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "坂東市",
+  "location": "岩井･国王神社"
+ },
+ {
+  "jmh_id": "JMH-082287-0062",
+  "name": "かや",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "坂東市",
+  "location": "莚打・観音寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0016",
+  "name": "厨子入木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-04-23",
+  "municipality": "坂東市",
+  "location": "生子・染谷顕司氏"
+ },
+ {
+  "jmh_id": "JMH-082287-0018",
+  "name": "木造薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990-10-01",
+  "municipality": "坂東市",
+  "location": "長須・東光寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0040",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "岩井･延命寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0044",
+  "name": "木造如意輪観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "岩井･延命寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0047",
+  "name": "木造聖徳太子立像（孝養太子）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "辺田･西念寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0041",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "辺田・歓喜寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0053",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "弓田・慈光寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0035",
+  "name": "木造不動明王及び二童子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "弓田・慈光寺"
+ },
+ {
+  "jmh_id": "JMH-082287-0042",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "馬立・自性院"
+ },
+ {
+  "jmh_id": "JMH-082287-0045",
+  "name": "木造如意輪観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-01-25",
+  "municipality": "坂東市",
+  "location": "馬立・自性院"
+ }
+]

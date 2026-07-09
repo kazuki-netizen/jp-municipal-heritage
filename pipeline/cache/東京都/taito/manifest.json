@@ -1,0 +1,26 @@
+{
+  "10bf2ff08dae2a23": {
+    "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shakaikyoiku/bunkazai/yuukeibunkazai/index.html",
+    "filename": "10bf2ff08dae2a23.html",
+    "sha256": "1418016a1f237808697969b614a6a141e32fe24bdcf19398c441ae5ab63d74ce",
+    "fetched_at": "2026-07-08T05:39:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4cfb7191246c10f9": {
+    "url": "https://www.city.taito.lg.jp/index/kurashi/gakushu/bunkazai/bunkazaigaiyou.html",
+    "filename": "4cfb7191246c10f9.html",
+    "sha256": "8b3ee27833918bfb0a92a29d839cc274dd119c8d23e7241d3f04d6f97363cf78",
+    "fetched_at": "2026-07-08T05:39:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0939f62a1ed9b68d": {
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%8C%87%E5%AE%9A%E3%83%BB%E7%99%BB%E8%BC%89%E6%96%87%E5%8C%96%E8%B2%A1%E4%B8%80%E8%A6%A7",
+    "filename": "0939f62a1ed9b68d.html",
+    "sha256": "8998dbd6d36d1d3874ea00161dc9671283ece149c36fdd4fb2aa01ea956bfc85",
+    "fetched_at": "2026-07-08T05:39:33Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

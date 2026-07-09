@@ -1,0 +1,386 @@
+[
+ {
+  "jmh_id": "JMH-082295-0009",
+  "name": "釈迦堂境内",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-01-12",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0019",
+  "name": "姫宮",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1985-06-01",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0023",
+  "name": "大日如来像板碑と大日塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1992-03-31",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0026",
+  "name": "十三塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1994-05-02",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0006",
+  "name": "西浜観音堂の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-01-23",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0001",
+  "name": "あんば囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1971-01-23",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0002",
+  "name": "大杉神社十二座神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1971-01-23",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0005",
+  "name": "浮島小念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1971-01-23",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0013",
+  "name": "坂本祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-09-29",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0017",
+  "name": "古念仏踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1985-06-01",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082295-0064",
+  "name": "江戸崎祇園祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2021-12-28",
+  "municipality": "稲敷市"
+ },
+ {
+  "jmh_id": "JMH-082121-0009",
+  "name": "紙本著色月山和尚頂相（1幅）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1967-08-31",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0020",
+  "name": "絹本著色僧形八幡画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-02-15",
+  "municipality": "常陸太田市",
+  "location": "宮本町"
+ },
+ {
+  "jmh_id": "JMH-082121-0052",
+  "name": "絹本著色釈迦十六善神像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0050",
+  "name": "絹本著色地蔵菩薩十王像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0046",
+  "name": "紙本墨画中峰明本像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0048",
+  "name": "紙本墨画維摩居士図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0047",
+  "name": "紙本墨画楊柳観音図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0051",
+  "name": "絹本著色送別図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0049",
+  "name": "紙本著色山水図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "水戸市下国井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0081",
+  "name": "紙本墨画飲中八仙・西園雅集図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0084",
+  "name": "絹本著色不動明王像（1幅）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "岡田町"
+ },
+ {
+  "jmh_id": "JMH-082121-0083",
+  "name": "絹本著色不動三尊図（1幅）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "島町"
+ },
+ {
+  "jmh_id": "JMH-082121-0026",
+  "name": "大中神社本殿（1棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "常陸太田市",
+  "location": "大中町"
+ },
+ {
+  "jmh_id": "JMH-082121-0035",
+  "name": "東染郷倉（1棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-10-01",
+  "municipality": "常陸太田市",
+  "location": "東染町"
+ },
+ {
+  "jmh_id": "JMH-082121-0039",
+  "name": "武生神社本殿（1棟）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1983-04-01",
+  "municipality": "常陸太田市",
+  "location": "下高倉町"
+ },
+ {
+  "jmh_id": "JMH-082121-0040",
+  "name": "正宗寺総門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1983-10-26",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0093",
+  "name": "馬場八幡宮本殿（附天正8年銘棟札）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "馬場町"
+ },
+ {
+  "jmh_id": "JMH-082121-0016",
+  "name": "女乗物（1基）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1972-05-26",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0017",
+  "name": "古瀬戸瓶子（1個）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-02-15",
+  "municipality": "常陸太田市",
+  "location": "馬場町"
+ },
+ {
+  "jmh_id": "JMH-082121-0022",
+  "name": "青銅製扇面（1個）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-02-15",
+  "municipality": "常陸太田市",
+  "location": "馬場町"
+ },
+ {
+  "jmh_id": "JMH-082121-0018",
+  "name": "志野焼角皿（1個）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-02-15",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0019",
+  "name": "懸盤（1個）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-02-15",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0023",
+  "name": "高杯（1個）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-02-15",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0021",
+  "name": "脇息（1個）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-02-15",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0030",
+  "name": "郡奉行岡野庄五郎印（1顆）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1975-07-01",
+  "municipality": "常陸太田市",
+  "location": "内堀町"
+ },
+ {
+  "jmh_id": "JMH-082121-0032",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1977-04-26",
+  "municipality": "常陸太田市",
+  "location": "天神林町"
+ },
+ {
+  "jmh_id": "JMH-082121-0033",
+  "name": "利重の刀剣",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1978-11-27",
+  "municipality": "常陸太田市",
+  "location": "西三町"
+ },
+ {
+  "jmh_id": "JMH-082121-0053",
+  "name": "銭壷・古銭",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1987-03-20",
+  "municipality": "常陸太田市",
+  "location": "増井町"
+ },
+ {
+  "jmh_id": "JMH-082121-0089",
+  "name": "金銅製五鈷杵",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "常陸太田市",
+  "location": "岡田町"
+ }
+]

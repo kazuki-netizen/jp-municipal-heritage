@@ -1,0 +1,370 @@
+[
+ {
+  "jmh_id": "JMH-084476-0015",
+  "name": "紙本著色阿弥陀二十五菩薩来迎図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "生板・妙行寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0016",
+  "name": "薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "生板・妙行寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0005",
+  "name": "八幡三神",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "生板・妙行寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0017",
+  "name": "藤蔵河岸金毘羅常夜燈",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "河内町管理"
+ },
+ {
+  "jmh_id": "JMH-084476-0001",
+  "name": "不動明王及び二童子像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町"
+ },
+ {
+  "jmh_id": "JMH-084476-0006",
+  "name": "千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "羽子騎・勝福寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0002",
+  "name": "両部大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "羽子騎・勝福寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0007",
+  "name": "地蔵菩薩半跏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "源清田・地蔵院蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0019",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "泉福寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0020",
+  "name": "鹿島神社東照宮石祠",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "宮渕・鹿島神社境内"
+ },
+ {
+  "jmh_id": "JMH-084476-0021",
+  "name": "鹿島神社鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "宮渕・鹿島神社"
+ },
+ {
+  "jmh_id": "JMH-084476-0013",
+  "name": "海禅寺山門・楼門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "長竿・海禅寺"
+ },
+ {
+  "jmh_id": "JMH-084476-0018",
+  "name": "釈迦如来坐像・阿難立像・迦葉立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "長竿・海禅寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0008",
+  "name": "大権修理菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "長竿・海禅寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0003",
+  "name": "仏涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "長竿・海禅寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0010",
+  "name": "曲流舎句碑群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "金江津・大洞院境内"
+ },
+ {
+  "jmh_id": "JMH-084476-0014",
+  "name": "福田市郎兵衛家笠塔婆及び宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "金江津・福田秀夫家墓地"
+ },
+ {
+  "jmh_id": "JMH-084476-0009",
+  "name": "常総板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "金江津・新島寮前"
+ },
+ {
+  "jmh_id": "JMH-084476-0004",
+  "name": "側高神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "金江津・側高神社"
+ },
+ {
+  "jmh_id": "JMH-082171-0002",
+  "name": "八坂神社拝殿・本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "取手市",
+  "location": "東1-2-9"
+ },
+ {
+  "jmh_id": "JMH-082171-0005",
+  "name": "白山神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "取手市",
+  "location": "野々井1697"
+ },
+ {
+  "jmh_id": "JMH-082171-0001",
+  "name": "中妻貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "取手市",
+  "location": "小文間(おもんま)4269-1他"
+ },
+ {
+  "jmh_id": "JMH-082171-0003",
+  "name": "旧取手宿本陣（染野家住宅）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "取手市",
+  "location": "取手2-16-41"
+ },
+ {
+  "jmh_id": "JMH-082171-0004",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "取手市",
+  "location": "山王89"
+ },
+ {
+  "jmh_id": "JMH-082171-0006",
+  "name": "絹本金箔地刺繍釈迦涅槃図、附裏書1幅、旧軸木1本",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "取手市",
+  "location": "宮和田393"
+ },
+ {
+  "jmh_id": "JMH-082112-0003",
+  "name": "千姫姿絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1981-12-10",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0015",
+  "name": "絹本著色十一面観音像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1984-03-15",
+  "municipality": "常総市",
+  "location": "大生郷町1234番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0016",
+  "name": "絹本著色了誉聖冏像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-10-01",
+  "municipality": "常総市",
+  "location": "豊岡町乙2002番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0037",
+  "name": "渡辺備前守元義肖像画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "古間木231番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0044",
+  "name": "菅公天神縁起絵巻",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "馬場386番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0042",
+  "name": "絹本著色嘆誉良肇上人像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "豊岡町乙1569番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0027",
+  "name": "弘経寺鐘楼",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0011",
+  "name": "弘経寺経蔵（八角輪蔵）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "常総市",
+  "location": "豊岡町甲1番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0012",
+  "name": "一言主神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1984-03-15",
+  "municipality": "常総市",
+  "location": "大塚戸町875番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0013",
+  "name": "八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1984-03-15",
+  "municipality": "常総市",
+  "location": "水海道橋本町3329番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0014",
+  "name": "水海道天神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1984-03-15",
+  "municipality": "常総市",
+  "location": "水海道天満町2487番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0019",
+  "name": "日枝神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-09-19",
+  "municipality": "常総市",
+  "location": "菅生町4892番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0018",
+  "name": "別雷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-09-19",
+  "municipality": "常総市",
+  "location": "菅生町2280番地"
+ },
+ {
+  "jmh_id": "JMH-082112-0053",
+  "name": "高札台（鴻野山）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "鴻野山110番地1"
+ },
+ {
+  "jmh_id": "JMH-082112-0052",
+  "name": "高札台（崎房）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "常総市",
+  "location": "崎房838番地5"
+ }
+]

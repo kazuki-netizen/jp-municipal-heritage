@@ -1,0 +1,391 @@
+[
+ {
+  "jmh_id": "JMH-082317-0008",
+  "name": "八幡山古墳出土直刀及び付属品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-22",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町真壁57-1"
+ },
+ {
+  "jmh_id": "JMH-082317-0032",
+  "name": "要石",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1983-08-31",
+  "municipality": "桜川市",
+  "location": "桜川市磯部779"
+ },
+ {
+  "jmh_id": "JMH-082317-0033",
+  "name": "古代彩色壁画板石",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1984-10-01",
+  "municipality": "桜川市",
+  "location": "桜川市東桜川1-21-1"
+ },
+ {
+  "jmh_id": "JMH-082317-0070",
+  "name": "板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "桜川市",
+  "location": "桜川市本郷13"
+ },
+ {
+  "jmh_id": "JMH-082317-0060",
+  "name": "松田古墳群出土遺物一括",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-09-21",
+  "municipality": "桜川市",
+  "location": "桜川市松田711-3外・同大字岩瀬64-1"
+ },
+ {
+  "jmh_id": "JMH-082317-0062",
+  "name": "北椎尾天神塚古墳出土遺物一括",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2009-09-24",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町飯塚911"
+ },
+ {
+  "jmh_id": "JMH-082317-0014",
+  "name": "陣羽織（桜　任蔵愛用）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-08-18",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町古城47"
+ },
+ {
+  "jmh_id": "JMH-082317-0012",
+  "name": "文　机（桜　任蔵愛用）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-08-18",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町古城47"
+ },
+ {
+  "jmh_id": "JMH-082317-0011",
+  "name": "小川容斎肖像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-08-18",
+  "municipality": "桜川市",
+  "location": "土浦市中貫1455-2"
+ },
+ {
+  "jmh_id": "JMH-082317-0041",
+  "name": "道標兼供養塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-01-23",
+  "municipality": "桜川市",
+  "location": "桜川市大曽根875-2"
+ },
+ {
+  "jmh_id": "JMH-082317-0043",
+  "name": "真壁家資料一括",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1995-06-20",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町真壁57-1"
+ },
+ {
+  "jmh_id": "JMH-082317-0044",
+  "name": "古宇田家史料一括",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1996-10-23",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町真壁57-1"
+ },
+ {
+  "jmh_id": "JMH-082317-0010",
+  "name": "白井座の人形芝居資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-11-22",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町白井617"
+ },
+ {
+  "jmh_id": "JMH-082317-0013",
+  "name": "算額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-08-18",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町椎尾3178"
+ },
+ {
+  "jmh_id": "JMH-082317-0006",
+  "name": "ささら舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-22",
+  "municipality": "桜川市",
+  "location": "岩瀬町間中区"
+ },
+ {
+  "jmh_id": "JMH-082317-0017",
+  "name": "鍬の祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-11-15",
+  "municipality": "桜川市",
+  "location": "桜川市大国玉1"
+ },
+ {
+  "jmh_id": "JMH-082317-0015",
+  "name": "さやどまわり",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1979-11-15",
+  "municipality": "桜川市",
+  "location": "桜川市大国玉1"
+ },
+ {
+  "jmh_id": "JMH-082317-0030",
+  "name": "権現山廃寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-05-07",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町山尾42"
+ },
+ {
+  "jmh_id": "JMH-082317-0031",
+  "name": "御手洗",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-08-31",
+  "municipality": "桜川市",
+  "location": "桜川市磯部779"
+ },
+ {
+  "jmh_id": "JMH-082317-0046",
+  "name": "花園古墳群２号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-09-18",
+  "municipality": "桜川市",
+  "location": "桜川市友部1956-2ほか"
+ },
+ {
+  "jmh_id": "JMH-082317-0045",
+  "name": "篠ノ沢古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-09-18",
+  "municipality": "桜川市",
+  "location": "桜川市南飯田1323"
+ },
+ {
+  "jmh_id": "JMH-082317-0029",
+  "name": "宿椎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-05-04",
+  "municipality": "桜川市",
+  "location": "桜川市本木1"
+ },
+ {
+  "jmh_id": "JMH-082317-0050",
+  "name": "小山寺の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2000-06-20",
+  "municipality": "桜川市",
+  "location": "桜川市富谷2190"
+ },
+ {
+  "jmh_id": "JMH-082317-0053",
+  "name": "密弘寺のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-02-28",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町真壁184"
+ },
+ {
+  "jmh_id": "JMH-082317-0052",
+  "name": "塚本家のサイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-02-28",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町真壁57-2"
+ },
+ {
+  "jmh_id": "JMH-082317-0055",
+  "name": "田村神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-02-28",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町田21"
+ },
+ {
+  "jmh_id": "JMH-082317-0051",
+  "name": "八柱神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-02-28",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町塙世968"
+ },
+ {
+  "jmh_id": "JMH-082317-0054",
+  "name": "市塚家のタイサンボク",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2003-02-28",
+  "municipality": "桜川市",
+  "location": "桜川市真壁町飯塚85-1"
+ },
+ {
+  "jmh_id": "JMH-082147-0005",
+  "name": "胎蔵界曼荼羅図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1987-03-05",
+  "municipality": "高萩市",
+  "location": "高萩市本町1-128"
+ },
+ {
+  "jmh_id": "JMH-082147-0013",
+  "name": "木造 釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市上手綱572"
+ },
+ {
+  "jmh_id": "JMH-082147-0007",
+  "name": "丸型菊花双鶴文亀鈕鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市本町3-12"
+ },
+ {
+  "jmh_id": "JMH-082147-0014",
+  "name": "松岡地理誌（原稿）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市本町1-75"
+ },
+ {
+  "jmh_id": "JMH-082147-0015",
+  "name": "松岡村誌（原稿）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市安良川66"
+ },
+ {
+  "jmh_id": "JMH-082147-0021",
+  "name": "赤浜古墳出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-082147-0022",
+  "name": "長久保赤水関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市歴史民俗資料館 他"
+ },
+ {
+  "jmh_id": "JMH-082147-0011",
+  "name": "小林寒林資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市歴史民俗資料館 他"
+ },
+ {
+  "jmh_id": "JMH-082147-0017",
+  "name": "松村任三関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-082147-0016",
+  "name": "松村任三胸像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-082147-0012",
+  "name": "朝香神社（森大明神）棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "高萩市",
+  "location": "高萩市上手綱 朝香神社"
+ },
+ {
+  "jmh_id": "JMH-082147-0001",
+  "name": "下君田のささら",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-10-15",
+  "municipality": "高萩市",
+  "location": "高萩市下君田 大塚神社"
+ }
+]

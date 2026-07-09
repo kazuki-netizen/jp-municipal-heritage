@@ -1,0 +1,18 @@
+{
+  "3c155d41b16d4138": {
+    "url": "https://www.city.ota.tokyo.jp/kyouiku/bunkazai/bunkazai_hogo/shitei_torokubunkazai/bunkazai_list.files/20200901bunka_ku_shitei.pdf",
+    "filename": "3c155d41b16d4138.pdf",
+    "sha256": "a673c2a27c82992791b5908fa6b37eb70f687d80a88cba4c5b2c48b8830f1c3c",
+    "fetched_at": "2026-07-08T05:39:40Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "c3bb9dd5ad8115f4": {
+    "url": "https://www.city.ota.tokyo.jp/kyouiku/bunkazai/bunkazai_hogo/shitei_torokubunkazai/bunkazai_list.html",
+    "filename": "c3bb9dd5ad8115f4.html",
+    "sha256": "a157b46a65585a11e88722762d92d528358506a7daf72a1cfc7e95e9bb051dfa",
+    "fetched_at": "2026-07-08T05:39:42Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "da7cf0a9bec1c9dc": {
+    "url": "https://www.city.toshima.lg.jp/documents/2422/ku.pdf",
+    "filename": "da7cf0a9bec1c9dc.pdf",
+    "sha256": "5b3c7d58a6c377446b15e8dbb11dc0b0333ae47e09fc89b473b0c1aba1d84607",
+    "fetched_at": "2026-07-08T05:39:46Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "dfef8306287dd5fa": {
+    "url": "https://www.city.toshima.lg.jp/349/bunka/bunka/bunkazai/004406.html",
+    "filename": "dfef8306287dd5fa.html",
+    "sha256": "08cf9078f10fead9c0c405b7674fe7e839b3d041cde03d79c0539557f896b863",
+    "fetched_at": "2026-07-08T05:39:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8f51ce010fb15e51": {
+    "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/osima/cultural_property/list",
+    "filename": "8f51ce010fb15e51.html",
+    "sha256": "601983c48a17e4bd5da4e94b944b296a308acdd5364396017432bf8473d63eb9",
+    "fetched_at": "2026-07-08T05:40:51Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

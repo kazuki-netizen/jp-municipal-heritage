@@ -1,0 +1,396 @@
+[
+ {
+  "jmh_id": "JMH-082015-0097",
+  "name": "慷慨淋漓の碑拓本附台石",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2015-02-05",
+  "municipality": "水戸市",
+  "location": "元山町"
+ },
+ {
+  "jmh_id": "JMH-082015-0103",
+  "name": "小泉家文書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2020-02-10",
+  "municipality": "水戸市",
+  "location": "大町"
+ },
+ {
+  "jmh_id": "JMH-082015-0107",
+  "name": "海河魚属・山海庶品",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2023-02-10",
+  "municipality": "水戸市",
+  "location": "大町"
+ },
+ {
+  "jmh_id": "JMH-082015-0106",
+  "name": "伝三ノ町出土常総系双式板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2023-02-10",
+  "municipality": "水戸市",
+  "location": "六反田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0110",
+  "name": "林十江の墓石",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2024-02-09",
+  "municipality": "水戸市",
+  "location": "元吉田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0109",
+  "name": "大日本史編纂記録",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2024-02-09",
+  "municipality": "水戸市",
+  "location": "緑町"
+ },
+ {
+  "jmh_id": "JMH-082015-0111",
+  "name": "笠原水道絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2025-02-10",
+  "municipality": "水戸市",
+  "location": "田野町"
+ },
+ {
+  "jmh_id": "JMH-082015-0112",
+  "name": "薬王院扁額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2025-02-10",
+  "municipality": "水戸市",
+  "location": "元吉田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0113",
+  "name": "妙徳寺棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2026-02-10",
+  "municipality": "水戸市",
+  "location": "加倉井町"
+ },
+ {
+  "jmh_id": "JMH-082015-0114",
+  "name": "旧小生瀬宝泉寺厨子扉及び収納箱3点",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2026-02-10",
+  "municipality": "水戸市",
+  "location": "加倉井町"
+ },
+ {
+  "jmh_id": "JMH-082015-0054",
+  "name": "水府流水術",
+  "category": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1994-06-03",
+  "municipality": "水戸市",
+  "location": "城東"
+ },
+ {
+  "jmh_id": "JMH-082015-0086",
+  "name": "田谷の棒術",
+  "category": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2011-10-28",
+  "municipality": "水戸市",
+  "location": "田谷町"
+ },
+ {
+  "jmh_id": "JMH-082015-0091",
+  "name": "北辰一刀流",
+  "category": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-02-08",
+  "municipality": "水戸市",
+  "location": "北見町"
+ },
+ {
+  "jmh_id": "JMH-082015-0094",
+  "name": "新田宮流抜刀術",
+  "category": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-10-25",
+  "municipality": "水戸市",
+  "location": "北見町"
+ },
+ {
+  "jmh_id": "JMH-082015-0018",
+  "name": "水戸の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-04-17",
+  "municipality": "水戸市",
+  "location": "浜田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0022",
+  "name": "大根むき花",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-06-19",
+  "municipality": "水戸市",
+  "location": "元石川町"
+ },
+ {
+  "jmh_id": "JMH-082015-0038",
+  "name": "有賀神社の磯渡御",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-05-01",
+  "municipality": "水戸市",
+  "location": "有賀町"
+ },
+ {
+  "jmh_id": "JMH-082015-0098",
+  "name": "吉田神社の秋季祭礼",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2016-01-29",
+  "municipality": "水戸市",
+  "location": "宮内町"
+ },
+ {
+  "jmh_id": "JMH-082015-0003",
+  "name": "義公生誕の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-09-10",
+  "municipality": "水戸市",
+  "location": "三の丸"
+ },
+ {
+  "jmh_id": "JMH-082015-0004",
+  "name": "藤田東湖生誕の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-09-10",
+  "municipality": "水戸市",
+  "location": "梅香"
+ },
+ {
+  "jmh_id": "JMH-082015-0006",
+  "name": "常磐共有墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-07-10",
+  "municipality": "水戸市",
+  "location": "松本町"
+ },
+ {
+  "jmh_id": "JMH-082015-0008",
+  "name": "水戸殉難志士の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-07-10",
+  "municipality": "水戸市",
+  "location": "松本町"
+ },
+ {
+  "jmh_id": "JMH-082015-0005",
+  "name": "会沢正志斎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-07-10",
+  "municipality": "水戸市",
+  "location": "千波町"
+ },
+ {
+  "jmh_id": "JMH-082015-0007",
+  "name": "武田耕雲斎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-07-10",
+  "municipality": "水戸市",
+  "location": "見川"
+ },
+ {
+  "jmh_id": "JMH-082015-0009",
+  "name": "酒門共有墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-07-23",
+  "municipality": "水戸市",
+  "location": "酒門町"
+ },
+ {
+  "jmh_id": "JMH-082015-0023",
+  "name": "千束原追鳥狩本陣跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-08-03",
+  "municipality": "水戸市",
+  "location": "元石川町"
+ },
+ {
+  "jmh_id": "JMH-082015-0072",
+  "name": "日新塾跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2009-02-06",
+  "municipality": "水戸市",
+  "location": "成沢町"
+ },
+ {
+  "jmh_id": "JMH-082015-0077",
+  "name": "横山大観生誕の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2010-02-18",
+  "municipality": "水戸市",
+  "location": "城東"
+ },
+ {
+  "jmh_id": "JMH-082015-0082",
+  "name": "唯円道場跡伝承地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2011-03-07",
+  "municipality": "水戸市",
+  "location": "河和田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0099",
+  "name": "水戸城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2016-01-29",
+  "municipality": "水戸市",
+  "location": "三の丸"
+ },
+ {
+  "jmh_id": "JMH-082015-0001",
+  "name": "光藻",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1953-09-10",
+  "municipality": "水戸市",
+  "location": "備前町"
+ },
+ {
+  "jmh_id": "JMH-082015-0028",
+  "name": "かたくりの里",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-10-01",
+  "municipality": "水戸市",
+  "location": "有賀町"
+ },
+ {
+  "jmh_id": "JMH-082015-0034",
+  "name": "六地蔵寺のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-03-16",
+  "municipality": "水戸市",
+  "location": "六反田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0033",
+  "name": "六地蔵寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1983-03-16",
+  "municipality": "水戸市",
+  "location": "六反田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0040",
+  "name": "六地蔵寺のシダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-06-01",
+  "municipality": "水戸市",
+  "location": "六反田町"
+ },
+ {
+  "jmh_id": "JMH-082015-0044",
+  "name": "愛宕山古墳のコブシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1986-03-25",
+  "municipality": "水戸市",
+  "location": "栗崎町"
+ },
+ {
+  "jmh_id": "JMH-082015-0063",
+  "name": "水戸城跡の大シイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1998-08-05",
+  "municipality": "水戸市",
+  "location": "三の丸"
+ },
+ {
+  "jmh_id": "JMH-082015-0102",
+  "name": "八幡宮の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2019-02-08",
+  "municipality": "水戸市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-084476-0011",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "生板・妙行寺蔵"
+ },
+ {
+  "jmh_id": "JMH-084476-0012",
+  "name": "法華塔（三義人供養塔）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "河内町",
+  "location": "生板・妙行寺境内"
+ }
+]
