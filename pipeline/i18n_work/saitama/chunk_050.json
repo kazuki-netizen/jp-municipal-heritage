@@ -1,0 +1,388 @@
+[
+ {
+  "jmh_id": "JMH-113654-0048",
+  "name": "長久保神楽",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1974-02-25",
+  "municipality": "小鹿野町",
+  "location": "日尾2354八坂神社・長久保神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0053",
+  "name": "浦島念仏",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1974-05-15",
+  "municipality": "小鹿野町",
+  "location": "両神薄浦島・浦島耕地"
+ },
+ {
+  "jmh_id": "JMH-113654-0059",
+  "name": "柏沢ちんちんめえり",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1974-06-20",
+  "municipality": "小鹿野町",
+  "location": "両神薄柏沢・柏沢耕地"
+ },
+ {
+  "jmh_id": "JMH-113654-0062",
+  "name": "奈倉神楽",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1976-09-24",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野212大徳稲荷・奈倉神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0067",
+  "name": "聖天神楽",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-02-21",
+  "municipality": "小鹿野町",
+  "location": "般若2690秩父大神社・聖天神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0069",
+  "name": "間庭の甘酒まつり",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1979-03-19",
+  "municipality": "小鹿野町",
+  "location": "両神小森間庭・行事"
+ },
+ {
+  "jmh_id": "JMH-113654-0070",
+  "name": "松井田神楽",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1980-04-18",
+  "municipality": "小鹿野町",
+  "location": "長留321-1琴平神社・松井田神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0071",
+  "name": "十六神楽",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1981-04-16",
+  "municipality": "小鹿野町",
+  "location": "般若629日本武神社・十六神楽保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0078",
+  "name": "煤川の獅子舞",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1986-07-15",
+  "municipality": "小鹿野町",
+  "location": "両神小森煤川・煤川獅子舞保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0079",
+  "name": "倉尾神社の長旗付き煙火",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1988-02-22",
+  "municipality": "小鹿野町",
+  "location": "藤倉3135・倉尾神社 煙火保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0113",
+  "name": "小森歌舞伎",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2005-06-09",
+  "municipality": "小鹿野町",
+  "location": "両神小森・小森祭りと文化を守る会"
+ },
+ {
+  "jmh_id": "JMH-113654-0018",
+  "name": "伊豆沢の天気占い（的矢の神事）",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "伊豆沢1959諏訪神社・伊豆沢沢浦・諏訪神社文殊堂保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0029",
+  "name": "馬上のクダゲエ〔管粥〕（筒粥の神事）",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "藤倉620諏訪神社・馬上耕地"
+ },
+ {
+  "jmh_id": "JMH-113654-0002",
+  "name": "山田百梅の墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野3586正永寺・正永寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0001",
+  "name": "お塚(古墳)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "般若927・日本武神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0021",
+  "name": "日尾城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "日尾2235ほか・関口和夫 坂本兵三郎"
+ },
+ {
+  "jmh_id": "JMH-113654-0019",
+  "name": "奈倉館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野18・田島康久ほか"
+ },
+ {
+  "jmh_id": "JMH-113654-0030",
+  "name": "高札場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野1380・八剣神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0026",
+  "name": "札所三十一番鷲窟山観音院",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "飯田2201観音院・光源院 札所31番奉賛会"
+ },
+ {
+  "jmh_id": "JMH-113654-0027",
+  "name": "札所三十二番般若山法性寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "般若2661・法性寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0022",
+  "name": "日尾荊山の生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "日尾1492・倉尾文化財保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0020",
+  "name": "安積艮斎の小鹿野碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野1299小鹿神社・小鹿神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0032",
+  "name": "竹内いし女墓・褒賞",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1963-12-24",
+  "municipality": "小鹿野町",
+  "location": "両神薄3389、両神薄2906・竹内玉衛・小鹿野町"
+ },
+ {
+  "jmh_id": "JMH-113654-0050",
+  "name": "加藤民也先生碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1974-05-15",
+  "municipality": "小鹿野町",
+  "location": "両神薄1633・加藤恭一"
+ },
+ {
+  "jmh_id": "JMH-113654-0057",
+  "name": "甲源一刀流逸見愛作寿碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1974-06-09",
+  "municipality": "小鹿野町",
+  "location": "両神薄94-3・逸見知夫治"
+ },
+ {
+  "jmh_id": "JMH-113654-0058",
+  "name": "出浦市郎左衛門頌徳碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1974-06-20",
+  "municipality": "小鹿野町",
+  "location": "両神薄3574・出浦信行"
+ },
+ {
+  "jmh_id": "JMH-113654-0086",
+  "name": "初代音羽屋彦五郎の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-11-26",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野1949・根岸等"
+ },
+ {
+  "jmh_id": "JMH-113654-0096",
+  "name": "小鹿塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1994-12-21",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野861-4ほか・小鹿野町"
+ },
+ {
+  "jmh_id": "JMH-113654-0017",
+  "name": "ようばけ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "長留34ほか"
+ },
+ {
+  "jmh_id": "JMH-113654-0045",
+  "name": "古鷹神社の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1973-01-10",
+  "municipality": "小鹿野町",
+  "location": "三山1195・古鷹神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0044",
+  "name": "一本杉峠の杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1973-01-10",
+  "municipality": "小鹿野町",
+  "location": "小鹿野2310・瀬谷卓美"
+ },
+ {
+  "jmh_id": "JMH-113654-0046",
+  "name": "逸見家の欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1973-01-10",
+  "municipality": "小鹿野町",
+  "location": "伊豆沢39・逸見善子"
+ },
+ {
+  "jmh_id": "JMH-113654-0073",
+  "name": "坂本の大もみじ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1983-03-29",
+  "municipality": "小鹿野町",
+  "location": "河原沢771"
+ },
+ {
+  "jmh_id": "JMH-113654-0075",
+  "name": "大徳院の一本杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1986-02-26",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野208-1・大徳院"
+ },
+ {
+  "jmh_id": "JMH-113654-0114",
+  "name": "堤鋤月画『梅の図』",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2009-01-23",
+  "municipality": "小鹿野町",
+  "location": "両神小森122・個人蔵"
+ },
+ {
+  "jmh_id": "JMH-113654-0115",
+  "name": "木魂神社神楽殿（津谷木の歌舞伎舞台）",
+  "category": "民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2009-01-23",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野3301 木魂神社境内所在"
+ },
+ {
+  "jmh_id": "JMH-113476-0001",
+  "name": "岩室観音",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1971-11-22",
+  "municipality": "吉見町",
+  "location": "北吉見 312"
+ },
+ {
+  "jmh_id": "JMH-113476-0007",
+  "name": "横見神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1992-08-19",
+  "municipality": "吉見町",
+  "location": "久保田 117"
+ },
+ {
+  "jmh_id": "JMH-113476-0010",
+  "name": "永府門樋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2006-06-07",
+  "municipality": "吉見町",
+  "location": "北吉見 3547-1先"
+ },
+ {
+  "jmh_id": "JMH-113476-0016",
+  "name": "天神沼樋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2014-04-02",
+  "municipality": "吉見町",
+  "location": "久米田 611-1"
+ }
+]

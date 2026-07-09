@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-113468-0005",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1989",
+  "municipality": "川島町",
+  "location": "中山 金剛寺"
+ },
+ {
+  "jmh_id": "JMH-113468-0003",
+  "name": "木造聖観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1989",
+  "municipality": "川島町",
+  "location": "中山 正泉寺"
+ },
+ {
+  "jmh_id": "JMH-113468-0006",
+  "name": "下廓囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2017",
+  "municipality": "川島町",
+  "location": "伊草地区"
+ },
+ {
+  "jmh_id": "JMH-113468-0008",
+  "name": "飯島囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2017",
+  "municipality": "川島町",
+  "location": "伊草地区"
+ },
+ {
+  "jmh_id": "JMH-113468-0007",
+  "name": "角泉囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2017",
+  "municipality": "川島町",
+  "location": "伊草地区"
+ },
+ {
+  "jmh_id": "JMH-113468-0002",
+  "name": "伊草獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1971",
+  "municipality": "川島町",
+  "location": "伊草地区"
+ },
+ {
+  "jmh_id": "JMH-112160-0064",
+  "name": "小松神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2016-03-25",
+  "municipality": "羽生市",
+  "location": "大字小松"
+ },
+ {
+  "jmh_id": "JMH-112160-0017",
+  "name": "富士山の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0032",
+  "name": "不得道可夫妻画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-07-01",
+  "municipality": "羽生市",
+  "location": "大字 藤井上組"
+ },
+ {
+  "jmh_id": "JMH-112160-0037",
+  "name": "雪兆の幟",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1975-10-23",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0045",
+  "name": "亀田鵬斉肖像画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-07-11",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0022",
+  "name": "木造毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字 三田ヶ谷"
+ },
+ {
+  "jmh_id": "JMH-112160-0027",
+  "name": "須影八幡社彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字須影"
+ },
+ {
+  "jmh_id": "JMH-112160-0034",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-07-01",
+  "municipality": "羽生市",
+  "location": "大字今泉"
+ },
+ {
+  "jmh_id": "JMH-112160-0035",
+  "name": "鉄造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-07-01",
+  "municipality": "羽生市",
+  "location": "さいたま市"
+ },
+ {
+  "jmh_id": "JMH-112160-0033",
+  "name": "木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-07-01",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0042",
+  "name": "永明寺石造二王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-06-29",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0038",
+  "name": "木造十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-06-29",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0039",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-06-29",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0061",
+  "name": "木造不動明王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2014-03-26",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0062",
+  "name": "木造恵比寿・大黒天像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2014-03-26",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0063",
+  "name": "木造恵比寿・大黒天像 付 新刻料金払済覚",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2014-03-26",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0065",
+  "name": "木造大黒天立像 付 厨子",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2018-02-20",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0067",
+  "name": "木造聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2021-03-24",
+  "municipality": "羽生市",
+  "location": "大字発戸"
+ },
+ {
+  "jmh_id": "JMH-112160-0024",
+  "name": "金銅ねはん像",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字堤"
+ },
+ {
+  "jmh_id": "JMH-112160-0009",
+  "name": "正覚院文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "南"
+ },
+ {
+  "jmh_id": "JMH-112160-0010",
+  "name": "武田家の高札",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "大字 藤井上組"
+ },
+ {
+  "jmh_id": "JMH-112160-0021",
+  "name": "徳川斉昭の和歌",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0016",
+  "name": "佐藤延昌の箱書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0028",
+  "name": "黒沢翁満の書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0019",
+  "name": "平野家古文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0023",
+  "name": "総願寺不動尊堂 側面図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0020",
+  "name": "延命寺朱印状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字堤"
+ },
+ {
+  "jmh_id": "JMH-112160-0025",
+  "name": "長光寺朱印状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字今泉"
+ },
+ {
+  "jmh_id": "JMH-112160-0041",
+  "name": "正覚院宥珍授尊海院信",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1981-06-29",
+  "municipality": "羽生市",
+  "location": "南"
+ },
+ {
+  "jmh_id": "JMH-112160-0040",
+  "name": "正覚院古文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1981-06-29",
+  "municipality": "羽生市",
+  "location": "南"
+ },
+ {
+  "jmh_id": "JMH-112160-0058",
+  "name": "小菅家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2010-03-17",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0068",
+  "name": "徳守傳次判物",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2025-11-12",
+  "municipality": "羽生市",
+  "location": "大字発戸"
+ },
+ {
+  "jmh_id": "JMH-112160-0006",
+  "name": "「天満宮」の額",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "東"
+ },
+ {
+  "jmh_id": "JMH-112160-0026",
+  "name": "隠元の墨跡",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "南"
+ }
+]

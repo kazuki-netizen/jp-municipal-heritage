@@ -1,0 +1,330 @@
+[
+ {
+  "jmh_id": "JMH-113492-0003",
+  "name": "七重ヤ マザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "ときがわ町"
+ },
+ {
+  "jmh_id": "JMH-113816-0001",
+  "name": "関の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "美里町",
+  "location": "関 児玉神社"
+ },
+ {
+  "jmh_id": "JMH-112429-0007",
+  "name": "四本木の板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0010",
+  "name": "大川戸家の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0028",
+  "name": "高岡廃寺出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0008",
+  "name": "大寺廃寺出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0021",
+  "name": "若宮遺跡（女影廃寺）2、3次調査出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0029",
+  "name": "高麗氏系図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0011",
+  "name": "徳川将軍寺領寄進状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0012",
+  "name": "徳川将軍社領寄進状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0004",
+  "name": "勝音寺大般若経",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0030",
+  "name": "高麗王若光の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0006",
+  "name": "台の高札場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0002",
+  "name": "三枝氏歴代の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0009",
+  "name": "大寺廃寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0019",
+  "name": "聖天院山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0027",
+  "name": "駒形神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0001",
+  "name": "三島神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0026",
+  "name": "霞野神社本殿付剣道の懸額",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0020",
+  "name": "聖天院阿弥陀堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0016",
+  "name": "横手神社の獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0022",
+  "name": "諏訪神社の獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0023",
+  "name": "野々宮神社の獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0031",
+  "name": "高麗神社の獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0003",
+  "name": "八坂神社の祭りばやし",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0025",
+  "name": "霞野神社の獅子舞諸道具",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0024",
+  "name": "野々宮神社奉納相撲場付関係資料",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0015",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0013",
+  "name": "木造不動明王及び両脇侍像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0014",
+  "name": "木造観音・勢至菩薩両立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0005",
+  "name": "千手観音坐像及び両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0017",
+  "name": "満蔵寺木造不動明王及び両脇侍像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112429-0018",
+  "name": "聖天院元禄四年銅鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "日高市"
+ },
+ {
+  "jmh_id": "JMH-112437-0003",
+  "name": "弘安七年板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "吉川市"
+ },
+ {
+  "jmh_id": "JMH-112437-0004",
+  "name": "弥陀三尊板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "吉川市"
+ },
+ {
+  "jmh_id": "JMH-112437-0002",
+  "name": "十三仏種子板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "吉川市"
+ },
+ {
+  "jmh_id": "JMH-112437-0001",
+  "name": "六字名号板碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-04-01",
+  "municipality": "吉川市"
+ },
+ {
+  "jmh_id": "JMH-112437-0005",
+  "name": "千躰庚申塚",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-04-01",
+  "municipality": "吉川市"
+ },
+ {
+  "jmh_id": "JMH-112437-0008",
+  "name": "戸張家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-03-09",
+  "municipality": "吉川市"
+ },
+ {
+  "jmh_id": "JMH-112437-0009",
+  "name": "渡辺家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1999-03-09",
+  "municipality": "吉川市"
+ }
+]

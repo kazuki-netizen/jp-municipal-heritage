@@ -1,0 +1,399 @@
+[
+ {
+  "jmh_id": "JMH-112186-0014",
+  "name": "増田氏館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "上増田218他"
+ },
+ {
+  "jmh_id": "JMH-112186-0009",
+  "name": "内ケ島氏館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "内ケ島644他"
+ },
+ {
+  "jmh_id": "JMH-112186-0006",
+  "name": "伝幡羅太郎館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "原郷362"
+ },
+ {
+  "jmh_id": "JMH-112186-0032",
+  "name": "秋元氏陣屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "秋元町"
+ },
+ {
+  "jmh_id": "JMH-112186-0021",
+  "name": "松平源七郎康直墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "本住町8-34"
+ },
+ {
+  "jmh_id": "JMH-112186-0015",
+  "name": "大忍魯仙和尚墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "矢島744"
+ },
+ {
+  "jmh_id": "JMH-112186-0043",
+  "name": "庁鼻和城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺521他"
+ },
+ {
+  "jmh_id": "JMH-112186-0168",
+  "name": "1.庁鼻和城跡北西隅外廓土塁",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "原郷2151-12"
+ },
+ {
+  "jmh_id": "JMH-112186-0169",
+  "name": "2.庁鼻和城跡物見櫓跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺495"
+ },
+ {
+  "jmh_id": "JMH-112186-0170",
+  "name": "3.庁鼻和城跡北東隅起点",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺564"
+ },
+ {
+  "jmh_id": "JMH-112186-0058",
+  "name": "人見氏累代墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "深谷市",
+  "location": "人見1621-2"
+ },
+ {
+  "jmh_id": "JMH-112186-0075",
+  "name": "畠山重能墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-11-03",
+  "municipality": "深谷市",
+  "location": "畠山、重忠公史跡公園"
+ },
+ {
+  "jmh_id": "JMH-112186-0082",
+  "name": "高札場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-01-29",
+  "municipality": "深谷市",
+  "location": "本田"
+ },
+ {
+  "jmh_id": "JMH-112186-0088",
+  "name": "秋元氏墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "深谷市",
+  "location": "上柴町西4-26-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0083",
+  "name": "上杉氏歴代墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺521"
+ },
+ {
+  "jmh_id": "JMH-112186-0108",
+  "name": "北亭為直墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "深谷市",
+  "location": "田谷308"
+ },
+ {
+  "jmh_id": "JMH-112186-0135",
+  "name": "東方城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "深谷市"
+ },
+ {
+  "jmh_id": "JMH-112186-0132",
+  "name": "1.東方城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "深谷市",
+  "location": "東方1790"
+ },
+ {
+  "jmh_id": "JMH-112186-0133",
+  "name": "2.東方城塁跡 1号",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "深谷市",
+  "location": "東方1968"
+ },
+ {
+  "jmh_id": "JMH-112186-0134",
+  "name": "3.東方城塁跡 2号",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "深谷市",
+  "location": "東方1873"
+ },
+ {
+  "jmh_id": "JMH-112186-0269",
+  "name": "木の本古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "深谷市"
+ },
+ {
+  "jmh_id": "JMH-112186-0140",
+  "name": "1号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "原郷1677 原郷1983"
+ },
+ {
+  "jmh_id": "JMH-112186-0141",
+  "name": "2号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "原郷1787"
+ },
+ {
+  "jmh_id": "JMH-112186-0142",
+  "name": "3号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "原郷1976"
+ },
+ {
+  "jmh_id": "JMH-112186-0143",
+  "name": "4号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "東方1972"
+ },
+ {
+  "jmh_id": "JMH-112186-0144",
+  "name": "5号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "東方1746"
+ },
+ {
+  "jmh_id": "JMH-112186-0152",
+  "name": "7号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "深谷市",
+  "location": "原郷1947"
+ },
+ {
+  "jmh_id": "JMH-112186-0153",
+  "name": "8号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "深谷市",
+  "location": "東方1765-3"
+ },
+ {
+  "jmh_id": "JMH-112186-0154",
+  "name": "9号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "深谷市",
+  "location": "東方1856"
+ },
+ {
+  "jmh_id": "JMH-112186-0149",
+  "name": "10号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "深谷市",
+  "location": "原郷1258"
+ },
+ {
+  "jmh_id": "JMH-112186-0150",
+  "name": "11号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "深谷市",
+  "location": "原郷1260"
+ },
+ {
+  "jmh_id": "JMH-112186-0151",
+  "name": "12号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "深谷市",
+  "location": "原郷1200"
+ },
+ {
+  "jmh_id": "JMH-112186-0146",
+  "name": "杉田因幡墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "深谷町3-81"
+ },
+ {
+  "jmh_id": "JMH-112186-0163",
+  "name": "菊図坊祖英塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-11-03",
+  "municipality": "深谷市",
+  "location": "稲荷町2-5-21"
+ },
+ {
+  "jmh_id": "JMH-112186-0175",
+  "name": "新開荒次郎実重墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "新戒198"
+ },
+ {
+  "jmh_id": "JMH-112186-0176",
+  "name": "新開荒次郎実重夫人墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "新戒222"
+ },
+ {
+  "jmh_id": "JMH-112186-0183",
+  "name": "論所堤定杭",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-11-03",
+  "municipality": "深谷市",
+  "location": "江原865"
+ },
+ {
+  "jmh_id": "JMH-112186-0188",
+  "name": "岡部藩主歴代の墓附 安部大蔵君碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-11-03",
+  "municipality": "深谷市",
+  "location": "岡部786"
+ },
+ {
+  "jmh_id": "JMH-112186-0186",
+  "name": "安部摂津守屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-11-03",
+  "municipality": "深谷市",
+  "location": "岡部"
+ },
+ {
+  "jmh_id": "JMH-112186-0205",
+  "name": "百庚申",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "深谷市",
+  "location": "岡3158"
+ }
+]

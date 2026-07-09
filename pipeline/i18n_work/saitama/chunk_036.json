@@ -1,0 +1,368 @@
+[
+ {
+  "jmh_id": "JMH-114081-0024",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "今市"
+ },
+ {
+  "jmh_id": "JMH-114081-0025",
+  "name": "木造役行者像（円空作）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "牛礼"
+ },
+ {
+  "jmh_id": "JMH-114081-0028",
+  "name": "木造釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "末野"
+ },
+ {
+  "jmh_id": "JMH-114081-0026",
+  "name": "木造薬師如来坐像 付宮殿",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0053",
+  "name": "鰐口（わにぐち）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "用土"
+ },
+ {
+  "jmh_id": "JMH-114081-0014",
+  "name": "太刀（銘景一）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0013",
+  "name": "太刀（銘友成）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "風布"
+ },
+ {
+  "jmh_id": "JMH-114081-0007",
+  "name": "刀（銘宗一製）・脇差（銘付心斎宗一）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "用土"
+ },
+ {
+  "jmh_id": "JMH-114081-0052",
+  "name": "鰐口(残欠3点)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "西ノ入"
+ },
+ {
+  "jmh_id": "JMH-114081-0019",
+  "name": "懸仏（かけぼとけ）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "鉢形"
+ },
+ {
+  "jmh_id": "JMH-114081-0043",
+  "name": "紺地金泥一品法華経",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0039",
+  "name": "男衾三郎絵詞",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0032",
+  "name": "正龍寺文書（7通）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "藤田"
+ },
+ {
+  "jmh_id": "JMH-114081-0021",
+  "name": "折井家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0004",
+  "name": "代官古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "用土"
+ },
+ {
+  "jmh_id": "JMH-114081-0018",
+  "name": "御朱印状（9通）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "鉢形"
+ },
+ {
+  "jmh_id": "JMH-114081-0044",
+  "name": "船宿関係古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "末野"
+ },
+ {
+  "jmh_id": "JMH-114081-0017",
+  "name": "御朱印状（11通）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0033",
+  "name": "正龍寺朱印状11通",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "藤田"
+ },
+ {
+  "jmh_id": "JMH-114081-0029",
+  "name": "東国寺朱印状11通 付田畠打渡状1通",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "立原"
+ },
+ {
+  "jmh_id": "JMH-114081-0035",
+  "name": "泉立寺朱印状9通",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "今市"
+ },
+ {
+  "jmh_id": "JMH-114081-0016",
+  "name": "宝きょう印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "桜沢"
+ },
+ {
+  "jmh_id": "JMH-114081-0030",
+  "name": "板碑（いたび）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "富田"
+ },
+ {
+  "jmh_id": "JMH-114081-0023",
+  "name": "旧正喜橋題額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "寄居・鉢形"
+ },
+ {
+  "jmh_id": "JMH-114081-0001",
+  "name": "五百羅漢と千体荒神",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "末野"
+ },
+ {
+  "jmh_id": "JMH-114081-0046",
+  "name": "茅町「鹿鼓島」山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "寄居"
+ },
+ {
+  "jmh_id": "JMH-114081-0038",
+  "name": "獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "桜沢"
+ },
+ {
+  "jmh_id": "JMH-114081-0048",
+  "name": "道祖神（双体）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "牛礼"
+ },
+ {
+  "jmh_id": "JMH-114081-0012",
+  "name": "太々神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "折原"
+ },
+ {
+  "jmh_id": "JMH-114081-0036",
+  "name": "獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "用土"
+ },
+ {
+  "jmh_id": "JMH-114081-0042",
+  "name": "神田ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "寄居"
+ },
+ {
+  "jmh_id": "JMH-114081-0041",
+  "name": "祇園行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "桜沢"
+ },
+ {
+  "jmh_id": "JMH-114081-0037",
+  "name": "獅子舞（金尾）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "金尾"
+ },
+ {
+  "jmh_id": "JMH-114081-0006",
+  "name": "佐太彦神社の川瀬祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "折原"
+ },
+ {
+  "jmh_id": "JMH-113859-0042",
+  "name": "勅使門",
+  "category": "有形文化財",
+  "subcategory": "扁額「勅使山」",
+  "designation": "町指定",
+  "designated_date": "1974-02-22",
+  "municipality": "上里町",
+  "location": "上里町大字勅使河原1864"
+ },
+ {
+  "jmh_id": "JMH-113859-0007",
+  "name": "十二天古画",
+  "category": "有形文化財",
+  "subcategory": "紙本対幅。一幅に六体描かれる。",
+  "designation": "町指定",
+  "designated_date": "1962-02-22",
+  "municipality": "上里町",
+  "location": "上里町大字七本木67"
+ },
+ {
+  "jmh_id": "JMH-113859-0036",
+  "name": "阿弥陀三尊古画",
+  "category": "有形文化財",
+  "subcategory": "絹本着色。阿弥陀三尊来迎図",
+  "designation": "町指定",
+  "designated_date": "1962-02-22",
+  "municipality": "上里町",
+  "location": "上里町大字七本木67"
+ },
+ {
+  "jmh_id": "JMH-113859-0011",
+  "name": "天神古画",
+  "category": "有形文化財",
+  "subcategory": "絹本着色。天神端座之図",
+  "designation": "町指定",
+  "designated_date": "1962-02-22",
+  "municipality": "上里町",
+  "location": "上里町大字七本木594-1"
+ },
+ {
+  "jmh_id": "JMH-113859-0041",
+  "name": "伝武田信玄・陽雲院夫妻画像",
+  "category": "有形文化財",
+  "subcategory": "寛文9年(1669)狩野元俊筆。陽雲院の服装に葡萄模様が配されている。",
+  "designation": "町指定",
+  "designated_date": "1974-02-22",
+  "municipality": "上里町",
+  "location": "上里町大字金久保701"
+ },
+ {
+  "jmh_id": "JMH-113859-0008",
+  "name": "十五仏古画",
+  "category": "有形文化財",
+  "subcategory": "絹本着色。中央に虚空蔵菩薩が描かれる。",
+  "designation": "町指定",
+  "designated_date": "1962-02-22",
+  "municipality": "上里町",
+  "location": "上里町大字七本木594-1"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112062-0046",
+  "name": "関ヶ原合戦図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1999-03-25",
+  "municipality": "行田市",
+  "location": "本丸17-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0049",
+  "name": "奥平貞能画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2000-03-28",
+  "municipality": "行田市",
+  "location": "駒形1-4-26"
+ },
+ {
+  "jmh_id": "JMH-112062-0008",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "駒形1-4-18"
+ },
+ {
+  "jmh_id": "JMH-112062-0010",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "野1245"
+ },
+ {
+  "jmh_id": "JMH-112062-0018",
+  "name": "銅造阿弥陀三尊立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "渡柳537"
+ },
+ {
+  "jmh_id": "JMH-112062-0019",
+  "name": "銅造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "下池守487"
+ },
+ {
+  "jmh_id": "JMH-112062-0007",
+  "name": "木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "城西4-8-39"
+ },
+ {
+  "jmh_id": "JMH-112062-0009",
+  "name": "木造釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "皿尾399"
+ },
+ {
+  "jmh_id": "JMH-112062-0011",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "城西4-6-33"
+ },
+ {
+  "jmh_id": "JMH-112062-0001",
+  "name": "忍城の時鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1954-10-04",
+  "municipality": "行田市",
+  "location": "本丸17-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0022",
+  "name": "梅貞童子の御守筒",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1960-03-29",
+  "municipality": "行田市",
+  "location": "城西4-3-21"
+ },
+ {
+  "jmh_id": "JMH-112062-0025",
+  "name": "太刀無銘(伝兼光)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1962-11-20",
+  "municipality": "行田市",
+  "location": "城西"
+ },
+ {
+  "jmh_id": "JMH-112062-0036",
+  "name": "石燈籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1967-03-10",
+  "municipality": "行田市",
+  "location": "埼玉5450"
+ },
+ {
+  "jmh_id": "JMH-112062-0047",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1999-03-25",
+  "municipality": "行田市",
+  "location": "皿尾392"
+ },
+ {
+  "jmh_id": "JMH-112062-0016",
+  "name": "紺紙金字法華経",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "前谷1426"
+ },
+ {
+  "jmh_id": "JMH-112062-0002",
+  "name": "忍名所図会",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1955-08-04",
+  "municipality": "行田市",
+  "location": "須加"
+ },
+ {
+  "jmh_id": "JMH-112062-0026",
+  "name": "成田氏長判物",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1963-08-23",
+  "municipality": "行田市",
+  "location": "門井町"
+ },
+ {
+  "jmh_id": "JMH-112062-0034",
+  "name": "要中録（五巻）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1966-02-17",
+  "municipality": "行田市",
+  "location": "行田"
+ },
+ {
+  "jmh_id": "JMH-112062-0042",
+  "name": "梅沢家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1995-03-29",
+  "municipality": "行田市",
+  "location": "本丸17-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0003",
+  "name": "藩学進脩館横額",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1955-08-04",
+  "municipality": "行田市",
+  "location": "本丸17-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0024",
+  "name": "勝海舟書大幟原本",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1962-11-20",
+  "municipality": "行田市",
+  "location": "桜町2-30-35"
+ },
+ {
+  "jmh_id": "JMH-112062-0051",
+  "name": "無量壽堂扁額",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2000-03-28",
+  "municipality": "行田市",
+  "location": "須加4727-1"
+ },
+ {
+  "jmh_id": "JMH-112062-0004",
+  "name": "旧盛徳寺礎石",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1955-08-08",
+  "municipality": "行田市",
+  "location": "埼玉1118"
+ },
+ {
+  "jmh_id": "JMH-112062-0012",
+  "name": "板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "真名板1532"
+ },
+ {
+  "jmh_id": "JMH-112062-0013",
+  "name": "板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-03-19",
+  "municipality": "行田市",
+  "location": "小針3251"
+ },
+ {
+  "jmh_id": "JMH-112062-0021",
+  "name": "旧さきたま考古館展示土器類",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1960-03-29",
+  "municipality": "行田市",
+  "location": "本丸17-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0035",
+  "name": "板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1967-03-10",
+  "municipality": "行田市",
+  "location": "野744"
+ },
+ {
+  "jmh_id": "JMH-112062-0038",
+  "name": "碁石頭桶側菱綴二枚胴具足",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1972-11-09",
+  "municipality": "行田市",
+  "location": "本丸12-5"
+ },
+ {
+  "jmh_id": "JMH-112062-0048",
+  "name": "吉田庸徳関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-03-28",
+  "municipality": "行田市",
+  "location": "本丸17-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0050",
+  "name": "寺子屋玉松堂関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-03-28",
+  "municipality": "行田市",
+  "location": "野"
+ },
+ {
+  "jmh_id": "JMH-112062-0052",
+  "name": "新川早船絵馬",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-03-30",
+  "municipality": "行田市",
+  "location": "下忍1160"
+ },
+ {
+  "jmh_id": "JMH-112062-0053",
+  "name": "納額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2002-03-28",
+  "municipality": "行田市",
+  "location": "行田16-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0065",
+  "name": "剣神社の油しぼりの絵馬",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2019-04-25",
+  "municipality": "行田市",
+  "location": "斎条1650"
+ },
+ {
+  "jmh_id": "JMH-112062-0067",
+  "name": "真観寺の絵馬",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2022-04-21",
+  "municipality": "行田市",
+  "location": "小見1124"
+ },
+ {
+  "jmh_id": "JMH-112062-0069",
+  "name": "紺紙金泥法華経 巻第六",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2024-05-17",
+  "municipality": "行田市",
+  "location": "小見1124"
+ },
+ {
+  "jmh_id": "JMH-112062-0068",
+  "name": "忍藩砲術師範井狩家資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2024-05-17",
+  "municipality": "行田市",
+  "location": "本丸17-23"
+ },
+ {
+  "jmh_id": "JMH-112062-0062",
+  "name": "碁盤製作技術吉田流太刀盛り",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2012-09-27",
+  "municipality": "行田市",
+  "location": "若小玉"
+ },
+ {
+  "jmh_id": "JMH-112062-0033",
+  "name": "算額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1966-02-17",
+  "municipality": "行田市",
+  "location": "下忍"
+ },
+ {
+  "jmh_id": "JMH-112062-0055",
+  "name": "在家の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2009-07-30",
+  "municipality": "行田市",
+  "location": "南河原"
+ },
+ {
+  "jmh_id": "JMH-112062-0061",
+  "name": "馬見塚の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2009-07-30",
+  "municipality": "行田市",
+  "location": "馬見塚"
+ }
+]

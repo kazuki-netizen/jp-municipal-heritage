@@ -1,0 +1,394 @@
+[
+ {
+  "jmh_id": "JMH-112097-0040",
+  "name": "野口親音堂奉納経付奉納箱",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1997-08-01",
+  "municipality": "飯能市",
+  "location": "飯能市"
+ },
+ {
+  "jmh_id": "JMH-112097-0067",
+  "name": "飯能村絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2018-06-29",
+  "municipality": "飯能市",
+  "location": "飯能市"
+ },
+ {
+  "jmh_id": "JMH-112097-0029",
+  "name": "川寺大光寺双盤念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1987-04-01",
+  "municipality": "飯能市",
+  "location": "川寺"
+ },
+ {
+  "jmh_id": "JMH-112097-0020",
+  "name": "星宮・諏訪神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1966-11-03",
+  "municipality": "飯能市",
+  "location": "上名栗"
+ },
+ {
+  "jmh_id": "JMH-112097-0021",
+  "name": "榆沢諏訪神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1966-11-03",
+  "municipality": "飯能市",
+  "location": "上名栗"
+ },
+ {
+  "jmh_id": "JMH-112097-0055",
+  "name": "北川の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-28",
+  "municipality": "飯能市",
+  "location": "北川"
+ },
+ {
+  "jmh_id": "JMH-112097-0056",
+  "name": "南川の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-28",
+  "municipality": "飯能市",
+  "location": "南川"
+ },
+ {
+  "jmh_id": "JMH-112097-0054",
+  "name": "三社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-28",
+  "municipality": "飯能市",
+  "location": "吾野"
+ },
+ {
+  "jmh_id": "JMH-112097-0058",
+  "name": "阿寺の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-28",
+  "municipality": "飯能市",
+  "location": "長沢"
+ },
+ {
+  "jmh_id": "JMH-112097-0059",
+  "name": "飯能諏訪八幡神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-28",
+  "municipality": "飯能市",
+  "location": "飯能"
+ },
+ {
+  "jmh_id": "JMH-112097-0057",
+  "name": "小瀬戸の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-28",
+  "municipality": "飯能市",
+  "location": "小瀬戸"
+ },
+ {
+  "jmh_id": "JMH-112097-0060",
+  "name": "石原の大神楽獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2009-02-26",
+  "municipality": "飯能市",
+  "location": "原市場"
+ },
+ {
+  "jmh_id": "JMH-112097-0061",
+  "name": "三社の川瀬祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2010-03-25",
+  "municipality": "飯能市",
+  "location": "吾野"
+ },
+ {
+  "jmh_id": "JMH-112097-0065",
+  "name": "神田大橋流祭りばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2014-07-25",
+  "municipality": "飯能市",
+  "location": "下畑"
+ },
+ {
+  "jmh_id": "JMH-112097-0064",
+  "name": "小田原若狭流祭りばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2014-07-25",
+  "municipality": "飯能市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-112097-0074",
+  "name": "飯能の底抜け屋台行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2024-06-28",
+  "municipality": "飯能市",
+  "location": "各町内"
+ },
+ {
+  "jmh_id": "JMH-112097-0043",
+  "name": "二丁目山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-10-20",
+  "municipality": "飯能市",
+  "location": "仲町"
+ },
+ {
+  "jmh_id": "JMH-112097-0044",
+  "name": "河原町山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-10-19",
+  "municipality": "飯能市",
+  "location": "飯能"
+ },
+ {
+  "jmh_id": "JMH-112097-0062",
+  "name": "原町山車人形「神武天皇」",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2011-03-23",
+  "municipality": "飯能市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-112097-0068",
+  "name": "落合家人形芝居及び祓経節関連資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2020-03-19",
+  "municipality": "飯能市",
+  "location": "虎秀"
+ },
+ {
+  "jmh_id": "JMH-112097-0001",
+  "name": "多峯主山黒田直邦墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-04-15",
+  "municipality": "飯能市",
+  "location": "飯能"
+ },
+ {
+  "jmh_id": "JMH-112097-0003",
+  "name": "鱒ケ久保地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-04-15",
+  "municipality": "飯能市",
+  "location": "芦刈場"
+ },
+ {
+  "jmh_id": "JMH-112097-0005",
+  "name": "本郷六天青石塔婆と槻樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-12-01",
+  "municipality": "飯能市",
+  "location": "飯能"
+ },
+ {
+  "jmh_id": "JMH-112097-0008",
+  "name": "双柳の浅間塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-06-13",
+  "municipality": "飯能市",
+  "location": "双柳"
+ },
+ {
+  "jmh_id": "JMH-112097-0015",
+  "name": "能仁寺中山勘解由三代の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-05-01",
+  "municipality": "飯能市",
+  "location": "飯能"
+ },
+ {
+  "jmh_id": "JMH-112097-0009",
+  "name": "中島たつ墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-05-01",
+  "municipality": "飯能市",
+  "location": "南川"
+ },
+ {
+  "jmh_id": "JMH-112097-0017",
+  "name": "千葉威胤胤墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1963-06-01",
+  "municipality": "飯能市",
+  "location": "虎秀"
+ },
+ {
+  "jmh_id": "JMH-112097-0048",
+  "name": "本邦帝王切開術発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2004-03-26",
+  "municipality": "飯能市",
+  "location": "坂元"
+ },
+ {
+  "jmh_id": "JMH-112097-0026",
+  "name": "能仁寺庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1973-07-01",
+  "municipality": "飯能市",
+  "location": "飯能"
+ },
+ {
+  "jmh_id": "JMH-112097-0023",
+  "name": "モリアオガエル生息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-11-01",
+  "municipality": "飯能市",
+  "location": "上直竹上分地区"
+ },
+ {
+  "jmh_id": "JMH-112097-0025",
+  "name": "カタクリ・イカリソウの群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-07-01",
+  "municipality": "飯能市",
+  "location": "岩渕"
+ },
+ {
+  "jmh_id": "JMH-112097-0041",
+  "name": "竹寺のコウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1999-07-30",
+  "municipality": "飯能市",
+  "location": "南"
+ },
+ {
+  "jmh_id": "JMH-112321-0025",
+  "name": "善徳寺の木造阿弥陀如来立像 及 両脇侍像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "江面864"
+ },
+ {
+  "jmh_id": "JMH-112321-0062",
+  "name": "私立学校明倫館関係資料",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "江面"
+ },
+ {
+  "jmh_id": "JMH-112321-0060",
+  "name": "神道無念流戸賀崎練武道場関係資料",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市公文書館"
+ },
+ {
+  "jmh_id": "JMH-112321-0005",
+  "name": "上早見村古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市公文書館"
+ },
+ {
+  "jmh_id": "JMH-112321-0042",
+  "name": "木村家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "野久喜"
+ },
+ {
+  "jmh_id": "JMH-112321-0019",
+  "name": "内田家文書　付地租改正測量用具",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "埼玉県立文書館"
+ },
+ {
+  "jmh_id": "JMH-112321-0063",
+  "name": "茂木家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "除堀"
+ },
+ {
+  "jmh_id": "JMH-112321-0040",
+  "name": "早川家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市公文書館"
+ }
+]

@@ -1,0 +1,395 @@
+[
+ {
+  "jmh_id": "JMH-112160-0015",
+  "name": "亀田 鵬斉の書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0043",
+  "name": "薬師尊の額",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1985-08-01",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0044",
+  "name": "亀田鵬斉の為書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1989-07-11",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0013",
+  "name": "釈迦阿弥陀種板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "西"
+ },
+ {
+  "jmh_id": "JMH-112160-0007",
+  "name": "妙法蓮華経石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "南"
+ },
+ {
+  "jmh_id": "JMH-112160-0059",
+  "name": "永明寺古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2011-03-18",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0060",
+  "name": "小松古墳群1号墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2013-03-26",
+  "municipality": "羽生市",
+  "location": "大字下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0018",
+  "name": "小松神社算額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字小松"
+ },
+ {
+  "jmh_id": "JMH-112160-0047",
+  "name": "朝鮮使節来朝",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-07-11",
+  "municipality": "羽生市",
+  "location": "大字小松"
+ },
+ {
+  "jmh_id": "JMH-112160-0048",
+  "name": "河川改修図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-07-11",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0051",
+  "name": "上新郷西新田の隠居獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-17",
+  "municipality": "羽生市",
+  "location": "下羽生"
+ },
+ {
+  "jmh_id": "JMH-112160-0054",
+  "name": "中手小林野呂の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-17",
+  "municipality": "羽生市",
+  "location": "大字 中手子林"
+ },
+ {
+  "jmh_id": "JMH-112160-0055",
+  "name": "尾崎の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-17",
+  "municipality": "羽生市",
+  "location": "大字尾崎"
+ },
+ {
+  "jmh_id": "JMH-112160-0050",
+  "name": "上新郷中新田の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-17",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0052",
+  "name": "上村君の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-17",
+  "municipality": "羽生市",
+  "location": "大字上村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0053",
+  "name": "下手子林の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-17",
+  "municipality": "羽生市",
+  "location": "大字 下手子林"
+ },
+ {
+  "jmh_id": "JMH-112160-0056",
+  "name": "桑崎の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-03-17",
+  "municipality": "羽生市",
+  "location": "大字桑崎"
+ },
+ {
+  "jmh_id": "JMH-112160-0057",
+  "name": "八雲神社御輿渡御等行事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2007-03-19",
+  "municipality": "羽生市",
+  "location": "中央"
+ },
+ {
+  "jmh_id": "JMH-112160-0066",
+  "name": "本川俣の廻り地蔵",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2019-03-27",
+  "municipality": "羽生市",
+  "location": "大字本川俣"
+ },
+ {
+  "jmh_id": "JMH-112160-0001",
+  "name": "田舎教師の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1956-09-01",
+  "municipality": "羽生市",
+  "location": "南"
+ },
+ {
+  "jmh_id": "JMH-112160-0002",
+  "name": "岡田十松建立墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1956-09-27",
+  "municipality": "羽生市",
+  "location": "大字砂山"
+ },
+ {
+  "jmh_id": "JMH-112160-0003",
+  "name": "徳川家康鷹狩の跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1956-11-27",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0004",
+  "name": "堀田相模守生祠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1957-01-29",
+  "municipality": "羽生市",
+  "location": "北"
+ },
+ {
+  "jmh_id": "JMH-112160-0005",
+  "name": "松平大和守生祠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1957-01-29",
+  "municipality": "羽生市",
+  "location": "大字本川俣"
+ },
+ {
+  "jmh_id": "JMH-112160-0008",
+  "name": "森玉岡翁墓碣銘の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "西"
+ },
+ {
+  "jmh_id": "JMH-112160-0012",
+  "name": "羽生菅公廟梅樹記の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "東"
+ },
+ {
+  "jmh_id": "JMH-112160-0011",
+  "name": "清水誓信墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-09",
+  "municipality": "羽生市",
+  "location": "北"
+ },
+ {
+  "jmh_id": "JMH-112160-0031",
+  "name": "羽生城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-12-05",
+  "municipality": "羽生市",
+  "location": "東"
+ },
+ {
+  "jmh_id": "JMH-112160-0036",
+  "name": "葛西用水取入口跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-10-01",
+  "municipality": "羽生市",
+  "location": "大字本川俣"
+ },
+ {
+  "jmh_id": "JMH-112160-0046",
+  "name": "堀越家五輪塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1989-07-11",
+  "municipality": "羽生市",
+  "location": "大字 藤井上組"
+ },
+ {
+  "jmh_id": "JMH-112160-0049",
+  "name": "伝堀越館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2001-09-26",
+  "municipality": "羽生市",
+  "location": "大字 藤井上組"
+ },
+ {
+  "jmh_id": "JMH-112160-0014",
+  "name": "上新郷のシイノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-03-20",
+  "municipality": "羽生市",
+  "location": "大字上新郷"
+ },
+ {
+  "jmh_id": "JMH-112160-0030",
+  "name": "永明寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-06-26",
+  "municipality": "羽生市",
+  "location": "大字下村君"
+ },
+ {
+  "jmh_id": "JMH-112160-0029",
+  "name": "上岩瀬のシイノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-06-26",
+  "municipality": "羽生市",
+  "location": "大字上岩瀬"
+ },
+ {
+  "jmh_id": "JMH-112402-0008",
+  "name": "橘守部の書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1983-03-24",
+  "municipality": "幸手市"
+ },
+ {
+  "jmh_id": "JMH-112402-0001",
+  "name": "マリア地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1983-03-24",
+  "municipality": "幸手市"
+ },
+ {
+  "jmh_id": "JMH-112402-0002",
+  "name": "下川崎石投げ踊り",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-03-24",
+  "municipality": "幸手市"
+ },
+ {
+  "jmh_id": "JMH-112402-0003",
+  "name": "千塚ささら獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-03-24",
+  "municipality": "幸手市"
+ },
+ {
+  "jmh_id": "JMH-112402-0007",
+  "name": "松石ささら獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1983-03-24",
+  "municipality": "幸手市"
+ },
+ {
+  "jmh_id": "JMH-112402-0011",
+  "name": "高須賀大杉ばやし",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-03-24",
+  "municipality": "幸手市"
+ }
+]

@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-113638-0019",
+  "name": "法善寺のアラカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "井戸４７６"
+ },
+ {
+  "jmh_id": "JMH-113638-0022",
+  "name": "玉泉寺のタラヨウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞１８２７"
+ },
+ {
+  "jmh_id": "JMH-113638-0008",
+  "name": "宝登山神社の相生の松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞１８２７"
+ },
+ {
+  "jmh_id": "JMH-112275-0026",
+  "name": "柊塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2002-03-22",
+  "municipality": "朝霞市",
+  "location": "岡（朝霞市他）"
+ },
+ {
+  "jmh_id": "JMH-112275-0032",
+  "name": "絵画",
+  "category": "有形文化財",
+  "subcategory": "指定有形文化財",
+  "designation": "市指定",
+  "municipality": "朝霞市",
+  "location": "絹本着色両界曼荼羅"
+ },
+ {
+  "jmh_id": "JMH-112275-0020",
+  "name": "泉蔵寺銅鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "朝霞市",
+  "location": "溝沼（泉蔵寺）"
+ },
+ {
+  "jmh_id": "JMH-112275-0008",
+  "name": "溝沼獅子舞用具",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "溝沼（金子家）"
+ },
+ {
+  "jmh_id": "JMH-112275-0023",
+  "name": "鉄造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1994-03-25",
+  "municipality": "朝霞市",
+  "location": "根岸台（台雲寺）"
+ },
+ {
+  "jmh_id": "JMH-112275-0029",
+  "name": "木造十一面観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2015-08-20",
+  "municipality": "朝霞市",
+  "location": "岡（東圓寺）"
+ },
+ {
+  "jmh_id": "JMH-112275-0030",
+  "name": "木造女神坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2015-08-20",
+  "municipality": "朝霞市",
+  "location": "岡（東圓寺）"
+ },
+ {
+  "jmh_id": "JMH-112275-0003",
+  "name": "山岡鉄舟扁額",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "岡（朝一小・博物館保管）"
+ },
+ {
+  "jmh_id": "JMH-112275-0010",
+  "name": "相沢家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0002",
+  "name": "内田家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0006",
+  "name": "消防日誌",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0009",
+  "name": "町名改称許可書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "岡（朝霞市）"
+ },
+ {
+  "jmh_id": "JMH-112275-0021",
+  "name": "牛山家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "朝霞市",
+  "location": "膝折町（牛山家）"
+ },
+ {
+  "jmh_id": "JMH-112275-0017",
+  "name": "塩味家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "朝霞市",
+  "location": "溝沼（塩味家）"
+ },
+ {
+  "jmh_id": "JMH-112275-0018",
+  "name": "奥住家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0019",
+  "name": "比留間家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "朝霞市",
+  "location": "岡（比留間家）"
+ },
+ {
+  "jmh_id": "JMH-112275-0024",
+  "name": "元禄七年秣場争論裁許絵図",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1995-02-23",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0005",
+  "name": "泉水遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0001",
+  "name": "六道地蔵尊",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "三原（六道地蔵尊保存会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0013",
+  "name": "一乗院の板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1975-03-17",
+  "municipality": "朝霞市",
+  "location": "膝折町（一乗院）"
+ },
+ {
+  "jmh_id": "JMH-112275-0015",
+  "name": "東圓寺の板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1975-03-17",
+  "municipality": "朝霞市",
+  "location": "岡（東圓寺）"
+ },
+ {
+  "jmh_id": "JMH-112275-0028",
+  "name": "一夜塚古墳出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2012-09-01",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0031",
+  "name": "泉水山・富士谷遺跡出土浅鉢形土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2021-02-18",
+  "municipality": "朝霞市",
+  "location": "岡（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0025",
+  "name": "内間木神社大絵馬",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-02-01",
+  "municipality": "朝霞市",
+  "location": "岡（内間木神社・博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-112275-0007",
+  "name": "溝沼獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "溝沼（溝沼獅子舞保存会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0016",
+  "name": "根岸野謡",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-03-17",
+  "municipality": "朝霞市",
+  "location": "根岸台（根岸野謡保存会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0004",
+  "name": "広沢の池",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "栄町（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0011",
+  "name": "郷戸遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-01",
+  "municipality": "朝霞市",
+  "location": "根岸台（渡辺家）"
+ },
+ {
+  "jmh_id": "JMH-112275-0022",
+  "name": "二本松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1983-11-09",
+  "municipality": "朝霞市",
+  "location": "本町（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112275-0014",
+  "name": "夏ぐみ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-03-17",
+  "municipality": "朝霞市",
+  "location": "根岸台（石原家）"
+ },
+ {
+  "jmh_id": "JMH-112275-0012",
+  "name": "ゆず",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-03-17",
+  "municipality": "朝霞市",
+  "location": "根岸台（高橋家）"
+ },
+ {
+  "jmh_id": "JMH-112275-0027",
+  "name": "湧水代官水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2010-09-01",
+  "municipality": "朝霞市",
+  "location": "岡（朝霞市他）"
+ },
+ {
+  "jmh_id": "JMH-112071-0074",
+  "name": "聖神社社殿(元今宮神社本殿)",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1965-01-25",
+  "municipality": "秩父市",
+  "location": "黒谷2191"
+ },
+ {
+  "jmh_id": "JMH-112071-0082",
+  "name": "旧大宮学校校舎",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1969-01-08",
+  "municipality": "秩父市",
+  "location": "秩父市"
+ },
+ {
+  "jmh_id": "JMH-112071-0118",
+  "name": "内田家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-01-08",
+  "municipality": "秩父市",
+  "location": "黒谷299"
+ },
+ {
+  "jmh_id": "JMH-112071-0159",
+  "name": "こまり門 付左右そで塀",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1989-10-23",
+  "municipality": "秩父市",
+  "location": "大野原897"
+ },
+ {
+  "jmh_id": "JMH-112071-0181",
+  "name": "大林山廣見寺惣門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003-01-24",
+  "municipality": "秩父市",
+  "location": "下宮地町5349ほか"
+ }
+]

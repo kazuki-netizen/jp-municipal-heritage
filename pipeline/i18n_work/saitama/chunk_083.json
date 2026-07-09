@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112178-0021",
+  "name": "箕田碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1961-07-11",
+  "municipality": "鴻巣市",
+  "location": "箕田（氷川八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0026",
+  "name": "法要寺の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1962-08-16",
+  "municipality": "鴻巣市",
+  "location": "本町（法要寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0024",
+  "name": "吉見道みちしるべ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1962-08-16",
+  "municipality": "鴻巣市",
+  "location": "人形"
+ },
+ {
+  "jmh_id": "JMH-112178-0027",
+  "name": "道永の板碑2基",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1962-08-16",
+  "municipality": "鴻巣市",
+  "location": "箕田"
+ },
+ {
+  "jmh_id": "JMH-112178-0025",
+  "name": "常勝寺密教法具",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1962-08-16",
+  "municipality": "鴻巣市",
+  "location": "滝馬室（常勝寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0023",
+  "name": "三ツ木神社の大欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1962-08-16",
+  "municipality": "鴻巣市",
+  "location": "三ツ木（三ツ木神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0029",
+  "name": "蘭渓堂碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1965-06-14",
+  "municipality": "鴻巣市",
+  "location": "加美（池元院）"
+ },
+ {
+  "jmh_id": "JMH-112178-0032",
+  "name": "人物埴輪頭部",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "中央（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0038",
+  "name": "箕田9号墳出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "中央（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0046",
+  "name": "馬室小学校校地内出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "中央（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0039",
+  "name": "箕田古墳群（箕田2号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "箕田（氷川八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0040",
+  "name": "箕田古墳群（箕田4号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "箕田"
+ },
+ {
+  "jmh_id": "JMH-112178-0041",
+  "name": "箕田古墳群（箕田5号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "箕田"
+ },
+ {
+  "jmh_id": "JMH-112178-0042",
+  "name": "箕田古墳群（箕田6号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "箕田"
+ },
+ {
+  "jmh_id": "JMH-112178-0043",
+  "name": "箕田古墳群（箕田7号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "箕田"
+ },
+ {
+  "jmh_id": "JMH-112178-0044",
+  "name": "箕田古墳群（箕田8号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "箕田"
+ },
+ {
+  "jmh_id": "JMH-112178-0045",
+  "name": "箕田古墳群（箕田9号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "宮前（氷川八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0035",
+  "name": "弁財天塑像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "安養寺"
+ },
+ {
+  "jmh_id": "JMH-112178-0034",
+  "name": "康安二年六地蔵板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "登戸（勝願寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0033",
+  "name": "大雲文龍書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "安養寺（安龍寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0037",
+  "name": "滝馬室的祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "滝馬室（氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0036",
+  "name": "松村篁雨墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-03-10",
+  "municipality": "鴻巣市",
+  "location": "上谷（観音堂）"
+ },
+ {
+  "jmh_id": "JMH-112178-0051",
+  "name": "三ツ木神社の算額(絵馬)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-03-01",
+  "municipality": "鴻巣市",
+  "location": "三ツ木（三ツ木神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0053",
+  "name": "薬師堂の算額(絵馬)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-03-01",
+  "municipality": "鴻巣市",
+  "location": "上谷（薬師堂）"
+ },
+ {
+  "jmh_id": "JMH-112178-0052",
+  "name": "八幡神社の算額(絵馬)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-03-01",
+  "municipality": "鴻巣市",
+  "location": "安養寺（八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0061",
+  "name": "神酒枠一組",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-04-01",
+  "municipality": "鴻巣市",
+  "location": "中央（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0064",
+  "name": "山車人形一対",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "鴻巣市",
+  "location": "雷電（雷電町町内会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0066",
+  "name": "氷川神社本殿一宇",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1993-10-01",
+  "municipality": "鴻巣市",
+  "location": "糠田（氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0067",
+  "name": "朱印状11通",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1994-03-01",
+  "municipality": "鴻巣市",
+  "location": "箕田（龍昌寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0072",
+  "name": "絹本着色両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1996-03-28",
+  "municipality": "鴻巣市",
+  "location": "箕田（龍昌寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0073",
+  "name": "糠田出土渥美壺1点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1999-03-24",
+  "municipality": "鴻巣市",
+  "location": "糠田（放光寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0078",
+  "name": "加藤政之助書4幅",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2002-05-23",
+  "municipality": "鴻巣市",
+  "location": "中央（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0079",
+  "name": "鴻巣の木遣り・纏振り・梯子乗り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-07-27",
+  "municipality": "鴻巣市",
+  "location": "中央（鴻巣地区鳶職組合）"
+ },
+ {
+  "jmh_id": "JMH-112178-0003",
+  "name": "仁治三年双方式板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "小谷（金乗寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0007",
+  "name": "前砂の板碑群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "前砂（龍昌寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0012",
+  "name": "建長五年板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "明用"
+ },
+ {
+  "jmh_id": "JMH-112178-0010",
+  "name": "宝治二年板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "鎌塚（宝蔵院）"
+ },
+ {
+  "jmh_id": "JMH-112178-0013",
+  "name": "愛宕山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "下忍（愛宕神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0001",
+  "name": "三島神社古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "明用（三島神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0011",
+  "name": "小谷城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "小谷"
+ }
+]

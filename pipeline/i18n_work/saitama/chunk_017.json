@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-112020-0230",
+  "name": "上新田屋台囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-12-03",
+  "municipality": "熊谷市",
+  "location": "上新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0233",
+  "name": "押切ささら獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-12-03",
+  "municipality": "熊谷市",
+  "location": "押切"
+ },
+ {
+  "jmh_id": "JMH-112020-0237",
+  "name": "熊谷八坂神社祭礼行事 （熊谷うちわ祭）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-30",
+  "municipality": "熊谷市"
+ },
+ {
+  "jmh_id": "JMH-112020-0023",
+  "name": "陣屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-112020-0013",
+  "name": "札の辻跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-112020-0012",
+  "name": "本陣跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-112020-0001",
+  "name": "一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "新島257-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0018",
+  "name": "玉井四郎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "玉井1888"
+ },
+ {
+  "jmh_id": "JMH-112020-0003",
+  "name": "元素楼跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "玉井"
+ },
+ {
+  "jmh_id": "JMH-112020-0027",
+  "name": "奈良三郎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "熊谷市",
+  "location": "上奈良702"
+ },
+ {
+  "jmh_id": "JMH-112020-0055",
+  "name": "行人塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "成沢822"
+ },
+ {
+  "jmh_id": "JMH-112020-0067",
+  "name": "成田氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "上之336"
+ },
+ {
+  "jmh_id": "JMH-112020-0092",
+  "name": "竹井澹如翁碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "万平町1-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0089",
+  "name": "大塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "大塚365"
+ },
+ {
+  "jmh_id": "JMH-112020-0104",
+  "name": "西別府館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "西別府"
+ },
+ {
+  "jmh_id": "JMH-112020-0125",
+  "name": "成田氏館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "上之545-3"
+ },
+ {
+  "jmh_id": "JMH-112020-0135",
+  "name": "横塚山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-09-11",
+  "municipality": "熊谷市",
+  "location": "中奈良"
+ },
+ {
+  "jmh_id": "JMH-112020-0139",
+  "name": "荻野吟子生誕之地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-11-03",
+  "municipality": "熊谷市",
+  "location": "俵瀬580"
+ },
+ {
+  "jmh_id": "JMH-112020-0144",
+  "name": "権田愛三墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-11-03",
+  "municipality": "熊谷市",
+  "location": "東別府"
+ },
+ {
+  "jmh_id": "JMH-112020-0149",
+  "name": "天野氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-11-03",
+  "municipality": "熊谷市",
+  "location": "上中条1160"
+ },
+ {
+  "jmh_id": "JMH-112020-0151",
+  "name": "斎藤別当実盛館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-09-13",
+  "municipality": "熊谷市",
+  "location": "西野"
+ },
+ {
+  "jmh_id": "JMH-112020-0172",
+  "name": "殉職された避難病院看護婦の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "小泉17"
+ },
+ {
+  "jmh_id": "JMH-112020-0159",
+  "name": "亀井の井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "相上"
+ },
+ {
+  "jmh_id": "JMH-112020-0162",
+  "name": "寺門静軒の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "冑山"
+ },
+ {
+  "jmh_id": "JMH-112020-0164",
+  "name": "小島直次郎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "相上"
+ },
+ {
+  "jmh_id": "JMH-112020-0156",
+  "name": "三餘堂跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "冑山"
+ },
+ {
+  "jmh_id": "JMH-112020-0155",
+  "name": "一本松跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "上恩田"
+ },
+ {
+  "jmh_id": "JMH-112020-0184",
+  "name": "竹井澹如墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-11-03",
+  "municipality": "熊谷市",
+  "location": "大原"
+ },
+ {
+  "jmh_id": "JMH-112020-0183",
+  "name": "林有章墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-11-03",
+  "municipality": "熊谷市",
+  "location": "大原"
+ },
+ {
+  "jmh_id": "JMH-112020-0185",
+  "name": "酒井天外墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1981-11-03",
+  "municipality": "熊谷市",
+  "location": "大原"
+ },
+ {
+  "jmh_id": "JMH-112020-0194",
+  "name": "両宜塾跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-10-26",
+  "municipality": "熊谷市",
+  "location": "妻沼"
+ },
+ {
+  "jmh_id": "JMH-112020-0208",
+  "name": "高根横穴墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "小江川"
+ },
+ {
+  "jmh_id": "JMH-112020-0212",
+  "name": "寺内古代寺院跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-02-10",
+  "municipality": "熊谷市",
+  "location": "柴305他"
+ },
+ {
+  "jmh_id": "JMH-112020-0213",
+  "name": "権現坂埴輪窯跡群（西群）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-02-10",
+  "municipality": "熊谷市",
+  "location": "千代"
+ },
+ {
+  "jmh_id": "JMH-112020-0250",
+  "name": "集福寺境内・建造物群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2022-07-05",
+  "municipality": "熊谷市",
+  "location": "下奈良５５１"
+ },
+ {
+  "jmh_id": "JMH-112020-0009",
+  "name": "星溪園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "鎌倉町32"
+ },
+ {
+  "jmh_id": "JMH-112020-0025",
+  "name": "三尻観音山",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "熊谷市",
+  "location": "三ヶ尻3712"
+ },
+ {
+  "jmh_id": "JMH-112020-0046",
+  "name": "崋山築庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "押切"
+ },
+ {
+  "jmh_id": "JMH-112020-0158",
+  "name": "中の渕",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "小八林"
+ },
+ {
+  "jmh_id": "JMH-112020-0161",
+  "name": "切れ所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "小泉"
+ }
+]

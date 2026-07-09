@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112020-0051",
+  "name": "柴田家 書院",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "上新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0112",
+  "name": "四脚門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "妻沼1511"
+ },
+ {
+  "jmh_id": "JMH-112020-0169",
+  "name": "根岸家長屋門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "冑山152"
+ },
+ {
+  "jmh_id": "JMH-112020-0160",
+  "name": "冑山神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "冑山"
+ },
+ {
+  "jmh_id": "JMH-112020-0209",
+  "name": "上之村神社鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1997-11-03",
+  "municipality": "熊谷市",
+  "location": "上之16"
+ },
+ {
+  "jmh_id": "JMH-112020-0243",
+  "name": "赤城久伊豆神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2018-03-30",
+  "municipality": "熊谷市",
+  "location": "石原1007"
+ },
+ {
+  "jmh_id": "JMH-112020-0242",
+  "name": "常光院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2018-03-30",
+  "municipality": "熊谷市",
+  "location": "上中条1160"
+ },
+ {
+  "jmh_id": "JMH-112020-0246",
+  "name": "長慶寺本堂・薬師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2020-08-28",
+  "municipality": "熊谷市",
+  "location": "西城93-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0019",
+  "name": "直実挙扇の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0022",
+  "name": "野道",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "高柳"
+ },
+ {
+  "jmh_id": "JMH-112020-0016",
+  "name": "河童",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "高柳"
+ },
+ {
+  "jmh_id": "JMH-112020-0024",
+  "name": "風景",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "高柳"
+ },
+ {
+  "jmh_id": "JMH-112020-0002",
+  "name": "丘と水田",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "高柳"
+ },
+ {
+  "jmh_id": "JMH-112020-0005",
+  "name": "大学構内",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "高柳"
+ },
+ {
+  "jmh_id": "JMH-112020-0021",
+  "name": "裸婦",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "高柳"
+ },
+ {
+  "jmh_id": "JMH-112020-0006",
+  "name": "尾瀬沼",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "久保島"
+ },
+ {
+  "jmh_id": "JMH-112020-0015",
+  "name": "水田",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "久保島"
+ },
+ {
+  "jmh_id": "JMH-112020-0004",
+  "name": "垂楊桃花の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "上之"
+ },
+ {
+  "jmh_id": "JMH-112020-0010",
+  "name": "春江群牛の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "中西"
+ },
+ {
+  "jmh_id": "JMH-112020-0017",
+  "name": "渓山春色の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "河原町"
+ },
+ {
+  "jmh_id": "JMH-112020-0014",
+  "name": "桐戸の絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "上中条"
+ },
+ {
+  "jmh_id": "JMH-112020-0029",
+  "name": "芭蕉大和上りの図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "熊谷市",
+  "location": "三ヶ尻"
+ },
+ {
+  "jmh_id": "JMH-112020-0028",
+  "name": "絵手本",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "熊谷市",
+  "location": "三ヶ尻"
+ },
+ {
+  "jmh_id": "JMH-112020-0043",
+  "name": "黒馬図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "上川上36"
+ },
+ {
+  "jmh_id": "JMH-112020-0039",
+  "name": "蒼松錦鶏の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "平塚新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0069",
+  "name": "業平東下りの図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "東別府799"
+ },
+ {
+  "jmh_id": "JMH-112020-0076",
+  "name": "釈迦聞経の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "本石"
+ },
+ {
+  "jmh_id": "JMH-112020-0075",
+  "name": "釈迦",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "本石"
+ },
+ {
+  "jmh_id": "JMH-112020-0090",
+  "name": "水鳥の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "石原"
+ },
+ {
+  "jmh_id": "JMH-112020-0086",
+  "name": "三山馬元欽山水画幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "玉井"
+ },
+ {
+  "jmh_id": "JMH-112020-0085",
+  "name": "すき髪",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "久保島"
+ },
+ {
+  "jmh_id": "JMH-112020-0099",
+  "name": "山水画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "村岡"
+ },
+ {
+  "jmh_id": "JMH-112020-0116",
+  "name": "能護寺内陣格天井の絵画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "永井太田1141"
+ },
+ {
+  "jmh_id": "JMH-112020-0110",
+  "name": "八幡神社古絵図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "妻沼"
+ },
+ {
+  "jmh_id": "JMH-112020-0119",
+  "name": "人物画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "玉井"
+ },
+ {
+  "jmh_id": "JMH-112020-0120",
+  "name": "天海像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "上中条1160"
+ },
+ {
+  "jmh_id": "JMH-112020-0122",
+  "name": "家康像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "上中条1160"
+ },
+ {
+  "jmh_id": "JMH-112020-0117",
+  "name": "不動明王",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "太井2248"
+ },
+ {
+  "jmh_id": "JMH-112020-0118",
+  "name": "乞食",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0123",
+  "name": "小春日和り",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ }
+]

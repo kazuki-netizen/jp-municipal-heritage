@@ -1,0 +1,394 @@
+[
+ {
+  "jmh_id": "JMH-112291-0017",
+  "name": "越後山遺跡出土ヒスイ大珠",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "和光市"
+ },
+ {
+  "jmh_id": "JMH-112291-0018",
+  "name": "越後山遺跡出土種子圧痕土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "和光市"
+ },
+ {
+  "jmh_id": "JMH-112411-0005",
+  "name": "高倉高福寺不動明王画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1986-01-23",
+  "municipality": "鶴ヶ島市",
+  "location": "高倉高福寺跡"
+ },
+ {
+  "jmh_id": "JMH-112411-0006",
+  "name": "脚折白鬚神社十一面観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1987-12-24",
+  "municipality": "鶴ヶ島市",
+  "location": "脚折白鬚神社"
+ },
+ {
+  "jmh_id": "JMH-112411-0007",
+  "name": "上新田六角塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-27",
+  "municipality": "鶴ヶ島市",
+  "location": "上新田"
+ },
+ {
+  "jmh_id": "JMH-112411-0009",
+  "name": "白鬚神社棟札及び銘札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1994-02-24",
+  "municipality": "鶴ヶ島市",
+  "location": "脚折白鬚神社"
+ },
+ {
+  "jmh_id": "JMH-112411-0008",
+  "name": "善能寺鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-02-24",
+  "municipality": "鶴ヶ島市",
+  "location": "脚折善能寺"
+ },
+ {
+  "jmh_id": "JMH-112411-0011",
+  "name": "銅製楓紋散双雀鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-04-26",
+  "municipality": "鶴ヶ島市",
+  "location": "脚折白鬚神社"
+ },
+ {
+  "jmh_id": "JMH-112411-0013",
+  "name": "才道木日光街道道しるべ",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-03-08",
+  "municipality": "鶴ヶ島市"
+ },
+ {
+  "jmh_id": "JMH-112411-0014",
+  "name": "脚折村道しるべ",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2010-07-29",
+  "municipality": "鶴ヶ島市"
+ },
+ {
+  "jmh_id": "JMH-112411-0015",
+  "name": "若葉台遺跡及び羽折遺跡出土奈良三彩",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2022-08-24",
+  "municipality": "鶴ヶ島市"
+ },
+ {
+  "jmh_id": "JMH-112411-0001",
+  "name": "高倉獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-11-01",
+  "municipality": "鶴ヶ島市",
+  "location": "高倉日枝神社"
+ },
+ {
+  "jmh_id": "JMH-112411-0002",
+  "name": "脚折雨乞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-08-01",
+  "municipality": "鶴ヶ島市",
+  "location": "脚折白鬚神社"
+ },
+ {
+  "jmh_id": "JMH-112411-0010",
+  "name": "川崎平右衛門陣屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1996-03-21",
+  "municipality": "鶴ヶ島市",
+  "location": "高倉"
+ },
+ {
+  "jmh_id": "JMH-112411-0012",
+  "name": "地名「鶴ヶ島」発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2006-01-25",
+  "municipality": "鶴ヶ島市"
+ },
+ {
+  "jmh_id": "JMH-112411-0003",
+  "name": "三ツ木慈眼寺黒這松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-03-15",
+  "municipality": "鶴ヶ島市",
+  "location": "三ツ木慈眼寺"
+ },
+ {
+  "jmh_id": "JMH-112411-0004",
+  "name": "中新田神明社大桧",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1982-03-15",
+  "municipality": "鶴ヶ島市",
+  "location": "中新田神明社"
+ },
+ {
+  "jmh_id": "JMH-112194-0001",
+  "name": "上尾郷二賢堂跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-01",
+  "municipality": "上尾市",
+  "location": "氷川鍬神社"
+ },
+ {
+  "jmh_id": "JMH-112194-0003",
+  "name": "山崎武平治碩茂の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-01",
+  "municipality": "上尾市",
+  "location": "遍照院"
+ },
+ {
+  "jmh_id": "JMH-112194-0004",
+  "name": "松下豊前守房利の供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-01",
+  "municipality": "上尾市",
+  "location": "放光院"
+ },
+ {
+  "jmh_id": "JMH-112194-0006",
+  "name": "森朴斎碑と墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-01",
+  "municipality": "上尾市",
+  "location": "観音堂"
+ },
+ {
+  "jmh_id": "JMH-112194-0007",
+  "name": "西尾隠岐守一族累代の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-01",
+  "municipality": "上尾市",
+  "location": "妙厳寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0002",
+  "name": "伊藤由哉碑と墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-01",
+  "municipality": "上尾市",
+  "location": "妙厳寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0005",
+  "name": "柴田七九郎父子の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-01",
+  "municipality": "上尾市",
+  "location": "今泉共同墓地"
+ },
+ {
+  "jmh_id": "JMH-112194-0008",
+  "name": "十一面観世音菩薩坐像 付 胎内仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "清真寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0013",
+  "name": "相頓寺三仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "相頓寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0014",
+  "name": "絹本着色不動明王図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "星野家"
+ },
+ {
+  "jmh_id": "JMH-112194-0009",
+  "name": "十一面観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "日乗院"
+ },
+ {
+  "jmh_id": "JMH-112194-0011",
+  "name": "日光・月光菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "密蔵院"
+ },
+ {
+  "jmh_id": "JMH-112194-0010",
+  "name": "十二神将立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "密蔵院"
+ },
+ {
+  "jmh_id": "JMH-112194-0015",
+  "name": "銅造阿弥陀如来および両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "小林寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0012",
+  "name": "氷川神社本殿彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-01-01",
+  "municipality": "上尾市",
+  "location": "氷川神社"
+ },
+ {
+  "jmh_id": "JMH-112194-0016",
+  "name": "慶安の禁札",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1961-01-21",
+  "municipality": "上尾市",
+  "location": "十連寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0017",
+  "name": "車地蔵",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1962-05-05",
+  "municipality": "上尾市",
+  "location": "堤崎地区"
+ },
+ {
+  "jmh_id": "JMH-112194-0019",
+  "name": "月待供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1964-03-01",
+  "municipality": "上尾市",
+  "location": "大悲庵"
+ },
+ {
+  "jmh_id": "JMH-112194-0020",
+  "name": "月待供養塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1964-03-01",
+  "municipality": "上尾市",
+  "location": "小川家"
+ },
+ {
+  "jmh_id": "JMH-112194-0018",
+  "name": "弘長板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1964-03-01",
+  "municipality": "上尾市",
+  "location": "楞厳寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0023",
+  "name": "紙本着色釈迦三尊像図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "上尾市",
+  "location": "馬蹄寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0022",
+  "name": "家康朱印状等古文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "上尾市",
+  "location": "徳星寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0021",
+  "name": "古墳出土銅鏡",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "上尾市",
+  "location": "新藤家"
+ }
+]

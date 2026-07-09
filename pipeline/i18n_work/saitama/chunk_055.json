@@ -1,0 +1,372 @@
+[
+ {
+  "jmh_id": "JMH-113417-0017",
+  "name": "岩屋塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1986-03-31",
+  "municipality": "滑川町",
+  "location": "羽尾"
+ },
+ {
+  "jmh_id": "JMH-113417-0020",
+  "name": "大堀西窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-03-31",
+  "municipality": "滑川町",
+  "location": "月輪"
+ },
+ {
+  "jmh_id": "JMH-113417-0024",
+  "name": "下福田ささら獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "2014-07-17",
+  "municipality": "滑川町",
+  "location": "福田（熊野神社）"
+ },
+ {
+  "jmh_id": "JMH-113417-0026",
+  "name": "月輪獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "2014-07-17",
+  "municipality": "滑川町",
+  "location": "月輪（月輪神社）"
+ },
+ {
+  "jmh_id": "JMH-113417-0025",
+  "name": "家形埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2014-07-17",
+  "municipality": "滑川町",
+  "location": "福田"
+ },
+ {
+  "jmh_id": "JMH-113417-0028",
+  "name": "花気窯跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2015-07-17",
+  "municipality": "滑川町",
+  "location": "中尾"
+ },
+ {
+  "jmh_id": "JMH-113417-0027",
+  "name": "成安寺朱印状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2015-07-17",
+  "municipality": "滑川町",
+  "location": "福田"
+ },
+ {
+  "jmh_id": "JMH-113417-0029",
+  "name": "貞享四年裁許状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2017-09-14",
+  "municipality": "滑川町",
+  "location": "福田"
+ },
+ {
+  "jmh_id": "JMH-113417-0032",
+  "name": "高柳家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "滑川町",
+  "location": "福田"
+ },
+ {
+  "jmh_id": "JMH-113417-0030",
+  "name": "大塚家史料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2022-09-06",
+  "municipality": "滑川町",
+  "location": "福田"
+ },
+ {
+  "jmh_id": "JMH-113417-0031",
+  "name": "太政官高札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2023-09-14",
+  "municipality": "滑川町",
+  "location": "福田"
+ },
+ {
+  "jmh_id": "JMH-113638-0006",
+  "name": "多宝寺奉納絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "本野上４０"
+ },
+ {
+  "jmh_id": "JMH-113638-0023",
+  "name": "玉泉寺天井絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞１８２７"
+ },
+ {
+  "jmh_id": "JMH-113638-0024",
+  "name": "玉泉寺欄間彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞１８２７"
+ },
+ {
+  "jmh_id": "JMH-113638-0021",
+  "name": "法善寺欄間彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "井戸４７６"
+ },
+ {
+  "jmh_id": "JMH-113638-0013",
+  "name": "役行者像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "野上下郷２３２３"
+ },
+ {
+  "jmh_id": "JMH-113638-0002",
+  "name": "中林得常遺品",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "本野上地内"
+ },
+ {
+  "jmh_id": "JMH-113638-0004",
+  "name": "北条氏邦感状及び印判状",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "本野上地内"
+ },
+ {
+  "jmh_id": "JMH-113638-0014",
+  "name": "持田鹿之助日記",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "井戸１３１"
+ },
+ {
+  "jmh_id": "JMH-113638-0001",
+  "name": "万福寺宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "中野上万福寺墓地内"
+ },
+ {
+  "jmh_id": "JMH-113638-0012",
+  "name": "嶋田家宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "本野上総持寺墓地内"
+ },
+ {
+  "jmh_id": "JMH-113638-0027",
+  "name": "積蔵院青石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "井戸積蔵院墓地内"
+ },
+ {
+  "jmh_id": "JMH-113638-0026",
+  "name": "福田家青石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "野上下郷２８８７"
+ },
+ {
+  "jmh_id": "JMH-113638-0020",
+  "name": "法善寺の自然銅",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "井戸４７６"
+ },
+ {
+  "jmh_id": "JMH-113638-0025",
+  "name": "真性寺青石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "本野上４３６"
+ },
+ {
+  "jmh_id": "JMH-113638-0003",
+  "name": "光明寺青石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "野上下郷１９５２－１"
+ },
+ {
+  "jmh_id": "JMH-113638-0030",
+  "name": "長瀞第一小学校の青い目の人形",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞600-1"
+ },
+ {
+  "jmh_id": "JMH-113638-0031",
+  "name": "長瀞第二小学校の青い目の人形",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞600-1"
+ },
+ {
+  "jmh_id": "JMH-113638-0005",
+  "name": "唐沢獅子舞の獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞1153-2ほか"
+ },
+ {
+  "jmh_id": "JMH-113638-0007",
+  "name": "宝登山神楽",
+  "category": "無形文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞１８２７"
+ },
+ {
+  "jmh_id": "JMH-113638-0011",
+  "name": "岩田神楽",
+  "category": "無形文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "岩田１８８１"
+ },
+ {
+  "jmh_id": "JMH-113638-0032",
+  "name": "風布の回り念仏",
+  "category": "無形文化財",
+  "subcategory": "芸能",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "風布"
+ },
+ {
+  "jmh_id": "JMH-113638-0010",
+  "name": "小坂の厄除け念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "小坂区"
+ },
+ {
+  "jmh_id": "JMH-113638-0009",
+  "name": "宮沢繭初穂光明寺の厄除け念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "宮沢区"
+ },
+ {
+  "jmh_id": "JMH-113638-0015",
+  "name": "梁瀬のお精進",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "上長瀞区"
+ },
+ {
+  "jmh_id": "JMH-113638-0028",
+  "name": "荒神堂のお精進",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "長瀞上区"
+ },
+ {
+  "jmh_id": "JMH-113638-0029",
+  "name": "西浦採銅坑跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "井戸２１"
+ },
+ {
+  "jmh_id": "JMH-113638-0016",
+  "name": "横臥褶曲（菊水岩）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "風布１７６９－２"
+ },
+ {
+  "jmh_id": "JMH-113638-0018",
+  "name": "法善寺のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "井戸４７６"
+ },
+ {
+  "jmh_id": "JMH-113638-0017",
+  "name": "武野上神社の欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "長瀞町",
+  "location": "本野上１１１４"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-113620-0040",
+  "name": "塩旗の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野字塩旗1015"
+ },
+ {
+  "jmh_id": "JMH-113620-0046",
+  "name": "曽根坂一里塚の阿弥陀塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢字四万部山2752-1"
+ },
+ {
+  "jmh_id": "JMH-113620-0045",
+  "name": "曲木の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢字新林5380-1"
+ },
+ {
+  "jmh_id": "JMH-113620-0039",
+  "name": "出牛西福寺の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢字出牛196"
+ },
+ {
+  "jmh_id": "JMH-113620-0049",
+  "name": "石井家の一石五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢字新谷平2509-2"
+ },
+ {
+  "jmh_id": "JMH-113620-0038",
+  "name": "下田野西福寺の光明真言塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字下田野字寺ノ前1223-1"
+ },
+ {
+  "jmh_id": "JMH-113620-0048",
+  "name": "水戸征討記念碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢字枝ノ沢1753"
+ },
+ {
+  "jmh_id": "JMH-113620-0051",
+  "name": "薬師免の自然石板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢字小根4075-1"
+ },
+ {
+  "jmh_id": "JMH-113620-0052",
+  "name": "薬師免遺跡出土板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢627、正光寺"
+ },
+ {
+  "jmh_id": "JMH-113620-0042",
+  "name": "平有行の実名板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野1423"
+ },
+ {
+  "jmh_id": "JMH-113620-0037",
+  "name": "大澤家の石幢付像容の石堂、宝篋印塔残欠",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2000-10-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字野巻482"
+ },
+ {
+  "jmh_id": "JMH-113620-0030",
+  "name": "伝金崎古墳群出土直刀",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1993-05-28",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野1423"
+ },
+ {
+  "jmh_id": "JMH-113620-0032",
+  "name": "大背戸遺跡出土土製品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1993-05-28",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野1423"
+ },
+ {
+  "jmh_id": "JMH-113620-0031",
+  "name": "夏内遺跡出土長頸壷",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1993-05-28",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野1423"
+ },
+ {
+  "jmh_id": "JMH-113620-0035",
+  "name": "駒形遺跡出土線刻画のある土器片",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1993-05-28",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野1423"
+ },
+ {
+  "jmh_id": "JMH-113620-0033",
+  "name": "柳瀬古墳群１号墳出土鉄製品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1993-05-28",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野1423"
+ },
+ {
+  "jmh_id": "JMH-113620-0034",
+  "name": "駒形遺跡出土山形土偶",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1993-05-28",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野1423"
+ },
+ {
+  "jmh_id": "JMH-113620-0019",
+  "name": "持田家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢2136"
+ },
+ {
+  "jmh_id": "JMH-113620-0009",
+  "name": "関根家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1966-04-25",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢2078"
+ },
+ {
+  "jmh_id": "JMH-113620-0008",
+  "name": "金室家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1966-04-25",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字大淵492"
+ },
+ {
+  "jmh_id": "JMH-113620-0001",
+  "name": "宮前家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-10-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金崎102"
+ },
+ {
+  "jmh_id": "JMH-113620-0054",
+  "name": "赤城大神社の懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字下田野1352"
+ },
+ {
+  "jmh_id": "JMH-113620-0013",
+  "name": "円福寺十一面観音",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野293"
+ },
+ {
+  "jmh_id": "JMH-113620-0006",
+  "name": "薬王寺薬師三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1963-10-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字野巻186"
+ },
+ {
+  "jmh_id": "JMH-113620-0050",
+  "name": "萩神社の石鳥居",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢字天沢2647"
+ },
+ {
+  "jmh_id": "JMH-113620-0066",
+  "name": "皆野町及び周辺地域の灯火用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2021-01-25",
+  "municipality": "皆野町",
+  "location": "秩父郡皆野町大字皆野３６０２番地"
+ },
+ {
+  "jmh_id": "JMH-113620-0047",
+  "name": "武蔵川大治郎の碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢字六地蔵5795-1"
+ },
+ {
+  "jmh_id": "JMH-113620-0041",
+  "name": "岩下の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢字六地蔵2009-1先"
+ },
+ {
+  "jmh_id": "JMH-113620-0053",
+  "name": "諏訪平の己巳塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2002-12-26",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢字新平835-2"
+ },
+ {
+  "jmh_id": "JMH-113620-0012",
+  "name": "住吉社の大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢2696"
+ },
+ {
+  "jmh_id": "JMH-113620-0021",
+  "name": "正法寺観音堂の大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢1091"
+ },
+ {
+  "jmh_id": "JMH-113620-0005",
+  "name": "椋神社獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1963-10-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野238"
+ },
+ {
+  "jmh_id": "JMH-113620-0027",
+  "name": "門平の虫送り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字上日野沢門平地区"
+ },
+ {
+  "jmh_id": "JMH-113620-0024",
+  "name": "立沢の虫送り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字上日野沢立沢地区"
+ },
+ {
+  "jmh_id": "JMH-113620-0011",
+  "name": "下田野あんどんまち",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字下田野地区"
+ },
+ {
+  "jmh_id": "JMH-113620-0014",
+  "name": "出牛人形浄瑠璃",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字金沢出牛地区"
+ },
+ {
+  "jmh_id": "JMH-113620-0020",
+  "name": "日野沢大神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字下日野沢3543-2"
+ },
+ {
+  "jmh_id": "JMH-113620-0022",
+  "name": "皆野椋神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字皆野238"
+ },
+ {
+  "jmh_id": "JMH-113620-0010",
+  "name": "下三沢諏訪神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字三沢726"
+ },
+ {
+  "jmh_id": "JMH-113620-0025",
+  "name": "重木獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1984-04-01",
+  "municipality": "皆野町",
+  "location": "埼玉県秩父郡皆野町大字下日野沢重木地区"
+ }
+]

@@ -1,0 +1,340 @@
+[
+ {
+  "jmh_id": "JMH-112151-0012",
+  "name": "城山砦跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0006",
+  "name": "今宿遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0023",
+  "name": "影隠地蔵",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0041",
+  "name": "清水宗徳之墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0026",
+  "name": "旗本小笠原家墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0005",
+  "name": "下水野の地蔵尊",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0013",
+  "name": "堀兼之井",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0021",
+  "name": "広瀬神社の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0047",
+  "name": "笹井産出アケボノゾウ骨格化石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0056",
+  "name": "羽黒神社菩提樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0057",
+  "name": "西久保遺跡出土石器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-112151-0039",
+  "name": "注口付き壺形土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "狭山市"
+ },
+ {
+  "jmh_id": "JMH-113433-0080",
+  "name": "吉田家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "町指定",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0032",
+  "name": "石造法華経供養塔板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "町指定",
+  "designated_date": "1979-06-06",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0062",
+  "name": "比企城館跡群 小倉城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "町指定",
+  "designated_date": "2008-03-28",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0073",
+  "name": "下里・青山板碑製作遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "町指定",
+  "designated_date": "2014-10-06",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0031",
+  "name": "細川紙",
+  "category": "無形文化財",
+  "subcategory": "無形文化財（工芸技術）",
+  "designation": "町指定",
+  "designated_date": "1978-04-26",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0067",
+  "name": "八宮神社社殿及び青麻三光神社本殿付棟札4枚",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "町指定",
+  "designated_date": "2012-03-16",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0004",
+  "name": "穴八幡古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "町指定",
+  "designated_date": "1959-03-20",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0037",
+  "name": "腰越城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "町指定",
+  "designated_date": "1992-03-11",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0052",
+  "name": "四ツ山城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "町指定",
+  "designated_date": "2003-03-18",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0006",
+  "name": "諏訪神社奉祀跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（旧跡）",
+  "designation": "町指定",
+  "designated_date": "1961-09-01",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0005",
+  "name": "仙覚律師遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（旧跡）",
+  "designation": "町指定",
+  "designated_date": "1961-09-01",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0001",
+  "name": "堂平ヒカリゴケ自生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1931-03-31",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0002",
+  "name": "古寺鍾乳洞",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1936-03-31",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0003",
+  "name": "下里の大モミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1941-03-31",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0040",
+  "name": "下里のスダジイ林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1996-03-19",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0022",
+  "name": "武田信俊筆鷹絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "町指定",
+  "designated_date": "1978-03-17",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0026",
+  "name": "絹本着色徳川家康画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "町指定",
+  "designated_date": "1978-03-17",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0030",
+  "name": "龍谷薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1978-03-17",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0020",
+  "name": "東昌寺薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1978-03-17",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0069",
+  "name": "安照寺木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "2012-05-02",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0027",
+  "name": "諏訪神社鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "町指定",
+  "designated_date": "1978-03-17",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0047",
+  "name": "山岡鉄舟の白鳥神社の幟旗",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書跡）",
+  "designation": "町指定",
+  "designated_date": "2002-03-13",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0046",
+  "name": "山岡鉄舟の木呂子の幟旗（紙本）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書跡）",
+  "designation": "町指定",
+  "designated_date": "2002-03-13",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0009",
+  "name": "岡本家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "1963-03-12",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0012",
+  "name": "笠原家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "1963-03-12",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0013",
+  "name": "酒井家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "1963-03-12",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0011",
+  "name": "福島家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "1963-03-12",
+  "municipality": "小川町"
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-112119-0026",
+  "name": "円心寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市本庄3-3-2"
+ },
+ {
+  "jmh_id": "JMH-112119-0035",
+  "name": "安養院本堂・山門及び総門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央3-3-6"
+ },
+ {
+  "jmh_id": "JMH-112119-0082",
+  "name": "田村本陣の門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央1-2-3"
+ },
+ {
+  "jmh_id": "JMH-112119-0025",
+  "name": "八幡神社随身門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉198"
+ },
+ {
+  "jmh_id": "JMH-112119-0023",
+  "name": "八幡神社能楽殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉198"
+ },
+ {
+  "jmh_id": "JMH-112119-0084",
+  "name": "秋山十二天社社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町秋山3566"
+ },
+ {
+  "jmh_id": "JMH-112119-0055",
+  "name": "成身院百体観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平647"
+ },
+ {
+  "jmh_id": "JMH-112119-0088",
+  "name": "紙本着色武田信玄公画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央2-8-26"
+ },
+ {
+  "jmh_id": "JMH-112119-0103",
+  "name": "長泉寺開山堂格天井絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町高柳901"
+ },
+ {
+  "jmh_id": "JMH-112119-0038",
+  "name": "宮戸八幡大神社格天井の花鳥画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市宮戸107"
+ },
+ {
+  "jmh_id": "JMH-112119-0075",
+  "name": "武正南盧筆絵画一括",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市西富田"
+ },
+ {
+  "jmh_id": "JMH-112119-0089",
+  "name": "絹本着色愛染明王画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市本庄"
+ },
+ {
+  "jmh_id": "JMH-112119-0087",
+  "name": "紙本墨画鍾馗之図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市銀座"
+ },
+ {
+  "jmh_id": "JMH-112119-0102",
+  "name": "長泉寺木造延命地蔵尊半跏扶坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町高柳901"
+ },
+ {
+  "jmh_id": "JMH-112119-0079",
+  "name": "法養寺木造延命地蔵尊坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉1258"
+ },
+ {
+  "jmh_id": "JMH-112119-0059",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市牧西"
+ },
+ {
+  "jmh_id": "JMH-112119-0058",
+  "name": "木造阿弥陀如来三尊来迎仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市千代田"
+ },
+ {
+  "jmh_id": "JMH-112119-0083",
+  "name": "石仏十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市西五十子622-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0054",
+  "name": "成身院の三仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平647"
+ },
+ {
+  "jmh_id": "JMH-112119-0078",
+  "name": "法養寺の鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉1258"
+ },
+ {
+  "jmh_id": "JMH-112119-0056",
+  "name": "成身院百体観音堂の鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉647"
+ },
+ {
+  "jmh_id": "JMH-112119-0029",
+  "name": "唐銅造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平647"
+ },
+ {
+  "jmh_id": "JMH-112119-0104",
+  "name": "長谷部若狭守国治銘脇差",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市駅南"
+ },
+ {
+  "jmh_id": "JMH-112119-0031",
+  "name": "大正院の不動剣",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市本庄2-4-8"
+ },
+ {
+  "jmh_id": "JMH-112119-0007",
+  "name": "今井鈴木家中世文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市今井"
+ },
+ {
+  "jmh_id": "JMH-112119-0101",
+  "name": "長泉寺中世文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町高柳901"
+ },
+ {
+  "jmh_id": "JMH-112119-0019",
+  "name": "八幡山福田家中世文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町八幡山"
+ },
+ {
+  "jmh_id": "JMH-112119-0093",
+  "name": "金屋倉林家中世文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町金屋"
+ },
+ {
+  "jmh_id": "JMH-112119-0109",
+  "name": "飯倉富岡家中世文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町飯倉"
+ },
+ {
+  "jmh_id": "JMH-112119-0049",
+  "name": "小笠原忠貴筆建立祈願文",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市千代田3-2-3"
+ },
+ {
+  "jmh_id": "JMH-112119-0110",
+  "name": "高山彦九郎自筆墓前日記",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市銀座"
+ },
+ {
+  "jmh_id": "JMH-112119-0032",
+  "name": "天正十九年宮戸村検地帳（付金井家文書一括）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市宮戸"
+ },
+ {
+  "jmh_id": "JMH-112119-0053",
+  "name": "御手長山古墳出土人物埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央1-2-3"
+ },
+ {
+  "jmh_id": "JMH-112119-0042",
+  "name": "小島前の山古墳出土盾持人物埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央1-2-3"
+ },
+ {
+  "jmh_id": "JMH-112119-0003",
+  "name": "下浅見鷺山古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉2510-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0039",
+  "name": "寺山廃寺の風鐸",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央1-2-3"
+ },
+ {
+  "jmh_id": "JMH-112119-0074",
+  "name": "正観寺の算額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市都島864"
+ },
+ {
+  "jmh_id": "JMH-112119-0040",
+  "name": "小和瀬薬師堂自然石塔婆",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市小和瀬178"
+ },
+ {
+  "jmh_id": "JMH-112119-0106",
+  "name": "開善寺境内絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央2-8-26"
+ },
+ {
+  "jmh_id": "JMH-112119-0028",
+  "name": "和宮生母観行院よりの拝領品",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市銀座"
+ }
+]

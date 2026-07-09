@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112071-0108",
+  "name": "旧伊古田村高札場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971-03-12",
+  "municipality": "秩父市",
+  "location": "伊古田632"
+ },
+ {
+  "jmh_id": "JMH-112071-0113",
+  "name": "堀切の青石塔婆",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-01-20",
+  "municipality": "秩父市",
+  "location": "堀切476"
+ },
+ {
+  "jmh_id": "JMH-112071-0112",
+  "name": "冠石の青石塔婆",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-01-20",
+  "municipality": "秩父市",
+  "location": "浦山字冠岩1583"
+ },
+ {
+  "jmh_id": "JMH-112071-0114",
+  "name": "孤塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-01-20",
+  "municipality": "秩父市",
+  "location": "上影森794"
+ },
+ {
+  "jmh_id": "JMH-112071-0042",
+  "name": "太田部塚山古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-29",
+  "municipality": "秩父市",
+  "location": "吉田太田部1470"
+ },
+ {
+  "jmh_id": "JMH-112071-0044",
+  "name": "岩蔭の遺跡(彦久保岩陰遺跡)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-29",
+  "municipality": "秩父市",
+  "location": "吉田阿熊110"
+ },
+ {
+  "jmh_id": "JMH-112071-0047",
+  "name": "長福寺の芭蕉句碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-09-29",
+  "municipality": "秩父市",
+  "location": "下吉田1104"
+ },
+ {
+  "jmh_id": "JMH-112071-0078",
+  "name": "坂東彦五郎の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-04-13",
+  "municipality": "秩父市",
+  "location": "下吉田6690"
+ },
+ {
+  "jmh_id": "JMH-112071-0093",
+  "name": "万葉歌碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-09-24",
+  "municipality": "秩父市",
+  "location": "下吉田3833"
+ },
+ {
+  "jmh_id": "JMH-112071-0107",
+  "name": "麻生加番所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "秩父市",
+  "location": "大滝1316"
+ },
+ {
+  "jmh_id": "JMH-112071-0026",
+  "name": "翁塚 芭蕉句碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "秩父市",
+  "location": "荒川上田野1660"
+ },
+ {
+  "jmh_id": "JMH-112071-0126",
+  "name": "諸の高札場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-04-16",
+  "municipality": "秩父市",
+  "location": "荒川久那"
+ },
+ {
+  "jmh_id": "JMH-112071-0018",
+  "name": "即道終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "秩父市",
+  "location": "荒川鷲川738-2"
+ },
+ {
+  "jmh_id": "JMH-112071-0023",
+  "name": "清雲寺事件と大炊御門尊正の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "秩父市",
+  "location": "荒川上田野690"
+ },
+ {
+  "jmh_id": "JMH-112071-0179",
+  "name": "諸の翁塚(芭蕉句碑)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2000-10-25",
+  "municipality": "秩父市",
+  "location": "荒川久那3978"
+ },
+ {
+  "jmh_id": "JMH-112071-0041",
+  "name": "城峯山",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1964-09-29",
+  "municipality": "秩父市",
+  "location": "吉田石間"
+ },
+ {
+  "jmh_id": "JMH-112071-0177",
+  "name": "子ノ神の滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "2000-02-25",
+  "municipality": "秩父市",
+  "location": "下吉田7310-1地先ほか"
+ },
+ {
+  "jmh_id": "JMH-112071-0176",
+  "name": "金仙寺枝垂桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1998-03-25",
+  "municipality": "秩父市",
+  "location": "下影森6650"
+ },
+ {
+  "jmh_id": "JMH-112071-0006",
+  "name": "瑞岩寺山のツツジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-02-08",
+  "municipality": "秩父市",
+  "location": "黒谷1627ほか"
+ },
+ {
+  "jmh_id": "JMH-112071-0008",
+  "name": "秩父神社杣の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-02-08",
+  "municipality": "秩父市",
+  "location": "番場町1-1"
+ },
+ {
+  "jmh_id": "JMH-112071-0015",
+  "name": "滝坂のステゴビル",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1958-10-08",
+  "municipality": "秩父市",
+  "location": "上町"
+ },
+ {
+  "jmh_id": "JMH-112071-0037",
+  "name": "浦山のフクジュソウ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1960-06-08",
+  "municipality": "秩父市",
+  "location": "浦山宇唐沢"
+ },
+ {
+  "jmh_id": "JMH-112071-0040",
+  "name": "下蒔田のカヤの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1964-08-07",
+  "municipality": "秩父市",
+  "location": "蒔田835"
+ },
+ {
+  "jmh_id": "JMH-112071-0090",
+  "name": "上影森諏訪神社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-09-04",
+  "municipality": "秩父市",
+  "location": "諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-112071-0110",
+  "name": "熊野神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-04-06",
+  "municipality": "秩父市",
+  "location": "太田1320"
+ },
+ {
+  "jmh_id": "JMH-112071-0116",
+  "name": "金仙寺のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-01-20",
+  "municipality": "秩父市",
+  "location": "下影森6650"
+ },
+ {
+  "jmh_id": "JMH-112071-0127",
+  "name": "でんでい場のツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-07-17",
+  "municipality": "秩父市",
+  "location": "上宮地町4547"
+ },
+ {
+  "jmh_id": "JMH-112071-0142",
+  "name": "近戸の大ツツジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-08-22",
+  "municipality": "秩父市",
+  "location": "近戸町9-21"
+ },
+ {
+  "jmh_id": "JMH-112071-0141",
+  "name": "古屋敷のヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-08-22",
+  "municipality": "秩父市",
+  "location": "浦山1567"
+ },
+ {
+  "jmh_id": "JMH-112372-0002",
+  "name": "大銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "designated_date": "1975",
+  "municipality": "三郷市",
+  "location": "安養院（彦糸1－10）"
+ },
+ {
+  "jmh_id": "JMH-112372-0005",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1975",
+  "municipality": "三郷市",
+  "location": "戸ヶ崎香取神社（戸ヶ崎2－38－1）"
+ },
+ {
+  "jmh_id": "JMH-112372-0003",
+  "name": "観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975",
+  "municipality": "三郷市",
+  "location": "迎攝院（番匠免1－127－1）"
+ },
+ {
+  "jmh_id": "JMH-112372-0001",
+  "name": "二郷半囃子・里神楽",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975",
+  "municipality": "三郷市",
+  "location": "上口香取神社（上口1－74）"
+ },
+ {
+  "jmh_id": "JMH-112372-0004",
+  "name": "銅造十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1975",
+  "municipality": "三郷市",
+  "location": "石川徳利氏宅（茂田井）"
+ },
+ {
+  "jmh_id": "JMH-112372-0006",
+  "name": "十三仏青石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1975-11-11",
+  "municipality": "三郷市",
+  "location": "東光院（上口1－67）"
+ },
+ {
+  "jmh_id": "JMH-112372-0007",
+  "name": "木造不動明王立像（円能寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977",
+  "municipality": "三郷市",
+  "location": "円能寺（彦沢1－71－1）"
+ },
+ {
+  "jmh_id": "JMH-112372-0008",
+  "name": "木造阿弥陀如来立像（宝蓮寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977",
+  "municipality": "三郷市",
+  "location": "宝蓮寺（高州3－123－1）"
+ },
+ {
+  "jmh_id": "JMH-112372-0009",
+  "name": "三匹の獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978",
+  "municipality": "三郷市",
+  "location": "戸ヶ崎香取神社（戸ヶ崎2－38－1）"
+ },
+ {
+  "jmh_id": "JMH-112372-0010",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978",
+  "municipality": "三郷市",
+  "location": "光福院（早稲田8－15－13）"
+ },
+ {
+  "jmh_id": "JMH-112372-0011",
+  "name": "木造不動明王立像（円明院）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1980",
+  "municipality": "三郷市",
+  "location": "円明院（彦成1－179－1）"
+ }
+]

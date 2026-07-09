@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112178-0002",
+  "name": "不動尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "北新宿（永勝寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0005",
+  "name": "伝加納姫木像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "鎌塚（宝蔵院）"
+ },
+ {
+  "jmh_id": "JMH-112178-0014",
+  "name": "薬師三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "鎌塚（宝積院）"
+ },
+ {
+  "jmh_id": "JMH-112178-0004",
+  "name": "伊奈忠次黒印状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "北新宿（永勝寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0009",
+  "name": "大芦氷川神社の算額",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "大芦（大芦氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0006",
+  "name": "入定塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "北新宿（永勝寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0008",
+  "name": "千体仏",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-01-16",
+  "municipality": "鴻巣市",
+  "location": "関新田（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0028",
+  "name": "大芦ささら獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963-04-01",
+  "municipality": "鴻巣市",
+  "location": "大芦"
+ },
+ {
+  "jmh_id": "JMH-112178-0030",
+  "name": "小谷ささら獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1965-11-17",
+  "municipality": "鴻巣市",
+  "location": "小谷"
+ },
+ {
+  "jmh_id": "JMH-112178-0031",
+  "name": "観音寺の庚申塔群",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1965-11-17",
+  "municipality": "鴻巣市",
+  "location": "明用（観音寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0047",
+  "name": "嘉禎二年板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1971-09-01",
+  "municipality": "鴻巣市",
+  "location": "大芦（龍光寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0049",
+  "name": "高札12枚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1972-04-24",
+  "municipality": "鴻巣市",
+  "location": "前砂"
+ },
+ {
+  "jmh_id": "JMH-112178-0048",
+  "name": "忍領界石標",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1972-04-24",
+  "municipality": "鴻巣市",
+  "location": "前砂"
+ },
+ {
+  "jmh_id": "JMH-112178-0062",
+  "name": "権八地蔵とその物語",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-08-21",
+  "municipality": "鴻巣市",
+  "location": "荊原"
+ },
+ {
+  "jmh_id": "JMH-112178-0063",
+  "name": "玉芝短冊と俳諧図書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-08-21",
+  "municipality": "鴻巣市",
+  "location": "関新田（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0065",
+  "name": "石田堤",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1993-05-17",
+  "municipality": "鴻巣市",
+  "location": "袋（市）"
+ },
+ {
+  "jmh_id": "JMH-112178-0080",
+  "name": "高崎線開業当初のレール（3点）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-08-26",
+  "municipality": "鴻巣市",
+  "location": "関新田（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0050",
+  "name": "広田のささら",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-12-19",
+  "municipality": "鴻巣市",
+  "location": "広田"
+ },
+ {
+  "jmh_id": "JMH-112178-0055",
+  "name": "雲祥寺の梵音具（梵鐘・雲版）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-09-20",
+  "municipality": "鴻巣市",
+  "location": "上会下"
+ },
+ {
+  "jmh_id": "JMH-112178-0054",
+  "name": "新井家の大榎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-09-20",
+  "municipality": "鴻巣市",
+  "location": "広田"
+ },
+ {
+  "jmh_id": "JMH-112178-0059",
+  "name": "真福寺不動明王",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-03-09",
+  "municipality": "鴻巣市",
+  "location": "屈巣（真福寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0056",
+  "name": "忍領界石標",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-03-09",
+  "municipality": "鴻巣市",
+  "location": "屈巣（久伊豆神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0060",
+  "name": "長松寺の大般若経",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-03-09",
+  "municipality": "鴻巣市",
+  "location": "関新田（長松寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0058",
+  "name": "真福寺の護摩檀両脇机と礼盤",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1978-03-09",
+  "municipality": "鴻巣市",
+  "location": "屈巣（真福寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0057",
+  "name": "清法寺のまき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1978-03-09",
+  "municipality": "鴻巣市",
+  "location": "北根（清法寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0070",
+  "name": "舟塚の古銭と甕",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1995-03-23",
+  "municipality": "鴻巣市",
+  "location": "関新田（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0071",
+  "name": "騎西城主小田氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1995-03-23",
+  "municipality": "鴻巣市",
+  "location": "上会下（雲祥寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0069",
+  "name": "円通寺の石塔（板碑と宝篋印塔）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1995-03-23",
+  "municipality": "鴻巣市",
+  "location": "屈巣（円通寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0068",
+  "name": "円通寺の三十三観音",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1995-03-23",
+  "municipality": "鴻巣市",
+  "location": "屈巣（円通寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0074",
+  "name": "円通寺の観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2001-03-28",
+  "municipality": "鴻巣市",
+  "location": "屈巣（円通寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0076",
+  "name": "円通寺観音堂木造馬頭観世音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2001-03-28",
+  "municipality": "鴻巣市",
+  "location": "屈巣（円通寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0075",
+  "name": "円通寺観音堂木造神馬",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-03-28",
+  "municipality": "鴻巣市",
+  "location": "屈巣（円通寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0077",
+  "name": "新井稲荷神社算額",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2001-03-28",
+  "municipality": "鴻巣市",
+  "location": "新井（新井稲荷社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0081",
+  "name": "西福寺の狛犬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2014-11-13",
+  "municipality": "鴻巣市",
+  "location": "袋（西福寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0082",
+  "name": "銅造勢至菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2016-11-16",
+  "municipality": "鴻巣市",
+  "location": "東（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0084",
+  "name": "登戸の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2021-04-15",
+  "municipality": "鴻巣市",
+  "location": "登戸（登戸獅子舞保存会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0083",
+  "name": "安養寺愛宕神社古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2021-04-15",
+  "municipality": "鴻巣市",
+  "location": "安養寺"
+ },
+ {
+  "jmh_id": "JMH-112178-0085",
+  "name": "日枝神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2022-02-17",
+  "municipality": "鴻巣市",
+  "location": "小谷（氷川八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0087",
+  "name": "大蔵一覧集（駿河版）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2023-10-10",
+  "municipality": "鴻巣市",
+  "location": "本町（勝願寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0086",
+  "name": "圓通寺観音堂宮殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2023-10-10",
+  "municipality": "鴻巣市",
+  "location": "屈巣（圓通寺）"
+ }
+]

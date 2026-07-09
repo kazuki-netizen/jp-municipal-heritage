@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112101-0145",
+  "name": "谷部家板碑",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1992-03-16",
+  "municipality": "加須市",
+  "location": "加須市中種足"
+ },
+ {
+  "jmh_id": "JMH-112101-0147",
+  "name": "騎西城主 大久保忠常位牌",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1992-03-16",
+  "municipality": "加須市",
+  "location": "加須市牛重1713"
+ },
+ {
+  "jmh_id": "JMH-112101-0138",
+  "name": "妙光寺 十界曼荼羅",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1992-03-16",
+  "municipality": "加須市",
+  "location": "加須市牛重1713"
+ },
+ {
+  "jmh_id": "JMH-112101-0139",
+  "name": "小山家高札",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1992-03-16",
+  "municipality": "加須市",
+  "location": "加須市芋茎"
+ },
+ {
+  "jmh_id": "JMH-112101-0144",
+  "name": "諏訪神社 鎌どっかえ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-03-16",
+  "municipality": "加須市",
+  "location": "加須市上高柳52"
+ },
+ {
+  "jmh_id": "JMH-112101-0136",
+  "name": "ボンデン祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-03-16",
+  "municipality": "加須市",
+  "location": "加須市正能8-4"
+ },
+ {
+  "jmh_id": "JMH-112101-0160",
+  "name": "漆原家文書",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市外田ケ谷"
+ },
+ {
+  "jmh_id": "JMH-112101-0159",
+  "name": "松永家文書",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市中ノ目"
+ },
+ {
+  "jmh_id": "JMH-112101-0162",
+  "name": "黒川家文書",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市牛重"
+ },
+ {
+  "jmh_id": "JMH-112101-0156",
+  "name": "十六間筋兜",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市騎西36-1"
+ },
+ {
+  "jmh_id": "JMH-112101-0155",
+  "name": "医王寺算額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市芋茎350"
+ },
+ {
+  "jmh_id": "JMH-112101-0154",
+  "name": "医王寺朝鮮通信使行列絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市芋茎350"
+ },
+ {
+  "jmh_id": "JMH-112101-0153",
+  "name": "○正講先達富士登山成就記念碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市正能200"
+ },
+ {
+  "jmh_id": "JMH-112101-0158",
+  "name": "寛保二年水難供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市中ノ目946"
+ },
+ {
+  "jmh_id": "JMH-112101-0157",
+  "name": "天保九年銘日出安村扶助田記念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2004-03-08",
+  "municipality": "加須市",
+  "location": "加須市日出安970"
+ },
+ {
+  "jmh_id": "JMH-112101-0058",
+  "name": "板絵着色利根川ケレープ工事図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-16",
+  "municipality": "加須市",
+  "location": "本郷小反前"
+ },
+ {
+  "jmh_id": "JMH-112101-0076",
+  "name": "鈴木弘覚翁碑",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1980-03-05",
+  "municipality": "加須市",
+  "location": "麦倉細間"
+ },
+ {
+  "jmh_id": "JMH-112101-0089",
+  "name": "渡良瀬川重助裏護岸工之図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-09",
+  "municipality": "加須市",
+  "location": "栄西神出"
+ },
+ {
+  "jmh_id": "JMH-112101-0059",
+  "name": "板絵着色遊女立姿",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-16",
+  "municipality": "加須市",
+  "location": "飯積新屋敷"
+ },
+ {
+  "jmh_id": "JMH-112101-0091",
+  "name": "観音堂参拝図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-09",
+  "municipality": "加須市",
+  "location": "飯積新屋敷"
+ },
+ {
+  "jmh_id": "JMH-112101-0085",
+  "name": "伊勢講道中二見浦図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-09",
+  "municipality": "加須市",
+  "location": "飯積本村"
+ },
+ {
+  "jmh_id": "JMH-112101-0088",
+  "name": "慈眼寺外陣格間板絵",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-09",
+  "municipality": "加須市",
+  "location": "麦倉中耕地"
+ },
+ {
+  "jmh_id": "JMH-112101-0107",
+  "name": "板絵着色手習図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1983-03-21",
+  "municipality": "加須市",
+  "location": "向古河北通"
+ },
+ {
+  "jmh_id": "JMH-112101-0108",
+  "name": "板絵着色手習図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1984-03-21",
+  "municipality": "加須市",
+  "location": "向古河北通"
+ },
+ {
+  "jmh_id": "JMH-112101-0121",
+  "name": "田中正造墨画(条幅・紙本墨画)",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-25",
+  "municipality": "加須市",
+  "location": "小野袋"
+ },
+ {
+  "jmh_id": "JMH-112101-0133",
+  "name": "仏涅槃図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "加須市",
+  "location": "栄西中"
+ },
+ {
+  "jmh_id": "JMH-112101-0135",
+  "name": "板絵着色手習の図",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "加須市",
+  "location": "向古河北通"
+ },
+ {
+  "jmh_id": "JMH-112101-0151",
+  "name": "髄身画掛け軸 3点",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1996-10-01",
+  "municipality": "加須市",
+  "location": "栄神出"
+ },
+ {
+  "jmh_id": "JMH-112101-0049",
+  "name": "木造薬師如来立像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-04",
+  "municipality": "加須市",
+  "location": "小野袋中悪戸"
+ },
+ {
+  "jmh_id": "JMH-112101-0048",
+  "name": "木造聖観音菩薩立像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1973-12-04",
+  "municipality": "加須市",
+  "location": "飯積新屋敷"
+ },
+ {
+  "jmh_id": "JMH-112101-0051",
+  "name": "木造地蔵菩薩半跏像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1976-01-10",
+  "municipality": "加須市",
+  "location": "柳生西浦"
+ },
+ {
+  "jmh_id": "JMH-112101-0055",
+  "name": "木造毘沙門天立像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1977-03-16",
+  "municipality": "加須市",
+  "location": "本郷小反前"
+ },
+ {
+  "jmh_id": "JMH-112101-0066",
+  "name": "木造大日如来坐像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-03-30",
+  "municipality": "加須市",
+  "location": "飯積山越"
+ },
+ {
+  "jmh_id": "JMH-112101-0067",
+  "name": "木造阿弥如来坐像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-03-30",
+  "municipality": "加須市",
+  "location": "小野袋藤畑"
+ },
+ {
+  "jmh_id": "JMH-112101-0065",
+  "name": "木造不動明王立像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-03-30",
+  "municipality": "加須市",
+  "location": "飯積本村"
+ },
+ {
+  "jmh_id": "JMH-112101-0130",
+  "name": "木造薬師如来坐像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1988-12-26",
+  "municipality": "加須市",
+  "location": "小野袋藤畑"
+ },
+ {
+  "jmh_id": "JMH-112101-0129",
+  "name": "木造興教大師坐像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1988-12-26",
+  "municipality": "加須市",
+  "location": "小野袋藤畑"
+ },
+ {
+  "jmh_id": "JMH-112101-0128",
+  "name": "木造弘法大師坐像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1988-12-26",
+  "municipality": "加須市",
+  "location": "小野袋藤畑"
+ },
+ {
+  "jmh_id": "JMH-112101-0127",
+  "name": "木造不動明王立像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1988-12-26",
+  "municipality": "加須市",
+  "location": "小野袋藤畑"
+ },
+ {
+  "jmh_id": "JMH-112101-0134",
+  "name": "木造迦楼羅王立像",
+  "category": "その他",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-26",
+  "municipality": "加須市",
+  "location": "本郷反前"
+ }
+]

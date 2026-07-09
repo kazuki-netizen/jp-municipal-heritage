@@ -1,0 +1,369 @@
+[
+ {
+  "jmh_id": "JMH-112313-0040",
+  "name": "桶川宿古絵図",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "桶川市歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-112313-0048",
+  "name": "稲荷神社の力石",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "寿 （稲荷神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0018",
+  "name": "天神道の道しるべ",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "加納"
+ },
+ {
+  "jmh_id": "JMH-112313-0038",
+  "name": "松山以奈り道の道しるべ",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "西"
+ },
+ {
+  "jmh_id": "JMH-112313-0043",
+  "name": "樋詰の道しるべ",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷 （樋詰氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0014",
+  "name": "名号塔兼ねた道しるべ",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "加納"
+ },
+ {
+  "jmh_id": "JMH-112313-0021",
+  "name": "小針領家のささら獅子舞用具一式",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "小針領家 （氷川諏訪神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0011",
+  "name": "前領家矢部家山王社の奉納絵馬等",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷"
+ },
+ {
+  "jmh_id": "JMH-112313-0005",
+  "name": "下日出谷の神楽・芝居用具",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "下日出谷"
+ },
+ {
+  "jmh_id": "JMH-112313-0042",
+  "name": "榮町山車人形「関羽」像",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "寿"
+ },
+ {
+  "jmh_id": "JMH-112313-0009",
+  "name": "八雲山車人形「神武天皇」像",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "南"
+ },
+ {
+  "jmh_id": "JMH-112313-0051",
+  "name": "足立坂東観音霊場参詣大絵馬（文化三年）",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷"
+ },
+ {
+  "jmh_id": "JMH-112313-0003",
+  "name": "三田原のささら獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷 （三田原氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0010",
+  "name": "前領家のささら獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷 （王子稲荷センター）"
+ },
+ {
+  "jmh_id": "JMH-112313-0037",
+  "name": "松原のささら獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷 （松原八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0006",
+  "name": "下日出谷の餅つき踊り",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "下日出谷 （日出谷氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0004",
+  "name": "下日出谷の囃子",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "下日出谷 （日出谷氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0008",
+  "name": "倉田の囃子",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "倉田 （倉田氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0055",
+  "name": "麦ボーチ唄",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷"
+ },
+ {
+  "jmh_id": "JMH-112313-0023",
+  "name": "川田谷・下日出谷の万作",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷・下日出谷"
+ },
+ {
+  "jmh_id": "JMH-112313-0020",
+  "name": "小針領家のささら獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "小針領家 （氷川諏訪神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0035",
+  "name": "木戸跡（下）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "東"
+ },
+ {
+  "jmh_id": "JMH-112313-0034",
+  "name": "木戸跡（上）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "北"
+ },
+ {
+  "jmh_id": "JMH-112313-0013",
+  "name": "原山古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷"
+ },
+ {
+  "jmh_id": "JMH-112313-0052",
+  "name": "高井遺跡住居址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "下日出谷"
+ },
+ {
+  "jmh_id": "JMH-112313-0012",
+  "name": "加納城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "加納"
+ },
+ {
+  "jmh_id": "JMH-112313-0025",
+  "name": "後谷遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "赤堀"
+ },
+ {
+  "jmh_id": "JMH-112313-0001",
+  "name": "シイガシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "五丁台"
+ },
+ {
+  "jmh_id": "JMH-112313-0016",
+  "name": "多気比売神社の大シイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "篠津 （多気比売神社）"
+ },
+ {
+  "jmh_id": "JMH-112313-0002",
+  "name": "ムクロジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "坂田"
+ },
+ {
+  "jmh_id": "JMH-112313-0033",
+  "name": "普門寺のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "川田谷 （普門寺）"
+ },
+ {
+  "jmh_id": "JMH-112313-0007",
+  "name": "伝足立右馬允遠元館跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物",
+  "designation": "市指定",
+  "municipality": "桶川市",
+  "location": "末広"
+ },
+ {
+  "jmh_id": "JMH-112178-0019",
+  "name": "軍扇・鞍・刀掛・葵紋散蒔絵箱・葵紋蒔絵盆・葵紋漆平箱・葵紋漆箱",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1959-09-11",
+  "municipality": "鴻巣市",
+  "location": "鴻巣"
+ },
+ {
+  "jmh_id": "JMH-112178-0020",
+  "name": "香具拾三組御免状・議定書・商人講中連名帳及び焼印",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1959-09-11",
+  "municipality": "鴻巣市",
+  "location": "本宮町（鴻神社）"
+ },
+ {
+  "jmh_id": "JMH-112178-0088",
+  "name": "後陽成天皇御宸筆 附 一乗院尊政添状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2023-10-10",
+  "municipality": "鴻巣市",
+  "location": "本町（勝願寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0018",
+  "name": "朱印状11通",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1959-09-11",
+  "municipality": "鴻巣市",
+  "location": "本町（勝願寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0016",
+  "name": "元徳三年宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-09-11",
+  "municipality": "鴻巣市",
+  "location": "安養寺（安龍寺）"
+ },
+ {
+  "jmh_id": "JMH-112178-0017",
+  "name": "庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1959-09-11",
+  "municipality": "鴻巣市",
+  "location": "西中曽根"
+ },
+ {
+  "jmh_id": "JMH-112178-0015",
+  "name": "享保六年鷹番高札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1959-09-11",
+  "municipality": "鴻巣市",
+  "location": "埼玉県立歴史と民俗の博物館（市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-112178-0022",
+  "name": "雛人形師仲間訴訟文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1961-07-11",
+  "municipality": "鴻巣市",
+  "location": "関新田（市教育委員会）"
+ }
+]

@@ -1,0 +1,375 @@
+[
+ {
+  "jmh_id": "JMH-112321-0050",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋東3丁目14番14号"
+ },
+ {
+  "jmh_id": "JMH-112321-0041",
+  "name": "木彫額（地固め）　嶋村俊明作",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋北2丁目15-1"
+ },
+ {
+  "jmh_id": "JMH-112321-0031",
+  "name": "島田家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-112321-0030",
+  "name": "岡田家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-112321-0012",
+  "name": "佐間小草原遺跡出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-112321-0018",
+  "name": "六角名号塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋東3丁目7番24号"
+ },
+ {
+  "jmh_id": "JMH-112321-0013",
+  "name": "八坂神社の神輿",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋北2丁目15番1号"
+ },
+ {
+  "jmh_id": "JMH-112321-0007",
+  "name": "並木五郎平の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋東3丁目7番24号"
+ },
+ {
+  "jmh_id": "JMH-112321-0011",
+  "name": "会津見送り稲荷の内殿及び御神体",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋東6丁目"
+ },
+ {
+  "jmh_id": "JMH-112321-0073",
+  "name": "静御前の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋中央1丁目2番"
+ },
+ {
+  "jmh_id": "JMH-112321-0051",
+  "name": "梅澤太郎右衛門の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋東3丁目8番15号"
+ },
+ {
+  "jmh_id": "JMH-112321-0054",
+  "name": "池田鴨之介の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "栗橋東3丁目14番14号"
+ },
+ {
+  "jmh_id": "JMH-112321-0003",
+  "name": "一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "小右衛門516"
+ },
+ {
+  "jmh_id": "JMH-112321-0048",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "上内1282"
+ },
+ {
+  "jmh_id": "JMH-112321-0070",
+  "name": "銅造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "上川崎407"
+ },
+ {
+  "jmh_id": "JMH-112321-0058",
+  "name": "白石家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "埼玉県立文書館"
+ },
+ {
+  "jmh_id": "JMH-112321-0029",
+  "name": "密蔵寺の古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "東大輪1750"
+ },
+ {
+  "jmh_id": "JMH-112321-0067",
+  "name": "迦葉院関係資料",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "鷲宮6丁目16番1号"
+ },
+ {
+  "jmh_id": "JMH-112321-0059",
+  "name": "相沢家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "埼玉県立文書館"
+ },
+ {
+  "jmh_id": "JMH-112321-0057",
+  "name": "田口家の文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "埼玉県立文書館"
+ },
+ {
+  "jmh_id": "JMH-112321-0069",
+  "name": "針谷家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "鷲宮"
+ },
+ {
+  "jmh_id": "JMH-112321-0068",
+  "name": "速見家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-112321-0075",
+  "name": "鷲宮神社関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "久喜市立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-112321-0015",
+  "name": "八甫の獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "八甫"
+ },
+ {
+  "jmh_id": "JMH-112321-0065",
+  "name": "西大輪の獅子舞",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "西大輪"
+ },
+ {
+  "jmh_id": "JMH-112321-0008",
+  "name": "中妻の獅子舞・棒術",
+  "category": "無形文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "中妻"
+ },
+ {
+  "jmh_id": "JMH-112321-0039",
+  "name": "旧渡辺多門家のタブノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "久喜市",
+  "location": "上川崎"
+ },
+ {
+  "jmh_id": "JMH-112186-0005",
+  "name": "仁王門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "稲荷町北9-25"
+ },
+ {
+  "jmh_id": "JMH-112186-0040",
+  "name": "薬師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "稲荷町北9-25"
+ },
+ {
+  "jmh_id": "JMH-112186-0016",
+  "name": "定門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "稲荷町北9-25"
+ },
+ {
+  "jmh_id": "JMH-112186-0031",
+  "name": "深谷本陣遺構 付棟札",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "深谷町"
+ },
+ {
+  "jmh_id": "JMH-112186-0044",
+  "name": "熊野大神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "深谷市",
+  "location": "東方1708"
+ },
+ {
+  "jmh_id": "JMH-112186-0086",
+  "name": "安部摂津守岡部陣屋旧地方通用門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "深谷市",
+  "location": "西島町"
+ },
+ {
+  "jmh_id": "JMH-112186-0084",
+  "name": "国済寺黒門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺521"
+ },
+ {
+  "jmh_id": "JMH-112186-0093",
+  "name": "教念寺・鐘楼",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1963-01-29",
+  "municipality": "深谷市",
+  "location": "本田2030"
+ },
+ {
+  "jmh_id": "JMH-112186-0116",
+  "name": "旧深谷宿常夜燈",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1965-11-03",
+  "municipality": "深谷市",
+  "location": "田所町・原郷"
+ },
+ {
+  "jmh_id": "JMH-112186-0158",
+  "name": "国済寺三門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1971-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺521"
+ },
+ {
+  "jmh_id": "JMH-112186-0174",
+  "name": "大日堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "横瀬1360"
+ },
+ {
+  "jmh_id": "JMH-112186-0172",
+  "name": "中瀬神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "中瀬650"
+ },
+ {
+  "jmh_id": "JMH-112186-0207",
+  "name": "弘光寺客殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1983-09-30",
+  "municipality": "深谷市",
+  "location": "針ヶ谷1324"
+ }
+]

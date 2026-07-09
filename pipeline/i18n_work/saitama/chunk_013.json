@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112020-0121",
+  "name": "実験室",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "大原1-9-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0127",
+  "name": "中国の風俗画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "熊谷市",
+  "location": "石原"
+ },
+ {
+  "jmh_id": "JMH-112020-0128",
+  "name": "秋色山水図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1966-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0141",
+  "name": "詩画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "熊谷市",
+  "location": "河原町"
+ },
+ {
+  "jmh_id": "JMH-112020-0142",
+  "name": "梅花図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1974-11-03",
+  "municipality": "熊谷市",
+  "location": "石原"
+ },
+ {
+  "jmh_id": "JMH-112020-0146",
+  "name": "群雀図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1974-11-03",
+  "municipality": "熊谷市",
+  "location": "星川"
+ },
+ {
+  "jmh_id": "JMH-112020-0150",
+  "name": "釈迦涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1976-11-03",
+  "municipality": "熊谷市",
+  "location": "上中条1160"
+ },
+ {
+  "jmh_id": "JMH-112020-0191",
+  "name": "パラソルのある庭",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1993-01-15",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0193",
+  "name": "臨池洗硯",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1993-01-15",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0196",
+  "name": "ヤギ（堤）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1995-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0229",
+  "name": "絹本着色弘法大師像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2006-03-27",
+  "municipality": "熊谷市",
+  "location": "樋春297"
+ },
+ {
+  "jmh_id": "JMH-112020-0040",
+  "name": "蹴鞠用具",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "宮町2-93"
+ },
+ {
+  "jmh_id": "JMH-112020-0032",
+  "name": "オランダ古鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "宮町2-93"
+ },
+ {
+  "jmh_id": "JMH-112020-0041",
+  "name": "軍配2点、采配1点",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "宮町2-93"
+ },
+ {
+  "jmh_id": "JMH-112020-0042",
+  "name": "銅鈴",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "上之336"
+ },
+ {
+  "jmh_id": "JMH-112020-0054",
+  "name": "菊文亀甲散双雀鏡",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "野原"
+ },
+ {
+  "jmh_id": "JMH-112020-0050",
+  "name": "月山銘 小刀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "千代"
+ },
+ {
+  "jmh_id": "JMH-112020-0072",
+  "name": "脇差",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "新堀新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0073",
+  "name": "脇差",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "新堀"
+ },
+ {
+  "jmh_id": "JMH-112020-0077",
+  "name": "鎌倉彫前机",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "東別府799"
+ },
+ {
+  "jmh_id": "JMH-112020-0095",
+  "name": "呉須赤絵鳥竜文大平鉢",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "本石"
+ },
+ {
+  "jmh_id": "JMH-112020-0236",
+  "name": "刀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2008-03-31",
+  "municipality": "熊谷市",
+  "location": "三ヶ尻"
+ },
+ {
+  "jmh_id": "JMH-112020-0176",
+  "name": "百万遍の数珠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "向谷"
+ },
+ {
+  "jmh_id": "JMH-112020-0195",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-03-26",
+  "municipality": "熊谷市",
+  "location": "永井太田1141"
+ },
+ {
+  "jmh_id": "JMH-112020-0011",
+  "name": "木彫大仏坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "平戸611"
+ },
+ {
+  "jmh_id": "JMH-112020-0057",
+  "name": "木彫阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "上之535"
+ },
+ {
+  "jmh_id": "JMH-112020-0078",
+  "name": "三十三体観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-04-17",
+  "municipality": "熊谷市",
+  "location": "葛和田898"
+ },
+ {
+  "jmh_id": "JMH-112020-0082",
+  "name": "蔵王権現像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-04-17",
+  "municipality": "熊谷市",
+  "location": "妻沼台"
+ },
+ {
+  "jmh_id": "JMH-112020-0084",
+  "name": "風神・雷神",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-04-17",
+  "municipality": "熊谷市",
+  "location": "妻沼2404"
+ },
+ {
+  "jmh_id": "JMH-112020-0105",
+  "name": "金銅大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "西別府2044"
+ },
+ {
+  "jmh_id": "JMH-112020-0179",
+  "name": "金蔵寺木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "中恩田546"
+ },
+ {
+  "jmh_id": "JMH-112020-0167",
+  "name": "木造倶利伽藍不動尊",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "中恩田"
+ },
+ {
+  "jmh_id": "JMH-112020-0168",
+  "name": "木造十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "中曽根"
+ },
+ {
+  "jmh_id": "JMH-112020-0154",
+  "name": "いぼとり地蔵尊",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "沼黒779"
+ },
+ {
+  "jmh_id": "JMH-112020-0178",
+  "name": "金蔵寺の額",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "中恩田546"
+ },
+ {
+  "jmh_id": "JMH-112020-0171",
+  "name": "正福寺の額",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "沼黒779"
+ },
+ {
+  "jmh_id": "JMH-112020-0205",
+  "name": "浄安寺千体地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "御正新田248-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0200",
+  "name": "寳幢寺阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "押切134"
+ },
+ {
+  "jmh_id": "JMH-112020-0225",
+  "name": "金銅弘法大師像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-09-26",
+  "municipality": "熊谷市",
+  "location": "上江袋57"
+ },
+ {
+  "jmh_id": "JMH-112020-0228",
+  "name": "銅造阿弥陀如来立像 １躯",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2006-02-28",
+  "municipality": "熊谷市",
+  "location": "小泉17"
+ }
+]

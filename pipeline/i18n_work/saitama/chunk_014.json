@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112020-0241",
+  "name": "歓喜院仁王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2017-03-31",
+  "municipality": "熊谷市",
+  "location": "妻沼1511"
+ },
+ {
+  "jmh_id": "JMH-112020-0251",
+  "name": "銅造誕生釈迦仏立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2025-02-25",
+  "municipality": "熊谷市",
+  "location": "永井太田"
+ },
+ {
+  "jmh_id": "JMH-112020-0008",
+  "name": "成田小学校表札",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0031",
+  "name": "襖",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "熊谷市",
+  "location": "平塚新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0036",
+  "name": "扇面9点・短冊7点",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "平塚新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0049",
+  "name": "旧千代村水帳",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "銀座"
+ },
+ {
+  "jmh_id": "JMH-112020-0056",
+  "name": "駒形神社御朱印状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "さいたま市"
+ },
+ {
+  "jmh_id": "JMH-112020-0044",
+  "name": "医学天正記",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "上新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0053",
+  "name": "渡辺崋山 書翰",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "押切"
+ },
+ {
+  "jmh_id": "JMH-112020-0063",
+  "name": "軸物3点",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "末広"
+ },
+ {
+  "jmh_id": "JMH-112020-0061",
+  "name": "短冊13点・梅花譜",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "末広"
+ },
+ {
+  "jmh_id": "JMH-112020-0066",
+  "name": "和歌",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0081",
+  "name": "空海筆般若心経",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1959-04-17",
+  "municipality": "熊谷市",
+  "location": "永井太田1141"
+ },
+ {
+  "jmh_id": "JMH-112020-0096",
+  "name": "和歌",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "本町"
+ },
+ {
+  "jmh_id": "JMH-112020-0097",
+  "name": "和歌",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "曙町"
+ },
+ {
+  "jmh_id": "JMH-112020-0101",
+  "name": "書翰",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "石原"
+ },
+ {
+  "jmh_id": "JMH-112020-0113",
+  "name": "妻沼八景詩画幅",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "妻沼1511"
+ },
+ {
+  "jmh_id": "JMH-112020-0114",
+  "name": "寺門静軒書扇面の詩",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "葛和田"
+ },
+ {
+  "jmh_id": "JMH-112020-0109",
+  "name": "両宜塾記",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "妻沼（川口市）"
+ },
+ {
+  "jmh_id": "JMH-112020-0115",
+  "name": "幡随意上人の書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "葛和田898"
+ },
+ {
+  "jmh_id": "JMH-112020-0111",
+  "name": "勝海舟の書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1962-08-30",
+  "municipality": "熊谷市",
+  "location": "妻沼1511"
+ },
+ {
+  "jmh_id": "JMH-112020-0180",
+  "name": "高本高城神社の変遷",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "高本"
+ },
+ {
+  "jmh_id": "JMH-112020-0148",
+  "name": "野口雪江墨跡",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1975-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0124",
+  "name": "悉曇字母表",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1962-11-03",
+  "municipality": "熊谷市",
+  "location": "上中条1160"
+ },
+ {
+  "jmh_id": "JMH-112020-0007",
+  "name": "忍城主より長野家への書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "曙町・さいたま市"
+ },
+ {
+  "jmh_id": "JMH-112020-0038",
+  "name": "熊谷町古絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "宮町2-93"
+ },
+ {
+  "jmh_id": "JMH-112020-0034",
+  "name": "成田氏系図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "上之336"
+ },
+ {
+  "jmh_id": "JMH-112020-0033",
+  "name": "成田氏分限簿",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "上之336"
+ },
+ {
+  "jmh_id": "JMH-112020-0035",
+  "name": "成田記",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "上之336"
+ },
+ {
+  "jmh_id": "JMH-112020-0059",
+  "name": "本陣絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "本石"
+ },
+ {
+  "jmh_id": "JMH-112020-0058",
+  "name": "本陣の関札10枚",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "本石"
+ },
+ {
+  "jmh_id": "JMH-112020-0064",
+  "name": "高札14枚",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "本石"
+ },
+ {
+  "jmh_id": "JMH-112020-0062",
+  "name": "算額",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "代"
+ },
+ {
+  "jmh_id": "JMH-112020-0065",
+  "name": "制札",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "東別府799"
+ },
+ {
+  "jmh_id": "JMH-112020-0071",
+  "name": "秘伝書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "新堀"
+ },
+ {
+  "jmh_id": "JMH-112020-0088",
+  "name": "元素楼養蚕関係文書一括",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "玉井"
+ },
+ {
+  "jmh_id": "JMH-112020-0098",
+  "name": "墨引絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "石原"
+ },
+ {
+  "jmh_id": "JMH-112020-0103",
+  "name": "浅間山噴火状況図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "広瀬"
+ },
+ {
+  "jmh_id": "JMH-112020-0102",
+  "name": "浅間山噴火の日記",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "石原"
+ },
+ {
+  "jmh_id": "JMH-112020-0100",
+  "name": "広瀬郷検地図",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "熊谷市",
+  "location": "広瀬"
+ }
+]

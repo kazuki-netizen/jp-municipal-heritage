@@ -1,0 +1,360 @@
+[
+ {
+  "jmh_id": "JMH-112089-0067",
+  "name": "滝之城横穴墓群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "所沢市",
+  "location": "城"
+ },
+ {
+  "jmh_id": "JMH-112089-0063",
+  "name": "東の上遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "所沢市",
+  "location": "久米1470番地の1"
+ },
+ {
+  "jmh_id": "JMH-112089-0025",
+  "name": "尊桜の歌碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "municipality": "所沢市",
+  "location": "小手指元町3丁目28番地の44（北野天神社）"
+ },
+ {
+  "jmh_id": "JMH-112089-0002",
+  "name": "クマガイソウ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "所沢市",
+  "location": "個人所有のため非公開"
+ },
+ {
+  "jmh_id": "JMH-112089-0001",
+  "name": "キャラボク",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "所沢市",
+  "location": "個人所有のため非公開"
+ },
+ {
+  "jmh_id": "JMH-113263-0001",
+  "name": "芭蕉の句碑(ばしょうのくひ）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962-04-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0008",
+  "name": "福徳の鰐口(ふくとくのわにぐち)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0002",
+  "name": "嘉元の板碑(かげんのいたび)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0004",
+  "name": "明和の馬頭観音(めいわのばとうかんのん)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0003",
+  "name": "大行寺地蔵尊(だいぎょうじじぞうそん)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0009",
+  "name": "苦林古墳(にがばやしこふん)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0006",
+  "name": "毛呂氏供養塔(もろしくようとう)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0005",
+  "name": "毛呂氏の墓・供養塔(もろしのはか・くようとう)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0007",
+  "name": "碩布の句碑(せきふのくひ)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1964-05-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0010",
+  "name": "弘安・応長の板碑（こうあん・おうちょうのいたび）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1973-12-01",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0013",
+  "name": "権田直助肖像画(ごんだなおすけしょうぞうが)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1984-04-26",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0011",
+  "name": "中山薬師の懸仏(なかやまやくしのかけぼとけ)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1984-04-26",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0012",
+  "name": "山本坊の芭蕉の句碑(やまもとぼうのばしょうのくひ)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1984-04-26",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0015",
+  "name": "天海大僧正直筆元三大師画像(てんかいだいそうじょうじきひつがんざんだいしがぞう)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1987-07-28",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0014",
+  "name": "天海大僧正寺号免許状(てんかいだいそうじょうじごうめんきょじょう)",
+  "category": "有形文化財",
+  "subcategory": "書籍、典籍、古文書",
+  "designation": "町指定",
+  "designated_date": "1987-07-28",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0016",
+  "name": "小田原北条氏の鐘鐙文(おだわらほうじょうしのかねしょうもん)",
+  "category": "有形文化財",
+  "subcategory": "書籍、典籍、古文書",
+  "designation": "町指定",
+  "designated_date": "1987-07-28",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0067",
+  "name": "金毘羅様のスダジイ(こんぴらさまのすだじい)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0066",
+  "name": "八幡神社の宝篋印塔(はちまんじんじゃのほうきょういんとう)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0017",
+  "name": "宿谷地蔵尊(しゅくやじぞうそん)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1990-08-24",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0018",
+  "name": "山本坊歴代の墓(やまもとぼうれきだいのはか)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-08-24",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0019",
+  "name": "川村碩布の墓(かわむらせきふのはか)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1990-08-24",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0020",
+  "name": "松の外遺跡出土縄文前期土器(まつのそといせきしゅつどじょうもんぜんきどき)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1993-11-24",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0021",
+  "name": "白綾遺跡出土縄文中期土器(しらあやいせきしゅつどじょうもんちゅうきどき)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1993-11-24",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0023",
+  "name": "木造薬師如来坐像(もくぞうやくしにょらいざぞう)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1994-11-18",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0022",
+  "name": "木造如意輪観音像(もくぞうにょいりんかんのんぞう)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1994-11-18",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0024",
+  "name": "木造不動明王立像(もくぞうふどうみょうおうりゅうぞう)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1996-02-28",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0025",
+  "name": "木造伝聖観音菩薩坐像(もくぞうでんしょうかんのんぼさつざぞう)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1998-04-16",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0026",
+  "name": "伝真福寺跡の毛呂氏の墓(でんしんぷくじあとのもろしのはか)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1999-06-25",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0027",
+  "name": "安藤文澤一族の墓(あんどうぶんたくいちぞくのはか)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1999-06-25",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0028",
+  "name": "花見堂の俳額(はなみどうのはいがく)",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1999-11-18",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0029",
+  "name": "旗本藤懸氏寄進資料(はたもとふじかけしきしんしりょう)",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2001-03-29",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0030",
+  "name": "木造十一面観音坐像付胎内仏(もくぞうじゅういちめんかんのんざぞうつけたりたいないぶつ)",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2001-03-29",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0031",
+  "name": "野口有柳・行庵有終の墓(のぐちうりゅう・ぎょうあんゆうしゅうのはか)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2001-03-29",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0032",
+  "name": "中在家薬師堂のムクロジ(なかざいけやくしどうのむくろじ)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "2002-11-21",
+  "municipality": "毛呂山町"
+ },
+ {
+  "jmh_id": "JMH-113263-0033",
+  "name": "関根家文書(せきねけもんじょ)",
+  "category": "有形文化財",
+  "subcategory": "書籍、典籍、古文書",
+  "designation": "町指定",
+  "designated_date": "2003-05-23",
+  "municipality": "毛呂山町"
+ }
+]

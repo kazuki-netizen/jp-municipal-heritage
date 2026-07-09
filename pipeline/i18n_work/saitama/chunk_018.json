@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112020-0245",
+  "name": "長島記念館・邸宅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "2019-03-29",
+  "municipality": "熊谷市",
+  "location": "小八林1022"
+ },
+ {
+  "jmh_id": "JMH-112020-0080",
+  "name": "椎の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1959-04-17",
+  "municipality": "熊谷市",
+  "location": "八ッ口869"
+ },
+ {
+  "jmh_id": "JMH-112020-0108",
+  "name": "榧",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1961-11-03",
+  "municipality": "熊谷市",
+  "location": "拾六間689"
+ },
+ {
+  "jmh_id": "JMH-112020-0106",
+  "name": "いぬ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1961-11-03",
+  "municipality": "熊谷市",
+  "location": "三ヶ尻"
+ },
+ {
+  "jmh_id": "JMH-112020-0107",
+  "name": "くろがねもち",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1961-11-03",
+  "municipality": "熊谷市",
+  "location": "肥塚"
+ },
+ {
+  "jmh_id": "JMH-112020-0136",
+  "name": "いちいがし",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "熊谷市",
+  "location": "拾六間689"
+ },
+ {
+  "jmh_id": "JMH-112020-0143",
+  "name": "梛",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-11-03",
+  "municipality": "熊谷市",
+  "location": "新堀新田"
+ },
+ {
+  "jmh_id": "JMH-112020-0145",
+  "name": "無患子",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-11-03",
+  "municipality": "熊谷市",
+  "location": "東別府799"
+ },
+ {
+  "jmh_id": "JMH-112020-0147",
+  "name": "鈴懸の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-11-03",
+  "municipality": "熊谷市",
+  "location": "末広2-131"
+ },
+ {
+  "jmh_id": "JMH-112020-0186",
+  "name": "榧",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1986-01-01",
+  "municipality": "熊谷市",
+  "location": "中奈良1310-1"
+ },
+ {
+  "jmh_id": "JMH-112241-0011",
+  "name": "常福寺当麻曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1974-03-30",
+  "municipality": "戸田市",
+  "location": "中町2-4-11（常福寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0030",
+  "name": "妙厳寺涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-03-16",
+  "municipality": "戸田市",
+  "location": "美女木2-27-4（妙厳寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0033",
+  "name": "妙顕寺三十六歌仙絵額",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1990-05-08",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0012",
+  "name": "観音寺千体仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-03-30",
+  "municipality": "戸田市",
+  "location": "大字新曽1791（観音寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0016",
+  "name": "笹目神社神馬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-04-10",
+  "municipality": "戸田市",
+  "location": "笹目6-28-7（笹目神社）"
+ },
+ {
+  "jmh_id": "JMH-112241-0009",
+  "name": "武内家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0019",
+  "name": "秋元家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1982-07-01",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0024",
+  "name": "萩原家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1985-05-01",
+  "municipality": "戸田市",
+  "location": "美女木3丁目（個人蔵）"
+ },
+ {
+  "jmh_id": "JMH-112241-0027",
+  "name": "栗原家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1988-03-17",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0034",
+  "name": "篠家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1990-05-08",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0003",
+  "name": "建長の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "大字新曽1791（観音寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0004",
+  "name": "応永の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "笹目南町（個人蔵）"
+ },
+ {
+  "jmh_id": "JMH-112241-0002",
+  "name": "康正の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0005",
+  "name": "慶長の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "大字新曽2438（妙顕寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0007",
+  "name": "明応の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "笹目6-5-4（平等寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0006",
+  "name": "文禄の石灯籠",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "大字新曽1791（観音寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0008",
+  "name": "最上流和算額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "美女木7-9-1（美女木八幡社）"
+ },
+ {
+  "jmh_id": "JMH-112241-0013",
+  "name": "寛正の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0014",
+  "name": "文正の板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1979-04-01",
+  "municipality": "戸田市",
+  "location": "大字新曽1791（観音寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0022",
+  "name": "名号塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1985-05-01",
+  "municipality": "戸田市",
+  "location": "中町2-4-11（常福寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0026",
+  "name": "寛政の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1988-03-17",
+  "municipality": "戸田市",
+  "location": "中町2-4-11（常福寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0032",
+  "name": "七条袈裟及び打敷",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1990-05-08",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0037",
+  "name": "柳剛流岡田十内関係資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2008-03-19",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0038",
+  "name": "南原遺跡1号古墳出土男子埴輪",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2009-03-19",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0040",
+  "name": "新曽沖内の馬頭観音像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-01-28",
+  "municipality": "戸田市",
+  "location": "大字新曽629（沖内馬頭観音堂）"
+ },
+ {
+  "jmh_id": "JMH-112241-0041",
+  "name": "上戸田氷川神社の力石及び旧羽黒山句碑・石造物",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2021-03-19",
+  "municipality": "戸田市",
+  "location": "上戸田3丁目20&minus;11（上戸田氷川神社境内）"
+ },
+ {
+  "jmh_id": "JMH-112241-0039",
+  "name": "3代目戸田橋の親柱",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2014-02-13",
+  "municipality": "戸田市",
+  "location": "川岸3-7-7先（戸田橋親水公園）"
+ },
+ {
+  "jmh_id": "JMH-112241-0001",
+  "name": "宝暦の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-04-10",
+  "municipality": "戸田市",
+  "location": "笹目3-13（圃中公園）"
+ },
+ {
+  "jmh_id": "JMH-112241-0017",
+  "name": "千手観音供養図絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-10-01",
+  "municipality": "戸田市",
+  "location": "美女木7-4-1（徳祥寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0018",
+  "name": "十六羅漢",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-07-01",
+  "municipality": "戸田市",
+  "location": "美女木2-27-4（妙厳寺）"
+ }
+]
