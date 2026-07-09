@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112186-0210",
+  "name": "福川鉄橋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1987-12-22",
+  "municipality": "深谷市",
+  "location": "原郷574-2"
+ },
+ {
+  "jmh_id": "JMH-112186-0223",
+  "name": "大寄八幡大神社及び水屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2000-02-25",
+  "municipality": "深谷市",
+  "location": "榛沢256"
+ },
+ {
+  "jmh_id": "JMH-112186-0034",
+  "name": "絹本着色不動明王像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "蓮沼463"
+ },
+ {
+  "jmh_id": "JMH-112186-0035",
+  "name": "絹本着色両界曼陀羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "蓮沼463"
+ },
+ {
+  "jmh_id": "JMH-112186-0036",
+  "name": "絹本着色天神像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "上柴町西4-26-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0033",
+  "name": "紙本着色不動明王三尊像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "東方2902"
+ },
+ {
+  "jmh_id": "JMH-112186-0046",
+  "name": "絹本着色明画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "深谷市",
+  "location": "稲荷町北9-25"
+ },
+ {
+  "jmh_id": "JMH-112186-0095",
+  "name": "紙本着色真言八祖大師像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1963-11-03",
+  "municipality": "深谷市",
+  "location": "上柴町西4-26-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0115",
+  "name": "奥原晴胡画琵琶行之図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-11-03",
+  "municipality": "深谷市",
+  "location": "本住町"
+ },
+ {
+  "jmh_id": "JMH-112186-0112",
+  "name": "北亭為直画人物画",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-11-03",
+  "municipality": "深谷市",
+  "location": "本住町"
+ },
+ {
+  "jmh_id": "JMH-112186-0119",
+  "name": "渡辺華山画風雨東坡騎乗之図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-11-03",
+  "municipality": "深谷市",
+  "location": "稲荷町"
+ },
+ {
+  "jmh_id": "JMH-112186-0120",
+  "name": "親鸞聖人画像・聖徳太子孝養図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-11-03",
+  "municipality": "深谷市",
+  "location": "田谷313"
+ },
+ {
+  "jmh_id": "JMH-112186-0114",
+  "name": "北亭為直画鎮西八郎為朝像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-11-03",
+  "municipality": "深谷市",
+  "location": "田谷"
+ },
+ {
+  "jmh_id": "JMH-112186-0113",
+  "name": "北亭為直画朱描鎮西八郎為朝像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1965-11-03",
+  "municipality": "深谷市",
+  "location": "田谷308"
+ },
+ {
+  "jmh_id": "JMH-112186-0129",
+  "name": "狐開帳図絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1967-11-03",
+  "municipality": "深谷市",
+  "location": "田谷308"
+ },
+ {
+  "jmh_id": "JMH-112186-0136",
+  "name": "紙本着色愛宕大権現像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "深谷市",
+  "location": "上敷免473"
+ },
+ {
+  "jmh_id": "JMH-112186-0137",
+  "name": "紙本着色釈迦涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "深谷市",
+  "location": "上敷免473"
+ },
+ {
+  "jmh_id": "JMH-112186-0148",
+  "name": "絹本彩色両界曼陀羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "戸森150-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0147",
+  "name": "紙本彩色不動曼陀羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "緑ケ丘"
+ },
+ {
+  "jmh_id": "JMH-112186-0178",
+  "name": "金井烏州筆格天井絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "新戒222"
+ },
+ {
+  "jmh_id": "JMH-112186-0177",
+  "name": "金井烏州筆屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "横瀬1,360"
+ },
+ {
+  "jmh_id": "JMH-112186-0217",
+  "name": "岡部藩陣屋絵図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1997-03-26",
+  "municipality": "深谷市",
+  "location": "岡部1198"
+ },
+ {
+  "jmh_id": "JMH-112186-0221",
+  "name": "釈迦涅槃図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1998-11-09",
+  "municipality": "深谷市",
+  "location": "高島161"
+ },
+ {
+  "jmh_id": "JMH-112186-0243",
+  "name": "絹本着色聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "2019-05-09",
+  "municipality": "深谷市",
+  "location": "本住町"
+ },
+ {
+  "jmh_id": "JMH-112186-0041",
+  "name": "釈迦三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "人見1391"
+ },
+ {
+  "jmh_id": "JMH-112186-0024",
+  "name": "法燈円明国師頂相",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺521"
+ },
+ {
+  "jmh_id": "JMH-112186-0037",
+  "name": "胎蔵界薬師如来座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "深谷市",
+  "location": "上柴町西4-26"
+ },
+ {
+  "jmh_id": "JMH-112186-0042",
+  "name": "五智如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "深谷市",
+  "location": "大谷114"
+ },
+ {
+  "jmh_id": "JMH-112186-0071",
+  "name": "木像不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1961-11-03",
+  "municipality": "深谷市",
+  "location": "畠山931-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0080",
+  "name": "銅像地蔵尊座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1962-01-29",
+  "municipality": "深谷市",
+  "location": "本田1831-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0109",
+  "name": "漱恕全芳大和尚像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "深谷市",
+  "location": "人見1391-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0128",
+  "name": "御厨子",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-11-03",
+  "municipality": "深谷市",
+  "location": "宮ケ谷戸151"
+ },
+ {
+  "jmh_id": "JMH-112186-0139",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "深谷市",
+  "location": "矢島744"
+ },
+ {
+  "jmh_id": "JMH-112186-0145",
+  "name": "地蔵尊立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "深谷市",
+  "location": "東方2902"
+ },
+ {
+  "jmh_id": "JMH-112186-0157",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "深谷市",
+  "location": "原郷"
+ },
+ {
+  "jmh_id": "JMH-112186-0165",
+  "name": "宝冠釈迦坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-11-03",
+  "municipality": "深谷市",
+  "location": "国済寺521"
+ },
+ {
+  "jmh_id": "JMH-112186-0164",
+  "name": "僧形八幡立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-11-03",
+  "municipality": "深谷市",
+  "location": "折之口183"
+ },
+ {
+  "jmh_id": "JMH-112186-0171",
+  "name": "不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1973-11-03",
+  "municipality": "深谷市",
+  "location": "下手計1143"
+ },
+ {
+  "jmh_id": "JMH-112186-0195",
+  "name": "木像愛染明王座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-08-30",
+  "municipality": "深谷市",
+  "location": "畠山931-1"
+ },
+ {
+  "jmh_id": "JMH-112186-0222",
+  "name": "円空仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1999-11-01",
+  "municipality": "深谷市",
+  "location": "横瀬1360"
+ }
+]

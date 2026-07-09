@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112011-0062",
+  "name": "石田藤宮神社の算額",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1972-02-08",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0067",
+  "name": "幸町宮岡家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1975-06-09",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0069",
+  "name": "旧南町保有文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1975-06-09",
+  "municipality": "川越市",
+  "location": "団体所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0068",
+  "name": "幸町服部家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1975-06-09",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0070",
+  "name": "郭町北野家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1975-06-09",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0106",
+  "name": "下小坂平野家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1989-05-12",
+  "municipality": "川越市",
+  "location": "三久保町2番地9（中央図書館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0109",
+  "name": "牛子河岸島村家文書他新河岸川河岸場文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1989-05-12",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0146",
+  "name": "古尾谷八幡神社所蔵徳川歴代将軍朱印状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2002-02-25",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0147",
+  "name": "大袋大河原家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2002-02-25",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0154",
+  "name": "石田本郷大野家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2004-03-24",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0171",
+  "name": "元町二丁目井上家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2009-01-28",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0183",
+  "name": "菅間竹ノ谷家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2013-03-25",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0184",
+  "name": "谷中大野家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2013-03-25",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0191",
+  "name": "小杉権次郎氏収集文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2016-03-23",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0029",
+  "name": "下小坂古墳群出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1970-01-12",
+  "municipality": "川越市",
+  "location": "下小坂（東洋クオリティワン）"
+ },
+ {
+  "jmh_id": "JMH-112011-0096",
+  "name": "三変稲荷神社古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0103",
+  "name": "延文の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "小仙波町1丁目20番地1（喜多院）"
+ },
+ {
+  "jmh_id": "JMH-112011-0108",
+  "name": "牛塚古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1989-05-12",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0001",
+  "name": "瓦経",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1954-10-23",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0175",
+  "name": "山王塚西古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2010-02-24",
+  "municipality": "川越市",
+  "location": "元町1丁目3番地1（川越市）"
+ },
+ {
+  "jmh_id": "JMH-112011-0077",
+  "name": "牛頭天王縁起絵巻",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1980-02-13",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0074",
+  "name": "「川越の四季」屏風",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1980-02-13",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0104",
+  "name": "徴発物件書類家屋取調書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0141",
+  "name": "湯花用大釜",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-04-07",
+  "municipality": "川越市",
+  "location": "古谷本郷1408番地1（古尾谷八幡神社）"
+ },
+ {
+  "jmh_id": "JMH-112011-0145",
+  "name": "金山神社保管資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-05-09",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0189",
+  "name": "松井松平家伝来葵紋大旗 附大旗地裂並縫糸三点",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0038",
+  "name": "市指定有形民俗文化財 五百羅漢",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-01-12",
+  "municipality": "川越市",
+  "location": "小仙波町1丁目20番地1（喜多院）"
+ },
+ {
+  "jmh_id": "JMH-112011-0066",
+  "name": "市指定有形民俗文化財 中福の根岸家神楽用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-06-09",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0095",
+  "name": "市指定有形民俗文化財 幸町服部家民具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-05-17",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0094",
+  "name": "市指定有形民俗文化財 幸町宮岡家民具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-05-17",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0100",
+  "name": "市指定有形民俗文化財 川越唐桟小布帖",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-112011-0101",
+  "name": "市指定有形民俗文化財 川越唐桟着物",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0102",
+  "name": "市指定有形民俗文化財 幸町（雪塚会）の踊り屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "幸町"
+ },
+ {
+  "jmh_id": "JMH-112011-0121",
+  "name": "市指定有形民俗文化財 馬図大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0117",
+  "name": "市指定有形民俗文化財 木彫鷹額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0115",
+  "name": "市指定有形民俗文化財 三国志図大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0123",
+  "name": "市指定有形民俗文化財 黒馬図大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0116",
+  "name": "市指定有形民俗文化財 朝鮮通信使行列図大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0122",
+  "name": "市指定有形民俗文化財 高島流砲術額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ },
+ {
+  "jmh_id": "JMH-112011-0120",
+  "name": "市指定有形民俗文化財 鉄砲台を打つ鍛冶職人図大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "郭町2丁目30番地1（博物館）"
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-113433-0036",
+  "name": "青山氷川神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1988-02-14",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0033",
+  "name": "根岸山の大グミ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1988-02-14",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0035",
+  "name": "自性院のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1988-02-14",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0041",
+  "name": "三光神社の大スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "1996-04-19",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0048",
+  "name": "笠山のブナ林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2002-03-13",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0056",
+  "name": "青山天満宮のヒサカキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2005-03-28",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0074",
+  "name": "上古寺氷川神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2020-12-25",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0076",
+  "name": "靱負愛宕神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "町指定",
+  "designated_date": "2020-12-25",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0055",
+  "name": "割烹旅館二葉本店本館",
+  "category": "有形文化財",
+  "subcategory": "国登録有形文化財",
+  "designation": "町指定",
+  "designated_date": "2004-07-23",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0054",
+  "name": "割烹旅館二葉本店六六亭",
+  "category": "有形文化財",
+  "subcategory": "国登録有形文化財",
+  "designation": "町指定",
+  "designated_date": "2004-07-23",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0077",
+  "name": "田中家長屋",
+  "category": "有形文化財",
+  "subcategory": "国登録有形文化財",
+  "designation": "町指定",
+  "designated_date": "2021-02-04",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0078",
+  "name": "旧玉成舎主屋",
+  "category": "有形文化財",
+  "subcategory": "国登録有形文化財",
+  "designation": "町指定",
+  "designated_date": "2021-02-26",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-113433-0079",
+  "name": "旧玉成舎石蔵",
+  "category": "有形文化財",
+  "subcategory": "国登録有形文化財",
+  "designation": "町指定",
+  "designated_date": "2021-02-26",
+  "municipality": "小川町"
+ },
+ {
+  "jmh_id": "JMH-112038-0025",
+  "name": "前川神社内本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "前川町3-49-1"
+ },
+ {
+  "jmh_id": "JMH-112038-0094",
+  "name": "赤山山王権現社本殿付覆屋一棟・狛犬一対",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字赤山218"
+ },
+ {
+  "jmh_id": "JMH-112038-0080",
+  "name": "柳崎水川神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "柳崎5-20-1"
+ },
+ {
+  "jmh_id": "JMH-112038-0038",
+  "name": "宝蔵院仁王門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字安行慈林954"
+ },
+ {
+  "jmh_id": "JMH-112038-0103",
+  "name": "金剛寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字安行石岡1361"
+ },
+ {
+  "jmh_id": "JMH-112038-0090",
+  "name": "羽倉神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字芝5379-1"
+ },
+ {
+  "jmh_id": "JMH-112038-0021",
+  "name": "八雲社社殿（旧金山権現社殿）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "金山町6-15"
+ },
+ {
+  "jmh_id": "JMH-112038-0056",
+  "name": "弘化二年銘鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "舟戸町1-29"
+ },
+ {
+  "jmh_id": "JMH-112038-0051",
+  "name": "川口神社の神鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "金山町6-15"
+ },
+ {
+  "jmh_id": "JMH-112038-0058",
+  "name": "弘治二年銘鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "塚ヶ谷本町2-1-22"
+ },
+ {
+  "jmh_id": "JMH-112038-0030",
+  "name": "天保十年銘天水鉢",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "元郷1-2-18"
+ },
+ {
+  "jmh_id": "JMH-112038-0071",
+  "name": "明和二年銘牛鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "西光院2-6-29"
+ },
+ {
+  "jmh_id": "JMH-112038-0105",
+  "name": "鉄製大鉢",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "塚ヶ谷本町2-1-22"
+ },
+ {
+  "jmh_id": "JMH-112038-0078",
+  "name": "木造遮迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字安行領家401"
+ },
+ {
+  "jmh_id": "JMH-112038-0085",
+  "name": "江戸改氷川神社仏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "江戸1袋3-28-22"
+ },
+ {
+  "jmh_id": "JMH-112038-0076",
+  "name": "木造正法立坐仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "辻700"
+ },
+ {
+  "jmh_id": "JMH-112038-0077",
+  "name": "木造複数仏像群",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字安行慈林954"
+ },
+ {
+  "jmh_id": "JMH-112038-0106",
+  "name": "銅造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字芝山1285"
+ },
+ {
+  "jmh_id": "JMH-112038-0034",
+  "name": "安井息軒書像及び旧家朱全人誓状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "中青木2-20-31"
+ },
+ {
+  "jmh_id": "JMH-112038-0028",
+  "name": "増田家鉄造関係古文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "中青木2-20-31"
+ },
+ {
+  "jmh_id": "JMH-112038-0048",
+  "name": "嵩島秋帆像",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字安行原"
+ },
+ {
+  "jmh_id": "JMH-112038-0096",
+  "name": "赤山陣屋敷絵図面",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字安行原"
+ },
+ {
+  "jmh_id": "JMH-112038-0112",
+  "name": "飯田家（地方）古文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "中青木2-20-31"
+ },
+ {
+  "jmh_id": "JMH-112038-0064",
+  "name": "新光寺文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "中青木2-20-31"
+ },
+ {
+  "jmh_id": "JMH-112038-0070",
+  "name": "早稲家古文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "中青木2-20-31"
+ },
+ {
+  "jmh_id": "JMH-112038-0091",
+  "name": "羽倉神社朱印状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "大字芝5379-1"
+ },
+ {
+  "jmh_id": "JMH-112038-0031",
+  "name": "太間考古の禁制",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "municipality": "川口市",
+  "location": "塚ヶ谷本町2-1-22"
+ }
+]

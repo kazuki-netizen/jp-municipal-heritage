@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-112224-0012",
+  "name": "千徳丸供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "municipality": "越谷市",
+  "location": "瓦曽根1-5-43（照蓮院）"
+ },
+ {
+  "jmh_id": "JMH-113654-0009",
+  "name": "聖天宮",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "般若2690・秩父大神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0041",
+  "name": "小鹿神社旧本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-12-13",
+  "municipality": "小鹿野町",
+  "location": "小鹿野88・小鹿神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0047",
+  "name": "薬師堂仁王門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1973-05-17",
+  "municipality": "小鹿野町",
+  "location": "両神薄2301-1・薬師堂護持会"
+ },
+ {
+  "jmh_id": "JMH-113654-0074",
+  "name": "諏訪神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1983-09-30",
+  "municipality": "小鹿野町",
+  "location": "般若2592・諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0076",
+  "name": "妙見宮本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1986-02-26",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野124・奈倉耕地"
+ },
+ {
+  "jmh_id": "JMH-113654-0083",
+  "name": "諏訪神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1988-02-22",
+  "municipality": "小鹿野町",
+  "location": "伊豆沢1959・諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-113654-0085",
+  "name": "田の頭諏訪神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1990-03-04",
+  "municipality": "小鹿野町",
+  "location": "三山425・田の頭耕地"
+ },
+ {
+  "jmh_id": "JMH-113654-0095",
+  "name": "鷹巣下薬師厨子付宝鏡",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1993-09-08",
+  "municipality": "小鹿野町",
+  "location": "小鹿野267・上一丁目"
+ },
+ {
+  "jmh_id": "JMH-113654-0097",
+  "name": "加藤家住宅（母屋、塀、門、一番蔵）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1995-03-30",
+  "municipality": "小鹿野町",
+  "location": "小鹿野322・加藤悦子"
+ },
+ {
+  "jmh_id": "JMH-113654-0107",
+  "name": "秩父札所三十二番法性寺観音堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1999-11-24",
+  "municipality": "小鹿野町",
+  "location": "般若2661・法性寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0109",
+  "name": "塩沢宇賀神社社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2002-09-06",
+  "municipality": "小鹿野町",
+  "location": "両神薄5600・塩沢宇賀神社護持会"
+ },
+ {
+  "jmh_id": "JMH-113654-0008",
+  "name": "絹本着色十三仏画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "河原沢442・真福寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0013",
+  "name": "涅槃絵(漢山筆)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1960-12-01",
+  "municipality": "小鹿野町",
+  "location": "日尾2200・光西寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0014",
+  "name": "竹本定太夫画像(漢山筆)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1960-12-01",
+  "municipality": "小鹿野町",
+  "location": "日尾1232・加藤光男"
+ },
+ {
+  "jmh_id": "JMH-113654-0028",
+  "name": "森玄黄斎の遺作品",
+  "category": "有形文化財",
+  "subcategory": "絵画・彫刻",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野226・森真太郎"
+ },
+ {
+  "jmh_id": "JMH-113654-0054",
+  "name": "涅槃像画軸",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1974-05-15",
+  "municipality": "小鹿野町",
+  "location": "両神薄2301-1・薬師堂護持会"
+ },
+ {
+  "jmh_id": "JMH-113654-0061",
+  "name": "蘭花芳香(群玉筆)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1975-11-19",
+  "municipality": "小鹿野町",
+  "location": "藤倉647・守屋勝平"
+ },
+ {
+  "jmh_id": "JMH-113654-0060",
+  "name": "双虎崖下疾駆之図(群玉筆)",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1975-11-19",
+  "municipality": "小鹿野町",
+  "location": "藤倉4906・高橋寅一郎"
+ },
+ {
+  "jmh_id": "JMH-113654-0087",
+  "name": "絹笠神社天井画付絵馬2点",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1990-11-26",
+  "municipality": "小鹿野町",
+  "location": "藤倉1342-2・山口邦夫ほか"
+ },
+ {
+  "jmh_id": "JMH-113654-0093",
+  "name": "紙本着色十二神将像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1993-09-08",
+  "municipality": "小鹿野町",
+  "location": "小鹿野267・上一丁目"
+ },
+ {
+  "jmh_id": "JMH-113654-0112",
+  "name": "山水図屏風(漢山筆)六曲屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2004-03-25",
+  "municipality": "小鹿野町",
+  "location": "小鹿野556-1・北ラク"
+ },
+ {
+  "jmh_id": "JMH-113654-0094",
+  "name": "鰐口(元禄十二年銘)",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1993-09-08",
+  "municipality": "小鹿野町",
+  "location": "小鹿野267・上一丁目"
+ },
+ {
+  "jmh_id": "JMH-113654-0092",
+  "name": "春日町屋台後幕刺繍原図",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1993-09-08",
+  "municipality": "小鹿野町",
+  "location": "小鹿野1808・小池正二"
+ },
+ {
+  "jmh_id": "JMH-113654-0025",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野1370普寛堂・普寛堂"
+ },
+ {
+  "jmh_id": "JMH-113654-0023",
+  "name": "木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "飯田273日待堂・三田川1-1区"
+ },
+ {
+  "jmh_id": "JMH-113654-0024",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1962-09-20",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野212・大徳院"
+ },
+ {
+  "jmh_id": "JMH-113654-0003",
+  "name": "木造十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "小鹿野1823・十輪寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0007",
+  "name": "石造仁王尊立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "飯田2201観音院・光源院 札所31番奉賛会"
+ },
+ {
+  "jmh_id": "JMH-113654-0004",
+  "name": "木造聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "般若2661・法性寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0005",
+  "name": "木造蔵王権現像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1959-08-24",
+  "municipality": "小鹿野町",
+  "location": "般若2661・法性寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0015",
+  "name": "銅造蔵王権現像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1960-12-01",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野1509・加藤義位知"
+ },
+ {
+  "jmh_id": "JMH-113654-0034",
+  "name": "木造虚空蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1969-04-16",
+  "municipality": "小鹿野町",
+  "location": "両神小森3848・今井太喜男"
+ },
+ {
+  "jmh_id": "JMH-113654-0039",
+  "name": "木造聖観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1970-07-02",
+  "municipality": "小鹿野町",
+  "location": "長留4031・観音寺"
+ },
+ {
+  "jmh_id": "JMH-113654-0052",
+  "name": "森玄黄斎絵馬",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1974-05-15",
+  "municipality": "小鹿野町",
+  "location": "両神薄2301-1・薬師堂護持会"
+ },
+ {
+  "jmh_id": "JMH-113654-0063",
+  "name": "庚申塔",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1976-09-24",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野212・大徳院"
+ },
+ {
+  "jmh_id": "JMH-113654-0064",
+  "name": "森伊兵衛夫妻の像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1976-09-24",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野212・大徳院"
+ },
+ {
+  "jmh_id": "JMH-113654-0066",
+  "name": "文殊菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1979-02-21",
+  "municipality": "小鹿野町",
+  "location": "伊豆沢1959文殊堂・伊豆沢沢浦・諏訪神社文殊堂保存会"
+ },
+ {
+  "jmh_id": "JMH-113654-0077",
+  "name": "木造金剛力士立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1986-02-26",
+  "municipality": "小鹿野町",
+  "location": "下小鹿野124妙見宮・奈倉耕地"
+ },
+ {
+  "jmh_id": "JMH-113654-0082",
+  "name": "木造普賢菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1988-02-22",
+  "municipality": "小鹿野町",
+  "location": "伊豆沢1959・伊豆沢沢浦・諏訪神社文殊堂保存会"
+ }
+]

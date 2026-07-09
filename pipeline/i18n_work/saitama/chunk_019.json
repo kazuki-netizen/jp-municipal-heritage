@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-112241-0020",
+  "name": "庚申・月待石灯籠",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1984-02-10",
+  "municipality": "戸田市",
+  "location": "美女木2-27-4（妙厳寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0021",
+  "name": "早瀬庚申塔群",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-01",
+  "municipality": "戸田市",
+  "location": "早瀬（個人蔵）"
+ },
+ {
+  "jmh_id": "JMH-112241-0023",
+  "name": "地蔵菩薩座像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-05-01",
+  "municipality": "戸田市",
+  "location": "大字新曽263（元常楽院）"
+ },
+ {
+  "jmh_id": "JMH-112241-0025",
+  "name": "妙顕寺絵馬群",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-17",
+  "municipality": "戸田市",
+  "location": "大字新曽2438（妙顕寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0031",
+  "name": "川岸の獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-03-16",
+  "municipality": "戸田市",
+  "location": "川岸2-11-2（川岸会館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0035",
+  "name": "平等寺石幢",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1997-02-18",
+  "municipality": "戸田市",
+  "location": "笹目6-5-4（平等寺）"
+ },
+ {
+  "jmh_id": "JMH-112241-0036",
+  "name": "下戸田・旧高橋酒造の酒づくり用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2003-03-23",
+  "municipality": "戸田市",
+  "location": "大字新曽1707（郷土博物館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0010",
+  "name": "下戸田ささら獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-03-30",
+  "municipality": "戸田市",
+  "location": "中町1-28-7（下戸田氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112241-0028",
+  "name": "沖内囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-03-17",
+  "municipality": "戸田市",
+  "location": "大字新曽262（沖内会館）"
+ },
+ {
+  "jmh_id": "JMH-112241-0015",
+  "name": "夫婦柿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-04-10",
+  "municipality": "戸田市",
+  "location": "氷川町2-12-9（新曽氷川神社）"
+ },
+ {
+  "jmh_id": "JMH-112241-0029",
+  "name": "うばゆり",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1989-03-16",
+  "municipality": "戸田市",
+  "location": "美女木7-9-1（美女木八幡社）"
+ },
+ {
+  "jmh_id": "JMH-114642-0003",
+  "name": "西行法師見返りの松碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0001",
+  "name": "天満宮の槙",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1962",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0002",
+  "name": "旧利根川堤防跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1962",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0004",
+  "name": "杉山対軒遭難の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1981",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0018",
+  "name": "文永7年銘板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0016",
+  "name": "大島有隣・関口保宣・藤城吉右衛門各氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0022",
+  "name": "藤城家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0020",
+  "name": "目沼浅間塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0014",
+  "name": "大塚の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0021",
+  "name": "茨島の神楽・囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0012",
+  "name": "円空作白衣観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0013",
+  "name": "円空作神像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0019",
+  "name": "杉戸宿本陣宿札（関札）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0015",
+  "name": "大塚の道しるべ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0017",
+  "name": "小島家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0005",
+  "name": "目沼２号墳関連資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2006",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0006",
+  "name": "長瀬家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2006",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0007",
+  "name": "出役図絵馬・伊勢太々神楽図絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2007",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0009",
+  "name": "酒造図絵馬・桶づくり図絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2007",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0008",
+  "name": "神馬奉献図絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2007",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0010",
+  "name": "正明寺聖教文書（一括）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2012",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-114642-0011",
+  "name": "目沼瓢箪塚古墳埴輪",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2013",
+  "municipality": "杉戸町"
+ },
+ {
+  "jmh_id": "JMH-112356-0004",
+  "name": "コロボックルの碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "富士見市",
+  "location": "山室2-26（外部サイト）"
+ },
+ {
+  "jmh_id": "JMH-112356-0032",
+  "name": "道しるべ",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "富士見市",
+  "location": "大字水子1891（外部サイト）"
+ },
+ {
+  "jmh_id": "JMH-112356-0009",
+  "name": "南畑八幡神社鰐口",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "富士見市",
+  "location": "大字下南畑1148・南畑八幡神社"
+ },
+ {
+  "jmh_id": "JMH-112356-0035",
+  "name": "鶴瀬駅開設の石碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "富士見市",
+  "location": "鶴瀬駅東口土地区画整理8号緑地（外部サイト）"
+ },
+ {
+  "jmh_id": "JMH-112356-0033",
+  "name": "関口不動堂月待板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "富士見市",
+  "location": "難波田城資料館（外部サイト）"
+ },
+ {
+  "jmh_id": "JMH-112356-0031",
+  "name": "護国寺建長四年板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "富士見市",
+  "location": "大字勝瀬723-1・護国寺境内（外部サイト）"
+ },
+ {
+  "jmh_id": "JMH-112356-0010",
+  "name": "嘉吉元年月待板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "富士見市",
+  "location": "難波田城資料館（外部サイト）"
+ }
+]

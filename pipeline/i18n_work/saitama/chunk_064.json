@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112011-0128",
+  "name": "山崎家住宅（文庫蔵・便所） 市指定有形文化財 山崎家住宅（仲町2-6）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-04-12",
+  "municipality": "川越市",
+  "location": "仲町2番地6"
+ },
+ {
+  "jmh_id": "JMH-112011-0138",
+  "name": "山崎家住宅みそ蔵 市指定有形文化財 山崎家住宅（仲町2-6）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2000-04-07",
+  "municipality": "川越市",
+  "location": "仲町2番地6"
+ },
+ {
+  "jmh_id": "JMH-112011-0079",
+  "name": "市指定有形文化財 原田家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-12-25",
+  "municipality": "川越市",
+  "location": "松江町2丁目8番地6"
+ },
+ {
+  "jmh_id": "JMH-112011-0091",
+  "name": "市指定有形文化財 田口家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1981-12-25",
+  "municipality": "川越市",
+  "location": "松江町2丁目5番地11"
+ },
+ {
+  "jmh_id": "JMH-112011-0017",
+  "name": "市指定有形文化財 時の鐘",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-03-06",
+  "municipality": "川越市",
+  "location": "幸町15番地7"
+ },
+ {
+  "jmh_id": "JMH-112011-0018",
+  "name": "市指定有形文化財 薬師神社",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1958-03-06",
+  "municipality": "川越市",
+  "location": "伊佐沼577"
+ },
+ {
+  "jmh_id": "JMH-112011-0099",
+  "name": "市指定有形文化財 服部家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "幸町6番地8"
+ },
+ {
+  "jmh_id": "JMH-112011-0098",
+  "name": "市指定有形文化財 山下家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-01-29",
+  "municipality": "川越市",
+  "location": "仲町10番地9"
+ },
+ {
+  "jmh_id": "JMH-112011-0151",
+  "name": "山下家住宅（内蔵） 市指定有形文化財 山下家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2004-03-24",
+  "municipality": "川越市",
+  "location": "仲町10番地9"
+ },
+ {
+  "jmh_id": "JMH-112011-0105",
+  "name": "市指定有形文化財 岡家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1988-06-06",
+  "municipality": "川越市",
+  "location": "元町1丁目15番地5"
+ },
+ {
+  "jmh_id": "JMH-112011-0126",
+  "name": "市指定有形文化財 田中家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-04-01",
+  "municipality": "川越市",
+  "location": "仲町6番地4"
+ },
+ {
+  "jmh_id": "JMH-112011-0127",
+  "name": "市指定有形文化財 広済寺金毘羅堂及び常什物一括",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1995-04-12",
+  "municipality": "川越市",
+  "location": "喜多町5番地1"
+ },
+ {
+  "jmh_id": "JMH-112011-0130",
+  "name": "市指定有形文化財 蓮光寺総門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-04-12",
+  "municipality": "川越市",
+  "location": "渋井248"
+ },
+ {
+  "jmh_id": "JMH-112011-0129",
+  "name": "市指定有形文化財 吉田家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1996-04-12",
+  "municipality": "川越市",
+  "location": "連雀町13番地8"
+ },
+ {
+  "jmh_id": "JMH-112011-0153",
+  "name": "市指定有形文化財 斎藤家住宅(素麺蔵・米蔵・味噌蔵）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2004-03-24",
+  "municipality": "川越市",
+  "location": "下新河岸45"
+ },
+ {
+  "jmh_id": "JMH-112011-0157",
+  "name": "市指定有形文化財 旧川越織物市場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-29",
+  "municipality": "川越市",
+  "location": "松江町2丁目11番地10"
+ },
+ {
+  "jmh_id": "JMH-112011-0158",
+  "name": "市指定有形文化財 旧栄養食配給所",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-29",
+  "municipality": "川越市",
+  "location": "松江町2丁目12番地4"
+ },
+ {
+  "jmh_id": "JMH-112011-0156",
+  "name": "市指定有形文化財 宮澤家住宅",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-03-29",
+  "municipality": "川越市",
+  "location": "六軒町1丁目11番地1"
+ },
+ {
+  "jmh_id": "JMH-112011-0162",
+  "name": "市指定有形文化財 的場八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-07-22",
+  "municipality": "川越市",
+  "location": "的場529"
+ },
+ {
+  "jmh_id": "JMH-112011-0159",
+  "name": "南大塚菅原神社本殿・拝殿 付建地割図1点、造営関係文書2点、万延元年棟札1枚 市指定有形文化財 菅原神社本殿・拝殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-07-22",
+  "municipality": "川越市",
+  "location": "南大塚2丁目4番地7"
+ },
+ {
+  "jmh_id": "JMH-112011-0163",
+  "name": "市指定有形文化財 砂新田春日神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-07-22",
+  "municipality": "川越市",
+  "location": "砂新田140"
+ },
+ {
+  "jmh_id": "JMH-112011-0161",
+  "name": "市指定有形文化財 木野目稲荷神社本殿 付 嘉永5年棟札",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-07-22",
+  "municipality": "川越市",
+  "location": "木野目1162"
+ },
+ {
+  "jmh_id": "JMH-112011-0164",
+  "name": "市指定有形文化財 鴨田八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-07-22",
+  "municipality": "川越市",
+  "location": "鴨田1072"
+ },
+ {
+  "jmh_id": "JMH-112011-0160",
+  "name": "市指定有形文化財 山田八幡神社本殿 付元禄10年棟札",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2005-07-22",
+  "municipality": "川越市",
+  "location": "府川340"
+ },
+ {
+  "jmh_id": "JMH-112011-0168",
+  "name": "市指定有形文化財 寿町白山神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-08-10",
+  "municipality": "川越市",
+  "location": "寿町1丁目2303"
+ },
+ {
+  "jmh_id": "JMH-112011-0167",
+  "name": "市指定有形文化財 大袋白髭神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-08-10",
+  "municipality": "川越市",
+  "location": "大袋258"
+ },
+ {
+  "jmh_id": "JMH-112011-0166",
+  "name": "市指定有形文化財 元町2丁目六塚稲荷神社本殿 付 文政2年棟札1枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-08-10",
+  "municipality": "川越市",
+  "location": "元町2丁目8番地12"
+ },
+ {
+  "jmh_id": "JMH-112011-0169",
+  "name": "市指定有形文化財 新宿氷川神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-08-10",
+  "municipality": "川越市",
+  "location": "新宿町1丁目22番地"
+ },
+ {
+  "jmh_id": "JMH-112011-0170",
+  "name": "市指定有形文化財 砂久保稲荷神社本殿 付天保14年棟札1枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-08-10",
+  "municipality": "川越市",
+  "location": "砂久保66"
+ },
+ {
+  "jmh_id": "JMH-112011-0173",
+  "name": "市指定有形文化財 笠幡白鬚神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2009-01-28",
+  "municipality": "川越市",
+  "location": "笠幡3686"
+ },
+ {
+  "jmh_id": "JMH-112011-0172",
+  "name": "市指定有形文化財 上戸日枝神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2009-01-28",
+  "municipality": "川越市",
+  "location": "上戸316番地1"
+ },
+ {
+  "jmh_id": "JMH-112011-0185",
+  "name": "市指定有形文化財 埼玉県立川越女子高等学校明治記念館",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2014-03-25",
+  "municipality": "川越市",
+  "location": "六軒町1丁目23"
+ },
+ {
+  "jmh_id": "JMH-112011-0188",
+  "name": "市指定有形文化財 笹原門樋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "川越市",
+  "location": "古谷上地内"
+ },
+ {
+  "jmh_id": "JMH-112011-0187",
+  "name": "市指定有形文化財 沼口門樋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "川越市",
+  "location": "古谷上地内"
+ },
+ {
+  "jmh_id": "JMH-112011-0186",
+  "name": "市指定有形文化財 三軒家樋管",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "川越市",
+  "location": "渋井地内"
+ },
+ {
+  "jmh_id": "JMH-112011-0107",
+  "name": "市指定有形文化財 堀河夜討図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1989-05-12",
+  "municipality": "川越市",
+  "location": "元町2丁目11番地1（養寿院）"
+ },
+ {
+  "jmh_id": "JMH-112011-0059",
+  "name": "市指定有形文化財 円空仏",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-02-08",
+  "municipality": "川越市",
+  "location": "元町2丁目11番地1（養寿院）"
+ },
+ {
+  "jmh_id": "JMH-112011-0061",
+  "name": "市指定有形文化財 木造阿弥陀如来坐像（蓮馨寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1972-02-08",
+  "municipality": "川越市",
+  "location": "連雀町7番地1（蓮馨寺）"
+ },
+ {
+  "jmh_id": "JMH-112011-0076",
+  "name": "市指定有形文化財 木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1980-02-13",
+  "municipality": "川越市",
+  "location": "小中居"
+ },
+ {
+  "jmh_id": "JMH-112011-0111",
+  "name": "市指定有形文化財 木造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1992-04-16",
+  "municipality": "川越市",
+  "location": "仙波町4丁目10番地10（天然寺）"
+ }
+]

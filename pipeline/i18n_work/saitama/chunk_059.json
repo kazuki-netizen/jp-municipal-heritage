@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112071-0180",
+  "name": "浜平獅子舞の獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2002-01-23",
+  "municipality": "秩父市",
+  "location": "大滝4277-4"
+ },
+ {
+  "jmh_id": "JMH-112071-0161",
+  "name": "稲荷神社石垣",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1990-04-09",
+  "municipality": "秩父市",
+  "location": "荒川小野原329"
+ },
+ {
+  "jmh_id": "JMH-112071-0025",
+  "name": "石経塚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "秩父市",
+  "location": "荒川上田野967-3"
+ },
+ {
+  "jmh_id": "JMH-112071-0024",
+  "name": "爪彫りの石",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "秩父市",
+  "location": "荒川上田野967-3"
+ },
+ {
+  "jmh_id": "JMH-112071-0157",
+  "name": "半纏の笠鉾",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1988-05-21",
+  "municipality": "秩父市",
+  "location": "荒川日野76"
+ },
+ {
+  "jmh_id": "JMH-112071-0178",
+  "name": "橘場の双体道祖神",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-10-25",
+  "municipality": "秩父市",
+  "location": "荒川白久308"
+ },
+ {
+  "jmh_id": "JMH-112071-0185",
+  "name": "廣見寺本堂額縁(元下郷笠鉾万燈)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2007-02-27",
+  "municipality": "秩父市",
+  "location": "下宮地町25-29"
+ },
+ {
+  "jmh_id": "JMH-112071-0193",
+  "name": "川瀬祭笠鉾・屋台8基 番場町屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "番場町9-2"
+ },
+ {
+  "jmh_id": "JMH-112071-0189",
+  "name": "川瀬祭笠鉾・屋台8基 宮側町屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "宮側町14-6"
+ },
+ {
+  "jmh_id": "JMH-112071-0191",
+  "name": "川瀬祭笠鉾・屋台8基 東町屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "東町7-9"
+ },
+ {
+  "jmh_id": "JMH-112071-0192",
+  "name": "川瀬祭笠鉾・屋台8基 熊木町笠鉾",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "熊木町13-9"
+ },
+ {
+  "jmh_id": "JMH-112071-0194",
+  "name": "川瀬祭笠鉾・屋台8基 道生町笠鉾",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "道生町3-23"
+ },
+ {
+  "jmh_id": "JMH-112071-0187",
+  "name": "川瀬祭笠鉾・屋台8基 上町笠鉾",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "上町2-9-12"
+ },
+ {
+  "jmh_id": "JMH-112071-0188",
+  "name": "川瀬祭笠鉾・屋台8基 中町笠鉾",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "中町1595-2"
+ },
+ {
+  "jmh_id": "JMH-112071-0190",
+  "name": "川瀬祭笠鉾・屋台8基 本町屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2008-03-25",
+  "municipality": "秩父市",
+  "location": "番場町1-1"
+ },
+ {
+  "jmh_id": "JMH-112071-0010",
+  "name": "黒谷の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1957-02-08",
+  "municipality": "秩父市",
+  "location": "黒谷2191"
+ },
+ {
+  "jmh_id": "JMH-112071-0004",
+  "name": "久那の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1957-02-08",
+  "municipality": "秩父市",
+  "location": "久那2276-2"
+ },
+ {
+  "jmh_id": "JMH-112071-0017",
+  "name": "矢行地の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1958-10-08",
+  "municipality": "秩父市",
+  "location": "山田326"
+ },
+ {
+  "jmh_id": "JMH-112071-0016",
+  "name": "田野澤の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1958-10-08",
+  "municipality": "秩父市",
+  "location": "下影森"
+ },
+ {
+  "jmh_id": "JMH-112071-0039",
+  "name": "太田熊野神社の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1961-09-27",
+  "municipality": "秩父市",
+  "location": "太田1320"
+ },
+ {
+  "jmh_id": "JMH-112071-0080",
+  "name": "琴平神社の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1968-06-03",
+  "municipality": "秩父市",
+  "location": "下影森1455"
+ },
+ {
+  "jmh_id": "JMH-112071-0084",
+  "name": "秩父歌舞伎正和会",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-01-08",
+  "municipality": "秩父市",
+  "location": "下宮地町"
+ },
+ {
+  "jmh_id": "JMH-112071-0109",
+  "name": "中蒔田椋神社の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-04-06",
+  "municipality": "秩父市",
+  "location": "蒔田(中蒔田椋神社)"
+ },
+ {
+  "jmh_id": "JMH-112071-0128",
+  "name": "柳田の千塔離",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-05-09",
+  "municipality": "秩父市",
+  "location": "柳田町"
+ },
+ {
+  "jmh_id": "JMH-112071-0079",
+  "name": "諏訪神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1968-04-13",
+  "municipality": "秩父市",
+  "location": "吉田石間字漆木"
+ },
+ {
+  "jmh_id": "JMH-112071-0130",
+  "name": "久長の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-07-07",
+  "municipality": "秩父市",
+  "location": "吉田久長小薮原"
+ },
+ {
+  "jmh_id": "JMH-112071-0138",
+  "name": "白岩の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-07-07",
+  "municipality": "秩父市",
+  "location": "吉田阿熊字白岩"
+ },
+ {
+  "jmh_id": "JMH-112071-0137",
+  "name": "産泰様腹帯祭り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-07-07",
+  "municipality": "秩父市",
+  "location": "下吉田橘倉"
+ },
+ {
+  "jmh_id": "JMH-112071-0136",
+  "name": "橘倉のフセギ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-07-07",
+  "municipality": "秩父市",
+  "location": "下吉田橘倉"
+ },
+ {
+  "jmh_id": "JMH-112071-0135",
+  "name": "桜井のまわり念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1980-07-07",
+  "municipality": "秩父市",
+  "location": "下吉田桜井"
+ },
+ {
+  "jmh_id": "JMH-112071-0168",
+  "name": "福田のフセギ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-09-17",
+  "municipality": "秩父市",
+  "location": "下吉田字福田"
+ },
+ {
+  "jmh_id": "JMH-112071-0164",
+  "name": "塚越のフセギ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-09-17",
+  "municipality": "秩父市",
+  "location": "上吉田字塚越"
+ },
+ {
+  "jmh_id": "JMH-112071-0167",
+  "name": "沢口の精霊送り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-09-17",
+  "municipality": "秩父市",
+  "location": "吉田石間字沢口"
+ },
+ {
+  "jmh_id": "JMH-112071-0165",
+  "name": "大日堂の天道念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-09-17",
+  "municipality": "秩父市",
+  "location": "下吉田字大日堂"
+ },
+ {
+  "jmh_id": "JMH-112071-0166",
+  "name": "女部田の女人念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-09-17",
+  "municipality": "秩父市",
+  "location": "上吉田字女部田"
+ },
+ {
+  "jmh_id": "JMH-112071-0175",
+  "name": "小川の精霊送り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-06-26",
+  "municipality": "秩父市",
+  "location": "上吉田字小川"
+ },
+ {
+  "jmh_id": "JMH-112071-0172",
+  "name": "十頭神社の神奥渡御",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-06-26",
+  "municipality": "秩父市",
+  "location": "上吉田字明ヶ平"
+ },
+ {
+  "jmh_id": "JMH-112071-0173",
+  "name": "取方の彼岸念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-06-26",
+  "municipality": "秩父市",
+  "location": "下吉田字取方"
+ },
+ {
+  "jmh_id": "JMH-112071-0174",
+  "name": "小坂下の天道念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-06-26",
+  "municipality": "秩父市",
+  "location": "下吉田字小坂下"
+ },
+ {
+  "jmh_id": "JMH-112071-0098",
+  "name": "三峰の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "秩父市",
+  "location": "三峰298"
+ }
+]

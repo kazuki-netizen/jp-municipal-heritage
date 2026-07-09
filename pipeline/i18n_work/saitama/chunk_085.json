@@ -1,0 +1,352 @@
+[
+ {
+  "jmh_id": "JMH-113271-0005",
+  "name": "大宮神社の聖天像（おおみやじんじゃのしょうてんぞう）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1962-02-14",
+  "municipality": "越生町",
+  "location": "大字上野"
+ },
+ {
+  "jmh_id": "JMH-113271-0002",
+  "name": "高蔵寺の地蔵像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1962-02-01",
+  "municipality": "越生町",
+  "location": "大字津久根"
+ },
+ {
+  "jmh_id": "JMH-113271-0003",
+  "name": "中村薬師像（なかむらやくしぞう）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1962-02-14",
+  "municipality": "越生町"
+ },
+ {
+  "jmh_id": "JMH-113271-0011",
+  "name": "下ヶ戸薬師十二神将像（さげどやくしじゅうにしんしょうぞう）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1974-11-28",
+  "municipality": "越生町"
+ },
+ {
+  "jmh_id": "JMH-113271-0014",
+  "name": "法恩寺大日如来坐像（ほうおんじだいにちにょらいざぞう）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1982-06-25",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0015",
+  "name": "見正寺聖観音立像（けんしょうじしょうかんのんりつぞう）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1982-06-25",
+  "municipality": "越生町",
+  "location": "大字成瀬"
+ },
+ {
+  "jmh_id": "JMH-113271-0004",
+  "name": "八幡神社の金剛盤（はちまんじんじゃのこんごうばん）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1962-02-14",
+  "municipality": "越生町",
+  "location": "大字津久根"
+ },
+ {
+  "jmh_id": "JMH-113271-0009",
+  "name": "最勝寺の笈（さいしょうじのおい）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1971-02-02",
+  "municipality": "越生町",
+  "location": "大字堂山"
+ },
+ {
+  "jmh_id": "JMH-113271-0010",
+  "name": "龍穏寺の山門（無相門）（りゅうおんじのさんもん・むそうもん）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1971-02-02",
+  "municipality": "越生町",
+  "location": "大字龍ヶ谷"
+ },
+ {
+  "jmh_id": "JMH-113271-0026",
+  "name": "大宮神社本殿（おおみやじんじゃほんでん）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2000-08-23",
+  "municipality": "越生町",
+  "location": "大字上野"
+ },
+ {
+  "jmh_id": "JMH-113271-0027",
+  "name": "八幡神社本殿（はちまんじんじゃほんでん）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2000-08-24",
+  "municipality": "越生町",
+  "location": "大字津久根"
+ },
+ {
+  "jmh_id": "JMH-113271-0028",
+  "name": "梅園神社本殿（うめそのじんじゃほんでん）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2000-08-24",
+  "municipality": "越生町",
+  "location": "大字小杉"
+ },
+ {
+  "jmh_id": "JMH-113271-0029",
+  "name": "熊野神社社殿（くまのじんじゃしゃでん）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2000-08-24",
+  "municipality": "越生町",
+  "location": "大字龍ヶ谷"
+ },
+ {
+  "jmh_id": "JMH-113271-0008",
+  "name": "渋沢平九郎自決の地（しぶさわへいくろうじけつのち）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1962-02-14",
+  "municipality": "越生町",
+  "location": "大字黒山"
+ },
+ {
+  "jmh_id": "JMH-113271-0025",
+  "name": "龍ヶ谷のヤマザクラ（たつがやのやまざくら）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1997-04-01",
+  "municipality": "越生町",
+  "location": "大字龍ヶ谷"
+ },
+ {
+  "jmh_id": "JMH-113271-0034",
+  "name": "魁雪（かいせつ）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2025-01-09",
+  "municipality": "越生町",
+  "location": "大字堂山"
+ },
+ {
+  "jmh_id": "JMH-113271-0013",
+  "name": "龍穏寺一切蔵経（りゅうおんじいっさいぞうきょう）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1981-07-10",
+  "municipality": "越生町",
+  "location": "大字龍ヶ谷"
+ },
+ {
+  "jmh_id": "JMH-113271-0001",
+  "name": "興禅寺の板碑（こうぜんじのいたび）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1962-02-01",
+  "municipality": "越生町",
+  "location": "大字西和田"
+ },
+ {
+  "jmh_id": "JMH-113271-0006",
+  "name": "太平山栄円の墓（おおひらさんえいえんのはか）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1962-02-14",
+  "municipality": "越生町",
+  "location": "大字黒山"
+ },
+ {
+  "jmh_id": "JMH-113271-0007",
+  "name": "梅園神社の棟札（うめそのじんじゃのむなふだ）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1962-02-14",
+  "municipality": "越生町",
+  "location": "大字小杉"
+ },
+ {
+  "jmh_id": "JMH-113271-0030",
+  "name": "亀田鵬斎書 幟（かめだぼうさいしょ　のぼり）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2009-07-27",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0033",
+  "name": "鈴木金兵衛の巡拝碑と句碑",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2014-04-09",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0020",
+  "name": "越生神社祭典 河原町山車（かわらちょうだし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1988-04-01",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0018",
+  "name": "越生神社祭典 新宿町山車（あらじゅくちょうだし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1988-04-01",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0016",
+  "name": "越生神社祭典 上町山車（かみちょうだし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1988-04-01",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0017",
+  "name": "越生神社祭典 仲町山車（なかちょうだし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1988-04-01",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0019",
+  "name": "越生神社祭典 本町山車（ほんちょうだし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1988-04-01",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0021",
+  "name": "越生神社祭典 黒岩町山車（くろいわちょうだし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1988-04-01",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0031",
+  "name": "越生神社 神輿（おごせじんじゃみこし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2011-09-28",
+  "municipality": "越生町",
+  "location": "大字越生"
+ },
+ {
+  "jmh_id": "JMH-113271-0032",
+  "name": "西和田天王社 神輿（にしわだてんのうしゃみこし）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2012-07-13",
+  "municipality": "越生町",
+  "location": "大字西和田"
+ },
+ {
+  "jmh_id": "JMH-113271-0012",
+  "name": "八幡神社の獅子舞（はちまんじんじゃのししまい）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1974-11-28",
+  "municipality": "越生町",
+  "location": "大字津久根"
+ },
+ {
+  "jmh_id": "JMH-113271-0023",
+  "name": "東山神社の獅子舞（ひがしやまじんじゃのししまい）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1997-04-01",
+  "municipality": "越生町",
+  "location": "大字上野"
+ },
+ {
+  "jmh_id": "JMH-113271-0024",
+  "name": "梅園神社の獅子舞（うめそのじんじゃのししまい）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1997-04-01",
+  "municipality": "越生町",
+  "location": "大字小杉"
+ },
+ {
+  "jmh_id": "JMH-113271-0022",
+  "name": "住吉神社の獅子舞（すみよしじんじゃのししまい）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1997-04-01",
+  "municipality": "越生町",
+  "location": "大字麦原"
+ },
+ {
+  "jmh_id": "JMH-114651-0028",
+  "name": "蓮福寺の絵馬",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "松伏町"
+ },
+ {
+  "jmh_id": "JMH-114651-0006",
+  "name": "倶利迦羅不動剣",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "松伏町"
+ },
+ {
+  "jmh_id": "JMH-114651-0030",
+  "name": "金剛界大日如来坐像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "松伏町"
+ },
+ {
+  "jmh_id": "JMH-114651-0013",
+  "name": "地蔵菩薩坐像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "松伏町"
+ },
+ {
+  "jmh_id": "JMH-114651-0032",
+  "name": "静栖寺の石川民部家石塔群",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "松伏町"
+ },
+ {
+  "jmh_id": "JMH-114651-0023",
+  "name": "源光寺の帰依仏塔",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "松伏町"
+ }
+]

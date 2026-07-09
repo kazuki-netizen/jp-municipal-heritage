@@ -1,0 +1,383 @@
+[
+ {
+  "jmh_id": "JMH-112194-0061",
+  "name": "堤崎の祭りばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-07-01",
+  "municipality": "上尾市",
+  "location": "堤崎地区"
+ },
+ {
+  "jmh_id": "JMH-112194-0064",
+  "name": "少林寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1995-08-01",
+  "municipality": "上尾市",
+  "location": "少林寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0065",
+  "name": "小塚浅間塚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-03-28",
+  "municipality": "上尾市",
+  "location": "関根家"
+ },
+ {
+  "jmh_id": "JMH-112194-0066",
+  "name": "鈴木荘丹俳諧歌碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-03-28",
+  "municipality": "上尾市",
+  "location": "馬蹄寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0067",
+  "name": "須田家の神楽師用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-03-28",
+  "municipality": "上尾市",
+  "location": "上尾市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-112194-0068",
+  "name": "神山家煉瓦蔵・煉瓦塀 付棟札一枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2002-03-28",
+  "municipality": "上尾市",
+  "location": "神山家"
+ },
+ {
+  "jmh_id": "JMH-112194-0069",
+  "name": "殿山古墳 付 出土品四点",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2003-03-28",
+  "municipality": "上尾市",
+  "location": "本多家(付は市​）"
+ },
+ {
+  "jmh_id": "JMH-112194-0072",
+  "name": "南村須田家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2005-03-28",
+  "municipality": "上尾市",
+  "location": "上尾市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-112194-0071",
+  "name": "上尾宿助郷関係（壱丁目村）文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2005-03-28",
+  "municipality": "上尾市",
+  "location": "上尾市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-112194-0073",
+  "name": "平方村石倉家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2005-03-28",
+  "municipality": "上尾市",
+  "location": "上尾市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-112194-0075",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2010-03-18",
+  "municipality": "上尾市",
+  "location": "畔吉東部共同墓地内堂"
+ },
+ {
+  "jmh_id": "JMH-112194-0074",
+  "name": "木造達磨大師坐像 ・招宝七郎大権修利菩薩倚像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2010-03-18",
+  "municipality": "上尾市",
+  "location": "龍真寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0080",
+  "name": "馬蹄寺徳本行者六字名号供養塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-22",
+  "municipality": "上尾市",
+  "location": "馬蹄寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0076",
+  "name": "十連寺徳本行者六字名号供養塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-22",
+  "municipality": "上尾市",
+  "location": "十連寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0078",
+  "name": "相頓寺徳本行者六字名号供養塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-22",
+  "municipality": "上尾市",
+  "location": "相頓寺"
+ },
+ {
+  "jmh_id": "JMH-112194-0077",
+  "name": "畔吉諏訪神社大山石灯籠",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-22",
+  "municipality": "上尾市",
+  "location": "畔吉諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-112194-0079",
+  "name": "領家大山石灯籠",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2012-03-22",
+  "municipality": "上尾市",
+  "location": "領家農村センター"
+ },
+ {
+  "jmh_id": "JMH-112194-0081",
+  "name": "坂上遺跡方形周溝墓出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2015-02-19",
+  "municipality": "上尾市",
+  "location": "上尾市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-112194-0082",
+  "name": "武州平方箕輪囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2015-02-19",
+  "municipality": "上尾市",
+  "location": "平方上宿地区"
+ },
+ {
+  "jmh_id": "JMH-112194-0083",
+  "name": "伝どんどん山出土海獣葡萄鏡",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2017-03-24",
+  "municipality": "上尾市",
+  "location": "上尾市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-112194-0084",
+  "name": "山﨑家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2023-03-24",
+  "municipality": "上尾市",
+  "location": "上尾市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-114081-0034",
+  "name": "水野家一族の墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0005",
+  "name": "代官遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "用土地内"
+ },
+ {
+  "jmh_id": "JMH-114081-0050",
+  "name": "雨宮春澤宅跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "鉢形地内"
+ },
+ {
+  "jmh_id": "JMH-114081-0020",
+  "name": "成瀬正芳・正定墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "三品"
+ },
+ {
+  "jmh_id": "JMH-114081-0010",
+  "name": "国分寺瓦焼場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "末野"
+ },
+ {
+  "jmh_id": "JMH-114081-0031",
+  "name": "柳沢兵部丞信俊夫妻の墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "今市"
+ },
+ {
+  "jmh_id": "JMH-114081-0045",
+  "name": "花園城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "末野"
+ },
+ {
+  "jmh_id": "JMH-114081-0009",
+  "name": "四十八釜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "鉢形・西ノ入"
+ },
+ {
+  "jmh_id": "JMH-114081-0051",
+  "name": "高野槙",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0049",
+  "name": "鉢形城の桜・エドヒガン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "鉢形"
+ },
+ {
+  "jmh_id": "JMH-114081-0047",
+  "name": "赤浜中戸のヤブツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0011",
+  "name": "塚田三嶋神社のヤブツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0015",
+  "name": "姥宮神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "赤浜"
+ },
+ {
+  "jmh_id": "JMH-114081-0022",
+  "name": "旧市神様社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "藤田"
+ },
+ {
+  "jmh_id": "JMH-114081-0003",
+  "name": "仙男仙女の図（仙女図のみ）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "藤田"
+ },
+ {
+  "jmh_id": "JMH-114081-0040",
+  "name": "百人一首画格天井",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "末野"
+ },
+ {
+  "jmh_id": "JMH-114081-0008",
+  "name": "十六羅漢の図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "鉢形"
+ },
+ {
+  "jmh_id": "JMH-114081-0027",
+  "name": "木造薬師如来立像及び十二神将像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "西ノ入"
+ },
+ {
+  "jmh_id": "JMH-114081-0002",
+  "name": "仏像（ぶつぞう）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "寄居町",
+  "location": "鉢形"
+ }
+]

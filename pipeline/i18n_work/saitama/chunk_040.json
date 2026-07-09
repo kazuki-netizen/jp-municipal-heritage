@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-112119-0108",
+  "name": "風洞の石幢",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町秋山2825-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0001",
+  "name": "ほてい堂の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平442"
+ },
+ {
+  "jmh_id": "JMH-112119-0080",
+  "name": "浄厳の画像及び墨跡",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平445"
+ },
+ {
+  "jmh_id": "JMH-112119-0091",
+  "name": "西五十子の阿弥陀一尊種子板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市西五十子425"
+ },
+ {
+  "jmh_id": "JMH-112119-0081",
+  "name": "玉蓮寺釈迦一尊種子板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉202"
+ },
+ {
+  "jmh_id": "JMH-112119-0037",
+  "name": "実相寺阿弥陀一尊種子板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉100"
+ },
+ {
+  "jmh_id": "JMH-112119-0010",
+  "name": "保木野の宝篋印塔板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町保木野"
+ },
+ {
+  "jmh_id": "JMH-112119-0009",
+  "name": "保木野の円形光背板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町保木野"
+ },
+ {
+  "jmh_id": "JMH-112119-0036",
+  "name": "宝亀二年銘木簡",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉2510-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0021",
+  "name": "八幡神社の日清戦争奉納額",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉198"
+ },
+ {
+  "jmh_id": "JMH-112119-0090",
+  "name": "茂木小平翁頌徳碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市千代田3-2"
+ },
+ {
+  "jmh_id": "JMH-112119-0105",
+  "name": "開善寺の御朱印箱",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央2-8-26"
+ },
+ {
+  "jmh_id": "JMH-112119-0005",
+  "name": "仁手諏訪神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市仁手353"
+ },
+ {
+  "jmh_id": "JMH-112119-0006",
+  "name": "今井金鑚神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市今井1124-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0045",
+  "name": "小平の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平"
+ },
+ {
+  "jmh_id": "JMH-112119-0027",
+  "name": "吉田林の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町吉田林"
+ },
+ {
+  "jmh_id": "JMH-112119-0096",
+  "name": "金鑚神楽本庄組",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市千代田3-2-3"
+ },
+ {
+  "jmh_id": "JMH-112119-0095",
+  "name": "金鑚神楽宮崎組",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市牧西557"
+ },
+ {
+  "jmh_id": "JMH-112119-0097",
+  "name": "金鑚神楽杉田組",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市四方田288-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0094",
+  "name": "金鑚神楽太駄組",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町太駄"
+ },
+ {
+  "jmh_id": "JMH-112119-0098",
+  "name": "金鑚神楽根岸組",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平1051"
+ },
+ {
+  "jmh_id": "JMH-112119-0092",
+  "name": "西小平の万作",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町小平"
+ },
+ {
+  "jmh_id": "JMH-112119-0012",
+  "name": "元田の万作",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町元田"
+ },
+ {
+  "jmh_id": "JMH-112119-0065",
+  "name": "本庄宮本町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市千代田3-1-2"
+ },
+ {
+  "jmh_id": "JMH-112119-0068",
+  "name": "本庄泉町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市千代田1-6-4"
+ },
+ {
+  "jmh_id": "JMH-112119-0061",
+  "name": "本庄上町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央3-3-5"
+ },
+ {
+  "jmh_id": "JMH-112119-0069",
+  "name": "本庄照若町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市若泉1-1-30"
+ },
+ {
+  "jmh_id": "JMH-112119-0060",
+  "name": "本庄七軒町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市銀座1-6-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0062",
+  "name": "本庄仲町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央1-5-2"
+ },
+ {
+  "jmh_id": "JMH-112119-0066",
+  "name": "本庄本町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市本庄3-5"
+ },
+ {
+  "jmh_id": "JMH-112119-0063",
+  "name": "本庄台町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市本庄2-6-20"
+ },
+ {
+  "jmh_id": "JMH-112119-0067",
+  "name": "本庄本町の神輿",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市本庄3-2-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0016",
+  "name": "児玉新町の屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉137-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0013",
+  "name": "児玉上町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉40-4"
+ },
+ {
+  "jmh_id": "JMH-112119-0014",
+  "name": "児玉仲町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町2512-1"
+ },
+ {
+  "jmh_id": "JMH-112119-0017",
+  "name": "児玉本町の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町1257"
+ },
+ {
+  "jmh_id": "JMH-112119-0024",
+  "name": "八幡神社能装束・能面",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町児玉198"
+ },
+ {
+  "jmh_id": "JMH-112119-0100",
+  "name": "長沖の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町長沖49"
+ },
+ {
+  "jmh_id": "JMH-112119-0073",
+  "name": "正楽寺の十一面観音",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市児玉町上真下451"
+ },
+ {
+  "jmh_id": "JMH-112119-0048",
+  "name": "小笠原信嶺夫妻の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "本庄市",
+  "location": "本庄市中央1-4"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-112020-0165",
+  "name": "手島八幡様の由来",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1979-05-14",
+  "municipality": "熊谷市",
+  "location": "手島"
+ },
+ {
+  "jmh_id": "JMH-112020-0206",
+  "name": "篠場家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "板井"
+ },
+ {
+  "jmh_id": "JMH-112020-0224",
+  "name": "貴惣門文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2005-09-26",
+  "municipality": "熊谷市",
+  "location": "妻沼1511"
+ },
+ {
+  "jmh_id": "JMH-112020-0227",
+  "name": "足利尊氏御判御教書 付 山下教輔宛根岸武香書状「證」 1点 足利尊氏御判御教書鑑定書 1点",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2006-02-28",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0226",
+  "name": "根岸家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書",
+  "designation": "市指定",
+  "designated_date": "2006-02-28",
+  "municipality": "熊谷市",
+  "location": "さいたま市浦和区高砂4-3-18"
+ },
+ {
+  "jmh_id": "JMH-112020-0026",
+  "name": "古瓦",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "熊谷市",
+  "location": "西別府2044"
+ },
+ {
+  "jmh_id": "JMH-112020-0045",
+  "name": "古墳副葬品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0052",
+  "name": "正嘉銘板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "押切134"
+ },
+ {
+  "jmh_id": "JMH-112020-0074",
+  "name": "蕨手刀",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1958-11-03",
+  "municipality": "熊谷市",
+  "location": "桜木町2-33-2"
+ },
+ {
+  "jmh_id": "JMH-112020-0083",
+  "name": "阿弥陀三尊板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1959-04-17",
+  "municipality": "熊谷市",
+  "location": "永井太田1141"
+ },
+ {
+  "jmh_id": "JMH-112020-0153",
+  "name": "古塚古墳石棺",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-03",
+  "municipality": "熊谷市",
+  "location": "肥塚2-6-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0182",
+  "name": "東沢遺跡出土木製品一括(13点)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1979-11-03",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0207",
+  "name": "籠目紋土器 他",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0201",
+  "name": "弘安銘曼陀羅板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0204",
+  "name": "正安銘板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "押切"
+ },
+ {
+  "jmh_id": "JMH-112020-0203",
+  "name": "正嘉銘虚空蔵菩薩板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "押切"
+ },
+ {
+  "jmh_id": "JMH-112020-0211",
+  "name": "塩西原１８号古墳出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1998-02-10",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0222",
+  "name": "諏訪木遺跡出土遺物118点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-02-22",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0223",
+  "name": "福寿院板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2005-09-26",
+  "municipality": "熊谷市",
+  "location": "弥藤吾2002"
+ },
+ {
+  "jmh_id": "JMH-112020-0248",
+  "name": "中西遺跡出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2022-03-31",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0249",
+  "name": "立野古墳群第１２号墳出土遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2022-03-31",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0048",
+  "name": "旧千代村 高札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1957-10-18",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0202",
+  "name": "旧観音寺地蔵",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "樋春297"
+ },
+ {
+  "jmh_id": "JMH-112020-0199",
+  "name": "寛政銘双体道祖神像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "押切700"
+ },
+ {
+  "jmh_id": "JMH-112020-0198",
+  "name": "享保銘波乗弁財天像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1997-01-20",
+  "municipality": "熊谷市",
+  "location": "押切1076"
+ },
+ {
+  "jmh_id": "JMH-112020-0214",
+  "name": "鷹図絵馬５枚付箱１口",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2001-03-07",
+  "municipality": "熊谷市",
+  "location": "三ヶ尻2924"
+ },
+ {
+  "jmh_id": "JMH-112020-0216",
+  "name": "裁許絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2002-07-30",
+  "municipality": "熊谷市",
+  "location": "千代329"
+ },
+ {
+  "jmh_id": "JMH-112020-0218",
+  "name": "五傍の掲示 高札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2003-07-30",
+  "municipality": "熊谷市",
+  "location": "樋春"
+ },
+ {
+  "jmh_id": "JMH-112020-0220",
+  "name": "龍淵寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2004-03-02",
+  "municipality": "熊谷市",
+  "location": "上之336"
+ },
+ {
+  "jmh_id": "JMH-112020-0239",
+  "name": "E.S.モース関連資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2015-11-27",
+  "municipality": "熊谷市",
+  "location": "冑山"
+ },
+ {
+  "jmh_id": "JMH-112020-0240",
+  "name": "「みかりや」関連資料",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2017-03-31",
+  "municipality": "熊谷市",
+  "location": "久下（一部、埼玉県立歴史と民俗の博物館寄託）"
+ },
+ {
+  "jmh_id": "JMH-112020-0247",
+  "name": "長慶寺薬師堂厨子",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2020-08-28",
+  "municipality": "熊谷市",
+  "location": "西城93-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0221",
+  "name": "妻沼太鼓",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2005-01-12",
+  "municipality": "熊谷市",
+  "location": "妻沼"
+ },
+ {
+  "jmh_id": "JMH-112020-0020",
+  "name": "肥塚氏供養板石塔婆",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1954-11-03",
+  "municipality": "熊谷市",
+  "location": "肥塚"
+ },
+ {
+  "jmh_id": "JMH-112020-0030",
+  "name": "茶臼塚板石塔婆",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "熊谷市",
+  "location": "村岡362-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0037",
+  "name": "権八地蔵",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1956-11-03",
+  "municipality": "熊谷市",
+  "location": "久下2342-5"
+ },
+ {
+  "jmh_id": "JMH-112020-0060",
+  "name": "白蛇曼荼羅",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "熊谷市",
+  "location": "玉井1911"
+ },
+ {
+  "jmh_id": "JMH-112020-0079",
+  "name": "僧形庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1959-04-17",
+  "municipality": "熊谷市",
+  "location": "西城93-1"
+ },
+ {
+  "jmh_id": "JMH-112020-0091",
+  "name": "石像十三仏",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "池上981"
+ },
+ {
+  "jmh_id": "JMH-112020-0087",
+  "name": "五輪塔所刻板石塔婆",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1959-11-03",
+  "municipality": "熊谷市",
+  "location": "上中条1160"
+ }
+]
