@@ -1,0 +1,392 @@
+[
+ {
+  "jmh_id": "JMH-122106-0040",
+  "name": "羯鼓頭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0035",
+  "name": "真名天照皇大神宮の絵馬（9面）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0039",
+  "name": "羯鼓舞",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0007",
+  "name": "二宮神社の筒粥の神事及びお的の神事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0011",
+  "name": "八坂神社幟挟み",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122319-0013",
+  "name": "弥陀一尊武蔵型板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1982-08-05",
+  "municipality": "印西市",
+  "location": "浦部1978－1"
+ },
+ {
+  "jmh_id": "JMH-122319-0014",
+  "name": "弥陀三尊下総型板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1982-08-05",
+  "municipality": "印西市",
+  "location": "小林1841"
+ },
+ {
+  "jmh_id": "JMH-122319-0007",
+  "name": "板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1976-06-01",
+  "municipality": "印西市",
+  "location": "吉高533－1－2"
+ },
+ {
+  "jmh_id": "JMH-122319-0016",
+  "name": "板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-05-08",
+  "municipality": "印西市",
+  "location": "岩戸1742印旛歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-122319-0019",
+  "name": "福聚院阿弥陀三尊立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1993-06-22",
+  "municipality": "印西市",
+  "location": "中根1378"
+ },
+ {
+  "jmh_id": "JMH-122319-0024",
+  "name": "薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "2010-02-19",
+  "municipality": "印西市",
+  "location": "滝1008－1"
+ },
+ {
+  "jmh_id": "JMH-122319-0011",
+  "name": "鋳銅鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1979-09-10",
+  "municipality": "印西市",
+  "location": "竹袋141"
+ },
+ {
+  "jmh_id": "JMH-122319-0015",
+  "name": "観音寺鋳造鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1982-08-05",
+  "municipality": "印西市",
+  "location": "浦部1978－1"
+ },
+ {
+  "jmh_id": "JMH-122319-0008",
+  "name": "鋳銅鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1976-06-01",
+  "municipality": "印西市",
+  "location": "松虫7"
+ },
+ {
+  "jmh_id": "JMH-122319-0009",
+  "name": "曼荼羅掛軸",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1979-05-28",
+  "municipality": "印西市",
+  "location": "笠神725"
+ },
+ {
+  "jmh_id": "JMH-122319-0020",
+  "name": "龍湖寺絵馬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1993-06-22",
+  "municipality": "印西市",
+  "location": "物木213"
+ },
+ {
+  "jmh_id": "JMH-122319-0017",
+  "name": "吉岡家河岸関係文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "1991-06-04",
+  "municipality": "印西市",
+  "location": "木下地先"
+ },
+ {
+  "jmh_id": "JMH-122319-0006",
+  "name": "常滑の大壺",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1976-06-01",
+  "municipality": "印西市",
+  "location": "岩戸1742印旛歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-122319-0018",
+  "name": "小金牧鹿狩資料「村小旗」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-06-04",
+  "municipality": "印西市",
+  "location": "木下1489－1木下交流の杜歴史資料センター"
+ },
+ {
+  "jmh_id": "JMH-122319-0022",
+  "name": "高札（五榜の掲示）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-07-06",
+  "municipality": "印西市",
+  "location": "酒直卜杭地先"
+ },
+ {
+  "jmh_id": "JMH-122319-0002",
+  "name": "別所の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1966-04-19",
+  "municipality": "印西市",
+  "location": "別所1005"
+ },
+ {
+  "jmh_id": "JMH-122319-0001",
+  "name": "いなざき獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1966-04-19",
+  "municipality": "印西市",
+  "location": "和泉622"
+ },
+ {
+  "jmh_id": "JMH-122319-0005",
+  "name": "八幡神社の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-04-01",
+  "municipality": "印西市",
+  "location": "中根1092"
+ },
+ {
+  "jmh_id": "JMH-122319-0003",
+  "name": "月影の井",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1968-04-25",
+  "municipality": "印西市",
+  "location": "浦部1261－2"
+ },
+ {
+  "jmh_id": "JMH-122319-0004",
+  "name": "上宿古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-19",
+  "municipality": "印西市",
+  "location": "大森2346－2"
+ },
+ {
+  "jmh_id": "JMH-122319-0021",
+  "name": "武西の百庚申塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1999-03-25",
+  "municipality": "印西市",
+  "location": "武西学園台三丁目128"
+ },
+ {
+  "jmh_id": "JMH-122319-0023",
+  "name": "泉新田大木戸野馬堀遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "2005-08-16",
+  "municipality": "印西市",
+  "location": "草深1878－7泉70－10"
+ },
+ {
+  "jmh_id": "JMH-122319-0025",
+  "name": "道作古墳群（道作1号墳、4号墳、5号墳）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "2014-03-24",
+  "municipality": "印西市",
+  "location": "小林字馬場2826－1、2826－5"
+ },
+ {
+  "jmh_id": "JMH-122319-0026",
+  "name": "掩体壕（えんたいごう）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "2016-09-23",
+  "municipality": "印西市",
+  "location": "東の原3丁目108"
+ },
+ {
+  "jmh_id": "JMH-122319-0012",
+  "name": "吉高の大桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-10-15",
+  "municipality": "印西市",
+  "location": "吉高930－1－1"
+ },
+ {
+  "jmh_id": "JMH-122319-0010",
+  "name": "藤の木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1979-05-28",
+  "municipality": "印西市",
+  "location": "中根地先"
+ },
+ {
+  "jmh_id": "JMH-122343-0011",
+  "name": "逆柿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "犬掛501"
+ },
+ {
+  "jmh_id": "JMH-122343-0001",
+  "name": "加藤霞石翁の宅地跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "平久里中552"
+ },
+ {
+  "jmh_id": "JMH-122343-0013",
+  "name": "頼朝の旗竿藪",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "高崎916"
+ },
+ {
+  "jmh_id": "JMH-122343-0012",
+  "name": "郷倉・高札場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "平久里下1800"
+ },
+ {
+  "jmh_id": "JMH-122343-0007",
+  "name": "弁天様",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "小浦481"
+ },
+ {
+  "jmh_id": "JMH-122343-0003",
+  "name": "古戦場と里見氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "犬掛663"
+ },
+ {
+  "jmh_id": "JMH-122343-0004",
+  "name": "吉井の大井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "吉沢1761"
+ },
+ {
+  "jmh_id": "JMH-122343-0005",
+  "name": "大いちょう",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "久枝629"
+ },
+ {
+  "jmh_id": "JMH-122343-0006",
+  "name": "平久里天神社くすの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1964-11-05",
+  "municipality": "南房総市",
+  "location": "平久里中208"
+ }
+]

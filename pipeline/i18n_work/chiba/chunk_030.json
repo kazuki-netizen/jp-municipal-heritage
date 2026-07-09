@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-124249-0008",
+  "name": "本従寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "北高根1077"
+ },
+ {
+  "jmh_id": "JMH-124249-0012",
+  "name": "馬頭観世音",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "北高根1108-2"
+ },
+ {
+  "jmh_id": "JMH-124249-0009",
+  "name": "津波代様",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "古所2954"
+ },
+ {
+  "jmh_id": "JMH-124249-0010",
+  "name": "無縁塚津波精霊様",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "幸治1645"
+ },
+ {
+  "jmh_id": "JMH-124249-0011",
+  "name": "精霊供養塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "牛込449"
+ },
+ {
+  "jmh_id": "JMH-124249-0004",
+  "name": "チリー津波の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "剃金2730"
+ },
+ {
+  "jmh_id": "JMH-124249-0005",
+  "name": "俳聖200年忌念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "関808"
+ },
+ {
+  "jmh_id": "JMH-124249-0006",
+  "name": "前田普羅の墓及び句碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "関808"
+ },
+ {
+  "jmh_id": "JMH-124249-0007",
+  "name": "尚徳校の碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-10-01",
+  "municipality": "白子町",
+  "location": "関3888"
+ },
+ {
+  "jmh_id": "JMH-124249-0014",
+  "name": "扇垂木",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "中里857"
+ },
+ {
+  "jmh_id": "JMH-124249-0013",
+  "name": "卍灯籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "牛込1808"
+ },
+ {
+  "jmh_id": "JMH-124249-0017",
+  "name": "白子神社御田植祭",
+  "category": "民俗文化財",
+  "subcategory": "民俗行事",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "関5365"
+ },
+ {
+  "jmh_id": "JMH-124249-0021",
+  "name": "驚の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "驚153"
+ },
+ {
+  "jmh_id": "JMH-124249-0019",
+  "name": "酒井市郎左衛門墓誌",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "北高根1077"
+ },
+ {
+  "jmh_id": "JMH-124249-0020",
+  "name": "青海苔創業50年記念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "剃金2569-6"
+ },
+ {
+  "jmh_id": "JMH-124249-0016",
+  "name": "浜宿新田遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "浜宿新田上沼"
+ },
+ {
+  "jmh_id": "JMH-124249-0018",
+  "name": "真忠組潰滅の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "剃金中の台"
+ },
+ {
+  "jmh_id": "JMH-124249-0015",
+  "name": "椎の古株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "1980-03-01",
+  "municipality": "白子町",
+  "location": "関5090"
+ },
+ {
+  "jmh_id": "JMH-124249-0022",
+  "name": "矢大臣",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1982-12-01",
+  "municipality": "白子町",
+  "location": "関5365"
+ },
+ {
+  "jmh_id": "JMH-124249-0023",
+  "name": "裁許状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1982-12-01",
+  "municipality": "白子町",
+  "location": "北日当27"
+ },
+ {
+  "jmh_id": "JMH-124249-0024",
+  "name": "野崎素行先生の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1982-12-01",
+  "municipality": "白子町",
+  "location": "関1284"
+ },
+ {
+  "jmh_id": "JMH-124249-0026",
+  "name": "池上了伯一代記",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1988-03-01",
+  "municipality": "白子町",
+  "location": "関4133"
+ },
+ {
+  "jmh_id": "JMH-124249-0027",
+  "name": "裁許状（五井）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1988-03-01",
+  "municipality": "白子町",
+  "location": "五井241"
+ },
+ {
+  "jmh_id": "JMH-124249-0028",
+  "name": "鎌田御塚山",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1988-03-01",
+  "municipality": "白子町",
+  "location": "関5720"
+ },
+ {
+  "jmh_id": "JMH-124249-0025",
+  "name": "幸治祭ばやし",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1988-03-01",
+  "municipality": "白子町",
+  "location": "幸治3620"
+ },
+ {
+  "jmh_id": "JMH-124249-0029",
+  "name": "九十九里地引網発祥の地記念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1992-04-01",
+  "municipality": "白子町",
+  "location": "剃金2730-1"
+ },
+ {
+  "jmh_id": "JMH-124249-0030",
+  "name": "円成寺の大槙",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "白子町",
+  "location": "五井260"
+ },
+ {
+  "jmh_id": "JMH-124249-0031",
+  "name": "家敷稲荷の大椎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "白子町",
+  "location": "関4488"
+ },
+ {
+  "jmh_id": "JMH-124249-0032",
+  "name": "新御堂稲荷の大たぶ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "白子町",
+  "location": "関"
+ },
+ {
+  "jmh_id": "JMH-124249-0035",
+  "name": "本法寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2001-03-01",
+  "municipality": "白子町",
+  "location": "関3888"
+ },
+ {
+  "jmh_id": "JMH-124249-0036",
+  "name": "白子神社の樹木群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "2001-03-01",
+  "municipality": "白子町",
+  "location": "関5365"
+ },
+ {
+  "jmh_id": "JMH-124249-0034",
+  "name": "四天王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2001-03-01",
+  "municipality": "白子町",
+  "location": "関808"
+ },
+ {
+  "jmh_id": "JMH-124249-0037",
+  "name": "鬼子母神倚像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2001-03-01",
+  "municipality": "白子町",
+  "location": "関808"
+ },
+ {
+  "jmh_id": "JMH-124249-0033",
+  "name": "十羅刹女立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2001-03-01",
+  "municipality": "白子町",
+  "location": "関808"
+ },
+ {
+  "jmh_id": "JMH-124249-0038",
+  "name": "くすのき（樟の木）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "2003-12-01",
+  "municipality": "白子町",
+  "location": "北日当393"
+ },
+ {
+  "jmh_id": "JMH-124249-0039",
+  "name": "板倉中墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2009-10-01",
+  "municipality": "白子町",
+  "location": "関808"
+ },
+ {
+  "jmh_id": "JMH-124249-0040",
+  "name": "函凧",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2013-10-01",
+  "municipality": "白子町",
+  "location": "八斗2576"
+ },
+ {
+  "jmh_id": "JMH-122122-0001",
+  "name": "佐倉城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1962-03-28",
+  "municipality": "佐倉市",
+  "location": "城内町"
+ },
+ {
+  "jmh_id": "JMH-122122-0002",
+  "name": "鷲神社のケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1962-12-22",
+  "municipality": "佐倉市",
+  "location": "先崎"
+ },
+ {
+  "jmh_id": "JMH-122122-0005",
+  "name": "正光寺 木造薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1964-03-18",
+  "municipality": "佐倉市",
+  "location": "畔田"
+ }
+]

@@ -1,0 +1,390 @@
+[
+ {
+  "jmh_id": "JMH-122114-0006",
+  "name": "弥生式土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "成田市",
+  "location": "土屋"
+ },
+ {
+  "jmh_id": "JMH-122114-0013",
+  "name": "竜角寺出土文字瓦",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "成田市",
+  "location": "土屋"
+ },
+ {
+  "jmh_id": "JMH-122114-0002",
+  "name": "八代玉作出土品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "成田市",
+  "location": "土屋"
+ },
+ {
+  "jmh_id": "JMH-122114-0033",
+  "name": "大和田玉作り資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "1979-03-01",
+  "municipality": "成田市",
+  "location": "高岡"
+ },
+ {
+  "jmh_id": "JMH-122114-0052",
+  "name": "南羽鳥正福寺遺跡第1地点第1号墳出土埴輪",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "designated_date": "2001-12-04",
+  "municipality": "成田市",
+  "location": "高岡"
+ },
+ {
+  "jmh_id": "JMH-122114-0046",
+  "name": "伊能図（中図）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1996-03-19",
+  "municipality": "成田市",
+  "location": "田町"
+ },
+ {
+  "jmh_id": "JMH-122114-0045",
+  "name": "竜台の百庚申",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（有形民俗文化財）",
+  "designation": "市指定",
+  "designated_date": "1994-03-15",
+  "municipality": "成田市",
+  "location": "竜台"
+ },
+ {
+  "jmh_id": "JMH-122114-0049",
+  "name": "紙本著色地蔵十王図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（有形民俗文化財）",
+  "designation": "市指定",
+  "designated_date": "1998-12-25",
+  "municipality": "成田市",
+  "location": "郷部"
+ },
+ {
+  "jmh_id": "JMH-122114-0057",
+  "name": "算額",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2017-07-06",
+  "municipality": "成田市",
+  "location": "中里"
+ },
+ {
+  "jmh_id": "JMH-122114-0030",
+  "name": "麻賀多神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "有形文化財（無形民俗文化財）",
+  "designation": "市指定",
+  "designated_date": "1975-10-06",
+  "municipality": "成田市",
+  "location": "台方・下方"
+ },
+ {
+  "jmh_id": "JMH-122114-0029",
+  "name": "北羽鳥香取神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "有形文化財（無形民俗文化財）",
+  "designation": "市指定",
+  "designated_date": "1975-10-06",
+  "municipality": "成田市",
+  "location": "北羽鳥"
+ },
+ {
+  "jmh_id": "JMH-122114-0047",
+  "name": "西大須賀の神楽",
+  "category": "民俗文化財",
+  "subcategory": "有形文化財（無形民俗文化財）",
+  "designation": "市指定",
+  "designated_date": "1996-12-25",
+  "municipality": "成田市",
+  "location": "西大須賀"
+ },
+ {
+  "jmh_id": "JMH-122114-0053",
+  "name": "伊能歌舞伎",
+  "category": "民俗文化財",
+  "subcategory": "有形文化財（無形民俗文化財）",
+  "designation": "市指定",
+  "designated_date": "2002-02-05",
+  "municipality": "成田市",
+  "location": "伊能"
+ },
+ {
+  "jmh_id": "JMH-122114-0003",
+  "name": "国学者鈴木雅之の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "成田市",
+  "location": "南羽鳥"
+ },
+ {
+  "jmh_id": "JMH-122114-0005",
+  "name": "式内社麻賀多神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "1969-11-03",
+  "municipality": "成田市",
+  "location": "台方・船形"
+ },
+ {
+  "jmh_id": "JMH-122114-0031",
+  "name": "利生塔礎石群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "1976-11-11",
+  "municipality": "成田市",
+  "location": "吉岡"
+ },
+ {
+  "jmh_id": "JMH-122114-0032",
+  "name": "前林一石一字経文塚　享保二十年",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "1978-12-21",
+  "municipality": "成田市",
+  "location": "前林"
+ },
+ {
+  "jmh_id": "JMH-122114-0039",
+  "name": "寺台河岸跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "1986-11-03",
+  "municipality": "成田市",
+  "location": "寺台"
+ },
+ {
+  "jmh_id": "JMH-122114-0043",
+  "name": "奈土貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "1990-03-09",
+  "municipality": "成田市",
+  "location": "奈土"
+ },
+ {
+  "jmh_id": "JMH-122114-0042",
+  "name": "大慈恩寺板碑群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "1990-03-09",
+  "municipality": "成田市",
+  "location": "吉岡"
+ },
+ {
+  "jmh_id": "JMH-122114-0058",
+  "name": "上福田岩屋古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（史跡）",
+  "designation": "市指定",
+  "designated_date": "2023-05-01",
+  "municipality": "成田市",
+  "location": "上福田"
+ },
+ {
+  "jmh_id": "JMH-122114-0040",
+  "name": "夫婦松と芭蕉句碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（名勝）",
+  "designation": "市指定",
+  "designated_date": "1987-04-21",
+  "municipality": "成田市",
+  "location": "滑川"
+ },
+ {
+  "jmh_id": "JMH-122114-0021",
+  "name": "来迎寺の大カヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1971-11-03",
+  "municipality": "成田市",
+  "location": "松崎"
+ },
+ {
+  "jmh_id": "JMH-122114-0020",
+  "name": "押畑の大シイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1971-11-03",
+  "municipality": "成田市",
+  "location": "押畑"
+ },
+ {
+  "jmh_id": "JMH-122114-0023",
+  "name": "久米の大シイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1972-11-03",
+  "municipality": "成田市",
+  "location": "久米"
+ },
+ {
+  "jmh_id": "JMH-122114-0026",
+  "name": "新勝寺の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1972-11-03",
+  "municipality": "成田市",
+  "location": "成田"
+ },
+ {
+  "jmh_id": "JMH-122114-0036",
+  "name": "水神の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1983-11-03",
+  "municipality": "成田市",
+  "location": "北須賀"
+ },
+ {
+  "jmh_id": "JMH-122114-0037",
+  "name": "東光寺のイヌマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "有形文化財（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1984-06-14",
+  "municipality": "成田市",
+  "location": "青山"
+ },
+ {
+  "jmh_id": "JMH-124290-0024",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "妙音寺"
+ },
+ {
+  "jmh_id": "JMH-124290-0021",
+  "name": "木造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "真常寺"
+ },
+ {
+  "jmh_id": "JMH-124290-0022",
+  "name": "木造如意輪観音坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "真常寺"
+ },
+ {
+  "jmh_id": "JMH-124290-0023",
+  "name": "木造阿弥陀如来及び両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "十王堂"
+ },
+ {
+  "jmh_id": "JMH-124290-0025",
+  "name": "木造阿弥陀如来坐像（観音寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "観音寺"
+ },
+ {
+  "jmh_id": "JMH-124290-0020",
+  "name": "木造傳祐上人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "最明寺"
+ },
+ {
+  "jmh_id": "JMH-124290-0031",
+  "name": "閻魔胎内像・十王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "十王堂"
+ },
+ {
+  "jmh_id": "JMH-124290-0019",
+  "name": "月夜見神社の宝塔",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "三夜様"
+ },
+ {
+  "jmh_id": "JMH-124290-0003",
+  "name": "久保区行屋跡の宝塔",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "久保区"
+ },
+ {
+  "jmh_id": "JMH-124290-0029",
+  "name": "薬師堂の磨崖佛",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "宝蔵寺"
+ },
+ {
+  "jmh_id": "JMH-124290-0013",
+  "name": "実谷区八坂神社旧神輿の飾り彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "実谷区"
+ },
+ {
+  "jmh_id": "JMH-124290-0018",
+  "name": "最明寺向拝の獅子頭・象鼻の彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "municipality": "御宿町",
+  "location": "最明寺"
+ }
+]
