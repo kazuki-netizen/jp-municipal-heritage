@@ -1,0 +1,362 @@
+[
+ {
+  "jmh_id": "JMH-122351-0016",
+  "name": "如来寺古文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "長谷715"
+ },
+ {
+  "jmh_id": "JMH-122351-0060",
+  "name": "龍尾寺板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "大寺1856"
+ },
+ {
+  "jmh_id": "JMH-122351-0006",
+  "name": "作新精舎跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "椿"
+ },
+ {
+  "jmh_id": "JMH-122351-0040",
+  "name": "知善堂塾跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯塚1067"
+ },
+ {
+  "jmh_id": "JMH-122351-0033",
+  "name": "松山神社大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "松山1127"
+ },
+ {
+  "jmh_id": "JMH-122351-0045",
+  "name": "脱走塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "中台304"
+ },
+ {
+  "jmh_id": "JMH-122351-0011",
+  "name": "前方後円墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "南神崎"
+ },
+ {
+  "jmh_id": "JMH-122351-0012",
+  "name": "前方後円墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "吉田塚原"
+ },
+ {
+  "jmh_id": "JMH-122351-0058",
+  "name": "飯高神社瑞垣",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯高475"
+ },
+ {
+  "jmh_id": "JMH-122351-0013",
+  "name": "加納おせんの墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "木積1215"
+ },
+ {
+  "jmh_id": "JMH-122351-0042",
+  "name": "老尾神社大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "生尾75"
+ },
+ {
+  "jmh_id": "JMH-122351-0015",
+  "name": "大浦牛蒡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "大浦地区"
+ },
+ {
+  "jmh_id": "JMH-122351-0053",
+  "name": "鋳造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "八日市場イ2950"
+ },
+ {
+  "jmh_id": "JMH-122351-0046",
+  "name": "西光寺古文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "八日市場ホ2661"
+ },
+ {
+  "jmh_id": "JMH-122351-0010",
+  "name": "円靜寺板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "安久山33"
+ },
+ {
+  "jmh_id": "JMH-122351-0009",
+  "name": "円靜寺板曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "安久山33"
+ },
+ {
+  "jmh_id": "JMH-122351-0005",
+  "name": "仏画曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "八日市場イ2326"
+ },
+ {
+  "jmh_id": "JMH-122351-0044",
+  "name": "聖画主之昇天",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "久方220"
+ },
+ {
+  "jmh_id": "JMH-122351-0035",
+  "name": "梛",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "野手1546"
+ },
+ {
+  "jmh_id": "JMH-122351-0036",
+  "name": "槇",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "川辺2877-2"
+ },
+ {
+  "jmh_id": "JMH-122351-0032",
+  "name": "東郷神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "川辺東郷地区"
+ },
+ {
+  "jmh_id": "JMH-122351-0024",
+  "name": "庄八節盆踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "野手西宿地区"
+ },
+ {
+  "jmh_id": "JMH-122351-0052",
+  "name": "銅像阿彌陀如来及び両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "長谷715"
+ },
+ {
+  "jmh_id": "JMH-122351-0026",
+  "name": "弘智法印縁起の寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "大浦1128"
+ },
+ {
+  "jmh_id": "JMH-122351-0059",
+  "name": "黄門桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯高2088-4"
+ },
+ {
+  "jmh_id": "JMH-122351-0003",
+  "name": "九十九里浜地曳大漁歌",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "堀川浜地区"
+ },
+ {
+  "jmh_id": "JMH-122351-0029",
+  "name": "曼荼羅本尊",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 書跡・典籍",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯高477"
+ },
+ {
+  "jmh_id": "JMH-122351-0054",
+  "name": "題目板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯高477"
+ },
+ {
+  "jmh_id": "JMH-122351-0034",
+  "name": "松山神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "松山1123"
+ },
+ {
+  "jmh_id": "JMH-122351-0050",
+  "name": "釈迦涅槃図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "川辺2877-2"
+ },
+ {
+  "jmh_id": "JMH-122351-0041",
+  "name": "絹本著色五大明王図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "川辺2877-2"
+ },
+ {
+  "jmh_id": "JMH-122351-0002",
+  "name": "両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "川辺2877-2"
+ },
+ {
+  "jmh_id": "JMH-122351-0001",
+  "name": "サイカチの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "八日市場ホ3246"
+ },
+ {
+  "jmh_id": "JMH-122351-0051",
+  "name": "野手囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "野手大根畑地区"
+ },
+ {
+  "jmh_id": "JMH-122351-0007",
+  "name": "八雲神社祭礼囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "野手西宿地区"
+ },
+ {
+  "jmh_id": "JMH-122351-0008",
+  "name": "六社大神の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "宮前古町"
+ },
+ {
+  "jmh_id": "JMH-122351-0028",
+  "name": "日祐百座説法塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯高1684"
+ },
+ {
+  "jmh_id": "JMH-122351-0027",
+  "name": "日円上人塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯高1697-1"
+ },
+ {
+  "jmh_id": "JMH-122351-0057",
+  "name": "飯高神社拝殿 付・天井絵132枚",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "飯高475"
+ },
+ {
+  "jmh_id": "JMH-122351-0049",
+  "name": "見徳寺の禁制文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "municipality": "匝瑳市",
+  "location": "八日市場イ2950"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-122360-0111",
+  "name": "長岡 稲葉山神社 神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-11-02",
+  "municipality": "香取市",
+  "location": "長岡神楽保存会(長岡)"
+ },
+ {
+  "jmh_id": "JMH-122360-0109",
+  "name": "下総国香取郡府馬郷水帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "2005-11-02",
+  "municipality": "香取市",
+  "location": "個人(志高)"
+ },
+ {
+  "jmh_id": "JMH-122360-0110",
+  "name": "竹内東白の事蹟（著書）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "2005-11-02",
+  "municipality": "香取市",
+  "location": "個人(新里)"
+ },
+ {
+  "jmh_id": "JMH-122360-0113",
+  "name": "久保神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "2005-12-06",
+  "municipality": "香取市",
+  "location": "久保神社(久保)"
+ },
+ {
+  "jmh_id": "JMH-122360-0114",
+  "name": "千葉親剛御影",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-12-06",
+  "municipality": "香取市",
+  "location": "久保神社(久保)"
+ },
+ {
+  "jmh_id": "JMH-122360-0112",
+  "name": "久保神社御神幸絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-12-06",
+  "municipality": "香取市",
+  "location": "久保神社(久保)"
+ },
+ {
+  "jmh_id": "JMH-122360-0116",
+  "name": "祐天上人名号跡",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 書跡",
+  "designation": "市指定",
+  "designated_date": "2005-12-06",
+  "municipality": "香取市",
+  "location": "久保区(久保)"
+ },
+ {
+  "jmh_id": "JMH-122360-0115",
+  "name": "小見川藩主内田氏関連位牌",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2005-12-06",
+  "municipality": "香取市",
+  "location": "本願寺(小見川)"
+ },
+ {
+  "jmh_id": "JMH-122360-0117",
+  "name": "伊能忠敬関係資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2006-03-01",
+  "municipality": "香取市",
+  "location": "伊能忠敬記念館(佐原イ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0118",
+  "name": "旧関戸町の猿田彦 頭部及び両手部",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2006-03-01",
+  "municipality": "香取市",
+  "location": "水郷佐原山車会館(佐原イ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0119",
+  "name": "大戸宮作1号墳出土品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "2007-07-03",
+  "municipality": "香取市",
+  "location": "香取市文化財保存館(羽根川)"
+ },
+ {
+  "jmh_id": "JMH-122360-0120",
+  "name": "三ノ分目大塚山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "2014-06-02",
+  "municipality": "香取市",
+  "location": "個人・三ノ分目区(三ノ分目)"
+ },
+ {
+  "jmh_id": "JMH-122360-0121",
+  "name": "来迎寺宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "2015-07-30",
+  "municipality": "香取市",
+  "location": "個人・貝塚区(貝塚)"
+ },
+ {
+  "jmh_id": "JMH-122360-0122",
+  "name": "大禰宜家所蔵資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2016-09-05",
+  "municipality": "香取市",
+  "location": "個人(香取)"
+ },
+ {
+  "jmh_id": "JMH-122360-0123",
+  "name": "牧野大神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2019-02-01",
+  "municipality": "香取市",
+  "location": "牧野神楽保存会(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0124",
+  "name": "香取神宮八龍神像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2021-06-01",
+  "municipality": "香取市",
+  "location": "香取神宮(香取)"
+ },
+ {
+  "jmh_id": "JMH-122360-0125",
+  "name": "多宝院万福寺跡双式板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "2022-03-01",
+  "municipality": "香取市",
+  "location": "木内区(木内)"
+ },
+ {
+  "jmh_id": "JMH-122360-0126",
+  "name": "正嘉二年在銘板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "2022-03-01",
+  "municipality": "香取市",
+  "location": "個人(谷中)"
+ },
+ {
+  "jmh_id": "JMH-121002-0016",
+  "name": "五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　建造物",
+  "designation": "市指定",
+  "designated_date": "1966",
+  "municipality": "千葉市",
+  "location": "稲毛区轟町"
+ },
+ {
+  "jmh_id": "JMH-121002-0019",
+  "name": "五日堂の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　建造物",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "緑区誉田町"
+ },
+ {
+  "jmh_id": "JMH-121002-0020",
+  "name": "伝千葉宗胤五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　建造物",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "中央区弁天"
+ },
+ {
+  "jmh_id": "JMH-121002-0031",
+  "name": "ジャジャシキの石造五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　建造物",
+  "designation": "市指定",
+  "designated_date": "1988",
+  "municipality": "千葉市",
+  "location": "緑区越智町"
+ },
+ {
+  "jmh_id": "JMH-121002-0033",
+  "name": "旧生浜町役場庁舎",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　建造物",
+  "designation": "市指定",
+  "designated_date": "1994",
+  "municipality": "千葉市",
+  "location": "中央区浜野町"
+ },
+ {
+  "jmh_id": "JMH-121002-0034",
+  "name": "旧川崎銀行千葉支店本館",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　建造物",
+  "designation": "市指定",
+  "designated_date": "1995",
+  "municipality": "千葉市",
+  "location": "中央区中央"
+ },
+ {
+  "jmh_id": "JMH-121002-0007",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1961",
+  "municipality": "千葉市",
+  "location": "花見川区幕張町"
+ },
+ {
+  "jmh_id": "JMH-121002-0010",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1961",
+  "municipality": "千葉市",
+  "location": "花見川区幕張町"
+ },
+ {
+  "jmh_id": "JMH-121002-0014",
+  "name": "薬師如来像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1962",
+  "municipality": "千葉市",
+  "location": "若葉区高品町"
+ },
+ {
+  "jmh_id": "JMH-121002-0013",
+  "name": "月光菩薩像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1962",
+  "municipality": "千葉市",
+  "location": "若葉区高品町"
+ },
+ {
+  "jmh_id": "JMH-121002-0022",
+  "name": "小壁嵌板彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "中央区登戸"
+ },
+ {
+  "jmh_id": "JMH-121002-0021",
+  "name": "善光寺式観世音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "緑区平山町"
+ },
+ {
+  "jmh_id": "JMH-121002-0027",
+  "name": "長沼の駒形大仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1975",
+  "municipality": "千葉市",
+  "location": "稲毛区長沼町"
+ },
+ {
+  "jmh_id": "JMH-121002-0032",
+  "name": "木造妙見菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1988",
+  "municipality": "千葉市",
+  "location": "若葉区大宮町"
+ },
+ {
+  "jmh_id": "JMH-121002-0036",
+  "name": "木造天部形立像2躯",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1999",
+  "municipality": "千葉市",
+  "location": "緑区平山町"
+ },
+ {
+  "jmh_id": "JMH-121002-0038",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1999",
+  "municipality": "千葉市",
+  "location": "中央区川戸町"
+ },
+ {
+  "jmh_id": "JMH-121002-0035",
+  "name": "木造勢至菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1999",
+  "municipality": "千葉市",
+  "location": "緑区おゆみ野有吉"
+ },
+ {
+  "jmh_id": "JMH-121002-0037",
+  "name": "木造釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "1999",
+  "municipality": "千葉市",
+  "location": "中央区仁戸名町"
+ },
+ {
+  "jmh_id": "JMH-121002-0040",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "2000",
+  "municipality": "千葉市",
+  "location": "稲毛区轟町"
+ },
+ {
+  "jmh_id": "JMH-121002-0039",
+  "name": "木造不動明王頭部",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "2000",
+  "municipality": "千葉市",
+  "location": "中央区中央"
+ },
+ {
+  "jmh_id": "JMH-121002-0042",
+  "name": "銅造千手観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "2000",
+  "municipality": "千葉市",
+  "location": "中央区市場町"
+ },
+ {
+  "jmh_id": "JMH-121002-0041",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　彫刻",
+  "designation": "市指定",
+  "designated_date": "2000",
+  "municipality": "千葉市",
+  "location": "中央区生実町"
+ }
+]

@@ -1,0 +1,374 @@
+[
+ {
+  "jmh_id": "JMH-122211-0010",
+  "name": "羯鼓",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-11",
+  "municipality": "八千代市",
+  "location": "村上1170-2"
+ },
+ {
+  "jmh_id": "JMH-122211-0006",
+  "name": "下総国印旛沼御普請堀割絵図\n附安永9年天明3年文書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-11-11",
+  "municipality": "八千代市",
+  "location": "村上1170-2"
+ },
+ {
+  "jmh_id": "JMH-122211-0022",
+  "name": "天保七年米本村絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2000-12-22",
+  "municipality": "八千代市",
+  "location": "村上1170-2"
+ },
+ {
+  "jmh_id": "JMH-122211-0025",
+  "name": "石枕",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2008-01-18",
+  "municipality": "八千代市",
+  "location": "村上1170-2"
+ },
+ {
+  "jmh_id": "JMH-122211-0026",
+  "name": "上谷遺跡をはじめ新川流域出土の祭祀関連墨書土器群",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2014-07-23",
+  "municipality": "八千代市",
+  "location": "村上1170-2"
+ },
+ {
+  "jmh_id": "JMH-122211-0030",
+  "name": "青銅製華瓶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2025-12-17",
+  "municipality": "八千代市",
+  "location": "村上1170-2"
+ },
+ {
+  "jmh_id": "JMH-122211-0008",
+  "name": "戒壇石(銘，禁芸術売買之輩)",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-11-11",
+  "municipality": "八千代市",
+  "location": "米本1587"
+ },
+ {
+  "jmh_id": "JMH-122211-0012",
+  "name": "下総式板碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1978-12-13",
+  "municipality": "八千代市",
+  "location": "神野744"
+ },
+ {
+  "jmh_id": "JMH-122211-0016",
+  "name": "雨乞い祈禱の絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-12-21",
+  "municipality": "八千代市",
+  "location": "萱田476"
+ },
+ {
+  "jmh_id": "JMH-122211-0013",
+  "name": "伝・村上綱清の墓石",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-12-21",
+  "municipality": "八千代市",
+  "location": "米本1587"
+ },
+ {
+  "jmh_id": "JMH-122211-0015",
+  "name": "長福寺の板碑一括",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-12-21",
+  "municipality": "八千代市",
+  "location": "米本1587"
+ },
+ {
+  "jmh_id": "JMH-122211-0014",
+  "name": "神馬の絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-12-21",
+  "municipality": "八千代市",
+  "location": "萱田476"
+ },
+ {
+  "jmh_id": "JMH-122211-0017",
+  "name": "飯綱神社の玉垣彫物",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "1981-12-21",
+  "municipality": "八千代市",
+  "location": "萱田476"
+ },
+ {
+  "jmh_id": "JMH-122211-0027",
+  "name": "石造二十三夜・日記念仏塔（層塔）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2018-09-06",
+  "municipality": "八千代市",
+  "location": "萱田1427"
+ },
+ {
+  "jmh_id": "JMH-122211-0029",
+  "name": "妙法蓮華経納置塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "市指定",
+  "designated_date": "2025-12-17",
+  "municipality": "八千代市",
+  "location": "桑納398"
+ },
+ {
+  "jmh_id": "JMH-122211-0001",
+  "name": "佐山の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1972-02-22",
+  "municipality": "八千代市",
+  "location": "佐山"
+ },
+ {
+  "jmh_id": "JMH-122211-0002",
+  "name": "村上の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1972-02-22",
+  "municipality": "八千代市",
+  "location": "村上"
+ },
+ {
+  "jmh_id": "JMH-122211-0003",
+  "name": "勝田の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1976-08-13",
+  "municipality": "八千代市",
+  "location": "勝田"
+ },
+ {
+  "jmh_id": "JMH-122211-0023",
+  "name": "高津のハツカビシャ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2003-01-24",
+  "municipality": "八千代市",
+  "location": "高津"
+ },
+ {
+  "jmh_id": "JMH-122211-0024",
+  "name": "高津新田のカラスビシャ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2003-01-24",
+  "municipality": "八千代市",
+  "location": "八千代台西"
+ },
+ {
+  "jmh_id": "JMH-122211-0005",
+  "name": "七百餘所神社古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-11-11",
+  "municipality": "八千代市",
+  "location": "村上433"
+ },
+ {
+  "jmh_id": "JMH-122211-0009",
+  "name": "根上神社古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-11-11",
+  "municipality": "八千代市",
+  "location": "村上南1-15-1"
+ },
+ {
+  "jmh_id": "JMH-122211-0020",
+  "name": "イヌザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-12-26",
+  "municipality": "八千代市",
+  "location": "村上南2-25-1"
+ },
+ {
+  "jmh_id": "JMH-122386-0081",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市山田478"
+ },
+ {
+  "jmh_id": "JMH-122386-0074",
+  "name": "木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市岩船2083"
+ },
+ {
+  "jmh_id": "JMH-122386-0125",
+  "name": "石造釈迦立像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市釈迦谷1324"
+ },
+ {
+  "jmh_id": "JMH-122386-0190",
+  "name": "鋳銅鰐口",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市岩船2083"
+ },
+ {
+  "jmh_id": "JMH-122386-0066",
+  "name": "旧長栄寺梵鐘（平和の鐘）",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市大原10691"
+ },
+ {
+  "jmh_id": "JMH-122386-0034",
+  "name": "地引絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "郷土資料館保管"
+ },
+ {
+  "jmh_id": "JMH-122386-0036",
+  "name": "坂水観音俳諧額",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市新田3281"
+ },
+ {
+  "jmh_id": "JMH-122386-0035",
+  "name": "坂東の車地蔵",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市大原9221"
+ },
+ {
+  "jmh_id": "JMH-122386-0174",
+  "name": "追分の道しるべ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市大原1188-3"
+ },
+ {
+  "jmh_id": "JMH-122386-0029",
+  "name": "名熊の二本杉",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市下布施4110"
+ },
+ {
+  "jmh_id": "JMH-122386-0055",
+  "name": "布施塚の石塔",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市下布施2418"
+ },
+ {
+  "jmh_id": "JMH-122386-0089",
+  "name": "杢右衛門の碑",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市新田3281"
+ },
+ {
+  "jmh_id": "JMH-122386-0054",
+  "name": "嶺田楓江の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市上布施962"
+ },
+ {
+  "jmh_id": "JMH-122386-0068",
+  "name": "木彫十六羅漢",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市岩船45"
+ },
+ {
+  "jmh_id": "JMH-122386-0072",
+  "name": "木造不動明王立像付鰐口",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市長志1701"
+ },
+ {
+  "jmh_id": "JMH-122386-0189",
+  "name": "鋳銅阿弥陀三尊像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "いすみ市岩船45"
+ },
+ {
+  "jmh_id": "JMH-122386-0077",
+  "name": "木造神将立像",
+  "category": "有形文化財",
+  "designation": "市指定",
+  "municipality": "いすみ市",
+  "location": "郷土資料館保管"
+ }
+]

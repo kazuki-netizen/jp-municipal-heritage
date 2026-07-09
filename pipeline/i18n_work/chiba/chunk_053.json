@@ -1,0 +1,389 @@
+[
+ {
+  "jmh_id": "JMH-122343-0155",
+  "name": "梵鐘(元徳3年在銘）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "昭和51年3月24日"
+ },
+ {
+  "jmh_id": "JMH-122343-0141",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "昭和51年3月24日"
+ },
+ {
+  "jmh_id": "JMH-122343-0179",
+  "name": "鐘楼",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "昭和51年3月24日"
+ },
+ {
+  "jmh_id": "JMH-122343-0165",
+  "name": "絵画出山の釈迦",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "昭和51年3月24日"
+ },
+ {
+  "jmh_id": "JMH-122343-0135",
+  "name": "不動明王画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "昭和51年3月24日"
+ },
+ {
+  "jmh_id": "JMH-122343-0170",
+  "name": "達磨画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "昭和51年3月24日"
+ },
+ {
+  "jmh_id": "JMH-122343-0037",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1976-03-24",
+  "municipality": "南房総市",
+  "location": "珠師ヶ谷526－1"
+ },
+ {
+  "jmh_id": "JMH-122343-0046",
+  "name": "日運寺仁王門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1978-02-28",
+  "municipality": "南房総市",
+  "location": "加茂2124"
+ },
+ {
+  "jmh_id": "JMH-122343-0047",
+  "name": "飛雀の烙印",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1978-02-28",
+  "municipality": "南房総市",
+  "location": "大井686"
+ },
+ {
+  "jmh_id": "JMH-122343-0045",
+  "name": "安馬谷八幡神社御神的",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-02-28",
+  "municipality": "南房総市",
+  "location": "安馬谷936"
+ },
+ {
+  "jmh_id": "JMH-122343-0048",
+  "name": "八雲神社御輿の彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1978-06-01",
+  "municipality": "南房総市",
+  "location": "白子2137"
+ },
+ {
+  "jmh_id": "JMH-122343-0049",
+  "name": "正木時通・頼忠の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1979-10-30",
+  "municipality": "南房総市",
+  "location": "加茂2124"
+ },
+ {
+  "jmh_id": "JMH-122343-0057",
+  "name": "柱木牧馬捕場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1980-03-01",
+  "municipality": "南房総市",
+  "location": "嶺岡柱木牧乙1-238"
+ },
+ {
+  "jmh_id": "JMH-122343-0058",
+  "name": "珠師ヶ谷八雲神社御輿彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1980-03-01",
+  "municipality": "南房総市",
+  "location": "珠師ヶ谷546"
+ },
+ {
+  "jmh_id": "JMH-122343-0059",
+  "name": "丸郷神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-10-29",
+  "municipality": "南房総市",
+  "location": "丸本郷352"
+ },
+ {
+  "jmh_id": "JMH-122343-0063",
+  "name": "永野台古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1982-10-28",
+  "municipality": "南房総市",
+  "location": "石堂261－1"
+ },
+ {
+  "jmh_id": "JMH-122343-0064",
+  "name": "白牛江戸往来助合人足割符帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1984-04-12",
+  "municipality": "南房総市",
+  "location": "小戸"
+ },
+ {
+  "jmh_id": "JMH-122343-0075",
+  "name": "木造天王立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1989-12-01",
+  "municipality": "南房総市",
+  "location": "久保587"
+ },
+ {
+  "jmh_id": "JMH-122343-0080",
+  "name": "珠師ヶ谷八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1992-04-01",
+  "municipality": "南房総市",
+  "location": "珠師ヶ谷546"
+ },
+ {
+  "jmh_id": "JMH-122343-0081",
+  "name": "莫越山神社御神像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1992-04-01",
+  "municipality": "南房総市",
+  "location": "宮下27"
+ },
+ {
+  "jmh_id": "JMH-122343-0171",
+  "name": "里見義康御朱印附曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "平成4年4月1日"
+ },
+ {
+  "jmh_id": "JMH-122343-0083",
+  "name": "足利頼氏公関連文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1992-11-01",
+  "municipality": "南房総市",
+  "location": "石堂302"
+ },
+ {
+  "jmh_id": "JMH-122343-0150",
+  "name": "木造持国天立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "平成4年11月1日"
+ },
+ {
+  "jmh_id": "JMH-122343-0149",
+  "name": "木造広目天立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "平成4年11月1日"
+ },
+ {
+  "jmh_id": "JMH-122343-0151",
+  "name": "木造毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "平成4年11月1日"
+ },
+ {
+  "jmh_id": "JMH-122343-0146",
+  "name": "木造元三大師坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "平成4年11月1日"
+ },
+ {
+  "jmh_id": "JMH-122343-0152",
+  "name": "木造足利頼氏坐像附位牌",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "平成4年11月1日"
+ },
+ {
+  "jmh_id": "JMH-122343-0138",
+  "name": "刀剣",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "municipality": "南房総市",
+  "location": "平成4年11月1日"
+ },
+ {
+  "jmh_id": "JMH-122343-0085",
+  "name": "石造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1994-02-01",
+  "municipality": "南房総市",
+  "location": "大井220"
+ },
+ {
+  "jmh_id": "JMH-122343-0086",
+  "name": "絹本著色聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1994-04-01",
+  "municipality": "南房総市",
+  "location": "石堂302"
+ },
+ {
+  "jmh_id": "JMH-122343-0091",
+  "name": "石造地蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1997-03-27",
+  "municipality": "南房総市",
+  "location": "安馬谷935－1"
+ },
+ {
+  "jmh_id": "JMH-122343-0104",
+  "name": "奏楽・猿田彦の舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-08-01",
+  "municipality": "南房総市",
+  "location": "沓見253"
+ },
+ {
+  "jmh_id": "JMH-122343-0105",
+  "name": "神酒造り神事",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2001-08-01",
+  "municipality": "南房総市",
+  "location": "沓見241"
+ },
+ {
+  "jmh_id": "JMH-122343-0106",
+  "name": "莫越山神社の椎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "2001-08-01",
+  "municipality": "南房総市",
+  "location": "沓見253"
+ },
+ {
+  "jmh_id": "JMH-122343-0128",
+  "name": "西原神社神輿彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-08-25",
+  "municipality": "南房総市",
+  "location": "西原207"
+ },
+ {
+  "jmh_id": "JMH-122343-0127",
+  "name": "莫越山神社永夜灯",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "2005-08-25",
+  "municipality": "南房総市",
+  "location": "宮下27"
+ },
+ {
+  "jmh_id": "JMH-122343-0126",
+  "name": "八幡神社三番叟装束等",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2005-08-25",
+  "municipality": "南房総市",
+  "location": "珠師ヶ谷546"
+ },
+ {
+  "jmh_id": "JMH-122343-0030",
+  "name": "里見系図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1975-04-25",
+  "municipality": "南房総市",
+  "location": "和田町五十蔵"
+ },
+ {
+  "jmh_id": "JMH-122343-0031",
+  "name": "黒滝哀史",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1975-04-25",
+  "municipality": "南房総市",
+  "location": "和田町五十蔵"
+ },
+ {
+  "jmh_id": "JMH-122343-0023",
+  "name": "刀剣",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1975-04-25",
+  "municipality": "南房総市",
+  "location": "和田町五十蔵"
+ }
+]

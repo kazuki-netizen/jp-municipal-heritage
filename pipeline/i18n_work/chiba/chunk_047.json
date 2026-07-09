@@ -1,0 +1,386 @@
+[
+ {
+  "jmh_id": "JMH-122157-0026",
+  "name": "鏑木大神境内古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木2965-2"
+ },
+ {
+  "jmh_id": "JMH-122157-0023",
+  "name": "法王塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木2968"
+ },
+ {
+  "jmh_id": "JMH-122157-0022",
+  "name": "村山法華塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木3792-1"
+ },
+ {
+  "jmh_id": "JMH-122157-0024",
+  "name": "泥内古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木2993"
+ },
+ {
+  "jmh_id": "JMH-122157-0021",
+  "name": "御塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木636"
+ },
+ {
+  "jmh_id": "JMH-122157-0019",
+  "name": "原畑古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木1536"
+ },
+ {
+  "jmh_id": "JMH-122157-0020",
+  "name": "干場古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木3087"
+ },
+ {
+  "jmh_id": "JMH-122157-0027",
+  "name": "長津念仏塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木3735"
+ },
+ {
+  "jmh_id": "JMH-122157-0028",
+  "name": "長熊古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1975-07-22",
+  "municipality": "旭市",
+  "location": "鏑木2596-1"
+ },
+ {
+  "jmh_id": "JMH-122157-0040",
+  "name": "木曽義昌公遺跡供養塔・水葬跡石塔",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1977-01-25",
+  "municipality": "旭市",
+  "location": "イの2337・イの2804"
+ },
+ {
+  "jmh_id": "JMH-122157-0038",
+  "name": "大塚原古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1977-01-25",
+  "municipality": "旭市",
+  "location": "大塚原1176"
+ },
+ {
+  "jmh_id": "JMH-122157-0045",
+  "name": "石毛新兵衛・石毛治兵衛の遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1977-04-12",
+  "municipality": "旭市",
+  "location": "清和甲727他(永命寺)"
+ },
+ {
+  "jmh_id": "JMH-122157-0042",
+  "name": "宮負定賢・宮負定雄の遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1977-04-12",
+  "municipality": "旭市",
+  "location": "清和乙701他"
+ },
+ {
+  "jmh_id": "JMH-122157-0055",
+  "name": "光明寺の板石塔婆",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1979-04-17",
+  "municipality": "旭市",
+  "location": "鏑木1794"
+ },
+ {
+  "jmh_id": "JMH-122157-0056",
+  "name": "長泉寺の板石塔婆",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1979-04-17",
+  "municipality": "旭市",
+  "location": "鏑木2013"
+ },
+ {
+  "jmh_id": "JMH-122157-0057",
+  "name": "願勝寺の板石塔婆",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1979-04-17",
+  "municipality": "旭市",
+  "location": "鏑木1902"
+ },
+ {
+  "jmh_id": "JMH-122157-0068",
+  "name": "三元締の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1981-11-13",
+  "municipality": "旭市",
+  "location": "鎌数488-2"
+ },
+ {
+  "jmh_id": "JMH-122157-0097",
+  "name": "玉崎神社の石塁（81m）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1993-03-17",
+  "municipality": "旭市",
+  "location": "飯岡2126"
+ },
+ {
+  "jmh_id": "JMH-122157-0043",
+  "name": "熊野神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1977-04-12",
+  "municipality": "旭市",
+  "location": "清和乙715"
+ },
+ {
+  "jmh_id": "JMH-122157-0053",
+  "name": "須賀神社の夫婦樫",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1978-04-18",
+  "municipality": "旭市",
+  "location": "鏑木1343"
+ },
+ {
+  "jmh_id": "JMH-122157-0070",
+  "name": "内裏神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1981-11-13",
+  "municipality": "旭市",
+  "location": "泉川1502"
+ },
+ {
+  "jmh_id": "JMH-122157-0067",
+  "name": "タブの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1981-11-13",
+  "municipality": "旭市",
+  "location": "仁玉568"
+ },
+ {
+  "jmh_id": "JMH-122157-0087",
+  "name": "普門院のイヌ槇",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1989-05-23",
+  "municipality": "旭市",
+  "location": "蛇園3604-1"
+ },
+ {
+  "jmh_id": "JMH-122157-0083",
+  "name": "天神様の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1989-05-23",
+  "municipality": "旭市",
+  "location": "倉橋2585"
+ },
+ {
+  "jmh_id": "JMH-122157-0088",
+  "name": "松ヶ谷大宮大神社の椎樹群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1989-05-23",
+  "municipality": "旭市",
+  "location": "松ヶ谷2105"
+ },
+ {
+  "jmh_id": "JMH-122157-0085",
+  "name": "岩井大宮神社大椎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1989-05-23",
+  "municipality": "旭市",
+  "location": "岩井684"
+ },
+ {
+  "jmh_id": "JMH-122157-0080",
+  "name": "倉橋水神社の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1989-05-23",
+  "municipality": "旭市",
+  "location": "倉橋1102"
+ },
+ {
+  "jmh_id": "JMH-122157-0090",
+  "name": "雷神社の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1989-05-23",
+  "municipality": "旭市",
+  "location": "見広1371"
+ },
+ {
+  "jmh_id": "JMH-122157-0094",
+  "name": "蛇園出清水の斜面植生",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1992-05-26",
+  "municipality": "旭市",
+  "location": "蛇園211他"
+ },
+ {
+  "jmh_id": "JMH-122157-0096",
+  "name": "天の石笛　附霊石35個　附石笛8",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "1993-03-17",
+  "municipality": "旭市",
+  "location": "飯岡2126"
+ },
+ {
+  "jmh_id": "JMH-122157-0112",
+  "name": "蛇園出清水のゲンジボタルの発生地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "designated_date": "2005-02-18",
+  "municipality": "旭市",
+  "location": "蛇園211他"
+ },
+ {
+  "jmh_id": "JMH-122157-0114",
+  "name": "濤川惣助関係七宝資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "designated_date": "2024-08-16",
+  "municipality": "旭市",
+  "location": "蛇園"
+ },
+ {
+  "jmh_id": "JMH-122106-0027",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0024",
+  "name": "掩体壕",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0017",
+  "name": "大芝の七夕馬製作技術",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0012",
+  "name": "円立寺の菩提樹",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0016",
+  "name": "大椎",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0052",
+  "name": "長興寺如意輪観音坐像附胎内文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0042",
+  "name": "蓮福寺の大公孫樹",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ },
+ {
+  "jmh_id": "JMH-122106-0029",
+  "name": "本納橘樹神社社叢",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "茂原市"
+ }
+]

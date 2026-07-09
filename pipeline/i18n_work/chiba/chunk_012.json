@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-122360-0069",
+  "name": "金泥板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1984-09-01",
+  "municipality": "香取市",
+  "location": "大竜寺(与倉)"
+ },
+ {
+  "jmh_id": "JMH-122360-0070",
+  "name": "木内神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-27",
+  "municipality": "香取市",
+  "location": "木内神楽保存会・木内大神(木内)"
+ },
+ {
+  "jmh_id": "JMH-122360-0071",
+  "name": "油田神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-02-27",
+  "municipality": "香取市",
+  "location": "油田神楽保存会・大宮大神(油田)"
+ },
+ {
+  "jmh_id": "JMH-122360-0072",
+  "name": "新市場神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1985-06-01",
+  "municipality": "香取市",
+  "location": "新市場天宮神社神楽保存会・新市場区(新市場)"
+ },
+ {
+  "jmh_id": "JMH-122360-0075",
+  "name": "木造聖観世音菩薩立像・木造愛染明王坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0077",
+  "name": "観福寺文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0078",
+  "name": "金銅牡丹唐草文華鬘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0074",
+  "name": "岩ケ崎の森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "稲荷神社・岩ケ崎(佐原ホ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0079",
+  "name": "阿弥陀文字図像板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "新寺区(新寺)"
+ },
+ {
+  "jmh_id": "JMH-122360-0080",
+  "name": "阿弥陀文字図像板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "大戸区(大戸)"
+ },
+ {
+  "jmh_id": "JMH-122360-0081",
+  "name": "阿弥陀文字図像板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "淨土寺(大戸川)"
+ },
+ {
+  "jmh_id": "JMH-122360-0076",
+  "name": "種子不動明王図像板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "西福寺(山之辺)"
+ },
+ {
+  "jmh_id": "JMH-122360-0082",
+  "name": "阿弥陀文字図像板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "大竜寺(与倉)"
+ },
+ {
+  "jmh_id": "JMH-122360-0083",
+  "name": "阿弥陀文字図像板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "多田分館司堂(香取)"
+ },
+ {
+  "jmh_id": "JMH-122360-0073",
+  "name": "千体仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-01",
+  "municipality": "香取市",
+  "location": "千仏寺(津宮)"
+ },
+ {
+  "jmh_id": "JMH-122360-0088",
+  "name": "種子板碑（正元元年在銘）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "香取市",
+  "location": "密蔵院(岩ケ崎台)"
+ },
+ {
+  "jmh_id": "JMH-122360-0087",
+  "name": "木造聖観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "香取市",
+  "location": "観音区(観音)"
+ },
+ {
+  "jmh_id": "JMH-122360-0084",
+  "name": "両界曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0085",
+  "name": "常光明会曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0089",
+  "name": "釈迦三尊十六善神像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0086",
+  "name": "弥勤曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0090",
+  "name": "神庫",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1994-03-01",
+  "municipality": "香取市",
+  "location": "香取神宮(香取)"
+ },
+ {
+  "jmh_id": "JMH-122360-0091",
+  "name": "返田神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1994-03-01",
+  "municipality": "香取市",
+  "location": "返田神社(返田)"
+ },
+ {
+  "jmh_id": "JMH-122360-0093",
+  "name": "木造十一面観音菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1996-07-01",
+  "municipality": "香取市",
+  "location": "歓喜院(扇島)"
+ },
+ {
+  "jmh_id": "JMH-122360-0092",
+  "name": "天真正伝香取神道流道場",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1996-07-01",
+  "municipality": "香取市",
+  "location": "神道流道場(香取)"
+ },
+ {
+  "jmh_id": "JMH-122360-0094",
+  "name": "本矢作区の神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1996-07-01",
+  "municipality": "香取市",
+  "location": "神楽保存会・本矢作区(本矢作)"
+ },
+ {
+  "jmh_id": "JMH-122360-0096",
+  "name": "愛宕神社神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-10-21",
+  "municipality": "香取市",
+  "location": "愛宕神社神楽稚見舞保存会・愛宕神社(府馬)"
+ },
+ {
+  "jmh_id": "JMH-122360-0095",
+  "name": "山倉大神 白川流十二座神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-10-21",
+  "municipality": "香取市",
+  "location": "山倉芸能保存会・山倉大神(山倉)"
+ },
+ {
+  "jmh_id": "JMH-122360-0099",
+  "name": "荒北郷御縄打之水帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "1999-10-21",
+  "municipality": "香取市",
+  "location": "荒北区(荒北)"
+ },
+ {
+  "jmh_id": "JMH-122360-0097",
+  "name": "大乗寺仏涅槃図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1999-10-21",
+  "municipality": "香取市",
+  "location": "大乗寺(岩部)"
+ },
+ {
+  "jmh_id": "JMH-122360-0098",
+  "name": "安興寺仏涅槃図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1999-10-21",
+  "municipality": "香取市",
+  "location": "安興寺(岩部)"
+ },
+ {
+  "jmh_id": "JMH-122360-0100",
+  "name": "熊野神社並びに若宮八幡宮等神幸祭宮前番所使者受諸役芸能",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-05-19",
+  "municipality": "香取市",
+  "location": "若宮八幡宮氏子・志高区(志高)"
+ },
+ {
+  "jmh_id": "JMH-122360-0101",
+  "name": "瓦当笵",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "2001-12-18",
+  "municipality": "香取市",
+  "location": "香取市文化財保存館(羽根川)"
+ },
+ {
+  "jmh_id": "JMH-122360-0102",
+  "name": "下小野神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2002-01-04",
+  "municipality": "香取市",
+  "location": "下小野区(下小野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0103",
+  "name": "下仲町区山車人形 菅原道真",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2002-04-01",
+  "municipality": "香取市",
+  "location": "下仲町区(佐原イ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0104",
+  "name": "妙見菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "2003-03-03",
+  "municipality": "香取市",
+  "location": "本命寺(大崎)"
+ },
+ {
+  "jmh_id": "JMH-122360-0105",
+  "name": "男神坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "2003-03-03",
+  "municipality": "香取市",
+  "location": "本命寺(大崎)"
+ },
+ {
+  "jmh_id": "JMH-122360-0106",
+  "name": "府馬領主依田家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "2003-12-03",
+  "municipality": "香取市",
+  "location": "個人(志高)"
+ },
+ {
+  "jmh_id": "JMH-122360-0108",
+  "name": "志高村延享二年水帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "2003-12-03",
+  "municipality": "香取市",
+  "location": "個人(志高)"
+ },
+ {
+  "jmh_id": "JMH-122360-0107",
+  "name": "府馬領主進藤家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "2003-12-03",
+  "municipality": "香取市",
+  "location": "個人(志高)"
+ }
+]

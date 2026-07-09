@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-121002-0017",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　工芸品",
+  "designation": "市指定",
+  "designated_date": "1966",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻"
+ },
+ {
+  "jmh_id": "JMH-121002-0025",
+  "name": "銅板押出阿弥陀三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　工芸品",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "緑区平山町"
+ },
+ {
+  "jmh_id": "JMH-121002-0026",
+  "name": "千眼神社の鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　工芸品",
+  "designation": "市指定",
+  "designated_date": "1975",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻（千葉市立郷土博物館内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0018",
+  "name": "不受不施派関係古文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　古文書",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "中央区浜野町"
+ },
+ {
+  "jmh_id": "JMH-121002-0049",
+  "name": "原文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　古文書",
+  "designation": "市指定",
+  "designated_date": "2016",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻（千葉市立郷土博物館内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0001",
+  "name": "七廻塚古墳出土品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "1960",
+  "municipality": "千葉市",
+  "location": "中央区南生実町（千葉市埋蔵文化財調査センター内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0005",
+  "name": "武石の板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "1960",
+  "municipality": "千葉市",
+  "location": "花見川区武石町"
+ },
+ {
+  "jmh_id": "JMH-121002-0043",
+  "name": "古瀬戸灰釉四耳壺",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "2001",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻（千葉市立郷土博物館内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0044",
+  "name": "常滑長頸壺",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "2001",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻（千葉市立郷土博物館内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0046",
+  "name": "内野第1遺跡出土人面付土版",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "2011",
+  "municipality": "千葉市",
+  "location": "中央区南生実町（千葉市埋蔵文化財調査センター内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0047",
+  "name": "五十石遺跡出土把手付中空円面硯附盤1点",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "2012",
+  "municipality": "千葉市",
+  "location": "中央区南生実町（千葉市埋蔵文化財調査センター内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0048",
+  "name": "中鹿子第2遺跡出土土偶",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "2013",
+  "municipality": "千葉市",
+  "location": "中央区南生実町（千葉市埋蔵文化財調査センター内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0051",
+  "name": "金光院の板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "2024",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻（千葉市立郷土博物館内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0052",
+  "name": "加曽利貝塚出土品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　考古資料",
+  "designation": "市指定",
+  "designated_date": "2025",
+  "municipality": "千葉市",
+  "location": "若葉区桜木（千葉市立加曽利貝塚博物館内）中央区南生実町（千葉市埋蔵文化財調査センター内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0030",
+  "name": "民間航空資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財　歴史資料",
+  "designation": "市指定",
+  "designated_date": "1984",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻（千葉市立郷土博物館内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0050",
+  "name": "大舟の飾り幕",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2024",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻（千葉市立郷土博物館内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0015",
+  "name": "神楽・神楽書",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963",
+  "municipality": "千葉市",
+  "location": "中央区南生実町"
+ },
+ {
+  "jmh_id": "JMH-121002-0006",
+  "name": "猪鼻城跡（含七天王塚）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960",
+  "municipality": "千葉市",
+  "location": "中央区亥鼻"
+ },
+ {
+  "jmh_id": "JMH-121002-0004",
+  "name": "千葉神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960",
+  "municipality": "千葉市",
+  "location": "中央区院内"
+ },
+ {
+  "jmh_id": "JMH-121002-0002",
+  "name": "千葉寺境内",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960",
+  "municipality": "千葉市",
+  "location": "中央区千葉寺町"
+ },
+ {
+  "jmh_id": "JMH-121002-0003",
+  "name": "千葉氏累代の墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960",
+  "municipality": "千葉市",
+  "location": "稲毛区轟町"
+ },
+ {
+  "jmh_id": "JMH-121002-0009",
+  "name": "荒久古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961",
+  "municipality": "千葉市",
+  "location": "中央区青葉町（青葉の森公園内）"
+ },
+ {
+  "jmh_id": "JMH-121002-0011",
+  "name": "公立千葉病院跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962",
+  "municipality": "千葉市",
+  "location": "中央区中央"
+ },
+ {
+  "jmh_id": "JMH-121002-0012",
+  "name": "共立病院跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1962",
+  "municipality": "千葉市",
+  "location": "中央区院内"
+ },
+ {
+  "jmh_id": "JMH-121002-0023",
+  "name": "恕閑塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "緑区誉田町"
+ },
+ {
+  "jmh_id": "JMH-121002-0024",
+  "name": "森川家累代の墓碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "千葉市",
+  "location": "中央区生実町"
+ },
+ {
+  "jmh_id": "JMH-121002-0029",
+  "name": "滑橋貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982",
+  "municipality": "千葉市",
+  "location": "若葉区小倉町"
+ },
+ {
+  "jmh_id": "JMH-121002-0028",
+  "name": "千葉山",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982",
+  "municipality": "千葉市",
+  "location": "稲毛区園生町"
+ },
+ {
+  "jmh_id": "JMH-121002-0045",
+  "name": "千葉御茶屋御殿跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2004",
+  "municipality": "千葉市",
+  "location": "若葉区御殿町"
+ },
+ {
+  "jmh_id": "JMH-121002-0008",
+  "name": "稲毛の松林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1961",
+  "municipality": "千葉市",
+  "location": "稲毛区稲毛"
+ },
+ {
+  "jmh_id": "JMH-122301-0008",
+  "name": "馬頭観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1992-12-08",
+  "municipality": "八街市",
+  "location": "根古谷字広337-2"
+ },
+ {
+  "jmh_id": "JMH-122301-0004",
+  "name": "天正検地帳 下総国白井庄持草村御縄入水帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 古文書",
+  "designation": "市指定",
+  "designated_date": "1990-02-23",
+  "municipality": "八街市",
+  "location": "八街市郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-122301-0006",
+  "name": "宝永元年勢田村用草村 地境争論裁許書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1991-03-28",
+  "municipality": "八街市",
+  "location": "八街市郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-122301-0009",
+  "name": "捕馬の図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1995-03-24",
+  "municipality": "八街市",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-122301-0010",
+  "name": "捕馬の図 下絵",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1995-03-24",
+  "municipality": "八街市",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-122301-0012",
+  "name": "永沢社鬼瓦",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "1995-03-24",
+  "municipality": "八街市",
+  "location": "二州小学校"
+ },
+ {
+  "jmh_id": "JMH-122301-0018",
+  "name": "前山清一郎所用陣羽織",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "designated_date": "2021-07-20",
+  "municipality": "八街市",
+  "location": "八街市郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-122301-0019",
+  "name": "こえっぱの弁天の下総型板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 考古資料",
+  "designation": "市指定",
+  "designated_date": "2023-10-04",
+  "municipality": "八街市",
+  "location": "文違字台ノ下81-1"
+ },
+ {
+  "jmh_id": "JMH-122301-0007",
+  "name": "額絵馬「捕馬の図」",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-12-08",
+  "municipality": "八街市",
+  "location": "岡田馬頭観世音堂"
+ },
+ {
+  "jmh_id": "JMH-122301-0013",
+  "name": "岡田馬頭観世音幟",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1998-03-24",
+  "municipality": "八街市",
+  "location": "法宣寺"
+ }
+]

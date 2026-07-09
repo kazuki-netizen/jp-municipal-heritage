@@ -1,0 +1,345 @@
+[
+ {
+  "jmh_id": "JMH-123293-0013",
+  "name": "奥津之村文禄・慶長検地帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2024-03-27",
+  "municipality": "栄町",
+  "location": "栄町安食台1-2"
+ },
+ {
+  "jmh_id": "JMH-123293-0010",
+  "name": "北辺田村・奥津村野論裁許絵図",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2019-05-01",
+  "municipality": "栄町",
+  "location": "栄町安食台1-2"
+ },
+ {
+  "jmh_id": "JMH-122220-0015",
+  "name": "旧布佐観音堂仏像（木像馬頭観音坐像1躯）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0010",
+  "name": "延命寺仏像（木像虚空蔵菩薩坐像以下4躯）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0020",
+  "name": "根本家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0021",
+  "name": "榎本家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0002",
+  "name": "下ヶ戸貝塚出土品一括",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0018",
+  "name": "杉村楚人冠陶板句碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0009",
+  "name": "子の神5号墳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0005",
+  "name": "井上家資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0028",
+  "name": "金塚古墳出土遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0014",
+  "name": "旧井上家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0016",
+  "name": "旧村川別荘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0026",
+  "name": "血盆経信仰資料(正泉寺)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0027",
+  "name": "裁縫雛形",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0011",
+  "name": "志賀直哉邸跡書斎",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0022",
+  "name": "水神山古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0017",
+  "name": "杉村楚人冠邸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（天然記念物）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0024",
+  "name": "竹内神社例大祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0007",
+  "name": "地名・人名墨書土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0019",
+  "name": "東源寺の榧ノ木",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0003",
+  "name": "中里薬師堂薬師三尊及び十二神像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0004",
+  "name": "二十一仏武蔵石板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0023",
+  "name": "白泉寺　待道講版木　附　待道講資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0001",
+  "name": "ヒカリモ発生地",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0013",
+  "name": "日立精機2号墳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0012",
+  "name": "日秀西遺跡（相馬郡衙正倉跡）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0025",
+  "name": "葺不合神社",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0006",
+  "name": "古戸里神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122220-0008",
+  "name": "妙蓮寺陶製仁王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "我孫子市"
+ },
+ {
+  "jmh_id": "JMH-122335-0007",
+  "name": "中沢城址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "2007-03-23",
+  "municipality": "富里市",
+  "location": "千葉県富里市中沢290"
+ },
+ {
+  "jmh_id": "JMH-122335-0009",
+  "name": "大久保卿牧羊場選定の碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2007-03-23",
+  "municipality": "富里市",
+  "location": "千葉県富里市御料171-3"
+ },
+ {
+  "jmh_id": "JMH-122335-0010",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2007-03-23",
+  "municipality": "富里市",
+  "location": "千葉県富里市中沢593"
+ },
+ {
+  "jmh_id": "JMH-122335-0011",
+  "name": "東内野遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "2007-03-23",
+  "municipality": "富里市",
+  "location": "千葉県富里市七栄272-19の一部　外"
+ },
+ {
+  "jmh_id": "JMH-122335-0008",
+  "name": "吉川植林計画図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2007-03-23",
+  "municipality": "富里市"
+ },
+ {
+  "jmh_id": "JMH-122335-0012",
+  "name": "高野六地蔵・六観音",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 美術工芸品",
+  "designation": "市指定",
+  "designated_date": "2007-03-23",
+  "municipality": "富里市",
+  "location": "千葉県富里市高野558"
+ },
+ {
+  "jmh_id": "JMH-122335-0002",
+  "name": "久能獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-02",
+  "municipality": "富里市",
+  "location": "千葉県富里市久能553-1"
+ },
+ {
+  "jmh_id": "JMH-122335-0003",
+  "name": "武州ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-02",
+  "municipality": "富里市",
+  "location": "千葉県富里市十倉296-1"
+ },
+ {
+  "jmh_id": "JMH-122335-0001",
+  "name": "中沢麦つき踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-02",
+  "municipality": "富里市",
+  "location": "千葉県富里市新中沢232"
+ },
+ {
+  "jmh_id": "JMH-122335-0004",
+  "name": "太政官高札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 美術工芸品",
+  "designation": "市指定",
+  "designated_date": "1993-03-25",
+  "municipality": "富里市",
+  "location": "富里市立図書館"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-122262-0032",
+  "name": "鶴岡の羯鼓舞（かっこまい）および用具",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978",
+  "municipality": "富津市",
+  "location": "鶴岡"
+ },
+ {
+  "jmh_id": "JMH-122262-0053",
+  "name": "竹岡三柱神社（たけおかみはしらじんじゃ）の木遣（きや）り獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013",
+  "municipality": "富津市",
+  "location": "竹岡"
+ },
+ {
+  "jmh_id": "JMH-122165-0004",
+  "name": "実籾3丁目遺跡出土土器",
+  "category": "有形文化財",
+  "subcategory": "有形 文化財",
+  "designation": "市指定",
+  "designated_date": "2014-04-02",
+  "municipality": "習志野市",
+  "location": "鷺沼2丁目1番1号 習志野市庁舎内"
+ },
+ {
+  "jmh_id": "JMH-122165-0005",
+  "name": "谷津貝塚出土墨書土器",
+  "category": "有形文化財",
+  "subcategory": "有形 文化財",
+  "designation": "市指定",
+  "designated_date": "2015-11-09",
+  "municipality": "習志野市",
+  "location": "鷺沼2丁目1番1号 習志野市庁舎内"
+ },
+ {
+  "jmh_id": "JMH-122165-0006",
+  "name": "谷津貝塚出土瓦塔",
+  "category": "有形文化財",
+  "subcategory": "有形 文化財",
+  "designation": "市指定",
+  "designated_date": "2015-11-09",
+  "municipality": "習志野市",
+  "location": "鷺沼2丁目1番1号 習志野市庁舎内"
+ },
+ {
+  "jmh_id": "JMH-122165-0008",
+  "name": "谷津貝塚出土銭貨",
+  "category": "有形文化財",
+  "subcategory": "有形 文化財",
+  "designation": "市指定",
+  "designated_date": "2015-11-09",
+  "municipality": "習志野市",
+  "location": "鷺沼2丁目1番1号 習志野市庁舎内"
+ },
+ {
+  "jmh_id": "JMH-122165-0007",
+  "name": "谷津貝塚出土金属製品",
+  "category": "有形文化財",
+  "subcategory": "有形 文化財",
+  "designation": "市指定",
+  "designated_date": "2015-11-09",
+  "municipality": "習志野市",
+  "location": "鷺沼2丁目1番1号 習志野市庁舎内"
+ },
+ {
+  "jmh_id": "JMH-122165-0009",
+  "name": "ドイツ捕虜関係資料",
+  "category": "有形文化財",
+  "subcategory": "有形 文化財",
+  "designation": "市指定",
+  "designated_date": "2019-09-03",
+  "municipality": "習志野市",
+  "location": "鷺沼2丁目1番1号 習志野市庁舎内"
+ },
+ {
+  "jmh_id": "JMH-122165-0001",
+  "name": "海苔養殖用具他一括",
+  "category": "民俗文化財",
+  "subcategory": "民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "1976-07-16",
+  "municipality": "習志野市",
+  "location": "鷺沼2丁目1番1号 習志野市庁舎内"
+ },
+ {
+  "jmh_id": "JMH-122165-0010",
+  "name": "藤崎冨士講社の富士塚",
+  "category": "民俗文化財",
+  "subcategory": "民俗 文化財",
+  "designation": "市指定",
+  "designated_date": "2023-03-01",
+  "municipality": "習志野市",
+  "location": "藤崎1丁目176 藤崎堀込貝塚内"
+ },
+ {
+  "jmh_id": "JMH-122165-0003",
+  "name": "鷺沼古墳B号墳 箱式石棺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1976-07-16",
+  "municipality": "習志野市",
+  "location": "鷺沼1丁目9 鷺沼城址公園内"
+ },
+ {
+  "jmh_id": "JMH-122165-0002",
+  "name": "藤崎正福寺大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然 記念物",
+  "designation": "市指定",
+  "designated_date": "1976-07-16",
+  "municipality": "習志野市",
+  "location": "藤崎1丁目8 子安観音堂脇"
+ },
+ {
+  "jmh_id": "JMH-122360-0001",
+  "name": "尺時計",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "designated_date": "1962-01-05",
+  "municipality": "香取市",
+  "location": "伊能忠敬記念館(佐原イ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0002",
+  "name": "八坂神社旧神輿",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1965-02-18",
+  "municipality": "香取市",
+  "location": "水郷佐原山車会館(佐原イ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0003",
+  "name": "十六羅漢像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 絵画",
+  "designation": "市指定",
+  "designated_date": "1967-12-22",
+  "municipality": "香取市",
+  "location": "徳星寺(小見)"
+ },
+ {
+  "jmh_id": "JMH-122360-0006",
+  "name": "薬師如来",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-12-22",
+  "municipality": "香取市",
+  "location": "個人(田部)"
+ },
+ {
+  "jmh_id": "JMH-122360-0005",
+  "name": "大般若経文",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 典籍",
+  "designation": "市指定",
+  "designated_date": "1967-12-22",
+  "municipality": "香取市",
+  "location": "新福寺(神生)"
+ },
+ {
+  "jmh_id": "JMH-122360-0004",
+  "name": "土井利勝植林指導地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1967-12-22",
+  "municipality": "香取市",
+  "location": "個人(仁良)"
+ },
+ {
+  "jmh_id": "JMH-122360-0022",
+  "name": "鋤崎貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "個人(鋤崎)"
+ },
+ {
+  "jmh_id": "JMH-122360-0007",
+  "name": "三郎作貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "個人(新市場)"
+ },
+ {
+  "jmh_id": "JMH-122360-0013",
+  "name": "大倉南貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "個人(大倉)"
+ },
+ {
+  "jmh_id": "JMH-122360-0011",
+  "name": "台畑貝塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "個人(多田)"
+ },
+ {
+  "jmh_id": "JMH-122360-0021",
+  "name": "片野新林古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "個人(片野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0010",
+  "name": "又見古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "又見神社(香取)"
+ },
+ {
+  "jmh_id": "JMH-122360-0017",
+  "name": "本矢作城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "本矢作区(本矢作)"
+ },
+ {
+  "jmh_id": "JMH-122360-0014",
+  "name": "大崎城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "個人(大崎)"
+ },
+ {
+  "jmh_id": "JMH-122360-0009",
+  "name": "伊能忠敬墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0008",
+  "name": "今泉恒丸墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "前原共同墓地(佐原イ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0019",
+  "name": "楫取魚彦墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "観福寺(牧野)"
+ },
+ {
+  "jmh_id": "JMH-122360-0018",
+  "name": "松永呑舟墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "千仏寺(津宮)"
+ },
+ {
+  "jmh_id": "JMH-122360-0020",
+  "name": "清宮秀堅墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "浄国寺(佐原イ)"
+ },
+ {
+  "jmh_id": "JMH-122360-0015",
+  "name": "木造弥迦如来同脇侍像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "光福寺(寺内)"
+ },
+ {
+  "jmh_id": "JMH-122360-0016",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 彫刻",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "西福寺(山之辺)"
+ },
+ {
+  "jmh_id": "JMH-122360-0012",
+  "name": "堂の下大ひいらぎ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1970-05-27",
+  "municipality": "香取市",
+  "location": "個人(長山)"
+ },
+ {
+  "jmh_id": "JMH-122360-0023",
+  "name": "多田の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-06-29",
+  "municipality": "香取市",
+  "location": "多田区(多田)"
+ },
+ {
+  "jmh_id": "JMH-122360-0024",
+  "name": "城山第4号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1973-04-23",
+  "municipality": "香取市",
+  "location": "小見川城山公園(小見川)"
+ },
+ {
+  "jmh_id": "JMH-122360-0025",
+  "name": "富田第1号墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1973-04-23",
+  "municipality": "香取市",
+  "location": "個人(富田)"
+ },
+ {
+  "jmh_id": "JMH-122360-0027",
+  "name": "山倉の念仏塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 史跡",
+  "designation": "市指定",
+  "designated_date": "1973-08-20",
+  "municipality": "香取市",
+  "location": "個人(山倉)"
+ },
+ {
+  "jmh_id": "JMH-122360-0026",
+  "name": "安産大神",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "designated_date": "1973-08-20",
+  "municipality": "香取市",
+  "location": "愛宕神社(府馬)"
+ },
+ {
+  "jmh_id": "JMH-122360-0028",
+  "name": "安興寺大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物 天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-11-12",
+  "municipality": "香取市",
+  "location": "安興寺(岩部)"
+ }
+]

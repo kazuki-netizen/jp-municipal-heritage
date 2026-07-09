@@ -1,0 +1,382 @@
+[
+ {
+  "jmh_id": "JMH-122394-0017",
+  "name": "鋳銅鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 工芸品",
+  "designation": "市指定",
+  "municipality": "大網白里市"
+ },
+ {
+  "jmh_id": "JMH-122394-0015",
+  "name": "縣神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "municipality": "大網白里市"
+ },
+ {
+  "jmh_id": "JMH-122394-0004",
+  "name": "元網主斉藤四郎右衛門家稲荷社",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "municipality": "大網白里市"
+ },
+ {
+  "jmh_id": "JMH-122394-0016",
+  "name": "要行寺山門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 建造物",
+  "designation": "市指定",
+  "municipality": "大網白里市"
+ },
+ {
+  "jmh_id": "JMH-122394-0018",
+  "name": "高札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財 歴史資料",
+  "designation": "市指定",
+  "municipality": "大網白里市"
+ },
+ {
+  "jmh_id": "JMH-123226-0017",
+  "name": "経胤寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "本佐倉21-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0012",
+  "name": "勝蔵院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "酒々井127-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0004",
+  "name": "木造十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "本佐倉696-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0009",
+  "name": "銅造十一面観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "伊篠647"
+ },
+ {
+  "jmh_id": "JMH-123226-0005",
+  "name": "木造正観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "伊篠647"
+ },
+ {
+  "jmh_id": "JMH-123226-0003",
+  "name": "木造不動明王座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "酒々井127-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0027",
+  "name": "木造阿弥陀如来座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1991-03-30",
+  "municipality": "酒々井町",
+  "location": "伊篠719"
+ },
+ {
+  "jmh_id": "JMH-123226-0026",
+  "name": "木造童子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1991-03-30",
+  "municipality": "酒々井町",
+  "location": "柏木562"
+ },
+ {
+  "jmh_id": "JMH-123226-0007",
+  "name": "浄泉寺文書二通",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "伊篠647"
+ },
+ {
+  "jmh_id": "JMH-123226-0006",
+  "name": "板石塔婆（永徳三年在銘）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "上岩橋1359-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0008",
+  "name": "石造道分不動道標",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "上岩橋352-14"
+ },
+ {
+  "jmh_id": "JMH-123226-0014",
+  "name": "島田長右衛門家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "酒々井1688"
+ },
+ {
+  "jmh_id": "JMH-123226-0011",
+  "name": "佐倉七牧大絵図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "酒々井1688"
+ },
+ {
+  "jmh_id": "JMH-123226-0019",
+  "name": "酒々井駅古松碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "酒々井167-6"
+ },
+ {
+  "jmh_id": "JMH-123226-0016",
+  "name": "柏木の庚申塔（正徳二年在銘）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "柏木"
+ },
+ {
+  "jmh_id": "JMH-123226-0015",
+  "name": "本佐倉の庚申塔（享保十年）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "本佐倉"
+ },
+ {
+  "jmh_id": "JMH-123226-0018",
+  "name": "酒々井の庚申塔（正徳元年）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "酒々井1839-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0013",
+  "name": "大日如来供養塔（寛文十三年）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "酒々井1839-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0020",
+  "name": "飯積村道標（寛政十一年）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "飯積"
+ },
+ {
+  "jmh_id": "JMH-123226-0024",
+  "name": "慶長九年検地帳（小神村御縄打水帳）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1991-03-30",
+  "municipality": "酒々井町",
+  "location": "尾上"
+ },
+ {
+  "jmh_id": "JMH-123226-0025",
+  "name": "慶長九年検地帳（馬橋郷御縄打水帳）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1991-03-30",
+  "municipality": "酒々井町",
+  "location": "馬橋"
+ },
+ {
+  "jmh_id": "JMH-123226-0023",
+  "name": "慶長九年検地帳（上岩橋郷御縄打水帳）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1991-03-30",
+  "municipality": "酒々井町",
+  "location": "上岩橋351-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0028",
+  "name": "柏木の六地蔵",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1991-03-30",
+  "municipality": "酒々井町",
+  "location": "柏木562"
+ },
+ {
+  "jmh_id": "JMH-123226-0029",
+  "name": "紙本著色鬼子母神図（附 紙本著色日蓮聖人図及び法華曼陀羅二幅）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1999-09-06",
+  "municipality": "酒々井町",
+  "location": "酒々井127-1"
+ },
+ {
+  "jmh_id": "JMH-123226-0022",
+  "name": "勝福寺鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1987-12-15",
+  "municipality": "酒々井町",
+  "location": "黒265"
+ },
+ {
+  "jmh_id": "JMH-123226-0002",
+  "name": "上岩橋の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "上岩橋区"
+ },
+ {
+  "jmh_id": "JMH-123226-0021",
+  "name": "馬橋の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1977-03-29",
+  "municipality": "酒々井町",
+  "location": "馬橋区"
+ },
+ {
+  "jmh_id": "JMH-123226-0001",
+  "name": "カンカンムロ横穴群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "酒々井558-2他"
+ },
+ {
+  "jmh_id": "JMH-123226-0010",
+  "name": "飯積の大杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "植物",
+  "designation": "町指定",
+  "designated_date": "1971-11-03",
+  "municipality": "酒々井町",
+  "location": "飯積"
+ },
+ {
+  "jmh_id": "JMH-123226-0030",
+  "name": "下宿麻賀多神社山車人形及び山車",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "2007-10-05",
+  "municipality": "酒々井町",
+  "location": "酒々井204-1"
+ },
+ {
+  "jmh_id": "JMH-124109-0008",
+  "name": "台宗龍寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "横芝光町"
+ },
+ {
+  "jmh_id": "JMH-124109-0014",
+  "name": "小川台隆台寺前の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "横芝光町"
+ },
+ {
+  "jmh_id": "JMH-124109-0017",
+  "name": "板碑（町指定）3",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "横芝光町"
+ },
+ {
+  "jmh_id": "JMH-124109-0018",
+  "name": "板碑（町指定）4",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "横芝光町"
+ },
+ {
+  "jmh_id": "JMH-124109-0019",
+  "name": "板碑（町指定）5",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "横芝光町"
+ }
+]

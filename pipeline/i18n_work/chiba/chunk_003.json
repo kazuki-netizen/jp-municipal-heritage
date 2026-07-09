@@ -1,0 +1,360 @@
+[
+ {
+  "jmh_id": "JMH-122131-0006",
+  "name": "作田東睡の墓碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（その他）",
+  "designation": "市指定",
+  "municipality": "東金市"
+ },
+ {
+  "jmh_id": "JMH-122131-0020",
+  "name": "大絵馬一面",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "municipality": "東金市"
+ },
+ {
+  "jmh_id": "JMH-122238-0004",
+  "name": "大山寺鐘楼",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1975-05-28",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0023",
+  "name": "鏡忍寺向唐門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1978-07-24",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0022",
+  "name": "永明寺向唐門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1978-07-24",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0005",
+  "name": "来秀五輪塔群",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1975-05-28",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0030",
+  "name": "清澄寺石造宝篋印塔（応永12年在銘）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2002-03-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0029",
+  "name": "清澄寺石造宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2002-03-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0044",
+  "name": "大山寺石造宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2004-06-02",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0046",
+  "name": "誕生寺石造三層塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2009-03-31",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0049",
+  "name": "誕生寺祖師堂附「指図(天保3年)・棟札(天保13年)・奉納額(明治29年)」",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2017-11-18",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0012",
+  "name": "木造薬師如来立像（滝山寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1976-10-19",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0013",
+  "name": "木造釈迦如来立像（滝山寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1976-10-19",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0021",
+  "name": "木造如来坐像（鏡忍寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1978-04-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0038",
+  "name": "木造日蓮聖人坐像（誕生寺祖師堂安置）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0037",
+  "name": "木造日蓮聖人坐像（誕生寺本堂安置）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0041",
+  "name": "木造阿弥陀如来坐像（西蓮寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0035",
+  "name": "木造大日如来坐像（西蓮寺大日堂安置）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0039",
+  "name": "木造日蓮聖人坐像（高生寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0042",
+  "name": "銅造千手観音立像（海福寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0040",
+  "name": "木造薬師如来坐像（清澄寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0036",
+  "name": "木造如来立像（清澄寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0043",
+  "name": "銅造観音菩薩立像（清澄寺）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2003-12-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0017",
+  "name": "西福寺本堂の彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1977-05-27",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0018",
+  "name": "金乗院大日堂の彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1977-05-27",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0016",
+  "name": "薬王院本堂の彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1977-05-27",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0019",
+  "name": "鏡忍寺祖師堂の彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1977-05-27",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0020",
+  "name": "吉保八幡神社本殿向拝の彫刻",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1978-04-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0028",
+  "name": "毘沙門天板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2002-03-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0027",
+  "name": "六地蔵板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2002-03-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0031",
+  "name": "石造五大明王",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2002-03-25",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0045",
+  "name": "江見吉浦の武蔵板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2004-12-24",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0006",
+  "name": "浄土三曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1976-01-27",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0003",
+  "name": "大山寺棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書跡）",
+  "designation": "市指定",
+  "designated_date": "1975-05-28",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0014",
+  "name": "滝山寺棟札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書跡）",
+  "designation": "市指定",
+  "designated_date": "1976-10-19",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0050",
+  "name": "房州峯岡山野絵図・房州朝夷郡柱木野絵図（石井孫左衛門控）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "2020-01-09",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0001",
+  "name": "善覚寺の近世文書",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1973-03-28",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0047",
+  "name": "山王講の山車と人形附・高欄入れ木箱",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2011-05-26",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0048",
+  "name": "諏訪講の山車と人形",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2011-05-26",
+  "municipality": "鴨川市"
+ },
+ {
+  "jmh_id": "JMH-122238-0024",
+  "name": "大浦の担ぎ屋台巡行",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-09-08",
+  "municipality": "鴨川市"
+ }
+]

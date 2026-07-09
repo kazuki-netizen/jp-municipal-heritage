@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-122289-0061",
+  "name": "内黒田はだか参り",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-02-02",
+  "municipality": "四街道市"
+ },
+ {
+  "jmh_id": "JMH-124435-0011",
+  "name": "古文書（検地帳）（菱川師宣記念館所蔵）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1977-03-04",
+  "municipality": "鋸南町",
+  "location": "吉浜516"
+ },
+ {
+  "jmh_id": "JMH-124435-0009",
+  "name": "古文書（検地帳）（岩崎家所蔵）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1977-03-04",
+  "municipality": "鋸南町",
+  "location": "元名916"
+ },
+ {
+  "jmh_id": "JMH-124435-0010",
+  "name": "古文書（検地帳）（市井原区所蔵）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1977-03-04",
+  "municipality": "鋸南町",
+  "location": "吉浜516"
+ },
+ {
+  "jmh_id": "JMH-124435-0012",
+  "name": "師宣寄進鐘銘拓本",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1977-03-04",
+  "municipality": "鋸南町",
+  "location": "吉浜516"
+ },
+ {
+  "jmh_id": "JMH-124435-0014",
+  "name": "木造十王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1980-03-28",
+  "municipality": "鋸南町",
+  "location": "上佐久間8"
+ },
+ {
+  "jmh_id": "JMH-124435-0013",
+  "name": "屋台彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1980-03-28",
+  "municipality": "鋸南町",
+  "location": "中佐久間2901"
+ },
+ {
+  "jmh_id": "JMH-124435-0015",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1981-01-13",
+  "municipality": "鋸南町",
+  "location": "保田1354"
+ },
+ {
+  "jmh_id": "JMH-124435-0017",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1983-05-23",
+  "municipality": "鋸南町",
+  "location": "勝浜1575"
+ },
+ {
+  "jmh_id": "JMH-124435-0016",
+  "name": "古文書（検地帳）（高浜家所蔵）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1983-05-23",
+  "municipality": "鋸南町",
+  "location": "保田236"
+ },
+ {
+  "jmh_id": "JMH-124435-0019",
+  "name": "山王系庚申石祠",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1984-02-03",
+  "municipality": "鋸南町",
+  "location": "下佐久間651"
+ },
+ {
+  "jmh_id": "JMH-124435-0018",
+  "name": "サクマクジラ化石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "動物",
+  "designation": "町指定",
+  "designated_date": "1984-02-03",
+  "municipality": "鋸南町",
+  "location": "吉浜516"
+ },
+ {
+  "jmh_id": "JMH-124435-0023",
+  "name": "大統馬流鏑馬絵巻流し図（菱川師宣記念館所蔵）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1989-02-08",
+  "municipality": "鋸南町",
+  "location": "元名921"
+ },
+ {
+  "jmh_id": "JMH-124435-0022",
+  "name": "大統馬流鏑馬絵巻流し図（大絵馬）（菱川師宣記念館所蔵）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1989-02-08",
+  "municipality": "鋸南町",
+  "location": "吉浜516"
+ },
+ {
+  "jmh_id": "JMH-124435-0024",
+  "name": "大絵馬業者農棚の八枚大板道場図（奥山神社所蔵）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1989-02-08",
+  "municipality": "鋸南町",
+  "location": "奥山907"
+ },
+ {
+  "jmh_id": "JMH-124435-0025",
+  "name": "市井原の獅子舞・神楽舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1991-03-18",
+  "municipality": "鋸南町",
+  "location": "市井原158"
+ },
+ {
+  "jmh_id": "JMH-124435-0030",
+  "name": "安固神社",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2004-01-23",
+  "municipality": "鋸南町",
+  "location": "小保田区"
+ },
+ {
+  "jmh_id": "JMH-124435-0027",
+  "name": "妙本寺客殿向拝彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2004-01-23",
+  "municipality": "鋸南町",
+  "location": "吉浜453"
+ },
+ {
+  "jmh_id": "JMH-124435-0029",
+  "name": "存林寺須弥壇彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2004-01-23",
+  "municipality": "鋸南町",
+  "location": "元名1183"
+ },
+ {
+  "jmh_id": "JMH-124435-0026",
+  "name": "北条氏康書状",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2004-01-23",
+  "municipality": "鋸南町",
+  "location": "下佐久間3267"
+ },
+ {
+  "jmh_id": "JMH-124435-0028",
+  "name": "妙本寺海岸絵図",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2004-01-23",
+  "municipality": "鋸南町",
+  "location": "保田240-9"
+ },
+ {
+  "jmh_id": "JMH-124435-0003",
+  "name": "板石塔婆",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "大帿子637"
+ },
+ {
+  "jmh_id": "JMH-124435-0002",
+  "name": "木造地蔵菩薩座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "小保田215"
+ },
+ {
+  "jmh_id": "JMH-124435-0006",
+  "name": "石造延命地蔵半跏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "元名812"
+ },
+ {
+  "jmh_id": "JMH-124435-0004",
+  "name": "棟礼（八幡神社）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "上佐久間626"
+ },
+ {
+  "jmh_id": "JMH-124435-0005",
+  "name": "棟礼（鶴ヶ浜神社）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "大帿子687"
+ },
+ {
+  "jmh_id": "JMH-124435-0001",
+  "name": "キリシタン禁制高札",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "小保田156"
+ },
+ {
+  "jmh_id": "JMH-124435-0007",
+  "name": "菱川師宣の墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "保田127"
+ },
+ {
+  "jmh_id": "JMH-124435-0008",
+  "name": "醍醐新兵衛の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1974-11-03",
+  "municipality": "鋸南町",
+  "location": "勝山413"
+ },
+ {
+  "jmh_id": "JMH-124435-0021",
+  "name": "大統馬流鏑馬絵巻流し図（菱川師宣関係資料）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1987-03-04",
+  "municipality": "鋸南町",
+  "location": "吉浜516"
+ },
+ {
+  "jmh_id": "JMH-124435-0020",
+  "name": "菱川師宣関係過去帳",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1985-03-18",
+  "municipality": "鋸南町",
+  "location": "保田1933"
+ },
+ {
+  "jmh_id": "JMH-122068-0001",
+  "name": "斎藤昌麿の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1964-03-25",
+  "municipality": "木更津市",
+  "location": "小浜"
+ },
+ {
+  "jmh_id": "JMH-122068-0002",
+  "name": "鳥海酔車の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1964-03-25",
+  "municipality": "木更津市",
+  "location": "長須賀1668福寿寺内"
+ },
+ {
+  "jmh_id": "JMH-122068-0004",
+  "name": "鋳匠大野五郎右衛門遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1965-02-20",
+  "municipality": "木更津市",
+  "location": "矢那"
+ },
+ {
+  "jmh_id": "JMH-122068-0003",
+  "name": "橘守部遺墨",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（書跡）",
+  "designation": "市指定",
+  "designated_date": "1965-02-20",
+  "municipality": "木更津市",
+  "location": "小浜"
+ },
+ {
+  "jmh_id": "JMH-122068-0005",
+  "name": "鈴木三郎家蔵古文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1965-06-17",
+  "municipality": "木更津市",
+  "location": "太田2-16-2"
+ },
+ {
+  "jmh_id": "JMH-122068-0006",
+  "name": "徳川家より下賜された獅子頭",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1965-09-06",
+  "municipality": "木更津市",
+  "location": "中央（旧北片町）"
+ },
+ {
+  "jmh_id": "JMH-122068-0007",
+  "name": "木更津船之由緒書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1965-09-06",
+  "municipality": "木更津市",
+  "location": "太田2-16-2"
+ },
+ {
+  "jmh_id": "JMH-122068-0010",
+  "name": "長楽寺の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1966-04-22",
+  "municipality": "木更津市",
+  "location": "請西"
+ },
+ {
+  "jmh_id": "JMH-122068-0008",
+  "name": "真武根陣屋遺址",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "記念物（史跡）",
+  "designation": "市指定",
+  "designated_date": "1966-04-22",
+  "municipality": "木更津市",
+  "location": "請西1139-33"
+ }
+]
