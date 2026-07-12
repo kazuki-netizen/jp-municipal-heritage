@@ -6,5 +6,109 @@
     "fetched_at": "2026-07-12T07:38:36Z",
     "http_status": 200,
     "format": "html"
+  },
+  "hub_ichiran": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/ichiran.html",
+    "filename": "hub_ichiran.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_imabari_area": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/",
+    "filename": "hub_imabari_area.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_asakura": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/asakura.html",
+    "filename": "hub_asakura.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_tamagawa": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/tamagawa.html",
+    "filename": "hub_tamagawa.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_namikata": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/namikata.html",
+    "filename": "hub_namikata.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_onisi": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/onisi.html",
+    "filename": "hub_onisi.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_kikuma": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/kikuma.html",
+    "filename": "hub_kikuma.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_yosiumi": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/yosiumi.html",
+    "filename": "hub_yosiumi.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_miyakubo": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/miyakubo.html",
+    "filename": "hub_miyakubo.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_hakata": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/hakata.html",
+    "filename": "hub_hakata.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_kamiura": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/kamiura.html",
+    "filename": "hub_kamiura.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_omisima": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/omisima.html",
+    "filename": "hub_omisima.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
+  },
+  "hub_sekizen": {
+    "url": "https://www.city.imabari.ehime.jp/bunka/bunkazai/bunkazai/sekizen.html",
+    "filename": "hub_sekizen.html",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "hub subpage discovered from portal nav"
   }
 }

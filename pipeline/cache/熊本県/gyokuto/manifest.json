@@ -1,0 +1,18 @@
+{
+  "fbe3ce7633fabbbb": {
+    "url": "https://www.town.gyokuto.kumamoto.jp/kiji00388/index.html",
+    "filename": "fbe3ce7633fabbbb.html",
+    "sha256": "17196f54b6c9e46b3b8b5bdd1e879d098a941bfe9725cd6f432ebf988b30d842",
+    "fetched_at": "2026-07-12T09:36:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "320efebcfb49bd6e": {
+    "url": "https://www.town.gyokuto.kumamoto.jp/kiji00388/3_88_shinsei1_7g032l7m.pdf",
+    "filename": "320efebcfb49bd6e.pdf",
+    "sha256": "4d57c66fc59acf7c171cd2565eec49099db5cf1686999f036ce3d3c539cec17c",
+    "fetched_at": "2026-07-12T09:36:22Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

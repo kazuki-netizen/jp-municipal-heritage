@@ -3,8 +3,24 @@
     "url": "https://www.city.yamaguchi.lg.jp/uploaded/attachment/115780.pdf",
     "filename": "2b2e983e8a0ef4c1.pdf",
     "sha256": "77fa7c2469bdc1be61c3a649b0ece9200ea706082148e21cb0a6c21d344837d2",
-    "fetched_at": "2026-07-12T07:10:38Z",
+    "fetched_at": "2026-07-12T09:06:06Z",
     "http_status": 200,
     "format": "pdf"
+  },
+  "438aa9fcab4d6a93": {
+    "url": "https://www.city.yamaguchi.lg.jp/site/rekibunshigen/127551.html",
+    "filename": "438aa9fcab4d6a93.html",
+    "sha256": "cfce156345aaa37388276fd3333600f258250ed7eda4479b12a715c07e5fc724",
+    "fetched_at": "2026-07-12T09:14:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "870253bd5ed2ab10": {
+    "url": "https://www.city.yamaguchi.lg.jp/site/rekibunshigen/list193-699.html",
+    "filename": "870253bd5ed2ab10.html",
+    "sha256": "e84831b53a1f265bbbf70b0638450343bad422a28233b4419ac60cdc9f4cc2c3",
+    "fetched_at": "2026-07-12T09:15:24Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

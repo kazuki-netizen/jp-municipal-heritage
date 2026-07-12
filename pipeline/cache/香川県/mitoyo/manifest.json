@@ -6,5 +6,93 @@
     "fetched_at": "2026-07-12T07:30:02Z",
     "http_status": 200,
     "format": "html"
+  },
+  "d2d2f78242e499d5": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13926.html",
+    "filename": "d2d2f78242e499d5.html",
+    "sha256": "9a75dcf58ed4af52d25dbef58ad74449d0341966bae33b36de5f2accb8d11052",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3176d37d90efa754": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13927.html",
+    "filename": "3176d37d90efa754.html",
+    "sha256": "d84854b072b6883b38ebb5f0b173609112195b2398f6313416d88be38b25e7cb",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5d968a67bca16ea5": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13928.html",
+    "filename": "5d968a67bca16ea5.html",
+    "sha256": "ce7df8245e039f6bc712e6740ae1d16e677848ec166a631cfc9ac719b5682546",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ee6898fcd403d55f": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13929.html",
+    "filename": "ee6898fcd403d55f.html",
+    "sha256": "958340f55a3c3dd8344f0ba2cd75c896c884a98fb80d0d13ca461ae238c8bc0e",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "123318404ae6c83b": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13931.html",
+    "filename": "123318404ae6c83b.html",
+    "sha256": "ed78977c992a7a1f7352e11f491bcb048ef6a0b28ce9208cbcc971e068a91843",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dc3b3f72fdc73b85": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13932.html",
+    "filename": "dc3b3f72fdc73b85.html",
+    "sha256": "d04ad89a5df95004ead7b58abf0475c3296e510e09faf7145837506415c84ecb",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3472f00e5ef4c6f8": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13933.html",
+    "filename": "3472f00e5ef4c6f8.html",
+    "sha256": "ccadb0a6162864d66130f4d1dc79c6fa22b702d955b445de2c90e7f059df4fec",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dbbdf01b201cd902": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13934.html",
+    "filename": "dbbdf01b201cd902.html",
+    "sha256": "dc0b299f47fa703a46e87a79ea57c6615ff01ec868288ba91d42b0cc95ea3506",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fb11392591ebab99": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13935.html",
+    "filename": "fb11392591ebab99.html",
+    "sha256": "09bd1d178e2af0807254e1073e312ef0c258b3e6b004cd65df93cfb1058ac484",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1cb412dc01fad82a": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13936.html",
+    "filename": "1cb412dc01fad82a.html",
+    "sha256": "e12b6f1e4ce4ed83f149297eae4cf570f9b693be27459b226bffcb04f4e65175",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3a3aea3775e89ad5": {
+    "url": "https://www.city.mitoyo.lg.jp/kakuka/kyouikuiinkai/shogai/3_1/history_bunnkazai/13937.html",
+    "filename": "3a3aea3775e89ad5.html",
+    "sha256": "9f4d99009f0fcfda30975a00ecf5c2e87366a5369cfc0217d4c93489f12126b4",
+    "fetched_at": "2026-07-12T19:55:00Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

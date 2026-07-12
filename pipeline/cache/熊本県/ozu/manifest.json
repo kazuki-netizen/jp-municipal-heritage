@@ -1,0 +1,18 @@
+{
+  "d824a520541c0725": {
+    "url": "https://www.town.ozu.kumamoto.jp/page/2784.html",
+    "filename": "d824a520541c0725.html",
+    "sha256": "0decd9d3f0498119ecacb7890bf23f1de5644cd5030965abe829dd34eb3ac4e6",
+    "fetched_at": "2026-07-12T09:36:27Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9a46ee997f05e5ee": {
+    "url": "https://www.town.ozu.kumamoto.jp/uploaded/attachment/11074.pdf",
+    "filename": "9a46ee997f05e5ee.pdf",
+    "sha256": "9168ba8f6a83d0963daa395d6ee72b56e41bebfd875728ddd2c4ce2063167365",
+    "fetched_at": "2026-07-12T09:36:29Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

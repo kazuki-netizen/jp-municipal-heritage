@@ -1,0 +1,18 @@
+{
+  "d69efb7d7964a77a": {
+    "url": "https://www.city.tsukumi.oita.jp/soshiki/25/31825.html",
+    "filename": "d69efb7d7964a77a.html",
+    "sha256": "85bbfa624a45eda84968dba1d0438dbcc46ca272de001d8a3f0f001706ffe45d",
+    "fetched_at": "2026-07-12T09:53:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fd64bafba80ba9cf": {
+    "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/17665.pdf",
+    "filename": "fd64bafba80ba9cf.pdf",
+    "sha256": "4060d35bde3509bd8e8d8e3a40b392eb65d87066e80024ee0126bc5c55c0b58f",
+    "fetched_at": "2026-07-12T09:53:41Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,3004 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	文化財・史跡 / 山都町
+</title>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a') /* 2011/04/04 a tag OK */
+            {
+                if (event.preventDefault) 
+                {
+                    event.preventDefault();
+                } 
+                else 
+                {
+                    event.returnValue = false;
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 768px)" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 767px)" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" media="print, screen and (min-width: 768px)" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 767px)" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/uiw.css" id="css_color" rel="stylesheet" type="text/css" media="print, screen and (min-width: 768px)" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/uiw.css" id="css_color_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 767px)" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/jquery.min.js"></script><script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/js.cookie.js"></script><script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/pubfunc.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/jquery-ui.js"></script><script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/jquery.scrollfollow.js"></script><script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/floatheader.js"></script><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/default_body.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/uiw.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="文化財・史跡" /><meta property="og:image" content="https://www.town.kumamoto-yamato.lg.jp/dynamic/common/images/ogp/og_image.gif" /><meta property="og:url" content="https://www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/pub/list.aspx?c_id=3" /><meta property="og:description" content="文化財・史跡 / 山都町" /><meta property="og:site_name" content="山都町" /><meta property="og:locality" content="Yamato-Cho" /><meta property="og:region" content="Kumamoto" /><meta property="og:country-name" content="Japan" /></head>
+<body class="haikei">
+<form name="aspnetForm" method="post" action="./list.aspx?c_id=3&amp;class_id=422&amp;class_set_id=1" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CCC976A2" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAP+bxshen/8F+kLPz24qGFpr/kCtIPg/ZD0i99J79UCIXqi3h4Wlhf4O3vFCjIILWHjnPSC3HDlkXGYdRozXxk7KhDSnQ==" />
+</div>
+
+<div id="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+
+
+
+<!-- allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script>
+<script>
+    jQuery.noConflict();
+    //　ナビゲーションメニュー開閉
+    function nabiMenuOpneClose() {
+        jQuery("#top_mokuteki").toggleClass("active");
+        jQuery("#overlay").toggleClass("open");
+        if (jQuery("#top_mokuteki").hasClass("active")) {
+            jQuery("body").addClass("no-scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".top_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("no-scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".top_head_wp").removeClass("active");
+        }
+    };
+</script>
+
+<div id="headerAreaDef">
+    <input type="submit" name="ctl00$ctl35$Dmy" value="" onclick="return false;" id="ctl00_ctl35_Dmy" style="height:0px;width:0px;position:absolute;top:-100px;" />
+    <!-- rect start -->
+    <map id="header_img" name="header_img">
+        <area shape="rect" alt="山都町トップへ" coords="2,2,176,107" href="https://www.town.kumamoto-yamato.lg.jp/default.html" />
+    </map>
+    <!-- rect end -->
+
+    
+    <div id="header">
+        <!-- header start -->
+        <h1 id="hd_header">
+            <img id="imgHeader" usemap="#header_img" src="//www.town.kumamoto-yamato.lg.jp/common/upload/common/0_2_header_y3zo1j01.png" alt="阿蘇山麓のまち 山都町" style="border-width:0px;" />
+        </h1>
+        <!-- header end -->
+        <div id="headerMenu">
+            <div id="headerMenu02">
+                <div id="mainFontSizeSel">
+                    <span>文字サイズ</span>
+                    <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1"><img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                </div>
+                <div id="changeHaikei">
+                    <span>背景色</span>
+                    <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1"><img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="headerMenu01">
+                <div class="head_btn">
+                    <ul>
+                        <li><a href="//www.town.kumamoto-yamato.lg.jp/index.html" tabindex="1">オープニングページへ</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+                <!-- foreign language start -->
+                
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').focus(function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').focus(function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1">Foreign Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://www.town.kumamoto-yamato.lg.jp.e.in.hp.transer.com/list00422.html" target="_blank" class="topsub" tabindex="1">English</a></li>
+                <li><a translate="no" lang="zh" href="https://www.town.kumamoto-yamato.lg.jp.c.in.hp.transer.com/list00422.html" target="_blank" tabindex="1">中文(简化字)</a></li>
+                <li><a translate="no" lang="zh" href="https://www.town.kumamoto-yamato.lg.jp.t.in.hp.transer.com/list00422.html" target="_blank" tabindex="1">中文(繁體字)</a></li>
+                <li><a translate="no" lang="ko" href="https://www.town.kumamoto-yamato.lg.jp.k.in.hp.transer.com/list00422.html" target="_blank" tabindex="1">한국어</a></li>
+                <li><a translate="no" lang="ja" href="https://www.town.kumamoto-yamato.lg.jp/list00422.html" class="cl-norewrite" tabindex="1">日本語</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+                <!-- foreign language end -->
+
+                <!-- mainSearch start -->
+                <div id="mainSearch">
+                    
+                            
+                            
+    <script>
+        (function () {
+            var cx = '017005061843437930008:bpqkcbt4ro0';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+
+        window.onload = function () {
+            var searchDiv = document.getElementsByClassName("searchBox-gcs");
+            if (searchDiv.length > 0) {
+                var tag = searchDiv[0].getElementsByTagName("input");
+                if(tag.length > 0){
+                    for (var i = 0; i < tag.length; i++) {
+                        tag[i].tabIndex = "1";
+                    }
+                }
+            }
+        }
+    </script>
+    <div class="searchBox-gcs">
+        <gcse:searchbox-only></gcse:searchbox-only>
+    </div>
+    <link rel="stylesheet" type="text/css"  href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/googlecustamsearch.css" />
+
+                        
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div id="navimenu"><a id="toggle" href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1"><span><img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/btn_mokuteki.png" alt="目的から探す" title="" /></span></a></div>
+
+        <div class="clear"></div>
+            <!-- ナビゲーションメニュー start -->
+            <div id="top_mokuteki">
+                <div class="top_head_wp">
+                    <div class="overlay" id="overlay">
+                        <div id="navimenu_close">
+                            <div><a href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                        </div>
+                        <div class="mokuteki_wp mokuteki_wp clearfix">
+                            <div class="mokuteki_wp-R">
+                                <div class="mokuteki_r-con mokuteki_con_04">
+                                    <h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fas fa-bookmark"></i> よく見られている情報</h2>
+                                    <ul class="t_mokuteki_list">
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00307.html">各種証明・手続き</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00308.html">税金</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00309.html">住まい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/shigoto/default.html">移住・定住</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00005.html">引越し</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00310.html">ごみの出し方</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/bousai/default.html">防災情報</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00313.html">山都ふれあいバス</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/kosodate/default.html">子育て</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00318.html">学校・教育</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00322.html">健康・医療関係</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/kankou/default.html">観光・イベント</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00329.html">通潤橋</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00332.html">農林業</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00341.html">業務案内</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00344.html">入札・契約</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mokuteki_r-con mokuteki_con_04">
+                                    <h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fas fa-bookmark"></i> 山都町でしたいこと</h2>
+                                    <ul class="t_mokuteki_list">
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00430.html">行ってみたい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/shigoto/default.html">移住したい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/kankou/default.html">遊びたい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/kankou/default.html">泊まりたい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/kosodate/default.html">子育てしたい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/list00307.html">手続きしたい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/shigoto/default.html">働きたい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="http://yamato-kumamoto.com/" target="_blank">農業したい</a>
+                                        </li>
+                                        <li class="mokuteki_link innerLink">
+                                            <a class="innerLink" href="//www.town.kumamoto-yamato.lg.jp/furusato/default.html">ふるさと納税したい</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mokuteki_wp-R">
+                                <div class="mokuteki_r-con mokuteki_con_05">
+                                    <div class="btn_yokuaru">
+                                    <h2 class="mokuteki_wp_title2 mokuteki_tit_icon04">                                        
+                                        <i class="fas fa-question-circle"></i> <a href="//www.town.kumamoto-yamato.lg.jp/dynamic/faq2/pub/default.aspx?c_id=33">よくある質問</a></h2></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+
+
+
+    </div>
+    <div class="clear"></div>
+
+    <!-- グローバルナビゲーション -->
+    <div id="GlobalNavigationBlock" tabindex="1">
+        <div class="Navigation"><ul><li><a href="#mainBlock" tabindex="1">グローバルナビゲーションをスキップ</a></li></ul></div>
+        <!-- global navigation start -->
+        
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,div.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("div.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("div.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("div.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("div#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list"><li class="navi_tab exsistpic " id="navi_tab_301"
+                data-global="301">
+                <div>
+                    <a href="//www.town.kumamoto-yamato.lg.jp/list00301.html" tabindex="10" >
+                        <img src="//www.town.kumamoto-yamato.lg.jp/common/upload/hpkiji/301_class_globalnavi_w44vjrbz.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_301">くらし・手続き</p>
+                    </a>
+                </div>
+             </li
+        ><li class="navi_tab exsistpic " id="navi_tab_302"
+                data-global="302">
+                <div>
+                    <a href="//www.town.kumamoto-yamato.lg.jp/list00302.html" tabindex="68" >
+                        <img src="//www.town.kumamoto-yamato.lg.jp/common/upload/hpkiji/302_class_globalnavi_0gcqkkcu.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_302">子育て・教育・スポーツ</p>
+                    </a>
+                </div>
+             </li
+        ><li class="navi_tab exsistpic " id="navi_tab_303"
+                data-global="303">
+                <div>
+                    <a href="//www.town.kumamoto-yamato.lg.jp/list00303.html" tabindex="92" >
+                        <img src="//www.town.kumamoto-yamato.lg.jp/common/upload/hpkiji/303_class_globalnavi_1bkojlxi.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_303">健康・福祉</p>
+                    </a>
+                </div>
+             </li
+        ><li class="navi_tab exsistpic " id="navi_tab_304"
+                data-global="304">
+                <div>
+                    <a href="//www.town.kumamoto-yamato.lg.jp/list00304.html" tabindex="131" >
+                        <img src="//www.town.kumamoto-yamato.lg.jp/common/upload/hpkiji/304_class_globalnavi_x6wh6gml.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_304">観光・歴史・文化</p>
+                    </a>
+                </div>
+             </li
+        ><li class="navi_tab exsistpic " id="navi_tab_305"
+                data-global="305">
+                <div>
+                    <a href="//www.town.kumamoto-yamato.lg.jp/list00305.html" tabindex="149" >
+                        <img src="//www.town.kumamoto-yamato.lg.jp/common/upload/hpkiji/305_class_globalnavi_akvyjth0.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_305">産業・まちづくり</p>
+                    </a>
+                </div>
+             </li
+        ><li class="navi_tab exsistpic navi_tab_last" id="navi_tab_306"
+                data-global="306">
+                <div>
+                    <a href="//www.town.kumamoto-yamato.lg.jp/list00306.html" tabindex="162" >
+                        <img src="//www.town.kumamoto-yamato.lg.jp/common/upload/hpkiji/306_class_globalnavi_5kv3lce2.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_306">町政情報</p>
+                    </a>
+                </div>
+             </li
+        ></ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <div class="g_navi " id="g_navi_301" style="display:none;">
+            
+            <div class="navi_child ">
+                        <p class="navi_child_name " data-global="1248">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01248.html" tabindex="11" >マイナンバーカード</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1248">
+                        
+                        
+                                <li
+                                    data-global="1363">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01363.html" tabindex="12" >マイナンバーカード関連手続き</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1364">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01364.html" tabindex="13" >マイナンバーカード関連夜間窓口</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1365">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01365.html" tabindex="14" >マイナンバーカードの利活用</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="307">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00307.html" tabindex="15" >各種証明・手続き・住民票</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="307">
+                        
+                        
+                                <li
+                                    data-global="356">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/pub/shinsei.aspx?c_id=3" tabindex="16" >申請書検索・ダウンロード</a>
+                                </li>
+                            
+                                <li
+                                    data-global="357">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00357.html" tabindex="17" >戸籍の届出</a>
+                                </li>
+                            
+                                <li
+                                    data-global="358">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00358.html" tabindex="18" >住民票の発行</a>
+                                </li>
+                            
+                                <li
+                                    data-global="359">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00359.html" tabindex="19" >印鑑登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="360">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00360.html" tabindex="20" >住所変更（転入・転出）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="361">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00361.html" tabindex="21" >マイナンバーカード</a>
+                                </li>
+                            
+                                <li
+                                    data-global="362">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00362.html" tabindex="22" >パスポート</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1077">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035702/index.html" tabindex="23" target="_blank">旧氏記載の変更&nbsp;<img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="1297">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01297.html" tabindex="24" >住民基本台帳</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1324">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01324.html" tabindex="25" >遠方にお住まいの方（郵便の各手続き）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1366">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01366.html" tabindex="26" >自動車臨時運許可（仮ナンバー）</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="308">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00308.html" tabindex="27" >税金</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="308">
+                        
+                        
+                                <li
+                                    data-global="363">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00363.html" tabindex="28" >個人住民税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="364">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00364.html" tabindex="29" >法人住民税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="365">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00365.html" tabindex="30" >固定資産税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="366">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00366.html" tabindex="31" >軽自動車税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="367">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00367.html" tabindex="32" >国民健康保険税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="368">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00368.html" tabindex="33" >税の納付・相談・お知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="369">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00369.html" tabindex="34" >公売</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="309">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00309.html" tabindex="35" >住まい・環境</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="309">
+                        
+                        
+                                <li
+                                    data-global="370">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/shigoto/default.html" tabindex="36" >移住・定住支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="371">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00371.html" tabindex="37" >建築</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1023">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01023.html" tabindex="38" >道路</a>
+                                </li>
+                            
+                                <li
+                                    data-global="372">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00372.html" tabindex="39" >水道</a>
+                                </li>
+                            
+                                <li
+                                    data-global="373">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00373.html" tabindex="40" >浄化槽</a>
+                                </li>
+                            
+                                <li
+                                    data-global="374">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00374.html" tabindex="41" >町営住宅</a>
+                                </li>
+                            
+                                <li
+                                    data-global="375">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00375.html" tabindex="42" >景観づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="376">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00376.html" tabindex="43" >ダム</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1300">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01300.html" tabindex="44" >自然エネルギー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1301">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01301.html" tabindex="45" >環境保全</a>
+                                </li>
+                            
+                                <li
+                                    data-global="377">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00377.html" tabindex="46" >ペット</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="310">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00310.html" tabindex="47" >ごみ・リサイクル</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="310">
+                        
+                        
+                                <li
+                                    data-global="1298">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01298.html" tabindex="48" >フードロス削減</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1299">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01299.html" tabindex="49" >リサイクル</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="311">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00311.html" tabindex="50" >安全・安心</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="311">
+                        
+                        
+                                <li
+                                    data-global="378">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00378.html" tabindex="51" >防犯・交通安全</a>
+                                </li>
+                            
+                                <li
+                                    data-global="379">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00379.html" tabindex="52" >防災・消防</a>
+                                </li>
+                            
+                                <li
+                                    data-global="380">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00380.html" tabindex="53" >消費生活相談</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1382">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01382.html" tabindex="54" >公益通報</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="312">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00312.html" tabindex="55" >イベント情報</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="312">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="313">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00313.html" tabindex="56" >公共交通</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="313">
+                        
+                        
+                                <li
+                                    data-global="1317">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01317.html" tabindex="57" >乗合タクシー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1316">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01316.html" tabindex="58" >ふれあいバス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1325">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01325.html" tabindex="59" >総合時刻表</a>
+                                </li>
+                            
+                                <li
+                                    data-global="381">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00381.html" tabindex="60" >お知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1318">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01318.html" tabindex="61" >地域公共交通会議</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1326">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01326.html" tabindex="62" >地域公共交通活性化協議会</a>
+                                </li>
+                            
+                                <li
+                                    data-global="387">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00387.html" tabindex="63" >関係公共交通機関等</a>
+                                </li>
+                            
+                                <li
+                                    data-global="389">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035160/index.html" tabindex="64" >ふれあいバスセンター</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1024">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01024.html" tabindex="65" >補助・支援等</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1024">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1307">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01307.html" tabindex="66" >災害関連</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1307">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="315">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00315.html" tabindex="67" >お役立ちメニュー</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="315">
+                        
+                        
+                        </ul>
+                    </div
+                >
+            </div>
+        
+            <div class="g_navi " id="g_navi_302" style="display:none;">
+            
+            <div class="navi_child ">
+                        <p class="navi_child_name " data-global="317">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00317.html" tabindex="69" >子育て</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="317">
+                        
+                        
+                                <li
+                                    data-global="390">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/default.html" tabindex="70" >子育て支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="391">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00723.html" tabindex="71" >保育園・一時預かり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="392">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00746.html" tabindex="72" >学童保育</a>
+                                </li>
+                            
+                                <li
+                                    data-global="393">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00732.html" tabindex="73" >補助・助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="394">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00739.html" tabindex="74" >健診・予防接種</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="318">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00318.html" tabindex="75" >学校・教育</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="318">
+                        
+                        
+                                <li
+                                    data-global="395">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00395.html" tabindex="76" >教育委員会からのお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="396">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00723.html" tabindex="77" >保育園</a>
+                                </li>
+                            
+                                <li
+                                    data-global="397">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00724.html" tabindex="78" >小中学校</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1265">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00724.html" tabindex="79" >義務教育学校</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="319">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00319.html" tabindex="80" >矢部高校応援プロジェクト</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="319">
+                        
+                        
+                                <li
+                                    data-global="398">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035173/index.html" tabindex="81" >矢部高校応援プロジェクトとは</a>
+                                </li>
+                            
+                                <li
+                                    data-global="399">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00399.html" tabindex="82" >矢部高校応援町民会議</a>
+                                </li>
+                            
+                                <li
+                                    data-global="400">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00400.html" tabindex="83" >矢部高校応援計画メニュー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1215">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01215.html" tabindex="84" >企業版ふるさと納税で矢部高校を応援</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="320">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00320.html" tabindex="85" >人権・男女共同参画</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="320">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="321">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00321.html" tabindex="86" >生涯学習・スポーツ</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="321">
+                        
+                        
+                                <li
+                                    data-global="401">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00401.html" tabindex="87" >講座</a>
+                                </li>
+                            
+                                <li
+                                    data-global="402">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00402.html" tabindex="88" >スポーツ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="403">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00403.html" tabindex="89" >図書館</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1322">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01322.html" tabindex="90" >スポーツ合宿</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1313">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01313.html" tabindex="91" >社会教育・体育施設予約</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1313">
+                        
+                        
+                        </ul>
+                    </div
+                >
+            </div>
+        
+            <div class="g_navi " id="g_navi_303" style="display:none;">
+            
+            <div class="navi_child ">
+                        <p class="navi_child_name " data-global="1081">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01081.html" tabindex="93" >新型コロナウイルス感染症関連情報</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1081">
+                        
+                        
+                                <li
+                                    data-global="1102">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01102.html" tabindex="94" >町内の感染症発生状況</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1101">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01101.html" tabindex="95" >県内の状況（県リスクレベル等）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1082">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035940/index.html" tabindex="96" >山都町の方針</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1083">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035941/index.html" tabindex="97" >新型コロナウイルス感染症を防ぐには</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1084">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035942/index.html" tabindex="98" >感染の疑いや不安があるときは</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1087">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0036339/index.html" tabindex="99" >保育園の対応について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1091">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01091.html" tabindex="100" >【町民向け】各種支援制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1088">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01088.html" tabindex="101" >【事業者向け】各種支援制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1103">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01103.html" tabindex="102" >ワクチン情報</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="322">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00322.html" tabindex="103" >健康・医療</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="322">
+                        
+                        
+                                <li
+                                    data-global="404">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00404.html" tabindex="104" >健康づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="405">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00405.html" tabindex="105" >おとなの健診</a>
+                                </li>
+                            
+                                <li
+                                    data-global="406">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00406.html" tabindex="106" >感染症情報・予防接種</a>
+                                </li>
+                            
+                                <li
+                                    data-global="407">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kosodate/list00739.html" tabindex="107" >母子健康手帳・子どもの健診</a>
+                                </li>
+                            
+                                <li
+                                    data-global="408">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00408.html" tabindex="108" >医療保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="409">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00409.html" tabindex="109" >医療費助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="410">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00410.html" tabindex="110" >休日当番医</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="323">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00323.html" tabindex="111" >年金・国保・後期高齢者医療</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="323">
+                        
+                        
+                                <li
+                                    data-global="411">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00411.html" tabindex="112" >国民年金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="412">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00412.html" tabindex="113" >国民健康保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="413">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00413.html" tabindex="114" >後期高齢者医療</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="324">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00324.html" tabindex="115" >介護</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="324">
+                        
+                        
+                                <li
+                                    data-global="1236">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01236.html" tabindex="116" >町民向けご案内</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1237">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01237.html" tabindex="117" >事業者向け情報（居宅介護支援）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1238">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01238.html" tabindex="118" >事業者向け情報（地域密着型）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1239">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01239.html" tabindex="119" >事業者向け情報（総合事業）</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="325">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00325.html" tabindex="120" >障がい者支援</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="325">
+                        
+                        
+                                <li
+                                    data-global="414">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00414.html" tabindex="121" >障がい者手帳</a>
+                                </li>
+                            
+                                <li
+                                    data-global="415">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00415.html" tabindex="122" >自立支援医療制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="416">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00416.html" tabindex="123" >障害福祉サービス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="417">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00417.html" tabindex="124" >障がい児支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="418">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00418.html" tabindex="125" >補装具の購入・修理</a>
+                                </li>
+                            
+                                <li
+                                    data-global="419">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00419.html" tabindex="126" >その他の支援・事業</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="326">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00326.html" tabindex="127" >地域福祉・支援窓口</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="326">
+                        
+                        
+                                <li
+                                    data-global="420">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00420.html" tabindex="128" >地域福祉関連事業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="421">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00421.html" tabindex="129" >各種支援・支援窓口</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1025">
+                            
+                            <a href="https://soyo-hospital.jimdoweb.com/" tabindex="130" target="_blank">山都町包括医療センター　そよう病院&nbsp;<img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1025">
+                        
+                        
+                        </ul>
+                    </div
+                >
+            </div>
+        
+            <div class="g_navi " id="g_navi_304" style="display:none;">
+            
+            <div class="navi_child ">
+                        <p class="navi_child_name " data-global="328">
+                            
+                            <a href="https://www.town.kumamoto-yamato.lg.jp/kankou/default.html" tabindex="132" >観光情報（観光ナビ）</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="328">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="329">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00329.html" tabindex="133" >通潤橋</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="329">
+                        
+                        
+                                <li
+                                    data-global="1095">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0036125/index.html" tabindex="134" >通潤橋（つうじゅんきょう）について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1305">
+                                    
+                                    <a href="https://tsujunbridge.jp/" tabindex="135" >通潤橋特設サイト（放水カレンダー等）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1026">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01026.html" tabindex="136" >お知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1027">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01027.html" tabindex="137" >通潤橋関連イベント</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1028">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035596/index.html " tabindex="138" >山都町ライブカメラ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1029">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01029.html" tabindex="139" >復旧・復興状況</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="330">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00330.html" tabindex="140" >歴史</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="330">
+                        
+                        
+                                <li
+                                    data-global="1030">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01030.html" tabindex="141" >山都町の歴史</a>
+                                </li>
+                            
+                                <li
+                                    data-global="422">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00422.html" tabindex="142" >文化財・史跡</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="331">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00331.html" tabindex="143" >文化</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="331">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1209">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01209.html" tabindex="144" >やまと文化の森</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1209">
+                        
+                        
+                                <li
+                                    data-global="1210">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/dynamic/kanko/kiji0036229/index.html" tabindex="145" >山都町観光文化交流館「やまと文化の森」について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1211">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01211.html" tabindex="146" >お知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1212">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01212.html" tabindex="147" >イベント情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1213">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/dynamic/kanko/kiji0036841/index.html" tabindex="148" >利用申請について</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                >
+            </div>
+        
+            <div class="g_navi " id="g_navi_305" style="display:none;">
+            
+            <div class="navi_child ">
+                        <p class="navi_child_name " data-global="332">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00332.html" tabindex="150" >農業</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="332">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1308">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01308.html" tabindex="151" >林業</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1308">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="333">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00333.html" tabindex="152" >農地（農業委員会）</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="333">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="337">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00337.html" tabindex="153" >地籍調査</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="337">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="334">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00334.html" tabindex="154" >商工業</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="334">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="335">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00335.html" tabindex="155" >企業誘致・支援制度</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="335">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="336">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00336.html" tabindex="156" >雇用・労働</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="336">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="338">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00338.html" tabindex="157" >自治振興区</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="338">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="339">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00339.html" tabindex="158" >地域おこし協力隊</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="339">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="340">
+                            
+                            <a href="https://www.town.kumamoto-yamato.lg.jp/furusato/default.html" tabindex="159" >ふるさと納税</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="340">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1034">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01034.html" tabindex="160" >高速道路関係</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1034">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1216">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01216.html" tabindex="161" >企業版ふるさと納税</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1216">
+                        
+                        
+                        </ul>
+                    </div
+                >
+            </div>
+        
+            <div class="g_navi " id="g_navi_306" style="display:none;">
+            
+            <div class="navi_child ">
+                        <p class="navi_child_name " data-global="341">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00341.html" tabindex="163" >町の紹介</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="341">
+                        
+                        
+                                <li
+                                    data-global="425">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00425.html" tabindex="164" >町の概要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="426">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00426.html" tabindex="165" >世帯・人口・統計</a>
+                                </li>
+                            
+                                <li
+                                    data-global="428">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00428.html" tabindex="166" >庁舎案内</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1035">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01035.html" tabindex="167" >組織図</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1036">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01036.html" tabindex="168" >各課業務案内</a>
+                                </li>
+                            
+                                <li
+                                    data-global="430">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035135/index.html" tabindex="169" >交通アクセス</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="342">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00342.html" tabindex="170" >町長室</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="342">
+                        
+                        
+                                <li
+                                    data-global="431">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035130/index.html" tabindex="171" >町長挨拶</a>
+                                </li>
+                            
+                                <li
+                                    data-global="432">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0032051/index.html" tabindex="172" >交際費</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="1045">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list01045.html" tabindex="173" >町からのお知らせ</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="1045">
+                        
+                        
+                                <li
+                                    data-global="1080">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3" tabindex="174" target="_blank">月間カレンダー&nbsp;<img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="1062">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01062.html" tabindex="175" >町の取り組みについて</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1046">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01046.html" tabindex="176" >行事や研修会等について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1064">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01064.html" tabindex="177" >その他の周知・連絡事項</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="343">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00343.html" tabindex="178" >行政運営・財政</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="343">
+                        
+                        
+                                <li
+                                    data-global="433">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00433.html" tabindex="179" >行財政改革</a>
+                                </li>
+                            
+                                <li
+                                    data-global="434">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00434.html" tabindex="180" >財政状況</a>
+                                </li>
+                            
+                                <li
+                                    data-global="435">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00435.html" tabindex="181" >予算</a>
+                                </li>
+                            
+                                <li
+                                    data-global="436">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00436.html" tabindex="182" >決算</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1306">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01306.html" tabindex="183" >地方創生臨時交付金の実施状況および効果検証について</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="344">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00344.html" tabindex="184" >入札・契約</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="344">
+                        
+                        
+                                <li
+                                    data-global="437">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00437.html" tabindex="185" >入札・契約</a>
+                                </li>
+                            
+                                <li
+                                    data-global="438">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00438.html" tabindex="186" >指名願い</a>
+                                </li>
+                            
+                                <li
+                                    data-global="439">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00439.html" tabindex="187" >発注見通し</a>
+                                </li>
+                            
+                                <li
+                                    data-global="440">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00440.html" tabindex="188" >様式関係</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="345">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00345.html" tabindex="189" >計画・例規</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="345">
+                        
+                        
+                                <li
+                                    data-global="441">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00441.html" tabindex="190" >計画</a>
+                                </li>
+                            
+                                <li
+                                    data-global="442">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/reiki/reiki_menu.html" tabindex="191" target="_blank">例規集&nbsp;<img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="1047">
+                                    
+                                    <a href="https://www.town.kumamoto-yamato.lg.jp/kiji0035154/index.html" tabindex="192" >プライバシーポリシー・アクセシビリティ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1078">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01078.html" tabindex="193" >パブリックコメント・意見募集</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="346">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00346.html" tabindex="194" >人事・職員採用</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="346">
+                        
+                        
+                                <li
+                                    data-global="443">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00443.html" tabindex="195" >人事</a>
+                                </li>
+                            
+                                <li
+                                    data-global="444">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00444.html" tabindex="196" >職員採用</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="347">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00347.html" tabindex="197" >広報「やまと」</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="347">
+                        
+                        
+                                <li
+                                    data-global="1391">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01391.html" tabindex="198" >令和8年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1328">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01328.html" tabindex="199" >令和7年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1311">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01311.html" tabindex="200" >令和6年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1303">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01303.html" tabindex="201" >令和5年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1243">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01243.html" tabindex="202" >令和4年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1208">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01208.html" tabindex="203" >令和3年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1089">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01089.html" tabindex="204" >令和2年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="957">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00957.html" tabindex="205" >平成31年度/令和元年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="467">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00467.html" tabindex="206" >平成30年度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="468">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00468.html" tabindex="207" >バックナンバー</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="348">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00348.html" tabindex="208" >情報公開・個人情報保護</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="348">
+                        
+                        
+                                <li
+                                    data-global="454">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00454.html" tabindex="209" >情報公開</a>
+                                </li>
+                            
+                                <li
+                                    data-global="455">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00455.html" tabindex="210" >個人情報保護</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="349">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00349.html" tabindex="211" >情報通信</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="349">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="350">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00350.html" tabindex="212" >連携・協定</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="350">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="351">
+                            
+                            <a href="https://www.town.kumamoto-yamato.lg.jp/list00457.html" tabindex="213" >施設案内</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="351">
+                        
+                        
+                                <li
+                                    data-global="457">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00457.html" tabindex="214" >公共施設</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="352">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00352.html" tabindex="215" >選挙</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="352">
+                        
+                        
+                                <li
+                                    data-global="1037">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01037.html" tabindex="216" >お知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="460">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00460.html" tabindex="217" >選挙制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="461">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00461.html" tabindex="218" >選挙日程・結果</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1038">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01038.html" tabindex="219" >投票区・投票所の見直し</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1039">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01039.html" tabindex="220" >選挙管理委員会</a>
+                                </li>
+                            
+                                <li
+                                    data-global="462">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00462.html" tabindex="221" >各種請求・申請関係</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="353">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00353.html" tabindex="222" >監査</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="353">
+                        
+                        
+                                <li
+                                    data-global="1392">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01392.html" tabindex="223" >監査について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1393">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01393.html" tabindex="224" >監査結果報告書</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1394">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list01394.html" tabindex="225" >その他</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="316">
+                            
+                            <a href="https://www.town.kumamoto-yamato.lg.jp/dynamic/link_m/pub/default.aspx?c_id=30" tabindex="226" >リンク集</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="316">
+                        
+                        
+                        </ul>
+                    </div
+                ><div class="navi_child ">
+                        <p class="navi_child_name " data-global="355">
+                            
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00355.html" tabindex="227" >マイページ</a>
+                        </p>
+                        <ul class="childmenu " data-ul-global="355">
+                        
+                        
+                                <li
+                                    data-global="465">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00465.html" tabindex="228" >会員ページ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="466">
+                                    
+                                    <a href="//www.town.kumamoto-yamato.lg.jp/list00466.html" tabindex="229" >新規会員登録</a>
+                                </li>
+                            
+                        </ul>
+                    </div
+                >
+            </div>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl35$GlobalNavigation$HidErrMsg" id="ctl00_ctl35_GlobalNavigation_HidErrMsg" />
+
+        
+
+<script type="text/javascript">
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+            img.src = "//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/menu2.png"
+        }
+    }
+
+    function closeGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            menuDiv.style.display = "none";
+            img.src = "//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/menu.png"
+        }
+    }
+</script>
+
+
+    <div id="headMenu">
+        <img id="menuImg" onclick="dspGlobalMenu();" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/menu.png" alt="メニュー" title="" style="width:59px;height:60px" />
+    </div>
+
+    <!-- メニュー -->
+    <div id="naviContainerSP" style="display:none;">
+        <div id="naviAreaSP">
+            <ul id="navi_listSP">
+                    <li class="navi_tab  " id="navi_tabSP_301">
+                        <div>
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00301.html">
+                                
+                                <p>くらし・手続き</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_302">
+                        <div>
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00302.html">
+                                
+                                <p>子育て・教育・スポーツ</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_303">
+                        <div>
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00303.html">
+                                
+                                <p>健康・福祉</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_304">
+                        <div>
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00304.html">
+                                
+                                <p>観光・歴史・文化</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_305">
+                        <div>
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00305.html">
+                                
+                                <p>産業・まちづくり</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_306">
+                        <div>
+                            <a href="//www.town.kumamoto-yamato.lg.jp/list00306.html">
+                                
+                                <p>町政情報</p>
+                            </a>
+                        </div>
+                     </li>
+                </ul>
+        </div>
+    </div>
+    <div class="clear"></div>
+
+        <div id="globalNavigationData" data-classid="" data-parentid="" data-topid=""></div>
+        <div id="ctl00_ctl35_globalNavigationData"></div>
+        <!-- global navigation end -->
+    </div>
+</div>
+</div><!-- allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu"><div class="pankuzu-inner"><a href="https://www.town.kumamoto-yamato.lg.jp/default.html" class='sizeA' >ホーム</a>
+&nbsp;&nbsp;＞&nbsp;&nbsp;<a href="//www.town.kumamoto-yamato.lg.jp/classset001.html" class='sizeA' >分類から探す</a>
+&nbsp;&nbsp;＞&nbsp;&nbsp;<a href="//www.town.kumamoto-yamato.lg.jp/list00304.html" class='sizeA' >観光・歴史・文化</a>
+&nbsp;&nbsp;＞&nbsp;&nbsp;<a href="//www.town.kumamoto-yamato.lg.jp/list00330.html" class='sizeA' >歴史</a>
+&nbsp;&nbsp;＞&nbsp;&nbsp;文化財・史跡
+</div></div>
+</div>
+
+
+<div id="container">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+
+<script src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/jquery.autopager-1.0.0.js" type="text/javascript"></script>
+
+
+
+
+
+<div style="text-align:center;"></div>
+
+<div class="RightArea">
+
+<h1 class="classTitle">
+    文化財・史跡
+
+    
+</h1>
+
+
+
+
+
+
+
+
+<div id="rightBanArea" data-topid="0" data-classid="422" data-dspclass="1" data-preview="OFF"></div>
+<div class="clear"></div>
+
+
+
+
+
+<div class="newArea">
+
+    <div id="newAreaWaku">
+        <h2 class="newInfo">新着情報</h2>
+        <div class="kensu" style="display:none;">全1件</div>
+        <ul class="newlist">
+            <li class="loadbox2">
+    <p class="upddate">2026年3月25日更新</p>
+    <span class="title"><a href="https://www.town.kumamoto-yamato.lg.jp/kiji00310464/index.html" id="loadbox2listtop1">【熊本ディステネーションキャンペーン　くまもっとおもてなし宣言団体の募集について】</a></span>
+    <div class="clear"></div>
+</li>
+
+        </ul>
+        <div class="more" id="nextload2" style=" display:none;">
+            <a href=""  rel="next2">もっと見る</a>
+        </div>
+        <div id="loadmoreajaxloader2" style="display: none;text-align:center;">
+            <img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/loading.gif" alt="ロード中" />
+        </div>
+    </div>
+
+
+</div>
+ 
+
+
+
+
+
+    <div class="kijiArea kanrenKijiArea KijiAreaType">
+        
+       
+                
+        <div class="kensu" style="display:none;">全15件</div>
+        
+        <ul class="kijilist KijiListType">
+            <li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年4月1日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0039096/index.html" id="loadboxlisttop1">令和8年度　通潤橋の社会科見学予約について（生涯学習課・商工観光課）</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年3月25日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji00310464/index.html">【熊本ディステネーションキャンペーン　くまもっとおもてなし宣言団体の募集について】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年3月25日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji00310463/index.html">【多言語音声ガイド　くまもとの「おへそ旅」のご紹介】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年2月13日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji00310367/index.html">【人形浄瑠璃清和文楽「超馴鹿船出冬桜」山都町探訪 日帰りバスツアーのお知らせ（商工観光課）】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月28日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0037530/index.html">国宝「通潤橋」橋上部の見学について</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月27日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji00310322/index.html">通潤橋・五老ヶ滝の見学を予定している方へ：布田神社周辺駐車場の利用制限について</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2025年12月26日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji00310314/index.html">【町指定文化財「平行三棟づくり民家」（民俗資料館）の休館について】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2024年12月5日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0039507/index.html">【国宝指定＆架橋170年記念　国宝通潤橋シンポジウム（生涯学習課）】</a>
+        <br /><span class="termTitle">期日</span><span class="term">2024年12月7日</span>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2024年10月7日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0039197/index.html">【通潤橋 ”国宝” 指定記念講演会　第2弾（生涯学習課）】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2023年9月25日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0038728/index.html">【通潤橋の国宝指定について】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2023年8月9日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0038529/index.html">【通潤橋の『国宝』指定答申のお知らせ】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2021年12月22日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0037354/index.html">【「通潤酒造店舗及び主屋」が国の登録有形文化財に登録されました】</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2021年7月16日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0036986/index.html" id="loadboxlisttop2">「通潤酒造店舗及び主屋」　国の有形文化財（建造物）への登録の答申について</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年6月12日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0032583/index.html">「肥後領内名勝地」のうち「五郎ガ瀧」・「聖リ瀧」の国名勝指定について</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2014年6月6日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.town.kumamoto-yamato.lg.jp/kiji0032563/index.html">埋蔵文化財（遺跡）の取り扱いについて</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+
+        </ul>
+        
+        <div class="clear"></div>
+        <div class="more" id="nextload1" style=" display:none;">
+            <a href=""  rel="next1">もっと見る</a>
+        </div>
+        <div id="loadmoreajaxloader1" style="display: none;text-align:center;">
+            <img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/loading.gif" alt="ロード中" />
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+
+
+</div>
+<h3 class="LeftAreaMidashi"><a href="javascript:void(0);">分類メニュー</a></h3>
+<div class="LeftArea">
+    
+        <ul id="classMenuArea">
+        
+            <li class="">
+                <a href="//www.town.kumamoto-yamato.lg.jp/list01030.html">山都町の歴史</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a id="arrow1030" name="arrow1030"
+                        href="Javascript:void(0)"
+                        style="background:url('//www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/images/btnplus.png') center;border-top:solid 1px #FFFFFF;border-left:none;"  
+                        onclick="openCloseMenu(1030);"></a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub1030" style="display:none;">
+                
+            </li>
+        
+            <li class="selected">
+                <a href="//www.town.kumamoto-yamato.lg.jp/list00422.html">文化財・史跡</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a id="arrow422" name="arrow422"
+                        href="Javascript:void(0)"
+                        style="background:url('//www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/images/btnplus.png') center;border-top:solid 1px #FFFFFF;border-left:none;"  
+                        onclick="openCloseMenu(422);"></a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub422" style="display:none;">
+                
+            </li>
+        
+        </ul>
+        
+
+    
+        <div class="mokuteki">
+            <h2 class="subInfo"><p>目的から探す</p></h2>
+            
+                <ul id="classSetMenuArea">
+            
+                <li><a href="//www.town.kumamoto-yamato.lg.jp/classset001.html" target='_self'>分類から探す</a></li>
+            
+                <li><a href="https://www.town.kumamoto-yamato.lg.jp/sitemap.html" target=''>サイトマップから探す</a></li>
+            
+                </ul>
+            
+        </div>
+    
+
+    
+    
+    
+        <div class="calArea">
+            <div id="leftMiniCalArea" data-categoryid="3" data-classid="422"></div>
+        </div>
+    
+
+    
+    <div id="leftBanArea" data-topid="0" data-classid="422" data-dspclass="1" data-preview="OFF"></div>
+</div>
+<div class="clear"></div>
+
+<div id="footerSoegakiArea"></div>
+
+<div id="accessCountClassContents"
+    data-classsetid="1"
+    data-classid="422"
+    data-topid="0"
+    data-preview="OFF"></div>
+
+
+
+
+<script type="text/javascript">
+jQuery(function() {
+
+    //autopagerの実行関数
+    jQuery.autopager({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox',
+        
+        // もっと見るリンク
+    	link: 'a[rel=next1]',
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload1').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadboxlisttop' + pgNo)[0]) jQuery('#loadboxlisttop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadboxlisttop1')[0]) jQuery('#loadboxlisttop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next1]').click(function(){
+        jQuery.autopager('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+    
+    //autopagerの実行関数
+    jQuery.autopager2({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox2',
+
+        // もっと見るリンク
+    	link: 'a[rel=next2]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload2').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox2listtop' + pgNo)[0]) jQuery('#loadbox2listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox2listtop1')[0]) jQuery('#loadbox2listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next2]').click(function(){
+        jQuery.autopager2('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+
+    //autopagerの実行関数
+    jQuery.autopager3({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox3',
+
+        // もっと見るリンク
+        link: 'a[rel=next3]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload3').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox3listtop' + pgNo)[0]) jQuery('#loadbox3listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox3listtop1')[0]) jQuery('#loadbox3listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+            //added feature to disable 'もっと見る'
+            if(next.url ===undefined){
+                jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+                jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+            }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next3]').click(function(){
+        jQuery.autopager3('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+});
+</script>
+
+<script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.town.kumamoto-yamato.lg.jp/dynamic/";
+
+        
+        jQuery("#rightMiniCalArea, #leftMiniCalArea").each(function () {
+            var miniCalendarPrm = {
+                "c_id": jQuery(this).attr("data-categoryid"),
+                "class_id": jQuery(this).attr("data-classid")
+            }
+            set.miniCalendar(this, miniCalendarPrm);
+        });
+
+        
+        jQuery(".LeftArea #leftBanArea, .wideMenu #rightBanArea").each(function () {
+            var bannerPrm = {
+                "top_id": jQuery(this).attr("data-topid"),
+                "class_id": jQuery(this).attr("data-classid"),
+                "dspClassFlg": jQuery(this).attr("data-dspclass"),
+                "preview": jQuery(this).attr("data-preview")
+            }
+            set.banner(this, bannerPrm);
+        });
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "True"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        var accessCountPrm = {
+            "class_set_id": jQuery("#accessCountClassContents").attr("data-classsetid"),
+            "class_id": jQuery("#accessCountClassContents").attr("data-classid"),
+            "top_id": jQuery("#accessCountClassContents").attr("data-topid"),
+            "preview": jQuery("#accessCountClassContents").attr("data-preview")
+        }
+        set.accessCountClassContents(accessCountPrm);
+    });
+
+    function checkClassCssType(color){
+        jQuery("#css_class").attr("disabled", (color == "W") ? false : true);
+    }
+
+    /******************************************
+    * メニュー折り畳み
+    *******************************************/
+    function openCloseMenu(mode){
+        if(jQuery('#classMenuAreaSub' + mode).css('display') == 'none'){
+            jQuery('#classMenuAreaSub' + mode).css('display','block');
+            jQuery('#arrow' + mode).css('background','url("http://www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/images/btnMinus.png")');
+            jQuery('#arrow' + mode).css('background-position','center');
+        }
+        else{
+            jQuery('#classMenuAreaSub' + mode).css('display','none');
+            jQuery('#arrow' + mode).css('background','url("http://www.town.kumamoto-yamato.lg.jp/dynamic/hpkiji/images/btnPlus.png")');
+            jQuery('#arrow' + mode).css('background-position','center');
+//            jQuery('#arrow' + mode).text('↓');
+        }
+    }
+</script>
+        
+
+     </div> <!-- cont_body -->
+</div> <!-- mainBlock -->
+
+<div class="clear"></div>
+
+<!-- allfooter start  -->
+
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+</div>
+
+
+    
+
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.town.kumamoto-yamato.lg.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- footer menu start -->
+
+<!-- footer menu end -->
+
+<!-- site info start -->
+
+<div id="siteinfo">
+    <div id="toiawasewaku">
+    <div id="toiawase">
+    <div class="footerimg"><img src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/shimbol.png" alt="" title=""></div>
+        <div id="toiawasetitle"><span>山都町役場</span> (法人番号&nbsp;6000020434477)</div>
+        <p>[開庁時間]&nbsp;午前8時30分～午後5時15分（土・日・祝日・年末年始を除く）</p>
+        <p>
+                <strong>本庁</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;〒861-3592&nbsp;
+                熊本県上益城郡山都町浜町6番地&nbsp;&nbsp;
+                Tel:<span class="tel"><span class="teltoon"><a href="tel:0967-72-1111">0967-72-1111（代表）</a></span><span class="teltooff">0967-72-1111（代表）</span></span>&nbsp;&nbsp;
+                Fax:0967-72-1080&nbsp;&nbsp;
+                
+            </p>
+        
+        <p><strong>清和支所</strong>&nbsp;〒861-3811　熊本県上益城郡山都町大平385番地 Tel：<span class="tel"><span class="teltoon"><a href="tel:0967-82-2111">0967-82-2111（代表）</a></span><span class="teltooff">0967-82-2111（代表）</span></span>&nbsp;Fax：0967-82-2116</p>
+        <p><strong>蘇陽支所</strong>&nbsp;〒861-3913　熊本県上益城郡山都町今500番地 Tel：<span class="tel"><span class="teltoon"><a href="tel:0967-83-1111">0967-83-1111（代表）</a></span><span class="teltooff">0967-83-1111（代表）</span></span>&nbsp;Fax：0967-83-0549</p>
+        <div class="clear"></div>
+        <!-- フッターボタン -->
+    
+        
+        
+<div class="clear"></div>
+</div></div>
+
+<div class="clear"></div>
+<div id="footerMenu">
+<!-- 問合せ先 -->
+
+        <ul id="footertextlink">
+            <li><a href="//www.town.kumamoto-yamato.lg.jp/list00430.html">役場へのアクセス</a></li>
+            <li>｜</li>
+            <li><a href="//www.town.kumamoto-yamato.lg.jp/kiji0035154/index.html">プライバシーポリシー</a></li>
+            <li>｜</li>
+            <li><a href="//www.town.kumamoto-yamato.lg.jp/dynamic/entry/pub/ansform.aspx?c_id=32&entry_ins=1">お問い合わせ</a></li>
+            <li>｜</li>
+            <li><a href="//www.town.kumamoto-yamato.lg.jp/kiji0035404/index.html">携帯サイト</a></li>
+            <li>｜</li>
+            <li><a href="//www.town.kumamoto-yamato.lg.jp/sitemap.html">サイトマップ</a></li>
+        </ul>
+        <div class="clear"></div>
+</div>
+
+
+</div>
+<!-- copyright -->
+<div id="cp" lang="en">
+    Copyrights(c)2019 Town-Yamato Allrights Reserved.
+</div>
+
+<!-- site info end -->
+
+</div>
+<!-- allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.town.kumamoto-yamato.lg.jp/dynamic/common/js/ajaxcalforie6.js"></script>
+<!-- google analytics start -->
+<!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-143315738-1"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-143315738-1');</script>
+<!-- google analytics end -->
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 767;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.town.kumamoto-yamato.lg.jp/dynamic/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.town.kumamoto-yamato.lg.jp/dynamic/";
+            fn.topFlg = "False";
+            fn.topCategoryRootFolder = "";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+                var prm = {
+                    "top_id": "",
+                    "dspTopFlg": "OFF"
+                }
+                setFloatHeader(prm, "//www.town.kumamoto-yamato.lg.jp/dynamic/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/black-mozi-m.gif", off: "https://www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/black-mozi-l.gif", off: "https://www.town.kumamoto-yamato.lg.jp/dynamic/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

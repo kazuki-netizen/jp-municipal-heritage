@@ -3,7 +3,87 @@
     "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/index.html",
     "filename": "f03d9b300c36cfb7.html",
     "sha256": "a74faee1ffe1a8d2f02ad1ae0424d3d68c9f1ac76225931dd4a1439570251b6d",
-    "fetched_at": "2026-07-12T07:10:42Z",
+    "fetched_at": "2026-07-12T09:30:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "92217b30cb3c3494": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/kaiga/index.html",
+    "filename": "92217b30cb3c3494.html",
+    "sha256": "0c3b19c4da5a350498a46a10cfa72b77a59fea7d7b7e723691304a3a7eec39da",
+    "fetched_at": "2026-07-12T09:30:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "53c42eb664da7f35": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/kenzobutsu/index.html",
+    "filename": "53c42eb664da7f35.html",
+    "sha256": "0c3d63a135f0ca5494faa84353c3a07c1eb2a9a9a2ed1c62b668df156d8e090e",
+    "fetched_at": "2026-07-12T09:30:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1124a6975c017763": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/kogeihin/index.html",
+    "filename": "1124a6975c017763.html",
+    "sha256": "1747371093dd243ec546438a7f80f674b7be4ece9ebcf45a689f52ce5df398a1",
+    "fetched_at": "2026-07-12T09:30:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3c3436aef0adb2d4": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/koko/index.html",
+    "filename": "3c3436aef0adb2d4.html",
+    "sha256": "5259a8033b3c1a6e50d229eca6e4f89e70e4efce02c4a1f47311a32c3b1e2402",
+    "fetched_at": "2026-07-12T09:30:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "276138dbee441cd9": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/shiseki/index.html",
+    "filename": "276138dbee441cd9.html",
+    "sha256": "cf7cae2ecc03d873b2e51f673685bff43e732ced20a4fbb9cf443eebd16eb2ef",
+    "fetched_at": "2026-07-12T09:30:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "46c6d5024ffc57ef": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/chokoku/index.html",
+    "filename": "46c6d5024ffc57ef.html",
+    "sha256": "89b923868ad84a1e63d146161d8d7194ab80b0b06378754de1793b96b2a9353c",
+    "fetched_at": "2026-07-12T09:30:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "92ae70024c709e41": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/tenseki/index.html",
+    "filename": "92ae70024c709e41.html",
+    "sha256": "156e8c668754c65123d014b9e6cfa72ba588ae590c79859c0c870c09ff36312a",
+    "fetched_at": "2026-07-12T09:30:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a5a520a241aca58c": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/kinembutsu/index.html",
+    "filename": "a5a520a241aca58c.html",
+    "sha256": "280ea09625b34b78cad74e62f00b2756256313786c614cbe4fd93d78e7eb1238",
+    "fetched_at": "2026-07-12T09:30:47Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6cfd48f06ff78fb6": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/meisho/index.html",
+    "filename": "6cfd48f06ff78fb6.html",
+    "sha256": "f477769d0ac7781ec30673c483291a26ba849dfc75412f7a9f11bd924f96fac2",
+    "fetched_at": "2026-07-12T09:30:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ecbdc969e8b7f1e8": {
+    "url": "https://www2.city.mine.lg.jp/kanko_bunka_geopark/bunkazai/bunkazai/shishitei/mukei/index.html",
+    "filename": "ecbdc969e8b7f1e8.html",
+    "sha256": "3b1e16426c6a261eed4320ba2519371659d9a60c75decce7082921baea60350e",
+    "fetched_at": "2026-07-12T09:30:53Z",
     "http_status": 200,
     "format": "html"
   }

@@ -3,7 +3,15 @@
     "url": "https://www.city.hofu.yamaguchi.jp/soshiki/40/siteitoubunkazai.html",
     "filename": "a81c96aa4f07a290.html",
     "sha256": "2ea71f6dba00aa9d5988260a03ed9081ffe9b1c827f873cdf92345ee492c906b",
-    "fetched_at": "2026-07-12T07:10:39Z",
+    "fetched_at": "2026-07-12T09:06:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "515b650e53ed9570": {
+    "url": "https://www.city.hofu.yamaguchi.jp/soshiki/40/sisiteibunkazai.html",
+    "filename": "515b650e53ed9570.html",
+    "sha256": "80604ba7a8a43fb4783de41c4e76408d87e853b183ac7e05c12ed3178fd3ad00",
+    "fetched_at": "2026-07-12T09:20:03Z",
     "http_status": 200,
     "format": "html"
   }

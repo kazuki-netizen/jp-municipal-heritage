@@ -1,0 +1,18 @@
+{
+  "326d73f1d9427db8": {
+    "url": "https://www.town.nankan.lg.jp/kosodate/bunkazai/page1861.html",
+    "filename": "326d73f1d9427db8.html",
+    "sha256": "066036a3373622141f86163af2c4643c8f441f39930ffbf490a228785bbf39c4",
+    "fetched_at": "2026-07-12T09:36:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "438162095d8985ca": {
+    "url": "https://www.town.nankan.lg.jp/files/3_1861_5053_up_RH6QX501.pdf",
+    "filename": "438162095d8985ca.pdf",
+    "sha256": "3aced7d91a276952bb3caafaa9bcbfa5a037d1e7219e603a6590b1a0f682d5b1",
+    "fetched_at": "2026-07-12T09:36:24Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

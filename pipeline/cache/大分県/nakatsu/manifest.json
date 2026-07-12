@@ -1,0 +1,18 @@
+{
+  "36ec261aa27646b3": {
+    "url": "https://www.city-nakatsu.jp/doc/2024101700025/",
+    "filename": "36ec261aa27646b3.html",
+    "sha256": "d953a6f1fa8d2d146660d6d65417465ecb85453f221261453bfc48062ce06f88",
+    "fetched_at": "2026-07-12T09:53:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b06faf09ca64c165": {
+    "url": "https://www.city-nakatsu.jp/doc/2024101700025/file_contents/shiteibunkazai.pdf",
+    "filename": "b06faf09ca64c165.pdf",
+    "sha256": "936f12baf254c81215232e162ec617408779249f6b6b02175fe5346dce039776",
+    "fetched_at": "2026-07-12T09:53:33Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

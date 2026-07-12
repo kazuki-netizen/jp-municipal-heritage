@@ -1,0 +1,18 @@
+{
+  "5f76da8e7bc5dad3": {
+    "url": "https://www.city.taketa.oita.jp/bunka_rekishi_kanko/bunkazai/siteibunkazai/index.html",
+    "filename": "5f76da8e7bc5dad3.html",
+    "sha256": "7f6cf46803a6b6214e0cd73e6916c4c170a7210562740ef5d86b70499222e0eb",
+    "fetched_at": "2026-07-12T09:53:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cdf33e68e169a148": {
+    "url": "https://www.city.taketa.oita.jp/material/files/group/23/keikakugaiyou.pdf",
+    "filename": "cdf33e68e169a148.pdf",
+    "sha256": "d1a64544996d67708936e558b8c166314d7cb134b2d8846183aa9586623a040b",
+    "fetched_at": "2026-07-12T09:53:43Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

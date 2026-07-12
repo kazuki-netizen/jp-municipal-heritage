@@ -1,0 +1,18 @@
+{
+  "004d8c2da79ba835": {
+    "url": "https://www.city.yufu.oita.jp/article_link/bunkazaiitiran",
+    "filename": "004d8c2da79ba835.html",
+    "sha256": "23356011c03e8085e849c9c2e5929ba67f8253b639cf6d199ea071a1a9dc6de9",
+    "fetched_at": "2026-07-12T09:53:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f86fca68adf7d745": {
+    "url": "https://www.city.yufu.oita.jp/wp-content/uploads/2018/11/08_shiryou.pdf",
+    "filename": "f86fca68adf7d745.pdf",
+    "sha256": "12e73f796c3bbeaae668bf867db9ce906022e3df0e82eb2136512e67faba6017",
+    "fetched_at": "2026-07-12T09:53:52Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

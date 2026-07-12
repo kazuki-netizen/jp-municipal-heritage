@@ -1,0 +1,18 @@
+{
+  "25d0f88da6aa2d46": {
+    "url": "https://www.city.usuki.oita.jp/categories/shimin/kyoiku/rekishi/bunkazai/list/",
+    "filename": "25d0f88da6aa2d46.html",
+    "sha256": "ae0b5cf2d03336fa4bf86387658aaadead201083fd3ddd6c47d4bb6c929a9726",
+    "fetched_at": "2026-07-12T09:53:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "18cbd8aa5878a044": {
+    "url": "https://www.city.usuki.oita.jp/docs/2014021200040/",
+    "filename": "18cbd8aa5878a044.html",
+    "sha256": "dfabdcf6958486bd81c12aaed2324587631bf465d310488bc0ea378fc131fae5",
+    "fetched_at": "2026-07-12T09:53:38Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

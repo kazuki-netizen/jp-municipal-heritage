@@ -1,0 +1,18 @@
+{
+  "579e96f9de5ed758": {
+    "url": "https://www.city.bungotakada.oita.jp/site/bunkazai/2051.html",
+    "filename": "579e96f9de5ed758.html",
+    "sha256": "ab77ae44165388680a8951b4b8c2db711c49b08fac40fec689b4be10f07d29c5",
+    "fetched_at": "2026-07-12T09:53:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c28b0b6e69165656": {
+    "url": "https://www.city.bungotakada.oita.jp/uploaded/attachment/4286.pdf",
+    "filename": "c28b0b6e69165656.pdf",
+    "sha256": "c019400b3dde015e785592b6c73963d607861333e429c400e23719022cd209cd",
+    "fetched_at": "2026-07-12T09:53:46Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

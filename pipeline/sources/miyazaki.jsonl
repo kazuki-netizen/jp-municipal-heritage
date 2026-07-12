@@ -1,0 +1,1 @@
+{"pref": "宮崎県", "municipality": "宮崎市", "slug": "miyazaki", "urls": [{"url": "https://www.city.miyazaki.miyazaki.jp/culture/art/2157.html", "format": "html", "note": "市指定文化財一覧表（令和5年10月24日現在）"}], "strategy": "html", "official_count": 89, "notes": "通し番号64〜152で表記（1〜63は国・県指定のため）、市指定は89件。robots.txt は /culture/ を禁止していない。"}

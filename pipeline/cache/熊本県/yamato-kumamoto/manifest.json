@@ -1,0 +1,18 @@
+{
+  "f15510f9bdcacb4c": {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%83%BD%E7%94%BA%E6%8C%87%E5%AE%9A%E6%96%87%E5%8C%96%E8%B2%A1%E4%B8%80%E8%A6%A7",
+    "filename": "f15510f9bdcacb4c.html",
+    "sha256": "15b64786af3385ad63fa7309c5b80cef57163c9ae99b1d245c275daf7185d973",
+    "fetched_at": "2026-07-12T09:36:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "09970969b3fa875a": {
+    "url": "https://www.town.kumamoto-yamato.lg.jp/list00422.html",
+    "filename": "09970969b3fa875a.html",
+    "sha256": "25cd4519fb92704e268c0a1aa0948bd62ab2dc2fd9542aec766c81aa84907306",
+    "fetched_at": "2026-07-12T09:36:34Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -3,7 +3,135 @@
     "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/index.html",
     "filename": "e8e9130713a6df34.html",
     "sha256": "9ded3b2fd897272c47696e3465b19ccb52882b37c1b93b4efba2200fd4f73964",
-    "fetched_at": "2026-07-12T07:10:46Z",
+    "fetched_at": "2026-07-12T09:40:57Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d58dbb10e1adc987": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481607477925.html",
+    "filename": "d58dbb10e1adc987.html",
+    "sha256": "0b9c4ea532596e14215d81fa7f371a922b8b0ec17e4d86bbdd9fad6c4d1b5699",
+    "fetched_at": "2026-07-12T09:41:21Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0acc517fdc80038c": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481590765441.html",
+    "filename": "0acc517fdc80038c.html",
+    "sha256": "1aa774b083ada6a9743896b9833d990b50a946114b8eba28e22a1577f4159721",
+    "fetched_at": "2026-07-12T09:41:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "da1d33412cc0b567": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481609950543.html",
+    "filename": "da1d33412cc0b567.html",
+    "sha256": "9ca1a1b3102afb3747507c28680b142ee58afb023135d703a6c04319511b182c",
+    "fetched_at": "2026-07-12T09:41:27Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ff0e9532ff03c36a": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481609963250.html",
+    "filename": "ff0e9532ff03c36a.html",
+    "sha256": "8f240d6cd77473a72b396313fe75433b814fa40f910719486647d18d9317eca8",
+    "fetched_at": "2026-07-12T09:41:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "545e72007a36e6fa": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481593391710.html",
+    "filename": "545e72007a36e6fa.html",
+    "sha256": "0197c7796b732ebfecc87306880e8ceeae7d6816798d5bdeb23ffe06c494260b",
+    "fetched_at": "2026-07-12T09:41:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f1eb4d445d2e5c53": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481607610917.html",
+    "filename": "f1eb4d445d2e5c53.html",
+    "sha256": "b1dd8ef4f9428cb29a322b29943a6cfeb7d06a4927dd9bb562e8b7510146a2f9",
+    "fetched_at": "2026-07-12T09:41:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dc1b7bc947a7a918": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481607597239.html",
+    "filename": "dc1b7bc947a7a918.html",
+    "sha256": "c1dccb8e05f7bb25a4f19c0953ae5aae8e0a08a91f820b971af3f95bbdd775af",
+    "fetched_at": "2026-07-12T09:41:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8d1d1c64ce63ded1": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481607585611.html",
+    "filename": "8d1d1c64ce63ded1.html",
+    "sha256": "463ee8bdcd6372ee537e01fd15b8adc9b209e26a6a345ac5e73d3ecb77ecdbdd",
+    "fetched_at": "2026-07-12T09:41:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6f3efa2962c34eab": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481615324007.html",
+    "filename": "6f3efa2962c34eab.html",
+    "sha256": "bb6bcceaa65f676282fd6a083a210eae076dd7a45dcd4ba73d0aeba4341bd444",
+    "fetched_at": "2026-07-12T09:41:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2a5c5a259ebf5b53": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481607462278.html",
+    "filename": "2a5c5a259ebf5b53.html",
+    "sha256": "2ae88d9e7c8abea0305147127def4b1029fa09656591ca81372a8ed4346597a8",
+    "fetched_at": "2026-07-12T09:41:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3844b94a32dbb250": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481609806684.html",
+    "filename": "3844b94a32dbb250.html",
+    "sha256": "8c93fea9fc62fb94f52cbcecc3b06c89df3735c54b091958482ea7b8469bcaed",
+    "fetched_at": "2026-07-12T09:41:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8c5bce131a83bff1": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481593392133.html",
+    "filename": "8c5bce131a83bff1.html",
+    "sha256": "d455b0f0e3c8ee6bfbe6b95050a272ec1301c3ab4e0f2fbd720437177cd9ab13",
+    "fetched_at": "2026-07-12T09:41:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d44c545a3c2efcf2": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481615090741.html",
+    "filename": "d44c545a3c2efcf2.html",
+    "sha256": "2fecdafe81a4e98e0df8674afcc5b3b0bc7e29d7ef4ba84da03442bcc03e0c03",
+    "fetched_at": "2026-07-12T09:41:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a073bd84a00342af": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481613437482.html",
+    "filename": "a073bd84a00342af.html",
+    "sha256": "aa7c0ca99ea563c665443a212ed96d986f6b7c0ae67172e13ce8c8edc2a2e1bb",
+    "fetched_at": "2026-07-12T09:41:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a203d4d255d7a68f": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481614238591.html",
+    "filename": "a203d4d255d7a68f.html",
+    "sha256": "4baa80d919ea96887e8ea56edd55791ceb78c24a8e9277de34a1736d9e4724e9",
+    "fetched_at": "2026-07-12T09:41:59Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f9eb9bd540f76be6": {
+    "url": "https://www.town.hirao.lg.jp/soshiki/kyouikuiinkai/shakaikyoiku/shakaikyoiku/bunkazai/1481615568166.html",
+    "filename": "f9eb9bd540f76be6.html",
+    "sha256": "334a37e5450e4438d406e684159384db20741bfb2d763b8e16c4490ebaaa480c",
+    "fetched_at": "2026-07-12T09:42:01Z",
     "http_status": 200,
     "format": "html"
   }

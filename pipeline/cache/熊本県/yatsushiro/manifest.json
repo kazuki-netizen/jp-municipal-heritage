@@ -1,0 +1,18 @@
+{
+  "3848234a7dbb6210": {
+    "url": "https://www.city.yatsushiro.lg.jp/kiji003491/index.html",
+    "filename": "3848234a7dbb6210.html",
+    "sha256": "03971f5122bff490e0e26c066bd96cc257a7874f1fd4ac74de13af5ca97f64e3",
+    "fetched_at": "2026-07-12T09:35:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c6eec92e80fa5e90": {
+    "url": "https://www.city.yatsushiro.lg.jp/kiji003474/index.html",
+    "filename": "c6eec92e80fa5e90.html",
+    "sha256": "6cfcd1721855962e4d077cea2db1c7d171214668553d7892cb43b7508e46bd2f",
+    "fetched_at": "2026-07-12T09:36:00Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "645fc9b9a028d5c7": {
+    "url": "https://www.city.minamata.lg.jp/kiji0034012/index.html",
+    "filename": "645fc9b9a028d5c7.html",
+    "sha256": "1825d0037990567c9caee659bfb3c7dd4b9898c547803832c9f9f05003a84ca5",
+    "fetched_at": "2026-07-12T09:36:06Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3f7b59c6a9049f4c": {
+    "url": "https://www.city.minamata.lg.jp/kiji0034012/3_4012_up_4pr1h6bn.pdf",
+    "filename": "3f7b59c6a9049f4c.pdf",
+    "sha256": "5866f370234cce7c2c74de61bdb43f458455cdc370c0df117c47dd419e18ae80",
+    "fetched_at": "2026-07-12T09:36:08Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

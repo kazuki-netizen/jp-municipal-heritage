@@ -3,8 +3,64 @@
     "url": "https://www.town.tabuse.lg.jp/soshiki/16/1391.html",
     "filename": "93941aa21964e90f.html",
     "sha256": "45a508ec398776494914c278eae914fc3c1e098d0b9ce53345e7143069392fbf",
-    "fetched_at": "2026-07-12T07:10:46Z",
+    "fetched_at": "2026-07-12T09:39:16Z",
     "http_status": 200,
     "format": "html"
+  },
+  "4426bd2ef593c103": {
+    "url": "https://www.town.tabuse.lg.jp/uploaded/attachment/2321.pdf",
+    "filename": "4426bd2ef593c103.pdf",
+    "sha256": "3bcd1643de0fb8ddc67667bb831dca923da6383345ae18d6a866df2e137b095d",
+    "fetched_at": "2026-07-12T09:39:39Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "f6f6086152dd8ddb": {
+    "url": "https://www.town.tabuse.lg.jp/uploaded/attachment/2322.pdf",
+    "filename": "f6f6086152dd8ddb.pdf",
+    "sha256": "50efdda7441931b6c22ac94574d27c62cf04aace5905f04d710f189da615c5cc",
+    "fetched_at": "2026-07-12T09:39:42Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "14f989c1470e79bd": {
+    "url": "https://www.town.tabuse.lg.jp/uploaded/attachment/2323.pdf",
+    "filename": "14f989c1470e79bd.pdf",
+    "sha256": "5cb97b68fdb12f703db262919650388e2717b5ca598088f467b7fbb1142ef2d9",
+    "fetched_at": "2026-07-12T09:39:45Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "d3c181855179321c": {
+    "url": "https://www.town.tabuse.lg.jp/uploaded/attachment/2324.pdf",
+    "filename": "d3c181855179321c.pdf",
+    "sha256": "841ad16067561aeb9e238e9f32a96799f7dcf6bae57a7dc86130cfe992e3563f",
+    "fetched_at": "2026-07-12T09:39:47Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "6345454429cd5a06": {
+    "url": "https://www.town.tabuse.lg.jp/uploaded/attachment/2325.pdf",
+    "filename": "6345454429cd5a06.pdf",
+    "sha256": "5d05874603fca098482884ba43557dd682f471861252b8b960449580da9da42e",
+    "fetched_at": "2026-07-12T09:39:50Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "62660fd28b025d8f": {
+    "url": "https://www.town.tabuse.lg.jp/uploaded/attachment/2326.pdf",
+    "filename": "62660fd28b025d8f.pdf",
+    "sha256": "0fec779f2abd989cfb7e4ad9b6537e3a553329915c86061e8a6ca1378528e5c5",
+    "fetched_at": "2026-07-12T09:39:53Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "dd24cebe681b0ff9": {
+    "url": "https://www.town.tabuse.lg.jp/uploaded/attachment/2327.pdf",
+    "filename": "dd24cebe681b0ff9.pdf",
+    "sha256": "48c164e891e8b1f724fc04e9f166d3b1e5b3f26c4f7fd385b0d2667041711314",
+    "fetched_at": "2026-07-12T09:39:55Z",
+    "http_status": 200,
+    "format": "pdf"
   }
 }
