@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>亀井山城（かめいやまじょう）について（通説） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>亀井山城（かめいやまじょう）について（通説）</h1>
+    <p class="jmh-id">JMH-462080-0009</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>出水市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号60号；おおよそ、850年前の平安時代末期、山門院郡司（やまどのいんぐんじ）職の平 種国（たいら たねくに）がこの城を築いたとされる。；島津氏の居城（きょじょう）である木ノ牟礼城（きのむれじょう）を擁護（ようご）し、島津氏の三国経営（薩摩・大隈・日向）を助けた重要な歴史的意義を持つ山城であった。；郡司第6代家忠（いえただ）のとき守護、島津貞久（しまづさだひさ）が山門院（やまどのいん）（旧出水郡区）の野田川を境に東方（ひがしかた）・西方（にしかた）に分けて東方を郡司家の本貫、西方を島津氏の本貫としたので亀井山城は島津氏が管轄したとみられ、過去に何回となく修築を行った形跡が見られる。；亀井山城の輪郭（りんかく）は標高65メートルを最高所とする15万平方メートルあり、土塁囲み（どるいかこみ）の曲輪（くるわ）1・2を核に四方に空堀（からほり）を巡らせ、大小14の曲輪からなり山城の東西には湿地帯があり敵の進入は容易ではなく、三丁堀・沼・谷等の外堀（そとぼり）で守られ、野首（のくび）・新城（しんじょう）・雪手ヶ迫（ゆきてがさこ）・小葛川（こつらがわ）等を含む50万平方メートルに及ぶ巨大山城だった。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.kagoshima-izumi.lg.jp/page/page_40051.html" target="_blank" rel="noopener">https://www.city.kagoshima-izumi.lg.jp/page/page_40051.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"亀井山城（かめいやまじょう）について（通説）" (JMH-462080-0009), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([32.090275, 130.353165], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([32.090275, 130.353165]).addTo(m);
+  </script>
+</body>
+</html>

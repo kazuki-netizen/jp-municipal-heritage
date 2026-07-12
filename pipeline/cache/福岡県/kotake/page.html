@@ -1,0 +1,687 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" />
+<!-- add 2013/07/10 IE10対策・互換モード指定
+================================================== -->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+<!--[if lt IE 9 ]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+<![endif]--> 
+<meta name="format-detection" content="telephone=no" /><title>
+	文化財 / 教育・文化・生涯学習TOP / 小竹町
+</title>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a') /* 2011/04/04 a tag OK */
+            {
+                if (event.preventDefault) 
+                {
+                    event.preventDefault();
+                } 
+                else 
+                {
+                    event.returnValue = false;
+                }
+            }
+        }
+    }
+    function change_size(size) {
+        var theForm = document.forms[0];
+        theForm.fontSize.value = size;
+        theForm.submit();
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    var pankuzu_flg = false;
+    function pankuzu_openclose(pankuzu_cnt) {
+        var pankuzu_close = document.getElementById("pankuzu-close");
+        var pankuzu_more = document.getElementById("openclose_msg");
+        if (!pankuzu_flg) {
+            pankuzu_close.style.display = "block";
+            pankuzu_more.innerHTML = "閉じる";
+            pankuzu_flg = true;
+        }
+        else {
+            pankuzu_close.style.display = "none";
+            pankuzu_more.innerHTML = "もっと見る（全" + pankuzu_cnt + "件）";
+            pankuzu_flg = false;
+        }
+    }
+    function footerPankuzu_openclose(pankuzu_cnt) {
+        var pankuzu_close = document.getElementById("footerPankuzu-close");
+        var pankuzu_more = document.getElementById("footerOpenclose_msg");
+        if (!pankuzu_flg) {
+            pankuzu_close.style.display = "block";
+            pankuzu_more.innerHTML = "閉じる";
+            pankuzu_flg = true;
+        }
+        else {
+            pankuzu_close.style.display = "none";
+            pankuzu_more.innerHTML = "もっと見る（全" + pankuzu_cnt + "件）";
+            pankuzu_flg = false;
+        }
+    }
+    
+    function clickButton(id, event){
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj){
+        var keyword = document.getElementById(obj).value;
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length==0){
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+    }
+//-->
+</script>
+<link href="https://town.kotake.lg.jp/education/common/css/Default.css" rel="stylesheet" type="text/css" /><link href="https://town.kotake.lg.jp/education/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="https://town.kotake.lg.jp/education/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="https://town.kotake.lg.jp/education/common/css/fontSizeN.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" type="text/css" href="https://town.kotake.lg.jp/education/common/css/uiW_education.css" /><link href="https://town.kotake.lg.jp/education/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="https://town.kotake.lg.jp/education/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><link href="https://town.kotake.lg.jp/education/common/css/education_body.css" rel="stylesheet" type="text/css" /><script id="ctl00_jquery_min_js" type="text/javascript" src="https://town.kotake.lg.jp/education/common/js/jquery.min.js"></script><script type="text/javascript">jQuery.noConflict();</script><link id="ctl00_minicalendar_css" href="https://town.kotake.lg.jp/education/common/css/MiniCalendar.css" rel="stylesheet" type="text/css" /></head>
+<body class="haikei_13">
+<form name="aspnetForm" method="post" action="List.aspx?c_id=3&amp;class_id=679&amp;class_set_id=7" id="aspnetForm" enctype="multipart/form-data" onkeydown="enterCancel(event||window.event);">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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PTIyNzYmY2xhc3Nfc2V0X2lkPTcmY2xhc3NfaWQ9Njc5Ij7ln4volLXmlofljJbosqHjgavplqLjgZnjgovmiYvntprjgY3jgavjgaTjgYTjgaY8L2E+DQogICAgICAgIDxkaXYgY2xhc3M9ImdhaXlvdSI+PC9kaXY+DQogICAgICAgIDwvZGl2PjxkaXYgY2xhc3M9ImNsZWFyIj48L2Rpdj4NCiAgICA8L2Rpdj4NCiAgICA8ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+DQo8L2xpPg0KPGxpIGNsYXNzPSJsb2FkYm94Ij4NCiAgICA8ZGl2IGNsYXNzPSJtYWluYmxvY2siPg0KICAgICAgICA8c3BhbiBjbGFzcz0idXBkZGF0ZSI+MjAyMeW5tDTmnIgx5pel5pu05pawPC9zcGFuPjxkaXYgY2xhc3M9InRpdGxlIj4NCiAgICAgICAgPHAgY2xhc3M9ImltZyI+PGltZyBzcmM9Imh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2NvbW1vbi9VcGxvYWRGaWxlT3V0cHV0LmFzaHg/Y19pZD0zJmlkPTExNCZzZXRfcGljPTEmc2V0X2ZpbGVfZmllbGQ9MCZ1cGRmbFdpZD0xMDAmdXBkZmxIZWk9MjAwIiBib3JkZXI9IjAiIGFsdD0i77yI5qaC6KaB55S75YOP77yJ6JK45rCX5qmf6Zai6LuK44Ki44Or44Kz5Y+3IiB0aXRsZT0iIiAvPjwvcD4NCjxhIGhyZWY9Imh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2hwa2lqaS9wdWIvZGV0YWlsLmFzcHg/Y19pZD0zJmlkPTExNCZjbGFzc19zZXRfaWQ9NyZjbGFzc19pZD02NzkiPuOAkOWwj+erueeUuuaMh+WumuaWh+WMluiyoeesrDTlj7fjgJHokrjmsJfmqZ/plqLou4rjgqLjg6vjgrMyM+WPt+ODu+iyqOi7iuODreODiDM55Y+3PC9hPg0KICAgICAgICA8ZGl2IGNsYXNzPSJnYWl5b3UiPjwvZGl2Pg0KICAgICAgICA8L2Rpdj48ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+DQogICAgPC9kaXY+DQogICAgPGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pg0KPC9saT4NCjxsaSBjbGFzcz0ibG9hZGJveCI+DQogICAgPGRpdiBjbGFzcz0ibWFpbmJsb2NrIj4NCiAgICAgICAgPHNwYW4gY2xhc3M9InVwZGRhdGUiPjIwMTXlubQy5pyIMjPml6Xmm7TmlrA8L3NwYW4+PGRpdiBjbGFzcz0idGl0bGUiPg0KICAgICAgICA8cCBjbGFzcz0iaW1nIj48aW1nIHNyYz0iaHR0cHM6Ly90b3duLmtvdGFrZS5sZy5qcC9lZHVjYXRpb24vY29tbW9uL1VwbG9hZEZpbGVPdXRwdXQuYXNoeD9jX2lkPTMmaWQ9MTEyJnNldF9waWM9MSZzZXRfZmlsZV9maWVsZD0wJnVwZGZsV2lkPTEwMCZ1cGRmbEhlaT0yMDAiIGJvcmRlcj0iMCIgYWx0PSLvvIjmpoLopoHnlLvlg4/vvInljZfoia/mtKXnjYXlrZDoiJ4iIHRpdGxlPSIiIC8+PC9wPg0KPGEgaHJlZj0iaHR0cHM6Ly90b3duLmtvdGFrZS5sZy5qcC9lZHVjYXRpb24vaHBraWppL3B1Yi9kZXRhaWwuYXNweD9jX2lkPTMmaWQ9MTEyJmNsYXNzX3NldF9pZD03JmNsYXNzX2lkPTY3OSI+44CQ5bCP56u555S65oyH5a6a5paH5YyW6LKh56ysMuWPt+OAkeWNl+iJr+a0peeNheWtkOiInjwvYT4NCiAgICAgICAgPGRpdiBjbGFzcz0iZ2FpeW91Ij48L2Rpdj4NCiAgICAgICAgPC9kaXY+PGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pg0KICAgIDwvZGl2Pg0KICAgIDxkaXYgY2xhc3M9ImNsZWFyIj48L2Rpdj4NCjwvbGk+DQo8bGkgY2xhc3M9ImxvYWRib3giPg0KICAgIDxkaXYgY2xhc3M9Im1haW5ibG9jayI+DQogICAgICAgIDxzcGFuIGNsYXNzPSJ1cGRkYXRlIj4yMDE15bm0MuaciDIz5pel5pu05pawPC9zcGFuPjxkaXYgY2xhc3M9InRpdGxlIj4NCiAgICAgICAgPHAgY2xhc3M9ImltZyI+PGltZyBzcmM9Imh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2NvbW1vbi9VcGxvYWRGaWxlT3V0cHV0LmFzaHg/Y19pZD0zJmlkPTEyNyZzZXRfcGljPTEmc2V0X2ZpbGVfZmllbGQ9MCZ1cGRmbFdpZD0xMDAmdXBkZmxIZWk9MjAwIiBib3JkZXI9IjAiIGFsdD0i77yI5qaC6KaB55S75YOP77yJ5ZCI5bGL5Y+k5aKzIiB0aXRsZT0iIiAvPjwvcD4NCjxhIGhyZWY9Imh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2hwa2lqaS9wdWIvZGV0YWlsLmFzcHg/Y19pZD0zJmlkPTEyNyZjbGFzc19zZXRfaWQ9NyZjbGFzc19pZD02NzkiPuOAkOWwj+erueeUuuaMh+WumuaWh+WMluiyoeesrDHlj7fjgJHlkIjlsYvlj6TlorM8L2E+DQogICAgICAgIDxkaXYgY2xhc3M9ImdhaXlvdSI+PC9kaXY+DQogICAgICAgIDwvZGl2PjxkaXYgY2xhc3M9ImNsZWFyIj48L2Rpdj4NCiAgICA8L2Rpdj4NCiAgICA8ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+DQo8L2xpPg0KPGxpIGNsYXNzPSJsb2FkYm94Ij4NCiAgICA8ZGl2IGNsYXNzPSJtYWluYmxvY2siPg0KICAgICAgICA8c3BhbiBjbGFzcz0idXBkZGF0ZSI+MjAxNeW5tDLmnIgyM+aXpeabtOaWsDwvc3Bhbj48ZGl2IGNsYXNzPSJ0aXRsZSI+DQogICAgICAgIDxwIGNsYXNzPSJpbWciPjxpbWcgc3JjPSJodHRwczovL3Rvd24ua290YWtlLmxnLmpwL2VkdWNhdGlvbi9jb21tb24vVXBsb2FkRmlsZU91dHB1dC5hc2h4P2NfaWQ9MyZpZD0xMTYmc2V0X3BpYz0xJnNldF9maWxlX2ZpZWxkPTAmdXBkZmxXaWQ9MTAwJnVwZGZsSGVpPTIwMCIgYm9yZGVyPSIwIiBhbHQ9Iu+8iOamguimgeeUu+WDj++8ieWwj+erueelh+WckuWxseesoCIgdGl0bGU9IiIgLz48L3A+DQo8YSBocmVmPSJodHRwczovL3Rvd24ua290YWtlLmxnLmpwL2VkdWNhdGlvbi9ocGtpamkvcHViL2RldGFpbC5hc3B4P2NfaWQ9MyZpZD0xMTYmY2xhc3Nfc2V0X2lkPTcmY2xhc3NfaWQ9Njc5Ij7jgJDlsI/nq7nnlLrmjIflrprmlofljJbosqHnrKwz5Y+344CR5bCP56u556WH5ZyS5bGx56ygPC9hPg0KICAgICAgICA8ZGl2IGNsYXNzPSJnYWl5b3UiPjwvZGl2Pg0KICAgICAgICA8L2Rpdj48ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+DQogICAgPC9kaXY+DQogICAgPGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pg0KPC9saT4NCjxsaSBjbGFzcz0ibG9hZGJveCI+DQogICAgPGRpdiBjbGFzcz0ibWFpbmJsb2NrIj4NCiAgICAgICAgPHNwYW4gY2xhc3M9InVwZGRhdGUiPjIwMTXlubQy5pyIMjPml6Xmm7TmlrA8L3NwYW4+PGRpdiBjbGFzcz0idGl0bGUiPg0KICAgICAgICA8cCBjbGFzcz0iaW1nIj48aW1nIHNyYz0iaHR0cHM6Ly90b3duLmtvdGFrZS5sZy5qcC9lZHVjYXRpb24vY29tbW9uL1VwbG9hZEZpbGVPdXRwdXQuYXNoeD9jX2lkPTMmaWQ9MTMwJnNldF9waWM9MSZzZXRfZmlsZV9maWVsZD0wJnVwZGZsV2lkPTEwMCZ1cGRmbEhlaT0yMDAiIGJvcmRlcj0iMCIgYWx0PSLvvIjmpoLopoHnlLvlg4/vvInpg6HlooPnn7MiIHRpdGxlPSIiIC8+PC9wPg0KPGEgaHJlZj0iaHR0cHM6Ly90b3duLmtvdGFrZS5sZy5qcC9lZHVjYXRpb24vaHBraWppL3B1Yi9kZXRhaWwuYXNweD9jX2lkPTMmaWQ9MTMwJmNsYXNzX3NldF9pZD03JmNsYXNzX2lkPTY3OSI+6YOh5aKD55+zPC9hPg0KICAgICAgICA8ZGl2IGNsYXNzPSJnYWl5b3UiPjwvZGl2Pg0KICAgICAgICA8L2Rpdj48ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+DQogICAgPC9kaXY+DQogICAgPGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pg0KPC9saT4NCjxsaSBjbGFzcz0ibG9hZGJveCI+DQogICAgPGRpdiBjbGFzcz0ibWFpbmJsb2NrIj4NCiAgICAgICAgPHNwYW4gY2xhc3M9InVwZGRhdGUiPjIwMTXlubQy5pyIMjPml6Xmm7TmlrA8L3NwYW4+PGRpdiBjbGFzcz0idGl0bGUiPg0KICAgICAgICA8cCBjbGFzcz0iaW1nIj48aW1nIHNyYz0iaHR0cHM6Ly90b3duLmtvdGFrZS5sZy5qcC9lZHVjYXRpb24vY29tbW9uL1VwbG9hZEZpbGVPdXRwdXQuYXNoeD9jX2lkPTMmaWQ9MTEzJnNldF9waWM9MSZzZXRfZmlsZV9maWVsZD0wJnVwZGZsV2lkPTEwMCZ1cGRmbEhlaT0yMDAiIGJvcmRlcj0iMCIgYWx0PSLvvIjmpoLopoHnlLvlg4/vvInkurrlvaLmtYTnkaDnkoPjga7poK0gIiB0aXRsZT0iIiAvPjwvcD4NCjxhIGhyZWY9Imh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2hwa2lqaS9wdWIvZGV0YWlsLmFzcHg/Y19pZD0zJmlkPTExMyZjbGFzc19zZXRfaWQ9NyZjbGFzc19pZD02NzkiPuS6uuW9oua1hOeRoOeSg+OBrumgrTwvYT4NCiAgICAgICAgPGRpdiBjbGFzcz0iZ2FpeW91Ij48L2Rpdj4NCiAgICAgICAgPC9kaXY+PGRpdiBjbGFzcz0iY2xlYXIiPjwvZGl2Pg0KICAgIDwvZGl2Pg0KICAgIDxkaXYgY2xhc3M9ImNsZWFyIj48L2Rpdj4NCjwvbGk+DQpkAgoPZBYCAgEPZBYCAgEPFgIfAQUJ5paH5YyW6LKhZAINDxYCHgtfIUl0ZW1Db3VudAIJFhICAQ9kFgJmDxUCAHk8YSBocmVmPSJodHRwczovL3Rvd24ua290YWtlLmxnLmpwL2VkdWNhdGlvbi9ocGtpamkvcHViL0xpc3QuYXNweD9jX2lkPTMmY2xhc3Nfc2V0X2lkPTcmY2xhc3NfaWQ9NTQ4Ij7mlZnogrLlp5Tlk6HkvJo8L2E+ZAICD2QWAmYPFQIAcDxhIGhyZWY9Imh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2hwa2lqaS9wdWIvTGlzdC5hc3B4P2NfaWQ9MyZjbGFzc19zZXRfaWQ9NyZjbGFzc19pZD01NDkiPuWtpuagoTwvYT5kAgMPZBYCZg8VAgB2PGEgaHJlZj0iaHR0cHM6Ly90b3duLmtvdGFrZS5sZy5qcC9lZHVjYXRpb24vaHBraWppL3B1Yi9MaXN0LmFzcHg/Y19pZD0zJmNsYXNzX3NldF9pZD03JmNsYXNzX2lkPTU1MCI+5a2m5qCh5pWZ6IKyPC9hPmQCBA9kFgJmDxUCAIIBPGEgaHJlZj0iaHR0cHM6Ly90b3duLmtvdGFrZS5sZy5qcC9lZHVjYXRpb24vaHBraWppL3B1Yi9MaXN0LmFzcHg/Y19pZD0zJmNsYXNzX3NldF9pZD03JmNsYXNzX2lkPTkwNCI+5pWZ6IKy5pSv5o+044K744Oz44K/44O8PC9hPmQCBQ9kFgJmDxUCAHY8YSBocmVmPSJodHRwczovL3Rvd24ua290YWtlLmxnLmpwL2VkdWNhdGlvbi9ocGtpamkvcHViL0xpc3QuYXNweD9jX2lkPTMmY2xhc3Nfc2V0X2lkPTcmY2xhc3NfaWQ9NTUxIj7lrabmoKHntabpo588L2E+ZAIGD2QWAmYPFQIAiwE8YSBocmVmPSJodHRwczovL3Rvd24ua290YWtlLmxnLmpwL2VkdWNhdGlvbi9ocGtpamkvcHViL0xpc3QuYXNweD9jX2lkPTMmY2xhc3Nfc2V0X2lkPTcmY2xhc3NfaWQ9NTUyIj7lhazmsJHppKjjg7vlm7Pmm7jjg7vkvZPogrLmlr3oqK08L2E+ZAIHD2QWAmYPFQIRIGNsYXNzPSJzZWxlY3RlZCIWPHNwYW4+5paH5YyW6LKhPC9zcGFuPmQCCA9kFgJmDxUCAHY8YSBocmVmPSJodHRwczovL3Rvd24ua290YWtlLmxnLmpwL2VkdWNhdGlvbi9ocGtpamkvcHViL0xpc3QuYXNweD9jX2lkPTMmY2xhc3Nfc2V0X2lkPTcmY2xhc3NfaWQ9NjgwIj7jgrnjg53jg7zjg4Q8L2E+ZAIJD2QWAmYPFQIAdjxhIGhyZWY9Imh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2hwa2lqaS9wdWIvTGlzdC5hc3B4P2NfaWQ9MyZjbGFzc19zZXRfaWQ9NyZjbGFzc19pZD02ODEiPueUn+a2r+Wtpue/kjwvYT5kAhAPFgIfBGcWAgIBD2QWAmYPFgIfBGdkAg0PDxYCHwIFPGh0dHBzOi8vdG93bi5rb3Rha2UubGcuanAvZWR1Y2F0aW9uL2NvbW1vbi9pbWFnZXMvc3BhY2VyLmdpZmRkAg8PFgIfAQUGPC9kaXY+ZAIRDxYCHwFlZAITDw8WAh8BZWRkAhQPZBYCAgEPZBYCAgEPZBYCZg9kFgJmDxUED+Wwj+erueeUuuW9ueWgtAvjgJI4MjAtMTE5MjLnpo/lsqHnnIzpno3miYvpg6HlsI/nq7nnlLrlpKflrZfli53ph44zMTY355Wq5ZywMRBUZWw6MDk0OS02Mi0xMjEyZAICD2QWAmYPFgIfAWVkGBMFJmN0bDAwJE1haW5Db250ZW50cyRjdGwwMCRNdWx0aVZpZXdNYWlsDw9kZmQFKGN0bDAwJE1haW5Db250ZW50cyRjdGwwMCRNdWx0aVZpZXdNaWRhc2kPD2QCAWQFEWN0bDAwJE1WQ2xhc3NNZW51Dw9kZmQFL2N0bDAwJE1haW5Db250ZW50cyRjdGwwMCRNdWx0aVZpZXdLaWppTGlzdFRvcGljDw9kZmQFLWN0bDAwJE1haW5Db250ZW50cyRjdGwwMCRNdWx0aVZpZXdLaWppTGlzdE5ldw8PZGZkBSpjdGwwMCRNYWluQ29udGVudHMkY3RsMDAkTXVsdGlWaWV3Q2xhc3NTZXQPD2RmZAUXY3RsMDAkY3RsMTMkTXZIZWFkZXJUYWIPD2RmZAUqY3RsMDAkTWFpbkNvbnRlbnRzJGN0bDAwJE11bHRpVmlld0tpamlMaXN0Dw9kAgFkBSpjdGwwMCRNYWluQ29udGVudHMkY3RsMDAkTXVsdGlWaWV3TGlua0xpc3QPD2RmZAUmY3RsMDAkTWFpbkNvbnRlbnRzJGN0bDAwJE11bHRpVmlld0FyZWEPD2RmZAUuY3RsMDAkTWFpbkNvbnRlbnRzJGN0bDAwJE11bHRpVmlld090aGVyQ2F0TGlzdA8PZGZkBRhjdGwwMCRjdGwxMyRBbGxNdWx0aVZpZXcPD2QCAWQFKmN0bDAwJE1haW5Db250ZW50cyRjdGwwMCRNdWx0aVZpZXdUb2lhd2FzZQ8PZGZkBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkQnRuU2VhcmNoBRZjdGwwMCRjdGwxMyRNdlRhYkNvbG9yDw9kZmQFI2N0bDAwJFdlYmxpb0NyYXdsZXJFbmQkTVZTZWN0aW9uRW5kDw9kZmQFE2N0bDAwJE11bHRpVmlld0ZvbnQPD2RmZAUnY3RsMDAkV2VibGlvQ3Jhd2xlclN0YXJ0JE1WU2VjdGlvblN0YXJ0Dw9kZmQFE2N0bDAwJE1WQ2xhc3NNZW51U1APD2RmZIenXcKbVljaRITv5HvUi6R/Yvhl" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="127D0B08" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL01pH5BwL68avJBQLkvdL6AQKd+e+UAZBT2A79XVu4sn3mTzQFH06Od+Cx" />
+</div>
+
+
+
+
+
+
+<div id="headerAreaDef_13">
+<input type="submit" name="ctl00$Dmy" value="" onclick="return false;" id="ctl00_Dmy" style="height:0px;width:0px;position:absolute;top:-100px;" />
+<span id="top"></span>
+
+
+<div id="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#maincont" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+<map id="header_img" name="header_img"><area shape="rect" alt="教育・文化・生涯学習トップへ" coords="0,6,391,79" href="https://town.kotake.lg.jp/education/default.aspx" tabindex="1"/></map><div id="header_13"><img id="ctl00_ImgHeader" usemap="#header_img" src="https://town.kotake.lg.jp/education/common/UploadFileOutput.ashx?c_id=13&amp;set_pic=1&amp;updfl_tophd=1&amp;gzkbn=0" alt="小竹町　教育・文化・生涯学習" style="border-width:0px;" />
+<div id="mainHeaderTop">
+    <div id="foreign">
+        
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').on('focus',function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).on('blur',function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').on('focus',function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).on('blur',function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1"><i class="fas fa-globe fa-lg"></i> Foreign Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u=https%3a%2f%2ftown.kotake.lg.jp%2feducation%2fhpkiji%2fpub%2fList.aspx%3fc_id%3d3%26class_id%3d679%26class_set_id%3d7" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//town.kotake.lg.jp/education/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                <li><a translate="no" lang="zh-cmn-Hans" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-CN&u=https%3a%2f%2ftown.kotake.lg.jp%2feducation%2fhpkiji%2fpub%2fList.aspx%3fc_id%3d3%26class_id%3d679%26class_set_id%3d7" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//town.kotake.lg.jp/education/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                <li><a translate="no" lang="zh-cmn-Hant" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-TW&u=https%3a%2f%2ftown.kotake.lg.jp%2feducation%2fhpkiji%2fpub%2fList.aspx%3fc_id%3d3%26class_id%3d679%26class_set_id%3d7" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//town.kotake.lg.jp/education/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                <li><a translate="no" lang="ko" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=ko&u=https%3a%2f%2ftown.kotake.lg.jp%2feducation%2fhpkiji%2fpub%2fList.aspx%3fc_id%3d3%26class_id%3d679%26class_set_id%3d7" target="_blank" tabindex="1">한국어&nbsp;<img src="//town.kotake.lg.jp/education/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                
+            </ul>
+        </li>
+    </ul>
+</div>
+
+    </div>
+    <div id="mainSearch">
+        
+        <div id="serchArea">
+            <input name="ctl00$TxtSearch" type="text" id="ctl00_TxtSearch" tabindex="1" class="searchBox" title="サイト内検索" placeholder="検索キーワードを入力してください" onkeydown="clickButton('ctl00_BtnSearch', event||window.event);" /><input type="image" name="ctl00$BtnSearch" id="ctl00_BtnSearch" tabindex="1" class="btnSearch" src="https://town.kotake.lg.jp/education/common/images/btn_search.png" alt="検索" onclick="return checkValue('ctl00_TxtSearch');" style="border-width:0px;" />
+            <div class="clear"></div>
+        </div>
+        
+    </div>
+    <div class="clear"></div>
+</div>
+</div>
+
+<!--//文字サイズ切替え -->
+
+
+<!-- グローバルナビゲーション -->
+<div id="GlobalNavigationBlock"></div>
+    <div class="Navigation"><ul><li><a href="#maincont" tabindex="1">グローバルナビゲーションをスキップ</a></li></ul></div>
+    
+</div>
+
+</div>
+
+<ul id="pankuzu_13"><li class="pankuzu-inner_13"><ul class="pankuzu-item">
+<li><a href="https://town.kotake.lg.jp/education/" class='sizeA' >教育・文化・生涯学習TOP</a></li>
+<li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/default.aspx?c_id=3&amp;class_set_id=7" class='sizeA' >教育委員会から探す</a></li>
+<li>文化財</li>
+</ul>
+</li></ul>
+
+<div id="container_13">
+
+
+
+
+
+
+
+<span id="maincont"></span>
+<div id="cont_body">
+
+    <div class="preview_label"></div>
+    
+
+<script src="https://town.kotake.lg.jp/education/common/js/jquery.autopager-1.0.0.js" type="text/javascript"></script>
+
+
+
+<div style="text-align:center;"></div>
+
+<div class="RightArea">
+
+<h1 class="classTitle">
+    文化財
+
+    
+</h1>
+
+
+
+
+
+
+
+<div class="clear"></div>
+
+
+
+
+ 
+
+
+
+
+    <div class="kijiArea kanrenKijiArea">
+        <h2 class="kijiInfo">文化財に関する記事</h2>
+                
+        <div class="kensu" style="display:none;">全7件</div>
+        <ul class="kijilist">
+            <li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2023年9月6日更新</span><div class="title">
+<a href="https://town.kotake.lg.jp/education/hpkiji/pub/detail.aspx?c_id=3&id=2276&class_set_id=7&class_id=679">埋蔵文化財に関する手続きについて</a>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2021年4月1日更新</span><div class="title">
+        <p class="img"><img src="https://town.kotake.lg.jp/education/common/UploadFileOutput.ashx?c_id=3&id=114&set_pic=1&set_file_field=0&updflWid=100&updflHei=200" border="0" alt="（概要画像）蒸気機関車アルコ号" title="" /></p>
+<a href="https://town.kotake.lg.jp/education/hpkiji/pub/detail.aspx?c_id=3&id=114&class_set_id=7&class_id=679">【小竹町指定文化財第4号】蒸気機関車アルコ23号・貨車ロト39号</a>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年2月23日更新</span><div class="title">
+        <p class="img"><img src="https://town.kotake.lg.jp/education/common/UploadFileOutput.ashx?c_id=3&id=112&set_pic=1&set_file_field=0&updflWid=100&updflHei=200" border="0" alt="（概要画像）南良津獅子舞" title="" /></p>
+<a href="https://town.kotake.lg.jp/education/hpkiji/pub/detail.aspx?c_id=3&id=112&class_set_id=7&class_id=679">【小竹町指定文化財第2号】南良津獅子舞</a>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年2月23日更新</span><div class="title">
+        <p class="img"><img src="https://town.kotake.lg.jp/education/common/UploadFileOutput.ashx?c_id=3&id=127&set_pic=1&set_file_field=0&updflWid=100&updflHei=200" border="0" alt="（概要画像）合屋古墳" title="" /></p>
+<a href="https://town.kotake.lg.jp/education/hpkiji/pub/detail.aspx?c_id=3&id=127&class_set_id=7&class_id=679">【小竹町指定文化財第1号】合屋古墳</a>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年2月23日更新</span><div class="title">
+        <p class="img"><img src="https://town.kotake.lg.jp/education/common/UploadFileOutput.ashx?c_id=3&id=116&set_pic=1&set_file_field=0&updflWid=100&updflHei=200" border="0" alt="（概要画像）小竹祇園山笠" title="" /></p>
+<a href="https://town.kotake.lg.jp/education/hpkiji/pub/detail.aspx?c_id=3&id=116&class_set_id=7&class_id=679">【小竹町指定文化財第3号】小竹祇園山笠</a>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年2月23日更新</span><div class="title">
+        <p class="img"><img src="https://town.kotake.lg.jp/education/common/UploadFileOutput.ashx?c_id=3&id=130&set_pic=1&set_file_field=0&updflWid=100&updflHei=200" border="0" alt="（概要画像）郡境石" title="" /></p>
+<a href="https://town.kotake.lg.jp/education/hpkiji/pub/detail.aspx?c_id=3&id=130&class_set_id=7&class_id=679">郡境石</a>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年2月23日更新</span><div class="title">
+        <p class="img"><img src="https://town.kotake.lg.jp/education/common/UploadFileOutput.ashx?c_id=3&id=113&set_pic=1&set_file_field=0&updflWid=100&updflHei=200" border="0" alt="（概要画像）人形浄瑠璃の頭 " title="" /></p>
+<a href="https://town.kotake.lg.jp/education/hpkiji/pub/detail.aspx?c_id=3&id=113&class_set_id=7&class_id=679">人形浄瑠璃の頭</a>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+
+        </ul>
+        <div class="clear"></div>
+        <div class="more" id="nextload1" style=" display:none;">
+            <a href="" rel="next1">もっと見る</a>
+        </div>
+        <div id="loadmoreajaxloader1" style="display: none;text-align:center;">
+            <img src="https://town.kotake.lg.jp/education/common/images/loading.gif" alt="ロード中" />
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+
+</div>
+
+<div class="LeftArea">
+
+    <ul id="classMenuArea">
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=548">教育委員会</a></li>
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=549">学校</a></li>
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=550">学校教育</a></li>
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=904">教育支援センター</a></li>
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=551">学校給食</a></li>
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=552">公民館・図書・体育施設</a></li>
+
+    <li class="selected"><span>文化財</span></li>
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=680">スポーツ</a></li>
+
+    <li><a href="https://town.kotake.lg.jp/education/hpkiji/pub/List.aspx?c_id=3&class_set_id=7&class_id=681">生涯学習</a></li>
+
+    </ul>
+
+
+
+
+
+
+
+    <div class="calArea">
+        
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($){
+    moveMiniCalMonth(0, 0);
+});
+
+function moveMiniCalMonth(y, m)
+{
+    jQuery('#cal_disp_title').remove();
+    jQuery('#cal_disp').remove();
+    jQuery('#loading_minical').show();
+    var prm = '?c_id=3';
+    prm += '&class_id=679';
+    if(y>0 && m>0)
+    {
+        prm += '&sely='+y+'&selm='+m;
+    }
+
+    jQuery.ajax({
+        type: 'GET',
+        cache : false,
+        url: 'https://town.kotake.lg.jp/education/common/MiniCalendarHandler.ashx'+prm
+    }).done(function(data){
+        jQuery('#loading_minical').hide();
+        jQuery('#minical').append(data);
+    }).fail(function(data){
+        jQuery('#loading_minical').hide();
+    });
+}
+function moveMiniCalToday()
+{
+    var dt = new Date();
+    var y = dt.getFullYear();
+    var m  = dt.getMonth() + 1;
+    moveMiniCalMonth(y, m);
+}
+</script>
+<div id="mcWrapper">
+    <div id="loading_minical"><img src="https://town.kotake.lg.jp/education/common/images/loading.gif" alt="しばらくお待ちください" /></div>
+    <div id="minical">
+        <div id="cal_disp_title" style="display:none"></div>
+        <table id="cal_disp" style="display:none"><tr><td></td></tr></table>
+    </div>
+    <span class="gekkan"><a href="https://town.kotake.lg.jp/education/hpkiji/pub/calendar.aspx?c_id=3&class_id=679">月間表示</a></span>
+    <div class="clear"></div>
+</div>
+
+
+    </div>
+
+
+
+
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($){
+	$(document).ready(function(){
+        dspBan();
+    });
+    function dspBan(){
+         $('#banArea').css("display", "none");
+        
+        var prm = '?top_id=13'
+                + '&class_id=679'
+                + '&dspClassFlg=1'
+                + '&dspShosaiFlg='
+                + '&preview=OFF';
+                            
+        $.ajax({
+            type: 'GET',
+            cache : false,
+            url: 'https://town.kotake.lg.jp/education/common/GetBanIchiran.ashx'+prm
+        }).done(function(data){
+            if(data != null && data.length > 0){
+                if (data != 'NON') {
+                    $('#banItem').append(data);
+                    $('#banArea').css("display", "");
+                }
+            }
+        }).fail(function(data){
+        });
+    }
+});
+</script>
+
+
+    <div id="banArea">
+        <div class="linkInfo"><p>関連バナー</p></div>
+        <div id="banItem"></div>
+    </div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+<script type="text/javascript">
+jQuery(function() {
+
+    //autopagerの実行関数
+    jQuery.autopager({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox',
+        
+        // もっと見るリンク
+    	link: 'a[rel=next1]',
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload1').css('display', 'block'); // 次ページのリンクを表示する
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next1]').click(function(){
+        jQuery.autopager('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+    
+    //autopagerの実行関数
+    jQuery.autopager2({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox2',
+
+        // もっと見るリンク
+    	link: 'a[rel=next2]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload2').css('display', 'block'); // 次ページのリンクを表示する
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next2]').click(function(){
+        jQuery.autopager2('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+
+    //autopagerの実行関数
+    jQuery.autopager3({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox3',
+
+        // もっと見るリンク
+        link: 'a[rel=next3]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload3').css('display', 'block'); // 次ページのリンクを表示する
+
+
+            //added feature to disable 'もっと見る'
+            if(next.url ===undefined){
+                jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+                jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+            }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next3]').click(function(){
+        jQuery.autopager3('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+});
+</script>
+    
+
+
+    
+
+ </div>
+ 
+ 
+
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    <img id="ctl00_ImgSpacer2" src="https://town.kotake.lg.jp/education/common/images/spacer.gif" alt=" " style="height:25px;border-width:0px;" />
+    
+</div>
+
+</div>
+
+
+    
+
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+<link rel="stylesheet" type="text/css" href="https://town.kotake.lg.jp/education/common/css/footer/education.css" />
+
+<!-- �⍇���� -->
+<div id="siteinfo">
+    <div style="width:980px;margin:0px auto 4px auto;">
+        <div id="toiawase">
+            
+                    小竹町役場&nbsp;&nbsp;
+                    〒820-1192&nbsp;
+                    福岡県鞍手郡小竹町大字勝野3167番地1&nbsp;&nbsp;
+                    Tel:0949-62-1212
+                
+            
+            <!--ul id="footerBtn">
+                <li id="telList"><a href="">�g�D�ʓd�b�ԍ��ꗗ</a></li>
+                <li id="annnai"><a href="">���Ɉē�</a></li>
+                <div class="clear"></div>
+            </ul-->
+        </div>
+        <div class="clear"></div>
+    </div>    
+</div>
+<!-- copyright -->
+<div id="cp" lang="en">
+    Copyrights(c)2015 Kotake Town All Rights Reserved	
+</div>
+
+<input type="hidden" name="fontSize" value="" />
+
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="/common/js/ajaxCalForIE6.js"></script>
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1484725881" async></script></body>
+</html>

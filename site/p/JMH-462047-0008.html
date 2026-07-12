@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>田布川の田の神 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>田布川の田の神</h1>
+    <p class="jmh-id">JMH-462047-0008</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>枕崎市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1983-03-07</dd>
+      <dt>所在地</dt><dd>枕崎市田布川町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号7号；顔面の風化がひどく，左腕も欠落するなど傷みが進んでいるいるのは，石質の柔らかいせいでしょうか。江戸中期末頃の作とみられます。この辺りの開田が成されたとき付近の門の百姓たちが豊作を願って建てたものと思われますが，現在では有園門の田の神とされ，他の7つの門には，それぞれ丸い石の神体の田の神が保管されています。恐らくここの田の神の分身ではないかと思われます。ここの祭礼は11月初の亥の日で「お月どんもー」といいます。ともあれ田の神は稲作の神で，太古は食飯魂命(うがたまのみこと)と呼ばれ，農民に尊敬された庶民の神でした。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.makurazaki.lg.jp/site/history/430.html" target="_blank" rel="noopener">https://www.city.makurazaki.lg.jp/site/history/430.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"田布川の田の神" (JMH-462047-0008), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.316332, 130.286118], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.316332, 130.286118]).addTo(m);
+  </script>
+</body>
+</html>

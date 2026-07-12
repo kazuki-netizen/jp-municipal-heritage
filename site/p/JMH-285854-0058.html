@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>長楽寺寄進状 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>長楽寺寄進状</h1>
+    <p class="jmh-id">JMH-285854-0058</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>兵庫県</dd>
+      <dt>市町村</dt><dd>香美町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>2011-03-26</dd>
+      <dt>所在地</dt><dd>宗教法人長楽寺 村岡区川会</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>長楽寺の古文書を整理していたところ、元禄14年（1701）の4代隆豊（たかとよ）から11代義済（よしずみ）までの7通の寄進状及び明細を記した田畑所付、またそれらの基本となった3代目矩豊（のりとよ）時代の元禄2年（1689）の田畑所付が発見されました。同様の寄進状は香美町小代区の竜泉寺所蔵の寄進状（昭和55年町指定）があり、10代義問（よしただ）11代義済（よしずみ）のものが知られています。今回発見された寄進状は3代目矩豊（のりとよ）、5代目豊就（とよなり）を除く4代目から11代目までの寄進状、そしてその明細である田畑所付が確認されました。保存状態もよく、村岡山名家と地域の結びつきの一端を知ることのできる貴重な資料であるため香美町指定文化財に指定しました。 指定内容:寄進状7通、田畑所付8通、御免状1通 計16通</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1010.html" target="_blank" rel="noopener">https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1010.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"長楽寺寄進状" (JMH-285854-0058), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.632221, 134.629166], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.632221, 134.629166]).addTo(m);
+  </script>
+</body>
+</html>

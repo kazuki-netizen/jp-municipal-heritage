@@ -52,3 +52,17 @@
 - https://www.town.anamizu.lg.jp/page/100477.html, kankou-kyouiku/rekishiminnzokushiryoukann{2,4,5}.html (穴水町歴史民俗資料館展示品紹介)
 - https://www1.g-reiki.net/anamizu/reiki_honbun/i138RG00000258.html (穴水町文化財保護条例、参照のみ・品目情報なし)
 - https://www.town.noto.lg.jp/kakuka/1012/gyomu/kyouikufront/gyoumuannai/rekishibunka/rekishibunkazai/4804.html (能登町公式、集計のみ)
+
+
+# 高難度gap-fill 第2次 (2026-07-12)
+
+## 能登町(noto) — 0 → 32件（公式320の部分回収）
+
+- いしかわ文化財ナビの正ホストは `www.bunkazainavi.pref.ishikawa.lg.jp`（前回試行の `bunkazainavi.pref...` はDNS解決不可）。robots.txtは全面許可だが、検索は POST /searchsimple（CSRFトークン必須）で、GETは405。地図(/map)は利用規約同意ページ経由、データ取得は /movemapbounds・/document/{gid}/{type} のGETエンドポイントがあるもののgid列挙手段がなく断念。なお同ナビの対象は埋蔵文化財・史跡・天然記念物・指定建造物系のみで、町指定320件の大半（美術工芸品）はそもそも対象外。
+- 町公式ページ4804.html添付の「能登町指定文化財集計」PDF(material/files/group/13/0000021240.pdf、令和4年3月現在)を目視読取。分類別件数に加えて各分類の「主な指定物件」として町指定の実名29件が記載されており、これを収録（指定年月日・所在地の記載なし）。
+- 文化庁「地方指定文化財データベース」(文化遺産オンライン online.bunka.go.jp、robots.txt Crawl-Delay:3遵守)の市区町村検索(GET) `heritages/search/prefecture_cd:17/city_code:17463` で能登町指定3件を発見し、詳細ページから指定年月日付きで収録: 菅原神社の懸仏(2020-06-05)、願成寺の黄檗鉄眼版大般若波羅蜜多経および収納木製箪笥(2019-03-05)、日枝神社の銅造聖観音懸仏(2016-05-10)。うち日枝神社の懸仏は集計PDFの工芸品代表例と同一物件とみられるため、PDF側からの重複収録はしていない。
+- 残り約288件は非公開。能登町文化財保存活用地域計画は未策定、県公表の目録は国・県指定のみ、令和6年能登半島地震関連の被災文化財リストにも市町指定の個別名の公開一覧は見つからなかった。
+
+## 使用ソース（第2次）
+- https://www.town.noto.lg.jp/material/files/group/13/0000021240.pdf （能登町指定文化財集計・令和4年3月）
+- https://online.bunka.go.jp/heritages/detail/516397, /408925, /288650 （文化庁 地方指定文化財データベース）

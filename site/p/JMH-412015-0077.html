@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>鳥類供養塔 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>鳥類供養塔</h1>
+    <p class="jmh-id">JMH-412015-0077</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>重要有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1988-05-14</dd>
+      <dt>所在地</dt><dd>所在地 佐賀市川副町大字福富(米納津)</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>米納津付近は鍋島藩の御狩場であったといわれています。通称「雁の塔」と呼ばれているこの石碑は享保14年(1729年)に建てられています。塔の碑文には「回向鶴白鳥雁大小鳥類壱万二千六百餘之幽魂業性轉滅」とあります。また、「大乗妙経を読唱し、経文を一石に一字ずつ書写し供養する」という意味の文も刻まれています。 犠牲となった鳥類の魂を鎮めるとともに、悪の報いがないようにという祈りをこめて建てられたものと思われます。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/3216.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/3216.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"鳥類供養塔" (JMH-412015-0077), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.856865, 140.456619], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.856865, 140.456619]).addTo(m);
+  </script>
+</body>
+</html>

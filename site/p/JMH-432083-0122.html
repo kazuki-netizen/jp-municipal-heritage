@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>市木のクロガネモチ — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>市木のクロガネモチ</h1>
+    <p class="jmh-id">JMH-432083-0122</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>熊本県</dd>
+      <dt>市町村</dt><dd>山鹿市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>天然記念物</dd>
+      <dt>指定年月日</dt><dd>1989-04-01</dd>
+      <dt>所在地</dt><dd>鹿北町椎持</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>No.153、所有者:市木区</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yamaga.kumamoto.jp/kiji00396/3_96_11829_up_ktyrydo6.pdf" target="_blank" rel="noopener">https://www.city.yamaga.kumamoto.jp/kiji00396/3_96_11829_up_ktyrydo6.pdf</a><br>
+      形式: pdf &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"市木のクロガネモチ" (JMH-432083-0122), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.127014, 130.737671], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.127014, 130.737671]).addTo(m);
+  </script>
+</body>
+</html>

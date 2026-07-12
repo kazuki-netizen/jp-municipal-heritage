@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>住吉神社本殿 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>住吉神社本殿</h1>
+    <p class="jmh-id">JMH-462179-0004</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>曽於市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>曽於市末吉町二之方</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号1号；指定日(原表記): S43.1；住吉神社は住吉山の中腹にあります。島津氏の尊崇篤く、藩庁直轄の神社に列していました。奉納和歌（市指定）や神王面（市指定）も残っています。現在の本殿は流造で、嘉永2（1849）年、福山平太夫（御作事方下目附）と阿蘇鉄矢（大工）が中心となって改築したもので、総樟材で造られています。阿蘇鉄矢は薩摩藩の大工頭を務め、新田神社(薩摩川内市)や揖宿神社(指宿市)、蒲生八幡神社(姶良市)を造営した人物です。また、甲突川五石橋(鹿児島市)を造った岩永三五郎の補佐役を務めていたことでも知られています。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.soo.kagoshima.jp/kankou_event/rekisibunnka/siseki/sumiyoshihonden.html" target="_blank" rel="noopener">https://www.city.soo.kagoshima.jp/kankou_event/rekisibunnka/siseki/sumiyoshihonden.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"住吉神社本殿" (JMH-462179-0004), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.636108, 131.029083], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.636108, 131.029083]).addTo(m);
+  </script>
+</body>
+</html>

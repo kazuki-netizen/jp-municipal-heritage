@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>播磨椙原 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>播磨椙原</h1>
+    <p class="jmh-id">JMH-462047-0003</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>枕崎市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡・典籍</dd>
+      <dt>指定年月日</dt><dd>1975-05-08</dd>
+      <dt>所在地</dt><dd>枕崎市山手町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号2号；捨小舟の著者都の錦が鹿籠金山に配流中に書いた武家物語。播州赤穂の城主浅野長矩が江戸城中において刃傷に及んだ顛末（てんまつ）から，大石ら47人が仇を討つまでを，講談風にあつかったものです。昭和55年12月，長崎大学助教授若木太一氏により翻刻され，同月15日発行の「江戸時代文学誌第一号」によって全国に紹介されました。播磨椙原は他に東北大学狩野文庫，静嘉堂文庫本，頴原文庫本などがありますが，いずれも写本で，枕崎市にある播磨椙原が都の錦の唯一の自筆の原本とされていましたが，平成23年に大阪でもう一つの自筆本が発見され，大阪市立中央図書館に収蔵されています。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.makurazaki.lg.jp/site/history/5649.html" target="_blank" rel="noopener">https://www.city.makurazaki.lg.jp/site/history/5649.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"播磨椙原" (JMH-462047-0003), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.272768, 130.300827], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.272768, 130.300827]).addTo(m);
+  </script>
+</body>
+</html>

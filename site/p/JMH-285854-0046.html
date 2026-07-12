@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>入江きつねぎゃあろ — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>入江きつねぎゃあろ</h1>
+    <p class="jmh-id">JMH-285854-0046</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>兵庫県</dd>
+      <dt>市町村</dt><dd>香美町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>2001-03-14</dd>
+      <dt>所在地</dt><dd>村岡区入江</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>「キツネ狩り」は、小正月の行事です。 このキツネ狩りは播磨・丹波そして但馬の全域、県外では東が福井県の白木半島（三方町）西は鳥取県米子市に至ります。大体兵庫県・京都府北部を中心に、若狭から伯耆[ほうき]に至る山陰地方に広がっており、入江の「キツネ狩り」は嫁の「シリハリ」と習合した形態をもつ伝統行事で貴重な文化財です。 指定内容:入江の狐狩りは、1月8日（かつては14日のとんどの日）に行われます。 まず先ぶれの人が「もう、ねっされよう（寝なさいよ）」と村中をふれて歩きます。現在は「火い消せえ火い消せえ」とふれます。その声に応じて村の人たちは、雨戸を閉め、光が外へもれないようにし、声をひそめて室内に慎みます。これは昔から、狐狩りを見たら罰が当たるとか、目がつぶれると伝えているからです。先ぶれの人が帰って来る頃には、村中がひっそりと静まりかえって、ただ水音と風の音だけが警ひつの役を果たしています。ご幣をもった人を先頭に、唱えごとを交互に叫びながら、村中をまわります。 用語解説 シリハリ とんどの日の晩に、若者が祝いごと宿に集り、ユルダの木で木剣とタルの形をしたものを2つ作り、宿に泊まって村の辻でキツネガリのはやしをします。そして、嫁をもらった家にシリハリといって行き、お祝いをもらいます。これは、昔、後醍醐天皇がこの地へ来られたときに、キツネがいたずらしたのを退治したのがもとだといわれています。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1213.html" target="_blank" rel="noopener">https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1213.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"入江きつねぎゃあろ" (JMH-285854-0046), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.486893, 134.571548], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.486893, 134.571548]).addTo(m);
+  </script>
+</body>
+</html>

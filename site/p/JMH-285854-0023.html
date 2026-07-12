@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>三の谷2号壁画古墳 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>三の谷2号壁画古墳</h1>
+    <p class="jmh-id">JMH-285854-0023</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>兵庫県</dd>
+      <dt>市町村</dt><dd>香美町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1979-02-23</dd>
+      <dt>所在地</dt><dd>村岡区高井</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>県指定三の谷壁画古墳のある谷の奥、約450メートル登ったところ、標高326.49メートルに位置する。この古墳は県指定三の谷古墳のある尾根の東側の谷間を流れる2つの小川にはさまれ、周辺の斜面と比べるとややゆるやかな北東に面する斜面に造成された円墳である。 外形は、かなり崩れており石室の天井石は露出し、封土の流出が著しいためもともとの大きさは不明ですが、周辺の環境から直径約15メートルの円墳であろうと考えられています。 南東方向に開口する左片袖の横穴式石室があり、大きさは以下の通りです。（単位 メートル） 玄室 項目 大きさ 長さ 4.2 幅 奥壁付近 1.5 門付近 1.6 高さ 玄門付近 1.2 中央部 1.5 羨道 項目 大きさ 長さ 2.8 幅 袖部 1.4 羨門部 1.6 高さ 1 内部は土砂が堆積しており石室内の施設及び出土物については不明です。 玄室の両側壁、特に右側壁の奥壁から1.5メートルのところに線刻画が描かれています。 複雑に交錯した線が描かれ、Vの字や交差した線を組み合わせて幾何学模様にも見えます。 指定内容:古墳 一基</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1008.html" target="_blank" rel="noopener">https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1008.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"三の谷2号壁画古墳" (JMH-285854-0023), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.451698, 134.593903], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.451698, 134.593903]).addTo(m);
+  </script>
+</body>
+</html>
