@@ -1,0 +1,18 @@
+{
+  "e0a86a839f354d55": {
+    "url": "https://www.city.kure.lg.jp/site/bunkazai/",
+    "filename": "e0a86a839f354d55.html",
+    "sha256": "3a0879241b2097cb435a85bc0b6750c84213fcf887099fe6cfdf573bdac92b21",
+    "fetched_at": "2026-07-12T07:07:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f7bf7328fafd6bf0": {
+    "url": "https://www.city.kure.lg.jp/uploaded/attachment/104749.pdf",
+    "filename": "f7bf7328fafd6bf0.pdf",
+    "sha256": "ae6651ceeafb4987ec03c35140bfc9fcd34851e1e9d02cb059643b052abdc188",
+    "fetched_at": "2026-07-12T07:07:25Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

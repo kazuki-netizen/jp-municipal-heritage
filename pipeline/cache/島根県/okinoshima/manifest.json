@@ -1,0 +1,18 @@
+{
+  "2f08a27e952b2034": {
+    "url": "https://www.town.okinoshima.shimane.jp/kanko-bunka-sports/rekishi-bunkazai/bunkazai/shiteibunkazai/index.html",
+    "filename": "2f08a27e952b2034.html",
+    "sha256": "38d618f3997d13619b8d8d20511559f91884cbf8b0a19022f0948ad37d026080",
+    "fetched_at": "2026-07-12T06:55:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7305db9c102c018a": {
+    "url": "https://www.pref.shimane.lg.jp/life/bunka/bunkazai/shimane/sityouson/okinoshima.html",
+    "filename": "7305db9c102c018a.html",
+    "sha256": "46bcce73c5f919f920a28b0c3f9d5d72f62cfa315056f78f729b788c814805e1",
+    "fetched_at": "2026-07-12T06:55:51Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "feb084e4a8908f42": {
+    "url": "https://www.city.kashiba.lg.jp/soshiki/42/4492.html",
+    "filename": "feb084e4a8908f42.html",
+    "sha256": "bce5ed6b90fecdd1d6909d9ce80a99fb1b7f0644ce1a7459ecc94a2ab192467e",
+    "fetched_at": "2026-07-12T06:42:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "baeb450ebbb5af27": {
+    "url": "https://www.city.kashiba.lg.jp/uploaded/attachment/23044.pdf",
+    "filename": "baeb450ebbb5af27.pdf",
+    "sha256": "06dc41503517aa9c2a9bfc610ff4a84cb7e09d3191a255c5afe3f5910deb07ff",
+    "fetched_at": "2026-07-12T06:42:38Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,496 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="keywords" content="指定・登録文化財データベース,京都市" />
+
+<meta name="description" content="京都市の指定・登録文化財データベースです" />
+
+<meta name="referrer" content="origin"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=4.0, user-scalable=yes">
+
+<title>検索トップ | 指定・登録文化財データベース | 京都市</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/common/func/import.css?v=1213a" />
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/common/index.css?v=1213a" />
+
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/design/SIM003VIO.css" />
+
+<link rel=stylesheet type="text/css" href="./font-awesome-4.6.3/css/font-awesome.css" media="screen, print">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/css/common/func/old_ie.css" />
+<script type="text/javascript" src="ver_2/website00/js/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="ver_2/website00/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="ver_2/website00/js/common.js?v=106f"></script>
+
+<script type="text/javascript" src="ver_2/website00/js/jquery/jquery.leanModal.min.js"></script>
+
+<script type="text/javascript" src="ver_2/website00/js/jquery/ofi.min.js"></script>
+
+
+
+<style type="text/css">
+<!--
+
+
+#footer a::before,
+#pageTop a:hover::before,
+#footer a:hover,
+#pageTop a:hover,
+#blockData td a::before,
+#btnAllView a,
+table.type-txt thead th span.sort-direction,
+table.type-txt thead th a,
+#btnAllView a:hover, 
+#listSakka h3,
+#changeListType li.link-on a,
+.menu:hover *,
+a:hover,
+#listSakka ul li:hover a,
+#navPager li:not(.no-link) a,
+#navZoom a,
+h1.strong {
+	color:#965faa;
+}
+
+div.footer_opt_contents,
+#relatedData,
+ul.type-mix li div.container,
+#areaContents,
+#list #blockDoc,
+#listPickup,
+#sakka_det #blockMid,
+#footer {
+	border-color:#965faa;
+}
+
+#menuSearch ul li h3,
+#menuSearch ul li a:hover,
+#blockBtn ul li button {
+	background-color:#965faa;
+}
+
+-->
+</style>
+
+<style type="text/css">
+<!--
+body.FOR001 #areaContents,
+html:not(.FOR001) {
+}
+body.FOR001 #areaContents,
+html:not(.FOR001) {
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-repeat:repeat;
+	
+}
+
+/*サイト幅*/
+body.SIM003 header,
+body.SIM003 .wrapper-contents,
+body.SIM003 footer,
+body.FOR001 #header,
+body.FOR001 #footer,
+body.FOR001 .wrapper-contents,
+body:not(.FOR001):not(.SIM003):not(.ELE001) #wrapperAll {
+	width:95%;
+	max-width:1200px;
+}
+
+/* 画像クロップ */
+
+ul.type-pict li dl img {
+
+}
+ul.type-mix li img {
+}
+
+canvas#model_canvas,
+iframe#videoYoutubeIframe,
+#blockPhoto img#pict,
+#blockPhoto img#bookpict{
+/* 初期値 幅:360px×高:300px はdet.css で定義 */
+			height:300px;
+	
+	width:360px;
+}
+
+
+#blockPhoto {
+	width:360px;
+
+}
+
+canvas#model_canvas,
+#blockPhoto img#pict,
+#blockPhoto img#bookpict{
+	object-fit:contain;
+  	font-family: 'object-fit: contain;'
+}
+
+
+
+-->
+</style>
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 770px)" href="ver_2/website00/css/design/theme/sp/sim003_sp.css?v=1213a">
+<script type="text/javascript" src="ver_2/website00/js/sp.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 770px)" href="ver_2/website00/css/common/func/det_pict_sp.css?v=202210
+31a">
+
+
+
+<script type="text/javascript">
+ 	var defaultValue = "";
+	var themeId = "SIM003";
+</script>
+
+<script type="text/javascript">
+<!--
+$(function(){
+	$("li.menu").click(function() {
+		window.location.href = "./det.html?data_id=" + $(this).find("input[type=hidden]").val();
+	});
+
+	var pict_w = $('ul.type-pict li img').width();
+	var pict_h = $('ul.type-pict li img').height();
+	
+
+	var li_w = $('ul.type-pict li').outerWidth();
+
+	listPict(pict_w, pict_h, li_w);
+
+	
+	var timer = false;
+	$(window).resize(function() {
+		if (timer !== false) {
+			clearTimeout(timer);
+		}
+		timer = setTimeout(function() {
+			console.log('resized');
+		listPict(pict_w, pict_h, li_w);
+		}, 200);
+	});
+	});
+-->
+</script>
+
+
+<meta property="og:locale" content="ja_JP">
+
+
+<meta property="og:site_name" content="京都市 - 指定・登録文化財データベース">
+<meta property="og:title" content="検索トップ | 指定・登録文化財データベース | 京都市">
+<meta property="og:url" content="https://jmapps.ne.jp/kyotocity_bunka/index.html">
+
+<meta property="og:type" content="website">
+
+<meta property="og:description" content="京都市の指定・登録文化財データベースです">
+
+<meta property="og:image" content="">
+<meta name="twitter:card" content="summary_large_image">
+
+
+</head>
+
+<body id="index" class="SIM003 SIM003VIO ja responsive">
+
+
+
+
+<div id="wrapperAll">
+
+	  
+
+	<header id="header">
+		<hgroup id="headerTop">
+			<h1 id="siteId"><a href="./index.html" target="_self" rel="noopener noreferrer"><p>京都市　指定・登録文化財データベース</p></a></h1>
+			<h2 id="siteOutline" class="clearTxt">京都市</h2>
+		</hgroup>
+        
+		
+
+
+    
+    
+	
+
+
+
+<script type="text/javascript">
+<!--
+	$(function(){
+	    $('a[rel*=popup_optional_contents2]').leanModal({closeButton: ".modal_close" });
+	});
+-->
+</script>
+
+<div id="popup_optional_contents2" class="popup_optional_contents">
+	<div id="wrap">
+        <div id="popup-header">
+            <h2></h2>
+            <a class="modal_close" id="modal_close" href="#" onclick="javascript:clear_selected_bunrui()"></a>
+        </div><!--/#popup-header -->
+        <div id="popup-body">
+			<div><span style="color:#965faa"><span style="font-size:22px">文化財指定</span></span></div>
+
+<div> </div>
+
+<div style="text-align:center"><b><a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=環境保全地区&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_01環境保全地区.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=市建造物&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_02建造物(1).png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=美術工芸品&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_03美術工芸品.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=有形民俗文化財&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_04有形民俗文化財.png" style="height:80px; margin:8px; width:240px"></a></b></div>
+
+<div style="text-align:center"><b><a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=無形民俗文化財&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_05無形民俗文化財.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=史跡&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_06史跡.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=名勝&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_07名勝(1).png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=天然記念物&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_08天然記念物.png" style="height:80px; margin:8px; width:240px"></a> </b></div>
+
+<div style="text-align:center"><b><a href="https://www.kyoto-arc.or.jp/imageDB/cTrieve.cgi" target="_blank"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_09埋蔵文化財(1).png" style="height:80px; margin:8px; width:240px"></a> </b></div>
+        </div>
+    </div>
+</div><!--/#modal_message -->
+
+		<div class="wrapper">
+		</div><!-- /.wrapper-->
+	</header>
+
+
+<script type="text/javascript">
+	var color = $('#headerTop p').css('color');
+	$('#header_opt_contents_1').css('color', color);
+	$('#header_opt_contents_2').css('color', color);
+	$('#header_opt_anchor_1').css('color', color);
+	$('#header_opt_anchor_2').css('color', color);
+	$('#blockFontSize').css('color', color); //#990
+	$('#fsdcl_small').css('color', color); //#990
+	$('#fsdcl_standard').css('color', color); //#990
+	$('#fsdcl_large').css('color', color); //#990	
+</script>
+
+	<div id="areaContents">
+	<article class="wrapper-contents">
+    	<nav>&nbsp;</nav>
+
+        <section id="blockUpper">
+
+			            <section id="blockSearch">
+			<div class="wrapper-search">
+
+                <form action="./list.html" method="get" name="search">
+                <div id="blockInput">
+                
+					
+                    
+                <div class="wrapper keyword">
+                    <label for="searchKeyword" class="title">キーワード</label>
+                    <input type="text" style="ime-mode: active; " name="keywords" id="searchKeyword" value="" />
+                                                
+                    <ul class="kwd-and-or">
+                    	<li><label><input id="radioAnd" type="radio" name="kwd_and_or" value="and" checked="checked" /><span>全ての語を含む</span></label></li>
+                    	<li><label><input id="radioOr" type="radio" name="kwd_and_or" value="or" /><span>いずれかの語を含む</span></label></li>
+                    </ul>
+                    
+                </div><!--/wrapper keyword -->
+                
+                <div class="wrapper bunrui">
+                                    
+                  
+                </div><!--/wrapper bunrui -->
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="ver_2/website00/js/jquery/jquery.treeview.css" />
+<script type="text/javascript" src="ver_2/website00/js/jquery/jquery.treeview.js"></script>
+
+<script type="text/javascript">
+<!--
+	var isResponsive = "1";
+
+	function clear_selected_bunrui() {
+		var win_w = $(window).width();
+		document.getElementById('hlvl').value = "";
+		document.getElementById('bunrui').value = "";
+		$("div#selected_bunrui_name span").html(namePath.split('|').join(' > '));
+	  	
+		if (isResponsive == "1" && win_w <= 770) {
+			bunruiLabelOnOff();
+		}
+	}
+	function selectBunrui(hlvl, idPath, namePath){
+		document.getElementById('hlvl').value = hlvl;
+		document.getElementById('bunrui').value = idPath;
+		$("div#selected_bunrui_name span").html(namePath.split('|').join(' > '));
+		close_modal('#modal_message');
+	}
+	function close_modal(modal_id){
+		var win_w = $(window).width();
+		$("#lean_overlay").fadeOut(200);
+		$(modal_id).css({ 'display' : 'none' });
+		
+		if (isResponsive == "1" && win_w <= 770) {
+			bunruiLabelOnOff();
+		}
+	}
+	$(function(){
+	    $('a[rel*=leanModal]').leanModal({closeButton: ".modal_close" });
+	});
+	$(document).ready(function(){ $("#type_tree").treeview({ collapsed : true, animated : "fast" }); });
+-->
+</script>
+
+<div id="modal_message" style="display:none;" class="search_bunrui">
+	<div id="wrap">
+        
+        <div id="popup-header">
+            <h2><span>■</span>分類を選択してください</h2>
+            <a class="modal_close" id="modal_close" href="#" onclick="javascript:clear_selected_bunrui()"></a>
+        </div><!--/#popup-header -->
+        
+        <p class="msg">ボタンをクリックすると、その下の階層が展開します。</p>
+        
+        <div id="popup-body">
+                </div><!--/#popup-body -->
+    </div><!--/#wrap -->
+</div><!--/#modal_message -->
+
+
+                    <div class="wrapper checkbox">
+                        <label for="search_f2" class="title">文化財分類</label>
+                        							<ul>
+																						<li><label><input type="checkbox" name="f2[]" value="環境保全地区"><span>環境保全地区</span></label></li>
+																						<li><label><input type="checkbox" name="f2[]" value="建造物"><span>建造物</span></label></li>
+																						<li><label><input type="checkbox" name="f2[]" value="美術工芸品"><span>美術工芸品</span></label></li>
+																						<li><label><input type="checkbox" name="f2[]" value="有形民俗文化財"><span>有形民俗文化財</span></label></li>
+																						<li><label><input type="checkbox" name="f2[]" value="無形民俗文化財"><span>無形民俗文化財</span></label></li>
+																						<li><label><input type="checkbox" name="f2[]" value="史跡"><span>史跡</span></label></li>
+																						<li><label><input type="checkbox" name="f2[]" value="名勝"><span>名勝</span></label></li>
+																						<li><label><input type="checkbox" name="f2[]" value="天然記念物"><span>天然記念物</span></label></li>
+														</ul>
+                                            </div><!--/wrapper -->
+
+                    <div class="wrapper checkbox">
+                        <label for="search_f11" class="title">美術工芸品種別</label>
+                        							<ul>
+																						<li><label><input type="checkbox" name="f11[]" value="絵画"><span>絵画</span></label></li>
+																						<li><label><input type="checkbox" name="f11[]" value="彫刻"><span>彫刻</span></label></li>
+																						<li><label><input type="checkbox" name="f11[]" value="工芸品"><span>工芸品</span></label></li>
+																						<li><label><input type="checkbox" name="f11[]" value="書跡典籍"><span>書跡典籍</span></label></li>
+																						<li><label><input type="checkbox" name="f11[]" value="古文書"><span>古文書</span></label></li>
+																						<li><label><input type="checkbox" name="f11[]" value="考古資料"><span>考古資料</span></label></li>
+																						<li><label><input type="checkbox" name="f11[]" value="歴史資料"><span>歴史資料</span></label></li>
+														</ul>
+                                            </div><!--/wrapper -->
+
+                    <div class="wrapper text">
+                        <label for="search_f4" class="title">時代区分</label>
+                                                    <input type="text" name="f4" id="search_f4" value="" />
+						                    </div><!--/wrapper -->
+
+                    <div class="wrapper checkbox">
+                        <label for="search_f5" class="title">所在地</label>
+                        							<ul>
+																						<li><label><input type="checkbox" name="f5[]" value="北区"><span>北区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="上京区"><span>上京区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="左京区"><span>左京区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="中京区"><span>中京区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="東山区"><span>東山区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="山科区"><span>山科区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="下京区"><span>下京区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="南区"><span>南区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="右京区"><span>右京区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="西京区"><span>西京区</span></label></li>
+																						<li><label><input type="checkbox" name="f5[]" value="伏見区"><span>伏見区</span></label></li>
+														</ul>
+                                            </div><!--/wrapper -->
+
+
+				
+				                                                <label id="withImage"><input type="checkbox" name="attach_img" value="1" />
+                        <span>画像有のみを表示</span></label>
+                
+                </div><!--/blockInput -->
+
+                <div id="blockBtn">
+                    <ul>
+                        <li id="btnSearch"><button type="submit"><i class="fa fa-search"></i>検索<span>する</span></button></li>
+						<li id="btnReset"><button type="button" onclick="resetForSearchKeywords();">リセット</button></li>
+                    </ul>
+                </div><!-- /blockBtn -->
+
+                <input type="hidden" id="list_type" name="list_type" value="LLA001">
+                <input type="hidden" id="list_count" name="list_count" value="10">
+                <input type="hidden" id="title_query" name="title_query" value="yes">
+                </form>
+
+            </div><!-- /wrapper-search -->
+            </section><!-- /blockSearch -->
+        </section><!-- /blockUpper -->
+
+        <section id="blockDoc">
+		
+			
+
+
+    
+
+                <div class="footer_opt_contents">
+					<div><span style="color:#965faa"><span style="font-size:22px">文化財指定</span></span></div>
+
+<div> </div>
+
+<div style="text-align:center"><b><a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=環境保全地区&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_01環境保全地区.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=市建造物&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_02建造物(1).png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=美術工芸品&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_03美術工芸品.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=有形民俗文化財&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_04有形民俗文化財.png" style="height:80px; margin:8px; width:240px"></a></b></div>
+
+<div style="text-align:center"><b><a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=無形民俗文化財&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_05無形民俗文化財.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=史跡&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_06史跡.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=名勝&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_07名勝(1).png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=天然記念物&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_08天然記念物.png" style="height:80px; margin:8px; width:240px"></a> </b></div>
+
+<div style="text-align:center"><b><a href="https://www.kyoto-arc.or.jp/imageDB/cTrieve.cgi" target="_blank"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_09埋蔵文化財(1).png" style="height:80px; margin:8px; width:240px"></a> </b></div>
+                </div><!--/.footer_opt_contents-->
+
+
+
+
+<script type="text/javascript">
+<!--
+	$(function(){
+	    $('a[rel*=popup_optional_contents2]').leanModal({closeButton: ".modal_close" });
+	});
+-->
+</script>
+
+<div id="popup_optional_contents2" class="popup_optional_contents">
+	<div id="wrap">
+        <div id="popup-header">
+            <h2></h2>
+            <a class="modal_close" id="modal_close" href="#" onclick="javascript:clear_selected_bunrui()"></a>
+        </div><!--/#popup-header -->
+        <div id="popup-body">
+			<div><span style="color:#965faa"><span style="font-size:22px">文化財指定</span></span></div>
+
+<div> </div>
+
+<div style="text-align:center"><b><a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=環境保全地区&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_01環境保全地区.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=市建造物&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_02建造物(1).png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=美術工芸品&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_03美術工芸品.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=有形民俗文化財&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_04有形民俗文化財.png" style="height:80px; margin:8px; width:240px"></a></b></div>
+
+<div style="text-align:center"><b><a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=無形民俗文化財&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_05無形民俗文化財.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=史跡&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_06史跡.png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=名勝&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_07名勝(1).png" style="height:80px; margin:8px; width:240px"></a> <a href="https://jmapps.ne.jp/kyotocity_bunka/list.html?keywords=&kwd_and_or=and&f2[]=天然記念物&f4=&list_type=LLA001&list_count=10&title_query=yes" target="_self"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_08天然記念物.png" style="height:80px; margin:8px; width:240px"></a> </b></div>
+
+<div style="text-align:center"><b><a href="https://www.kyoto-arc.or.jp/imageDB/cTrieve.cgi" target="_blank"><img alt="button" src="/saas_public/opt_img/6400/files/1/images/kyotocity_09埋蔵文化財(1).png" style="height:80px; margin:8px; width:240px"></a> </b></div>
+        </div>
+    </div>
+</div><!--/#modal_message -->
+
+			</section><!-- /blockDoc -->
+		</article><!--/wrapper -->
+	</div><!-- /areaContents -->
+
+	
+<footer id="footer">
+	<div class="wrapper">
+		<a href="https://www.city.kyoto.lg.jp/bunshi/soshiki/6-3-2-0-0.html" target='_blank'>京都市情報館 文化市民局文化芸術都市推進室文化財保護課</a>
+
+       	<p>Powered By<strong>I.B.MUSEUM SaaS</strong></p>
+    
+	</div><!--/.wrapper -->
+</footer>
+
+</div><!-- /wrapperAll -->
+</body>
+</html>

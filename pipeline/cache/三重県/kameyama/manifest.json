@@ -1,0 +1,18 @@
+{
+  "b233ee60a486a595": {
+    "url": "https://www.city.kameyama.mie.jp/docs/2017072000027/file_contents/shiteibunkazai.pdf",
+    "filename": "b233ee60a486a595.pdf",
+    "sha256": "b71e65a74291880ee7221fe4e011c90bc3657230657fd295d818d1901cb54bef",
+    "fetched_at": "2026-07-12T06:13:37Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "d1e460f0170017b5": {
+    "url": "https://www.city.kameyama.mie.jp/docs/2017072000027/",
+    "filename": "d1e460f0170017b5.html",
+    "sha256": "29d1af844fb394891a8cdfc644b3a500e0a58ebe623bc513a770037fcecdc342",
+    "fetched_at": "2026-07-12T06:13:39Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

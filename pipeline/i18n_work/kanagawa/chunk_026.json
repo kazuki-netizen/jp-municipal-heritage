@@ -1,0 +1,361 @@
+[
+ {
+  "jmh_id": "JMH-142166-0010",
+  "name": "祭囃子『かまくら』『やたい』",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1968-03-27",
+  "municipality": "座間市"
+ },
+ {
+  "jmh_id": "JMH-142166-0015",
+  "name": "座間歌舞伎",
+  "category": "無形文化財",
+  "subcategory": "無形文化財",
+  "designation": "市指定",
+  "designated_date": "1971-03-30",
+  "municipality": "座間市"
+ },
+ {
+  "jmh_id": "JMH-142166-0031",
+  "name": "表裏型顔面把手",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2024-05-15",
+  "municipality": "座間市",
+  "location": "市教育委員会"
+ },
+ {
+  "jmh_id": "JMH-144029-0004",
+  "name": "達磨画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "村指定",
+  "designated_date": "1981-02-09",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0003",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "1981-02-09",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0002",
+  "name": "十一面観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "1981-02-09",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0001",
+  "name": "乗鞍",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "村指定",
+  "designated_date": "1981-02-09",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0011",
+  "name": "ニホンオオカミ頭骨・下顎(KVJW-001)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2025-03-03",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0007",
+  "name": "ニホンオオカミ頭骨(KVJW-002)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2025-03-03",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0008",
+  "name": "ニホンオオカミ頭骨(KVJW-003)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2025-03-03",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0009",
+  "name": "ニホンオオカミ頭骨(KVJW-004)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2025-03-03",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0005",
+  "name": "ニホンオオカミ下顎(KVJW-005)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2025-03-03",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0010",
+  "name": "ニホンオオカミ頭骨(KVJW-006)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2025-03-03",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-144029-0006",
+  "name": "ニホンオオカミ前肢(KVJW-007)",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "村指定",
+  "designated_date": "2025-03-03",
+  "municipality": "清川村"
+ },
+ {
+  "jmh_id": "JMH-143421-0004",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(仏像)",
+  "designation": "町指定",
+  "designated_date": "1974-06",
+  "municipality": "二宮町",
+  "location": "二宮町山西551 茶屋薬師堂"
+ },
+ {
+  "jmh_id": "JMH-143421-0005",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(仏像)",
+  "designation": "町指定",
+  "designated_date": "1974-06",
+  "municipality": "二宮町",
+  "location": "二宮町一色765 浄源寺"
+ },
+ {
+  "jmh_id": "JMH-143421-0006",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(工芸品)",
+  "designation": "町指定",
+  "designated_date": "1974-06",
+  "municipality": "二宮町",
+  "location": "二宮町山西793 等覚院"
+ },
+ {
+  "jmh_id": "JMH-143421-0003",
+  "name": "弥生土器",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(考古資料)",
+  "designation": "町指定",
+  "designated_date": "1974-06",
+  "municipality": "二宮町",
+  "location": "二宮町二宮1240-10 生涯学習センター 地下特別収蔵庫"
+ },
+ {
+  "jmh_id": "JMH-143421-0007",
+  "name": "田舟",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(考古資料)",
+  "designation": "町指定",
+  "designated_date": "1974-06",
+  "municipality": "二宮町",
+  "location": "二宮町山西2122 川勾神社"
+ },
+ {
+  "jmh_id": "JMH-143421-0002",
+  "name": "古文書 (書状、寄進状写しなど11点)",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(考古資料)",
+  "designation": "町指定",
+  "designated_date": "1974-06",
+  "municipality": "二宮町",
+  "location": "二宮町山西2122 川勾神社"
+ },
+ {
+  "jmh_id": "JMH-143421-0001",
+  "name": "フジの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物",
+  "designation": "町指定",
+  "designated_date": "1974-06",
+  "municipality": "二宮町",
+  "location": "二宮町山西793 等覚院"
+ },
+ {
+  "jmh_id": "JMH-143421-0008",
+  "name": "中里祭囃子",
+  "category": "無形文化財",
+  "subcategory": "重要無形文化財",
+  "designation": "町指定",
+  "designated_date": "1975-09",
+  "municipality": "二宮町",
+  "location": "二宮町中里903-3 中里老人憩の家 中里祭囃子保存会"
+ },
+ {
+  "jmh_id": "JMH-143421-0009",
+  "name": "古文書 (御休帳35帖、諸大名帳4帖、御定宿帳12帖、書状図面など26点)",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書類)",
+  "designation": "町指定",
+  "designated_date": "1975-09",
+  "municipality": "二宮町",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-143421-0010",
+  "name": "カヤの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物",
+  "designation": "町指定",
+  "designated_date": "1977-01",
+  "municipality": "二宮町",
+  "location": "二宮町川匂230 西光寺"
+ },
+ {
+  "jmh_id": "JMH-143421-0011",
+  "name": "タブの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡名勝天然記念物",
+  "designation": "町指定",
+  "designated_date": "1983-04",
+  "municipality": "二宮町",
+  "location": "個人蔵"
+ },
+ {
+  "jmh_id": "JMH-143421-0012",
+  "name": "木造随身倚像(2体)",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(彫刻)",
+  "designation": "町指定",
+  "designated_date": "2007-03",
+  "municipality": "二宮町",
+  "location": "二宮町山西2122 川勾神社"
+ },
+ {
+  "jmh_id": "JMH-142182-0003",
+  "name": "五社神社・椎の大木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0017",
+  "name": "遠山氏累代の墓碑群",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0005",
+  "name": "大橋氏一族の墓石群",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0014",
+  "name": "蓮光寺内陣彫刻",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0010",
+  "name": "木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0011",
+  "name": "熊野社本殿・拝殿及び棟札4枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0004",
+  "name": "五社神社本殿及び棟札9枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0007",
+  "name": "小園子之社本殿及び棟札9枚",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0012",
+  "name": "熊野社絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0008",
+  "name": "小園子之社絵馬・奉納額",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0013",
+  "name": "笠間家のギンモクセイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0002",
+  "name": "上土棚南遺跡出土の土偶等祭祀・装飾関連遺物",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0009",
+  "name": "早川城山遺跡出土の奈良三彩",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ },
+ {
+  "jmh_id": "JMH-142182-0001",
+  "name": "びわみ堂遺跡出土の板碑",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "municipality": "綾瀬市"
+ }
+]

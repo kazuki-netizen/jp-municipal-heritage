@@ -1,0 +1,18 @@
+{
+  "22f4be7ecdf3898a": {
+    "url": "https://www.vill.kijimadaira.lg.jp/categories/kubun/shogai/bunkazai/",
+    "filename": "22f4be7ecdf3898a.html",
+    "sha256": "019dd438adcbf603f7175e2638c6c3edc64bd67ee38f3b26e3caa7dc8618ec86",
+    "fetched_at": "2026-07-12T04:28:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fe7d8552d86b5b60": {
+    "url": "https://www.vill.kijimadaira.lg.jp/categories/kubun/shogai/bunkazai/shiseki/",
+    "filename": "fe7d8552d86b5b60.html",
+    "sha256": "7267b9d7aa29e56add515e3ce1be5ed1ab117f62c7f8c9e6dfba861a6e7cacbd",
+    "fetched_at": "2026-07-12T04:28:50Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "97168e3577af8e08": {
+    "url": "https://www.town.uchinada.lg.jp/soshiki/bunspo/1504.html",
+    "filename": "97168e3577af8e08.html",
+    "sha256": "0bdfd2ea8dd883db97460c4cef1150e31143821d1cbf258a1cf04aad25194fe1",
+    "fetched_at": "2026-07-12T03:54:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e32d65224a6ea632": {
+    "url": "https://catalog-data.city.kanazawa.ishikawa.jp/ja/dataset/173657-cultural_property",
+    "filename": "e32d65224a6ea632.bin",
+    "sha256": "afb7e0d75de32a9c96262dd830a293d07711a0c45525e2b2aa5ceba63b421e22",
+    "fetched_at": "2026-07-12T03:54:42Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "95922e62a38df7c4": {
+    "url": "http://www3.town.uchinada.lg.jp/bunkazai/05bunka.html",
+    "filename": "95922e62a38df7c4.html",
+    "sha256": "4db49dd5bf5d0c87be0ac17a13d1f6af1cc712bf1f686e7ca1817ba0504d702c",
+    "fetched_at": "2026-07-12T03:54:42Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

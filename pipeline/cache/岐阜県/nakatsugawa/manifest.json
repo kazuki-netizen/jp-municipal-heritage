@@ -1,0 +1,18 @@
+{
+  "f689f12e4cc11eed": {
+    "url": "https://www.city.nakatsugawa.lg.jp/soshikikarasagasu/bunkaka/2/3/933.html",
+    "filename": "f689f12e4cc11eed.html",
+    "sha256": "61df47277a8360cf397d1411e96c5fc9ce3d876409a513c926666d1af8f2aaf1",
+    "fetched_at": "2026-07-12T05:59:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f16f119ff424723b": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212067-008",
+    "filename": "f16f119ff424723b.bin",
+    "sha256": "c44a66841aac7b056cd551ffb304b4afc1934ae90ffe591e2ab2a39f4b94e22d",
+    "fetched_at": "2026-07-12T05:59:38Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

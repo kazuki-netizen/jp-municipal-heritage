@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-131113-0040",
+  "name": "石　段",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0047",
+  "name": "社殿彫刻",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "北嶺町37-20 御嶽神社"
+ },
+ {
+  "jmh_id": "JMH-131113-0046",
+  "name": "社　殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "久が原2-18-4 東部八幡神社"
+ },
+ {
+  "jmh_id": "JMH-131113-0042",
+  "name": "石鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "北糀谷1-22-10 子安八幡神社"
+ },
+ {
+  "jmh_id": "JMH-131113-0043",
+  "name": "石鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "蒲田3-2-10 薭田神社"
+ },
+ {
+  "jmh_id": "JMH-131113-0008",
+  "name": "南谷檀林板頭寮遺構",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-31-10 照栄院"
+ },
+ {
+  "jmh_id": "JMH-131113-0039",
+  "name": "牛頭天王堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "本羽田3-9-10 自性院"
+ },
+ {
+  "jmh_id": "JMH-131113-0063",
+  "name": "三面大黒天画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "大森中2-7-19 大林寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0061",
+  "name": "三十番神画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上2-10-5 本行寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0101",
+  "name": "観世音菩薩絵馬",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "萩中1-13-13 正覚寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0115",
+  "name": "釈迦涅槃繍繪画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "池上1-19-25 法養寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0055",
+  "name": "阿弥陀如来及び両脇侍立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "南馬込1-49-1 萬福寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0057",
+  "name": "青面金剛及び二童子四叉又立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "田園調布南24-18 密蔵院"
+ },
+ {
+  "jmh_id": "JMH-131113-0027",
+  "name": "日蓮聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "久が原2-1-25 樹林寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0007",
+  "name": "十一面観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "西蒲田6-13-14 蓮花寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0012",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "新蒲田2-3-6 金剛院"
+ },
+ {
+  "jmh_id": "JMH-131113-0028",
+  "name": "日蓮聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "蒲田4-18-15 妙安寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0068",
+  "name": "十一面観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "南馬込5-2-10 長遠寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0079",
+  "name": "日朗聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0084",
+  "name": "日輪聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0080",
+  "name": "日朗聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-31-10 照栄院"
+ },
+ {
+  "jmh_id": "JMH-131113-0075",
+  "name": "妙見菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-31-11 妙見堂"
+ },
+ {
+  "jmh_id": "JMH-131113-0062",
+  "name": "三宝尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-31-10 照栄院"
+ },
+ {
+  "jmh_id": "JMH-131113-0081",
+  "name": "日蓮聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上2-10-5 本行寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0091",
+  "name": "池上宗仲夫妻坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上2-10-5 本行寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0100",
+  "name": "薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "西嶺町22-19 観蔵院"
+ },
+ {
+  "jmh_id": "JMH-131113-0082",
+  "name": "日蓮聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "久が原4-4-10 安詳寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0083",
+  "name": "日蓮聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "東雪谷5-8-10 長慶寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0064",
+  "name": "不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "本羽田3-10-8 正蔵院"
+ },
+ {
+  "jmh_id": "JMH-131113-0102",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "萩中1-11-24 善永寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0078",
+  "name": "弘法大師坐像及び厨子",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "仲六郷4-6-2 東陽院"
+ },
+ {
+  "jmh_id": "JMH-131113-0066",
+  "name": "仏像群",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "西六郷2-33-10 安養寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0103",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "西六郷2-52-1 宝幢院"
+ },
+ {
+  "jmh_id": "JMH-131113-0109",
+  "name": "日蓮聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "中央6-6-5 長勝寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0110",
+  "name": "日蓮聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "池上1-19-25 法養寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0108",
+  "name": "日照聖人坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "池上2-11-15 南之院"
+ },
+ {
+  "jmh_id": "JMH-131113-0107",
+  "name": "弘法大師坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "田園調布南24-18 密蔵院"
+ },
+ {
+  "jmh_id": "JMH-131113-0106",
+  "name": "大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "田園調布南24-18 密蔵院"
+ },
+ {
+  "jmh_id": "JMH-131113-0114",
+  "name": "釈迦如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "仲六郷4-6-2 東陽院"
+ },
+ {
+  "jmh_id": "JMH-131113-0113",
+  "name": "観世音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "仲六郷4-6-2 東陽院"
+ }
+]

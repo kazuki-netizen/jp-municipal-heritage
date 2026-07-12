@@ -1,0 +1,18 @@
+{
+  "e81731556c855392": {
+    "url": "https://www.city.kofu.yamanashi.jp/bunkashinko/kyoiku/bunka/zai/documents/sitei20260415.pdf",
+    "filename": "e81731556c855392.pdf",
+    "sha256": "2b1175ad8f7d926cc9d2b82dd3d044ffa64c3663acc423981b7545cfb10b2f91",
+    "fetched_at": "2026-07-12T03:46:26Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "3fe75b318265fb4f": {
+    "url": "https://www.city.kofu.yamanashi.jp/bunkashinko/kyoiku/bunka/zai/documents/touroku20260218.pdf",
+    "filename": "3fe75b318265fb4f.pdf",
+    "sha256": "f04d1a75cd10b0906a67536c18dccb55504e64124626dca4428d9f2937fbc9da",
+    "fetched_at": "2026-07-12T03:46:28Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

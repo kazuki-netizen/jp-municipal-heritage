@@ -1,0 +1,367 @@
+[
+ {
+  "jmh_id": "JMH-141500-0049",
+  "name": "友林寺の鉄造聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0065",
+  "name": "祥泉寺の木造阿弥陀如来立像・木造薬師如来立像・木造千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0066",
+  "name": "紙本著色飯縄権現像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（歴史資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0055",
+  "name": "小原日天社の鰐口",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（歴史資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-142107-0002",
+  "name": "薬師如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-03-28",
+  "municipality": "三浦市",
+  "location": "三浦市白石町"
+ },
+ {
+  "jmh_id": "JMH-142107-0001",
+  "name": "和田義盛の肖像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1967-03-28",
+  "municipality": "三浦市",
+  "location": "三浦市南下浦町上宮田"
+ },
+ {
+  "jmh_id": "JMH-142107-0003",
+  "name": "諸磯遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-03-28",
+  "municipality": "三浦市",
+  "location": "三浦市三崎町諸磯字新堀"
+ },
+ {
+  "jmh_id": "JMH-142107-0004",
+  "name": "埴輪（人物一体）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1967-05-29",
+  "municipality": "三浦市",
+  "location": "三浦市向ヶ崎町"
+ },
+ {
+  "jmh_id": "JMH-142107-0005",
+  "name": "子持勾玉（一括）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1967-05-29",
+  "municipality": "三浦市",
+  "location": "三浦市初声町三戸"
+ },
+ {
+  "jmh_id": "JMH-142107-0007",
+  "name": "笹塚不動明王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1969-03-26",
+  "municipality": "三浦市",
+  "location": "三浦市南下浦町上宮田"
+ },
+ {
+  "jmh_id": "JMH-142107-0006",
+  "name": "切妻造妻入形横穴古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-03-26",
+  "municipality": "三浦市",
+  "location": "三浦市南下浦町菊名"
+ },
+ {
+  "jmh_id": "JMH-142107-0008",
+  "name": "海南神社面神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1971-01-21",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0009",
+  "name": "鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1972-08-31",
+  "municipality": "三浦市",
+  "location": "三浦市初声町下宮田"
+ },
+ {
+  "jmh_id": "JMH-142107-0010",
+  "name": "地蔵菩薩座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-12-10",
+  "municipality": "三浦市",
+  "location": "三浦市栄町"
+ },
+ {
+  "jmh_id": "JMH-142107-0011",
+  "name": "地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1981-01-10",
+  "municipality": "三浦市",
+  "location": "三浦市南下浦町金田"
+ },
+ {
+  "jmh_id": "JMH-142107-0012",
+  "name": "旧三崎小学校城ヶ島分校",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1987-01-30",
+  "municipality": "三浦市",
+  "location": "三浦市三崎町城ヶ島"
+ },
+ {
+  "jmh_id": "JMH-142107-0013",
+  "name": "海南神社夏祭りの「行道（お練り）獅子」",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1992-04-30",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0014",
+  "name": "阿弥陀三尊来迎図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1992-04-30",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0015",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1999-05-25",
+  "municipality": "三浦市",
+  "location": "三浦市初声町下宮田"
+ },
+ {
+  "jmh_id": "JMH-142107-0016",
+  "name": "いなりっこ",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2002-04-01",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0017",
+  "name": "会津藩士とその家族の墓碑（37基）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2006-04-01",
+  "municipality": "三浦市",
+  "location": "三浦市城山町・向ヶ崎町・白石町・三崎町諸磯"
+ },
+ {
+  "jmh_id": "JMH-142107-0018",
+  "name": "圓照寺文書2点（北条氏規朱印状・向井政綱寄進状）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2006-04-01",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0019",
+  "name": "大浦山洞穴遺跡の骨角器・貝製品と卜骨155点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2006-04-01",
+  "municipality": "三浦市",
+  "location": "三浦市初声町入江"
+ },
+ {
+  "jmh_id": "JMH-142107-0021",
+  "name": "海南神社の大イチョウ雌雄各1本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2009-04-01",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0020",
+  "name": "擬宝珠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2009-04-01",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0022",
+  "name": "向井将監一族の石塔群",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2013-04-01",
+  "municipality": "三浦市",
+  "location": "三浦市白石町"
+ },
+ {
+  "jmh_id": "JMH-142107-0023",
+  "name": "赤坂遺跡出土品（第8次調査）－弥生時代中・後期の出土品－",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2017-01-10",
+  "municipality": "三浦市",
+  "location": "三浦市初声町入江"
+ },
+ {
+  "jmh_id": "JMH-142107-0024",
+  "name": "海南神社 夏例大祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2017-06-12",
+  "municipality": "三浦市",
+  "location": "三浦市三崎"
+ },
+ {
+  "jmh_id": "JMH-142107-0025",
+  "name": "三浦の農耕（業）関係用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2020-03-31",
+  "municipality": "三浦市",
+  "location": "三浦市初声町入江"
+ },
+ {
+  "jmh_id": "JMH-142107-0026",
+  "name": "三浦の和船と建造用具（船大工道具）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2022-03-31",
+  "municipality": "三浦市",
+  "location": "三浦市初声町入江"
+ },
+ {
+  "jmh_id": "JMH-142107-0027",
+  "name": "江戸期マカセ網漁民の墓碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2025-08-13",
+  "municipality": "三浦市",
+  "location": "三浦市南下浦町上宮田"
+ },
+ {
+  "jmh_id": "JMH-143626-0008",
+  "name": "土偶形容器",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0012",
+  "name": "木造薬師如来坐像（三嶋神社）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0013",
+  "name": "木造薬師如来坐像（神明社）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0005",
+  "name": "余見の宝篋印塔",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0014",
+  "name": "杉の板戸絵",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0009",
+  "name": "往生要集 上・中・下",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0017",
+  "name": "算額（三嶋神社）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0011",
+  "name": "文書（三嶋神社）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0016",
+  "name": "田植唄",
+  "category": "無形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ }
+]

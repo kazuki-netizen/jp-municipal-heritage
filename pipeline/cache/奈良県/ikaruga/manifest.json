@@ -1,0 +1,18 @@
+{
+  "50657b84977453f8": {
+    "url": "https://www.town.ikaruga.nara.jp/0000000043.html",
+    "filename": "50657b84977453f8.html",
+    "sha256": "a0ed02212ab2b27e015d5d5ab25cd11ea8bfb7454a0271cdde20541429db1ac1",
+    "fetched_at": "2026-07-12T06:42:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fbf04f532ee4d3bf": {
+    "url": "https://www.town.ikaruga.nara.jp/0000000040.html",
+    "filename": "fbf04f532ee4d3bf.html",
+    "sha256": "b893db279aa9fd3d352f687db2b50123e2cd9415aa4085739647827ea9706c62",
+    "fetched_at": "2026-07-12T06:42:44Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

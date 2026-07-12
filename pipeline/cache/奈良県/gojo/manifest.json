@@ -1,0 +1,18 @@
+{
+  "0db28b75497df3fd": {
+    "url": "https://www.city.gojo.lg.jp/soshiki/bunka/1_1/1/3114.html",
+    "filename": "0db28b75497df3fd.html",
+    "sha256": "20ef57aa9f7e620e361dca1466f5ca1755c81d24bd6b2da2a28aec261aed383f",
+    "fetched_at": "2026-07-12T06:42:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5d98cc343c0f91be": {
+    "url": "https://www.city.gojo.lg.jp/soshiki/bunka/1_1/1/1403.html",
+    "filename": "5d98cc343c0f91be.html",
+    "sha256": "7f1ce7b9872ab90b82452745deec05bfb310f530613a05cf667ef480882dbdea",
+    "fetched_at": "2026-07-12T06:42:34Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

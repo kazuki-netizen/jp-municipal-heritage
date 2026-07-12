@@ -1,0 +1,18 @@
+{
+  "9faf26962f53225e": {
+    "url": "https://www.town.sakuho.nagano.jp/2016/11/28/bunnkazai.pdf",
+    "filename": "9faf26962f53225e.pdf",
+    "sha256": "a5912c8fe78070fb520475520cb2ffb5b3785ac3147c84e649da7900551cae95",
+    "fetched_at": "2026-07-12T04:28:01Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "73e202b2c392e8f7": {
+    "url": "https://www.town.sakuho.nagano.jp/kurashi/bunka/bunka/shogaigakushuka_2984.html",
+    "filename": "73e202b2c392e8f7.html",
+    "sha256": "ce93d37456257b68e965ff117e6cc57dbb24879898fe166c60e4803092d1b96a",
+    "fetched_at": "2026-07-12T04:28:03Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

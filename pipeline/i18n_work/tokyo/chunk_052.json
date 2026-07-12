@@ -1,0 +1,370 @@
+[
+ {
+  "jmh_id": "JMH-132144-0001",
+  "name": "万葉植物園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "重要天然記念物(植物)",
+  "designation": "市指定",
+  "designated_date": "1964-01-15",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0003",
+  "name": "国分寺のコウヤマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "重要天然記念物(植物)",
+  "designation": "市指定",
+  "designated_date": "1964-01-15",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0006",
+  "name": "祥応寺のコナラガシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "重要天然記念物(植物)",
+  "designation": "市指定",
+  "designated_date": "1964-01-15",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0009",
+  "name": "国分寺薬師堂",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1976-10-07",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0008",
+  "name": "国分寺楼門",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1976-10-07",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0013",
+  "name": "本多良家奉古文書",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0012",
+  "name": "戸倉義助家古文書",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0010",
+  "name": "元元先野中新田検地帳",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0016",
+  "name": "武蔵新田義料金一件始末書",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0017",
+  "name": "篠北武蔵野新田義料金総末書",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0014",
+  "name": "村田誠日記",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0015",
+  "name": "武蔵新田立場の訴用場",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0011",
+  "name": "徳川将家守護袋等朱印状",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "1989-10-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0018",
+  "name": "伝鎌倉街道",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "重要史跡",
+  "designation": "市指定",
+  "designated_date": "1992-02-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0021",
+  "name": "立川ローム層第X層出土石器群",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2000-02-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0019",
+  "name": "川崎平右衛門翁及び勧告等中興山田供養塔",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(歴史資料)",
+  "designation": "市指定",
+  "designated_date": "2000-02-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0020",
+  "name": "疫病神の証の証文",
+  "category": "民俗文化財",
+  "subcategory": "重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2000-02-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0023",
+  "name": "縄玉製大玩具",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2003-02-27",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0022",
+  "name": "木造書見台「弘治二年」",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(歴史資料)",
+  "designation": "市指定",
+  "designated_date": "2003-02-27",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0025",
+  "name": "旧本多家住宅長屋門",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "2012-02-24",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0024",
+  "name": "家宝ひのきびくら",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "2012-02-24",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0027",
+  "name": "武蔵国分寺跡出土の小型海獣葡萄鏡盤",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2014-04-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0028",
+  "name": "武蔵国分寺跡出土の金銅製円形筒金具",
+  "category": "有形文化財",
+  "subcategory": "重要有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2014-04-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0026",
+  "name": "本多八幡神社の力石",
+  "category": "民俗文化財",
+  "subcategory": "重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2014-04-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0029",
+  "name": "西町五丁目の旧態散林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "重要天然記念物",
+  "designation": "市指定",
+  "designated_date": "2014-04-01",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0030",
+  "name": "恋ヶ窪村分水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "重要史跡",
+  "designation": "市指定",
+  "designated_date": "2017-12-04",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0031",
+  "name": "本多八幡神社神輿",
+  "category": "民俗文化財",
+  "subcategory": "重要有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2021-03-25",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-132144-0032",
+  "name": "中藤新田分水路",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "重要史跡",
+  "designation": "市指定",
+  "designated_date": "2022-09-30",
+  "municipality": "国分寺市"
+ },
+ {
+  "jmh_id": "JMH-133078-0014",
+  "name": "上元郷の囃子",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "designated_date": "2018-04-01",
+  "municipality": "檜原村",
+  "location": "上元郷"
+ },
+ {
+  "jmh_id": "JMH-133078-0016",
+  "name": "本宿の囃子",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "designated_date": "2018-04-01",
+  "municipality": "檜原村",
+  "location": "本宿"
+ },
+ {
+  "jmh_id": "JMH-133078-0018",
+  "name": "神戸の神輿渡御と囃子",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "designated_date": "2018-04-01",
+  "municipality": "檜原村",
+  "location": "神戸"
+ },
+ {
+  "jmh_id": "JMH-133078-0017",
+  "name": "桧原太鼓深山会",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "designated_date": "2018-04-01",
+  "municipality": "檜原村"
+ },
+ {
+  "jmh_id": "JMH-133078-0021",
+  "name": "大嶽神社の神輿渡御式",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "municipality": "檜原村",
+  "location": "三都郷"
+ },
+ {
+  "jmh_id": "JMH-133078-0023",
+  "name": "湯久保の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "municipality": "檜原村",
+  "location": "湯久保"
+ },
+ {
+  "jmh_id": "JMH-133078-0022",
+  "name": "樋里の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "municipality": "檜原村",
+  "location": "樋里"
+ },
+ {
+  "jmh_id": "JMH-133078-0020",
+  "name": "小澤の囃子",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "村指定",
+  "designated_date": "2021-11-01",
+  "municipality": "檜原村",
+  "location": "小沢"
+ },
+ {
+  "jmh_id": "JMH-133078-0011",
+  "name": "木造菩薩形座像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2009-02-02",
+  "municipality": "檜原村",
+  "location": "人里"
+ },
+ {
+  "jmh_id": "JMH-133078-0012",
+  "name": "木造軍荼明利明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2009-02-02",
+  "municipality": "檜原村",
+  "location": "人里"
+ },
+ {
+  "jmh_id": "JMH-133078-0010",
+  "name": "木造大威徳明王騎牛像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2009-02-02",
+  "municipality": "檜原村",
+  "location": "人里"
+ },
+ {
+  "jmh_id": "JMH-133078-0013",
+  "name": "木造金剛夜又明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "村指定",
+  "designated_date": "2009-02-02",
+  "municipality": "檜原村",
+  "location": "人里"
+ }
+]

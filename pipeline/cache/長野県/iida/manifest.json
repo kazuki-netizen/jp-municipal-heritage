@@ -1,0 +1,18 @@
+{
+  "3c5ef87d5e927b6b": {
+    "url": "https://www.city.iida.lg.jp/site/bunkazai/shitei-list.html",
+    "filename": "3c5ef87d5e927b6b.html",
+    "sha256": "75a5017885fab20c3033d23454e811276764b18c6585ae2e2d9780490d8cd6d5",
+    "fetched_at": "2026-07-12T04:27:27Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "058cecfffc32071d": {
+    "url": "https://www.city.iida.lg.jp/site/bunkazai/shitei-city.html",
+    "filename": "058cecfffc32071d.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T04:27:28Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}

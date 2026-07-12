@@ -1,0 +1,15 @@
+{
+ "1bf7559ccb38a71d": {
+  "url": "https://www.town.shinano.lg.jp/docs/833.html",
+  "filename": "1bf7559ccb38a71d.html",
+  "sha256": "3fdff181b066365936dd2a429a14878ba77473c5e03efce2267ae85963b893b8",
+  "fetched_at": "2026-07-12T04:28:51Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.town.shinano.lg.jp/docs/833.html": {
+  "file": "1bf7559ccb38a71d.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:40Z"
+ }
+}

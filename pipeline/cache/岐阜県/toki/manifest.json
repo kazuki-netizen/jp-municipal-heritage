@@ -1,0 +1,10 @@
+{
+  "5cdffc35f7010267": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212121-008",
+    "filename": "5cdffc35f7010267.bin",
+    "sha256": "c4b6e4c1a7551742da6738e44e128b0cecfeb84c6530d0d17ef56e462b0f01eb",
+    "fetched_at": "2026-07-12T05:59:50Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "eb59eb19c9a53c8b": {
+    "url": "https://www.city.nagaokakyo.lg.jp/0000015011.html",
+    "filename": "eb59eb19c9a53c8b.pdf",
+    "sha256": "e7ec3459c7ce8e7cdcf901e4b7138c5baffdbe8588d930be61b850a8edd4de94",
+    "fetched_at": "2026-07-12T06:25:42Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "491028601f457b31": {
+    "url": "https://www.city.nagaokakyo.lg.jp/cmsfiles/contents/0000015/15011/shiteibunkazai080325.pdf",
+    "filename": "491028601f457b31.pdf",
+    "sha256": "491028601f457b3115fbba7e014232bb6f9345e68c36a6194a4aacc84be14e38",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

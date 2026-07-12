@@ -1,0 +1,374 @@
+[
+ {
+  "jmh_id": "JMH-143626-0018",
+  "name": "篠窪麦打唄",
+  "category": "無形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0003",
+  "name": "上大井祭囃子",
+  "category": "無形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0021",
+  "name": "金手祭ばやし",
+  "category": "無形文化財",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0001",
+  "name": "ストーンサークル",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0010",
+  "name": "敷石住居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0020",
+  "name": "酒匂堰取入口跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0004",
+  "name": "二階堂政貞屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0019",
+  "name": "綱嶋家屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0006",
+  "name": "公孫樹（夫婦銀杏）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0007",
+  "name": "公孫樹（東福院の銀杏）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0015",
+  "name": "椎の木森（篠窪）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-143626-0002",
+  "name": "ムクロジ（稲荷社）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "municipality": "大井町"
+ },
+ {
+  "jmh_id": "JMH-142166-0002",
+  "name": "星谷寺文書（しょうこくじもんじょ）　四通",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1965-05-10",
+  "municipality": "座間市",
+  "location": "星谷寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0003",
+  "name": "鈴木家鍛冶文書（すずきけかじもんじょ）　四通",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "1966-05-17",
+  "municipality": "座間市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-142166-0023",
+  "name": "大矢家文書（おおやけもんじょ）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2004-10-08",
+  "municipality": "座間市",
+  "location": "大矢家"
+ },
+ {
+  "jmh_id": "JMH-142166-0024",
+  "name": "飯島家文書（いいじまけもんじょ）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "designated_date": "2004-10-08",
+  "municipality": "座間市",
+  "location": "飯島家"
+ },
+ {
+  "jmh_id": "JMH-142166-0008",
+  "name": "写経（紺紙金泥巻子仕立）",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "1968-03-27",
+  "municipality": "座間市"
+ },
+ {
+  "jmh_id": "JMH-142166-0026",
+  "name": "栗原学校扁額",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "designated_date": "2011-03-31",
+  "municipality": "座間市",
+  "location": "栗原学校跡"
+ },
+ {
+  "jmh_id": "JMH-142166-0005",
+  "name": "「相州住綱廣」銘 脇差",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1967-05-11",
+  "municipality": "座間市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-142166-0022",
+  "name": "「相州住周廣」銘 脇差",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2004-10-08",
+  "municipality": "座間市",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-142166-0014",
+  "name": "鐙（佐々木掛）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1969-06-24",
+  "municipality": "座間市",
+  "location": "円教寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0030",
+  "name": "北条藤菊丸棟札",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2020-12-25",
+  "municipality": "座間市",
+  "location": "鈴鹿明神社"
+ },
+ {
+  "jmh_id": "JMH-142166-0016",
+  "name": "釈迦如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971-03-30",
+  "municipality": "座間市",
+  "location": "心岩寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0007",
+  "name": "岩城常隆供養五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1967-05-11",
+  "municipality": "座間市",
+  "location": "心岩寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0009",
+  "name": "石造大日如来座像",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1968-03-27",
+  "municipality": "座間市",
+  "location": "個人宅地内"
+ },
+ {
+  "jmh_id": "JMH-142166-0011",
+  "name": "六字名号碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1969-06-24",
+  "municipality": "座間市",
+  "location": "宗仲寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0013",
+  "name": "蜻蛉灯篭",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1969-06-24",
+  "municipality": "座間市",
+  "location": "宗仲寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0018",
+  "name": "神変大菩薩碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1974-01-17",
+  "municipality": "座間市",
+  "location": "諏訪明神社"
+ },
+ {
+  "jmh_id": "JMH-142166-0020",
+  "name": "宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1978-12-23",
+  "municipality": "座間市",
+  "location": "星谷寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0025",
+  "name": "寺子屋師匠 保田安兵衛の供養塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-08-20",
+  "municipality": "座間市",
+  "location": "浄土寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0004",
+  "name": "鈴鹿横穴墓群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1967-03-27",
+  "municipality": "座間市",
+  "location": "入谷西"
+ },
+ {
+  "jmh_id": "JMH-142166-0017",
+  "name": "梨の木坂横穴墓群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1974-01-17",
+  "municipality": "座間市",
+  "location": "入谷西"
+ },
+ {
+  "jmh_id": "JMH-142166-0021",
+  "name": "鈴鹿遺跡（住居址及び遺跡包蔵地）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1982-01-25",
+  "municipality": "座間市",
+  "location": "鈴鹿明神社"
+ },
+ {
+  "jmh_id": "JMH-142166-0028",
+  "name": "相模野基線南端点",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2011-10-25",
+  "municipality": "座間市",
+  "location": "ひばりが丘一丁目"
+ },
+ {
+  "jmh_id": "JMH-142166-0027",
+  "name": "基線中間点",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2011-10-25",
+  "municipality": "座間市",
+  "location": "相模が丘二丁目"
+ },
+ {
+  "jmh_id": "JMH-142166-0001",
+  "name": "咲き分け散り椿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1965-05-10",
+  "municipality": "座間市",
+  "location": "星谷寺"
+ },
+ {
+  "jmh_id": "JMH-142166-0006",
+  "name": "大欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-05-11",
+  "municipality": "座間市",
+  "location": "護王姫社"
+ },
+ {
+  "jmh_id": "JMH-142166-0012",
+  "name": "桑 普通十文字種",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1969-06-24",
+  "municipality": "座間市",
+  "location": "個人宅地内"
+ },
+ {
+  "jmh_id": "JMH-142166-0019",
+  "name": "肉桂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1974-01-17",
+  "municipality": "座間市",
+  "location": "西栗原"
+ },
+ {
+  "jmh_id": "JMH-142166-0029",
+  "name": "椿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2012-11-19",
+  "municipality": "座間市",
+  "location": "座間市栗原"
+ }
+]

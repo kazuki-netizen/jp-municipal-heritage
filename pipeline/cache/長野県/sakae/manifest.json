@@ -1,0 +1,18 @@
+{
+  "cf1b2bd34e715174": {
+    "url": "http://www.vill.sakae.nagano.jp/docs/2681.html",
+    "filename": "cf1b2bd34e715174.html",
+    "sha256": "f577dbed7da910e833b27b18fa6baa18b25a33d5516016fd2ee24d9cda7adc9d",
+    "fetched_at": "2026-07-12T04:28:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "558adf7bcfa4e024": {
+    "url": "http://www.vill.sakae.nagano.jp/fs/4/1/4/6/9/_/__________________.pdf",
+    "filename": "558adf7bcfa4e024.pdf",
+    "sha256": "16315a3fd8c2766683b5d55610ba74cd4311c69e96e71d7829a5a9795111083d",
+    "fetched_at": "2026-07-12T04:28:54Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

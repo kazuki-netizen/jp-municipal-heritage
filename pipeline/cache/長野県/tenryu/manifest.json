@@ -1,0 +1,15 @@
+{
+ "b2914ed49fb07fad": {
+  "url": "https://www.vill-tenryu.jp/administrative/government_info/statistics/stat_cultur/stat_culture/",
+  "filename": "b2914ed49fb07fad.html",
+  "sha256": "be318c03427f660cac5d08829b7337fc6a84b880b458887d20da9e541af2c256",
+  "fetched_at": "2026-07-12T04:28:37Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.vill-tenryu.jp/administrative/government_info/statistics/stat_cultur/stat_culture/": {
+  "file": "b2914ed49fb07fad.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:03:00Z"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "97aaae79dfc0723a": {
+  "url": "https://www.minamiaiki.jp/bunkazai.htm",
+  "filename": "97aaae79dfc0723a.html",
+  "sha256": "bbabdfd8b47387258dc08db8289b84df48c7a7c235ae47dc3c827fad2f166b9a",
+  "fetched_at": "2026-07-12T04:27:44Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.minamiaiki.jp/bunkazai.htm": {
+  "file": "97aaae79dfc0723a.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:49Z"
+ }
+}

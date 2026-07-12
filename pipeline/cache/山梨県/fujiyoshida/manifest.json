@@ -1,0 +1,66 @@
+{
+  "99ad576e65cdc20f": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/1165.html",
+    "filename": "99ad576e65cdc20f.html",
+    "sha256": "d7303c9db8ed058e7612c3a32a54f9d3351b974434322ebd0b358e00727cdd96",
+    "fetched_at": "2026-07-12T03:46:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6701fcef79b1d711": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/1095.html",
+    "filename": "6701fcef79b1d711.html",
+    "sha256": "bd3a510be1bdee27918fc4ec3592a5c928e9b7503c26bbe073628dea4ac87a44",
+    "fetched_at": "2026-07-12T03:46:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9ca78bee6045b9c0": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/1096.html",
+    "filename": "9ca78bee6045b9c0.html",
+    "sha256": "6e6203242572e2b8334dc6301f1ec08eabbe98b754ddd21051124c9c29b6d5c1",
+    "fetched_at": "2026-07-12T03:46:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3bd9808e67f3fa51": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/1098.html",
+    "filename": "3bd9808e67f3fa51.html",
+    "sha256": "bf6e40b0f918f49064a38c15f7307fdeb341cd33e952f4d052a5402cb91100f9",
+    "fetched_at": "2026-07-12T03:46:35Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "aa86bbbaa7698804": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/1103.html",
+    "filename": "aa86bbbaa7698804.html",
+    "sha256": "db6f2a8cbb0c596a5d946081c9761bb0f428e146a1c2c213f5a4981664e14a10",
+    "fetched_at": "2026-07-12T03:46:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "29db496a3b77a0ba": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/12486.html",
+    "filename": "29db496a3b77a0ba.html",
+    "sha256": "2825c1e2ce375a31b5dacfd2fcafe83fea487ec0716eb3f814948332f91bbb13",
+    "fetched_at": "2026-07-12T03:46:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "97a2fc8216854619": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/1104.html",
+    "filename": "97a2fc8216854619.html",
+    "sha256": "55fa99567cbea6cef80e0106adfb3ee58029199e32af09390a6f4a996acd998d",
+    "fetched_at": "2026-07-12T03:46:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fdbdfb8bc61bf6de": {
+    "url": "https://www.city.fujiyoshida.yamanashi.jp/page/1107.html",
+    "filename": "fdbdfb8bc61bf6de.html",
+    "sha256": "d8be83ebf209c8e8f9410818e7520671c68cd8f5ed43a3381b39cce152b5d431",
+    "fetched_at": "2026-07-12T03:46:43Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

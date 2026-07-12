@@ -1,0 +1,18 @@
+{
+  "6e3eb3d53fe74b38": {
+    "url": "https://www.city.sanjo.niigata.jp/soshiki/shimimbu/shogaigakushuka/bunkazai/bunkazai/810.html",
+    "filename": "6e3eb3d53fe74b38.html",
+    "sha256": "33bd924708d71d0b045d27f46d3eb8ec200584f016980b853a7f53f76c7128e5",
+    "fetched_at": "2026-07-12T03:41:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d1f1e81e945378ee": {
+    "url": "https://www.city.sanjo.niigata.jp/soshiki/shimimbu/shogaigakushuka/bunkazai/bunkazai/1737.html",
+    "filename": "d1f1e81e945378ee.html",
+    "sha256": "3a6b7cbf33156ec0c80d226c77f8c05da9df8ffe16a648deaf9728972d580d14",
+    "fetched_at": "2026-07-12T03:41:18Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

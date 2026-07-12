@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-131113-0050",
+  "name": "総門の扁額",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0104",
+  "name": "馬具（鞍・鐙・轡）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "南馬込1-49-1 萬福寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0085",
+  "name": "柄香炉",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0092",
+  "name": "法華経（紺紙金泥写経）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（典籍）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0060",
+  "name": "一切経版本（天海版）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（典籍）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0088",
+  "name": "民政史料（加藤家文書）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "（個人蔵）"
+ },
+ {
+  "jmh_id": "JMH-131113-0071",
+  "name": "古文書（本門寺文書）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0072",
+  "name": "古文書（法養寺文書）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-19-25 法養寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0073",
+  "name": "古文書（照栄院文書）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-31-1 照栄院"
+ },
+ {
+  "jmh_id": "JMH-131113-0070",
+  "name": "古文書（本行寺文書）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上2-10-5 本行寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0089",
+  "name": "民政史料（北川家文書）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "（個人蔵）"
+ },
+ {
+  "jmh_id": "JMH-131113-0074",
+  "name": "古文書（石井家文書）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "（個人蔵）"
+ },
+ {
+  "jmh_id": "JMH-131113-0037",
+  "name": "森ヶ崎鉱泉源泉碑",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "大森南5-1-2 大森寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0034",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "大森東3-7-27 厳正寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0038",
+  "name": "池上道道標",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "大森中2-7-19 大林寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0030",
+  "name": "板碑群",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "大森中2-17-5 密乗院"
+ },
+ {
+  "jmh_id": "JMH-131113-0053",
+  "name": "鈴石・鳥石と江戸文人石碑群",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "大森北2-20-8 磐井神社"
+ },
+ {
+  "jmh_id": "JMH-131113-0033",
+  "name": "桃雲寺再興記念碑",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "山王3-26 根岸地蔵"
+ },
+ {
+  "jmh_id": "JMH-131113-0031",
+  "name": "板碑群",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "南馬込1-49-1 萬福寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0026",
+  "name": "日樹聖人供養塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "中央6-6-5 長勝寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0024",
+  "name": "日朗聖人墓塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0003",
+  "name": "前田利家室層塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0005",
+  "name": "加藤清正室層塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0025",
+  "name": "日樹聖人五輪塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0004",
+  "name": "加藤清正供養塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0058",
+  "name": "題目板碑",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上2-10-5 本行寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0032",
+  "name": "板碑群",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上2-10-5 本行寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0022",
+  "name": "新田神君之碑",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "矢口1-21-23 新田神社"
+ },
+ {
+  "jmh_id": "JMH-131113-0054",
+  "name": "開山供養塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "蒲田3-1-16 栄林寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0013",
+  "name": "妙安尼供養塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "蒲田4-18-15 妙安寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0093",
+  "name": "海難供養塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "大森東1-27"
+ },
+ {
+  "jmh_id": "JMH-131113-0087",
+  "name": "棟札",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "池上1-31-10 照栄院"
+ },
+ {
+  "jmh_id": "JMH-131113-0096",
+  "name": "狛犬",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "東六郷3-10-18 六郷神社"
+ },
+ {
+  "jmh_id": "JMH-131113-0069",
+  "name": "古川薬師道道標",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "西六郷2-33-10 安養寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0090",
+  "name": "水船（手水石）",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1975-03-19",
+  "municipality": "大田区",
+  "location": "西六郷2-52-1 宝幢院"
+ },
+ {
+  "jmh_id": "JMH-131113-0112",
+  "name": "石橋供養塔",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "石川町2-8 石川橋際緑地"
+ },
+ {
+  "jmh_id": "JMH-131113-0117",
+  "name": "銀杏折取禁制碑",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1976-02-25",
+  "municipality": "大田区",
+  "location": "西六郷2-33-10 安養寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0035",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "池上1-1-1 池上本門寺"
+ },
+ {
+  "jmh_id": "JMH-131113-0036",
+  "name": "梵鐘",
+  "category": "有形文化財",
+  "subcategory": "金石文",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "西六郷2-52-1 宝幢院"
+ },
+ {
+  "jmh_id": "JMH-131113-0041",
+  "name": "石川村郷倉",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "1974-02-02",
+  "municipality": "大田区",
+  "location": "石川町1-4-13（個人宅）"
+ }
+]

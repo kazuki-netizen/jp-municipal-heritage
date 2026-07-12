@@ -1,0 +1,18 @@
+{
+  "8860d69dc0600ba1": {
+    "url": "https://www.city.ono.hyogo.jp/soshikikarasagasu/kokokan/siteibunkazai/10049.html",
+    "filename": "8860d69dc0600ba1.html",
+    "sha256": "df67a913e93639242a14e2f728e593187ea6c92c4a8e886fcb8aa9d740ca98d9",
+    "fetched_at": "2026-07-12T06:32:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "36bfd830ef200b32": {
+    "url": "https://www.city.ono.hyogo.jp/soshikikarasagasu/kokokan/12028.html",
+    "filename": "36bfd830ef200b32.html",
+    "sha256": "6a8cd0ca5a97ac4375350d72e4e6fa23a422450e5dd7e796b33ba34ab9c43933",
+    "fetched_at": "2026-07-12T06:32:02Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

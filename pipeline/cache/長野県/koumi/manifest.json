@@ -1,0 +1,26 @@
+{
+  "600cb2a10718e73d": {
+    "url": "https://www.koumi-town.jp/office2/archives/education/bunkazai/post-15.html",
+    "filename": "600cb2a10718e73d.html",
+    "sha256": "fcb64c4c6c99f21ba24dbee7c9525662f2913f2fc282d28a951875e1189b46eb",
+    "fetched_at": "2026-07-12T04:27:21Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "27729b1c70399581": {
+    "url": "https://www.koumi-town.jp/office2/archives/files/pdf/6f2bda4d2e958509746acf77f0f1aff9542636cb.pdf",
+    "filename": "27729b1c70399581.pdf",
+    "sha256": "f7cc98116bff0fe7769697b9eae849d7b88c2008c6dd724d0af0a7b7be77c5b2",
+    "fetched_at": "2026-07-12T04:27:24Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "c504e0214640e442": {
+    "url": "https://www.koumi-town.jp/office2/archives/files/pdf/0e601f84bdee2994faf591b948f2beb4fcb485f0.pdf",
+    "filename": "c504e0214640e442.pdf",
+    "sha256": "df9bdfe0a2a4d2f7cacb357954678cf8b06b4b9d04f6bfab621541dc2ca48abf",
+    "fetched_at": "2026-07-12T04:27:26Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

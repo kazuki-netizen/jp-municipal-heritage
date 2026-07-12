@@ -1,0 +1,18 @@
+{
+  "71cfe37ba2ed6603": {
+    "url": "http://www.town.kawakita.ishikawa.jp/youran/about/map/historic_site.html",
+    "filename": "71cfe37ba2ed6603.html",
+    "sha256": "f48cf0b489e40b2dbf21848fce60e6d6bf9ce1f02ac005d11ffab80ae2e85b63",
+    "fetched_at": "2026-07-12T03:54:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "02a2f3fe3c07a66c": {
+    "url": "https://www.bunkazainavi.pref.ishikawa.lg.jp/result",
+    "filename": "02a2f3fe3c07a66c.html",
+    "sha256": "a6c0df49a7c68a061b23f4fce5bf41f70ed1b8fc29376f7fd14bd5478572a962",
+    "fetched_at": "2026-07-12T03:54:39Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

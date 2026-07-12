@@ -1,0 +1,18 @@
+{
+  "fbd84f7e8ea547e4": {
+    "url": "https://www.city.uonuma.lg.jp/page/2579.html",
+    "filename": "fbd84f7e8ea547e4.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:41:43Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "10f19985722b3ae3": {
+    "url": "https://www.city.uonuma.lg.jp/page/2578.html",
+    "filename": "10f19985722b3ae3.html",
+    "sha256": "674efaf963fa5d876d0b9665a3b7d8c7e39973aa9e22e52d8a44424cdd6d2f8a",
+    "fetched_at": "2026-07-12T03:41:45Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "c1609696236ed72a": {
+    "url": "https://www.city.fukuchiyama.lg.jp/soshiki/7/1169.html",
+    "filename": "c1609696236ed72a.pdf",
+    "sha256": "27062e15e8c14498ba45996d559f28625c45c2c0a1ba25d4bc4f54995a70c60a",
+    "fetched_at": "2026-07-12T06:25:39Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "be3a0d36abfdd2bc": {
+    "url": "https://www.city.fukuchiyama.lg.jp/uploaded/life/1169_110805_misc.pdf",
+    "filename": "be3a0d36abfdd2bc.pdf",
+    "sha256": "be3a0d36abfdd2bc3fc79c6208b051d21db4d964a0f14595b3842ef4eb9a259b",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "1628df0f52865043": {
+    "url": "https://www.city.fukuchiyama.lg.jp/uploaded/life/1169_110806_misc.pdf",
+    "filename": "1628df0f52865043.pdf",
+    "sha256": "1628df0f52865043c7e166bd12964fc9a58db809b9101b2acfdec1dbb938401f",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "12781f0177cefadf": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c213829-007",
+    "filename": "12781f0177cefadf.bin",
+    "sha256": "35884b3fb875f7dbedd464a41aa2bcac13edef2878501c70c0a649064dd4adff",
+    "fetched_at": "2026-07-12T06:00:23Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

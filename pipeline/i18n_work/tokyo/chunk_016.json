@@ -1,0 +1,400 @@
+[
+ {
+  "jmh_id": "JMH-131032-0009",
+  "name": "ヒュースケン墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1981-10-24",
+  "municipality": "港区",
+  "location": "南麻布4‐11‐25"
+ },
+ {
+  "jmh_id": "JMH-131032-0014",
+  "name": "伊澤蘭軒墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1982-10-30",
+  "municipality": "港区",
+  "location": "西麻布2‐21‐34"
+ },
+ {
+  "jmh_id": "JMH-131032-0029",
+  "name": "肥前佐賀藩主鍋島家墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1987-10-28",
+  "municipality": "港区",
+  "location": "元麻布1‐2‐12"
+ },
+ {
+  "jmh_id": "JMH-131032-0038",
+  "name": "日本近代初等教育発祥の地(小学第一校・源流院跡)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "区指定",
+  "designated_date": "1990-10-24",
+  "municipality": "港区",
+  "location": "芝公園1‐1"
+ },
+ {
+  "jmh_id": "JMH-131032-0015",
+  "name": "尾崎紅葉生誕の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "区指定",
+  "designated_date": "1982-10-30",
+  "municipality": "港区",
+  "location": "芝大門2‐7"
+ },
+ {
+  "jmh_id": "JMH-131032-0089",
+  "name": "永井荷風旧居「偏奇館」跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "区指定",
+  "designated_date": "2004-10-26",
+  "municipality": "港区",
+  "location": "六本木1‐6"
+ },
+ {
+  "jmh_id": "JMH-131032-0016",
+  "name": "大槻玄沢埋葬の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "区指定",
+  "designated_date": "1983-10-18",
+  "municipality": "港区",
+  "location": "高輪3‐16‐16"
+ },
+ {
+  "jmh_id": "JMH-131032-0110",
+  "name": "明和の大火死者供養墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "区指定",
+  "designated_date": "2010-10-27",
+  "municipality": "港区",
+  "location": "虎ノ門3‐25‐1"
+ },
+ {
+  "jmh_id": "JMH-131032-0096",
+  "name": "旧岩崎邸庭園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "区指定",
+  "designated_date": "2005-10-25",
+  "municipality": "港区",
+  "location": "六本木5‐11‐16"
+ },
+ {
+  "jmh_id": "JMH-131032-0005",
+  "name": "増上寺のカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1980-11-15",
+  "municipality": "港区",
+  "location": "芝公園4‐7‐35"
+ },
+ {
+  "jmh_id": "JMH-131032-0052",
+  "name": "氷川神社のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1994-09-27",
+  "municipality": "港区",
+  "location": "赤坂6‐10‐12"
+ },
+ {
+  "jmh_id": "JMH-133051-0007",
+  "name": "山祇社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字水口5785番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0004",
+  "name": "光明寺薬師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字細尾3521番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0008",
+  "name": "常福寺の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字平井字宮本3687番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0009",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字新井2435番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0006",
+  "name": "天正寺の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字新井2248番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0010",
+  "name": "東光院の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字平井字谷ノ入3963番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0005",
+  "name": "大般若波羅蜜多経",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字新井2281番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0012",
+  "name": "西光寺の板碑",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字平井字西本宿2281番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0011",
+  "name": "神明社の棟札",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字坂本7307番地4"
+ },
+ {
+  "jmh_id": "JMH-133051-0019",
+  "name": "志茂町の山車",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "1998-03-23",
+  "municipality": "日の出町",
+  "location": "大字平井1254番地1"
+ },
+ {
+  "jmh_id": "JMH-133051-0018",
+  "name": "加美町の山車",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "1998-03-23",
+  "municipality": "日の出町",
+  "location": "大字平井1295番地2"
+ },
+ {
+  "jmh_id": "JMH-133051-0017",
+  "name": "玉の内の獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1990-06-07",
+  "municipality": "日の出町",
+  "location": "大字大久野字玉の内8747番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0020",
+  "name": "重松流祭り囃子",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1998-03-23",
+  "municipality": "日の出町",
+  "location": "大字平井字三吉野宿通ほか"
+ },
+ {
+  "jmh_id": "JMH-133051-0021",
+  "name": "長井神田囃子",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1998-03-23",
+  "municipality": "日の出町",
+  "location": "大字大久野字長井"
+ },
+ {
+  "jmh_id": "JMH-133051-0016",
+  "name": "鹿の湯",
+  "category": "その他",
+  "subcategory": "旧跡",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字平井字谷戸3395番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0015",
+  "name": "高札場",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字平井字3945番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0014",
+  "name": "高原社のスギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字肝要4201番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0013",
+  "name": "赤保谷家のヒイラギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町"
+ },
+ {
+  "jmh_id": "JMH-133051-0002",
+  "name": "ヒメザゼンソウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "動植物",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "大字大久野字羽生1310番地"
+ },
+ {
+  "jmh_id": "JMH-133051-0001",
+  "name": "トウキョウサンショウウオ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "動植物",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "中部山麓地域"
+ },
+ {
+  "jmh_id": "JMH-133051-0003",
+  "name": "モリアオガエル",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "動植物",
+  "designation": "町指定",
+  "designated_date": "1978-09-01",
+  "municipality": "日の出町",
+  "location": "山間部地域"
+ },
+ {
+  "jmh_id": "JMH-133051-0022",
+  "name": "濵中家のサルスベリ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "2000-10-24",
+  "municipality": "日の出町"
+ },
+ {
+  "jmh_id": "JMH-133639-0006",
+  "name": "宝篋印塔と五輪塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "1987-09-25",
+  "municipality": "新島村",
+  "location": "新島村本村"
+ },
+ {
+  "jmh_id": "JMH-133639-0010",
+  "name": "謀計網の碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "1987-09-25",
+  "municipality": "新島村",
+  "location": "新島村本村長榮寺"
+ },
+ {
+  "jmh_id": "JMH-133639-0002",
+  "name": "式根島のまいまいず井戸",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1987-03-30",
+  "municipality": "新島村",
+  "location": "新島村式根島"
+ },
+ {
+  "jmh_id": "JMH-133639-0001",
+  "name": "向畑刑場跡",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1987-03-30",
+  "municipality": "新島村",
+  "location": "新島村本村"
+ },
+ {
+  "jmh_id": "JMH-133639-0003",
+  "name": "流人墓地",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1987-03-30",
+  "municipality": "新島村",
+  "location": "新島村本村"
+ },
+ {
+  "jmh_id": "JMH-133639-0011",
+  "name": "里川の水源",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1987-09-25",
+  "municipality": "新島村",
+  "location": "新島村本村"
+ },
+ {
+  "jmh_id": "JMH-133639-0012",
+  "name": "なまこ桟橋",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "2018-06-30",
+  "municipality": "新島村",
+  "location": "新島村式根島"
+ }
+]

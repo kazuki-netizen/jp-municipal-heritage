@@ -1,0 +1,26 @@
+{
+  "729a9fa861520b47": {
+    "url": "https://www.town.kamiichi.toyama.jp/page/2018.html",
+    "filename": "729a9fa861520b47.html",
+    "sha256": "40c532a997636ff82dab75ab882ea58402577616b587fd89555a24367d9e0c87",
+    "fetched_at": "2026-07-12T03:53:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "deadbac5c611049b": {
+    "url": "https://www.town.kamiichi.toyama.jp/page/2016.html",
+    "filename": "deadbac5c611049b.html",
+    "sha256": "6d6946b473e7987b5f2decafdbd7d113bf10063a836c45df3dc370626fe59f31",
+    "fetched_at": "2026-07-12T03:53:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fdcaf33352361df4": {
+    "url": "https://www.town.kamiichi.toyama.jp/page/2017.html",
+    "filename": "fdcaf33352361df4.html",
+    "sha256": "2bde3315c10c33657a21f80c289ae3efc473cf0620b4702bbd50343ace1c912e",
+    "fetched_at": "2026-07-12T03:53:56Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

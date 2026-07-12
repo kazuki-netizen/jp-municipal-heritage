@@ -1,0 +1,18 @@
+{
+  "c7bb6aaf221497eb": {
+    "url": "http://info.pref.fukui.jp/bunka/bunkazai/sitei/eiheijii/itiran.html",
+    "filename": "c7bb6aaf221497eb.html",
+    "sha256": "f9ae60907ccdb20ee6a47d3e57da16bb4a6db45aea9ac7e8371162cddeb55ad7",
+    "fetched_at": "2026-07-12T03:50:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b3cb8ab9b3f4136a": {
+    "url": "https://www.town.eiheiji.lg.jp/200/228/232/index.html",
+    "filename": "b3cb8ab9b3f4136a.html",
+    "sha256": "9e05d1048d306c230c7a5757beef21271597f1756c8a34e1ec1d92229dde449d",
+    "fetched_at": "2026-07-12T03:50:55Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

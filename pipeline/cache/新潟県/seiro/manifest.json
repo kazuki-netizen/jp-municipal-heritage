@@ -1,0 +1,18 @@
+{
+  "2ee6da0f508e68ed": {
+    "url": "https://www.town.seiro.niigata.jp/syakyou/17.html",
+    "filename": "2ee6da0f508e68ed.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:41:48Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "c1a916c687e72112": {
+    "url": "https://www.town.seiro.niigata.jp/1/15/2/8/1/522.html",
+    "filename": "c1a916c687e72112.html",
+    "sha256": "5620b2145078a712d83ac89909e8e3a2c696e33e2391a2deb7246aa3a38965f3",
+    "fetched_at": "2026-07-12T03:41:50Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

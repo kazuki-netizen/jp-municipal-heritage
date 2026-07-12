@@ -1,0 +1,18 @@
+{
+  "6e3603e7d8cdbfdc": {
+    "url": "https://www.city.higashihiroshima.lg.jp/kanko/bunka/4/higashihiroshimanobunnkazai/43604.html",
+    "filename": "6e3603e7d8cdbfdc.html",
+    "sha256": "111a3d24f758e4c20bc82a0c28ca1f4f26ad91abc219edf76dd0bdc058ea297a",
+    "fetched_at": "2026-07-12T07:07:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8c19d70a18b3465c": {
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/86/20250313bunkazailist.pdf",
+    "filename": "8c19d70a18b3465c.pdf",
+    "sha256": "c6670c670d871833173bbbdfa744b37d1df84bc1e63cd218a8cc09bd71dd2cde",
+    "fetched_at": "2026-07-12T07:07:30Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,392 @@
+[
+ {
+  "jmh_id": "JMH-131016-0077",
+  "name": "龍星閣旧蔵竹久夢二コレクション",
+  "category": "有形文化財",
+  "subcategory": "絵画・書跡",
+  "designation": "区指定",
+  "designated_date": "2022-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0079",
+  "name": "絹本墨書掛軸「日枝神社」 山岡鉄舟筆",
+  "category": "有形文化財",
+  "subcategory": "絵画・書跡",
+  "designation": "区指定",
+  "designated_date": "2024-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0067",
+  "name": "江戸城跡出土本丸関係資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "2014-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0032",
+  "name": "紀尾井町遺跡出土紀州藩邸関係資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "2000-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0064",
+  "name": "栖岸院跡出土資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "2013-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0047",
+  "name": "東京駅八重洲北口遺跡出土キリシタン関係資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "2006-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0008",
+  "name": "平河町遺跡出土資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1991-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0071",
+  "name": "有楽町一丁目遺跡出土松平藤井家関係資料",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "2016-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0073",
+  "name": "玉川上水の石枡・木樋（麹町三丁目2番地先出土）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "2018-04-01",
+  "municipality": "千代田区",
+  "location": "石枡：紀尾井町２　清水谷公園　木樋：日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0078",
+  "name": "江戸手描提灯文字入れ",
+  "category": "無形文化財",
+  "subcategory": "工芸技術",
+  "designation": "区指定",
+  "designated_date": "2023-04-01",
+  "municipality": "千代田区"
+ },
+ {
+  "jmh_id": "JMH-131016-0049",
+  "name": "下野皆川藩松平家墓所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2007-04-01",
+  "municipality": "千代田区",
+  "location": "麹町６－４－２　心法寺境内"
+ },
+ {
+  "jmh_id": "JMH-131016-0055",
+  "name": "旧井伊家中屋敷のイヌマキとカヤ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "2009-04-01",
+  "municipality": "千代田区",
+  "location": "紀尾井町４－１　ニューオータニ構内"
+ },
+ {
+  "jmh_id": "JMH-131016-0053",
+  "name": "遠藤家旧店舗・住宅主屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2008-04-01",
+  "municipality": "千代田区",
+  "location": "外神田２－１９　宮本公園内"
+ },
+ {
+  "jmh_id": "JMH-131016-0056",
+  "name": "糀室 附明治37年糀室之図",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2009-04-01",
+  "municipality": "千代田区",
+  "location": "外神田２－１８－１５　天野屋、日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0004",
+  "name": "日枝神社境内末社山王稲荷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1988-04-01",
+  "municipality": "千代田区",
+  "location": "永田町２－１０－５　日枝神社"
+ },
+ {
+  "jmh_id": "JMH-131016-0017",
+  "name": "平河天満宮銅鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1994-04-01",
+  "municipality": "千代田区",
+  "location": "平河町１－７－５　平河天満宮境内"
+ },
+ {
+  "jmh_id": "JMH-131016-0052",
+  "name": "嘉永四亥年九月神田明神祭礼御用留",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2008-04-01",
+  "municipality": "千代田区",
+  "location": "外神田２－１６－２　神田神社"
+ },
+ {
+  "jmh_id": "JMH-131016-0059",
+  "name": "神田亀住町文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2010-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0072",
+  "name": "旧神田区復興小学校建築関係文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2017-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0057",
+  "name": "御上洛御用留",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2010-04-01",
+  "municipality": "千代田区",
+  "location": "外神田２－１６－２　神田神社"
+ },
+ {
+  "jmh_id": "JMH-131016-0054",
+  "name": "原胤昭旧蔵資料",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2009-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0010",
+  "name": "日枝神社所蔵社務所日誌（寛永6年～明治10年）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "1991-04-01",
+  "municipality": "千代田区",
+  "location": "永田町２－１０－５　日枝神社"
+ },
+ {
+  "jmh_id": "JMH-131016-0009",
+  "name": "日枝神社所蔵朱印状 附 収納箱一式",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "1991-04-01",
+  "municipality": "千代田区",
+  "location": "永田町２－１０－５　日枝神社"
+ },
+ {
+  "jmh_id": "JMH-131016-0014",
+  "name": "万控帳",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "1993-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0075",
+  "name": "今川小路共同建築関係文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2020-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0035",
+  "name": "銅製燈籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "2001-04-01",
+  "municipality": "千代田区",
+  "location": "永田町２－１０－５　日枝神社境内"
+ },
+ {
+  "jmh_id": "JMH-131016-0025",
+  "name": "銅製梵鐘（大手町二丁目5番地先出土）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1997-04-01",
+  "municipality": "千代田区",
+  "location": "日比谷公園１－４　日比谷図書文化館"
+ },
+ {
+  "jmh_id": "JMH-131016-0028",
+  "name": "銅製梵鐘（心法寺）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1998-04-01",
+  "municipality": "千代田区",
+  "location": "麹町６－４－２　心法寺境内"
+ },
+ {
+  "jmh_id": "JMH-131016-0039",
+  "name": "文化二年奉納山王大権現神号扁額",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "2003-04-01",
+  "municipality": "千代田区",
+  "location": "永田町２－１０－５　日枝神社"
+ },
+ {
+  "jmh_id": "JMH-131016-0060",
+  "name": "山王大権現神号額 宝暦六年銘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "2011-04-01",
+  "municipality": "千代田区",
+  "location": "永田町２－１０－５　日枝神社"
+ },
+ {
+  "jmh_id": "JMH-131016-0029",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1999-04-01",
+  "municipality": "千代田区",
+  "location": "麹町６－４－２　心法寺"
+ },
+ {
+  "jmh_id": "JMH-132110-0008",
+  "name": "旧小平小川郵便局舎",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "天神町3-9-1 小平ふるさと村"
+ },
+ {
+  "jmh_id": "JMH-132110-0012",
+  "name": "海岸寺山門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "御幸町318 海岸寺境内"
+ },
+ {
+  "jmh_id": "JMH-132110-0009",
+  "name": "旧神山家住宅主屋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "天神町3-9-1 小平ふるさと村"
+ },
+ {
+  "jmh_id": "JMH-132110-0010",
+  "name": "旧鈴木家住宅穀櫃",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "天神町3-9-1 小平ふるさと村"
+ },
+ {
+  "jmh_id": "JMH-132110-0007",
+  "name": "旧小川家住宅玄関棟",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "天神町3-9-1 小平ふるさと村"
+ },
+ {
+  "jmh_id": "JMH-132110-0020",
+  "name": "鈴木稲荷神社本殿覆屋の鏝絵",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "鈴木町1-510 稲荷神社境内"
+ },
+ {
+  "jmh_id": "JMH-132110-0019",
+  "name": "鈴木稲荷神社境内の金刀比羅社の彫刻装飾",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "鈴木町1-510 稲荷神社境内"
+ },
+ {
+  "jmh_id": "JMH-132110-0005",
+  "name": "小金井桜樹碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "御幸町318 海岸寺境内"
+ },
+ {
+  "jmh_id": "JMH-132110-0016",
+  "name": "行幸松と行幸松の碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "municipality": "小平市",
+  "location": "御幸町 玉川上水沿い"
+ }
+]

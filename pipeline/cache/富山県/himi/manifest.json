@@ -1,0 +1,18 @@
+{
+  "ac7956216cd51f03": {
+    "url": "https://www.city.himi.toyama.jp/gyosei/soshiki/hakubutsukan/bunkazai/1740.html",
+    "filename": "ac7956216cd51f03.html",
+    "sha256": "ff81dc8a159e4466f9340638c4f041ad0f4b5079914a3de9667a54b132da6d8f",
+    "fetched_at": "2026-07-12T03:53:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "805ef378ae7ffe4e": {
+    "url": "https://www.city.himi.toyama.jp/material/files/group/31/himicitybunkazai2024.pdf",
+    "filename": "805ef378ae7ffe4e.pdf",
+    "sha256": "a4ed74401fd03910e83e985d1babb57f626e82384000ce7fd3f06620636111b6",
+    "fetched_at": "2026-07-12T04:46:47Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

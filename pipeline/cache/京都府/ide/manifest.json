@@ -1,0 +1,18 @@
+{
+  "6c272b4dc880e8b6": {
+    "url": "https://www.town.ide.kyoto.jp/soshiki/kyouikuiinkai/syakaikyouiku/bunkazai/1394792789452.html",
+    "filename": "6c272b4dc880e8b6.pdf",
+    "sha256": "709d66e05f07735b17b5d3950130f4c81c4b89903e3c3b25f0b48eb784f70edb",
+    "fetched_at": "2026-07-12T06:25:44Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "3c72dc91b45af348": {
+    "url": "https://www.town.ide.kyoto.jp/material/files/group/18/2-siteibunkazai.pdf",
+    "filename": "3c72dc91b45af348.pdf",
+    "sha256": "3c72dc91b45af348db02150c33e512f9e638154603ee93a3ffb283f3c6c57d8f",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

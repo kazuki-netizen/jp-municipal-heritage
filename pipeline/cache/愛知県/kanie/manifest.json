@@ -1,0 +1,18 @@
+{
+  "1ca4f5ee6201540a": {
+    "url": "https://www.town.kanie.aichi.jp/soshiki/18/bunnkazaiichirann.html",
+    "filename": "1ca4f5ee6201540a.html",
+    "sha256": "639e83159a8e268945e8bc4792da100456191f76cd0a0661dbdb920d242264b5",
+    "fetched_at": "2026-07-12T06:14:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dc19a8f97456b13c": {
+    "url": "https://www.town.kanie.aichi.jp/uploaded/attachment/16982.pdf",
+    "filename": "dc19a8f97456b13c.html",
+    "sha256": "5017d6182d2ed0d293466c2da0793ac9b1ef090aa1f5fc7b338e325fee460de6",
+    "fetched_at": "2026-07-12T06:14:28Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "44bcbe2f85cbd897": {
+    "url": "https://www.city.nirasaki.lg.jp/soshikiichiran/kyoikuka/bunkazaitanto/1_1/1/1337.html",
+    "filename": "44bcbe2f85cbd897.html",
+    "sha256": "56685e5155a856c8df73dda30a81da94049f2addaba4f01d735830ee96c6b9c8",
+    "fetched_at": "2026-07-12T03:46:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "627366e6e0abf707": {
+    "url": "https://www.city.nirasaki.lg.jp/soshikiichiran/kyoikuka/bunkazaitanto/1_1/3/1335.html",
+    "filename": "627366e6e0abf707.html",
+    "sha256": "21a145b22d71a0f3441c3b2facc5fe1529c936bea4ec8a15d9854064ea9709cb",
+    "fetched_at": "2026-07-12T03:46:51Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

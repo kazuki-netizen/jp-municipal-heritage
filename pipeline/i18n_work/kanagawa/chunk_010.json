@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-142018-0006",
+  "name": "内川新田開発記念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968-05-10",
+  "municipality": "横須賀市",
+  "location": "久里浜4丁目2015-33"
+ },
+ {
+  "jmh_id": "JMH-142018-0011",
+  "name": "朝倉能登守室墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-05-11",
+  "municipality": "横須賀市",
+  "location": "追浜神町1丁目27"
+ },
+ {
+  "jmh_id": "JMH-142018-0018",
+  "name": "伝三浦義明祠所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-10",
+  "municipality": "横須賀市",
+  "location": "大矢部1丁目5-10"
+ },
+ {
+  "jmh_id": "JMH-142018-0022",
+  "name": "薬王寺旧跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-10",
+  "municipality": "横須賀市",
+  "location": "大矢部1丁目216"
+ },
+ {
+  "jmh_id": "JMH-142018-0017",
+  "name": "伝三浦為継とその一党之廟所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-10",
+  "municipality": "横須賀市",
+  "location": "大矢部5丁目50"
+ },
+ {
+  "jmh_id": "JMH-142018-0019",
+  "name": "伝佐原義連廟所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-10",
+  "municipality": "横須賀市",
+  "location": "岩戸1丁目4-9"
+ },
+ {
+  "jmh_id": "JMH-142018-0039",
+  "name": "会津藩士塞地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1984-04-25",
+  "municipality": "横須賀市",
+  "location": "鴨居3丁目943"
+ },
+ {
+  "jmh_id": "JMH-142018-0065",
+  "name": "からうと山古墳跡及び周辺地域",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2008-03-10",
+  "municipality": "横須賀市",
+  "location": "光の丘2518一部他"
+ },
+ {
+  "jmh_id": "JMH-142018-0042",
+  "name": "一騎塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡及び民俗有形 有形民俗",
+  "designation": "市指定",
+  "designated_date": "1987-10-24",
+  "municipality": "横須賀市",
+  "location": "武3丁目211-4"
+ },
+ {
+  "jmh_id": "JMH-142018-0083",
+  "name": "大津古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2016-02-25",
+  "municipality": "横須賀市",
+  "location": "大津町3丁目53-1"
+ },
+ {
+  "jmh_id": "JMH-142018-0004",
+  "name": "モガシを含む自然林",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1967-04-20",
+  "municipality": "横須賀市",
+  "location": "西浦賀5丁目13"
+ },
+ {
+  "jmh_id": "JMH-142018-0040",
+  "name": "三浦枕状溶岩",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-04-25",
+  "municipality": "横須賀市",
+  "location": "平作6丁目（衣笠ー田浦線高架下）"
+ },
+ {
+  "jmh_id": "JMH-142018-0085",
+  "name": "馬堀自然教育園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2016-02-25",
+  "municipality": "横須賀市",
+  "location": "馬堀町4丁目40-2"
+ },
+ {
+  "jmh_id": "JMH-143014-0045",
+  "name": "森戸神社社殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1980-09-18",
+  "municipality": "葉山町",
+  "location": "堀内"
+ },
+ {
+  "jmh_id": "JMH-143014-0001",
+  "name": "石造五輪塔（猪俣・岡部両将の墓）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1967-09-09",
+  "municipality": "葉山町",
+  "location": "上山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0014",
+  "name": "石造五輪塔（平兼盛墓）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-05-01",
+  "municipality": "葉山町",
+  "location": "下山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0058",
+  "name": "一色前田の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1996-04-01",
+  "municipality": "葉山町",
+  "location": "一色"
+ },
+ {
+  "jmh_id": "JMH-143014-0020",
+  "name": "栗坪の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "上山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0022",
+  "name": "玉蔵院の庚申塔（A）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "一色"
+ },
+ {
+  "jmh_id": "JMH-143014-0023",
+  "name": "玉蔵院の庚申塔（B）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "一色"
+ },
+ {
+  "jmh_id": "JMH-143014-0024",
+  "name": "笠原商店前の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "長柄"
+ },
+ {
+  "jmh_id": "JMH-143014-0027",
+  "name": "長柄上の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "長柄"
+ },
+ {
+  "jmh_id": "JMH-143014-0021",
+  "name": "正吟の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "上山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0025",
+  "name": "脇町の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "堀内"
+ },
+ {
+  "jmh_id": "JMH-143014-0018",
+  "name": "実教寺の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "一色"
+ },
+ {
+  "jmh_id": "JMH-143014-0033",
+  "name": "長徳寺の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-01-14",
+  "municipality": "葉山町",
+  "location": "堀内"
+ },
+ {
+  "jmh_id": "JMH-143014-0034",
+  "name": "高祖坂の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-01-14",
+  "municipality": "葉山町",
+  "location": "木古庭"
+ },
+ {
+  "jmh_id": "JMH-143014-0030",
+  "name": "星山の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-01-14",
+  "municipality": "葉山町",
+  "location": "下山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0032",
+  "name": "神明社の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-01-14",
+  "municipality": "葉山町",
+  "location": "下山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0031",
+  "name": "森戸神社の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-01-14",
+  "municipality": "葉山町",
+  "location": "堀内"
+ },
+ {
+  "jmh_id": "JMH-143014-0017",
+  "name": "大沢の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "木古庭"
+ },
+ {
+  "jmh_id": "JMH-143014-0019",
+  "name": "寺前の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "上山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0015",
+  "name": "唐木作の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "上山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0016",
+  "name": "夜泣石脇の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "一色"
+ },
+ {
+  "jmh_id": "JMH-143014-0026",
+  "name": "茅木山の庚申塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1970-08-27",
+  "municipality": "葉山町",
+  "location": "下山口"
+ },
+ {
+  "jmh_id": "JMH-143014-0040",
+  "name": "木古庭馬頭観音菩薩座像（道標）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1976-06-17",
+  "municipality": "葉山町",
+  "location": "木古庭"
+ },
+ {
+  "jmh_id": "JMH-143014-0039",
+  "name": "堀内牛ヶ谷地蔵菩薩塔（道標）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1976-06-17",
+  "municipality": "葉山町",
+  "location": "堀内"
+ },
+ {
+  "jmh_id": "JMH-143014-0041",
+  "name": "長柄馬頭観音塔（道標）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1976-06-17",
+  "municipality": "葉山町",
+  "location": "長柄"
+ },
+ {
+  "jmh_id": "JMH-143014-0035",
+  "name": "顕彰碑（ベルツ博士・マルチィーノ公使）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1974-04-15",
+  "municipality": "葉山町",
+  "location": "堀内"
+ },
+ {
+  "jmh_id": "JMH-143014-0037",
+  "name": "木造大黒天",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1975-03-08",
+  "municipality": "葉山町",
+  "location": "木古庭"
+ }
+]

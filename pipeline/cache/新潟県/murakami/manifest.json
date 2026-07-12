@@ -1,0 +1,18 @@
+{
+  "bdb2453a2d8feeb4": {
+    "url": "https://www.city.murakami.lg.jp/soshiki/80/shi-shiteibunkazai.html",
+    "filename": "bdb2453a2d8feeb4.html",
+    "sha256": "ca9ecc57acab7df14fda642d515960ed203adad7c9eed66a266754ac4c2eb956",
+    "fetched_at": "2026-07-12T03:41:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "db021c69694dfe07": {
+    "url": "https://www.city.murakami.lg.jp/soshiki/80/shi-bunkazai.html",
+    "filename": "db021c69694dfe07.html",
+    "sha256": "9284fb033d0582ab4444cf26f197b51bf3b5e4964679f8133c0f89db9809fe38",
+    "fetched_at": "2026-07-12T03:41:24Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

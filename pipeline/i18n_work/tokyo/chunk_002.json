@@ -1,0 +1,382 @@
+[
+ {
+  "jmh_id": "JMH-131229-0022",
+  "name": "小合不動堂石灯籠 1基",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "東水元"
+ },
+ {
+  "jmh_id": "JMH-131229-0007",
+  "name": "人足幟",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "白鳥3-25-1郷土と天文の博物館"
+ },
+ {
+  "jmh_id": "JMH-131229-0079",
+  "name": "角柱三猿浮彫道標",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "高砂"
+ },
+ {
+  "jmh_id": "JMH-131229-0073",
+  "name": "舟形地蔵道標",
+  "category": "有形文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "東金町"
+ },
+ {
+  "jmh_id": "JMH-131229-0052",
+  "name": "柴又八幡神社の神獅子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "柴又"
+ },
+ {
+  "jmh_id": "JMH-131229-0094",
+  "name": "飯塚の富士講",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "南水元"
+ },
+ {
+  "jmh_id": "JMH-131229-0051",
+  "name": "柴又八幡神社の古墳石室",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "柴又"
+ },
+ {
+  "jmh_id": "JMH-131229-0008",
+  "name": "俳人 鈴木松什の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "東金町"
+ },
+ {
+  "jmh_id": "JMH-131229-0023",
+  "name": "小菅銭座跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "小菅"
+ },
+ {
+  "jmh_id": "JMH-131229-0097",
+  "name": "鬼塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "奥戸"
+ },
+ {
+  "jmh_id": "JMH-131229-0016",
+  "name": "堀切菖蒲園",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "堀切"
+ },
+ {
+  "jmh_id": "JMH-131229-0085",
+  "name": "金蓮院のラカンマキ 1株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "東金町"
+ },
+ {
+  "jmh_id": "JMH-131229-0015",
+  "name": "吉田家のクスノキ 1株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "東堀切"
+ },
+ {
+  "jmh_id": "JMH-131229-0095",
+  "name": "高木神社のイチョウ 1株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "西亀有"
+ },
+ {
+  "jmh_id": "JMH-131229-0043",
+  "name": "東水元熊野神社のタブノキ 2株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "東水元"
+ },
+ {
+  "jmh_id": "JMH-131229-0074",
+  "name": "葛西神社のイチョウ 3株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "東金町"
+ },
+ {
+  "jmh_id": "JMH-131229-0028",
+  "name": "新宿日枝神社のイチョウ 1株",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "municipality": "葛飾区",
+  "location": "新宿"
+ },
+ {
+  "jmh_id": "JMH-131091-0020",
+  "name": "品川神社石造鳥居並水盤",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川3-7-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0019",
+  "name": "品川神社石造燈籠",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川3-7-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0058",
+  "name": "紙本着色釈尊誕生変相図1幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1981-02-12",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0082",
+  "name": "紙本墨画淡彩蘆葉達磨図1幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1985-03-14",
+  "municipality": "品川区",
+  "location": "南品川4-2-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0083",
+  "name": "絹本着色羅漢図（龍虎羅漢図）双幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1985-03-14",
+  "municipality": "品川区",
+  "location": "南品川4-2-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0081",
+  "name": "紙本墨画文殊騎獅図1幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1985-03-14",
+  "municipality": "品川区",
+  "location": "南品川4-2-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0059",
+  "name": "阿弥陀如来坐像1躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1981-02-12",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0053",
+  "name": "法然上人坐像附　円光大師御真作月の輪御影略縁起1躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1981-02-12",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0074",
+  "name": "木造釈迦如来及両脇侍像3躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1984-02-16",
+  "municipality": "品川区",
+  "location": "南品川4-2-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0073",
+  "name": "伽藍神倚像1躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1984-02-16",
+  "municipality": "品川区",
+  "location": "南品川4-2-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0142",
+  "name": "銅造阿弥陀如来立像1躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "municipality": "品川区",
+  "location": "北品川2-3-12"
+ },
+ {
+  "jmh_id": "JMH-131091-0138",
+  "name": "木造不動三尊像3躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "municipality": "品川区",
+  "location": "北品川2-3-12"
+ },
+ {
+  "jmh_id": "JMH-131091-0109",
+  "name": "木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1992-03-10",
+  "municipality": "品川区",
+  "location": "南品川2-9-5"
+ },
+ {
+  "jmh_id": "JMH-131091-0123",
+  "name": "木造日蓮聖人坐像　附　像内納入造像願文　像内納入法華経",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "2006-04-25",
+  "municipality": "品川区",
+  "location": "南品川4-2-8"
+ },
+ {
+  "jmh_id": "JMH-131091-0134",
+  "name": "木造菩薩形坐像",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "2019-03-28",
+  "municipality": "品川区",
+  "location": "南品川4-4-2"
+ },
+ {
+  "jmh_id": "JMH-131091-0032",
+  "name": "東海寺梵鐘1口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川3-11-9"
+ },
+ {
+  "jmh_id": "JMH-131091-0067",
+  "name": "鏝絵天鈿女命功績図2面",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1982-02-10",
+  "municipality": "品川区",
+  "location": "東品川1-35-8"
+ },
+ {
+  "jmh_id": "JMH-131091-0141",
+  "name": "神輿1基",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "municipality": "品川区",
+  "location": "北品川3-7-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0114",
+  "name": "金赤色被桜文ガラス花瓶1瓶",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "2000-03-03",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0069",
+  "name": "日什筆曼荼羅1幅",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1983-03-12",
+  "municipality": "品川区",
+  "location": "南品川2-8-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0071",
+  "name": "日蓮消息文（上野女房御返事）1幅",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1983-03-12",
+  "municipality": "品川区",
+  "location": "南品川2-8-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0070",
+  "name": "日什諷誦文及び置文写1巻",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1983-03-12",
+  "municipality": "品川区",
+  "location": "南品川2-8-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0107",
+  "name": "妙蓮寺典籍",
+  "category": "有形文化財",
+  "subcategory": "典籍第2号",
+  "designation": "区指定",
+  "designated_date": "1992-03-10",
+  "municipality": "品川区",
+  "location": "南品川1-1-1"
+ }
+]

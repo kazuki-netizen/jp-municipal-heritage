@@ -1,0 +1,26 @@
+{
+  "0b7c92a699df43a8": {
+    "url": "https://www.city.fujinomiya.lg.jp/3010400000/p001902.html",
+    "filename": "0b7c92a699df43a8.html",
+    "sha256": "dadfaa266a6b7b61f36e990b2dd5023467de1cb334856a18d9af3fe397e1735c",
+    "fetched_at": "2026-07-12T03:51:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9a694778040899fd": {
+    "url": "https://www.city.fujinomiya.lg.jp/sp/citizen/llti2b00000014xn-att/visuf8000001z2mj.pdf",
+    "filename": "9a694778040899fd.pdf",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:51:22Z",
+    "http_status": 404,
+    "format": "pdf"
+  },
+  "4ee615d90d8a0971": {
+    "url": "https://www.city.fujinomiya.lg.jp/documents/1740/visuf8000001z2mj.pdf",
+    "filename": "list.pdf",
+    "sha256": null,
+    "fetched_at": "2026-07-12T13:40:00Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

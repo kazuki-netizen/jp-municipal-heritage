@@ -1,0 +1,18 @@
+{
+  "a0c470f6f6e420a7": {
+    "url": "https://www.city.uda.lg.jp/soshiki/41/1069.html",
+    "filename": "a0c470f6f6e420a7.html",
+    "sha256": "15bab41fc355322902f8608b4b7538413ffe1cf34682adf8beb94f5deff62f57",
+    "fetched_at": "2026-07-12T06:42:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "157bb34895c215b0": {
+    "url": "https://www.city.uda.lg.jp/bunkazai/kyouiku/bunka/bunkazai/shishitei.html",
+    "filename": "157bb34895c215b0.html",
+    "sha256": "f9298a1923ef14a4fdffd4e31d2dcf59f15f0b5b612e5d809208c04980a5c810",
+    "fetched_at": "2026-07-12T06:42:41Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

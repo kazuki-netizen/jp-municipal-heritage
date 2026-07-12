@@ -1,0 +1,34 @@
+{
+  "38ee63588fbf40df": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/10952.html",
+    "filename": "38ee63588fbf40df.html",
+    "sha256": "6ec9c06ab77281e3727bb03185ba3805116d868e70697dbb5fe2637ed8e7bb16",
+    "fetched_at": "2026-07-12T03:51:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "shitei_1002039": {
+    "url": "https://www.city.iwata.shizuoka.jp/sports_midokoro/bunkazai/bunkazainitsuite/1002039.html",
+    "filename": "shitei_1002039.html",
+    "note": "opendata.pref.shizuoka.jp/dataset/10952.htmlのCSV/XLSXは名称のみで分類・指定日欄が空だったため、WebSearchで発見した磐田市公式サイトの市指定文化財ページを別途取得（robots.txt許可済み）。抽出に使用したのはこちら。",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "222119_cultural_property.csv": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/10952/resource/84725/222119_cultural_property.csv",
+    "filename": "222119_cultural_property.csv",
+    "note": "参考取得。文化財分類・種類・指定日等の主要列が全行空で抽出に不使用。",
+    "fetched_at": "2026-07-12T04:50:00Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "iwata_bunkazai.xlsx": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/10952/resource/84723/iwata_bunkazai.xlsx",
+    "filename": "iwata_bunkazai.xlsx",
+    "note": "参考取得。CSVと同一データ（linkdata形式）で主要列空のため抽出に不使用。",
+    "fetched_at": "2026-07-12T04:50:00Z",
+    "http_status": 200,
+    "format": "xlsx"
+  }
+}

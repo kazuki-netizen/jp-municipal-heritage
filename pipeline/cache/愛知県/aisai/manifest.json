@@ -1,0 +1,18 @@
+{
+  "a03859cb1d22a720": {
+    "url": "https://www.city.aisai.lg.jp/0000011811.html",
+    "filename": "a03859cb1d22a720.html",
+    "sha256": "f49997572802c21e094b456cea6eb3f57f4d310c5111c685f20cd5c1b6bb9728",
+    "fetched_at": "2026-07-12T06:14:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "17c69fd2541973b1": {
+    "url": "https://www.city.aisai.lg.jp/cmsfiles/contents/0000011/11811/bunkazaiitiran.pdf",
+    "filename": "17c69fd2541973b1.pdf",
+    "sha256": "2b8ce997e13d28601ec9c661327a852cc99da05dbad00b85986f1bcec2f07dac",
+    "fetched_at": "2026-07-12T06:33:35Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

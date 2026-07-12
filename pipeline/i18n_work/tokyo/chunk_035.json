@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-131041-0022",
+  "name": "尾崎紅葉旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1985-03-01",
+  "municipality": "新宿区",
+  "location": "新宿区横寺町47"
+ },
+ {
+  "jmh_id": "JMH-131041-0023",
+  "name": "田村虎蔵旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1985-03-01",
+  "municipality": "新宿区",
+  "location": "新宿区筑土八幡町4-24"
+ },
+ {
+  "jmh_id": "JMH-131041-0024",
+  "name": "善国寺の毘沙門天像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1985-07-05",
+  "municipality": "新宿区",
+  "location": "新宿区神楽坂5丁目36 善国寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0027",
+  "name": "経王寺の大黒天像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1985-07-05",
+  "municipality": "新宿区",
+  "location": "新宿区原町1丁目14 経王寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0025",
+  "name": "恋川春町の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1985-07-05",
+  "municipality": "新宿区",
+  "location": "新宿区新宿2丁目15-18 成覚寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0026",
+  "name": "月岡芳年の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1985-07-05",
+  "municipality": "新宿区",
+  "location": "新宿区新宿6丁目20-9 専福寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0031",
+  "name": "法善寺の七面明神像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1985-08-02",
+  "municipality": "新宿区",
+  "location": "新宿区新宿6丁目20-6 法善寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0029",
+  "name": "旭地蔵",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "1985-08-02",
+  "municipality": "新宿区",
+  "location": "新宿区新宿2丁目15-18 成覚寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0028",
+  "name": "子供合埋碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "1985-08-02",
+  "municipality": "新宿区",
+  "location": "新宿区新宿2丁目15-18 成覚寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0032",
+  "name": "自性院の私年号板碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1985-08-02",
+  "municipality": "新宿区",
+  "location": "新宿区西落合1丁目11-23 自性院"
+ },
+ {
+  "jmh_id": "JMH-131041-0030",
+  "name": "月見岡八幡神社の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1985-08-02",
+  "municipality": "新宿区",
+  "location": "新宿区上落合1丁目26-19 月見岡八幡神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0033",
+  "name": "布袋像の水鉢",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1985-10-04",
+  "municipality": "新宿区",
+  "location": "新宿区西早稲田2丁目1-11 穴八幡宮"
+ },
+ {
+  "jmh_id": "JMH-131041-0034",
+  "name": "狛犬型庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1985-10-04",
+  "municipality": "新宿区",
+  "location": "新宿区北新宿3丁目16-18 鎧神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0035",
+  "name": "浄瑠璃坂の仇討跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1985-11-01",
+  "municipality": "新宿区",
+  "location": "新宿区市谷鷹匠町・払方町境 浄瑠璃坂上"
+ },
+ {
+  "jmh_id": "JMH-131041-0036",
+  "name": "国産飛行機発祥の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1985-12-06",
+  "municipality": "新宿区",
+  "location": "新宿区西五軒町12-10"
+ },
+ {
+  "jmh_id": "JMH-131041-0039",
+  "name": "須賀神社の三十六歌仙絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1986-03-07",
+  "municipality": "新宿区",
+  "location": "新宿区須賀町5-6 須賀神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0038",
+  "name": "太宗寺の閻魔像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1986-03-07",
+  "municipality": "新宿区",
+  "location": "新宿区新宿2丁目9-2 太宗寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0037",
+  "name": "太宗寺の奪衣婆像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1986-03-07",
+  "municipality": "新宿区",
+  "location": "新宿区新宿2丁目9-2 太宗寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0042",
+  "name": "馬水槽",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1986-06-06",
+  "municipality": "新宿区",
+  "location": "新宿区新宿3丁目38 ＪＲ新宿駅東口広場"
+ },
+ {
+  "jmh_id": "JMH-131041-0041",
+  "name": "大久保の犬御用屋敷跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-06-06",
+  "municipality": "新宿区",
+  "location": "新宿区若松町13 区立余丁町小学校"
+ },
+ {
+  "jmh_id": "JMH-131041-0040",
+  "name": "三遊亭円朝旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-06-06",
+  "municipality": "新宿区",
+  "location": "新宿区新宿1丁目21 区立花園公園"
+ },
+ {
+  "jmh_id": "JMH-131041-0043",
+  "name": "天龍寺の時の鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1986-08-01",
+  "municipality": "新宿区",
+  "location": "新宿区新宿4丁目3-19 天龍寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0045",
+  "name": "葛谷御霊神社の力石",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1986-08-01",
+  "municipality": "新宿区",
+  "location": "新宿区西落合2丁目17-17 葛谷御霊神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0044",
+  "name": "成子天神社の力石",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1986-08-01",
+  "municipality": "新宿区",
+  "location": "新宿区西新宿8丁目14-10 成子天神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0049",
+  "name": "太宗寺墓地出土品",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1986-10-03",
+  "municipality": "新宿区",
+  "location": "新宿区新宿2丁目9-2 太宗寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0048",
+  "name": "夏目漱石誕生の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-10-03",
+  "municipality": "新宿区",
+  "location": "新宿区喜久井町1"
+ },
+ {
+  "jmh_id": "JMH-131041-0047",
+  "name": "夏目漱石終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-10-03",
+  "municipality": "新宿区",
+  "location": "新宿区早稲田南町7 区立漱石公園・漱石山房記念館"
+ },
+ {
+  "jmh_id": "JMH-131041-0046",
+  "name": "便々館湖鯉鮒狂歌碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-10-03",
+  "municipality": "新宿区",
+  "location": "新宿区西新宿7丁目12-5 常圓寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0050",
+  "name": "天龍寺のやぐら時計",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1986-11-07",
+  "municipality": "新宿区",
+  "location": "新宿区新宿4丁目3-19 天龍寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0051",
+  "name": "永井荷風旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-11-07",
+  "municipality": "新宿区",
+  "location": "新宿区余丁町14-3・4"
+ },
+ {
+  "jmh_id": "JMH-131041-0052",
+  "name": "市谷亀岡八幡宮の銅鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1987-01-30",
+  "municipality": "新宿区",
+  "location": "新宿区市谷八幡町15 市谷亀岡八幡宮"
+ },
+ {
+  "jmh_id": "JMH-131041-0054",
+  "name": "演劇博物館",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1987-03-12",
+  "municipality": "新宿区",
+  "location": "新宿区西早稲田1丁目6 早稲田大学"
+ },
+ {
+  "jmh_id": "JMH-131041-0053",
+  "name": "大隈重信銅像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1987-03-12",
+  "municipality": "新宿区",
+  "location": "新宿区西早稲田1丁目6 早稲田大学"
+ },
+ {
+  "jmh_id": "JMH-131041-0055",
+  "name": "イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1987-04-03",
+  "municipality": "新宿区",
+  "location": "新宿区原町2丁目20 幸国寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0056",
+  "name": "長善寺（笹寺）のめのう観音像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1987-06-05",
+  "municipality": "新宿区",
+  "location": "新宿区四谷4丁目4 長善寺(笹寺)"
+ },
+ {
+  "jmh_id": "JMH-131041-0057",
+  "name": "雨乞のむしろ旗",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1987-06-05",
+  "municipality": "新宿区",
+  "location": "新宿区中井2丁目29-16 中井御霊神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0058",
+  "name": "高田馬場の流鏑馬",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1988-03-04",
+  "municipality": "新宿区",
+  "location": "新宿区西早稲田2丁目1-11 穴八幡宮"
+ },
+ {
+  "jmh_id": "JMH-131041-0061",
+  "name": "鬼王神社の水鉢",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1988-08-05",
+  "municipality": "新宿区",
+  "location": "新宿区歌舞伎町2丁目17-5 稲荷鬼王神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0059",
+  "name": "中井御霊神社の備射祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1988-08-05",
+  "municipality": "新宿区",
+  "location": "新宿区中井2丁目29-16 中井御霊神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0060",
+  "name": "葛谷御霊神社の備謝祭",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1988-08-05",
+  "municipality": "新宿区",
+  "location": "新宿区西落合2丁目17-17 葛谷御霊神社"
+ }
+]

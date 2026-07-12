@@ -1,0 +1,18 @@
+{
+  "dec5b9050a96d8eb": {
+    "url": "https://www.town.hyogo-taishi.lg.jp/soshikikarasagasu/syakyou/bunnkazai/syoukai/1534403746540.html",
+    "filename": "dec5b9050a96d8eb.html",
+    "sha256": "31441e62d0feb122e8132e7c46f80c44ab6568ef7d0c01e4979014649fd688e7",
+    "fetched_at": "2026-07-12T06:32:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1ac60f3291410e21": {
+    "url": "https://www.town.hyogo-taishi.lg.jp/soshikikarasagasu/syakyou/bunnkazai/syoukai/choushitei/index.html",
+    "filename": "1ac60f3291410e21.html",
+    "sha256": "88963c6424723cb4f830d12f38799dd09b93fa6caa30b47cc1b6c98609f03c07",
+    "fetched_at": "2026-07-12T06:32:12Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

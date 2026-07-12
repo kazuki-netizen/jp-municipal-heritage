@@ -1,0 +1,18 @@
+{
+  "90815221836cdc56": {
+    "url": "https://www.city.toyama.lg.jp/bunka/bunka/1010546/1007457.html",
+    "filename": "90815221836cdc56.html",
+    "sha256": "9894983bd5b6d56c95ceeadba9f0496054f4b5c698a4c0facada60beddae0687",
+    "fetched_at": "2026-07-12T03:53:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "171a7a5b3f551d4e": {
+    "url": "https://www.city.toyama.lg.jp/_res/projects/default_project/_page_/001/007/457/bunkazaiichiran.pdf",
+    "filename": "171a7a5b3f551d4e.pdf",
+    "sha256": "40c1fb4b814b75db767ed2507a38ac3185dad6f03a290f2e27285792fa267989",
+    "fetched_at": "2026-07-12T04:38:30Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

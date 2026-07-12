@@ -1,0 +1,18 @@
+{
+  "83b4a16fd9b261bd": {
+    "url": "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkazai/estate/bunkazai/index.html",
+    "filename": "83b4a16fd9b261bd.html",
+    "sha256": "1bd2a0a762dc08fc739054e85f66c43ca42ed80f1dbc001aa4d30efe85b9a313",
+    "fetched_at": "2026-07-12T06:31:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0a748ac378512af6": {
+    "url": "https://www.city.kobe.lg.jp/documents/55175/tiikikeikaku.pdf",
+    "filename": "0a748ac378512af6.pdf",
+    "sha256": "588944318349f4ca18dc3b9fbf168cce03458e21bc358f6f38849f5982dd7e45",
+    "fetched_at": "2026-07-12T06:31:40Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "7e77ca220e76d6f2": {
+    "url": "https://www.town.kumano.hiroshima.jp/www/contents/1721611281093/files/11.pdf",
+    "filename": "7e77ca220e76d6f2.pdf",
+    "sha256": null,
+    "fetched_at": "2026-07-12T07:07:46Z",
+    "http_status": "error:ConnectionError",
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "783f1b1525eed9b7": {
+    "url": "https://culture-archives.city.nanto.toyama.jp/culture/culture_category/bunkazai/",
+    "filename": "783f1b1525eed9b7.html",
+    "sha256": "d34625d6c9b7b7885293dc7927922947eed44b253b2375346c37292115129fb4",
+    "fetched_at": "2026-07-12T03:53:47Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "06dd35b861358a8f": {
+    "url": "https://culture-archives.city.nanto.toyama.jp/culture/culture_category/bunkazai/?specified%5B%5D=市指定&search=bunkazai",
+    "filename": "06dd35b861358a8f.html",
+    "sha256": "ddec38448c0893203758a19fabf8f34aa75dc8788a9599e90c7538940e212a0f",
+    "fetched_at": "2026-07-12T03:53:49Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

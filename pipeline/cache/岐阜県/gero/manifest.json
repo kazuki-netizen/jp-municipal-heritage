@@ -1,0 +1,10 @@
+{
+  "10e0b6d1f6d3fb44": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212202-008",
+    "filename": "10e0b6d1f6d3fb44.bin",
+    "sha256": "5c85b346ac41cd8452dde572d307d4e66c5e915b00d65a379c336ac87a40933c",
+    "fetched_at": "2026-07-12T06:00:06Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

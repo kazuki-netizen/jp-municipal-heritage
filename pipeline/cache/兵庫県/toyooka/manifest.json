@@ -1,0 +1,18 @@
+{
+  "19c84829c448bc99": {
+    "url": "https://www.city.toyooka.lg.jp/1019810/1019854/1019859/1001409.html",
+    "filename": "19c84829c448bc99.html",
+    "sha256": "5aeb707c90b40edb7cf8830ddea3e48e32ec0d51650c6bea3a6adca06c3d8517",
+    "fetched_at": "2026-07-12T06:31:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "76d75ba088e1fd7e": {
+    "url": "https://www.city.toyooka.lg.jp/_res/projects/default_project/_page_/001/037/982/bunkazai_chiiki01.pdf",
+    "filename": "76d75ba088e1fd7e.pdf",
+    "sha256": null,
+    "fetched_at": "2026-07-12T06:31:47Z",
+    "http_status": 404,
+    "format": "pdf"
+  }
+}

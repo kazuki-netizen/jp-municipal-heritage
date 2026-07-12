@@ -1,0 +1,18 @@
+{
+  "e89aebb3a1413ea4": {
+    "url": "https://www.town.minamiise.lg.jp/admin/shoshiki/kyouikuiinkai/bunkazai/584.html",
+    "filename": "e89aebb3a1413ea4.html",
+    "sha256": "2cf25a8bbf7553b9fcf752d3ddb1c2502000ee886b7bf767697baf3b7fe8bc26",
+    "fetched_at": "2026-07-12T06:14:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a3e3c57b6e4efccc": {
+    "url": "https://www.town.minamiise.lg.jp/admin/shoshiki/kyouikuiinkai/bunkazai/576.html",
+    "filename": "a3e3c57b6e4efccc.html",
+    "sha256": "219abe6edfe40510b9f43847b69abe9d3660bdde4cb35bafbe48055741ee3bde",
+    "fetched_at": "2026-07-12T06:14:07Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

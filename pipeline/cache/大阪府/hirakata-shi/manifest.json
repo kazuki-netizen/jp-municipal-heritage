@@ -1,0 +1,18 @@
+{
+  "b20f7d0de786898c": {
+    "url": "https://www.city.hirakata.osaka.jp/0000027756.html",
+    "filename": "b20f7d0de786898c.bin",
+    "sha256": "6d4bc76616f806b3b1fd5c2511108484b40de1685de71537cb3eb142c59bf54b",
+    "fetched_at": "2026-07-12T06:57:03Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "7fc6c80029155004": {
+    "url": "https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000027/27756/hira-siteibun.csv",
+    "filename": "7fc6c80029155004.bin",
+    "sha256": "52033457767893b4a0468209370757d7f44b41ea61a8dd6f10877d17e96896e1",
+    "fetched_at": "2026-07-12T06:57:05Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

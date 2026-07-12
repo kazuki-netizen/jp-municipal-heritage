@@ -1,0 +1,18 @@
+{
+  "96eb0c18029d6802": {
+    "url": "https://www.city.ikeda.osaka.jp/material/files/group/29/siteibunkazai.pdf",
+    "filename": "96eb0c18029d6802.pdf",
+    "sha256": "33105f79bae79bf2899bc0f9dd8c35f8e860b9f2cf3f052a957d74a989379bfa",
+    "fetched_at": "2026-07-12T06:56:58Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "b0522b3b3ba6ac0f": {
+    "url": "https://www.city.ikeda.osaka.jp/soshiki/kyoikuiinkai/shakaikyoiku/bunkazai/1605511511827.html",
+    "filename": "b0522b3b3ba6ac0f.pdf",
+    "sha256": "bb5a99c8af45b5a8a5e84f91b00421a101fef9fae146e453b16733e61948a682",
+    "fetched_at": "2026-07-12T06:57:00Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

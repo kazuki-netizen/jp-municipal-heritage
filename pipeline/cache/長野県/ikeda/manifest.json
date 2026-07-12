@@ -1,0 +1,18 @@
+{
+  "a71f0c9bfcab01f1": {
+    "url": "https://www.ikedamachi.net/iju/category/13-2-2-0-0-0-0-0-0-0.html",
+    "filename": "a71f0c9bfcab01f1.html",
+    "sha256": "e5900c1daaebea9c590143335c4726f19f15900e9f154f081dd8c05f8495fb25",
+    "fetched_at": "2026-07-12T04:28:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d3bb648268b39559": {
+    "url": "https://www.ikedamachi.net/iju/0000000358.html",
+    "filename": "d3bb648268b39559.html",
+    "sha256": "9435b98685ee489633bb4ba0cffe1fadb142126afa22fd54e4ee9b3292aeb8c2",
+    "fetched_at": "2026-07-12T04:28:44Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

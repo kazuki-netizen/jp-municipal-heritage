@@ -1,0 +1,18 @@
+{
+  "04bb0fdda4ad2d8c": {
+    "url": "https://www.town.noto.lg.jp/kakuka/1012/gyomu/kyouikufront/gyoumuannai/rekishibunka/rekishibunkazai/4804.html",
+    "filename": "04bb0fdda4ad2d8c.html",
+    "sha256": "25b1574e8b3fdb2a9dab6779b86babdc2b144b0b87b002862fd74875cba8ab85",
+    "fetched_at": "2026-07-12T03:54:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "940cb419ea65da8d": {
+    "url": "https://www.town.noto.lg.jp/material/files/group/13/0000021240.pdf",
+    "filename": "940cb419ea65da8d.pdf",
+    "sha256": "605b783020e525c7b67ef4eac173418c3e5468edefe3b7f89ecadce493884c9c",
+    "fetched_at": "2026-07-12T03:55:26Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

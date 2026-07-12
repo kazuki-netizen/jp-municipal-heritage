@@ -1,0 +1,34 @@
+{
+  "0524e203625569dc": {
+    "url": "https://www.city.minami-alps.yamanashi.jp/kankou/rekishi/shishitei/",
+    "filename": "0524e203625569dc.html",
+    "sha256": "09bce8f2b1f5c5d53d5460216998cc9a220968fb754be0528a39f242c891b115",
+    "fetched_at": "2026-07-12T03:46:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4cf23994c4e4265f": {
+    "url": "https://www.city.minami-alps.yamanashi.jp/docs/1574.html",
+    "filename": "4cf23994c4e4265f.html",
+    "sha256": "3a6abc06ba5ddd213a25da40c7a290b74dfb7583913b1be200d164fb746645d6",
+    "fetched_at": "2026-07-12T03:46:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4f092e4d5e2a050f": {
+    "url": "https://www.city.minami-alps.yamanashi.jp/kankou/rekishi/kenshitei/shiseki/",
+    "filename": "4f092e4d5e2a050f.html",
+    "sha256": "f6ee94026e961cd4255441fbf9a842d4cb2db7766c01ab95c8fbc51ebac695a0",
+    "fetched_at": "2026-07-12T03:46:55Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7b1e9ec637ab6278": {
+    "url": "https://www.city.minami-alps.yamanashi.jp/kankou/rekishi/kenshitei/kenzoubutsu/",
+    "filename": "7b1e9ec637ab6278.html",
+    "sha256": "f867629b5c4cd224845ba57d1e26a6d185991c24a29bd4a579222f8a3cde940b",
+    "fetched_at": "2026-07-12T03:46:57Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

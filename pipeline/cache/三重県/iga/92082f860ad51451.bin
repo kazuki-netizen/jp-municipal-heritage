@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="ja" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="ja"  > <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="csrf_field_name" content="_csrf_token" />
+      <meta name="_csrf_token" content="ImUxZjNiZmIxN2NlZWY1OGMwYjRhMTFhMThhOWEzNDljMjkzZjI2ZjIi.alMwnw.Ej29dvBjnAGFaNOCbesKNvtMoMQ" />
+
+      <meta name="generator" content="ckan 2.11.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【三重県伊賀市】文化財一覧 - 2024(令和6)年5月15日現在伊賀市内文化財一覧(xlsx) - CKAN</title>
+
+    
+    
+    <link rel="shortcut icon" href="/base/images/ckan.ico" />
+    
+    
+        
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BDK548J9MN"></script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+
+     
+         gtag('set', 'linker');
+
+         gtag('js', new Date());
+
+         gtag('config', 'G-BDK548J9MN', {
+             anonymize_ip: true,
+             linker: {
+                 domains: []
+             }
+         });
+     
+
+     
+     
+
+    </script>
+
+
+    
+
+    
+  
+  
+      
+      
+      
+    
+  
+
+  <link rel="stylesheet" href="/responsive.css" type="text/css" media="screen, print" />
+
+  
+      <link rel="stylesheet" type="text/css" href="/242161.css" onerror="this.onerror=null;this.href='/bodik_odcs.css';" />
+  
+  <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=1.7.1'></script>
+  <script type="text/javascript" src="https://odcs.bodik.jp/wp-content/themes/bodik_odcs/jquery/scrolltopcontrol.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="/vendor/font-awesome-3/css/font-awesome.min.css" />
+
+    
+    
+
+
+    
+    <link href="/webassets/base/51d427fe_main.css" rel="stylesheet"/>
+<link href="/webassets/ckanext-activity/8dd77216_activity.css" rel="stylesheet"/>
+<link href="/webassets/ckanext-geoview/f197a782_geo-resource-styles.css" rel="stylesheet"/>
+    
+  
+    
+
+
+
+
+  
+  <meta property="og:title" content="【三重県伊賀市】文化財一覧 - 2024(令和6)年5月15日現在伊賀市内文化財一覧(xlsx) - CKAN">
+  <meta property="og:description" content="2024年(令和6)年5月15日現在の伊賀市内文化財一覧です。">
+
+
+  </head>
+
+  
+  <body data-site-root="https://data.bodik.jp/" data-locale-root="https://data.bodik.jp/" >
+
+    
+    
+        
+    
+
+    
+    <div class="visually-hidden-focusable"><a href="#content">Skip to main content</a></div>
+  
+
+  
+    
+
+
+      
+        
+      
+
+
+<!-- ヘッダー -->
+<header id="header">
+
+<!-- ヘッダー中身 -->
+<div class="header-inner">
+
+<!-- ロゴ -->
+<h1 class="logo">
+
+<a href="https://odcs.bodik.jp/242161/" title="242161"><img src="https://odcs.bodik.jp/images/242161/logo.gif" alt="242161のイメージ" onerror="this.onerror=null;this.src='https://odcs.bodik.jp/images/logo.gif';" ></a>
+
+</h1>
+<!-- / ロゴ -->
+
+<!-- トップナビゲーション -->
+<div class="topinfo">
+<nav id="infonav" class="info-navigation" role="navigation">
+</nav>
+<!-- サーチ -->
+<div class="search">
+
+<form action="https://data.bodik.jp/organization/242161" method="get">
+<input id="field-sitewide-search" name="q" type="text" onfocus="if(this.value=='データセットを検索') this.value='';" onblur="if(this.value=='') this.value='データセットを検索';" value="データセットを検索" />
+<button type="submit"></button>
+
+<!-- CKANデータセットの数を取得 -->
+<div class="search_txt">
+
+    
+        15件のデータセットから検索可能です
+    
+
+</div>
+</form>
+</div><!--?php get_search_form(); ?-->
+<!-- / サーチ -->
+</div>
+<!-- //トップナビゲーション -->
+
+</div>
+<!-- / ヘッダー中身 -->
+
+</header>
+<!-- / ヘッダー -->
+<div class="clear"></div>
+
+<!-- トップナビゲーション -->
+<div class="nav_wrap">
+<nav id="nav" class="main-navigation" role="navigation">
+<div class="menu-topnav-container">
+<ul id="menu-topnav" class="nav-menu">
+
+    
+        
+            <li id="menu-item-2" class="nav02 current-menu-item current-page-item menu-item-2">
+            <a href="https://data.bodik.jp/organization/242161">データセット</a></li>
+            <li id="menu-item-3" class="nav03 menu-item-3">
+            <a href="https://odcs.bodik.jp/242161/category/">カテゴリー</a></li>
+            <li id="menu-item-4" class="nav04 menu-item-4">
+            <a href="https://odcs.bodik.jp/242161/info/">お知らせ</a></li>
+            <li id="menu-item-5" class="nav05 menu-item-5">
+            <a href="https://odcs.bodik.jp/242161/app/">活用事例</a></li>
+            <li id="menu-item-6" class="nav06 menu-item-6">
+            <a href="https://odcs.bodik.jp/242161/tos/">利用規約</a></li>
+            <li id="menu-item-7" class="nav07 menu-item-7">
+            <a href="https://odcs.bodik.jp/242161/about/">サイトについて</a></li>
+            <li id="menu-item-8" class="nav08 menu-item-8">
+            <a href="https://odcs.bodik.jp/242161/contact/">お問い合わせ</a></li>
+            <li id="menu-item-9" class="nav09 menu-item-9">
+            <a href="https://maps.bodik.jp/242161">オープンデータマップ</a></li>
+        
+    
+
+</ul></div></nav>
+
+</div>
+<!-- / トップナビゲーション -->
+<div class="clear"></div>
+
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+
+            </div>
+          
+
+          <div class="row wrapper">
+            
+            
+  
+    <section class="module module-resource" role="complementary">
+      
+      <div class="module-content">
+        <div class="actions">
+          
+            <ul class="d-flex flex-wrap gap-1 justify-content-end">
+              
+  
+  
+  
+    
+  
+  
+    <li>
+    <a class="like-button btn btn-primary">
+      <i id="like-icon"class="like-icon fa-solid fa-thumbs-up "></i>
+        <span id="like-count" class="like-count">0</span>
+    </a>
+    <input type="hidden" id="resource-id" value="2a3c620e-d01c-417f-bedb-338528ea0b4d">
+  </li>
+  
+  <li>
+    
+      
+        
+          
+            
+              <a class="btn btn-primary resource-url-analytics download-modal-show" href="/dataset/9fad181f-d567-4563-bce1-1e2fc0f5559b/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d/download?user-download=true" title="https://data.bodik.jp/dataset/9fad181f-d567-4563-bce1-1e2fc0f5559b/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d/download/242161_cultural_property20240515.xlsx" download>
+                <i class="fa fa-arrow-circle-down"></i> ダウンロード
+              </a>
+            
+          
+        
+      
+      
+
+
+    
+  </li>
+  
+    <li>
+      <a class="btn btn-primary resource-url-analytics resource-type-None" href="/utilization/new?package_name=242161_cultural_property&amp;resource_id=2a3c620e-d01c-417f-bedb-338528ea0b4d&amp;return_to_resource=True">
+        <i class="fa-solid fa-seedling"></i> 利活用方法登録申請
+      </a>
+    </li>
+  
+  
+    <li>
+      <a class="btn btn-primary resource-url-analytics resource-type-None" href="/resource_comment/2a3c620e-d01c-417f-bedb-338528ea0b4d">
+        <i class="fa-solid fa-comment-dots"></i> コメント
+      </a>
+    </li>
+  
+
+  
+
+          </ul>
+          
+        </div>
+        
+          <h1 class="page-heading" title="2024(令和6)年5月15日現在伊賀市内文化財一覧(xlsx)">2024(令和6)年5月15日現在伊賀市内文化財一覧(xlsx)</h1>
+          
+  
+    <p class="text-muted ellipsis">
+      URL:
+      
+        
+          <a class="resource-url-analytics download-modal-show" href="/dataset/9fad181f-d567-4563-bce1-1e2fc0f5559b/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d/download" title="https://data.bodik.jp/dataset/9fad181f-d567-4563-bce1-1e2fc0f5559b/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d/download/242161_cultural_property20240515.xlsx">https://data.bodik.jp/dataset/9fad181f-d567-4563-bce1-1e2fc0f5559b/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d/download/242161_cultural_property20240515.xlsx</a>    
+         
+      
+    </p>
+  
+
+          <div class="prose notes" property="rdfs:label">
+            
+              <p>2024年(令和6)年5月15日現在の伊賀市内文化財一覧です。</p>
+            
+            
+          </div>
+        
+      
+      
+        
+          
+  <ul class="nav nav-tabs" >
+  
+  
+  	
+    
+
+
+  
+
+
+<li data-id="8c44103b-eb7c-4769-93f0-93770d52b00f">
+  
+
+  <a class="nav-link active view-item view-item-officedocs_view" href="/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d?view_id=8c44103b-eb7c-4769-93f0-93770d52b00f" data-id="8c44103b-eb7c-4769-93f0-93770d52b00f">
+    <i class="fa icon fa-magnifying-glass"></i>
+    プレビュー
+  </a>
+</li>
+  
+</ul>
+
+        
+          
+            <div class="resource-view">
+              
+                  
+                    
+                      
+
+
+  <div id="view-8c44103b-eb7c-4769-93f0-93770d52b00f" class="resource-view" data-id="8c44103b-eb7c-4769-93f0-93770d52b00f" data-title="プレビュー" data-description="">
+  <div class="actions">
+    <a class="btn btn-default"
+       target="_blank"
+       rel="noreferrer"
+       href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d/view/8c44103b-eb7c-4769-93f0-93770d52b00f">
+      <i class="fa fa-arrows-alt"></i>
+      フルスクリーン
+    </a>
+    <a class="btn btn-default"
+       href="#embed-8c44103b-eb7c-4769-93f0-93770d52b00f"
+       data-module="resource-view-embed"
+       data-module-id="8c44103b-eb7c-4769-93f0-93770d52b00f"
+       data-module-url="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d/view/8c44103b-eb7c-4769-93f0-93770d52b00f">
+      <i class="fa fa-object-group"></i>
+      埋めこみ
+    </a>
+  </div>
+  <p class="desc"></p>
+    <div class="m-top ckanext-datapreview">
+      
+      
+        <button id="fullscreeniframe" class="btn" style="position:absolute; right:5px; top:20px">Fullscreen</button>
+<iframe id="cvframe" src="//view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fdata.bodik.jp%2Fdataset%2F9fad181f-d567-4563-bce1-1e2fc0f5559b%2Fresource%2F2a3c620e-d01c-417f-bedb-338528ea0b4d%2Fdownload%2F242161_cultural_property20240515.xlsx" frameborder="0" allowfullscreen="" width="100%" height="400px"></iframe>
+<script>
+// http://stackoverflow.com/questions/18901847/iframe-enter-fullscreen-mode
+(function(window, document){
+        var $ = function(selector,context){return(context||document).querySelector(selector)};
+
+        var iframe = $("iframe"),
+            domPrefixes = 'Webkit Moz O ms Khtml'.split(' ');
+
+        var fullscreen = function(elem) {
+            var prefix;
+            // Mozilla and webkit intialise fullscreen slightly differently
+            for ( var i = -1, len = domPrefixes.length; ++i < len; ) {
+              prefix = domPrefixes[i].toLowerCase();
+
+              if ( elem[prefix + 'EnterFullScreen'] ) {
+                // Webkit uses EnterFullScreen for video
+                return prefix + 'EnterFullScreen';
+                break;
+              } else if( elem[prefix + 'RequestFullScreen'] ) {
+                // Mozilla uses RequestFullScreen for all elements and webkit uses it for non video elements
+                return prefix + 'RequestFullScreen';
+                break;
+              }
+            }
+
+            return false;
+        };
+        // Webkit uses "requestFullScreen" for non video elements
+        var fullscreenother = fullscreen(document.createElement("iframe"));
+
+        if(!fullscreen) {
+            alert("Fullscreen won't work, please make sure you're using a browser that supports it and you have enabled the feature");
+            return;
+        }
+
+        $("#fullscreeniframe").addEventListener("click", function(){
+            // iframe fullscreen and non video elements in webkit use request over enter
+            iframe[fullscreenother]();
+        }, false);
+    })(this, this.document);
+</script>
+      
+    </div>
+    <div id="embed-8c44103b-eb7c-4769-93f0-93770d52b00f" class="modal fade resource-view-embed">
+      <div class="modal-dialog">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h3 class="modal-title">埋め込まれたリソースビュー</h3>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+
+      </div>
+      <div class="modal-body">
+        <p class="embed-content">生のHTMLをサポートするCMSやブログソフトウェアにコピー&ペーストでコードを埋め込むことができます</p>
+        <div class="row">
+          <div class="col-md-6">
+            
+<div class="form-group control-full">
+<label class="form-label" for="width">幅</label>
+<div class="controls ">
+ 
+<input id="width" type="text" name="width" value="700" placeholder=""  class="form-control" />
+
+
+
+</div>
+</div>
+ 
+
+          </div>
+          <div class="col-md-6">
+            
+<div class="form-group control-full">
+<label class="form-label" for="height">高さ</label>
+<div class="controls ">
+ 
+<input id="height" type="text" name="height" value="400" placeholder=""  class="form-control" />
+
+
+
+</div>
+</div>
+ 
+
+          </div>
+        </div>
+        
+
+
+<div class="form-group pre control-full">
+<label class="form-label" for="code">コード</label>
+<div class="controls ">
+
+<textarea id="code" name="code" cols="20" rows="3" placeholder=""  class="form-control"></textarea>
+
+
+
+</div>
+</div>
+
+
+      </div>
+      </div>
+      </div>
+    </div>
+  </div>
+
+                    
+                  
+              
+            </div>
+          
+        </div>
+      
+      
+      
+    </section>
+  
+
+
+            
+              <aside class="secondary col-md-3">
+                
+                
+
+  
+    
+
+
+
+  
+    <section class="module module-narrow resources">
+      
+        
+          <h2 class="module-heading"><i class="fa fa-bars"></i> リソース</h2>
+        
+        
+  
+    
+          <ul class="list-unstyled nav nav-simple">
+            
+              
+              
+                <li class="nav-item active">
+                  <a href="#" title="2024(令和6)年5月15日現在伊賀市内文化財一覧(xlsx)">2024(令和6)年5月15日現在伊賀市内文...</a>
+                </li>
+              
+            
+          </ul>
+        
+  
+
+      
+    </section>
+  
+
+
+
+  
+
+  
+    
+
+  <section class="module module-narrow social">
+    
+      <h2 class="module-heading"><i class="fa fa-share-square"></i> ソーシャル</h2>
+    
+    
+      <ul class="nav nav-simple">
+        <li class="nav-item"><a href="https://twitter.com/share?url=https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank"><i class="fa-brands fa-twitter-square"></i> Twitter</a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/sharer.php?u=https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank"><i class="fa-brands fa-facebook-square"></i> Facebook</a></li>
+      </ul>
+    
+  </section>
+
+  
+
+              </aside>
+            
+
+            
+  
+              <div class="primary col-md-9 col-xs-12" role="main">
+                
+                
+  
+    
+      <section class="module">
+        
+  
+  
+<div class="module-content">
+  <h2>追加情報</h2>
+  <table class="table table-striped table-bordered table-condensed" data-module="table-toggle-more">
+    <thead>
+      <tr>
+        <th scope="col">フィールド</th>
+        <th scope="col">値</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">データ形式</th>
+        <td>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</td>
+      </tr>
+      <tr>
+        <th scope="row">ライセンス</th>
+        <td>
+          
+          <a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="dc:rights">クリエイティブ・コモンズ 表示 4.0 国際</a>
+          
+        </td>
+      </tr>
+      
+      <tr>
+        <th scope="row">最終更新</th>
+        <td>2024-05-15 10:28</td>
+      </tr>
+      
+      
+      <tr>
+        <th scope="row">作成日</th>
+        <td>2024-05-15 10:28</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">created</th>
+        <td>2 年前</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">datastore active</th>
+        <td>False</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">format</th>
+        <td>XLSX</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">has views</th>
+        <td>True</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">id</th>
+        <td>2a3c620e-d01c-417f-bedb-338528ea0b4d</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">last modified</th>
+        <td>2 年前</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">metadata modified</th>
+        <td>2 年前</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">mimetype</th>
+        <td>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">package id</th>
+        <td>9fad181f-d567-4563-bce1-1e2fc0f5559b</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">position</th>
+        <td>0</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">size</th>
+        <td>416.2 KiB</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">state</th>
+        <td>active</td>
+      </tr>
+      
+      
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">url type</th>
+        <td>upload</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">いいね数</th>
+        <td>0</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">コメント数</th>
+        <td>0</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">ダウンロード数</th>
+        <td>62</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">利活用数</th>
+        <td>0</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">評価</th>
+        <td>0</td>
+      </tr>
+      
+      
+      
+      <tr class="toggle-more">
+        <th scope="row">課題解決数</th>
+        <td>0</td>
+      </tr>
+      
+      
+    </tbody>
+  </table>
+</div>
+
+
+      </section>
+    
+  
+
+              </div>
+            
+  
+    <div id="download-modal" class="modal fade" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header custom-modal-header">
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+          <span class="modal-title">ダウンロードありがとうございます！<br>よければ、データ改善のためのフィードバックをお願いします！</span>
+            
+              <span class="modal-label">いいねを押していきませんか？</span>
+                <a class="btn btn-primary like-button">
+                  <i class="like-icon fa-solid fa-thumbs-up "></i>
+                  <span id="like-count" class="like-count">0</span>
+                </a>
+              
+            
+              
+              
+                <span class="modal-label">コメントをしていきませんか？</span>
+              
+              <a class="btn btn-primary resource-url-analytics resource-type-None" href="/resource_comment/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank">
+                <i class="fa-solid fa-comment-dots"></i> コメント
+              </a>
+            
+            
+              
+              
+                <span class="modal-label">活用方法を共有しませんか？</span>
+               
+              <a class="btn btn-primary resource-url-analytics resource-type-None" href="/utilization/new?package_name=242161_cultural_property&amp;resource_id=2a3c620e-d01c-417f-bedb-338528ea0b4d&amp;return_to_resource=True" target="_blank">
+                <i class="fa-solid fa-seedling"></i> 利活用方法登録申請
+              </a>
+            
+          </div>
+          <div class="modal-footer">
+              <button class="btn btn-primary" data-bs-dismiss="modal" aria-label="Close">
+              <i class="fa-solid fa-xmark"></i>
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <!-- Powerdエリア -->
+<div id="powerd">
+<div class="powerd-inner">
+
+<!-- フッターウィジェット -->
+<div class="row footer-widgets g-0">
+<div class="col-md-6 footer-half">
+<div id="pwbox">
+  <div id="text-2" class="widget widget_text"><div class="sidebar-title2">HOSTED BY</div><div class="textwidget"><a href="https://www.bodik.jp/" target="_blank"><img src="https://odcs.bodik.jp/images/footer/footlogo.png" alt="ビッグデータ&オープンデータ・イニシアティブ九州" class="alignleft"></a>
+<span class="alignleft white">ビッグデータ&オープンデータ・イニシアティブ九州<br />
+〒814-0001 福岡市早良区百道浜2-1-22-5F<br />
+公益財団法人九州先端科学技術研究所<br />
+</span></div>
+    </div></div>
+</div>
+<div class="col-md-3 footer-third">
+<div id="pwbox">
+  <div id="text-3" class="widget widget_text"><div class="sidebar-title2">POWERED BY</div><div class="textwidget"><a href="https://ckan.org" target="_blank"><img src="https://odcs.bodik.jp/images/footer/ckan_logo.png" alt="ckan"></a>
+</div>
+    </div></div>
+</div>
+<div class="col-md-3 footer-third">
+<div id="pwbox">
+  <div id="text-4" class="widget widget_text"><div class="sidebar-title2">POWERED BY</div><div class="textwidget"><a href="https://ja.wordpress.org/" target="_blank"><img src="https://odcs.bodik.jp/images/footer/wp_logo.png" alt="wordpress"></a></div>
+    </div></div>
+</div>
+</div>
+<!-- / フッターウィジェット -->
+<div class="clear"></div>
+
+</div>
+</div>
+<!-- / Powerdエリア -->
+
+
+<!-- フッターエリア -->
+
+
+<!-- フッターウィジェット -->
+
+
+<!-- / フッターウィジェット -->
+
+<div class="clear"></div>
+
+</div>
+
+  
+    
+  
+
+</footer>
+<!-- / フッターエリア -->
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="/downloads/">
+        </div>
+    
+
+
+  
+
+  
+
+  
+
+  
+
+    
+    <link href="/webassets/feedback/f7107fd2-resource_read.css" rel="stylesheet"/>
+<link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/53df638c_fontawesome.css" rel="stylesheet"/>
+<link href="/webassets/ckanext_datastore/08c583c6_datastore.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/240e5086_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/773d6354_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/6d1ad7e6_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/vendor/529a0eb7_htmx.js" type="text/javascript"></script>
+<script src="/webassets/base/a65ea3a0_main.js" type="text/javascript"></script>
+<script src="/webassets/base/b1def42f_ckan.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-googleanalytics/event_tracking.js?71ae8997" type="text/javascript"></script>
+<script src="/webassets/activity/0fdb5ee0_activity.js" type="text/javascript"></script>
+<script src="/webassets/tracking/8b59a308_tracking.js" type="text/javascript"></script>
+<script src="/webassets/ckanext-feedback/30bc7a21-resource_read.js" type="text/javascript"></script>
+<script src="/webassets/ckanext_datastore/59ce3294_datastore.js" type="text/javascript"></script>
+  </body>
+</html>

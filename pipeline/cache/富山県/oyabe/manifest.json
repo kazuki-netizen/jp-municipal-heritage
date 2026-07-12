@@ -1,0 +1,42 @@
+{
+  "b73cb2505926dc20": {
+    "url": "https://www.city.oyabe.toyama.jp/bunkasports/1002986/1002987/index.html",
+    "filename": "b73cb2505926dc20.html",
+    "sha256": "68750c7d0d08e4dfb5e3a73051b17557d648b5d22ef3db9017030255184a2856",
+    "fetched_at": "2026-07-12T03:53:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "34ef4b776e960288": {
+    "url": "https://www.city.oyabe.toyama.jp/bunkasports/1002986/1002987/1002989.html",
+    "filename": "34ef4b776e960288.html",
+    "sha256": "92f8dbc1a489fd17ca1648087b4672c2753c506528a17bb657953f7262e9324e",
+    "fetched_at": "2026-07-12T03:53:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4a6c08960135a9ca": {
+    "url": "https://www.city.oyabe.toyama.jp/bunkasports/1002986/1002987/1002990.html",
+    "filename": "4a6c08960135a9ca.html",
+    "sha256": "f2c7f007815b83ea520b85048906ab9b5174425f62c01f841ebee2c428213506",
+    "fetched_at": "2026-07-12T03:53:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "81bd80a931aec94b": {
+    "url": "https://www.city.oyabe.toyama.jp/bunkasports/1002986/1002987/1002991.html",
+    "filename": "81bd80a931aec94b.html",
+    "sha256": "8555273bdb757126230e4d8d95f2cd520e9592bcf2b6e28992c5a4d6a3bfd835",
+    "fetched_at": "2026-07-12T04:51:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ac49f02fbe96bfc3": {
+    "url": "https://www.city.oyabe.toyama.jp/bunkasports/1002986/1002987/1002992.html",
+    "filename": "ac49f02fbe96bfc3.html",
+    "sha256": "94f48a4d7368431d5aaf5fe4fe9f446f830c3d8724eb2fee60b1aa1cd8bd76ac",
+    "fetched_at": "2026-07-12T04:51:34Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

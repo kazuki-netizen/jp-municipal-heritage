@@ -1,0 +1,10 @@
+{
+  "c0c978f5509b184c": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212148-008",
+    "filename": "c0c978f5509b184c.bin",
+    "sha256": "74bc333fd1c1dc9fadf97859d54a523952a70f33b0b5f28e59052d196cf1eb4b",
+    "fetched_at": "2026-07-12T05:59:54Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

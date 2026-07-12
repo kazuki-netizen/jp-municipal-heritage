@@ -1,0 +1,18 @@
+{
+  "356d315386039a50": {
+    "url": "https://www.city.katsuyama.fukui.jp/uploaded/life/1712_36947_misc.pdf",
+    "filename": "356d315386039a50.pdf",
+    "sha256": "5f6bac961ea87c76fcbe4b5db26351ae8ce2d3505f514580156055c04070926f",
+    "fetched_at": "2026-07-12T03:50:48Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "a67d3deea712e700": {
+    "url": "https://www.city.katsuyama.fukui.jp/soshiki/10/712.html",
+    "filename": "a67d3deea712e700.html",
+    "sha256": "09c532745f5e83656f4c62ef1d74a7951798b5fb4ca3f9b894bfb050efa6b1d2",
+    "fetched_at": "2026-07-12T03:50:50Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

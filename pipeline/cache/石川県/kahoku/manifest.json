@@ -1,0 +1,18 @@
+{
+  "53d5650ff82ea619": {
+    "url": "https://www.city.kahoku.lg.jp/004/404/405/d000252.html",
+    "filename": "53d5650ff82ea619.html",
+    "sha256": "078ca05d9310b0c7d95cca43152dfab7181580af5250de1fb6852353c9d38af6",
+    "fetched_at": "2026-07-12T03:54:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5806880492393afa": {
+    "url": "https://www.city.kahoku.lg.jp/004/404/405/d000252_d/fil/1.pdf",
+    "filename": "5806880492393afa.pdf",
+    "sha256": "81dc4946f075fcebba6c8a76662618651170247ec428eaf6a5333507edc85b0b",
+    "fetched_at": "2026-07-12T03:54:26Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

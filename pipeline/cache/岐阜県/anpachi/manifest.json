@@ -1,0 +1,10 @@
+{
+  "1dae11fe1a6bb201": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c213837-007",
+    "filename": "1dae11fe1a6bb201.bin",
+    "sha256": "a5d7de73e02f638269b21456af15a0794d8e6c3aa2a13f040ebe513eacc794b4",
+    "fetched_at": "2026-07-12T06:00:24Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

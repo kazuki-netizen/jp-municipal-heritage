@@ -1,0 +1,18 @@
+{
+  "cac809a08210a3ef": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/9148.html",
+    "filename": "cac809a08210a3ef.html",
+    "sha256": "2d168b29792cc23faa76e28db4c8ae1e1874ef729a28e938371ee7725c42d27d",
+    "fetched_at": "2026-07-12T03:51:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "060aed5b20786a51": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/9148/resource/75151/content.html",
+    "filename": "060aed5b20786a51.html",
+    "sha256": "60748befe7f823f28ca9b7b1a2eed1985495a18ba305c962f15fdd50b8f94879",
+    "fetched_at": "2026-07-12T03:51:36Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

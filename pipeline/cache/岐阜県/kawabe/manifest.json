@@ -1,0 +1,10 @@
+{
+  "211b81452708c395": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215031-007",
+    "filename": "211b81452708c395.bin",
+    "sha256": "e604b42b198a240fef85f654ce0d44ce112e480a51bdb975f065260cd644d2a2",
+    "fetched_at": "2026-07-12T06:00:37Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

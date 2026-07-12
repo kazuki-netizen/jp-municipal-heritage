@@ -1,0 +1,377 @@
+[
+ {
+  "jmh_id": "JMH-132195-0006",
+  "name": "石井家のラクウショウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-06",
+  "municipality": "狛江市"
+ },
+ {
+  "jmh_id": "JMH-132195-0005",
+  "name": "玉泉寺のボダイジュ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1976-06",
+  "municipality": "狛江市"
+ },
+ {
+  "jmh_id": "JMH-132276-0005",
+  "name": "禅福寺の山門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1966-11-24",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0007",
+  "name": "一峰院の鐘楼門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1978-11-08",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0010",
+  "name": "稲荷神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1991-11-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0008",
+  "name": "五ノ神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1991-11-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0009",
+  "name": "宗禅寺薬師堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1991-11-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0012",
+  "name": "松本神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1993-04-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0014",
+  "name": "山根坂上遺跡出土の釣手土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "1995-08-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0015",
+  "name": "一峰院の十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(彫刻)",
+  "designation": "市指定",
+  "designated_date": "1997-08-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0018",
+  "name": "禅福寺の文殊菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(彫刻)",
+  "designation": "市指定",
+  "designated_date": "1997-08-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0017",
+  "name": "禅林寺の十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(彫刻)",
+  "designation": "市指定",
+  "designated_date": "1997-08-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0016",
+  "name": "宗禅寺の釈迦如来坐像及び迦葉・阿難像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(彫刻)",
+  "designation": "市指定",
+  "designated_date": "1997-08-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0020",
+  "name": "指田家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "2004-11-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0019",
+  "name": "中根家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(古文書)",
+  "designation": "市指定",
+  "designated_date": "2004-11-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0022",
+  "name": "阿蘇神社の木彫狛犬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(彫刻)",
+  "designation": "市指定",
+  "designated_date": "2011-12-20",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0023",
+  "name": "阿蘇神社出土の中世瓦",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(考古資料)",
+  "designation": "市指定",
+  "designated_date": "2011-12-20",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0021",
+  "name": "小作の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2011-12-20",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0002",
+  "name": "八雲神社の山車",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1966-11-24",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0013",
+  "name": "阿蘇神社神輿",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-04-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0011",
+  "name": "羽村の祭りばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1991-11-01",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0003",
+  "name": "吉祥寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-11-24",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0004",
+  "name": "天明義挙記念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-11-24",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0001",
+  "name": "伝三田雅楽之助平将定等の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-11-24",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132276-0006",
+  "name": "玉川上水羽村陣屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "designated_date": "1978-11-03",
+  "municipality": "羽村市"
+ },
+ {
+  "jmh_id": "JMH-132063-0001",
+  "name": "小田原北条免税朱印状",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1959-12-11",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0002",
+  "name": "野村瓜州之墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1959-12-11",
+  "municipality": "府中市",
+  "location": "片町2丁目4番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0005",
+  "name": "建長4年の三所宮板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1961-02-23",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0006",
+  "name": "応永16年の法華経板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1961-02-23",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0007",
+  "name": "鹿島神社懸仏",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（工芸品）",
+  "designation": "市指定",
+  "designated_date": "1961-02-23",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0004",
+  "name": "北条氏照の書翰",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1961-02-23",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0003",
+  "name": "井田墓地内の板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1961-02-23",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0008",
+  "name": "大国魂神社境内樹木の一部",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1961-12-15",
+  "municipality": "府中市",
+  "location": "宮町3丁目1番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0010",
+  "name": "竜光寺阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "1964-01-09",
+  "municipality": "府中市",
+  "location": "押立町4丁目35番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0011",
+  "name": "紹巴の賛のある渡唐天神の軸",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1964-01-09",
+  "municipality": "府中市",
+  "location": "是政2丁目"
+ },
+ {
+  "jmh_id": "JMH-132063-0012",
+  "name": "関良雪の自画像軸",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1964-01-09",
+  "municipality": "府中市",
+  "location": "ー"
+ },
+ {
+  "jmh_id": "JMH-132063-0009",
+  "name": "文禄3年の幣束立",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1964-01-09",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0015",
+  "name": "文禄3年の検地帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1965-03-11",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0013",
+  "name": "天正18年の検地帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "市指定",
+  "designated_date": "1965-03-11",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ },
+ {
+  "jmh_id": "JMH-132063-0014",
+  "name": "天正8年の鰐口",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "1965-03-11",
+  "municipality": "府中市",
+  "location": "南町6丁目32番地"
+ }
+]

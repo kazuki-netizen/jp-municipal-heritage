@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-131091-0051",
+  "name": "宮川家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1981-02-12",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0099",
+  "name": "長徳寺文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1990-03-13",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0098",
+  "name": "清徳寺文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1990-03-13",
+  "municipality": "品川区",
+  "location": "北品川3-7-22"
+ },
+ {
+  "jmh_id": "JMH-131091-0108",
+  "name": "心海寺文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1992-03-10",
+  "municipality": "品川区",
+  "location": "南品川2-9-5"
+ },
+ {
+  "jmh_id": "JMH-131091-0111",
+  "name": "品川歩行新宿加宿裁許状",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1997-04-10",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0112",
+  "name": "品川神社文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1999-02-23",
+  "municipality": "品川区",
+  "location": "北品川3-7-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0113",
+  "name": "宇田川家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "1999-02-23",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0115",
+  "name": "大島家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "2001-03-19",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0121",
+  "name": "願行寺文書3巻18点",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "2004-08-24",
+  "municipality": "品川区",
+  "location": "南品川2-1-12"
+ },
+ {
+  "jmh_id": "JMH-131091-0131",
+  "name": "三岳神社文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "2013-03-28",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0072",
+  "name": "法禅寺板碑・宝篋印塔・五輪塔　附　遺墳碑・萬霊塔・枯骨之墳275点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1983-03-12",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0139",
+  "name": "添浦高札（1）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "municipality": "品川区",
+  "location": "東品川1-35-8"
+ },
+ {
+  "jmh_id": "JMH-131091-0125",
+  "name": "鯨碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "2006-11-28",
+  "municipality": "品川区",
+  "location": "東品川1-7-17"
+ },
+ {
+  "jmh_id": "JMH-131091-0129",
+  "name": "天妙国寺五重塔礎石",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "2009-11-25",
+  "municipality": "品川区",
+  "location": "南品川2-8-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0018",
+  "name": "品川神社富士塚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川3-7-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0021",
+  "name": "善福寺石造念仏講供養塔1基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川1-28-9"
+ },
+ {
+  "jmh_id": "JMH-131091-0049",
+  "name": "本覚寺石造庚申供養塔1基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "南品川1-10-11"
+ },
+ {
+  "jmh_id": "JMH-131091-0057",
+  "name": "紙本着色地獄変相図1幅",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1981-02-12",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0054",
+  "name": "海徳寺板木20枚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1981-02-12",
+  "municipality": "品川区",
+  "location": "北品川1-2-10"
+ },
+ {
+  "jmh_id": "JMH-131091-0080",
+  "name": "海雲寺千躰荒神堂奉納扁額27面",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1985-03-14",
+  "municipality": "品川区",
+  "location": "南品川3-5-21"
+ },
+ {
+  "jmh_id": "JMH-131091-0117",
+  "name": "紙本着色六道絵5面",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "2002-07-25",
+  "municipality": "品川区",
+  "location": "南品川2-8-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0127",
+  "name": "法禅寺板木・銅版",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "2008-07-22",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0017",
+  "name": "享保二十一年銘道標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "南品川4-1-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0035",
+  "name": "板垣退助墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川3-7-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0025",
+  "name": "奥平家墓域",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "南品川4-2-35"
+ },
+ {
+  "jmh_id": "JMH-131091-0037",
+  "name": "渋川春海墓（追贈記念塔を含む）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川4-11-8"
+ },
+ {
+  "jmh_id": "JMH-131091-0033",
+  "name": "東海道品川宿本陣跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川2-7-21"
+ },
+ {
+  "jmh_id": "JMH-131091-0026",
+  "name": "官営品川硝子製造所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "北品川4-11-5"
+ },
+ {
+  "jmh_id": "JMH-131091-0034",
+  "name": "松平慶永（春嶽）墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "南品川5-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0038",
+  "name": "由利公正墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "南品川5-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0036",
+  "name": "海蔵寺無縁塔群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "南品川4-4-2"
+ },
+ {
+  "jmh_id": "JMH-131091-0089",
+  "name": "流民叢塚碑　附　南無阿彌陀佛碑萬霊納骨堂碑1基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-03-14",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0126",
+  "name": "桃中軒雲右衛門の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2007-12-25",
+  "municipality": "品川区",
+  "location": "南品川2-8-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0135",
+  "name": "東海道品川宿石積護岸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2023-03-29",
+  "municipality": "品川区",
+  "location": "南品川2-14-10"
+ },
+ {
+  "jmh_id": "JMH-131091-0003",
+  "name": "品川寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "南品川3-5-17"
+ },
+ {
+  "jmh_id": "JMH-131091-0010",
+  "name": "稼穡稲荷のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "北品川2-32-3"
+ },
+ {
+  "jmh_id": "JMH-131091-0007",
+  "name": "法禅寺のイチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "北品川2-2-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0004",
+  "name": "大龍寺のシイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "南品川4-2-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0084",
+  "name": "品川神社富士塚山開き行事",
+  "category": "有形文化財",
+  "subcategory": "風俗慣習第1号",
+  "designation": "区指定",
+  "designated_date": "1986-03-14",
+  "municipality": "品川区",
+  "location": "品川神社"
+ },
+ {
+  "jmh_id": "JMH-131091-0090",
+  "name": "品川拍子(品川神社中心の地域)",
+  "category": "有形文化財",
+  "subcategory": "風俗慣習第2号",
+  "designation": "区指定",
+  "designated_date": "1987-03-24",
+  "municipality": "品川区",
+  "location": "品川神社周辺"
+ }
+]

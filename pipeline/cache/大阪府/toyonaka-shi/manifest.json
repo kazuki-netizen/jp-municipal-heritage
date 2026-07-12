@@ -1,0 +1,18 @@
+{
+  "6dff7aafa17bf3c2": {
+    "url": "https://www.city.toyonaka.osaka.jp/jinken_gakushu/bunkazai/bunkazai/index.files/bunkazaiitiranR4.7.29.pdf",
+    "filename": "6dff7aafa17bf3c2.pdf",
+    "sha256": "ea272f80ae30cc01c4880407b7e6402cad44db2290909787196164b44dacf3ec",
+    "fetched_at": "2026-07-12T06:56:55Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "a4f3b6c3beb43020": {
+    "url": "https://www.city.toyonaka.osaka.jp/jinken_gakushu/bunkazai/shitei_bunkazai/index.html",
+    "filename": "a4f3b6c3beb43020.pdf",
+    "sha256": "5e290ade0e1f1485814a3fc662df661064be1b552df0fc2ad60befe0c0daf445",
+    "fetched_at": "2026-07-12T06:56:57Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

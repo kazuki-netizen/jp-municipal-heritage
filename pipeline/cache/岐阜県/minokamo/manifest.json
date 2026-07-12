@@ -1,0 +1,10 @@
+{
+  "907055e89edf3852": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212113-008",
+    "filename": "907055e89edf3852.bin",
+    "sha256": "841106f51696d001a619b1c771fa4e3a4e4bab9dac5843532a3c59b2565a5424",
+    "fetched_at": "2026-07-12T05:59:48Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

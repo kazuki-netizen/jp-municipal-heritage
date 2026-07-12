@@ -1,0 +1,18 @@
+{
+  "c6856a550a2136e7": {
+    "url": "https://vill.higashiyoshino.nara.jp/life/opendata/",
+    "filename": "c6856a550a2136e7.html",
+    "sha256": "537b6b7ac0c4c792704f4b76bd7a2ba196ff13275e5e787c7366cf2f9b7d9c0a",
+    "fetched_at": "2026-07-12T06:43:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8ce18933ec9e4d5e": {
+    "url": "http://vill.higashiyoshino.nara.jp/life/wp-content/uploads/sites/2/2021/06/294535_cultural_property.csv",
+    "filename": "8ce18933ec9e4d5e.csv",
+    "sha256": "303e4d2a94778e4139bbaf6610185c2ef436ae81f01d76b1f3ff92ea2c102e35",
+    "fetched_at": "2026-07-12T06:43:12Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

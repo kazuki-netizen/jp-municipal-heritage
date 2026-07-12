@@ -1,0 +1,18 @@
+{
+  "363226f6be80313f": {
+    "url": "https://www.city.iiyama.nagano.jp/soshiki/shimingakusyuusien/bunkazai/sitei_bunkazai/46383",
+    "filename": "363226f6be80313f.html",
+    "sha256": "30495469b103a3793c341e27473572692e938619d18fedad01d730678b2814f7",
+    "fetched_at": "2026-07-12T04:27:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f148166a5748d9f0": {
+    "url": "https://www.city.iiyama.nagano.jp/soshiki/shimingakusyuusien/bunkazai/sitei_bunkazai/46260",
+    "filename": "f148166a5748d9f0.html",
+    "sha256": "1dc27f64fa71c305625421d018080fb45ed78d48690aac50aaff41b2e33f5119",
+    "fetched_at": "2026-07-12T04:28:00Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

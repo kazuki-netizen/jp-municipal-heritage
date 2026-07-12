@@ -1,0 +1,18 @@
+{
+  "c75afc86ffe3bff3": {
+    "url": "https://www.city.makinohara.shizuoka.jp/site/makinohara-life/1500.html",
+    "filename": "c75afc86ffe3bff3.html",
+    "sha256": "6d8b6a23a6d308544ed1f37a54481fbe7f463508dc56c53b7a4af0b2155f913b",
+    "fetched_at": "2026-07-12T03:51:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5ef39be184564711": {
+    "url": "https://www.city.makinohara.shizuoka.jp/site/makinohara-life/1587.html",
+    "filename": "shitei.html",
+    "sha256": "cfacc6cb2280175bf1b63ea3094a510518cef454e5cca88ea9a1e89464a028b0",
+    "fetched_at": "2026-07-12T03:51:41Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

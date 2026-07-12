@@ -1,0 +1,18 @@
+{
+  "4eca4f21e0c1bb3d": {
+    "url": "https://www.city.nanao.lg.jp/syougai/kurashi/bunka/documents/bunkazaiichiran.pdf",
+    "filename": "4eca4f21e0c1bb3d.pdf",
+    "sha256": "c947ef69279c3b53cb2c4f04fa1022936fec8592c5e35466992b287f398f0f14",
+    "fetched_at": "2026-07-12T03:54:07Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "e1214d73f65d1d91": {
+    "url": "https://www.city.nanao.lg.jp/syougai/kurashi/bunka/shiteitourokubunnkazai_ichiran.html",
+    "filename": "e1214d73f65d1d91.html",
+    "sha256": "562e2a97cf1830d1eed43e2808dff489c9c4200025caab492df53dabe9c58ad8",
+    "fetched_at": "2026-07-12T03:54:09Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

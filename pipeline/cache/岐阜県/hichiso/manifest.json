@@ -1,0 +1,10 @@
+{
+  "9c5e535f17917b9e": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215040-007",
+    "filename": "9c5e535f17917b9e.bin",
+    "sha256": "706ac3320e7137cf193ff9ef137e7773ca2700e65a03401a9ca36ea9359efbe3",
+    "fetched_at": "2026-07-12T06:00:39Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

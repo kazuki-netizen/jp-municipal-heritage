@@ -1,0 +1,26 @@
+{
+  "4d7dc16c23a28b30": {
+    "url": "https://www.city.uenohara.yamanashi.jp/life/4/23/114/",
+    "filename": "4d7dc16c23a28b30.html",
+    "sha256": "4e4f28e8a46b1c725e5623457586cccd62f4f45a5f82948a57ffa6b13ddfbc77",
+    "fetched_at": "2026-07-12T03:47:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bd0e5eb7d330ca2a": {
+    "url": "https://www.city.uenohara.yamanashi.jp/uploaded/attachment/9667.pdf",
+    "filename": "bd0e5eb7d330ca2a.pdf",
+    "sha256": "25a3da26e220fc7061bc2c98dfe2fdbdb07591ed58fa7e03abd2422cc1ade301",
+    "fetched_at": "2026-07-12T03:47:03Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "3c856bda516b0e46": {
+    "url": "https://www.city.uenohara.yamanashi.jp/site/kyoiku/list16.html",
+    "filename": "3c856bda516b0e46.html",
+    "sha256": "94781e803d4b97020e223ff4220a1eda98ac71a878dc9e23a7dd49931ef0e83d",
+    "fetched_at": "2026-07-12T03:47:05Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

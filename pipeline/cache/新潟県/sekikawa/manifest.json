@@ -1,0 +1,18 @@
+{
+  "588a00ca2da4d7e9": {
+    "url": "http://www.vill.sekikawa.niigata.jp/tourism/201/index.html",
+    "filename": "588a00ca2da4d7e9.html",
+    "sha256": "8c9fff68befac7d61a4055d9527dcc94230860b718c7eaefb3e35610eefdcfb6",
+    "fetched_at": "2026-07-12T03:41:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "131a2a5cd7f86bb5": {
+    "url": "http://www.vill.sekikawa.niigata.jp/tourism/155/158/index.html",
+    "filename": "131a2a5cd7f86bb5.html",
+    "sha256": "ce17eb060bae99269b90756a16bb08200c2ae96d79db15188568417f8aec9e73",
+    "fetched_at": "2026-07-12T03:41:56Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

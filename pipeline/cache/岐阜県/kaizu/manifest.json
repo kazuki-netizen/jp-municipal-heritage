@@ -1,0 +1,10 @@
+{
+  "28cefddbace88143": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212211-008",
+    "filename": "28cefddbace88143.bin",
+    "sha256": "ac73e63c7f1ba9c854cbe6be0f9def217652e2c9c913aea6a26e78f1d098540a",
+    "fetched_at": "2026-07-12T06:00:09Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

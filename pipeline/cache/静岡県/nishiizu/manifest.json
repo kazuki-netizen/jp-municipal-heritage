@@ -1,0 +1,26 @@
+{
+  "a5cd67c20bdb8273": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/8075.html",
+    "filename": "a5cd67c20bdb8273.html",
+    "sha256": "14ebd2bc644f3b53c2523ac63a6d73554ea7ea4d09184a2c441e65802557cd52",
+    "fetched_at": "2026-07-12T03:51:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "223069_cultural_property.csv": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/8075/resource/81917/223069_cultural_property.csv",
+    "filename": "223069_cultural_property.csv",
+    "note": "参考取得。文化財分類が「重要文化財」等のみで国/県/町の指定主体区分がなく抽出に不使用。",
+    "fetched_at": "2026-07-12T04:55:00Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "bunkazaisouran.pdf": {
+    "url": "https://www.town.nishiizu.shizuoka.jp/pdf/kyoiku/bunkazaisouran.pdf",
+    "filename": "bunkazaisouran.pdf",
+    "note": "WebSearchで発見した西伊豆町公式の文化財総覧PDF（robots.txt無し=許可）。全21ページ、国指定2/県指定8/町指定24/町登録5の内訳を本文に明記。抽出に使用。",
+    "fetched_at": "2026-07-12T05:15:00Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

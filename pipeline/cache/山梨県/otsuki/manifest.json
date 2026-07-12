@@ -1,0 +1,18 @@
+{
+  "2f39f0b8a8237e4b": {
+    "url": "https://www.city.otsuki.yamanashi.jp/bunka/bunka/images/bunkazaiichiran.pdf",
+    "filename": "2f39f0b8a8237e4b.pdf",
+    "sha256": "c6980aecf0e8e46a5dd63a605c42a4b3a85c627becbec5f4652a7f6ee41c0333",
+    "fetched_at": "2026-07-12T03:46:46Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "f3b5e4037c83f07f": {
+    "url": "https://www.city.otsuki.yamanashi.jp/bunka/bunka/images/shibunkazai.pdf",
+    "filename": "f3b5e4037c83f07f.pdf",
+    "sha256": "5c5da7024f458ceb88e4fa9901e7c91866a501abe023e2bae292ef3447b3291c",
+    "fetched_at": "2026-07-12T03:46:48Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

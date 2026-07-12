@@ -1,0 +1,359 @@
+[
+ {
+  "jmh_id": "JMH-132128-0032",
+  "name": "とうかん森",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0033",
+  "name": "愛宕山の自生針葉樹群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0034",
+  "name": "日枝神社のムクノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-10-01",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0047",
+  "name": "金剛寺のサンシュユ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1994-03-03",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0058",
+  "name": "百草観音堂のスダジイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2022-03-11",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-131199-0007",
+  "name": "観明寺寛文元年庚申塔",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0005",
+  "name": "東光寺寛文二年庚申塔",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0001",
+  "name": "圓福寺明徳二年雲版",
+  "category": "有形文化財",
+  "subcategory": "有形　考古資料",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0010",
+  "name": "龍福寺建長七年板碑",
+  "category": "有形文化財",
+  "subcategory": "有形　考古資料",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0003",
+  "name": "徳丸北野神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "とくまるきたのじんじゃししまい　とくまるきたのじんじゃししまいほぞんかい　無形民俗",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0008",
+  "name": "赤塚諏訪神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "あかつかすわじんじゃししまい　あかつかすわじんじゃししまいほぞんかい　無形民俗",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0004",
+  "name": "徳丸四ツ竹踊り",
+  "category": "民俗文化財",
+  "subcategory": "とくまるよつたけおどり　とくまるよつたけおどりほぞんかい　無形民俗",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0006",
+  "name": "祭り囃子（神田囃子）",
+  "category": "民俗文化財",
+  "subcategory": "まつりばやし（かんだばやし）　かんだりゅうやよいばやしほぞんかい　無形民俗",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0009",
+  "name": "里神楽",
+  "category": "民俗文化財",
+  "subcategory": "さとかぐら　なりますさとかぐらほぞんかい　無形民俗",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0002",
+  "name": "大門餅つき",
+  "category": "民俗文化財",
+  "subcategory": "だいもんもちつき　だいもんもちつきほぞんかい　無形民俗",
+  "designation": "区指定",
+  "designated_date": "1983",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0012",
+  "name": "東新町氷川神社郷土資料館所蔵品一括",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗　民俗資料",
+  "designation": "区指定",
+  "designated_date": "1984",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0011",
+  "name": "徳川将軍朱印状",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1984",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0013",
+  "name": "若木稲荷神社「四季農耕図」絵馬",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1984",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0014",
+  "name": "遍照寺「遍照寺参詣図」絵馬",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1984",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0015",
+  "name": "圓福寺月待画像板碑",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1985",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0016",
+  "name": "圧磨機圧輪記念碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1985",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0031",
+  "name": "安養院紅頗梨色阿彌陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形　彫刻",
+  "designation": "区指定",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0032",
+  "name": "安養院釈迦四面像",
+  "category": "有形文化財",
+  "subcategory": "有形　彫刻",
+  "designation": "区指定",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0033",
+  "name": "文殊院文殊菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形　彫刻",
+  "designation": "区指定",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0019",
+  "name": "総泉寺薬師三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形　彫刻",
+  "designation": "区指定",
+  "designated_date": "1990",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0022",
+  "name": "観明寺聖観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形　彫刻",
+  "designation": "区指定",
+  "designated_date": "1990",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0021",
+  "name": "観明寺不動三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形　彫刻",
+  "designation": "区指定",
+  "designated_date": "1990",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0020",
+  "name": "薬師の泉跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1990",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0018",
+  "name": "徳丸北野神社絵馬・扁額一式",
+  "category": "有形文化財",
+  "subcategory": "有形　絵画・書跡",
+  "designation": "区指定",
+  "designated_date": "1990",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0017",
+  "name": "大門四ツ竹踊り",
+  "category": "民俗文化財",
+  "subcategory": "だいもんよつたけおどり　だいもんよつたけおどりほぞんかい　無形民俗",
+  "designation": "区指定",
+  "designated_date": "1990",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0025",
+  "name": "泉福寺十一面観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1991",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0024",
+  "name": "根ノ上遺跡出土弥生式土器",
+  "category": "有形文化財",
+  "subcategory": "有形　考古資料",
+  "designation": "区指定",
+  "designated_date": "1991",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0023",
+  "name": "根ノ上遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1991",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0027",
+  "name": "長徳寺阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "有形　歴史資料",
+  "designation": "区指定",
+  "designated_date": "1992",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0026",
+  "name": "冨士永田講関係祭具一括",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗　信仰",
+  "designation": "区指定",
+  "designated_date": "1992",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0028",
+  "name": "大門遺跡出土品旧石器時代石器",
+  "category": "有形文化財",
+  "subcategory": "だいもんいせきしゅつどひんきゅうせっきじだいせっき・3ごうほうけいしゅうこうぼしゅつどひんいっかつ　有形",
+  "designation": "区指定",
+  "designated_date": "1994",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0029",
+  "name": "旧田中家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形　建造物",
+  "designation": "区指定",
+  "designated_date": "1996",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-131199-0030",
+  "name": "西台後藤田遺跡第1地点出土旧石器時代遺物",
+  "category": "有形文化財",
+  "subcategory": "有形　考古資料",
+  "designation": "区指定",
+  "designated_date": "2008",
+  "municipality": "板橋区"
+ },
+ {
+  "jmh_id": "JMH-132217-0015",
+  "name": "旧森田家主屋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "1984-09-28",
+  "municipality": "清瀬市"
+ },
+ {
+  "jmh_id": "JMH-132217-0018",
+  "name": "外気舎記念館",
+  "category": "有形文化財",
+  "subcategory": "有形文化財(建造物)",
+  "designation": "市指定",
+  "designated_date": "2014-02-14",
+  "municipality": "清瀬市"
+ }
+]

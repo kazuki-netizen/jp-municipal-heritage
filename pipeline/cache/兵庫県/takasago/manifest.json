@@ -1,0 +1,18 @@
+{
+  "a9c2810d4ffd9dec": {
+    "url": "https://www.city.takasago.lg.jp/soshikikarasagasu/shogaigakushuka/bunkazai/3298.html",
+    "filename": "a9c2810d4ffd9dec.html",
+    "sha256": "86830689bf122f9301c62bbe40eceb6788862ab7b77466eb6e1a911d5baabe90",
+    "fetched_at": "2026-07-12T06:31:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e6142f2c2b0e6c4e": {
+    "url": "https://www.city.takasago.lg.jp/material/files/group/25/tiikikeikakuhajimeni-2syou.pdf",
+    "filename": "e6142f2c2b0e6c4e.pdf",
+    "sha256": "6b672068c70fb673f4b686a933b4773eb4e691338ca65f5370371fe1d90dd0c8",
+    "fetched_at": "2026-07-12T06:31:59Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "674d7e5f689a21a6": {
+    "url": "https://www.city.yasugi.shimane.jp/kurashi/bunka/bunkazai/sibunkazai.html",
+    "filename": "674d7e5f689a21a6.html",
+    "sha256": "fc859b64287858804ff3d4c550a561af59c20198e93a5c25abcdab723116d70b",
+    "fetched_at": "2026-07-12T06:55:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "114e8c78a2bd7776": {
+    "url": "https://www.city.yasugi.shimane.jp/kurashi/bunka/bunkazai/sibunkazai.data/sisitei.pdf",
+    "filename": "114e8c78a2bd7776.pdf",
+    "sha256": "74b6affd4f5b746eae2a60bec09b98fba9658854457a6919a483e4f99075d211",
+    "fetched_at": "2026-07-12T06:55:33Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

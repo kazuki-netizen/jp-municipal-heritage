@@ -1,0 +1,396 @@
+[
+ {
+  "jmh_id": "JMH-132039-0029",
+  "name": "井口家の高札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）"
+ },
+ {
+  "jmh_id": "JMH-132039-0031",
+  "name": "榎本家古文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1990-03-15",
+  "municipality": "武蔵野市",
+  "location": "西久保"
+ },
+ {
+  "jmh_id": "JMH-132039-0032",
+  "name": "仙路翁墓碣碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2018-07-02",
+  "municipality": "武蔵野市",
+  "location": "吉祥寺本町1丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0033",
+  "name": "武蔵野八景碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2018-07-02",
+  "municipality": "武蔵野市",
+  "location": "境南町2丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0037",
+  "name": "秋本家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）"
+ },
+ {
+  "jmh_id": "JMH-132039-0034",
+  "name": "御殿山遺跡第2地区N地点出土 縄文時代草創期資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2021-07-01",
+  "municipality": "武蔵野市",
+  "location": "武蔵野ふるさと歴史館"
+ },
+ {
+  "jmh_id": "JMH-132039-0035",
+  "name": "平野家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2022-06-24",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）"
+ },
+ {
+  "jmh_id": "JMH-132039-0009",
+  "name": "小林家の民間信仰資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-03-16",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）"
+ },
+ {
+  "jmh_id": "JMH-132039-0014",
+  "name": "高橋家の民間信仰資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-03-16",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）"
+ },
+ {
+  "jmh_id": "JMH-132039-0010",
+  "name": "岡田家の民間信仰資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-03-16",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）及び緑町1丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0013",
+  "name": "秋本家の民間信仰資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-03-16",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）"
+ },
+ {
+  "jmh_id": "JMH-132039-0008",
+  "name": "安養寺の甲辛(庚申)供養塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1972-03-16",
+  "municipality": "武蔵野市",
+  "location": "吉祥寺東町1丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0019",
+  "name": "岡田家の民間信仰資料「だらにすけの看板」",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "武蔵野市",
+  "location": "中央図書館管理：武蔵野ふるさと歴史館（電話：0422-53-1811）"
+ },
+ {
+  "jmh_id": "JMH-132039-0021",
+  "name": "稲荷神社の絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1976-03-13",
+  "municipality": "武蔵野市",
+  "location": "緑町1丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0027",
+  "name": "更新橋の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1981-03-23",
+  "municipality": "武蔵野市",
+  "location": "緑町3丁目先"
+ },
+ {
+  "jmh_id": "JMH-132039-0030",
+  "name": "境南町の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-03-31",
+  "municipality": "武蔵野市",
+  "location": "境南町3丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0001",
+  "name": "むさしのばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1971-04-06",
+  "municipality": "武蔵野市",
+  "location": "-"
+ },
+ {
+  "jmh_id": "JMH-132039-0012",
+  "name": "杵築大社の富士山",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1972-03-16",
+  "municipality": "武蔵野市",
+  "location": "境南町2丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0006",
+  "name": "成蹊学園のケヤキ並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-04-06",
+  "municipality": "武蔵野市",
+  "location": "吉祥寺北町3丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0002",
+  "name": "井口家のサンシュユ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971-04-06",
+  "municipality": "武蔵野市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-132039-0011",
+  "name": "杵築大社の千本イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-03-16",
+  "municipality": "武蔵野市",
+  "location": "境南町2丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0015",
+  "name": "源正寺のイヌツゲ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-02-08",
+  "municipality": "武蔵野市",
+  "location": "緑町1丁目"
+ },
+ {
+  "jmh_id": "JMH-132039-0018",
+  "name": "高橋家の大ケヤキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1975-03-13",
+  "municipality": "武蔵野市",
+  "location": "境3丁目緑地内"
+ },
+ {
+  "jmh_id": "JMH-132039-0036",
+  "name": "井口家の大ツバキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "武蔵野市",
+  "location": "八幡町"
+ },
+ {
+  "jmh_id": "JMH-132039-0023",
+  "name": "竹内家のカキの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-03-14",
+  "municipality": "武蔵野市",
+  "location": "境南町"
+ },
+ {
+  "jmh_id": "JMH-132039-0025",
+  "name": "「ふじの実保育園」のフジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1980-03-17",
+  "municipality": "武蔵野市",
+  "location": "緑町3丁目"
+ },
+ {
+  "jmh_id": "JMH-133647-0001",
+  "name": "延命山濤響寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "1970-01-10",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0003",
+  "name": "物忌奈命神社本殿拝殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "1970-01-10",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0004",
+  "name": "庵屋霊場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0007",
+  "name": "秩父霊場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0005",
+  "name": "物忌奈命神社御神体",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0006",
+  "name": "物忌奈命神社薬王殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0010",
+  "name": "高根山霊場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "2013-01-25",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0008",
+  "name": "続堂霊場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "2013-01-25",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0009",
+  "name": "観音霊場",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "村指定",
+  "designated_date": "2013-01-25",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-133647-0002",
+  "name": "流人墓地",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "村指定",
+  "designated_date": "1970-01-10",
+  "municipality": "神津島村",
+  "location": "神津島村"
+ },
+ {
+  "jmh_id": "JMH-132071-0001",
+  "name": "おねいの井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町1-10-14 大日堂境内"
+ },
+ {
+  "jmh_id": "JMH-132071-0029",
+  "name": "花井の井戸",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町4-16"
+ },
+ {
+  "jmh_id": "JMH-132071-0008",
+  "name": "大けやき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "郷地町1-12-1 稲荷神社境内"
+ },
+ {
+  "jmh_id": "JMH-132071-0009",
+  "name": "大公孫樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "中神町1-12-7 熊野神社境内"
+ }
+]

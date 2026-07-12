@@ -1,0 +1,15 @@
+{
+ "42c1bffe49e3454c": {
+  "url": "https://www.town.yamanouchi.nagano.jp/kanko_bunka_sports/rekishi_bunkazai/bunkazai/index.html",
+  "filename": "42c1bffe49e3454c.html",
+  "sha256": "1de06417ab1fded577f2b842e26fe48afeb446047c850b333b940dbaacfde0bf",
+  "fetched_at": "2026-07-12T04:28:47Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.town.yamanouchi.nagano.jp/kanko_bunka_sports/rekishi_bunkazai/bunkazai/index.html": {
+  "file": "42c1bffe49e3454c.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:03:14Z"
+ }
+}

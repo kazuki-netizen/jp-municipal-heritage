@@ -1,0 +1,2142 @@
+<!DOCTYPE html>
+<html lang="ja" style="-webkit-text-size-adjust: 100%;">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>市指定文化財一覧</title>
+    <meta name="description" content="description">
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:type" content="article"> <!-- トップページならwebsite、下層ページならarticle -->
+    <meta property="og:title" content="市指定文化財一覧">
+    <meta property="og:description" content="市指定文化財の一覧を掲載しています。">
+    <meta property="og:site_name" content="福井市役所">
+    <meta property="og:image" content="">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" href="/favicon.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-2.png" sizes="180x180">
+    <link rel="stylesheet" href="https://use.typekit.net/fsk6yqc.css">
+<link href="/share/css/splide.min.css" rel="stylesheet">
+<link href="/share/css/style.css?260408" rel="stylesheet">
+<link href="/share/css/style_white.css" rel="stylesheet" id="style_white" disabled>
+<link href="/share/css/style_yellow.css" rel="stylesheet" id="style_yellow" disabled>
+    <script src="/share/scripts/jquery.js"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KXHX8FH87W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KXHX8FH87W');
+</script>
+<script>
+  (function(w,d,j){var t='microAdUniverseTracker';w[t]=w[t]||{};w[t].track=w[t].track||function(){
+  (w[t].queue=w[t].queue||[]).push(arguments)};var s=d.createElement('script');s.async=true;s.src=j;
+  var fs=d.getElementsByTagName('script')[0];fs.parentNode.insertBefore(s,fs)})
+  (window,document,'https://cdn.microad.jp/js/track.js');
+  microAdUniverseTracker.track({
+    "service_id": 7281
+  });
+</script>
+
+
+  </head>
+
+<body>
+<style>
+h2 {
+  position: relative;
+  /* display: inline-flex; */
+  align-items: center;
+}
+
+/* 見出し2の前に挿入されるアイコンのスタイル */
+h2::before {
+  content: '■';
+  color: #D1D1D4;
+  font-size: 0.6em;
+  margin-right: 0.3em;
+  vertical-align: top;
+}
+h2.title::before {
+  display: none;
+}
+iframe{
+  width: 40em
+}
+.youtubearea iframe{
+  width: 40em;
+}
+@media (max-width: 680px) {
+    .youtubearea iframe {
+        width: 100%;
+    }
+    iframe{
+    width: 100%;
+}
+}
+</style><span class="contents_flg" style="display:none">0</span>
+<style>
+  .div_a {
+   position :relative;
+   top:-85px;
+   visibility:hidden;
+ }
+  .mokuji {
+   margin-bottom:35px;
+   border: solid 1px #D1D1D4;
+   padding-left: 3rem;
+   padding-right: 3rem; 
+
+ }
+  .toggle-btn {
+    cursor: pointer;
+    font-size: 24px;
+    user-select: none; /* テキスト選択を防ぐ */
+  }
+
+  #myList {
+    overflow: hidden;
+    transition: max-height 0.5s ease-out;
+    max-height: 1000px; /* 初期最大高さを十分に大きく設定 */
+    list-style: disc !important;
+  }
+  .toggle-btn {
+    width:1.5rem;
+  }
+</style>
+<script>
+window.onload = () => {
+    var isListOpen = true; // 初期状態を開いている（true）に設定
+
+    let contents_flg = document.querySelector(".contents_flg");
+    if (contents_flg.textContent === "1") {
+        show_contents();
+    }
+    document.querySelector(".toggle-btn").addEventListener("click",toggleList)
+  function toggleList() {
+    var list = document.getElementById("myList");
+    var btn = document.querySelector(".toggle-btn");
+    if (isListOpen) {
+      // リストを閉じる
+      list.style.maxHeight = "0";
+      btn.textContent = "表示";
+    } else {
+      // リストを開く
+      list.style.maxHeight = list.scrollHeight + "px";
+      btn.textContent = "非表示";
+    }
+    isListOpen = !isListOpen;
+  }
+
+}
+function show_contents() {
+    //各h2タグを取得
+    const h2_group = document.querySelectorAll("h2");
+    //目次要素
+    let domFlg = document.createDocumentFragment();
+    let i = 1;
+    const reg = new RegExp("title");
+
+    h2_group.forEach((h2) => {
+        if (reg.test(h2.className) === false) {
+            //内部リンクの設置
+            let div_a = document.createElement("div");
+            div_a.classList.add("div_a");
+            div_a.setAttribute('id', "a" + i);
+            h2.before(div_a);
+            let li = document.createElement("li");
+            li.innerHTML = `<a href='#a${i}'>${h2.textContent}</a>`;
+            domFlg.appendChild(li);
+            i++;
+        }
+    })
+
+    let hr = document.querySelector(".hr_title");
+    let div = document.createElement("div");
+    div.classList.add("mokuji");
+    div.innerHTML = "<h3 style='text-align:center;border:none;margin:0;margin-top:1rem;'><span>目次</span><span style='font-size:1rem;margin-left:0.5rem;font-size:1rem'><a>[<span class='toggle-btn' style='font-size:1rem;'>非表示</span>]</a></span></h3>";
+    let ul = document.createElement("ul");
+    ul.setAttribute('id', "myList");
+    ul.appendChild(domFlg);
+    div.appendChild(ul);
+
+    hr.after(div);
+}
+</script>
+<header id="masthead" class="site-header">
+	<div class="container">
+        <p class="site-title">
+    <a href="/index.html">
+        <img src="/share/imgs/logo.png?20240201" alt="福井市" width="180" class="color-basic">
+        <img src="/share/imgs/logo-w.png?20240201" alt="福井市" width="180" class="color-white">
+        <img src="/share/imgs/logo-y.png?20240201" alt="福井市" width="180" class="color-yellow">
+    </a>
+</p>
+
+		<div id="accessibility_menu">
+			<div class="acc_menu_inner">
+
+                <button id="acc_menu_close">
+    <!-- <img src="img/icon/close-icon.svg" alt="閉じる" class="close"> -->
+    <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"y="0px" viewBox="0 0 34.6 33.5" style="enable-background:new 0 0 34.6 33.5;" xml:space="preserve" fill="#040000">
+        <polygon class="st0" points="31.1,4.4 30.1,3.3 17.4,16 4.8,3.3 3.7,4.4 16.3,17 3.7,29.7 4.8,30.7 17.4,18.1 30.1,30.7 31.1,29.7 18.5,17 "/>
+    </svg>
+</button>
+                <div class="acc_item acc_item_sound" style="transform: translate(8px, -1px);">
+    <div id="acc_sound" class="acc_clickable">
+
+    <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+        y="0px" viewBox="0 0 19.61 15.87" style="enable-background:new 0 0 19.61 15.87;" xml:space="preserve" fill="#040000">
+    <polygon class="st0" points="0,5.02 0,10.85 3.63,10.85 8.76,15.5 8.76,0.36 3.63,5.02 "/>
+    <path class="st0" d="M15.03,7.93c0-1.85-1.5-3.35-3.35-3.35v6.7C13.53,11.29,15.03,9.78,15.03,7.93"/>
+    <path class="st0" d="M11.68,0v1.81c3.38,0,6.13,2.75,6.13,6.13c0,3.38-2.75,6.13-6.13,6.13v1.81c4.38,0,7.93-3.56,7.93-7.94
+        S16.05,0,11.68,0"/>
+    </svg>
+        <a href="https://speechpanel.readspeaker.com/cgi-bin/rssp?customerid=7188&lang=jp&url=https://www.city.fukui.lg.jp/kankou/bunka/bunkazai/sisitei.html">音声読み上げ</a>
+    </div>
+</div>
+                <div class="acc_item acc_item_size">
+    <div id="acc_size">
+        <!-- <img src="img/icon/ac-size.svg" alt="文字サイズ"> -->
+        <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+y="0px" viewBox="0 0 20.96 15.63" style="enable-background:new 0 0 20.96 15.63;" xml:space="preserve" fill="#040000">
+<path class="st0" d="M17.24,3.97h-2.89L12.74,9l1.24,3.87h3.72l0.79,2.75h2.47L17.24,3.97z M14.45,10.85c0,0,1.1-3.97,1.34-4.93
+c0.24,0.96,1.34,4.93,1.34,4.93H14.45z"/>
+<path class="st0" d="M8.86,0H4.99L0,15.63h3.32l1.05-3.69h5.11l1.05,3.69h3.32L8.86,0z M5.13,9.22c0,0,1.48-5.32,1.8-6.61
+c0.32,1.29,1.8,6.61,1.8,6.61H5.13z"/>
+</svg>
+
+        文字サイズ
+        <span class="acc_clickable active" id="acc_size_middle">標準</span>
+        <span class="acc_clickable" id="acc_size_large">拡大</span>
+    </div>
+</div>
+                <div class="acc_item acc_item_color">
+    <div id="acc_color">
+        <!-- <img src="img/icon/ac-color.svg" alt="文字色・背景色"> -->
+        <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+y="0px" viewBox="0 0 17.39 16.58" style="enable-background:new 0 0 17.39 16.58;" xml:space="preserve" fill="#040000">
+<path class="st0" d="M14.39,5.9l0-0.03l-0.02-0.01c0-0.06,0.01-0.12,0.01-0.17C14.38,2.55,11.84,0,8.69,0
+C5.55,0,3.01,2.55,3.01,5.69c0,0.06,0.01,0.11,0.01,0.17L3,5.87L3,5.9c-1.78,0.96-3,2.83-3,5c0,3.14,2.55,5.69,5.69,5.69
+c1.1,0,2.11-0.33,2.98-0.86l0.02,0.02l0.02-0.02c0.87,0.54,1.89,0.86,2.98,0.86c3.14,0,5.69-2.55,5.69-5.69
+C17.39,8.73,16.17,6.86,14.39,5.9 M12.02,2.36c0.8,0.8,1.3,1.89,1.36,3.1c-0.19-0.06-0.39-0.11-0.59-0.15l-2.27-3.97
+C11.08,1.59,11.59,1.93,12.02,2.36 M13.32,6.48c-0.23,1.33-1,2.46-2.09,3.16c-0.26-1.15-0.86-2.16-1.69-2.93
+c0.65-0.34,1.38-0.53,2.16-0.53C12.27,6.19,12.82,6.3,13.32,6.48 M8.69,0.98c0.36,0,0.7,0.04,1.03,0.11l2.36,4.12
+c-0.13-0.01-0.26-0.01-0.39-0.01c-0.26,0-0.51,0.02-0.75,0.05L8.5,0.99C8.56,0.99,8.63,0.98,8.69,0.98 M7.89,1.05l2.47,4.32
+c-0.3,0.08-0.6,0.18-0.88,0.3L6.99,1.3C7.28,1.19,7.58,1.11,7.89,1.05 M6.48,1.54l2.51,4.38C8.9,5.97,8.8,6.02,8.72,6.07L8.69,6.05
+L8.67,6.07c-0.33-0.2-0.68-0.38-1.05-0.51L5.65,2.11C5.9,1.89,6.18,1.7,6.48,1.54 M5.23,2.51l1.62,2.83
+C6.48,5.25,6.09,5.21,5.7,5.21L4.62,3.34C4.8,3.04,5,2.76,5.23,2.51 M4.33,3.95l0.74,1.29C4.71,5.28,4.35,5.36,4.01,5.46
+C4.04,4.93,4.15,4.42,4.33,3.95 M4.07,6.48c0.5-0.19,1.05-0.29,1.62-0.29c0.78,0,1.51,0.19,2.16,0.53C7.02,7.49,6.41,8.5,6.15,9.65
+C5.06,8.95,4.29,7.81,4.07,6.48 M8.69,14.51c-0.98-0.82-1.62-2.03-1.69-3.39c0.53,0.17,1.1,0.26,1.69,0.26
+c0.59,0,1.15-0.1,1.69-0.26C10.32,12.48,9.68,13.69,8.69,14.51 M15.03,14.22C14.18,15.08,13,15.6,11.7,15.6
+c-0.78,0-1.51-0.19-2.16-0.53c1.13-1.04,1.83-2.53,1.83-4.18c0-0.06-0.01-0.12-0.01-0.18l0.02-0.01l0-0.02
+c1.43-0.77,2.49-2.12,2.86-3.75c1.3,0.84,2.16,2.3,2.16,3.96C16.41,12.2,15.88,13.37,15.03,14.22"/>
+</svg>
+
+        文字色・背景色
+        <span class="acc_clickable black" id="acc_color_basic">黒</span>
+        <span class="acc_clickable white" id="acc_color_white">白</span>
+        <span class="acc_clickable yellow" id="acc_color_yellow">黄</span>
+    </div>
+</div>
+                <div class="acc_item acc_item_lang">
+    <div id="acc_lang">
+        <!-- <img src="img/icon/ac-lang.svg" alt="文字色・背景色"> -->
+        <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+y="0px" viewBox="0 0 17.39 16.58" style="enable-background:new 0 0 17.39 16.58;" xml:space="preserve" fill="#040000">
+<path class="st0" d="M15.39,3.74c-0.15-0.21-0.3-0.41-0.46-0.61C13.44,1.34,11.2,0.2,8.7,0.2c-2.51,0-4.75,1.14-6.23,2.93
+C2.3,3.32,2.15,3.52,2.01,3.74C1.12,5.03,0.6,6.6,0.6,8.29c0,1.69,0.52,3.26,1.4,4.56c0.14,0.21,0.3,0.41,0.46,0.61
+c1.48,1.79,3.72,2.93,6.23,2.93s4.75-1.14,6.23-2.93c0.16-0.19,0.31-0.4,0.46-0.61c0.88-1.3,1.4-2.87,1.4-4.56
+C16.79,6.6,16.27,5.03,15.39,3.74 M15.26,7.91H12.8c-0.03-0.93-0.15-1.81-0.36-2.61c0.61-0.19,1.18-0.42,1.69-0.7
+C14.78,5.55,15.19,6.69,15.26,7.91 M9.07,1.8c0.68,0.16,1.33,0.75,1.86,1.7c0.22,0.38,0.4,0.81,0.55,1.26
+c-0.75,0.18-1.57,0.28-2.41,0.31V1.8z M8.32,1.8v3.27C7.47,5.05,6.65,4.95,5.9,4.77c0.16-0.45,0.34-0.88,0.55-1.26
+C6.99,2.55,7.64,1.97,8.32,1.8 M8.32,5.84v2.08H5.36C5.38,7.07,5.49,6.25,5.68,5.5C6.5,5.7,7.39,5.81,8.32,5.84 M8.32,8.67v2.08
+c-0.93,0.03-1.81,0.14-2.63,0.34c-0.19-0.75-0.3-1.57-0.33-2.41H8.32z M8.32,11.51v3.27c-0.68-0.16-1.33-0.75-1.86-1.7
+c-0.21-0.38-0.4-0.81-0.55-1.26C6.66,11.64,7.47,11.53,8.32,11.51 M9.07,14.78v-3.27c0.85,0.03,1.66,0.13,2.41,0.31
+c-0.16,0.45-0.34,0.88-0.55,1.26C10.4,14.03,9.75,14.62,9.07,14.78 M9.07,10.75V8.67h2.96c-0.02,0.85-0.14,1.66-0.33,2.41
+C10.89,10.89,10,10.77,9.07,10.75 M9.07,7.91V5.84C10,5.81,10.89,5.7,11.71,5.5c0.19,0.75,0.3,1.56,0.32,2.41H9.07z M13.66,3.99
+c-0.43,0.22-0.92,0.42-1.43,0.58c-0.34-1.01-0.81-1.87-1.38-2.48C11.94,2.46,12.91,3.12,13.66,3.99 M6.54,2.08
+C5.98,2.7,5.51,3.55,5.17,4.56c-0.52-0.16-1-0.35-1.44-0.58C4.48,3.12,5.45,2.46,6.54,2.08 M4.95,5.3C4.75,6.1,4.62,6.98,4.59,7.91
+H2.13C2.2,6.69,2.61,5.55,3.26,4.59C3.77,4.87,4.34,5.1,4.95,5.3 M2.13,8.67h2.46c0.03,0.93,0.15,1.81,0.36,2.62
+c-0.61,0.19-1.18,0.43-1.69,0.7C2.61,11.03,2.2,9.9,2.13,8.67 M3.73,12.6c0.43-0.22,0.92-0.42,1.43-0.58
+c0.34,1.01,0.82,1.87,1.38,2.49C5.45,14.13,4.48,13.46,3.73,12.6 M10.84,14.51c0.57-0.62,1.04-1.47,1.38-2.49
+c0.52,0.16,1,0.35,1.43,0.58C12.91,13.46,11.94,14.13,10.84,14.51 M12.44,11.29c0.2-0.8,0.33-1.69,0.36-2.62h2.46
+c-0.07,1.22-0.47,2.36-1.13,3.32C13.62,11.71,13.05,11.48,12.44,11.29"/>
+</svg>
+
+        <select name="Language" id="acc_lang_select" onChange="location.href=value" title="言語選択">
+            <option disabled selected>Language</option>
+            <option value="/index.html">日本語</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ja">English</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=zh-CN&_x_tr_hl=ja">中国语 （中国語簡体）</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=zh-TW&_x_tr_hl=ja">中國語 （中国語繁体）</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=ko&_x_tr_hl=ja">한국어</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=pt&_x_tr_hl=ja">Português</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=tl&_x_tr_hl=ja">Tagalog</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=vi&_x_tr_hl=ja">Tiếng Việt</option>
+            <option value="https://www-city-fukui-lg-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=id&_x_tr_hl=ja">bahasa Indonesia</option>
+        </select>
+    </div>
+</div>
+
+			</div>
+
+		</div>
+
+		<button id="open_accessibility_menu">
+			<img src="/share/imgs/icon/accessibility.png" alt="アクセシビリティ・言語" class="color-basic">
+<img src="/share/imgs/icon/accessibility-w.png" alt="アクセシビリティ・言語" class="color-white">
+<img src="/share/imgs/icon/accessibility-y.png" alt="アクセシビリティ・言語" class="color-yellow">
+		</button>
+
+		<button id="open_mobile_menu">
+			<!-- <img src="img/icon/menu-icon.svg" alt="メニュー" class="open"> -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+y="0px" viewBox="0 0 50.6 37.2" style="enable-background:new 0 0 50.6 37.2;" xml:space="preserve" fill="#040000" class="open">
+<g>
+<text x="5" y="10">MENU</text>
+<polyline class="st0" points="4.5,19.4 44.8,19.4 44.8,17.9 4.5,17.9 	"/></polyline>
+<polyline class="st0" points="4.5,27 44.8,27 44.8,25.5 4.5,25.5 	"/></polyline>
+<polyline class="st0" points="4.5,35 44.8,35 44.8,33.5 4.5,33.5 	"/></polyline>
+</g>
+</svg>
+
+
+<!-- <img src="img/icon/close-icon.svg" alt="閉じる" class="close"> -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+    y="0px" viewBox="0 0 34.6 33.5" style="enable-background:new 0 0 34.6 33.5;" xml:space="preserve"  fill="#040000" class="close">
+<polygon class="st0" points="31.1,4.4 30.1,3.3 17.4,16 4.8,3.3 3.7,4.4 16.3,17 3.7,29.7 4.8,30.7 17.4,18.1 30.1,30.7 31.1,29.7 
+    18.5,17 "/>
+</svg>
+		</button>
+
+		
+		<div id="mobile_menu">
+			<nav id="site-navigation" class="main-navigation">
+				
+				<form action="/search.html" class="searchbox">
+					<input type="text" name="q" class="text inactive" id="text-search" placeholder="サイト内検索" title="サイト内検索">
+<input type="hidden" name="cx" value="001558840758742824418:au3kaugg0ka" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+<button>
+	<img src="/share/imgs/icon/search.svg" alt="検索">
+</button>
+				</form>
+
+				<ul>
+					<li><a href="/kurasi/index.html">くらし</a></li>
+<li><a href="/fukusi/index.html">健康・福祉・保険</a></li>
+<li><a href="/kyoiku/index.html">教育・スポーツ・学習</a></li>
+<li><a href="/sigoto/index.html">仕事・産業</a></li>
+<li><a href="/kankou/index.html">観光・文化・イベント</a></li>
+<li><a href="/sisei/index.html">市政情報</a></li>
+
+				</ul>
+			</nav>
+		</div>
+	
+	</div>
+  
+</header><!-- #masthead -->
+<!--共通ヘッダ-->
+
+<div class="container header_search">
+	<form action="/search.html" class="searchbox">
+        <input type="text" name="q" class="text inactive" id="text-search" placeholder="サイト内検索" title="サイト内検索">
+<input type="hidden" name="cx" value="001558840758742824418:au3kaugg0ka" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+<button>
+	<img src="/share/imgs/icon/search.svg" alt="検索">
+</button>
+	</form>
+</div>
+
+<!-- <div id="flow"> -->
+	<script>
+(function (c, n, s) {
+    if (c[n] === void 0) {c['ULObject'] = n;
+    c[n] = c[n] || function () {(c[n].q = c[n].q || []).push(arguments)};
+    c[n].l = 1 * new Date();var e = document.createElement('script');
+    e.async = 1;e.src = s + "/chatbot.js";
+    var t = document.getElementsByTagName('script')[0];t.parentNode.insertBefore(e, t);}
+})(window, 'ul_widget', 'https://support-widget.userlocal.jp');
+ul_widget('init', { 'id': 'fbaa33bf0e74e730de99', 'lg_id': '', 'target_id': 'ulAiWidget2' });
+</script>
+<!-- </div> -->
+<main>
+  <section id="information">
+    <div class="container detail">
+        <div class="inner"><p><span><a href="/index.html">ホーム</a> ＞ </span>
+<span><a href="https://www.city.fukui.lg.jp/kankou/index.html">観光・文化・イベント</a> ＞ </span><span><a href="https://www.city.fukui.lg.jp/kankou/bunka/index.html">文化</a> ＞ </span><span><a href="https://www.city.fukui.lg.jp/kankou/bunka/bunkazai/index.html">文化財保護</a> ＞ </span><span>市指定文化財一覧</span></p>
+</div>
+        <p style="margin-bottom:-30px;font-size:0.9em;text-align:right;">最終更新日：2025年7月17日</p>
+        <div id="rssp">
+          <h2 style="font-size:175%;margin-bottom:35px;" class="title">市指定文化財一覧</h2>
+          <hr class="hr_title" style="height:5px;margin-top:-25px;">
+          <p><a href="#kaiga">絵画</a> <a href="#tyoukoku">彫刻</a> <a href="#kougei">工芸品</a> <a href="#syoseki">書跡古文書</a> <a href="#kouko">考古資料</a> <a href="#mukei">無形民俗</a> <a href="#yuukei">有形民俗</a> <a href="#siseki">史跡</a> <a href="#meisyou">名勝</a> <a href="#tennen">天然記念物</a> へ<br />
+全89件</p>
+
+<h2>建造物〔17件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p style="text-align: center;">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p style="text-align: center;">時 代</p>
+      </th>
+      <th style="width: 140;">
+        <p style="text-align: center;">所在地</p>
+      </th>
+      <th>
+        <p style="text-align: center;">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p>春日神社本殿・拝殿・滝殿社及び社叢</p>
+      </td>
+      <td>
+        <p>江戸時代</p>
+      </td>
+      <td>
+        <p>福井市安波賀町</p>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+        <p><a href="/kankou/bunka/sisetu/umedake.html" target="_blank"><font color="#0066cc">旧梅田家住宅</font></a></p>
+      </td>
+      <td>
+        <p>江戸末</p>
+      </td>
+      <td>
+        <p>福井市月見5丁目<br />
+        おさごえ民家園</p>
+      </td>
+      <td>
+        <p>福井市浄教寺町<br />
+        梅田家住宅を解体移築</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><a href="/kankou/bunka/sisetu/okamoto.html" target="_blank"><font color="#0066cc">旧岡本家住宅</font></a></p>
+      </td>
+      <td>
+        <p>江戸後期</p>
+      </td>
+      <td>
+        <p>福井市月見5丁目<br />
+        おさごえ民家園</p>
+      </td>
+      <td>
+        <p>三方上中郡若狭町有田<br />
+        岡本家住宅を解体移築</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><a href="/kankou/bunka/sisetu/jyouchike.html" target="_blank"><font color="#0066cc">旧城地家住宅</font></a></p>
+      </td>
+      <td>
+        <p>江戸末</p>
+      </td>
+      <td>
+        <p>福井市月見5丁目<br />
+        おさごえ民家園</p>
+      </td>
+      <td>
+        <p>大野市蕨生<br />
+        城地家住宅を解体移築</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><a href="/kankou/bunka/sisetu/tsuchiyake.html" target="_blank"><font color="#0066cc">旧土屋家住宅</font></a></p>
+      </td>
+      <td>
+        <p>江戸末から明治初</p>
+      </td>
+      <td>
+        <p>福井市月見5丁目<br />
+        おさごえ民家園</p>
+      </td>
+      <td>
+        <p>あわら市前谷<br />
+        土屋家住宅を解体移築</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><a href="/kankou/bunka/sisetu/minowake.html" target="_blank"><font color="#0066cc">旧蓑輪家住宅</font></a></p>
+      </td>
+      <td>
+        <p>江戸後期</p>
+      </td>
+      <td>
+        <p>福井市月見5丁目<br />
+        おさごえ民家園</p>
+      </td>
+      <td>
+        <p>越前市八石町<br />
+        蓑輪家住宅を解体移築</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><a href="/kankou/bunka/sisetu/yamasitake.html" target="_blank"><font color="#0066cc">旧山下家板倉</font></a></p>
+      </td>
+      <td>
+        <p>江戸末</p>
+      </td>
+      <td>
+        <p>福井市月見5丁目<br />
+        おさごえ民家園</p>
+      </td>
+      <td>
+        <p>勝山市北谷町小原<br />
+        山下家板倉を解体移築</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>聖徳皇太子堂 附棟札</p>
+      </td>
+      <td>
+        <p>明治35年</p>
+      </td>
+      <td>
+        <p>福井市宝永四丁目<br />
+        神明神社境内</p>
+      </td>
+      <td>
+        <p>木造円堂 高4.0メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>法雲寺本堂・鐘楼</p>
+      </td>
+      <td>
+        <p>宝暦10(1760)<br />
+        ・享保4(1719)</p>
+      </td>
+      <td>
+        <p>福井市大味町</p>
+      </td>
+      <td>
+        <p>本堂:正面19.2メートル、側面17.6メートル、入母屋造桟瓦葺<br />
+        鐘楼：3.0メートル、四方4本柱形式、入母屋造、桟瓦葺</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>観音寺石塔</p>
+      </td>
+      <td>
+        <p>江戸時代</p>
+      </td>
+      <td>
+        <p>福井市浜北山町</p>
+      </td>
+      <td>
+        <p>明和7年（1770）銘、笏谷石製</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>賀茂神社脇社 祇園社</p>
+      </td>
+      <td>
+        <p>江戸初期</p>
+      </td>
+      <td>
+        <p>福井市加茂町</p>
+      </td>
+      <td>
+        <p>3方向回廊の奥に脇には脇障子がつくられ外陣が開放される中世神社建築のなごりをとどめる。</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>石造八幡神社 古式鳥居</p>
+      </td>
+      <td>
+        <p>江戸初期</p>
+      </td>
+      <td>
+        <p>福井市片山町</p>
+      </td>
+      <td>
+        <p>古輪式鳥居：「けいちやう18年（1613）大工千助」の銘文がある。</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>石造五輪塔</p>
+      </td>
+      <td>&nbsp;</td>
+      <td>
+        <p>福井市片山町</p>
+      </td>
+      <td>
+        <p>総高114.5センチメートル、地輪に梵字のアー、水輪の中央に阿弥陀如来坐像が刻まれ、その右に梵字のサー、左にサークが刻まれている。</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>毛利家長屋門</p>
+      </td>
+      <td>
+        <p>文化9年<br />
+        (1812)</p>
+      </td>
+      <td>
+        <p>福井市小野町</p>
+      </td>
+      <td>
+        <p>入母屋造、桟瓦葺</p>
+      </td>
+    </tr>
+    <tr>
+      <td style=";">
+        <p>願念寺納骨堂<br />
+        （旧鶉小学校奉安庫）</p>
+      </td>
+      <td style=";">
+        <p>昭和4年<br />
+        (1929) /<br />
+        昭和23年<br />
+        (1948)移築</p>
+      </td>
+      <td>
+        <p>福井市石新保町</p>
+      </td>
+      <td>
+        <p>石造平屋建、桟瓦葺、建築面積4.3平米</p>
+      </td>
+    </tr>
+    <tr>
+      <td style=";">大安寺観音堂（旧松平斉承御霊屋） 附：棟札</td>
+      <td style=";">
+        <p>天保7年<br />
+        (1836) /<br />
+        昭和25年<br />
+        (1950）移築</p>
+      </td>
+      <td>福井市天菅生町</td>
+      <td>木造方形造<br />
+        幅3.78メートル &times;奥行3.78メートル &times;高さ6.0メートル<br />
+        元は福井藩主14代松平斉承の御霊屋として天保7年に運正寺境内の墓所に建てられたもの。</td>
+    </tr>
+    <tr>
+      <td style=";">赤レンガ倉庫</td>
+      <td style=";">大正14年(1925)</td>
+      <td>福井市手寄1丁目　　火産霊神社境内</td>
+      <td>方形造　正面2.94メートル&times;側面2.94m&times;高さ2.82メートル<br />
+        鉄筋コンクリート造り外部煉瓦積み</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="kaiga"></a>絵画〔3件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 140;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">紙本著色八祖九祖絵図</p>
+      </td>
+      <td>
+        <p align="left">室町初期</p>
+      </td>
+      <td>
+        <p align="left">福井市みのり2丁目</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">紙本著色仏涅槃図</p>
+      </td>
+      <td>
+        <p align="left">江戸初期</p>
+      </td>
+      <td>
+        <p align="left">福井市西木田4丁目</p>
+      </td>
+      <td>
+        <p align="left">縦212.5センチメートル &nbsp;横172.0センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">願念寺本堂天井画</p>
+      </td>
+      <td>
+        <p align="left">江戸後期</p>
+      </td>
+      <td>
+        <p align="left">福井市石新保町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="tyoukoku"></a>彫刻〔18件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 169;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造多聞天王立像・<br />
+        木造広目天王立像</p>
+      </td>
+      <td>
+        <p align="left">平安時代</p>
+      </td>
+      <td>
+        <p align="left">福井市宝永3丁目<br />
+        市立郷土歴史博物館</p>
+      </td>
+      <td>
+        <p align="left">像高138.5センチメートル ・<br />
+        像高143.5センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造阿弥陀如来坐像</p>
+      </td>
+      <td>
+        <p align="left">室町時代</p>
+      </td>
+      <td>
+        <p align="left">福井市東大味町</p>
+      </td>
+      <td>
+        <p align="left">像高140センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造阿弥陀如来立像</p>
+      </td>
+      <td>
+        <p align="left">室町時代</p>
+      </td>
+      <td>
+        <p align="left">福井市鹿俣町</p>
+      </td>
+      <td>
+        <p align="left">像高92.0センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造貫頭衣女神坐像</p>
+      </td>
+      <td>
+        <p align="left">鎌倉時代</p>
+      </td>
+      <td>
+        <p align="left">福井市上河北町</p>
+      </td>
+      <td>
+        <p align="left">像高33.2センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造薬師如来坐像</p>
+      </td>
+      <td>
+        <p align="left">鎌倉時代</p>
+      </td>
+      <td>
+        <p align="left">福井市帆谷町</p>
+      </td>
+      <td>
+        <p align="left">像高83.5センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造神像立像</p>
+      </td>
+      <td>
+        <p align="left">室町時代</p>
+      </td>
+      <td>
+        <p align="left">福井市西木田1丁目</p>
+      </td>
+      <td>
+        <p align="left">像高56.1センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造阿弥陀如来立像</p>
+      </td>
+      <td>
+        <p align="left">鎌倉時代</p>
+      </td>
+      <td>
+        <p align="left">福井市国見町<br />
+        三本木</p>
+      </td>
+      <td>
+        <p align="left">像高146.5センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造阿弥陀如来坐像</p>
+      </td>
+      <td>
+        <p align="left">平安後期</p>
+      </td>
+      <td>
+        <p align="left">福井市東俣町・南西俣町境</p>
+      </td>
+      <td>
+        <p align="left">像高52.0センチメートル、<br />
+        肘張30.5センチメートル、<br />
+        裾張39.0センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造聖徳太子立像</p>
+      </td>
+      <td>
+        <p align="left">鎌倉時代</p>
+      </td>
+      <td>
+        <p align="left">福井市西天田町</p>
+      </td>
+      <td>
+        <p align="left">像高59.0センチメートル、<br />
+        肘張21.0センチメートル、<br />
+        裾張17.0センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">薬師如来坐像</p>
+      </td>
+      <td>
+        <p align="left">平安後期</p>
+      </td>
+      <td>
+        <p align="left">福井市居倉町</p>
+      </td>
+      <td>
+        <p align="left">像高89.5センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">薬師如来坐像</p>
+      </td>
+      <td>
+        <p align="left">平安中期</p>
+      </td>
+      <td>
+        <p align="left">福井市城有町</p>
+      </td>
+      <td>
+        <p align="left">像高103.5センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">阿弥陀如来坐像</p>
+      </td>
+      <td>
+        <p align="left">平安中期</p>
+      </td>
+      <td>
+        <p align="left">福井市大味町</p>
+      </td>
+      <td>
+        <p align="left">像高93.0センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">天王立像(左の間）・<br />
+        天王立像(右の間）</p>
+      </td>
+      <td>
+        <p align="left">平安後期</p>
+      </td>
+      <td>
+        <p align="left">福井市大味町</p>
+      </td>
+      <td>
+        <p align="left">像高105.8センチメートル ・<br />
+        像高95.0センチメートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造聖観世音菩薩立像</p>
+      </td>
+      <td>
+        <p align="left">平安末期</p>
+      </td>
+      <td>
+        <p align="left">福井市坪谷町</p>
+      </td>
+      <td>
+        <p align="left">像高102.5センチメートル、優しい眼差しと優美な曲線の本像は中央で制作されたものと思われる。</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造地蔵菩薩立像</p>
+      </td>
+      <td>
+        <p align="left">平安末期</p>
+      </td>
+      <td>
+        <p align="left">福井市坪谷町</p>
+      </td>
+      <td>
+        <p align="left">像高95.5センチメートル、<br />
+        ヒノキ材一木造り</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造観世音菩薩座像</p>
+      </td>
+      <td>
+        <p align="left">室町末期</p>
+      </td>
+      <td>
+        <p align="left">福井市島寺町</p>
+      </td>
+      <td>
+        <p align="left">像高23.0センチメートル、宝髻の高く簡略化された特徴を持つ。本像は中世から近世への過渡的な仏教彫刻。</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">木造腹帯地蔵菩薩像</p>
+      </td>
+      <td>
+        <p align="left">平安末期</p>
+      </td>
+      <td>
+        <p align="left">福井市笹谷町</p>
+      </td>
+      <td>
+        <p align="left">像高52.0センチメートル、寄木造りの坐像で整った面相や穏やかな作風から中央で制作されたものと思われる。<br />
+        安産の地蔵菩薩と信仰されている。</p>
+      </td>
+    </tr>
+    <tr>
+      <td>木造持国天立像<br />
+        木造多聞天立像<br />
+        木造聖観音菩薩立像<br />
+        木造地蔵菩薩立像</td>
+      <td>平安後期</td>
+      <td>福井市滝波町</td>
+      <td>
+        <p>木造持国天立像：像高103.0センチメートル<br />
+        木造多聞天立像：像高105.5センチメートル<br />
+        木造聖観音菩薩立像：像高98.0センチメートル<br />
+        木造地蔵菩薩立像&nbsp;：像高83.0センチメートル<br />
+        一木造・内刳りなし、彫眼</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="kougei"></a>工芸品〔1件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 140;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">梵鐘</p>
+      </td>
+      <td>
+        <p align="left">室町時代</p>
+      </td>
+      <td>
+        <p align="left">福井市三十八社町</p>
+      </td>
+      <td>
+        <p align="left">総高128センチメートル</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="syoseki"></a>書跡・典籍・古文書〔3件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 140;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">西蓮寺文書</p>
+      </td>
+      <td>
+        <p align="left">織豊期</p>
+      </td>
+      <td>
+        <p align="left">福井市東大味町</p>
+      </td>
+      <td>
+        <p align="left">(1)(天正3年)9月11日、<br />
+        柴田勝家判物<br />
+        (2)天正3年11月20日、<br />
+        柴田勝家判物<br />
+        (3)文禄3年6月4日、<br />
+        蜂須賀正谷寺屋敷安堵状</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">甑谷村絵図</p>
+      </td>
+      <td>
+        <p align="left">江戸中期</p>
+      </td>
+      <td>
+        <p align="left">福井市風巻町<br />
+        清水郷土資料館</p>
+      </td>
+      <td>
+        <p align="left">元文4年（1739）に作図された村絵図、縦1.4メートル、横1.5メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">山本家文書</p>
+      </td>
+      <td>
+        <p align="left">中世</p>
+      </td>
+      <td>
+        <p align="left">福井市居倉町</p>
+      </td>
+      <td>
+        <p align="left">・「預所代僧刀禰職宛状」<br />
+        ・「居倉浦年貢目録」<br />
+        ・「後土御門天皇宣案写」<br />
+        ・「某刀禰職安堵状」<br />
+        ・「朝倉氏景書状」<br />
+        ・「朝倉氏景書状写」<br />
+        ・「朝倉貞景感状写」<br />
+        ・「朝倉貞景書状」<br />
+        ・「山本道春譲状」<br />
+        ・「立神吉藤買得地目録」<br />
+        ・「某申状」<br />
+        ・「侍従某書状」<br />
+        ・「先祖由来書覚」</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="kouko"></a>考古資料〔4件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 155;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">石棺 附副葬品</p>
+      </td>
+      <td>
+        <p align="left">古墳時代<br />
+        後期</p>
+      </td>
+      <td>
+        <p align="left">福井市大宮2丁目<br />
+        県立歴史博物館</p>
+      </td>
+      <td>
+        <p align="left">酒生122号墳(新溜古墳)<br />
+        出土</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">原目山遺跡出土品</p>
+      </td>
+      <td>
+        <p align="left">弥生から古墳</p>
+      </td>
+      <td>
+        <p align="left">福井市宝永3丁目<br />
+        市立郷土歴史博物館</p>
+      </td>
+      <td>
+        <p align="left">原目山1から5号丘出土遺物、<br />
+        1966年発掘調査</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">片粕遺跡出土品一括</p>
+      </td>
+      <td>
+        <p align="left">縄文中期</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+
+        <p align="left">福井市宝永3丁目<br />
+        市立郷土歴史博物館</p>
+      </td>
+      <td>
+        <p align="left">昭和47年 グリーンハイツ<br />
+        住宅団地造成<br />
+        多量の縄文土器、磨製石斧、打製石斧、石錘等出土</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">塚越遺跡出土鉄刀一括</p>
+      </td>
+      <td>
+        <p align="left">弥生末期</p>
+      </td>
+      <td>
+        <p align="left">福井市宝永3丁目<br />
+        市立郷土歴史博物館</p>
+
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">大正9年（1920）土取りの際、再発見された遺物のうち発見者に返却された鉄刀1と森林太郎の署名のある東京帝室博物館の受領書1通</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="mukei"></a>無形民俗文化財〔2件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 140;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">免鳥夜網節</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市免鳥町</p>
+      </td>
+      <td>
+        <p align="left">公開日：毎年10月第2日曜日<br />
+        平成23年12月15日「鷹巣夜網節」より名称変更</p>
+      </td>
+    </tr>
+    <tr>
+      <td>舟橋の左義長</td>
+      <td>&nbsp;</td>
+      <td>福井市舟橋町</td>
+      <td>公開日：2月15日</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="yuukei"></a>有形民俗文化財〔1件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 140;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">八幡神社千石船絵馬</p>
+      </td>
+      <td>
+        <p align="left">江戸時代</p>
+      </td>
+      <td>
+        <p align="left">福井市大味町</p>
+      </td>
+      <td>
+        <p align="left">八幡神社社殿に江戸後期から明治の絵馬10点がある<br />
+        北前船による海運業を知る資料</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="siseki"></a>史跡〔17件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 140;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">盛源寺</p>
+      </td>
+      <td>
+        <p align="left">室町時代</p>
+      </td>
+      <td>
+        <p align="left">福井市西新町地係</p>
+      </td>
+      <td>
+        <p align="left">盛源寺境内地</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">槇山城跡</p>
+      </td>
+      <td>
+        <p align="left">室町から織豊</p>
+      </td>
+      <td>
+        <p align="left">福井市小路町・<br />
+        安原町・栃泉町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">大安寺</p>
+      </td>
+      <td>
+        <p align="left">江戸</p>
+      </td>
+      <td>
+        <p align="left">福井市田ノ谷町</p>
+      </td>
+      <td>
+        <p align="left">境内（千畳敷含む）</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">水切古墳群</p>
+      </td>
+      <td>
+        <p align="left">古墳時代<br />
+        後期</p>
+      </td>
+      <td>
+        <p align="left">福井市水切町</p>
+      </td>
+      <td>
+        <p align="left">1号墳、2号墳 個人管理、<br />
+        3号墳 水切区管理</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">篠尾廃寺塔跡附出土瓦</p>
+      </td>
+      <td>
+        <p align="left">白鳳</p>
+      </td>
+      <td>
+        <p align="left">福井市篠尾町</p>
+      </td>
+      <td>
+        <p align="left">塔心楚：凝灰質砂岩製、<br />
+        長辺2.6メートル、短辺2.0メートル、<br />
+        厚さ1.3メートル<br />
+        中央の心楚<br />
+        孔直径88センチメートル、<br />
+        深さ22.0センチメートル、<br />
+        瓦：素弁八葉蓮華文および重圏文の軒の軒丸瓦・連弧文および均整唐草文の軒平瓦、丸瓦、平瓦、面戸瓦、その他土器出土</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">伊自良氏館跡伝承地</p>
+      </td>
+      <td>
+        <p align="left">中世</p>
+      </td>
+      <td>
+        <p align="left">福井市中手町</p>
+      </td>
+      <td>
+        <p align="left">12,400平米</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">大味遺跡</p>
+      </td>
+      <td>
+        <p align="left">縄文・弥生・<br />
+        古墳・奈良</p>
+      </td>
+      <td>
+        <p align="left">福井市大味町</p>
+      </td>
+      <td>
+        <p align="left">石剣、敲石、磨石等、<br />
+        須恵器提瓶出土</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">居倉小浜遺跡</p>
+      </td>
+      <td>
+        <p align="left">縄文・弥生・<br />
+        奈良</p>
+      </td>
+      <td>
+        <p align="left">福井市居倉町</p>
+      </td>
+      <td>
+        <p align="left">縄文土器、弥生土器、<br />
+        石鏃、石匙、石錘、石棒、<br />
+        石皿等数千点出土</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">城有殿稲場城址</p>
+      </td>
+      <td>
+        <p align="left">中世・近世</p>
+      </td>
+      <td>
+        <p align="left">福井市城有町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">賀茂神社窯跡</p>
+      </td>
+      <td>
+        <p align="left">古墳時代末期<br />
+        （7世紀）</p>
+      </td>
+      <td>
+        <p align="left">福井市加茂町<br />
+        賀茂神社</p>
+      </td>
+      <td>
+        <p align="left">工事の際に発見。須恵器平瓶1、高杯1が出土</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">在田1号墳</p>
+      </td>
+      <td>
+        <p align="left">古墳時代後期<br />
+        （6から7世紀）</p>
+      </td>
+      <td>
+        <p align="left">福井市在田町</p>
+      </td>
+      <td>
+        <p align="left">円墳、直径15.0メートル、<br />
+        墳丘高5.0メートル<br />
+        横穴式石室</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">護良親王御滞留伝承地</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市山内町</p>
+      </td>
+      <td>
+        <p align="left">元弘の変に敗れて落ち延びた護良親王が匿われたと言い伝えのある場所。<br />
+        鎌倉時代の年号である元弘2年(1332)を刻む江戸時代末期の石祠あり</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">結城晴朝館跡</p>
+      </td>
+      <td>
+        <p align="left">江戸初期</p>
+      </td>
+      <td>
+        <p align="left">福井市片粕町</p>
+      </td>
+      <td>
+        <p align="left">結城秀康養父結城晴朝の館跡</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">清水山城跡</p>
+      </td>
+      <td>
+        <p align="left">戦国時代</p>
+      </td>
+      <td>
+        <p align="left">福井市清水山町</p>
+      </td>
+      <td>
+        <p align="left">伝大田小源五館跡</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">三留城跡</p>
+      </td>
+      <td>
+        <p align="left">戦国時代</p>
+      </td>
+      <td>
+        <p align="left">福井市三留町<br />
+        私有地山</p>
+      </td>
+      <td>
+        <p align="left">三富氏館跡</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">小羽山30号墓</p>
+      </td>
+      <td>
+        <p align="left">弥生後期</p>
+      </td>
+      <td>
+        <p align="left">福井市小羽町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">方山真光寺跡塔址</p>
+      </td>
+      <td>
+        <p align="left">鎌倉時代</p>
+      </td>
+      <td>
+        <p align="left">福井市片山町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="meisyou"></a>名勝〔1件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th>
+        <p align="center">名 称</p>
+      </th>
+      <th>
+        <p align="center">時 代</p>
+      </th>
+      <th>
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">青木氏（青木蘭麝堂)<br />
+        庭園</p>
+      </td>
+      <td>江戸後期</td>
+      <td>
+        <p align="left">福井市脇三ケ町</p>
+      </td>
+      <td>
+        <p align="left">指定範囲面積632平米<br />
+        中央部には屈曲の多い園地があり、<br />
+        その周辺に飛石が配された廻遊式林泉庭園</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2><a name="tennen"></a>天然記念物〔20件〕</h2>
+
+<table style="width: 660;">
+  <tbody>
+    <tr>
+      <th style="width: 160;">
+        <p align="center">名 称</p>
+      </th>
+      <th style="width: 100;">
+        <p align="center">時 代</p>
+      </th>
+      <th style="width: 145;">
+        <p align="center">所在地</p>
+      </th>
+      <th>
+        <p align="center">備考（公開日、形状等）</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">ラカン樹</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市脇三ケ町</p>
+      </td>
+      <td>
+        <p align="left">樹高8.5メートル、目通り2.3メートル、<br />
+        根周り2.6メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">イチョウ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市大手3丁目<br />
+        福井神社</p>
+      </td>
+      <td>
+        <p align="left">樹高22.7メートル、目通り3.6メートル、根周り3.8メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">イチョウ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市西木田2丁目<br />
+        長慶寺</p>
+      </td>
+      <td>
+        <p align="left">樹高20メートル、目通り4.2メートル、<br />
+        根周り4.24メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">ギフチョウ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">足羽山、<br />
+        八幡山、兎越山</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">シダレザクラ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市足羽1丁目<br />
+        足羽神社</p>
+      </td>
+      <td>
+        <p align="left">樹高6メートル、目通り2.5メートル、<br />
+        根周り2.63メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">モミジ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市足羽1丁目<br />
+        足羽神社</p>
+      </td>
+      <td>
+        <p align="left">樹高12メートル、目通り3.22メートル、<br />
+        根周り2.13メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">ラカン樹</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市足羽1丁目<br />
+        安養寺</p>
+      </td>
+      <td>
+        <p align="left">樹高15メートル、目通り2.6メートル、<br />
+        根周り2.65メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">シダレザクラ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市武周町<br />
+        西雲寺</p>
+      </td>
+      <td>
+        <p>(本堂前)樹高8メートル、目通り3.87メートル （2.07メートル と1.8メートル に分枝)、枝張り16メートル</p>
+
+        <p>(納骨堂前）樹高16メートル、目通り2.77メートル、枝張り13.5メートル<br />
+        (庫裏前）樹高8メートル、目通り1.88メートル、枝張り8.5メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">ケヤキ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市千合町</p>
+      </td>
+      <td>
+        <p align="left">樹高20メートル、目通り5.6メートル、<br />
+        根周り7.4メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">カヤ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市千合町</p>
+      </td>
+      <td>
+        <p align="left">樹高18メートル、目通り3.5メートル、<br />
+        根周り3.5メートル</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">ヤブニッケイの群生地</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市居倉町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">大石海岸</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市居倉町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">ケヤキ</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市蒲生町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">軍艦岩・大味海岸</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市茱崎町・大味町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">足見滝</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市浜北山町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">鯨穴</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市浜北山町</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">鼓岩</p>
+      </td>
+      <td>
+        <p align="left">&nbsp;</p>
+      </td>
+      <td>
+        <p align="left">福井市清水町</p>
+      </td>
+      <td>
+        <p align="left">鼓の形をした奇岩</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="left">直立樹幹化石</p>
+      </td>
+      <td>
+        <p align="left">白亜紀前期</p>
+      </td>
+      <td>
+        <p align="left">福井市小宇坂町</p>
+      </td>
+      <td>
+        <p align="left">指定範囲：化石を含む地番の道路から高さ3メートル まで</p>
+
+        <p align="left">樹幹の長さ約180センチメートル、先端部の太さ約30センチメートル の顕著なものが1個体あり、その周囲にも細かいものが存在する。</p>
+      </td>
+    </tr>
+    <tr>
+      <td>ケヤキ</td>
+      <td>&nbsp;</td>
+      <td>福井市脇三ケ町<br />
+        青木蘭麝堂</td>
+      <td>樹高18メートル、目通り6.9メートル、<br />
+        根周り約11.3メートル</td>
+    </tr>
+    <tr>
+      <td>クスノキ</td>
+      <td>&nbsp;</td>
+      <td>福井市脇三ケ町<br />
+        青木蘭麝堂</td>
+      <td>樹高24メートル、目通り3.2メートル、<br />
+        根周り4.3メートル</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="/kankou/bunka/bunkazai/kunisitei.html">国指定文化財一覧へ</a> <a href="/kankou/bunka/bunkazai/kensitei.html">県指定文化財一覧へ</a> <a href="/kankou/bunka/bunkazai/kunitourokubunkazai.html">登録文化財一覧へ</a> <a href="/kankou/bunka/bunkazai/p013089.html">福井市内の文化財トップへ</a></p>
+        </div>
+
+        
+
+        
+
+        <h3 class="h3-a">
+    お問い合わせ先
+    </h3>
+
+    <p>
+    教育委員会事務局 <a href="/dept/d620/bunka-b/index.html">文化財保護課</a><br>
+    <span class="tel"><span class="label">電話番号&nbsp;</span>0776-35-1015</span><span class="separate"> ｜ </span><span class="fax"><span class="label">ファクス番号&nbsp;</span>0776-35-1017</span><br>
+    〒918-8026　福井市渕4丁目748  <a href="http://maps.google.co.jp/maps?f=q&hl=ja&geocode=&q=%e3%80%92918-8026%e3%80%80%e7%a6%8f%e4%ba%95%e5%b8%82%e6%b8%954%e4%b8%81%e7%9b%ae748" target="_blank">【GoogleMap】</a>  <br>
+    業務時間 平日8:30～17:15
+    </p>
+
+   <a href="/inquiry/mailform1038037.html?PAGE_NO=6417" class="linkbtn small">メールでのお問い合わせはこちら</a>
+
+        <p style="margin-bottom:-30px;font-size:0.9em;text-align:right;">ページ番号：006417</p>
+    </div>
+  </section>
+</main>
+
+<footer id="site-footer">
+    <section>
+        <div class="container">
+            <div class="ad_wrap">
+                <div class="left">
+
+  <h3 class="h3-b">
+    有料広告欄
+    <a href="/sisei/kohou/hp/p006702.html" class="ad_link">バナー広告掲載のご案内</a>
+  </h3>
+</div>
+<div class="right">
+  <div class="btns_wrap">
+<script type="text/javascript">
+banner = [["http://www.masudaki.co.jp/", "_blank", "/share/bnr/19.gif", "広告：株式会社増田喜", "19"],["http://www.kurinmastar.com/index.html", "_blank", "/share/bnr/56.gif", "広告：株式会社クリンマスター", "56"],["https://www.eco-kankyou.co.jp/", "_blank", "/share/bnr/78.gif", "広告：株式会社エコ環境プロジェクト", "78"],["https://webc.sjc.ne.jp/genkikun/index", "_blank", "/share/bnr/119.gif", "広告：シルバー人材センター", "119"],["https://izutsu-law.jp/", "_blank", "/share/bnr/144.gif", "弁護士法人　井筒ともこ法律事務所", "144"],["https://www.s-shinku.co.jp/", "_blank", "/share/bnr/157.gif", "広告：日本真空化学株式会社", "157"],["http://www.daiki-fd.co.jp/", "_blank", "/share/bnr/158.gif", "広告：ダイキ", "158"],["https://fukui.ryugudo.net/", "_blank", "/share/bnr/159.gif", "広告：浦嶋", "159"],   []
+];
+
+
+var list = new Array(banner.length-1);
+for(i=0;i<list.length;i++) {
+	list[i] = i;
+}
+
+    var i = list.length;
+    while(i){
+        var j = Math.floor(Math.random()*i);
+        var wk = list[--i];
+        list[i] = list[j];
+        list[j] = wk;
+    }
+
+for(i in list) {
+	row = list[i];
+    document.write("<div class='btns_item bnr_item_col-3'><a href='" + banner[row][0] + "'class='linkbtn_g banner_link' target='" + banner[row][1] + "'onclick=\"gtag('event','banner_click',{'event_category':'sidebar','event_label':'banner','value':1});\"><img src='" + banner[row][2] + "' class='bn' alt='" + banner[row][3] + "' onclick='getElementById(\"dmimg\").src = \"/cgi-bin/cms/view/pageview.cgi?PAGE_KIND_CD=15&PAGE_NO=" + banner[row][4] + "&OUTPUT_FG=1\"' /></a></div>");
+    
+}
+</script>
+  </div>
+</div>
+
+            </div>
+        </div>
+    </section>
+    <div class="container">
+  
+      <div class="footer_btn_wrap" id="page-top">
+          <a href="/index.html" class="home">
+  <img src="/share/imgs/icon/home.svg" alt="home"><br>
+  ホーム
+</a>
+<a href="/support/index.html" class="nav">
+  <img src="/share/imgs/icon/staff.svg" alt="navi"><br>
+  手続きナビ
+</a>
+<a href="https://supportbot-admin.userlocal.jp/pages/fbaa33bf0e74e730de99" class="ai">
+  <img src="/share/imgs/icon/chat.svg" alt="chat"><br>
+  AIチャット
+</a>
+  
+<a href="#" id="totop">
+  <img src="/share/imgs/icon/totop.svg" alt="top"><br>
+  ページトップ
+</a>
+      </div>
+  
+      <div class="flex">
+        <div class="col-lg5">
+          <a href="/index.html" class="site_logo">
+    <img src="/share/imgs/logo.png" alt="福井市" width="180" class="color-basic">
+    <img src="/share/imgs/logo-w.png" alt="福井市" width="180" class="color-white">
+    <img src="/share/imgs/logo-y.png" alt="福井市" width="180" class="color-yellow">
+</a>
+          <p class="title">
+  福井市役所
+</p>
+<p class="address">
+〒910-8511 福井県福井市大手3丁目10番1号<br>
+<a href="https://www.google.com/maps/place/〒910-8511+福井県福井市大手%EF%BC%93丁目%EF%BC%91%EF%BC%90−%EF%BC%91+福井市役所/@36.064063,136.219537,16z/data=!4m6!3m5!1s0x5ff8beedc54968c1:0xafb059ae3e6236eb!8m2!3d36.0640627!4d136.219537!16s%2Fg%2F1233rfbt?hl=ja&gl=JP" target="_blank">
+GoogleMap</a> / <a href="/sisei/sosiki/tyousya/floormap.html">フロアマップ</a><br>
+電話番号　0776-20-5111（代表）<br>
+業務時間　平日8時30分から17時15分
+</p>
+  
+          <div id="breadcrumb" class="breadcrumb_pc">
+              <ul>
+   <li><a href="/sitemap.html">サイトマップ</a></li>
+   <li><a href="/sisei/kohou/hp/site-p.html">サイトポリシー</a></li>
+   <!-- <li>アクセシビリティ方針</li> -->
+</ul>
+          </div>
+        </div>
+        <div class="col-lg7">
+    <div id="googlemap_wrap">
+       <p class="title"><a href="/fukuisi/prezen/youkoso/p004980.html" class="linkbtn"
+          style="padding-top: 10px;padding-bottom: 10px;line-height: 1em;margin-top: 10px;margin-bottom: 10px;text-decoration: none;">福井市の紹介</a>
+       </p>
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3891.2314445482866!2d136.21691435878685!3d36.063962642341046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff8beedc54968c1%3A0xafb059ae3e6236eb!2z56aP5LqV5biC5b255omA!5e0!3m2!1sja!2sjp!4v1697004167213!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="map"></iframe>
+    </div>
+    <p class="title"><a href="/sisei/tokei/jinko/jinkoutoukei.html" class="linkbtn"
+       style="padding-top: 10px;padding-bottom: 10px;line-height: 1em;margin-top: 85px;margin-bottom: -65px;text-decoration: none;">市の人口</a>
+    </p>
+    <div class="footer_counter_wrap">
+      <div class="counter">
+        <div class="counter_1">
+          人口
+        </div>
+        <div class="counter_2">
+        251,113 
+        </div>
+        <div class="counter_3">
+          人
+        </div>
+      </div>
+      <div class="counter">
+        <div class="counter_1">
+        世帯数
+        </div>
+        <div class="counter_2">
+        109,865
+        </div>
+        <div class="counter_3">
+          世帯
+        </div>
+      </div>
+    </div>
+    <!-- end of .footer_counter_wrap -->
+    <p class="date">2026年5月1日現在</p>
+</div>
+        <div id="breadcrumb" class="breadcrumb_sp">
+          <ul>
+   <li><a href="/sitemap.html">サイトマップ</a></li>
+   <li><a href="/sisei/kohou/hp/site-p.html">サイトポリシー</a></li>
+   <!-- <li>アクセシビリティ方針</li> -->
+</ul>
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      <div class="container">
+        <p>COPYRIGHT © FUKUI CITY</p>
+      </div>
+    </div>
+<img src="/cgi-bin/cms/view/pageview.cgi?PAGE_KIND_CD=3&amp;PAGE_NO=6417&amp;OUTPUT_FG=1" style="display:none;" alt="" width="1" height="1" />
+</footer>
+  
+  <!-- <a href="#" id="totop"></a> -->
+<script src="/share/scripts/common.js?231108"></script>
+</body>
+<script>
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        const targetName = this.getAttribute('href').substring(1);
+        const targetElements = document.getElementsByName(targetName);
+
+        if (targetElements.length > 0) {
+            const targetElement = Array.from(targetElements).find(element => element.closest('td'));
+            const targetElement2 = Array.from(targetElements).find(element => element.closest('h2'));
+            const targetElement3 = Array.from(targetElements).find(element => element.closest('h3'));
+            const targetElement4 = Array.from(targetElements).find(element => element.closest('h4'));
+            if (targetElement) {
+                const rect = targetElement.getBoundingClientRect();
+                const offsetTop = rect.top + window.scrollY || 0;
+
+                window.scrollTo({
+                    top: offsetTop - 120, // ヘッダーの高さをオフセットに追加
+                    behavior: 'smooth'
+                });
+            }else if(targetElement2){
+                const rect = targetElement2.getBoundingClientRect();
+                const offsetTop = rect.top + window.scrollY || 0;
+
+                window.scrollTo({
+                    top: offsetTop - 180, // ヘッダーの高さをオフセットに追加
+                    behavior: 'smooth'
+                });
+            }else if(targetElement3){
+                const rect = targetElement3.getBoundingClientRect();
+                const offsetTop = rect.top + window.scrollY || 0;
+
+                window.scrollTo({
+                    top: offsetTop - 180, // ヘッダーの高さをオフセットに追加
+                    behavior: 'smooth'
+                });
+            }else if(targetElement4){
+                const rect = targetElement4.getBoundingClientRect();
+                const offsetTop = rect.top + window.scrollY || 0;
+
+                window.scrollTo({
+                    top: offsetTop - 180, // ヘッダーの高さをオフセットに追加
+                    behavior: 'smooth'
+                });
+            }else{
+	            window.scrollTo({
+	                top: targetElements[0].offsetTop - 80, // ヘッダーの高さをオフセットに追加
+	                behavior: 'smooth'
+	            });
+	    }
+        } else if (targetName === '') {
+            // ページのトップにスクロールする場合
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+    });
+});
+</script>
+</html>

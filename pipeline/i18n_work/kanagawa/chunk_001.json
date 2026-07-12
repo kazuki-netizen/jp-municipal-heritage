@@ -1,0 +1,397 @@
+[
+ {
+  "jmh_id": "JMH-142123-0047",
+  "name": "恩名沖原遺跡出土 浅鉢",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2013-09-20",
+  "municipality": "厚木市",
+  "location": "下川入1366-4"
+ },
+ {
+  "jmh_id": "JMH-142123-0050",
+  "name": "宮の里遺跡出土土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2017-01-24",
+  "municipality": "厚木市",
+  "location": "下川入1366-4"
+ },
+ {
+  "jmh_id": "JMH-142123-0052",
+  "name": "愛名宮地遺跡出土 瓦塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "2018-12-18",
+  "municipality": "厚木市",
+  "location": "下川入1366-4"
+ },
+ {
+  "jmh_id": "JMH-142123-0046",
+  "name": "北条家制札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "市指定",
+  "designated_date": "2013-09-20",
+  "municipality": "厚木市",
+  "location": "下川入1366-4"
+ },
+ {
+  "jmh_id": "JMH-142123-0030",
+  "name": "伊勢十二座太神楽獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1980-09-12",
+  "municipality": "厚木市"
+ },
+ {
+  "jmh_id": "JMH-142123-0009",
+  "name": "古式消防(木遣唄･まとい振り･梯子乗り)",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1971-07-01",
+  "municipality": "厚木市"
+ },
+ {
+  "jmh_id": "JMH-142123-0010",
+  "name": "相模里神楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1971-07-01",
+  "municipality": "厚木市",
+  "location": "酒井"
+ },
+ {
+  "jmh_id": "JMH-142123-0033",
+  "name": "双盤念仏",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1994-12-05",
+  "municipality": "厚木市",
+  "location": "酒井"
+ },
+ {
+  "jmh_id": "JMH-142123-0002",
+  "name": "旧厚木村渡船場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1961-10-21",
+  "municipality": "厚木市",
+  "location": "東町8"
+ },
+ {
+  "jmh_id": "JMH-142123-0008",
+  "name": "荻野山中藩陣屋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1970-07-15",
+  "municipality": "厚木市",
+  "location": "下荻野251外"
+ },
+ {
+  "jmh_id": "JMH-142123-0027",
+  "name": "烏山藩厚木役所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1977-07-01",
+  "municipality": "厚木市",
+  "location": "厚木町6"
+ },
+ {
+  "jmh_id": "JMH-142123-0028",
+  "name": "本間氏累代の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1979-02-07",
+  "municipality": "厚木市",
+  "location": "金田262"
+ },
+ {
+  "jmh_id": "JMH-142123-0005",
+  "name": "カシワ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1966-08-17",
+  "municipality": "厚木市"
+ },
+ {
+  "jmh_id": "JMH-142123-0004",
+  "name": "イヌマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1966-08-17",
+  "municipality": "厚木市",
+  "location": "飯山5605"
+ },
+ {
+  "jmh_id": "JMH-142123-0006",
+  "name": "イチョウ(２本）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-11-30",
+  "municipality": "厚木市",
+  "location": "上依知1"
+ },
+ {
+  "jmh_id": "JMH-142123-0026",
+  "name": "イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1977-04-13",
+  "municipality": "厚木市",
+  "location": "旭町3-14"
+ },
+ {
+  "jmh_id": "JMH-142123-0031",
+  "name": "イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1988-09-26",
+  "municipality": "厚木市",
+  "location": "上荻野1-イ"
+ },
+ {
+  "jmh_id": "JMH-142123-0041",
+  "name": "カゴノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2011-06-15",
+  "municipality": "厚木市",
+  "location": "林3-7-1"
+ },
+ {
+  "jmh_id": "JMH-142123-0055",
+  "name": "ムクロジ（無患子）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "2022-02-12",
+  "municipality": "厚木市",
+  "location": "棚沢118-2"
+ },
+ {
+  "jmh_id": "JMH-142158-0001",
+  "name": "正覺寺・十一面観世音菩薩像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-04-23",
+  "municipality": "海老名市",
+  "location": "門沢橋四丁目１３番１３号"
+ },
+ {
+  "jmh_id": "JMH-142158-0002",
+  "name": "海源寺・大島豊後守正時坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1974-04-23",
+  "municipality": "海老名市",
+  "location": "中新田一丁目１番２２号"
+ },
+ {
+  "jmh_id": "JMH-142158-0003",
+  "name": "豊受大神・絵馬３面",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1974-04-23",
+  "municipality": "海老名市",
+  "location": "杉久保北二丁目２２番１号"
+ },
+ {
+  "jmh_id": "JMH-142158-0007",
+  "name": "龍峰寺・観音堂（旧清水寺本堂）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975-03-19",
+  "municipality": "海老名市",
+  "location": "国分北二丁目１３番４０号"
+ },
+ {
+  "jmh_id": "JMH-142158-0006",
+  "name": "龍峰寺・仁王門（旧清水寺）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1975-03-19",
+  "municipality": "海老名市",
+  "location": "国分北二丁目１３番４０号"
+ },
+ {
+  "jmh_id": "JMH-142158-0005",
+  "name": "龍峰寺・仁王像（旧清水寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1975-03-19",
+  "municipality": "海老名市",
+  "location": "国分北二丁目１３番４０号"
+ },
+ {
+  "jmh_id": "JMH-142158-0009",
+  "name": "本覺寺・大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977-10-12",
+  "municipality": "海老名市",
+  "location": "本郷４６１８番地"
+ },
+ {
+  "jmh_id": "JMH-142158-0010",
+  "name": "東林寺・大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977-10-12",
+  "municipality": "海老名市",
+  "location": "今里三丁目１０番７号"
+ },
+ {
+  "jmh_id": "JMH-142158-0008",
+  "name": "寿閑寺・脇侍二菩薩像（普賢菩薩像、文殊菩薩像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1977-10-12",
+  "municipality": "海老名市",
+  "location": "本郷３４５３番地"
+ },
+ {
+  "jmh_id": "JMH-142158-0011",
+  "name": "龍峰寺・絵馬（歌川国経筆）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1977-10-12",
+  "municipality": "海老名市",
+  "location": "国分北二丁目１３番４０号"
+ },
+ {
+  "jmh_id": "JMH-142158-0012",
+  "name": "有鹿神社・本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "海老名市",
+  "location": "上郷一丁目４番４１号"
+ },
+ {
+  "jmh_id": "JMH-142158-0013",
+  "name": "有鹿神社拝殿天井龍の絵図（藤原隆秀筆）",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "designated_date": "1992-10-01",
+  "municipality": "海老名市",
+  "location": "上郷一丁目４番４１号"
+ },
+ {
+  "jmh_id": "JMH-142158-0014",
+  "name": "常念寺石造宝篋印塔・石灯籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1993-04-01",
+  "municipality": "海老名市",
+  "location": "本郷３０６８番１"
+ },
+ {
+  "jmh_id": "JMH-142158-0015",
+  "name": "海源寺・鐘楼門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1994-10-20",
+  "municipality": "海老名市",
+  "location": "中新田一丁目１番２２号"
+ },
+ {
+  "jmh_id": "JMH-142158-0016",
+  "name": "八坂神社・本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "1998-08-28",
+  "municipality": "海老名市",
+  "location": "勝瀬９番１号"
+ },
+ {
+  "jmh_id": "JMH-142158-0019",
+  "name": "渋谷神社・本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003-04-30",
+  "municipality": "海老名市",
+  "location": "門沢橋四丁目１１番１４号"
+ },
+ {
+  "jmh_id": "JMH-142158-0020",
+  "name": "中野八幡宮・本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2004-05-18",
+  "municipality": "海老名市",
+  "location": "中野一丁目１番１号"
+ },
+ {
+  "jmh_id": "JMH-142158-0022",
+  "name": "浄久寺・長谷川家石造宝篋印塔群",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-05-18",
+  "municipality": "海老名市",
+  "location": "門沢橋四丁目１１番１号"
+ },
+ {
+  "jmh_id": "JMH-142158-0021",
+  "name": "浄久寺・木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2005-05-18",
+  "municipality": "海老名市",
+  "location": "門沢橋四丁目１１番１号"
+ },
+ {
+  "jmh_id": "JMH-142158-0004",
+  "name": "大谷歌舞伎（素人歌舞伎）",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "1975-03-19",
+  "municipality": "海老名市"
+ },
+ {
+  "jmh_id": "JMH-142158-0023",
+  "name": "海老名の祭囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "市指定",
+  "designated_date": "2025-09-29",
+  "municipality": "海老名市"
+ }
+]

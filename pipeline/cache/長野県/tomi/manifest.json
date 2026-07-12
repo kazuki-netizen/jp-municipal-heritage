@@ -1,0 +1,18 @@
+{
+  "953938c74df1b7ad": {
+    "url": "https://www.city.tomi.nagano.jp/file/121886.pdf",
+    "filename": "953938c74df1b7ad.pdf",
+    "sha256": "879da6586284787c58c08eab2e91d18fd338de003dc9d0ae72f301e2ded01af1",
+    "fetched_at": "2026-07-12T04:28:08Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "ea31f2645f21f6d4": {
+    "url": "https://www.city.tomi.nagano.jp/category/bunkazai/index.html",
+    "filename": "ea31f2645f21f6d4.html",
+    "sha256": "8f76a6396950bf6c4e4a39fa29af71c469d9eb0fe5328694c33c836ffdda20a8",
+    "fetched_at": "2026-07-12T04:28:10Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

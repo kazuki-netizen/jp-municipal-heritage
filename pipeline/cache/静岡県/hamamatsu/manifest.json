@@ -1,0 +1,18 @@
+{
+  "d1e2ef45d5af5183": {
+    "url": "https://www.city.hamamatsu.shizuoka.jp/odpf/opendata/v1.html?x=shiteitoubunkazai",
+    "filename": "d1e2ef45d5af5183.html",
+    "sha256": "7dfc7ae5b9bd6943c4c6e7175f5d649d6e3ecf944744cae5c880ab9fc07e254f",
+    "fetched_at": "2026-07-12T03:51:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "shiteitoubunkazai_utf8": {
+    "url": "https://static.hamamatsu.odpf.net/opendata/v01/shiteitoubunkazai/shiteitoubunkazai.csv",
+    "filename": "shiteitoubunkazai_utf8.csv",
+    "note": "元CSVはcp932。元ファイルshiteitoubunkazai.csvを保持、UTF-8変換版を抽出に使用。opendata.pref.shizuoka.jp/dataset/12010.htmlのsource-urlリダイレクト先を手動発見（トップURLはJS描画カタログでリンクなし）。",
+    "fetched_at": "2026-07-12T04:39:00Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

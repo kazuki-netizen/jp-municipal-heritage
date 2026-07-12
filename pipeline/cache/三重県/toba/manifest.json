@@ -1,0 +1,18 @@
+{
+  "7d089e1a4939fc32": {
+    "url": "https://www.city.toba.mie.jp/soshiki/k_shakaikyoiku/gyomu/rekishi_bunkazai/bunkazai/index.html",
+    "filename": "7d089e1a4939fc32.html",
+    "sha256": "c0355dfebb75c4cacd711ad85d980ce0dd2acd5ac2dc404806c9f90b9fb4aff1",
+    "fetched_at": "2026-07-12T06:13:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9c0d781d8b0f9736": {
+    "url": "https://www.city.toba.mie.jp/isan/5502.html",
+    "filename": "9c0d781d8b0f9736.html",
+    "sha256": "b798b5d54d54b050e446b7bcafcd1ad4ad9debe6ff790f70392d7ff59c16c6fc",
+    "fetched_at": "2026-07-12T06:13:41Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "f3fdfa6f5f6341f7": {
+  "url": "https://www.vill.nakagawa.nagano.jp/site/bunkazai/",
+  "filename": "f3fdfa6f5f6341f7.html",
+  "sha256": "9569c27dbf06e7e769e448b1ffdd7f3d883dd4712ec573d951809d84c29e3755",
+  "fetched_at": "2026-07-12T04:28:20Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "5918db2e0e42c592": {
+  "url": "https://www.vill.nakagawa.nagano.jp/soshiki/kyouiku/4970.html",
+  "filename": "5918db2e0e42c592.html",
+  "sha256": "739df7e88ab21be607a71616621df650126e469a8529eb299ff47c26553f8a2c",
+  "fetched_at": "2026-07-12T04:28:22Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.vill.nakagawa.nagano.jp/soshiki/kyouiku/4970.html": {
+  "file": "5918db2e0e42c592.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:38Z"
+ }
+}

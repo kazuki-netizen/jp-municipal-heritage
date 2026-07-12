@@ -1,0 +1,18 @@
+{
+  "e1b61bcf06fc7707": {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/bunka/bunkazai/9715.html",
+    "filename": "e1b61bcf06fc7707.html",
+    "sha256": "58f0a0863bbfb22a849f7ceb4eedb0cb25872e3ab8977c0a06dd03fa5a36f29b",
+    "fetched_at": "2026-07-12T03:51:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "62594351ca377608": {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/84/tiikikeikaku1.pdf",
+    "filename": "62594351ca377608.pdf",
+    "sha256": "2899e258f5f9399020e0c2c676ed0afbe5df032ec1aa7a5c09a98779279ec7d9",
+    "fetched_at": "2026-07-12T03:51:34Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

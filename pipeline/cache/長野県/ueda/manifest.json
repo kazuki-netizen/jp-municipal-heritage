@@ -1,0 +1,18 @@
+{
+  "c04371004df87b23": {
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/83335.pdf",
+    "filename": "c04371004df87b23.pdf",
+    "sha256": "b560f17abd08e65f3a934d2d3cc0a2a89c54700217b13f0c2c04098dbe096b4e",
+    "fetched_at": "2026-07-12T04:27:17Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "f586a4e4371cc730": {
+    "url": "https://www.city.ueda.nagano.jp/soshiki/shogaku/1317.html",
+    "filename": "f586a4e4371cc730.html",
+    "sha256": "acab9be823561aea2b482c2877fe6668875ac03a01e5f68a9963c51d0fac748c",
+    "fetched_at": "2026-07-12T04:27:19Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

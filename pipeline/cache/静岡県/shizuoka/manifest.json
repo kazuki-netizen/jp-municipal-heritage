@@ -1,0 +1,18 @@
+{
+  "8f10ca372ea5fe54": {
+    "url": "https://www.city.shizuoka.lg.jp/s3478/s005154.html",
+    "filename": "8f10ca372ea5fe54.html",
+    "sha256": "9eef87b16e41c02dde76415c6e431037037d3b259c58d552db0e435635259045",
+    "fetched_at": "2026-07-12T03:51:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "10678e14281b6ec1": {
+    "url": "https://www.city.shizuoka.lg.jp/documents/5047/shisitei20260331.pdf",
+    "filename": "10678e14281b6ec1.pdf",
+    "sha256": "085d391f6f39844fb5555f0c73888bf5925e6e7a03304f2cac095445f9a5df05",
+    "fetched_at": "2026-07-12T03:51:19Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

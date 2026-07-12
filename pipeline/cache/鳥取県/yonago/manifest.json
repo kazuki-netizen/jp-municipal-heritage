@@ -1,0 +1,18 @@
+{
+  "352813a6f0d932f1": {
+    "url": "https://www.city.yonago.lg.jp/38043.htm",
+    "filename": "352813a6f0d932f1.html",
+    "sha256": "e34d260e356433c913ea4ecea4daf17e0e5c6def76c873d901d4daebd9659108",
+    "fetched_at": "2026-07-12T06:51:57Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6d09735cbf2fe805": {
+    "url": "https://www.city.yonago.lg.jp/secure/51486/tiikikeikaku_keiryou.pdf",
+    "filename": "6d09735cbf2fe805.pdf",
+    "sha256": "edb29746fd7ad5016decb25a68030510e3f7fff387bc12029292c47268efdd1f",
+    "fetched_at": "2026-07-12T06:52:03Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

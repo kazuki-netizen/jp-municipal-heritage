@@ -1,0 +1,18 @@
+{
+  "a67515875d76df2d": {
+    "url": "https://www.asukamura.jp/gyosei_bunkazai.html",
+    "filename": "a67515875d76df2d.html",
+    "sha256": "dbc8779bfbb6bb231fef3e6501ded498835b222d01584dbda96c8aa846da338d",
+    "fetched_at": "2026-07-12T06:42:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b7193c53cac9d816": {
+    "url": "https://www.asukamura.jp/gyosei_bunkazai_about_shiteibunkazai.html",
+    "filename": "b7193c53cac9d816.html",
+    "sha256": "b1e5a77a98a97ebcdf9e66863ce49f1cd78d2772941beceba5557eaef0c1c3fd",
+    "fetched_at": "2026-07-12T06:42:56Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

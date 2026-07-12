@@ -1,0 +1,18 @@
+{
+  "f822b5f39a49ec83": {
+    "url": "https://www.city.kurayoshi.lg.jp/4245.htm",
+    "filename": "f822b5f39a49ec83.html",
+    "sha256": "a559708f40f4bb2b1c70e44951dfabc65dda114a9601ba4747d6b0e59fe19977",
+    "fetched_at": "2026-07-12T06:52:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ad5c97426fd5a26e": {
+    "url": "https://www.city.kurayoshi.lg.jp/6503.htm",
+    "filename": "ad5c97426fd5a26e.html",
+    "sha256": "82e04d96cc5f33d84195c56c4bbc9b0f2abec72c9b5f2a831e3f04b64e5dedfa",
+    "fetched_at": "2026-07-12T06:52:06Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

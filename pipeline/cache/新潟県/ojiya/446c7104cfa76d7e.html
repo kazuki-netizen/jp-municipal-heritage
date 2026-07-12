@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="ja" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="keywords" content="文化財,歴史,博物館,小千谷の歴史,小千谷の文化財,民俗,考古学,まつり,年中行事" />
+	<meta name="description" content="小千谷市内にある指定文化財の紹介です。
+おぢやWebミュージアムなど、デジタル化された文化財もリンクから見ることができます。" />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>小千谷の文化財 - 小千谷市ホームページ</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="stylesheet" type="text/css" media="print" href="/ssi/css/print.css?20230322" />
+<script type="text/javascript" src="/ssi/js/escapeurl.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/jquery.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/jquery-migrate.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/common.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/s-google.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/search-open-page-id.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/last-page-parts-load-1.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/footstep.js?20230322"></script>
+<link rel="stylesheet" type="text/css" href="/ssi/css/footstep.css?20230322" />
+	<style type="text/css" media="all">
+		@import url("/ssi/css/detail.css?2023_0523");
+	</style>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WFV038SYMC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WFV038SYMC');
+  gtag('config', 'UA-45690037-1');
+</script>
+</head>
+<body>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&amp;version=v20.0" nonce="sNbAN22K"></script>
+<div class="detail side2">
+
+<!-- ヘッダここから -->
+<header id="header" class="c-header lower">
+    <!-- ヘッダーここから -->
+<div class="c-header__inner inner-block">
+    <div class="c-header__logo">
+        <span><a href="/"><img src="/img/common2/header_logo.png" alt="小千谷市"></a></span>
+    </div>
+
+    <nav class="c-header__menu">
+        <noscript><p>JavaScriptが無効のため、文字の大きさ・背景色を変更する機能を使用できません。</p></noscript>
+        <ul class="c-header__accessibility">
+            <li class="c-header__languages">
+                <div class="c-header__accessibilitytext">
+                    言語を選択
+                </div>
+                <div class="c-header__select">
+                    <div class="c-header__button -language">
+                        <a href="/soshiki/kikakuseisaku/english.html">English</a>
+                    </div>
+                    <div class="c-header__button -language">
+                        <a href="/soshiki/kikakuseisaku/chinese.html">中文</a>
+                    </div>
+                    <div class="c-header__button -language">
+                        <a href="/soshiki/kikakuseisaku/korean.html">한국어</a>
+                    </div>
+                </div>
+            </li>
+            <li class="c-header__colorchange">
+                <div class="c-header__accessibilitytext">
+                    背景色
+                </div>
+                <div class="c-header__select">
+                    <div class="c-header__button -color">
+                        <a id="haikei_white" href="javascript:SetCss(1);" title="背景色を白色に変更する">白</a>
+                    </div>
+                    <div class="c-header__button -color -black">
+                        <a id="haikei_black" href="javascript:SetCss(2);" title="背景色を黒色に変更する">黒</a>
+                    </div>
+                    <div class="c-header__button -color -blue">
+                        <a id="haikei_blue"  href="javascript:SetCss(3);" title="背景色を青色に変更する">青</a>
+                    </div>
+                </div>
+            </li>
+            <li class="c-header__fontsize">
+                <div class="c-header__accessibilitytext">
+                    文字サイズ
+                </div>
+                <div class="c-header__select">
+                    <div class="c-header__button -fontsize">
+                        <a id="moji_default" href="javascript:fsc('default');" title="文字サイズを標準にする">標準</a>
+                    </div>
+                    <div class="c-header__button -fontsize -big">
+                        <a id="moji_large" href="javascript:fsc('larger');" title="文字サイズを拡大する">拡大</a>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <div class="c-header__infoblock">
+            <ul class="c-header__infolists">
+                <li class="c-header__infolist">
+                    <a href="/site/userguide/" class="c-header__infolink">初めての方へ</a>
+                </li>
+                <li class="c-header__infolist">
+                    <a href="/sitemap.html" class="c-header__infolink">サイトマップ</a>
+                </li>
+            </ul>
+            <div class="c-header__serch">
+                <!-- 検索ここから -->
+		<div id="top_search_keyword">
+			<!-- Googleカスタム検索ここから -->
+			<form action="/search.html" method="get" id="cse-search-box" name="cse-search-box">
+				<input type="hidden" name="cx" value="008298394514388697331:5rbga_nwveg" /><!--
+				--><input type="hidden" name="cof" value="FORID:11" /><!--
+				--><input type="hidden" name="ie" value="UTF-8" /><!--
+				--><label for="tmp_query"><span class="hide">Googleカスタム検索</span></label><!--
+				--><input type="text" name="q" value="" id="tmp_query" /><!--
+				--><input type="submit" value="検索" id="submit" name="sa" />
+			</form>
+			<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box"></script>
+			<!-- Googleカスタム検索ここまで -->
+		</div>
+		<!-- 検索ここまで -->
+            </div>
+        </div>
+    </nav>
+</div><!-- /inner-block -->
+<!-- ヘッダーここまで -->
+<div id="container"><div id="spm_wrap"><button type="button" id="spm_menu"><span class="hide">メニュー</span></button></div><div id="he_right"></div></div>
+</header>
+<!-- ヘッダここまで -->
+
+	<!-- コンテナここから -->
+	<main class="p-sub">
+
+        <div class="p-sub-information">
+    <div class="p-sub-information__inner">
+        <ul class="p-sub-information__lists">
+            <li class="p-sub-information__list">
+                <a href="/life/1/"><img src="/img/top/sub-info-kurasi.png" alt="書類のピクト画像" class="-kurasi">
+                    <p>くらし・<br />手続き</p>
+                </a>
+            </li>
+            <li class="p-sub-information__list">
+                <a href="/life/2/"><img src="/img/top/sub-info-kosodate.png" alt="子供と学校のピクト画像" class="-kosodate">
+                    <p>子育て・<br />教育</p>
+                </a>
+            </li>
+            <li class="p-sub-information__list">
+                <a href="/life/3/"><img src="/img/top/sub-info-kenkou.png" alt="病院のピクト画像" class="-kenkou">
+                    <p>健康・<br />医療・福祉</p>
+                </a>
+            </li>
+            <li class="p-sub-information__list">
+                <a href="/life/4/"><img src="/img/top/sub-info-kigyou.png" alt="ビルのピクト画像" class="-kigyou">
+                    <p>企業・事業者</p>
+                </a>
+            </li>
+            <li class="p-sub-information__list">
+                <a href="/life/5/"><img src="/img/top/sub-info-sisei.png" alt="インフォメーションのピクト画像" class="-sisei">
+                    <p>市政情報</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+		<span class="hide" id="pagetop">ページの先頭です。</span>
+		<span class="hide"><a href="#skip">メニューを飛ばして本文へ</a></span>
+
+		<section class="p-sub-section">
+            <div class="p-sub-section__inner">
+                <div class="p-sub-section__wrapper">
+
+        <!-- ぱんくずナビここから -->
+		<div id="pankuzu_wrap">
+			<!-- [[pankuzu_start]] --><!-- [[pankuzu_end]] -->
+			<!-- [[pankuzu2_start]] --><!-- [[pankuzu2_end]] -->
+			<!-- [[pankuzu_life_start]] -->
+			<div class="pankuzu">
+				<span class="icon_current">現在地</span>
+				<span class="pankuzu_class pankuzu_class_top"><a href="/">トップページ</a></span>
+				<span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class"><a href="/life/">分類でさがす</a></span>
+				<span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class"><a href="/life/1/">くらし・手続き</a></span>
+				<span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class"><a href="/life/1/4/">生涯学習・スポーツ</a></span>
+				<span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class"><a href="/life/1/4/20/">生涯学習</a></span><span class="pankuzu_mark"> &gt; </span>
+				<span class="pankuzu_class pankuzu_class_current">小千谷の文化財</span>
+			</div>
+			<!-- [[pankuzu_life_end]] -->
+		</div>
+		<!-- ぱんくずナビここまで -->
+
+        <div id="mymainback">
+
+			<!-- メインここから -->
+			<hr class="hide" />
+			<p class="hide" id="skip">本文</p>
+
+			<div id="main_header">
+				<h1 class="p-sub-section__title">小千谷の文化財</h1>
+			</div>
+
+			<div class="content_header_wrap">
+				<div id="content_header">
+                    <span class="link_print"><a id="print_mode_link" href="javascript:print_normal();">印刷ページ表示</a></span>
+					<span class="date">更新日：2025年4月1日更新</span>
+				</div>
+			</div>
+
+            <div class="p-sub-section__container">
+                <div class="p-sub-section__main p-sub-section__main__news">
+                    <div class="p-sub-section__news">
+                        <!-- main_bodyここから -->
+			<div id="main_body">
+
+				
+				<div class="detail_free" ><p>小千谷市には、数多くの文化財があります。ここでは、指定・登録文化財を紹介します。（令和7年4月1日現在）</p>
+
+<p><a href="https://hontoka.city.ojiya.niigata.jp">ホントカ。</a>内の小千谷郷土資料館では、常設展示や企画展示でこれらの文化財を直接見られる機会を作っています。</p>
+
+<p>また、指定・未指定に関わらず、小千谷に関連する文化財、資料などをインターネット上で公開しています。<br />
+詳しくは<a href="https://hontoka.city.ojiya.niigata.jp/ojiya-web-museum">おぢやWebミュージアム</a>をご覧ください。</p>
+
+<p>カッコ内は、国、新潟県、小千谷市の各区分を表しています。<br />
+指定文化財の定義は文化財保護法によっています。</p>
+
+<p><a href="##01">有形文化財</a>｜<a href="##02">無形文化財</a>｜<a href="##03">民俗文化財</a>｜<a href="##04">記念物</a></p>
+
+<h2><a id="#1" name="#01">有形文化財</a></h2>
+
+<h3>建造物</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/uonumajinja-amidado.html">魚沼神社阿弥陀堂（国指定）</a></li>
+<li><a href="/soshiki/nigiwai/uonumajinja-mikoshi.html">魚沼神社神輿（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/akashido.html">明石堂（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/kappoutouchu.html">割烹東忠本館、別館、上の蔵（国登録）</a></li>
+<li><a href="/soshiki/nigiwai/jigenjisanmon.html">慈眼寺山門（国登録）</a></li>
+<li><a href="/soshiki/nigiwai/okkonoki.html">おっこの木（国登録）</a></li>
+<li><a href="/soshiki/nigiwai/tyouonji.html">潮音寺観音堂、山門（国登録）</a></li>
+<li><a href="/soshiki/nigiwai/kyuunishiwakikejuutaku.html">旧西脇家住宅主屋、旧西脇家住宅離座敷（国登録）</a></li>
+<li><a href="/soshiki/nigiwai/syuuseian.html">習静菴茶室、土蔵（国登録）</a></li>
+</ul>
+
+<h3>絵画</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/chijimiseizonoshinzu.html">縮布製造之真図（市指定）</a></li>
+</ul>
+
+<h3>彫刻</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/mokuzoaizenmyoozazo.html">木造愛染明王坐像（国指定）</a></li>
+<li><a href="/soshiki/nigiwai/mokujikishoninsaku.html">木喰上人作三十三観音他二像（県指定）</a></li>
+</ul>
+
+<h3>工芸品</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/ojiyachijimimihoncho1.html">小千谷縮布見本帖（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/uonumajinja-waniguchi.html">魚沼神社鰐口（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/utsunomiyajinjawaniguchi.html">宇都宮神社鰐口（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/ojiyachijimi-shiteibunkazai.html">小千谷縮見本帳（市指定）</a></li>
+</ul>
+
+<h3>書跡</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/hirokawaseiken-shiryo.html">広川晴軒資料（遺品共）（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/akiyamakiko.html">秋山記行（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/uonumajinja-daihannyakyo.html">魚沼神社大般若経（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/uonumajinja-gyoji.html">魚沼神社年中行事記（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/iwamuratakatoshijidensoko.html">岩村高俊自伝草稿（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/chuseibunsho.html">中世文書（市指定）</a></li>
+</ul>
+
+<h3>考古資料</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/mezakikeitabi.html">目崎家板碑（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/motonakagoisekisyutudohin.html">元中子遺跡出土品（市指定）</a></li>
+</ul>
+
+<h3>歴史資料</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/nisikigoiegatacho.html">錦鯉絵型帳及び関連資料（市指定）</a></li>
+</ul>
+
+<p align="right"><a href="#">ページの先頭へ戻る</a></p>
+
+<h2><a id="#2" name="#02">無形文化財</a></h2>
+
+<h3>工芸技術</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/ojiyachijimi-bunkaisan.html">小千谷縮・越後上布（国指定・ユネスコ無形文化遺産）</a></li>
+<li><a href="/soshiki/nigiwai/kasuritsukegijutsu.html">絣付け技術（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/kotobukiojiyachijimi.html">寿小千谷縮（市指定）</a></li>
+</ul>
+
+<p align="right"><a href="#">ページの先頭へ戻る</a></p>
+
+<h2><a id="#3" name="#03">民俗文化財</a></h2>
+
+<h3>有形民俗文化財</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/odiyanohinamaturiniokeruegami.html">小千谷の雛祭りにおける絵紙飾りの習俗用具及び関連資料（市指定）</a></li>
+</ul>
+
+<h3>風俗慣習</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/ushinotsunozuki201007.html">牛の角突きの習俗（国指定）</a></li>
+<li><a href="/soshiki/nigiwai/katakai.html">片貝の木遣りと古式玉送り（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/egamikazarinosyuzoku.html">小千谷の雛祭りにおける絵紙飾りの習俗（市指定）</a></li>
+</ul>
+
+<h3>民俗芸能</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/yatainingyomikojii.html">巫女爺人形操り（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/honenshishimai.html">豊年獅子舞（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/dainosakaodori.html">大の釈迦踊 （市指定）</a></li>
+<li><a href="/soshiki/nigiwai/daidaikagura.html">魚沼神社太太神楽（市指定）</a></li>
+</ul>
+
+<p align="right"><a href="#">ページの先頭へ戻る</a></p>
+
+<h2><a id="#4" name="#04">記念物</a></h2>
+
+<h3>史跡</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/hiujoato.html">薭生（ひう）城跡（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/tokimizujoato.html">時水城跡（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/uchigamakijoato.html">内ヶ巻城跡（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/hakoyamajoato.html">函山城跡（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/asahiyamakosenjo.html">朝日山古戦場（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/shimizunoueiseki.html">清水上遺跡（三仏生遺跡）（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/odairaiseki.html">大平遺跡（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/choyokan.html">朝陽館・耕読堂諸先生の墓碑（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/iwamura-kawaikaikennotokoro.html">岩村・河井会見の処（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/takanashijohonmaruato.html">高梨城本丸跡（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/hyakuzuka.html">百塚（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/mattojoato.html">真人城跡（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/omangaike.html">お満ヶ池（市指定）</a></li>
+</ul>
+
+<h3>天然記念物</h3>
+
+<ul>
+<li><a href="/soshiki/nigiwai/kooridononoike.html">郡殿の池（県指定）</a></li>
+<li><a href="/soshiki/nigiwai/ookuzuremizubashogunseichi.html">大崩水芭蕉群生地（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/fudojikatsurabayashi.html">不動寺桂林（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/senryujinja.html">仙竜神社の大杉（市指定）</a></li>
+<li><a href="/soshiki/nigiwai/takusanjinja.html">沢山神社の大杉（市指定）</a></li>
+</ul>
+
+<p align="right"><a href="#">ページの先頭へ戻る</a></p>
+</div>
+
+
+<div id="section_footer">
+	<div id="section_footer_ttl"><h2>このページに関するお問い合わせ先</h2></div>
+	<div id="section_footer_detail">
+		<span class="sf_name"><a href="/soshiki/nigiwai/">にぎわい交流課</a></span><span class="sf_name2">文化財係</span><br />
+		<span class="sf_address">〒947-0021　新潟県小千谷市本町1丁目13番35号<br />
+（ひと・まち・文化共創拠点ホントカ。）</span><br />
+		<span class="sf_tel">Tel：0258-82-2724</span>
+		<span class="sf_fax">Fax：0258-82-8915</span>
+		<div class="sf_email"><a href="https://www.city.ojiya.niigata.jp/form/detail.php?sec_sec1=5&amp;inq=04&lif_id=83695">お問い合わせはこちらから</a></div>
+		<!-- [[toi2_head]] --><!-- [[toi2_tail]] -->
+	</div>
+</div>
+<!-- [[add-template-pdf]] -->
+<!-- [[add-template-windowsmediaplayer]] -->
+<!-- カレンダー登録・SNSボタンここから -->
+<div id="content_footer">
+	
+	
+	<div class="sns_button_wrap">
+<div class="sns_button_x"><a href="https://twitter.com/share" class="twitter-share-button">Post</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+<div class="sns_button_fb"><script>document.write('<div class="fb-share-button" data-href="'+htmlspecialchars_URL(location.href)+'" data-layout="button" data-size="small"><a target="_blank" rel="noreferrer noopener" href="https://www.facebook.com/sharer/sharer.php?u='+htmlspecialchars_URL(location.href)+'&src=sdkpreparse" class="fb-xfbml-parse-ignore">シェアする</a></div>');</script></div>
+<div class="sns_button_ln"><script>document.write('<div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="3" data-url="'+htmlspecialchars_URL(location.href)+'" data-color="default" data-size="small" data-count="false" style="display: none;"></div>');</script><script src="https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js" async="async" defer="defer"></script></div>
+</div>
+</div>
+<!-- カレンダー登録・SNSボタンここまで -->
+				
+				
+
+			</div>
+			<!-- main_bodyここまで -->
+
+                    </div>
+                </div>
+            </div>
+
+		</div><!-- mymainback終わり -->
+
+                </div>
+            </div>
+        </section>
+
+	</main>
+	<!-- コンテナここまで -->
+
+    <!-- フッタここから -->
+    <footer id="footer" class="c-footer -top">
+    <div class="c-footer__inner inner-block">
+        <div class="c-footer__wrapper">
+            <div class="c-footer__info">
+                <div class="c-footer__infoinner">
+                    <div class="c-footer__infobox">
+                        <p class="c-footer__cityholl">小千谷市役所</p>
+                        <p class="c-footer__corporatenumber">法人番号4000020152081</p>
+                        <p class="c-footer__address">〒947-8501<span>新潟県小千谷市城内2-7-5</span></p>
+                    </div>
+                    <div class="c-footer__infobox">
+                        <div class="c-footer__numbers">
+                            <div class="c-footer__number -tel">
+                                <span>電話</span>
+                                <span class="tTel">0258-83-3511<em>（代表）</em></span>
+                            </div>
+                            <div class="c-footer__number -fax">
+                                <span>Fax</span>
+                                <div class="tFax">0258-83-2789</div>
+                            </div>
+                        </div>
+                        <div class="c-footer__open">
+                            <p><span>［開庁時間］</span>平日（月曜日～金曜日）　<br class="sp">午前8時30分～午後5時15分</p>
+                        </div>
+                        <div class="c-footer__navi">
+                            <div class="c-footer__naviitem">
+                                <a href="/site/shisetsu-map/shisetsu-1.html" class="-icon">市役所への行き方</a>
+                            </div>
+                            <div class="c-footer__naviitem">
+                                <a href="/soshiki/1.html" class="-icon">組織別お問い合わせ先一覧</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav class="c-footer__nav">
+                <ul class="c-footer__navitems">
+                    <li class="c-footer__navitem">
+                        <a href="/site/userguide/accessibility.html">アクセシビリティについて</a>
+                    </li>
+                    <li class="c-footer__navitem">
+                        <a href="/site/userguide/mensekijiko.html">免責事項</a>
+                    </li>
+                    <li class="c-footer__navitem">
+                        <a href="/site/userguide/kojinjoho.html">個人情報の取り扱いについて</a>
+                    </li>
+                    <li class="c-footer__navitem">
+                        <a href="/site/userguide/chosakuken.html">著作権</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="c-footer__copylight">
+                <small lang="en">Copyright（C）Ojiya City All rights reserved.</small>
+            </div>
+        </div>
+    </div><!-- /inner-block -->
+</footer>
+    <!-- フッタここまで -->
+    <div id="top_scroll">
+        <a href="javascript:;" id="page-top1" style="bottom: 0px;"><img src="/img/common2/pagetop.png" alt="ページの先頭へ"></a>
+    </div>
+
+</div>
+
+<script type="text/javascript" src="/ssi/js/b-browser-switcher.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/svgxuse-min.js?20230322"></script>
+<script type="text/javascript" src="/ssi/js/ojiya-lower.js?20230322"></script>
+
+</body>
+</html>

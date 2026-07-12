@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-142158-0018",
+  "name": "瓢箪塚古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1998-08-28",
+  "municipality": "海老名市",
+  "location": "国分南三丁目１０５５番"
+ },
+ {
+  "jmh_id": "JMH-142158-0017",
+  "name": "椿地蔵の椿",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1998-08-28",
+  "municipality": "海老名市",
+  "location": "杉久保南四丁目２６２１番２"
+ },
+ {
+  "jmh_id": "JMH-143669-0001",
+  "name": "あしがり郷瀬戸屋敷",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2001-02-21",
+  "municipality": "開成町",
+  "location": "開成町金井島１３３６"
+ },
+ {
+  "jmh_id": "JMH-143669-0002",
+  "name": "円通寺観音像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2002-03-29",
+  "municipality": "開成町",
+  "location": "開成町円通寺９５"
+ },
+ {
+  "jmh_id": "JMH-143847-0004",
+  "name": "子之神社の格天井板絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "湯河原町",
+  "location": "福浦129"
+ },
+ {
+  "jmh_id": "JMH-143847-0001",
+  "name": "不動堂の雨乞の面",
+  "category": "有形文化財",
+  "subcategory": "彫刻等",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "湯河原町",
+  "location": "宮下"
+ },
+ {
+  "jmh_id": "JMH-143847-0002",
+  "name": "土肥実平及び遠平像",
+  "category": "有形文化財",
+  "subcategory": "彫刻等",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "湯河原町",
+  "location": "城堀252"
+ },
+ {
+  "jmh_id": "JMH-143847-0007",
+  "name": "醍醐院の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "湯河原町",
+  "location": "福浦117"
+ },
+ {
+  "jmh_id": "JMH-143847-0005",
+  "name": "小道地蔵堂の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "湯河原町",
+  "location": "吉浜1"
+ },
+ {
+  "jmh_id": "JMH-143847-0003",
+  "name": "土肥椙山巌窟内観音像群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "湯河原町",
+  "location": "鍛冶屋953"
+ },
+ {
+  "jmh_id": "JMH-143847-0006",
+  "name": "明神の楠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1979-04-01",
+  "municipality": "湯河原町",
+  "location": "宮下355-2"
+ },
+ {
+  "jmh_id": "JMH-143847-0013",
+  "name": "與謝野寛・晶子連理歌碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "吉浜"
+ },
+ {
+  "jmh_id": "JMH-143847-0009",
+  "name": "子之神社の飾り屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "福浦129"
+ },
+ {
+  "jmh_id": "JMH-143847-0012",
+  "name": "聖ヶ窪の宝篋印塔",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "宮下697-1"
+ },
+ {
+  "jmh_id": "JMH-143847-0010",
+  "name": "湯河原沸石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "宮上750・751"
+ },
+ {
+  "jmh_id": "JMH-143847-0011",
+  "name": "湯河原沸石の産地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "宮上750・751"
+ },
+ {
+  "jmh_id": "JMH-143847-0015",
+  "name": "黒曜石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "宮上566"
+ },
+ {
+  "jmh_id": "JMH-143847-0016",
+  "name": "黒曜石採掘遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "鍛冶屋440"
+ },
+ {
+  "jmh_id": "JMH-143847-0008",
+  "name": "城堀元服祝い唄",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "城堀"
+ },
+ {
+  "jmh_id": "JMH-143847-0014",
+  "name": "鍛冶屋の田植唄",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "1982-04-01",
+  "municipality": "湯河原町",
+  "location": "鍛冶屋"
+ },
+ {
+  "jmh_id": "JMH-143847-0018",
+  "name": "五所神社の銀杏",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1997-05-01",
+  "municipality": "湯河原町",
+  "location": "宮下357"
+ },
+ {
+  "jmh_id": "JMH-143847-0017",
+  "name": "五所神社の楠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1997-05-01",
+  "municipality": "湯河原町",
+  "location": "宮下356"
+ },
+ {
+  "jmh_id": "JMH-143847-0019",
+  "name": "産土八幡神社の楠",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1997-05-01",
+  "municipality": "湯河原町",
+  "location": "城堀217"
+ },
+ {
+  "jmh_id": "JMH-143847-0020",
+  "name": "五郎神社の本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2004-01-01",
+  "municipality": "湯河原町",
+  "location": "鍛冶屋725"
+ },
+ {
+  "jmh_id": "JMH-143847-0024",
+  "name": "小道地蔵堂の明和2年の碑",
+  "category": "有形文化財",
+  "subcategory": "石造物",
+  "designation": "町指定",
+  "designated_date": "2004-01-01",
+  "municipality": "湯河原町",
+  "location": "吉浜1"
+ },
+ {
+  "jmh_id": "JMH-143847-0025",
+  "name": "瑞應寺の銅像釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻等",
+  "designation": "町指定",
+  "designated_date": "2004-01-01",
+  "municipality": "湯河原町",
+  "location": "鍛冶屋440"
+ },
+ {
+  "jmh_id": "JMH-143847-0021",
+  "name": "元禄13年10月伊豆山権現領と小田原藩との境論についての幕府の裁許状（裁許図）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2004-01-01",
+  "municipality": "湯河原町",
+  "location": "中央2-2-1"
+ },
+ {
+  "jmh_id": "JMH-143847-0022",
+  "name": "吉浜柏坂の道標",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2004-01-01",
+  "municipality": "湯河原町",
+  "location": "吉浜4-口地先"
+ },
+ {
+  "jmh_id": "JMH-143847-0023",
+  "name": "土肥城址（土肥城山）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2004-01-01",
+  "municipality": "湯河原町",
+  "location": "城堀401他"
+ },
+ {
+  "jmh_id": "JMH-143847-0026",
+  "name": "素鵞神社飾り屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "町指定",
+  "designated_date": "2015-01-01",
+  "municipality": "湯河原町",
+  "location": "吉浜1047"
+ },
+ {
+  "jmh_id": "JMH-143413-0002",
+  "name": "地福寺文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "1972-06-14",
+  "municipality": "大磯町",
+  "location": "大磯町大磯1135"
+ },
+ {
+  "jmh_id": "JMH-143413-0008",
+  "name": "二宮家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "1973-07-20",
+  "municipality": "大磯町",
+  "location": "大磯町生沢"
+ },
+ {
+  "jmh_id": "JMH-143413-0024",
+  "name": "紙本淡彩 高麗寺村領地絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "2006-12-11",
+  "municipality": "大磯町",
+  "location": "大磯町西小磯446-1（郷土資料館）"
+ },
+ {
+  "jmh_id": "JMH-143413-0025",
+  "name": "大磯宿小島本陣資料",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（古文書）",
+  "designation": "町指定",
+  "designated_date": "2015-03-25",
+  "municipality": "大磯町",
+  "location": "大磯町西小磯446-1（郷土資料館）"
+ },
+ {
+  "jmh_id": "JMH-143413-0001",
+  "name": "千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1972-06-14",
+  "municipality": "大磯町",
+  "location": "大磯町高麗2-9-48"
+ },
+ {
+  "jmh_id": "JMH-143413-0013",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1976-07-17",
+  "municipality": "大磯町",
+  "location": "大磯町大磯1004"
+ },
+ {
+  "jmh_id": "JMH-143413-0012",
+  "name": "木造弘法大師坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1976-07-17",
+  "municipality": "大磯町",
+  "location": "大磯町大磯1135"
+ },
+ {
+  "jmh_id": "JMH-143413-0014",
+  "name": "石造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1976-07-17",
+  "municipality": "大磯町",
+  "location": "大磯町国府本鄕513"
+ },
+ {
+  "jmh_id": "JMH-143413-0015",
+  "name": "木造聖観世音菩薩及び二天立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1977-04-01",
+  "municipality": "大磯町",
+  "location": "大磯町国府新宿767"
+ },
+ {
+  "jmh_id": "JMH-143413-0017",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（彫刻）",
+  "designation": "町指定",
+  "designated_date": "1977-12-15",
+  "municipality": "大磯町",
+  "location": "大磯町寺坂732"
+ }
+]

@@ -1,0 +1,10 @@
+{
+  "4674719bb50af20c": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215058-008",
+    "filename": "4674719bb50af20c.bin",
+    "sha256": "fd62aba163b20bdacd094f476e251a10a942f3d948baef2ff7864b3c8f60526a",
+    "fetched_at": "2026-07-12T06:00:41Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

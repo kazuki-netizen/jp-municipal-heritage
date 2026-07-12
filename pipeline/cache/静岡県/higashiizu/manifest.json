@@ -1,0 +1,18 @@
+{
+  "af5295e95a752420": {
+    "url": "https://www.town.higashiizu.lg.jp/kanko_bunka_sports/rekishi_bunka/1/index.html",
+    "filename": "af5295e95a752420.html",
+    "sha256": "bc191c5623af8cf33736823c98b849ada4e74fb8aa6dd5ccd04e0c3474a1b8f8",
+    "fetched_at": "2026-07-12T03:51:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "643752fe85197ba6": {
+    "url": "https://www.town.higashiizu.lg.jp/kanko_bunka_sports/rekishi_bunka/1/1377.html",
+    "filename": "1377.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T13:30:00Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

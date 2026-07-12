@@ -1,0 +1,26 @@
+{
+  "ad2e9b955388867f": {
+    "url": "https://www.city.kaga.ishikawa.jp/ed/bunka_shinko/6064.html",
+    "filename": "ad2e9b955388867f.html",
+    "sha256": "a0e25ea762cc7eea430d8d5bf351207ffcc7fedfacb5c61822ece4518a8e742d",
+    "fetched_at": "2026-07-12T03:54:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d658caeec628d69c": {
+    "url": "https://www.city.kaga.ishikawa.jp/ed/bunka_shinko/6067.html",
+    "filename": "d658caeec628d69c.html",
+    "sha256": "c39897901d9a91aaead4c303c12fb5ee6c9d338f2ac839d63b94718420f39368",
+    "fetched_at": "2026-07-12T03:54:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "207a8fcf0fdc6287": {
+    "url": "https://www.city.kaga.ishikawa.jp/ed/bunka_shinko/5970.html",
+    "filename": "207a8fcf0fdc6287.html",
+    "sha256": "84a9157b769c5759b45d3c2f501370f176161d90df5d40cb5edff903da5e6d92",
+    "fetched_at": "2026-07-12T03:54:21Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

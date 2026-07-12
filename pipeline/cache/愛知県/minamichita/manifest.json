@@ -1,0 +1,18 @@
+{
+  "0d05896457728227": {
+    "url": "https://www.town.minamichita.lg.jp/gyosei/gaiyou/1001553/1001556.html",
+    "filename": "0d05896457728227.html",
+    "sha256": "e06e2a4a885f61081f60a4718105f1fee375487a758969f56ae351a9a1a53df1",
+    "fetched_at": "2026-07-12T06:14:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9d783d766ceda4b9": {
+    "url": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/004/726/bunkazaichiikikeikaku.pdf",
+    "filename": "9d783d766ceda4b9.html",
+    "sha256": "6777dc9c9254a7498db7c66776e318dcdbaa9e9ea0848542116b608e5ede4220",
+    "fetched_at": "2026-07-12T06:14:31Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

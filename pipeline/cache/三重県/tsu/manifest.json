@@ -1,0 +1,18 @@
+{
+  "42247d7d1ba54a20": {
+    "url": "https://www.info.city.tsu.mie.jp/kosodate_kyouiku/kyouikuiinkai/1004357/1004679/1004682.html",
+    "filename": "42247d7d1ba54a20.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T06:13:20Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "fdbbe70fcbf8ffc8": {
+    "url": "https://www.info.city.tsu.mie.jp/www/contents/1001000011093/index.html",
+    "filename": "fdbbe70fcbf8ffc8.html",
+    "sha256": "0271284c745f9154e15d02d8e69a3062c6eeaeb561320e27ae3c904877f61b87",
+    "fetched_at": "2026-07-12T06:13:22Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "9d2a2d7f965d3f16": {
+    "url": "https://www.city.gosen.lg.jp/organization/3/opendata/6402.html",
+    "filename": "9d2a2d7f965d3f16.html",
+    "sha256": "662bfa0c400ee983d9740894505be5507af215e7a1be95b0ffcbd895c975e201",
+    "fetched_at": "2026-07-12T03:41:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "38356df93472ebd6": {
+    "url": "https://www.city.gosen.lg.jp/material/files/group/1/152188_cultural_property_20260401.csv",
+    "filename": "38356df93472ebd6.csv",
+    "sha256": "e35d532653000b7c0955e2e70be695ff2d29a722cb54686dcf797bce83ac27f4",
+    "fetched_at": "2026-07-12T03:41:30Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "43b4fe7c0eea98b5": {
+    "url": "https://www.city.gosen.lg.jp/material/files/group/1/R8-03bunkazaiitiran.pdf",
+    "filename": "43b4fe7c0eea98b5.pdf",
+    "sha256": "4d89d4e2365ac8409199bfad9222c11851ab762c8fd16bde5de636ac664dcc36",
+    "fetched_at": "2026-07-12T03:41:32Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

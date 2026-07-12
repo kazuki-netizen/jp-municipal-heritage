@@ -1,0 +1,18 @@
+{
+  "a10f20848f7b900a": {
+    "url": "https://www.town.aichi-higashiura.lg.jp/kanko_bunka/bunkazai/shiteibunnkazai/index.html",
+    "filename": "a10f20848f7b900a.html",
+    "sha256": "c1a6ab129a84acfb57f38cd2ff1100e333c9f0d5478802fa39881e38084b4dc2",
+    "fetched_at": "2026-07-12T06:14:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "14373d2fcddb9763": {
+    "url": "https://www.town.aichi-higashiura.lg.jp/kanko_bunka/bunkazai/shiteibunnkazai/1474604215376.html",
+    "filename": "14373d2fcddb9763.html",
+    "sha256": "9a0499aeea01803a1dd4d1bbc3ba56155725e85e718f0ecc3059bf6274b93fd6",
+    "fetched_at": "2026-07-12T06:44:36Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

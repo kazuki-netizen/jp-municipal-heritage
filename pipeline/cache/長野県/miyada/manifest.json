@@ -1,0 +1,15 @@
+{
+ "13e957f5738255be": {
+  "url": "https://www.vill.miyada.nagano.jp/government/pages/root/profile_miyada/10480-079/10480-090/11212",
+  "filename": "13e957f5738255be.html",
+  "sha256": "41bad4e7ec30f46edce9b8c7219dccad1443e8c8d0fae2cbf27bd4133646258c",
+  "fetched_at": "2026-07-12T04:28:22Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.vill.miyada.nagano.jp/government/pages/root/profile_miyada/10480-079/10480-090/11212": {
+  "file": "13e957f5738255be.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:03:03Z"
+ }
+}

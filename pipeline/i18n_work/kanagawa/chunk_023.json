@@ -1,0 +1,355 @@
+[
+ {
+  "jmh_id": "JMH-141500-0025",
+  "name": "相模野周辺三十六ヵ村入会絵図",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（歴史資料)",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "相模原市",
+  "location": "中央区高根3-1-15　相模原市立博物館（寄託）"
+ },
+ {
+  "jmh_id": "JMH-141500-0024",
+  "name": "小泉道場神文血判帳並びに序目録",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2005-04-01",
+  "municipality": "相模原市",
+  "location": "中央区高根3-1-15　相模原市立博物館（寄託）"
+ },
+ {
+  "jmh_id": "JMH-141500-0029",
+  "name": "観音寺の仁王門",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2007-04-01",
+  "municipality": "相模原市",
+  "location": "緑区中野1200"
+ },
+ {
+  "jmh_id": "JMH-141500-0031",
+  "name": "鳥屋諏訪神社本殿 附 安永四年棟札1枚",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2007-04-01",
+  "municipality": "相模原市",
+  "location": "緑区鳥屋1140"
+ },
+ {
+  "jmh_id": "JMH-141500-0026",
+  "name": "宗祐寺の涅槃図",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "2007-04-01",
+  "municipality": "相模原市",
+  "location": "中央区水郷田名1-16-2"
+ },
+ {
+  "jmh_id": "JMH-141500-0030",
+  "name": "顕鏡寺の木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2007-04-01",
+  "municipality": "相模原市",
+  "location": "緑区寸沢嵐2888"
+ },
+ {
+  "jmh_id": "JMH-141500-0027",
+  "name": "相州津久井領絵図（平本家本）",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2007-04-01",
+  "municipality": "相模原市",
+  "location": "個人所蔵"
+ },
+ {
+  "jmh_id": "JMH-141500-0028",
+  "name": "築井古城記碑",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2007-04-01",
+  "municipality": "相模原市",
+  "location": "緑区太井1301-2、緑区根小屋370-2"
+ },
+ {
+  "jmh_id": "JMH-141500-0038",
+  "name": "牧野山蓮乗院の両界曼荼羅図",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市",
+  "location": "緑区牧野7173"
+ },
+ {
+  "jmh_id": "JMH-141500-0039",
+  "name": "福寿院の木造薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市",
+  "location": "相模原市緑区牧野1754"
+ },
+ {
+  "jmh_id": "JMH-141500-0037",
+  "name": "浄禅寺の木造十一面観音坐像 附 鞘仏・木造十一面観音坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市",
+  "location": "緑区佐野川3272"
+ },
+ {
+  "jmh_id": "JMH-141500-0032",
+  "name": "八幡神社の銅造聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0034",
+  "name": "桂林寺の石造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市",
+  "location": "地"
+ },
+ {
+  "jmh_id": "JMH-141500-0036",
+  "name": "浄光寺の木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市",
+  "location": "緑区吉野1584"
+ },
+ {
+  "jmh_id": "JMH-141500-0033",
+  "name": "普門寺の木造聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市",
+  "location": "緑区中沢200"
+ },
+ {
+  "jmh_id": "JMH-141500-0035",
+  "name": "沢井延文六年の阿弥陀三尊来迎像陽刻板碑",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（歴史資料）",
+  "designation": "市指定",
+  "designated_date": "2008-04-01",
+  "municipality": "相模原市",
+  "location": "相模原市緑区沢井　個人所蔵"
+ },
+ {
+  "jmh_id": "JMH-141500-0040",
+  "name": "大石神社の神楽殿",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2009-07-27",
+  "municipality": "相模原市",
+  "location": "緑区牧野2957"
+ },
+ {
+  "jmh_id": "JMH-141500-0045",
+  "name": "光明寺文書",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（古文書）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0050",
+  "name": "城山のウラジロガシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市指定天然記念物",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0058",
+  "name": "牛鞍神社本殿 附 棟札1枚",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0044",
+  "name": "井原寺の木造聖観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0063",
+  "name": "相模の大凧揚げ",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0062",
+  "name": "田名塩田遺跡群出土黒曜石原石",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0048",
+  "name": "勝坂遺跡出土縄文時代草創期遺物",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0056",
+  "name": "当麻東原古墳及び東原遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0064",
+  "name": "矢掛・久保遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0046",
+  "name": "勝坂有鹿谷祭祀遺跡出土の祭祀遺物",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0052",
+  "name": "大谷家旧主屋（清兵衛新田開拓農家）",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0041",
+  "name": "下森鹿島遺跡第3文化層出土の石核",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0057",
+  "name": "橋本遺跡出土の土偶",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0053",
+  "name": "寺原遺跡出土の線刻画土器",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0043",
+  "name": "亀ヶ池八幡宮旧本殿 附 文禄五年棟札1枚",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（建造物）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0060",
+  "name": "田名塩田遺跡群出土のクルミ形土器",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0047",
+  "name": "勝坂遺跡D区出土のマメ圧痕土器",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0059",
+  "name": "田名半在家遺跡G地点出土の龍文鏡",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0054",
+  "name": "小原・桂林寺の木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（彫刻）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0061",
+  "name": "田名塩田遺跡群出土の真脇式土器",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0042",
+  "name": "中野大沢出土の弥生土器",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0067",
+  "name": "苦久保遺跡第3地点出土の朱書土器",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ },
+ {
+  "jmh_id": "JMH-141500-0051",
+  "name": "大日野原遺跡出土の土偶付深鉢形土器及び人体文深鉢形土器",
+  "category": "有形文化財",
+  "subcategory": "市指定有形文化財（考古資料）",
+  "designation": "市指定",
+  "municipality": "相模原市"
+ }
+]

@@ -1,0 +1,26 @@
+{
+  "ffe7d5861b97ed34": {
+    "url": "https://www.city.joetsu.niigata.jp/site/cultural-property/",
+    "filename": "ffe7d5861b97ed34.html",
+    "sha256": "dd78711b3d928f89cc84393f5b9b37ee4513481fac12d84709323f3a559bc1fe",
+    "fetched_at": "2026-07-12T03:41:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7569fc374b18b83d": {
+    "url": "https://www.city.joetsu.niigata.jp/uploaded/attachment/277869.pdf",
+    "filename": "7569fc374b18b83d.pdf",
+    "sha256": "a45c03775f49b8822c7cca93c6ed6a6ff938a7c770061d6c118ae53fe595531b",
+    "fetched_at": "2026-07-12T03:41:36Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "c882a49c795536c3": {
+    "url": "https://www.city.joetsu.niigata.jp/site/cultural-property/list153-1026.html",
+    "filename": "c882a49c795536c3.html",
+    "sha256": "ca1c0ae45f602156d62243a500f580a9cdfa7dcd3e51815b9a2f23b8415431d4",
+    "fetched_at": "2026-07-12T03:41:38Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

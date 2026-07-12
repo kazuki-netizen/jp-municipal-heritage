@@ -1,0 +1,18 @@
+{
+  "0e2ab6ea4c7f1e75": {
+    "url": "https://www.city.hakui.lg.jp/soshiki/kyouikuiinkai/bunkazaishitsu/4/2/2356.html",
+    "filename": "0e2ab6ea4c7f1e75.html",
+    "sha256": "36ad206c391614164064a51f3eccbec9cc2dda53f55e596fab8e4e685295b3e1",
+    "fetched_at": "2026-07-12T03:54:21Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1a3758a33b482df0": {
+    "url": "https://www.city.hakui.lg.jp/rekimin/history/culturalproperties/index.html",
+    "filename": "1a3758a33b482df0.html",
+    "sha256": "5628e45365ba14457fffe7ce3695215f1c26c2c19a5852e8b976a27a0ec0aa93",
+    "fetched_at": "2026-07-12T03:54:24Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

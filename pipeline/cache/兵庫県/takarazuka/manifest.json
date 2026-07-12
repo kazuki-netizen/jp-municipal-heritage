@@ -1,0 +1,18 @@
+{
+  "f3e1ffbf8fec3860": {
+    "url": "https://www.city.takarazuka.hyogo.jp/1060683/1060709/rekishi/1026244/1026634.html",
+    "filename": "f3e1ffbf8fec3860.html",
+    "sha256": "e94ad112d51aa71a165fa03dd502e6b394ed091e7dfa35faaee8b801958b8d75",
+    "fetched_at": "2026-07-12T06:31:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5136dbce2120297c": {
+    "url": "https://www.city.takarazuka.hyogo.jp/1060683/1060709/rekishi/1026244/1003729.html",
+    "filename": "5136dbce2120297c.html",
+    "sha256": "3c90afdb044ae89c5f034798301007c899ac881296ca657a8f16f516cff8249f",
+    "fetched_at": "2026-07-12T06:31:51Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

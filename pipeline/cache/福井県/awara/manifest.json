@@ -1,0 +1,18 @@
+{
+  "4aa01c2430e92b6c": {
+    "url": "https://www.city.awara.lg.jp/mokuteki/education/kyoudo/kyoudorekishishiryo/awarashinobunkazai/sisitei/index.html",
+    "filename": "4aa01c2430e92b6c.html",
+    "sha256": "edc407ae5145a1f56bee58473700eeb0b47fc172d8cddba7679bb763d514fc68",
+    "fetched_at": "2026-07-12T03:50:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9f263035dc72d8ba": {
+    "url": "https://www.city.awara.lg.jp/mokuteki/education/kyoudo/kyoudorekishishiryo/awarashinobunkazai/awarasisitei/p000209.html",
+    "filename": "9f263035dc72d8ba.html",
+    "sha256": "1d570f2f82b26b03d25d97d01cf4203a7249f56720a99ddcb2b9bdf15806e6f5",
+    "fetched_at": "2026-07-12T03:50:53Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

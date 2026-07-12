@@ -1,0 +1,369 @@
+[
+ {
+  "jmh_id": "JMH-143821-0007",
+  "name": "東光庵熊野権現旧跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1965-11-30",
+  "municipality": "箱根町",
+  "location": "芦之湯"
+ },
+ {
+  "jmh_id": "JMH-143821-0014",
+  "name": "賽の河原",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-12-20",
+  "municipality": "箱根町",
+  "location": "元箱根"
+ },
+ {
+  "jmh_id": "JMH-143821-0013",
+  "name": "箱根権現別当の墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-12-20",
+  "municipality": "箱根町",
+  "location": "元箱根"
+ },
+ {
+  "jmh_id": "JMH-143821-0019",
+  "name": "白石地蔵",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1976-01-19",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0006",
+  "name": "ヒメハルゼミ並びに棲息地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1965-11-30",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0009",
+  "name": "ハコネサンショウウオ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1969-03-31",
+  "municipality": "箱根町",
+  "location": "須雲川"
+ },
+ {
+  "jmh_id": "JMH-143821-0012",
+  "name": "ハコネコメツツジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1971-08-20",
+  "municipality": "箱根町",
+  "location": "自生地"
+ },
+ {
+  "jmh_id": "JMH-142042-0218",
+  "name": "石造 板碑（弘長二年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "長谷三丁目11番２号"
+ },
+ {
+  "jmh_id": "JMH-142042-0216",
+  "name": "石造 板碑（嘉元四年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷四丁目18番８号"
+ },
+ {
+  "jmh_id": "JMH-142042-0208",
+  "name": "石造 宝篋印塔（応永十二年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山崎字下河内736番"
+ },
+ {
+  "jmh_id": "JMH-142042-0210",
+  "name": "石造 宝篋印塔（明徳三年銘・伝足利貞氏墓）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "浄明寺三丁目78番"
+ },
+ {
+  "jmh_id": "JMH-142042-0220",
+  "name": "石造 板碑（正慶二年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0200",
+  "name": "石造 五輪塔（明徳五年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "材木座六丁目854番"
+ },
+ {
+  "jmh_id": "JMH-142042-0211",
+  "name": "石造 宝篋印塔（明徳四年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "由比ガ浜二丁目1089番"
+ },
+ {
+  "jmh_id": "JMH-142042-0222",
+  "name": "石造 西方寺址石塔群",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "極楽寺二丁目27番１"
+ },
+ {
+  "jmh_id": "JMH-142042-0205",
+  "name": "石造 宝塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "大町一丁目1206番"
+ },
+ {
+  "jmh_id": "JMH-142042-0209",
+  "name": "石造 宝篋印塔（文和五年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "寺分字上陣出424番"
+ },
+ {
+  "jmh_id": "JMH-142042-0217",
+  "name": "石造 板碑（弘長二年銘・不動種子刻）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "材木座二丁目282番２"
+ },
+ {
+  "jmh_id": "JMH-142042-0219",
+  "name": "石造 板碑（徳治三年銘・宝篋印塔刻）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "長谷三丁目11番２号"
+ },
+ {
+  "jmh_id": "JMH-142042-0201",
+  "name": "石造 五輪塔（順忍塔）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "極楽寺三丁目1035番"
+ },
+ {
+  "jmh_id": "JMH-142042-0095",
+  "name": "木造 円覚寺正続院開山堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内字瑞鹿山435番"
+ },
+ {
+  "jmh_id": "JMH-142042-0093",
+  "name": "木造 円覚寺正続院宿竜殿（附 棟札）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内字瑞鹿山435番"
+ },
+ {
+  "jmh_id": "JMH-142042-0221",
+  "name": "石造 石廟",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "大町七丁目1655番１"
+ },
+ {
+  "jmh_id": "JMH-142042-0212",
+  "name": "石造 手水鉢",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1051番"
+ },
+ {
+  "jmh_id": "JMH-142042-0202",
+  "name": "石造 供養塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷三丁目445番"
+ },
+ {
+  "jmh_id": "JMH-142042-0213",
+  "name": "石造 板碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内字宮下小路827番"
+ },
+ {
+  "jmh_id": "JMH-142042-0214",
+  "name": "石造 板碑",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷四丁目18番８号"
+ },
+ {
+  "jmh_id": "JMH-142042-0215",
+  "name": "石造 板碑（元徳四年銘）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷三丁目445番"
+ },
+ {
+  "jmh_id": "JMH-142042-0206",
+  "name": "石造 宝塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "寺分一丁目988番"
+ },
+ {
+  "jmh_id": "JMH-142042-0094",
+  "name": "木造 円覚寺正続院鐘楼",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内字瑞鹿山435番"
+ },
+ {
+  "jmh_id": "JMH-142042-0112",
+  "name": "木造 妙法寺表門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "大町四丁目1896番２"
+ },
+ {
+  "jmh_id": "JMH-142042-0134",
+  "name": "木造 浄光明寺阿弥陀堂（附 棟札）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷二丁目280番"
+ },
+ {
+  "jmh_id": "JMH-142042-0133",
+  "name": "木造 浄光明寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷二丁目280番"
+ },
+ {
+  "jmh_id": "JMH-142042-0117",
+  "name": "木造 常楽寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "大船五丁目1349番"
+ },
+ {
+  "jmh_id": "JMH-142042-0092",
+  "name": "木造 光明寺総門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "材木座六丁目854番"
+ },
+ {
+  "jmh_id": "JMH-142042-0136",
+  "name": "木造 熊野神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "大船2033番"
+ },
+ {
+  "jmh_id": "JMH-142042-0174",
+  "name": "木造 鶴岡八幡宮末社白旗神社本殿及拝殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1051番１"
+ },
+ {
+  "jmh_id": "JMH-142042-0207",
+  "name": "石造 宝塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "坂ノ下212番２"
+ },
+ {
+  "jmh_id": "JMH-142042-0107",
+  "name": "木造 壽福寺仏殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷一丁目180番１"
+ },
+ {
+  "jmh_id": "JMH-142042-0111",
+  "name": "木造 妙本寺祖師堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "大町一丁目1129番"
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "8ab68a58d3f7e07f": {
+    "url": "https://www.city.kyoto.lg.jp/menu2/category/24-8-1-2-0-0-0-0-0-0.html",
+    "filename": "8ab68a58d3f7e07f.html",
+    "sha256": "2f1ac603ba07cd2d115586a2b7d82205d91270643f5805dd9fbac73a22c1ee6e",
+    "fetched_at": "2026-07-12T06:25:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6520ac2ede6b7e96": {
+    "url": "http://jmapps.ne.jp/kyotocity_bunka/index.html",
+    "filename": "6520ac2ede6b7e96.bin",
+    "sha256": "3be0773fdd63a4733783aacc0e3a8009a99a8cd2a95a5ac07842987dba4ade0d",
+    "fetched_at": "2026-07-12T06:25:39Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

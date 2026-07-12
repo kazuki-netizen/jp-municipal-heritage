@@ -1,0 +1,18 @@
+{
+  "7fba1aaacc479927": {
+    "url": "https://www.city.wakayama.wakayama.jp/shisei/hasshin/1001156/1056607/1058078/1061716.html",
+    "filename": "7fba1aaacc479927.html",
+    "sha256": "099e6412aa977ed2a741b50c586957195ff89af114f3cebd9c39cc89da2258a8",
+    "fetched_at": "2026-07-12T06:46:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "07018d5398d58ed1": {
+    "url": "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/067/374/0326-1.pdf",
+    "filename": "07018d5398d58ed1.pdf",
+    "sha256": "1457d124cc36c0de02e6dfbc7689e0a39d73a9517c1203411f6fc87f9b1084ae",
+    "fetched_at": "2026-07-12T06:46:59Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

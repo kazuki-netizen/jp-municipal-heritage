@@ -1,0 +1,15 @@
+{
+ "df0a2e89b9115006": {
+  "url": "http://www.vill.kitaaiki.nagano.jp/docs/316.html",
+  "filename": "df0a2e89b9115006.html",
+  "sha256": "6652ac8ab8905b8567955a120e0068f413991f8c1cc0868e08041583a8b4088b",
+  "fetched_at": "2026-07-12T04:27:57Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "http://www.vill.kitaaiki.nagano.jp/docs/316.html": {
+  "file": "df0a2e89b9115006.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:43Z"
+ }
+}

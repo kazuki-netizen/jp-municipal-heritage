@@ -1,0 +1,18 @@
+{
+  "8784eef32f475921": {
+    "url": "https://www.city.ama.aichi.jp/kurashi/shogai/1002541/1002542.html",
+    "filename": "8784eef32f475921.html",
+    "sha256": "73969b9328ecb6499461859e1e41c76b9018b13ee7b4bfc587937b699c9b6838",
+    "fetched_at": "2026-07-12T06:14:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5780c074a24f13c3": {
+    "url": "https://www.city.ama.aichi.jp/_res/projects/default_project/_page_/001/002/542/bunkazaimapbunkazaiitiran.pdf",
+    "filename": "5780c074a24f13c3.pdf",
+    "sha256": "37d30fced9f711576b2b81bef50628c5d1c6fd07d98da4c7cbb75884ceb59923",
+    "fetched_at": "2026-07-12T06:37:57Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -34,7 +34,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "site", "geocode_cache.json")
 
-PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa", "tokyo"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa", "tokyo", "niigata", "yamanashi", "toyama", "ishikawa", "fukui", "nagano", "shizuoka"]
 
 COLUMNS = [
     "pref", "municipality", "name", "category", "subcategory",
@@ -53,7 +53,9 @@ DELAY_SEC = 0.5  # polite delay between geocode requests
 # Chiba: lat ~34.9–36.1 N (southern Bōsō Peninsula: 館山・南房総・鋸南) — south bound widened to 34.8.
 # Tokyo islands: Miyake 34.1N, Mikurajima 33.9N, Hachijo 33.1N, Aogashima 32.5N,
 # Ogasawara (Chichijima 27.1N / Hahajima 26.65N, lon 142.1–142.2E) — south bound widened to 26.5.
-BBOX = {"lat_min": 26.5, "lat_max": 45.6, "lon_min": 138.4, "lon_max": 146.0}
+# National coverage (v12+): west bound widened for Chubu/Kinki/Kyushu (Fukui ~135.5E, Noto ~136.6E),
+# south/west bounds cover Okinawa incl. Hateruma (24.05N) and Yonaguni (122.93E).
+BBOX = {"lat_min": 24.0, "lat_max": 45.6, "lon_min": 122.5, "lon_max": 146.0}
 
 
 def load_rows(pref):

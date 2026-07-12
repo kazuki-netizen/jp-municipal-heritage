@@ -1,0 +1,401 @@
+[
+ {
+  "jmh_id": "JMH-142131-0017",
+  "name": "旧子ノ社鰐口",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-08-01",
+  "municipality": "大和市",
+  "location": "つきみ野7-3-2 つる舞の里歴史資料館"
+ },
+ {
+  "jmh_id": "JMH-142131-0016",
+  "name": "仏導寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1981-08-01",
+  "municipality": "大和市",
+  "location": "深見3361 仏導寺"
+ },
+ {
+  "jmh_id": "JMH-142131-0025",
+  "name": "諏訪神社北辰一刀流奉納額（非公開）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-04-01",
+  "municipality": "大和市",
+  "location": "下鶴間2540 諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-142131-0029",
+  "name": "田中八幡宮天然理心流奉納額",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1998-09-10",
+  "municipality": "大和市",
+  "location": "代官1-20-20 田中八幡宮"
+ },
+ {
+  "jmh_id": "JMH-142131-0002",
+  "name": "福田神社囃子獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1969-01-10",
+  "municipality": "大和市",
+  "location": "福田8-8-21 福田神社"
+ },
+ {
+  "jmh_id": "JMH-142131-0015",
+  "name": "薬王院双盤念佛",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1978-04-21",
+  "municipality": "大和市",
+  "location": "上和田2710 薬王院"
+ },
+ {
+  "jmh_id": "JMH-142131-0032",
+  "name": "福田の廻り地蔵および講中道具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2017-09-28",
+  "municipality": "大和市",
+  "location": "鶴間1-19-8 文化財保管施設"
+ },
+ {
+  "jmh_id": "JMH-142131-0001",
+  "name": "タブノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1966-06-11",
+  "municipality": "大和市",
+  "location": "代官"
+ },
+ {
+  "jmh_id": "JMH-142131-0005",
+  "name": "ハルニレ（なんじゃもんじゃの木）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-02-25",
+  "municipality": "大和市",
+  "location": "深見3367 深見神社"
+ },
+ {
+  "jmh_id": "JMH-142131-0003",
+  "name": "ケヤキ（下和田）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-02-25",
+  "municipality": "大和市",
+  "location": "下和田1105-6"
+ },
+ {
+  "jmh_id": "JMH-142131-0004",
+  "name": "ケヤキ（福田）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1972-02-25",
+  "municipality": "大和市",
+  "location": "福田"
+ },
+ {
+  "jmh_id": "JMH-142131-0024",
+  "name": "旧石川家墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-04-01",
+  "municipality": "大和市",
+  "location": "上和田2710 信法寺"
+ },
+ {
+  "jmh_id": "JMH-142131-0023",
+  "name": "旧中根家墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1988-04-01",
+  "municipality": "大和市",
+  "location": "福田2176 常泉寺"
+ },
+ {
+  "jmh_id": "JMH-142131-0030",
+  "name": "旧小倉家住宅宅地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2003-06-25",
+  "municipality": "大和市",
+  "location": "下鶴間2359-5 ほか"
+ },
+ {
+  "jmh_id": "JMH-144011-0005",
+  "name": "八菅神社の梵鐘",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1972-09-01",
+  "municipality": "愛川町",
+  "location": "八菅山139"
+ },
+ {
+  "jmh_id": "JMH-144011-0004",
+  "name": "八菅山修験道旧跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-09-01",
+  "municipality": "愛川町",
+  "location": "八菅山地区"
+ },
+ {
+  "jmh_id": "JMH-144011-0003",
+  "name": "三増合戦場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1972-09-01",
+  "municipality": "愛川町",
+  "location": "三増地区"
+ },
+ {
+  "jmh_id": "JMH-144011-0006",
+  "name": "塩川滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "町指定",
+  "designated_date": "1972-09-01",
+  "municipality": "愛川町",
+  "location": "半原948番地先"
+ },
+ {
+  "jmh_id": "JMH-144011-0002",
+  "name": "タブノキ（角田）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1972-09-01",
+  "municipality": "愛川町",
+  "location": "角田2371"
+ },
+ {
+  "jmh_id": "JMH-144011-0001",
+  "name": "タブノキ（田代）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1972-09-01",
+  "municipality": "愛川町",
+  "location": "田代1395"
+ },
+ {
+  "jmh_id": "JMH-144011-0007",
+  "name": "管巻き唄",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗",
+  "designation": "町指定",
+  "designated_date": "1972-09-01",
+  "municipality": "愛川町",
+  "location": "半原地区"
+ },
+ {
+  "jmh_id": "JMH-144011-0008",
+  "name": "旧光勝寺の鰐口",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1976-10-01",
+  "municipality": "愛川町",
+  "location": "八菅山139"
+ },
+ {
+  "jmh_id": "JMH-144011-0015",
+  "name": "龍福寺の山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1979-07-01",
+  "municipality": "愛川町",
+  "location": "中津408"
+ },
+ {
+  "jmh_id": "JMH-144011-0012",
+  "name": "勝楽寺の山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1979-07-01",
+  "municipality": "愛川町",
+  "location": "田代2061"
+ },
+ {
+  "jmh_id": "JMH-144011-0010",
+  "name": "三増獅子舞のバンバ面",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "designated_date": "1979-07-01",
+  "municipality": "愛川町",
+  "location": "三増地区"
+ },
+ {
+  "jmh_id": "JMH-144011-0014",
+  "name": "正応の碑伝",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1979-07-01",
+  "municipality": "愛川町",
+  "location": "八菅山139"
+ },
+ {
+  "jmh_id": "JMH-144011-0011",
+  "name": "上原の庚申塔",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "designated_date": "1979-07-01",
+  "municipality": "愛川町",
+  "location": "田代1060"
+ },
+ {
+  "jmh_id": "JMH-144011-0013",
+  "name": "弥生期の有角石斧",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1979-07-01",
+  "municipality": "愛川町",
+  "location": "中津2294"
+ },
+ {
+  "jmh_id": "JMH-144011-0009",
+  "name": "カタクリの自生地（市の田）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1979-07-01",
+  "municipality": "愛川町",
+  "location": "半原2796イ他"
+ },
+ {
+  "jmh_id": "JMH-144011-0016",
+  "name": "半縄の石棒",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "1980-02-01",
+  "municipality": "愛川町",
+  "location": "中津5694"
+ },
+ {
+  "jmh_id": "JMH-144011-0017",
+  "name": "清徳寺の鎌獅子",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "designated_date": "1980-02-01",
+  "municipality": "愛川町",
+  "location": "三増1730"
+ },
+ {
+  "jmh_id": "JMH-144011-0018",
+  "name": "カタクリの自生地（梅沢）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1981-09-01",
+  "municipality": "愛川町",
+  "location": "角田梅沢"
+ },
+ {
+  "jmh_id": "JMH-144011-0019",
+  "name": "復元小島末儀撚糸工場(八丁式撚糸機とその関連機器一式)",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1998-06-22",
+  "municipality": "愛川町",
+  "location": "半原4410愛川繊維会館"
+ },
+ {
+  "jmh_id": "JMH-144011-0021",
+  "name": "八菅神社文書",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2000-07-01",
+  "municipality": "愛川町",
+  "location": "八菅山139"
+ },
+ {
+  "jmh_id": "JMH-144011-0020",
+  "name": "八菅山大権現天文十年棟札",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2000-07-01",
+  "municipality": "愛川町",
+  "location": "八菅山139"
+ },
+ {
+  "jmh_id": "JMH-144011-0022",
+  "name": "伝八菅山出土土製経筒",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2001-06-01",
+  "municipality": "愛川町",
+  "location": "半原5287愛川町郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-144011-0023",
+  "name": "八菅山経塚遺跡出土木造合子形念持仏",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2009-09-01",
+  "municipality": "愛川町",
+  "location": "半原5287愛川町郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-142018-0064",
+  "name": "常福寺本堂内厨子",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2007-03-12",
+  "municipality": "横須賀市",
+  "location": "西浦賀2丁目5"
+ },
+ {
+  "jmh_id": "JMH-142018-0067",
+  "name": "盛福寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2008-03-10",
+  "municipality": "横須賀市",
+  "location": "田浦町5丁目51"
+ },
+ {
+  "jmh_id": "JMH-142018-0096",
+  "name": "旧万代橋駐車場・トミ大妻別邸（旧横須賀市立大代会館）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "municipality": "横須賀市",
+  "location": "津久井2丁目15-33"
+ }
+]

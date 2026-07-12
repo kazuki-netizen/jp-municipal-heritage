@@ -1,0 +1,18 @@
+{
+  "5a7b32d372110094": {
+    "url": "https://www.town.tsuwano.lg.jp/www/contents/1000000007000/index.html",
+    "filename": "5a7b32d372110094.html",
+    "sha256": "650a75e74da9c603dbf791a098b07b61c6040c0c53420867293363765f554955",
+    "fetched_at": "2026-07-12T06:55:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c5112fe627cb3e16": {
+    "url": "https://www.town.tsuwano.lg.jp/www/contents/1682570698880/simple/dai1syou.pdf",
+    "filename": "c5112fe627cb3e16.pdf",
+    "sha256": "7e9508706a80be868aa835e394b1682ecc8aee8081b3e4360a5beb8cbdd94661",
+    "fetched_at": "2026-07-12T06:55:50Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}
