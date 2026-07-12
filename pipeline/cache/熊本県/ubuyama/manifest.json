@@ -1,0 +1,18 @@
+{
+  "a6a612ca79cfa210": {
+    "url": "https://www.ubuyama-v.jp/soshikikarasagasu/kyoikuiinkai/culturalproperty/768.html",
+    "filename": "a6a612ca79cfa210.html",
+    "sha256": "13a49947281d31d42e6cfef05f097e444fb4b5040e40fa5ff37435b3c4fbeafd",
+    "fetched_at": "2026-07-12T09:36:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c0e88ff06702a812": {
+    "url": "https://www.ubuyama-v.jp/soshikikarasagasu/kyoikuiinkai/culturalproperty/767.html",
+    "filename": "c0e88ff06702a812.html",
+    "sha256": "9b0dadf03729b5ea4ae4aa0adbc0441d4ae35b2e89bae410d2823907cc227316",
+    "fetched_at": "2026-07-12T09:36:32Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

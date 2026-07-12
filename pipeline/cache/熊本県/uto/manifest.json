@@ -1,0 +1,18 @@
+{
+  "90cb827f9f6e310f": {
+    "url": "https://www.city.uto.lg.jp/article/view/1144/4161.html",
+    "filename": "90cb827f9f6e310f.html",
+    "sha256": "66fa5ff613d30e31131bb7063348eadff9a312c716f4f27c72e8c8d42b3643d5",
+    "fetched_at": "2026-07-12T09:36:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "09b4ff6c6c2c1184": {
+    "url": "https://www.city.uto.lg.jp/d?q=68bb5d3bd168605dcbfc1513b72e5d87.csv",
+    "filename": "09b4ff6c6c2c1184.csv",
+    "sha256": "88920b80e8e9be60ca103cb81a4993da2de04c85357a2e7e49b701d7839c43e9",
+    "fetched_at": "2026-07-12T09:36:13Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

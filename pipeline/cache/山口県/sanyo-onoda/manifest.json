@@ -3,7 +3,183 @@
     "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/siteibunkazai.html",
     "filename": "df79968aba3dc95d.html",
     "sha256": "790a282065eddbc0eb7e1bace973a64760e393fc78216987b2915e9c190c54cf",
-    "fetched_at": "2026-07-12T07:10:42Z",
+    "fetched_at": "2026-07-12T09:33:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3e999eaec5ac8e9a": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40655.html",
+    "filename": "3e999eaec5ac8e9a.html",
+    "sha256": "de6b834cd8704bb95bf5628ed0ff994de5fb037f88120e7e4d67060731c9ea5a",
+    "fetched_at": "2026-07-12T09:33:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a6d86d543416bba2": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40642.html",
+    "filename": "a6d86d543416bba2.html",
+    "sha256": "9720d0a240d24bc737aa6e40c7704ea5ee5b12d905bf012a51c227b71db97459",
+    "fetched_at": "2026-07-12T09:33:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "471e4ce6079fc86e": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40644.html",
+    "filename": "471e4ce6079fc86e.html",
+    "sha256": "3b9e86f98cd38191825d919f7f71c05a6030169ffafff987924e53e46989a458",
+    "fetched_at": "2026-07-12T09:33:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "05c77043978d6cc3": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40639.html",
+    "filename": "05c77043978d6cc3.html",
+    "sha256": "d8aa2f5b2bcd4cf16a58fa600342f1ec0a00299ac6322cea8f238859d97a2a74",
+    "fetched_at": "2026-07-12T09:33:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c265970dad4b03eb": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40652.html",
+    "filename": "c265970dad4b03eb.html",
+    "sha256": "48ca0b08381566febbac9aae3e0a02356e37a64c521b5be42837bd30caa1c72c",
+    "fetched_at": "2026-07-12T09:33:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2c0ea5a2c537c138": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40649.html",
+    "filename": "2c0ea5a2c537c138.html",
+    "sha256": "75f40c310fa8d4e87485c2d56663e74a4385ec809f20758b09e56057d94d93e1",
+    "fetched_at": "2026-07-12T09:33:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e8609027e0ed99a1": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40650.html",
+    "filename": "e8609027e0ed99a1.html",
+    "sha256": "a05bd19e2707c1be80145a1161b4d18806e4883fc04a26b857f6055118ecb7ea",
+    "fetched_at": "2026-07-12T09:33:47Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8c3a41cd444ba810": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40640.html",
+    "filename": "8c3a41cd444ba810.html",
+    "sha256": "7cec2b43ed436b0d2c8b6430e663dd606860596e9bea6b5f935a18c6e7bd7b73",
+    "fetched_at": "2026-07-12T09:33:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "94b7685d7cdfe263": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40645.html",
+    "filename": "94b7685d7cdfe263.html",
+    "sha256": "883939e53c676783962824cea237c39dc23d55e5a9a4e9da31c151e375605c6b",
+    "fetched_at": "2026-07-12T09:33:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "30f4ad523019cc22": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40643.html",
+    "filename": "30f4ad523019cc22.html",
+    "sha256": "f77cba1fab9f5b36071aeadc616b9808c76e4ebb4e8385d21248f7dc864e8f11",
+    "fetched_at": "2026-07-12T09:33:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f9df105210f5e181": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40651.html",
+    "filename": "f9df105210f5e181.html",
+    "sha256": "57223f2a16d3ded0342d8f6a4b3aea4a09f2c8187306fba01f4e18f942b54b4f",
+    "fetched_at": "2026-07-12T09:33:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8f215ddb8017502c": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40641.html",
+    "filename": "8f215ddb8017502c.html",
+    "sha256": "8b994c1a241f93d0abaeb736671ed6768a3257c208d7e6f97c91e2ecc5dfbd3f",
+    "fetched_at": "2026-07-12T09:34:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1f2586cc207fdc5a": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40653.html",
+    "filename": "1f2586cc207fdc5a.html",
+    "sha256": "b4d3b462bdccd8a659b184e493e2b84b8e651eae0bc1589614b0c138d14b9048",
+    "fetched_at": "2026-07-12T09:34:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fe70256729958613": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40648.html",
+    "filename": "fe70256729958613.html",
+    "sha256": "e856464576e6bb356f47dd9657ce41857d26185179de07996254d05364f03f46",
+    "fetched_at": "2026-07-12T09:34:06Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4acf42bfbecec91c": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40637.html",
+    "filename": "4acf42bfbecec91c.html",
+    "sha256": "f112c6a48af151e5e4b59b937dec22fe698f677be4182b29605778215bced401",
+    "fetched_at": "2026-07-12T09:34:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1335b46e11d60ed1": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40646.html",
+    "filename": "1335b46e11d60ed1.html",
+    "sha256": "99e9f5fbc52a60c49125d6d4f2a57337845f140e65fb5a8e0002ac174896b6be",
+    "fetched_at": "2026-07-12T09:34:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "261560329631a407": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40638.html",
+    "filename": "261560329631a407.html",
+    "sha256": "88452b187e8d9aa5386f35ab3708353105d5d4ac5552105461e2c54fd6160a81",
+    "fetched_at": "2026-07-12T09:34:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9e33253c48157f75": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40656.html",
+    "filename": "9e33253c48157f75.html",
+    "sha256": "ca628fb8a042c00fef53e68ac09692aa0abf5eb96c4742c741b6b87c4495aa4c",
+    "fetched_at": "2026-07-12T09:34:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c744248567098934": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40635.html",
+    "filename": "c744248567098934.html",
+    "sha256": "8b70b9409e790e34321c7a68cd775d181a5d5cf47addb8e372043cfb37a35c22",
+    "fetched_at": "2026-07-12T09:34:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "14a98a4db1428fe7": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40634.html",
+    "filename": "14a98a4db1428fe7.html",
+    "sha256": "193a39ba724718c1f9e2425d1c14539eafe493ba6022a61679bf35ca655e8a1e",
+    "fetched_at": "2026-07-12T09:34:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "04d018ad9926d904": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40636.html",
+    "filename": "04d018ad9926d904.html",
+    "sha256": "e32200a0b8a29ee948b707f39e66930c313f811f1dd440230aa2d8a4c94f236c",
+    "fetched_at": "2026-07-12T09:34:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "352f8530d3fd203f": {
+    "url": "https://www.city.sanyo-onoda.lg.jp/site/bunkazai/40647.html",
+    "filename": "352f8530d3fd203f.html",
+    "sha256": "00e859e28e7177a0fb632dded25ff38f6455b5771e64d5ae1d6ad47f5b4f3e67",
+    "fetched_at": "2026-07-12T09:34:28Z",
     "http_status": 200,
     "format": "html"
   }

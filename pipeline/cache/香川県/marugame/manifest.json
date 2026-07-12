@@ -6,5 +6,13 @@
     "fetched_at": "2026-07-12T07:29:52Z",
     "http_status": 200,
     "format": "html"
+  },
+  "ff18cc52bddbe2a1": {
+    "url": "https://www.city.marugame.lg.jp/uploaded/attachment/8434.pdf",
+    "filename": "ff18cc52bddbe2a1.pdf",
+    "sha256": "84b68ad0a09965745a878d86194cc1a0914662aba62bf37527bb7168a1b97e71",
+    "fetched_at": "2026-07-12T18:35:00Z",
+    "http_status": 200,
+    "format": "pdf"
   }
 }

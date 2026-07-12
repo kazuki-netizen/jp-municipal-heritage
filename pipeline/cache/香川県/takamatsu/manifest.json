@@ -14,5 +14,109 @@
     "fetched_at": "2026-07-12T07:29:52Z",
     "http_status": 200,
     "format": "pdf"
+  },
+  "82032d043c45e815": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/chokoku/index.html",
+    "filename": "82032d043c45e815.html",
+    "sha256": "626a46966095d2fb03c023df2eb37bc0161bfa38d3dd6d7227eb492940f8abd5",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5f475deac37c3959": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/kaiga/index.html",
+    "filename": "5f475deac37c3959.html",
+    "sha256": "23ec32673cffdf892626635b2fd8ce66d44681b7d1053badd3bed8987fb5b18c",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7109f59343d5f7ef": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/kenzo/index.html",
+    "filename": "7109f59343d5f7ef.html",
+    "sha256": "4ec8e2600cb12291885eaf43301b9cb873f08fc370da846981cac10363921988",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "24dc8761feaad5f8": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/kogeihin/index.html",
+    "filename": "24dc8761feaad5f8.html",
+    "sha256": "1f859e58a9551ae59ea752ceed3f88495dacd0668c9ee539ab739ffd063d196f",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ab7ebb4dc606e00c": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/koko/index.html",
+    "filename": "ab7ebb4dc606e00c.html",
+    "sha256": "42435d77d436afb2253cee68d6308677bf48024e26f5ef5584b8f38532cc6198",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "53be3416d57424d7": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/komonjo/index.html",
+    "filename": "53be3416d57424d7.html",
+    "sha256": "e3689e7d5fc7c7efe439338458cbbc70923fc5ec582c8eb54647bb854794ac98",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6fbbbd23cb32cd95": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/meisho/index.html",
+    "filename": "6fbbbd23cb32cd95.html",
+    "sha256": "da407b47e0b62c5249dc39da05a81a072c75502dfb966b9b4f2f5328847453d3",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2a63f03cc303aaf5": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/mukei/index.html",
+    "filename": "2a63f03cc303aaf5.html",
+    "sha256": "11c2e6958bff25a4ff586c23b9244ea61ce181de949d2076b94d6350d971523a",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "599e548a9613495c": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/mukei_minzoku/index.html",
+    "filename": "599e548a9613495c.html",
+    "sha256": "c599129d231684e715bedd6c0c0a125084a7c56ac5fbef2631e796193760407e",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f93ec995077e2dee": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/shiseki/index.html",
+    "filename": "f93ec995077e2dee.html",
+    "sha256": "9bfac629d4801831f00c86b3bcb68624253beebaec61cbd4424d97009dc4fcb7",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "01da0210870eb126": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/shoseki/index.html",
+    "filename": "01da0210870eb126.html",
+    "sha256": "ba5be04572c94287bad887c60ced49943dfda88d20b0b4a5eefaf91d423c271c",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3d0d907f612ab955": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/tennen/index.html",
+    "filename": "3d0d907f612ab955.html",
+    "sha256": "aa879ca1e7bdd13bc1a209c51c60a5d30ce759c9be02b5d118f775fa2433ffba",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b751ae157c5c1d71": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/yukei_minzoku/index.html",
+    "filename": "b751ae157c5c1d71.html",
+    "sha256": "5a1e55470744912ca21f927899749606d563e17c1cc52a5c821db606d0a35a33",
+    "fetched_at": "2026-07-12T18:15:00Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

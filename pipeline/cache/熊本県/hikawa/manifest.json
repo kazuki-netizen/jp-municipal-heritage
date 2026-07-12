@@ -1,0 +1,18 @@
+{
+  "01cf68669b83f666": {
+    "url": "https://www.town.hikawa.kumamoto.jp/kanko/kiji0033756/index.html",
+    "filename": "01cf68669b83f666.html",
+    "sha256": "b1ed2e25c4c12d3f715a0e8d7f7a24a567c0acdd626ebc9f0d03b356667ac70c",
+    "fetched_at": "2026-07-12T09:36:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b4ff101200a0ecd3": {
+    "url": "https://www.town.hikawa.kumamoto.jp/kanko/kiji0033756/3_3756_4_75_28_265_up_A7J47EZ5.pdf",
+    "filename": "b4ff101200a0ecd3.pdf",
+    "sha256": "c8ea865cca0ba0d8303b8ead77b5955dce52015af4c0729cf5422c26efb5d039",
+    "fetched_at": "2026-07-12T09:36:36Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

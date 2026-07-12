@@ -1,0 +1,751 @@
+    <!DOCTYPE html>
+<html xml:lang="ja" lang="ja">
+<head>
+    <meta name="robots" content="index,follow">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <meta content="大分県由布市の公式ホームページです。由布市は地域自治を大切にした住み良さ日本一のまちをめざします！暮らしの情報のほか、イベントや観光情報、市政情報、防災に関する情報などを提供しています。" name="description" />
+    <meta content="由布市役所,大分県,地方自治体" name="keywords" />
+    <meta property="og:image" content="https://www.city.yufu.oita.jp/img/system/logo_ogp.png"/>
+    <title>大分県由布市｜公式ホームページ｜暮らしの情報</title>
+    <link rel="shortcut icon" href="https://www.city.yufu.oita.jp/images/favicon.ico" />
+    <link rel="stylesheet" href="https://www.city.yufu.oita.jp/css/reset.css" media="all">
+    <link rel="stylesheet" href="https://www.city.yufu.oita.jp/css/import.css" media="screen">
+    <link rel="stylesheet" href="https://www.city.yufu.oita.jp/css/print.css" media="print" />
+    <!--
+    <link rel="stylesheet" href="css/color_blue.css" media="all" id="styleColor" />
+    -->
+    <link rel="stylesheet" href="https://use.typekit.net/cby5ugo.css">
+
+
+    <!--[if lt IE 9]><script src="https://www.city.yufu.oita.jp/js/html5.js"></script><![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://www.city.yufu.oita.jp/js/jquery.easing.1.3.js"></script>
+    <script src="https://www.city.yufu.oita.jp/js/common.js"></script>
+    <script src="https://www.city.yufu.oita.jp/js/switch_color.js"></script>
+    <script src="https://www.city.yufu.oita.jp/js/pagetop.js"></script>
+    <script src="https://www.city.yufu.oita.jp/js/jquery.localscroll-1.2.7-min.js"></script>
+    <script src="https://www.city.yufu.oita.jp/js/scrollin.js"></script>
+    <script src="https://www.city.yufu.oita.jp/js/printArea.js"></script>
+    <script>
+        jQuery( window ).on('scroll', function() {
+            if ( 100 < jQuery( this ).scrollTop() ) {
+                jQuery('header').addClass('bgColor');
+            } else {
+                jQuery('header').removeClass('bgColor');
+            }
+        });
+
+        /**
+         * 検索ソード変更イベント
+         */
+        $(function() {
+            // textボックスの変更時
+            $('#public_search_item').change(function() {
+                $('#header_search_form').submit();
+            });
+        });
+        // 検索用 index json
+        let indexes = [{"index_word":""},{"index_word":"GPS"},{"index_word":"契約検査室の業務"}]
+
+    </script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JYR1MLC255"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JYR1MLC255');
+</script>
+</head>
+
+<body>
+<header>
+    <div class="inner">
+        <a href="https://www.city.yufu.oita.jp/" class="logo" title="大分県由布市｜Yufu City"></a>
+        <h1>由布市は地域自治を大切にした<br>住み良さ日本一のまちをめざします！</h1>
+
+        <!-- スマホ用コントロール開閉 -->
+        <input id="input_c" type="checkbox">
+        <label id="btnControl" for="input_c"></label>
+
+        <div class="switchBlock">
+
+            <!-- 背景色の切り替え -->
+            <div class="color">
+                <span>背景色</span>
+                <a href="javascript:SetCss(1);" class="color_btn white">白</a>
+                <a href="javascript:SetCss(2);" class="color_btn yellow">黄</a>
+                <a href="javascript:SetCss(3);" class="color_btn blue">青</a>
+                <a href="javascript:SetCss(4);" class="color_btn black">黒</a>
+            </div>
+
+            <!-- 文字サイズの切り替え -->
+            <script>
+                $(function(){
+                    $('.small').click(function(){
+                        $('html').css('font-size', '90%');
+                    });
+                    $('.normal').click(function(){
+                        $('html').css('font-size', '100%');
+                    });
+                    $('.large').click(function(){
+                        $('html').css('font-size', '110%');
+                    });
+                });
+            </script>
+            <div class="size">
+                <span>文字サイズ</span>
+                <input id="small" type="radio" name="erase_radio">
+                <label class="size_btn small" for="small">小</label>
+                <input id="normal" type="radio" name="erase_radio" checked>
+                <label class="size_btn normal" for="normal">標準</label>
+                <input id="large" type="radio" name="erase_radio">
+                <label class="size_btn large" for="large">大</label>
+            </div>
+
+            <!-- 言語選択 -->
+            <div class="lang">
+                <span>言語選択</span>
+                <a href="/article_link/translation">English/中文（簡・繁）/한국</a>
+            </div>
+
+        </div>
+
+        <!-- キーワード検索 -->
+        <form action="/search_index" id="header_search_form" class="searchBlock">
+    <input type="text" value="" name="index_word" id="index_header_word" class="inputFree" maxlength="100" placeholder="キーワード入力"/>
+    <input type="submit" id="" value="検索" class="btnSearch"/>
+    <ul id="search_header_list" style="position: absolute;top:40px;left:40px; display: none;border: solid 1px #ccc;z-index: 1000;font-size:18px;background:#fff;"></ul>
+</form>
+
+<script>
+
+    $(document).ready(function() {
+
+        /**
+         * ヘッダー用検索キーワード key アクション
+         */
+        $('#index_header_word').keyup(function(e){
+
+            // 検索ワード
+            let word = $('#index_header_word').val();
+            // ワードヒットフラグ
+            let isHit = false;
+
+            // 検索結果用一覧リスト初期化
+            $('#search_header_list').empty();
+            // 画面非表示
+            $('#search_header_list').css({display:'none'});
+
+            // 検索ワードが0文字の場合は、非表示
+            if (word.length == 0) {
+                $('#search_header_list').css({display:'none'});
+                return;
+            }
+
+            indexes.map(function(indexData) {
+                // 検索用配列より key word が含まれているかを判定
+                if (indexData.index_word.includes(word)) {
+                    // 検索ヒット
+                    isHit = true;
+                    $('#search_header_list').css({display:'block', width: $('#index_header_word').width() + 'px'});
+                    $('#search_header_list').append('<li style="padding:3px;"><a href="javascript:void(0)">'+ indexData.index_word +'</a></li>');
+                }
+            });
+
+            // ヒットしなかった場合
+            if (isHit === false) {
+                $('#search_header_list').css({display:'block', width: $('#index_header_word').width() + 'px'});
+                //$('#search_header_list').append('<li style="padding:3px;">検索結果は見つかりませんでした。</li>');
+                $('#search_header_list').append('<li style="padding:3px;"></li>');
+            }
+
+        });
+
+        // 検索結果より押下した場合は、検索key wordに値をセットする
+        $(document).on('click','#search_header_list a',function(){
+            $('#index_header_word').val($(this).text());
+            $('#search_header_list').css({display:'none'});
+        });
+
+        // 検索用フォームからフォーカスが外れた場合は、検索結果を非表示にする
+        $('#index_header_word').blur(function(){
+            setTimeout(function(){
+                $('#search_header_list').css({display:'none'});
+            }, 1500);
+        });
+
+    });
+
+</script>
+
+        <!-- スマホ用メニュー開閉 -->
+        <input id="input" type="checkbox">
+        <label id="btnMenu" for="input"><span class="line1"></span><span class="line2"></span><span class="line3"></span><b>メニュー</b></label>
+
+                
+        
+        
+        
+        
+        
+        
+
+        <!-- グローバルナビ -->
+        <nav class="forPC">
+            <ul class="pcNavi">
+                <li class="sp"><a href="https://www.city.yufu.oita.jp/" class="home"><span>ホームへ</span></a></li>
+                <li>
+                    <a href="https://www.city.yufu.oita.jp/siseijouhou" class="municipal_administration_info"><span>市政情報</span></a>
+                    <div class="pullDownMenu">
+                        <div class="arrowDown pos1"></div>
+                        <div class="titleBlock">
+                            <a href="https://www.city.yufu.oita.jp/siseijouhou" class="catgTitle">
+                                <div class="catgTitle_icon municipal_administration_info"></div>
+                                <span class="catgTitle_name">市政情報</span>
+                                <span class="catgTitle_arrow">Topへ</span>
+                            </a>
+                        </div>
+                        <ul class="menuBlock">
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/yufusisyoukai">由布市の紹介</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/article_link/mayor">
+                                            市長の部屋
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/access-2">市役所へのアクセス</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/sisetu">施設案内（由布市の施設）</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/kakukagyoumu">各課の業務</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/entyoumadoguti">窓口延長での取り扱い</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/gyouseisosikisyokuinsaiyou">行政組織・職員採用</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/zaisei">財政</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/gyouzaiseikaikaku">行財政改革</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/kouhoukoutyou">広報広聴</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/taiwa">市民対話集会「市長と語ろう！」</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/article_link/city_council">
+                                            由布市議会
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="https://www1.g-reiki.net/yufu/reiki_menu.html">
+                                            例規集
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/jouhoukoukai">情報公開・個人情報</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/article_link/tokeijoho">
+                                            統計情報 
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/zinken_douwa_danzyo">人権・部落差別解消推進・男女共同参画</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/siteikanrisyaseido">指定管理者制度</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/siseijouhou_cate1">各種計画</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/article_80382">オープンデータ</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/siseijouhou/article_81411">市からの配布物等</a>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="https://www.city.yufu.oita.jp/kankou" class="tourism_culture"><span>観光と文化</span></a>
+                    <div class="pullDownMenu">
+                        <div class="arrowDown pos2"></div>
+                        <div class="titleBlock">
+                            <a href="https://www.city.yufu.oita.jp/kankou" class="catgTitle">
+                                <div class="catgTitle_icon tourism_culture"></div>
+                                <span class="catgTitle_name">観光と文化</span>
+                                <span class="catgTitle_arrow">Topへ</span>
+                            </a>
+                        </div>
+                        <ul class="menuBlock_4">
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kankou/onsen">温泉</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kankou/kankou-2">観光スポット</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kankou/bunka">文化</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kankou/syukuhaku">宿泊</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kankou/grume">グルメ</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kankou/taken">体験</a>
+                                                                    </li>
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="https://www.city.yufu.oita.jp/kurashi" class="life_info"><span>暮らしの情報</span></a>
+                    <div class="pullDownMenu">
+                        <div class="arrowDown pos3"></div>
+                        <div class="titleBlock">
+                            <a href="https://www.city.yufu.oita.jp/kurashi" class="catgTitle">
+                                <div class="catgTitle_icon life_info"></div>
+                                <span class="catgTitle_name">暮らしの情報</span>
+                                <span class="catgTitle_arrow">Topへ</span>
+                            </a>
+                        </div>
+                        <ul class="menuBlock">
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/life_event">ライフイベント</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/juuminnhyoukoseki">住民票・戸籍</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/nenkinhoken">年金・保険</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/zeikin">税金</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/kenkouiryou">健康・医療</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/fukusikaigo">福祉・介護</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/syougaigakusyu">生涯学習</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/kyoikugakko">教育・学校</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/suidou">水道</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/kankyougomieco">くらし・環境・ごみ・エコ</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/pettodoubutu">ペット・動物</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/nouseinougyouiinnkai">農政・農林・農業委員会</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/sports">スポーツ</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/kankou">
+                                            観光と文化
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/koutuu">交通・バス・道路情報</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/sumai_akiya">住まい・空家</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/machidukuricommunity">まちづくり・地域コミュニティ</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/senkyo-2">選挙</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/syoukougyo">商工労働・消費生活センター</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/mynumber">社会保障・税番号制度（マイナンバー制度）</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/bousai">防災情報</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/article_80959">防衛情報</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/article_link/firefighting">
+                                            消防本部・消防署
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/os_onlineservice">
+                                            オンラインサービス
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/download">申請書ダウンロード</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/madoguchi">暮らしの相談窓口</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/rinku">リンク集</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/kurashi/yufu_map">ゆふマップ</a>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="https://www.city.yufu.oita.jp/biz" class="business_person"><span>事業者の<br>皆さまへ</span></a>
+                    <div class="pullDownMenu">
+                        <div class="arrowDown pos4"></div>
+                        <div class="titleBlock">
+                            <a href="https://www.city.yufu.oita.jp/biz" class="catgTitle">
+                                <div class="catgTitle_icon business_person"></div>
+                                <span class="catgTitle_name">事業者の皆さまへ</span>
+                                <span class="catgTitle_arrow">Topへ</span>
+                            </a>
+                        </div>
+                        <ul class="menuBlock_4">
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/biz/nyuusatukeiyaku">入札・契約</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/biz/tosikeikakukeikan">都市計画・景観</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/article_link/nouseinougyouiinnkai">
+                                            農政・農林・農業委員会
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/biz/kensetu">建設</a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/biz/dourojouhou">道路情報</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/article_link/zeikin">
+                                            税金
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="/article_link/syoukouroudou">
+                                            商工労働
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/biz/namingrights">ネーミングライツ</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="https://storymaps.arcgis.com/stories/ee5515e7e9d14e17b6c0f823309c17fc">
+                                            市有地売却・貸付
+                                        </a>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://www.city.yufu.oita.jp/biz/article_82064">障がい者雇用</a>
+                                                                    </li>
+                                                            <li>
+                                                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/nenkinhoken/jigyoshamuke">
+                                            介護保険
+                                        </a>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </li>
+               
+                <li><a href="https://www.yufuhug.city.yufu.oita.jp/" class="parenting"><span>子育て</span></a></li>  
+                <li><a href="https://www.furusato-yufu.jp/" class="furusato_tax"><span>ふるさと納税</span></a></li>
+                <li><a href="https://yufu-iju.jp/" class="emigration_settlement"><span>移住定住<br>空き家情報</span></a></li>
+            </ul>
+        </nav>
+
+    </div>
+
+
+</header>
+                <main role="main">
+    <div class="column">
+        <div class="titleSide">
+            <span class="titleSide_icon life_info"></span><h2>暮らしの情報</h2>
+        </div>
+        <!-- コンテンツエリア -->
+        <article class="contentColumn">
+            <ul class="topicPath">
+                <div class="topicPath_title">現在の位置<span></span></div>
+                <li><a href="https://www.city.yufu.oita.jp/">トップページ</a></li>
+                                                            <li>
+                            <a href="https://www.city.yufu.oita.jp/kurashi">暮らしの情報</a>
+                        </li>
+                                                                                <li>
+                            <a href="https://www.city.yufu.oita.jp/kurashi/syougaigakusyu">生涯学習</a>
+                        </li>
+                                                                                                                    <li>文化財一覧</a></li>
+                                                    <a class="btnPrint" id="print">印刷する</a>
+            </ul>
+
+            <div class="titleSmall">
+                文化財一覧
+                <span class="yama"></span>
+            </div>
+
+                            <section class="entryBlock">
+                    <ul class="ul_single2 bt40"><li><a href="/article_link/hasama" title="挾間地域">挾間地域</a></li><li><a href="/article_link/shounai" title="庄内地域">庄内地域</a></li><li><a href="/article_link/yufuin" title="湯布院地域">湯布院地域</a></li></ul><a href="/wp-content/uploads/2014/02/IMG_1586.jpg"><img alt="旧日野医院" class="size-medium wp-image-7933" height="225" src="/wp-content/uploads/2014/02/IMG_1586.jpg" width="300" /></a><br />国指定重要文化財　旧日野医院（湯布院町川西）<br /><strong>開館時間</strong>：１０：００～１６：００（入館は１５：３０まで）<br /><strong>開館日</strong>：毎週水～日曜日（ただし、１２月２８日～１月４日を除く）<br /><strong>入館料</strong>：大人３００円、小人１５０円<ul class="ul_single1 bt40"><li><a href="/article_link/siryoukan" title="陣屋の村歴史民俗資料館">由布市歴史民俗資料館について</a></li></ul><!-- <h3 class="single">お問い合わせ</h3><p>社会教育課文化振興係<br />電話：０９７－５８２－１２０３-->                </section>
+            
+                        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <section class="contactBlock">
+        <div class="contactBlock_title">
+            <span>このページに関する<br>お問い合わせ</span>
+        </div>
+        <div class="contactBlock_box">
+            <div class="division">社会教育課文化振興係</div>                            <dl class="tel">
+                    <dt></dt>
+                    <dd>
+                        <span class="icon"></span><a href="tel:097-582-1203">097-582-1203</a>
+                                            </dd>
+                </dl>
+                                                        </div>
+    </section>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="pageBack">
+    <a href="javascript:void(0);" onClick="window.history.back();">前ページへ戻る</a>
+        </div>
+        </article>
+        <!-- サイドメニュー -->
+<article class="sideColumn">
+            <ul class="sideMenu">
+                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/life_event">ライフイベント</a>
+                                                                        </li>
+                                                                                            <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/juuminnhyoukoseki">住民票・戸籍</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/nenkinhoken">年金・保険</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/zeikin">税金</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/kenkouiryou">健康・医療</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/fukusikaigo">福祉・介護</a>
+                                                                        </li>
+                                                                <li>
+                                                    <span>生涯学習</span>
+                                            </li>
+                                                                                            <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/kyoikugakko">教育・学校</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/suidou">水道</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/kankyougomieco">くらし・環境・ごみ・エコ</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/pettodoubutu">ペット・動物</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/nouseinougyouiinnkai">農政・農林・農業委員会</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/sports">スポーツ</a>
+                                                                        </li>
+                                                                <li>
+                                                                                                                    <a href="/kankou">
+                                    観光と文化
+                                </a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/koutuu">交通・バス・道路情報</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/sumai_akiya">住まい・空家</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/machidukuricommunity">まちづくり・地域コミュニティ</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/senkyo-2">選挙</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/syoukougyo">商工労働・消費生活センター</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/mynumber">社会保障・税番号制度（マイナンバー制度）</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/bousai">防災情報</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/article_80959">防衛情報</a>
+                                                                        </li>
+                                                                <li>
+                                                                                                                    <a href="/article_link/firefighting">
+                                    消防本部・消防署
+                                </a>
+                                                                        </li>
+                                                                <li>
+                                                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/os_onlineservice">
+                                    オンラインサービス
+                                </a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/download">申請書ダウンロード</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/madoguchi">暮らしの相談窓口</a>
+                                                                        </li>
+                                                                <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/rinku">リンク集</a>
+                                                                        </li>
+                                                                                                                                                                                                            <li>
+                                                                                    <a href="https://www.city.yufu.oita.jp/kurashi/yufu_map">ゆふマップ</a>
+                                                                        </li>
+                                                                                                                                                                                                                                        </ul>
+        </article>
+    </div><!--カラム括り-->
+</main>
+    
+
+<article id="commonBanner">
+    <ul>
+        <li><a href="http://www.inter-print.jp/" target="_blank"><img src="/images/common/bnr_inter.jpg" width="100%" alt="株式会社インタープリンツ"/></a></li>
+<li><a href="https://chiikidx.com/" target="_blank"><img src="/images/common/bnr_cvoice.gif" width="100%" alt="地方発170便／株式会社地域科学研究所"/></a></li>
+<li><a href="https://www.toto-growing.com/" target="_blank"><img src="/uploads/files/2024/10/hp_banner_tate.png" width="100%" alt="スポーツくじ"/></a></li>
+<li><a href="https://omurakyotei.jp/ts_yufu/" target="_blank"><img src="/uploads/files/2024/12/bana-.jpg" width="100%" alt="チケットショップ由布"/></a></li>
+<li><a href="https://www.city.yufu.oita.jp/banner"><img src="/images/common/bnr_dammy.svg" width="100%" alt="バナー広告募集のご案内"/></a></li>
+<li><a href="https://www.city.yufu.oita.jp/banner"><img src="/images/common/bnr_dammy.svg" width="100%" alt="バナー広告募集のご案内"/></a></li>
+    </ul>
+</article>
+
+<footer>
+    <div id="page-top"><a href="#header"></a></div>
+    <div class="footerCopy"></div>
+    <hr>
+    <section class="inner">
+        <address><b>本庁舎</b>
+〒879-5498 <br>大分県由布市庄内町柿原302番地<br>
+TEL: 097-582-1111（代表）<br>
+<span>【窓口時間】午前8時30分～午後5時</span>
+<a href="/siseijouhou/access-2/#syonai" class="linkAccess">交通アクセス</a>
+</address>
+<address><b>挾間庁舎</b>
+〒879-5592 <br>大分県由布市挾間町向原128番地1<br>
+TEL: 097-583-1111（代表）<br>
+<span>【窓口時間】午前8時30分～午後5時</span>
+<a href="/siseijouhou/access-2/#hasama" class="linkAccess">交通アクセス</a>
+</address>
+<address><b>湯布院庁舎</b>
+〒879-5192 <br>大分県由布市湯布院町川上3738番地1<br>
+TEL: 0977-84-3111（代表）<br>
+<span>【窓口時間】午前8時30分～午後5時</span>
+<a href="/siseijouhou/access-2/#yufuin" class="linkAccess">交通アクセス</a>
+</address>
+    </section>
+    <hr>
+    <section class="inner reverse">
+        <div class="button_sns">
+
+            <ul class="button">
+                <li><a href="https://www.city.yufu.oita.jp/siseijouhou/access-2" class="button_i01">市役所へのアクセス</a></li>
+                <li><a href="https://www.city.yufu.oita.jp/siseijouhou/entyoumadoguti" class="button_i02">延長窓口について</a></li>
+                <li><a href="https://www.city.yufu.oita.jp/contact" class="button_i03">総合お問い合わせ</a></li>
+            </ul>
+                        <ul class="sns">
+                <li><a href="https://www.facebook.com/YufuCity.PR/" target="_blank"><img src="/images/common/btn_facebook.svg" alt="Facebook"/></a></li>
+                <li><a href="https://twitter.com/YufuCity_PR?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><img src="/images/common/btn_twitter.svg" alt="Twitter"/></a></li>
+                <li><a href="https://www.youtube.com/channel/UCyky6kDwBoX5Bt3v3YvySlQ" target="_blank"><img src="/images/common/btn_youtube.svg" alt="YouTube"/></a></li>
+                <a data-cke-saved-href="https://lin.ee/EjdioLp" href="https://lin.ee/EjdioLp" target="_blank" class="btnLine">
+                    <img data-cke-saved-src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" height="100%" alt="友だち追加"></a>
+            </ul>
+        </div>
+        <div class="logo_copyright">
+            <a href="/" class="logo" title="大分県由布市｜Fufu City"></a>
+            <p class="copyright">© <script>document.write(new Date().getFullYear());</script> YUFU City. All rights reserved.</p>
+        </div>
+    </section>
+</footer>
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=716166400" async></script></body>
+</html>
+
+
+
+

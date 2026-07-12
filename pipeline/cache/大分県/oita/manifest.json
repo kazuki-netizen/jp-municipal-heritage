@@ -1,0 +1,26 @@
+{
+  "ecdb1b4c8b43ebf5": {
+    "url": "https://www.city.oita.oita.jp/o204/culturalproperty.html",
+    "filename": "ecdb1b4c8b43ebf5.html",
+    "sha256": "8be69a0b42e503628846723add46dee56d77209e82ce7a9ac4cfb7f76b948804",
+    "fetched_at": "2026-07-12T09:53:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2f0f031bede9d61f": {
+    "url": "https://www.city.oita.oita.jp/o204/documents/r8yearuchiwake.pdf",
+    "filename": "2f0f031bede9d61f.pdf",
+    "sha256": "f877a9f397b6e12f5eb16faae0b98d1a1a435293c81d47c65341cf893ae10ea8",
+    "fetched_at": "2026-07-12T09:53:28Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "e7717b3a8ef9cce4": {
+    "url": "https://www.city.oita.oita.jp/o204/documents/r8yearshishitei.pdf",
+    "filename": "e7717b3a8ef9cce4.pdf",
+    "sha256": "e50d3f76eb608cb73fc661fbc93295b4b36d1e3a79bd63d95faf53845c6125df",
+    "fetched_at": "2026-07-12T09:53:30Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

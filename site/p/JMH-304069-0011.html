@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>長沢芦雪筆「梅月図」及び長沢芦州筆「十六羅漢図」 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>長沢芦雪筆「梅月図」及び長沢芦州筆「十六羅漢図」</h1>
+    <p class="jmh-id">JMH-304069-0011</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>和歌山県</dd>
+      <dt>市町村</dt><dd>すさみ町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>町指定絵画</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>長沢芦雪が串本の無量寺へ師円山応挙の絵を届けそこで自分も多くの絵を書いて帰路周参見の東泉庵に泊り、萬福寺の十六枚の襖に絵を書いたという記録が萬福寺に残っている。
+時は天明7年（1787年）のことである。
+しかしその襖絵は明治中期以後全く行方が解らなくなっており、わずかに東泉庵（後庵）山本家に子犬の絵が一幅残っているだけであった。
+ところが、昭和45年、防地持寶寺で古い倉をとりこわすと長持の中から大きな長方形の木箱が出てきた。
+蓋に諸事掛物函白田庵麟道新添とあり、古画于時天保五年改元とあり、新画芦雪之画寒山拾得と書いている。
+麟道和尚は持寶寺中興の住職で後に隠居した所が白田庵である。
+ところが箱の中には表書きの寒山拾得の絵は見当たらず芦雪画の梅月図と芦州の十六羅漢図が発見された。
+持寶寺では梅月図は掛軸に、十六羅漢図は八双の屏風に仕立てている。
+すさみ町教育委員会は昭和51年度に梅月図を町指定文化財第2号、十六羅漢図は第3号にそれぞれ指定している。
+なお長沢芦雪（1754～1799）は山城の人で円山応挙の弟子として一番の人であり、安芸の宮島の「宮島八景図」「山姥図」は有名で国の重要文化財に指定されている。
+また芦州（1766～1847）は城州淀の藩士で芦雪の義子であり弟子である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.susami.lg.jp/kyoikubunka/03/02/2015110500034.html" target="_blank" rel="noopener">https://www.town.susami.lg.jp/kyoikubunka/03/02/2015110500034.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"長沢芦雪筆「梅月図」及び長沢芦州筆「十六羅漢図」" (JMH-304069-0011), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.550133, 135.496674], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.550133, 135.496674]).addTo(m);
+  </script>
+</body>
+</html>

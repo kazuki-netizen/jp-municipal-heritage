@@ -1,0 +1,18 @@
+{
+  "fa3d639a0bc377cb": {
+    "url": "https://www.city.kamiamakusa.kumamoto.jp/q/aview/408/1196.html",
+    "filename": "fa3d639a0bc377cb.html",
+    "sha256": "9397f75b5404669ad7e02e537d980039bc6dfb1de1006d665076d85598fbb119",
+    "fetched_at": "2026-07-12T09:36:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2825afb2d0d461ee": {
+    "url": "http://www.city.kamiamakusa.kumamoto.jp/q/aview/408/1863.html",
+    "filename": "2825afb2d0d461ee.html",
+    "sha256": "c908026fd225924adbc275b46393409e94343a913169b16cbead697fe887b07e",
+    "fetched_at": "2026-07-12T09:36:15Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -3,8 +3,16 @@
     "url": "https://www.town.suo-oshima.lg.jp/soshiki/27/2023.html",
     "filename": "3c013f114bd64806.html",
     "sha256": "b83df80d9b31d70bff55a8c1c806eb8806292733acdfc3ceb41857153ab13a57",
-    "fetched_at": "2026-07-12T07:10:42Z",
+    "fetched_at": "2026-07-12T09:35:39Z",
     "http_status": 200,
     "format": "html"
+  },
+  "f482cac522439653": {
+    "url": "https://yamaguchi-opendata.jp/ckan/dataset/95381831-69a4-4641-95fb-ab5af4c68a49/resource/85cb035e-6b9a-49db-a44e-60a9bb66c2ae/download/353051_cultural_property.csv",
+    "filename": "f482cac522439653.csv",
+    "sha256": "bc6c3dc8fe529677abb5f7c88872f13c60727b065c2bf2f0edb4ab9316ee3bf7",
+    "fetched_at": "2026-07-12T09:37:15Z",
+    "http_status": 200,
+    "format": "csv"
   }
 }

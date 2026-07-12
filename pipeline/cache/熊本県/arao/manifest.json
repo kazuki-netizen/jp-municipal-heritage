@@ -1,0 +1,18 @@
+{
+  "cf78e61dc2ecb06a": {
+    "url": "https://www.city.arao.lg.jp/oshirase/kosodate/page18228.html",
+    "filename": "cf78e61dc2ecb06a.html",
+    "sha256": "4201aae21a66386670d04607cb416707ed5af035c1cb658f6f6ff780a7e489e5",
+    "fetched_at": "2026-07-12T09:36:03Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fe9f4edbf18d5c09": {
+    "url": "https://www.city.arao.lg.jp/fs/2/5/3/2/2/2/_/_________________8_3_6____.pdf",
+    "filename": "fe9f4edbf18d5c09.pdf",
+    "sha256": "65687d5592edbfdbba7323a4e592cc35e364a8d10901fd31d9f70f5d3a340a97",
+    "fetched_at": "2026-07-12T09:36:06Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

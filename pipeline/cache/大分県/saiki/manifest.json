@@ -1,0 +1,18 @@
+{
+  "24fb27e0959c134d": {
+    "url": "https://www.city.saiki.oita.jp/kiji0033505/index.html",
+    "filename": "24fb27e0959c134d.html",
+    "sha256": "b6d6e86aefa7efe45d788cb93fb8646c372353d4dd2503bf966294e5533528d9",
+    "fetched_at": "2026-07-12T09:53:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5f15f3e1b009b31e": {
+    "url": "https://www.city.saiki.oita.jp/kiji0033505/3_3505_52505_up_m3jbbunk.pdf",
+    "filename": "5f15f3e1b009b31e.pdf",
+    "sha256": "ab8b3150d209345bff6e6eaa6fe0c669d4651b9267e0b5ffbf7657b326748543",
+    "fetched_at": "2026-07-12T09:53:36Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

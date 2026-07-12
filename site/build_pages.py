@@ -15,7 +15,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "site", "p")
 
-PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa", "tokyo", "niigata", "yamanashi", "toyama", "ishikawa", "fukui", "nagano", "shizuoka", "gifu", "aichi", "mie"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa", "tokyo", "niigata", "yamanashi", "toyama", "ishikawa", "fukui", "nagano", "shizuoka", "gifu", "aichi", "mie", "shiga", "kyoto", "osaka", "hyogo", "nara", "wakayama"]
 
 LEAFLET_CSS = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
 LEAFLET_CSS_INTEGRITY = "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
