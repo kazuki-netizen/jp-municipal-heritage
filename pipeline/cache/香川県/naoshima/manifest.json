@@ -1,0 +1,18 @@
+{
+  "3fcd8f5f2f73e841": {
+    "url": "https://www.town.naoshima.lg.jp/torikumi/kyoiku/bunkazai.html",
+    "filename": "3fcd8f5f2f73e841.html",
+    "sha256": "69f0cfe68d71e84b42ab68c649330e15979b265c36c0ebdf2d4c8c5a17f8d0e2",
+    "fetched_at": "2026-07-12T07:30:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4b45b78a6f5b4958": {
+    "url": "https://www.town.naoshima.lg.jp/torikumi/kyoiku/item/bunkazai.pdf",
+    "filename": "4b45b78a6f5b4958.pdf",
+    "sha256": "9f10398136f332d892fa2b3717b4a3ac4ea6c59c90d35edd5952b487519532b7",
+    "fetched_at": "2026-07-12T07:30:12Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

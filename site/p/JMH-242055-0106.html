@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>内母神社の石取祭 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>内母神社の石取祭</h1>
+    <p class="jmh-id">JMH-242055-0106</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>2011-04-20</dd>
+      <dt>所在地</dt><dd>多度町香取2216番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>年代:明治初期／所有者:内母神社石取祭保存会／管理者:内母神社石取祭保存会。内母神社の石取祭は、多度町香取にある内母神社で10月の第１金曜日から日曜日にかけて行われるお祭です。明治の初めには行われていたことが地元に残る古文書から確認でき、香取・上之郷・西福永・東福永・平賀の５地区によって行われています。この祭は、桑名石取祭の形式を取り入れながら、独自の祭礼へと発展したと思われ、桑名で発生した都市祭礼が近隣へ伝播していった一例として注目されます。中でも造花の桜を奉納する行事は、現在の桑名の祭礼には無いもので特徴的な部分です。奉納された桜は、１年間神社拝殿に飾られ、それを本楽の日に参列者に投与されています。祭車に飾られた造花を縁起物とするのは、尾張地方での津島（津島市）や須成（蟹江町）の「車楽」と呼ばれる祭車の習俗と共通するところがあり、尾張地方との文化交流がうかがわれます。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/151.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/151.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"内母神社の石取祭" (JMH-242055-0106), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.142906, 136.64682], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.142906, 136.64682]).addTo(m);
+  </script>
+</body>
+</html>

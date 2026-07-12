@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>銅磬 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>銅磬</h1>
+    <p class="jmh-id">JMH-242055-0035</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>工芸品</dd>
+      <dt>指定年月日</dt><dd>1966-11-22</dd>
+      <dt>所在地</dt><dd>伝馬町49番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:2口／形状:鋳銅製鍍金A:24cm×18cm　B:18.5cm×11cm／年代:A:寛正四年（1463）　B:慶守二年(1649)／所有者:寿量寺／管理者:寿量寺。磬はもともと中国の楽器であったが、日本では仏教の勤行の時鳴らすため使用されることが多い。 両肩の鐶は、鈕をつけて磬架に吊るすためのものである。 A 金銅孔雀文磬 この磬は、紀年銘のあるものでは三重県下最古のものである。 中央山形に左右に弧を連ね、両肩に円形鐶を鋳出している。 表裏中央に十二葉単弁の撞座を鋳し、左右に孔雀文を配している。 銘文 表右：妙蓮寺之 表左：仏殿公用 裏右：寛正四癸未 裏左：八月四日時正初日 妙蓮寺 は、寿量寺の旧称である。 B 金銅孔雀文磬 小形の磬で、中央山形に左右に弧を連ね、両肩に扁平鐶を鋳出す。 表裏中央の撞座はやや大きく、八葉複弁文様で左右に孔雀文を有す。 この磬の特色は、地文に陽鋳の梅花文を散らしていることてある。 銘文 表右：寿量寺 表左：日観求之 表右外縁：為妙蓮為菩提也 表右内縁：施主長尾宗己敬白 表左内縁：南無 表左外縁：南無妙法蓮華経 裏右外縁：</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/071.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/071.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"銅磬" (JMH-242055-0035), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.056892, 136.689392], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.056892, 136.689392]).addTo(m);
+  </script>
+</body>
+</html>

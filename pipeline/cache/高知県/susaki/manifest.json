@@ -1,0 +1,18 @@
+{
+  "85d9194391e27915": {
+    "url": "https://www.city.susaki.lg.jp/life/detail.php?hdnKey=4101",
+    "filename": "85d9194391e27915.html",
+    "sha256": "b5e40b54381f2d8c774ceedd3b7d3135c9534e1637022bb5a47c4cc9a616fb34",
+    "fetched_at": "2026-07-12T07:43:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "89341f992a037d1a": {
+    "url": "https://www.city.susaki.lg.jp/download/?fid=39252&id=356&t=KHN",
+    "filename": "89341f992a037d1a.pdf",
+    "sha256": "b5900c31ea5e5f07d1a67c8a1508ae966566b23e9e05a333f4ea3005a3e741d7",
+    "fetched_at": "2026-07-12T07:43:46Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

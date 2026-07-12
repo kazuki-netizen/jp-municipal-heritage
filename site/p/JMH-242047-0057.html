@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>射和軽粉関係資料 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>射和軽粉関係資料</h1>
+    <p class="jmh-id">JMH-242047-0057</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1981-08-28</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:34種136点／江戸時代～昭和時代／松阪市立歴史民俗資料館／昭和56年8月28日。射和軽粉は「伊勢白粉」とも称され、化粧品として珍重された。また性病の特効薬であり、腹痛等の内服薬、皮膚病等の外用薬、シラミ等の駆虫剤としても利用された。丹生（勢和村）産の水銀が主原料で、射和の朱中山（しゅなかやま）から採れる赤土が使われ、最盛期の室町時代には射和町に80以上の釜元があったという。しかし、水銀産出量が減少すると軽粉業は衰退し、江戸時代末期には16釜となり、昭和28年にすべての釜が姿を消した。
+　本資料は、最後の釜元宮田家において実際に使われてきた製造道具類で、総数にして34件136点に及ぶ。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/izawakeihun.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/izawakeihun.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"射和軽粉関係資料" (JMH-242047-0057), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

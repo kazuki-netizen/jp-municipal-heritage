@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>伊東富太郎家日記ならびに関連資料 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>伊東富太郎家日記ならびに関連資料</h1>
+    <p class="jmh-id">JMH-242055-0109</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>2016-03-30</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>《由 来》 桑名市多度町香取に所在する伊東家は、木綿屋という屋号で酒造業を営み地域の名望家としてしられる。 酒造業だけでなく、小作人をかかえる地主であり、茶・養蚕・ミカンなどの生産も行うなど、農業経営でも成功した素封家である。 伊東家には、常三郎から子の富太郎、孫の春夫と書き継がれた日記が伝存している。 書写者は前掲３名を中心に、常三郎の妻なを、富太郎の先妻照代・後妻ますの３名を含む。 特に伊東富太郎は、七取郵便局長や村長を務めるなど公職を歴任するかたわら、郷土史・金工史の研究者として、全国の研究者と交流するなど多度地域に留まらず、全国的にも知られる存在であった。 日記は明治２年のものが最も古く、昭和３５年まで残されている。点数は年代不明のもの含め186点ある。 当初は、横帳に毛筆で書かれているが、明治４０年に常三郎が亡くなってからは、市販の日記帳（洋装）に毛筆、次第に万年筆へと変わってい</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/156.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/156.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"伊東富太郎家日記ならびに関連資料" (JMH-242055-0109), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.062222, 136.683884], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.062222, 136.683884]).addTo(m);
+  </script>
+</body>
+</html>

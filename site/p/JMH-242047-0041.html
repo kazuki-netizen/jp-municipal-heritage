@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>よいよい神事（四藺生神事） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>よいよい神事（四藺生神事）</h1>
+    <p class="jmh-id">JMH-242047-0041</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1978-11-11</dd>
+      <dt>所在地</dt><dd>和屋町・立田町・朝田町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:期日：2月11日／和屋町・立田町・朝田町／昭和53年11月11日。この神事は、7～8mの青竹に幣を付けたオハゲを、和屋町から立田町、立田町から朝田町へと送る正月の予祝神事である。よいよいと若者たちに担がれて、和屋町の畠田神社を出発したオハゲは、獅子に見送られて立利縄手を一気に駆ける。町境でオハゲを斜めに刺して駆け戻った若者は、出迎えた獅子ともみ合う。もみ合いが激しい程豊作だという。立田町では、このオハゲを引き抜いて持ち帰り、穴師神社で祭典を終えると村人たちは、紙垂れを付けた柳の小枝を手に持って、よいよいと言いながら、オハゲを朝田町に送る。朝田町では、朝から村中を清めて回った獅子が先頭に立ち、よいよいとオハゲを出迎える。オハゲは意非多神社に納められる。この神事には、首を打たれた長田荘司の怨恨で凶作が続いたため、悪霊を追い払うことに始まったという伝承が残っている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/yoiyoishinji.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/yoiyoishinji.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"よいよい神事（四藺生神事）" (JMH-242047-0041), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.55703, 136.576645], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.55703, 136.576645]).addTo(m);
+  </script>
+</body>
+</html>

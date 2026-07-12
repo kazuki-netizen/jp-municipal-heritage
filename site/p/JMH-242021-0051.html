@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>富田の石取祭（北村石取祭・茂福石取祭・富田西町石取祭） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>富田の石取祭（北村石取祭・茂福石取祭・富田西町石取祭）</h1>
+    <p class="jmh-id">JMH-242021-0051</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>2011-01-13</dd>
+      <dt>所在地</dt><dd>四日市市南富田町・大字茂福・茂福町・東茂福町・富田三丁目・富田四丁目</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>保持者:若宮八幡神社北村石取り祭車保存会 茂福石取祭車保存会 富田西町連合自治会。市内富田地域では、北村（現南富田町・大字茂福）、茂福（現茂福町・東茂福町）、富田西町（現富田三丁目・富田四丁目）で石取祭が行われています。虫送りなどの伝統的な農村行事に石取祭車が加わり、桑名の石取祭の影響を受けて発展したと思われ、現在では町ぐるみで行う地域に根付いた民俗行事といえます。 3町がそれぞれ石取祭車を所有し、茂福の祭車は、文政9年（1826）に制作された古い形式を残すものです。毎年8月14日や他の祭礼行事において各町で町練りを行うことが伝統の民俗行事で、儀式や囃子、歌などに各町の特色が見られます。また、翌日には鳥出神社を中心に3町合同の石取祭が行われています。 山形の提灯のゆれる明か</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002688/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002688/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"富田の石取祭（北村石取祭・茂福石取祭・富田西町石取祭）" (JMH-242021-0051), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.002728, 136.649536], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.002728, 136.649536]).addTo(m);
+  </script>
+</body>
+</html>

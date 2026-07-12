@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>絹本着色　十王図 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>絹本着色　十王図</h1>
+    <p class="jmh-id">JMH-242055-0014</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>1963-04-22</dd>
+      <dt>所在地</dt><dd>入江葭町31番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:10幅／形状:１１５．５cm×３８．５cm／年代:南宋-元　又は　鎌倉末期-南北朝／所有者:大円寺／管理者:大円寺。十王は、仏教で説く地獄の王閻魔と道教でいう冥界の王とが結びつき、死者の生前の罪過を審判する十人の王をいう。 死者の各周忌に十王（秦広王・初江王･宋帝王･伍官王・閻羅王・変成王・泰山王・平等王・都市王・転輪王）を配し、死者は各周忌に十王のそれぞれの庁を通過し、罪状に応じた刑罰を課せられるとされた。 そして、十王の絵像を作って逆修を行えば罪の裁断を軽減してもらえると信じられたため、多くの十王図が作られた。 この十王図は、一幅に一王をあて、各 々に本地仏を配している。 左側の図は、初七日を周忌とする秦広王で不動明王を配している。 かなりいたんでいるが彩色は濃厚で、舶載あるいはそれを模して日本で作られたものと思われる。 箱書には「唐土眼美御自筆」とあるが、眼美がどのような人物であるかは不明である。 また、同書に「北畠大納言」が寄附したとある。 北畠大納言は北畠親房（1293-1354）と思われ、親</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/003.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/003.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"絹本着色　十王図" (JMH-242055-0014), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.061131, 136.692291], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.061131, 136.692291]).addTo(m);
+  </script>
+</body>
+</html>

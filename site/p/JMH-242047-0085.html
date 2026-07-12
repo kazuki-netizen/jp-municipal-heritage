@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>西野子踊り — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>西野子踊り</h1>
+    <p class="jmh-id">JMH-242047-0085</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1994-10-28</dd>
+      <dt>所在地</dt><dd>西野町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:期日：8月16日昼／西野町／平成6年10月28日。村の神々に捧げる豊年踊りで昭和54年8月、30年振りに復活した。踊りは、羯鼓(かんこ)が男女小学生に大人が混じって40～50人、采持(さいも)ちは若衆40人程、太鼓1人、笛3～4人、貝吹きで構成される。踊り歌は、神事踊りの色を帯びて、勢子入りに始まり、神楽・世の中・小原木・飛田・鏡鑄(つき)・陣立・花見などが歌われる。祭りハッピに羯鼓をつけた子どもたちを中心に、浴衣に編笠の采持ちや笛吹きが外周を取りまく、華やいだ昼間の踊りである。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/nishinokoodori.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/nishinokoodori.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"西野子踊り" (JMH-242047-0085), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.549744, 136.474655], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.549744, 136.474655]).addTo(m);
+  </script>
+</body>
+</html>

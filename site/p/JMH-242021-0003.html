@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>万葉史跡と聖武天皇社 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>万葉史跡と聖武天皇社</h1>
+    <p class="jmh-id">JMH-242021-0003</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定記念物（史跡）</dd>
+      <dt>指定年月日</dt><dd>1956-02-18</dd>
+      <dt>所在地</dt><dd>松原町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>「続日本紀」によると、天平十二年（740）の 藤原広嗣の乱 の際、聖武天皇は伊勢に行幸しました。この時に朝明郡衙（朝明郡の役所）に泊まったといいます。万葉集には「妹に恋い吾がの松原見渡せば潮干の潟に鶴鳴き渡る」（いとしい人に焦がれて自分が逢うことを待っているという名の松原を見渡すと、潮の引いた遠浅の海に鶴が鳴いてずっと飛んでいくことだ）という天皇の御製歌があり、この松原をこの聖武天皇社付近と解釈する説があります。 伝承では天皇社は、朝明 頓宮（とんぐう） の跡に鎌倉時代の安貞元年（1227）に創建されたと伝えられます。境内には、天皇の御歌を刻んだ歌碑が二つ立っています。そのうちのひとつは、鈴鹿</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002698/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002698/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"万葉史跡と聖武天皇社" (JMH-242021-0003), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.010914, 136.655212], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.010914, 136.655212]).addTo(m);
+  </script>
+</body>
+</html>

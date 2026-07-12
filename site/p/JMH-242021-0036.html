@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>南楠鯨船行事 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>南楠鯨船行事</h1>
+    <p class="jmh-id">JMH-242021-0036</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1996-08-29</dd>
+      <dt>所在地</dt><dd>楠町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>保持者:南楠鯨船保存会。北勢地方に分布する陸上の模擬捕鯨行事である鯨船行事の一つです。 南楠の鯨船が出されるようになったのは明治頃といわれています。 祭礼の中心となるのは南御見束神社で、鯨船は「龍神丸」と呼ばれています。 行事は、鯨船（龍神丸）が張り子の鯨を追いかけ、船上の踊り子が鯨にめがけてモリを放つ勇壮な祭りです。 南楠の鯨船行事は、市内の他の鯨船行事と比べ演技の構成がより整理されて明快になっています。 行事は、昭和37年から保存会が中心となり毎年10月の体育の日の前日と前々日の2日間に行われています。 （『北勢鯨船行事調査報告書』参照。）</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002677/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002677/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"南楠鯨船行事" (JMH-242021-0036), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.915993, 136.642456], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.915993, 136.642456]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>三崎家文書 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>三崎家文書</h1>
+    <p class="jmh-id">JMH-242055-0092</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>1996-10-29</dd>
+      <dt>所在地</dt><dd>京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1式／年代:江戸末～明治／所有者:桑名市博物館／管理者:桑名市博物館。｢三崎家文書｣は、桑名･中臣神社(春日神社)の神主三崎葦牙(あしかび)が所有し、三代にわたって引き継がれていたもので、公的記録ではなく、一般人からみた幕末から明治初期に及ぶ、仏教関係を中心とした記録で、近世桑名を知る貴重な資料である。 平成5年11月10日葦牙の子孫である三崎栄三氏から桑名市博物館に寄贈されたものである。 三崎葦牙(1818～1887)は、文政元年4月13日伊勢国古茂野(現在の三重郡菰野町)の土方家(藩主)一族藤牧十郎右衛門 直堅の次男に生まれ、10歳の時に桑名の天台宗佛眼院に入り、翌年得度し｢性恒(せいこう)｣と名乗る。 17歳から比叡山延暦寺･禁裏御黒戸般舟院･東叡山寛永寺で修行、35歳の時桑名･中臣神社別当佛神院主職となる。 明治維新後神仏分離により還俗願いを提出し、｢三崎葦牙｣と名乗る(52歳)。 55歳の時三重県から桑名･中臣神社神祇官に任命され、同神社が県社とな</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/087.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/087.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"三崎家文書" (JMH-242055-0092), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

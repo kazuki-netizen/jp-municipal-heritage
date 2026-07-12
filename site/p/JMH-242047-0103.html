@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>土偶（下沖遺跡) — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>土偶（下沖遺跡)</h1>
+    <p class="jmh-id">JMH-242047-0103</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>2002-03-07</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1式／縄文時代／嬉野権現前町　嬉野考古館／平成14年3月7日。下沖遺跡は、中村川左岸の標高28mの河岸段丘上に立地する。平成4年に県営圃場整備(けんえいほじょうせいび)に伴い発掘調査が実施され、竪穴住居(たてあなじゅうきょ)5棟、配石遺構(はいせきいこう)などが確認された縄文時代後期の遺跡である。
+　調査では土偶16点が確認された。確認された土偶の形態は板状の土偶が中心であるが、足の指、膝(ひざ)、臀部(でんぶ)を表現する立体的土偶も確認されている。下沖遺跡から出土した土偶は共に出土する土器などから東北地方南部からの搬入品である可能性がある。
+　土偶は縄文時代を代表する祭祀(さいし)遺物であり、県内では100体を超える数の土偶が確認されているが、下沖遺跡で16体、中村川下流へ約2km地点にある天白遺跡では66体の土偶が出土しており、この地域が縄文時代後期の伊勢湾西岸において代表的な地域であったことを知ることができる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/dogu.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/dogu.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"土偶（下沖遺跡)" (JMH-242047-0103), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

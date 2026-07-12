@@ -1,0 +1,18 @@
+{
+  "31603a42d4dbea8e": {
+    "url": "https://www.city.ogori.fukuoka.jp/application/files/7817/7093/9272/R8.2_2.pdf",
+    "filename": "31603a42d4dbea8e.pdf",
+    "sha256": "c06f7f0f0897928f6192b646ec1f70f4a7ea3f871d816a6d40a4943b4278afa7",
+    "fetched_at": "2026-07-12T07:54:53Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "40f03570554a10c7": {
+    "url": "https://www.city.ogori.fukuoka.jp/204/273/1829",
+    "filename": "40f03570554a10c7.html",
+    "sha256": "498df773cfb371a6ede4d046b806147f346c98fa5e9aeafa302dfd8aa5765066",
+    "fetched_at": "2026-07-12T07:54:54Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

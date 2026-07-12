@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>五輪塔(伝：蘇我入鹿首塚) — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>五輪塔(伝：蘇我入鹿首塚)</h1>
+    <p class="jmh-id">JMH-242047-0076</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定史跡</dd>
+      <dt>指定年月日</dt><dd>1991-09-27</dd>
+      <dt>所在地</dt><dd>飯高町大字舟戸</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1基／飯高町大字舟戸／平成3年9月27日。大化改新(645)で中大兄皇子(天智天皇)と中臣鎌足(藤原鎌足)に暗殺された蘇我入鹿を祀ったものと地元では言い伝えている。石材は花崗岩(かこうがん)で、正面の上から、空・風・火・水・地を表す五文字の梵字(ぼんじ)が刻まれている。側面、後面の字は剥落のため判明しない。また、一番下の地輪には銘文が刻まれているが、判読困難である。このようなことからいつ、誰がどのような目的で造立したかは全く不明である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/gorinto.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/gorinto.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"五輪塔(伝：蘇我入鹿首塚)" (JMH-242047-0076), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.411758, 136.217407], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.411758, 136.217407]).addTo(m);
+  </script>
+</body>
+</html>

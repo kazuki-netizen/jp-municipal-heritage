@@ -1,0 +1,18 @@
+{
+  "1920725f0a4582b2": {
+    "url": "https://www.city.aki.kochi.jp/life/dtl.php?hdnKey=7969",
+    "filename": "1920725f0a4582b2.html",
+    "sha256": "c61f699d479e426453a15712e849c2fc2e28859923793fd72ee072a888fd3894",
+    "fetched_at": "2026-07-12T07:43:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f992614568780031": {
+    "url": "https://www.city.aki.kochi.jp/reiki/reiki_honbun/o304RG00000266.html",
+    "filename": "f992614568780031.html",
+    "sha256": "dc674a7e62db7611a33283f67bb19bf7453c957ecfbc61e03f94711830ff47c0",
+    "fetched_at": "2026-07-12T07:43:40Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

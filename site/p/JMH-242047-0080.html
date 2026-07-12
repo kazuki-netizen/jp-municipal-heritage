@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>射和万古灯籠 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>射和万古灯籠</h1>
+    <p class="jmh-id">JMH-242047-0080</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1992-04-22</dd>
+      <dt>所在地</dt><dd>飯高町粟野　川俣小学校</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1基／江戸時代／飯高町粟野　川俣小学校／平成4年4月22日。射和町の個人の屋敷裏庭に飾られている射和万古灯籠（市指定）と大きさ、姿形、各部の装飾も全く同様であり、同時に焼成された可能性の高いものである。本灯籠は無銘であるが、射和町所在の灯籠の竿部分には「萬延元庚年十月 射和万古窯製」とあり、本灯籠の製作は万延元年（1860）と推定され、万古窯での生産が活発な時期の作品である。 陶製の灯籠としては珍しく大きなものであり、当時、街道の辻々に建てられていた石製灯籠の基本形を踏襲している。作品が大形の割りには焼き歪みや、焼き膨れがほとんどなく、竿の表面に一部ひびが走る程度で、陶工の技術の高さが窺い知れる。器体全面には青磁釉が澱みなく流れ、また、全体の姿形もよく、格調高い作品に仕上がっている。灯籠作品は、伊賀丸柱の人で安政4年に射和に招かれている奥田弥助が制作したものという。元は旧松阪市内の個人が所有していた。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/izawabanko-tourou.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/izawabanko-tourou.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"射和万古灯籠" (JMH-242047-0080), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.424976, 136.253006], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.424976, 136.253006]).addTo(m);
+  </script>
+</body>
+</html>

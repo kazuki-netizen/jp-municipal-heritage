@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<meta name="keywords" content="多久市歴史文化基本構想,多久市,歴史,文化,基本構想,構想,文化財" >
+<meta name="description" content="" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>多久市歴史文化基本構想 - 多久市ホームページ</title>
+<style  media="all">
+@import url("/ssi/css/detail2.css");
+@import url("/ssi/css/sp-detail2.css") screen and (max-width: 670px);
+</style>
+<link rel="stylesheet"  media="print" href="/ssi/css/print.css" >
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<script src="/ssi/js/escapeurl.js"></script>
+<script src="/ssi/js/jquery.js"></script>
+<script src="/ssi/js/jquery-migrate.js"></script>
+<script src="/ssi/js/checksp.js"></script>
+<script src="/ssi/js/match-height.js"></script>
+<script src="/ssi/js/common.js"></script>
+<script src="/ssi/js/s-google.js"></script>
+<script src="/ssi/js/footstep.js"></script>
+<link rel="stylesheet" type="text/css" href="/ssi/css/footstep.css">
+<script src="/ssi/js/search-trend.js"></script>
+<script src="/ssi/js/last-page-parts-load-1.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PTYD2J1SGJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PTYD2J1SGJ');
+  gtag('config', 'UA-135921861-1');
+</script>
+</head>
+<body id="soshiki_detail">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- コンテナここから -->
+<div id="container">
+
+<!-- レコメンドここから -->
+<script src="/ssi/js/recommend.js"></script>
+<iframe style="display:none;" id="oProxy" src="https://wwwa.netcrew-analysis.jp/recommend/proxy.html" title="レコメンド情報" sandbox="allow-scripts"></iframe>
+<!-- レコメンドここまで -->
+
+<span class="hide"><a id="pagetop">ページの先頭です。</a></span>
+<span class="hide"><a href="#skip">メニューを飛ばして本文へ</a></span>
+
+<!-- ヘッダー全体ここから -->
+<div id="header">
+<!-- header1ここから -->
+<button type="button" id="spm_sp">スマートフォン表示</button>
+<div id="spm_wrap">
+	<button type="button" id="spm_search"><span class="hide">検索</span></button>
+	<button type="button" id="spm_menu"><span class="hide">メニュー</span></button>
+	<button type="button" id="spm_osusume"><span class="hide">Pickup taku</span></button>
+</div>
+<!-- ヘッダーここから -->
+<div id="header2">
+	<div id="he_left">
+		<div id="logo">
+			<a href="/"><img src="/img/common/logo.png" alt="多久市ホームページ"></a>
+		</div>
+	</div>
+	<div id="he_right">
+		<ul id="header_navi">
+			<li class="h_main"><a href="#skip">本文へ</a></li>
+			<li class="h_language"><a href="/site/userguide/4848.html" lang="en">language</a></li>
+			<li class="h_support">
+				<div id="support_menu_box"> 
+					<!-- 文字の大きさ変更ここから -->
+					<dl id="moji_size">
+						<dt>文字サイズ</dt><!--
+						--><dd><a id="moji_default" href="javascript:fsc('default');" title="文字サイズを標準にする">標準</a></dd><!--
+						--><dd><a id="moji_large" href="javascript:fsc('larger');" title="文字サイズを拡大する">拡大</a></dd>
+					</dl>
+					<!-- 文字の大きさ変更ここまで -->
+					<!-- 背景の変更ここから -->
+					<dl id="haikei_color">
+						<dt>背景色</dt><!--
+						--><dd><a id="haikei_white" href="javascript:SetCss(1);" title="背景色を白色に変更する">白</a></dd><!--
+						--><dd><a id="haikei_black" href="javascript:SetCss(2);" title="背景色を黒色に変更する">黒</a></dd><!--
+						--><dd><a id="haikei_blue"  href="javascript:SetCss(3);" title="背景色を青色に変更する">青</a></dd>
+					</dl>
+					<!-- 背景の変更ここまで -->
+				</div>
+			</li>
+		</ul>
+		<div id="header_search_wrap">
+			<!-- 検索ここから -->
+			<div id="top_search_keyword">
+				<div id="top_search_keyword_ttl"><label for="tmp_query"><span>キーワード検索</span></label></div>
+				<!-- Googleカスタム検索ここから -->
+				<form action="/search.html" method="get" id="cse-search-box" name="cse-search-box">
+				<input type="hidden" name="cx" value="002337227766110446206:sgxwpgkupka" ><!--
+				--><input type="hidden" name="cof" value="FORID:11" ><!--
+				--><input type="hidden" name="ie" value="UTF-8" ><!--
+				--><label for="tmp_query"><span class="hide">Googleカスタム検索</span></label><!--
+				--><input type="text" name="q" value="" id="tmp_query" ><!--
+				--><input type="submit" value="検索" id="submit" name="sa" >
+				</form>
+				<script src="https://www.google.com/coop/cse/brand?form=cse-search-box"></script>
+				<!-- Googleカスタム検索ここまで -->
+			</div>
+			<!-- 検索ここまで -->
+			<div id="header_link">
+				<a href="/soshiki/">組織でさがす</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- ヘッダーここまで -->
+<!-- header1ここまで -->
+<!-- header2ここから -->
+<!-- グローバルここから -->
+<div id="top_search">
+	<!-- グローバルタブここから -->
+	<div id="top_search_box">
+		<ul id="gnav">
+			<li id="gnav1">
+				<a href="/life/1/">
+					<span class="gnav_txt"><span>くらし</span></span>
+				</a>
+				<div class="gnav_list">
+					<ul>
+						<li><a href="/life/1/1/">消防防災・安心安全</a></li>
+						<li><a href="/life/1/2/">住民票・戸籍・証明</a></li>
+						<li><a href="/life/1/9/">税金</a></li>
+						<li><a href="/life/1/10/">土地・住宅</a></li>
+						<li><a href="/life/1/12/">道路・河川</a></li>
+						<li><a href="/life/1/80/">上下水道</a></li>
+						<li><a href="/life/1/13/">まちづくり</a></li>
+						<li><a href="/life/1/63/">移住・定住</a></li>
+						<li><a href="/life/1/14/">都市計画・公園</a></li>
+						<li><a href="/life/1/72/">消費生活相談</a></li>
+						<li><a href="/life/1/73/">環境</a></li>
+						<li><a href="/life/1/74/">ごみ収集カレンダー</a></li>
+						<li><a href="/life/1/75/">ごみ処理</a></li>
+						<li><a href="/life/1/77/">ペット・動物</a></li>
+						<li><a href="/life/1/78/">墓地・埋葬・改葬</a></li>
+						<li><a href="/life/1/79/">飲用井戸・受水槽</a></li>
+						<li><a href="/life/1/32/">多久市からのお知らせ</a></li>
+					</ul>
+				</div>
+			</li>
+			<li id="gnav2">
+				<a href="/life/13/">
+					<span class="gnav_txt"><span>子育て・</span><span>教育</span></span>
+				</a>
+				<div class="gnav_list">
+					<ul>
+						<li><a href="/life/13/64/">妊娠・出産</a></li>
+						<li><a href="/life/13/65/">子育て</a></li>
+						<li><a href="/life/13/66/">教育</a></li>
+					</ul>
+				</div>
+			</li>
+			<li id="gnav3">
+				<a href="/life/14/">
+					<span class="gnav_txt"><span>健康・</span><span>医療・</span><span>福祉</span></span>
+				</a>
+				<div class="gnav_list">
+					<ul>
+						<li><a href="/life/14/67/">健康・医療</a></li>
+						<li><a href="/life/14/68/">福祉・介護</a></li>
+						<li><a href="/life/14/69/">保険・年金</a></li>
+					</ul>
+				</div>
+			</li>
+			<li id="gnav4">
+				<a href="/life/2/">
+					<span class="gnav_txt"><span>観光・</span><span>文化・</span><span>スポーツ</span></span>
+				</a>
+				<div class="gnav_list">
+					<ul>
+						<li><a href="/life/2/16/">観光</a></li>
+						<li><a href="/life/2/17/">文化</a></li>
+						<li><a href="/life/2/70/">生涯学習・スポーツ</a></li>
+						<li><a href="/site/saga2024kokuspo/">SAGA2024国スポ</a></li>
+					</ul>
+				</div>
+			</li>
+			<li id="gnav5">
+				<a href="/life/3/">
+					<span class="gnav_txt"><span>産業・</span><span>ビジネス</span></span>
+				</a>
+				<div class="gnav_list">
+					<ul>
+						<li><a href="/life/3/18/">入札・契約</a></li>
+						<li><a href="/life/3/19/">産業振興</a></li>
+						<li><a href="/life/3/20/">農林業</a></li>
+					</ul>
+				</div>
+			</li>
+			<li id="gnav6">
+				<a href="/life/4/">
+					<span class="gnav_txt"><span>市政</span></span>
+				</a>
+				<div class="gnav_list">
+					<ul>
+						<li><a href="/life/4/21/">概要</a></li>
+						<li><a href="/life/4/22/">運営・計画</a></li>
+						<li><a href="/life/4/23/">財政</a></li>
+						<li><a href="/life/4/24/">広報・広聴</a></li>
+						<li><a href="/life/4/31/">情報</a></li>
+						<li><a href="/life/4/81/">市制70周年</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<!-- グローバルタブここまで -->
+</div>
+<!-- グローバルここまで -->
+
+<!-- header2ここまで -->
+</div>
+<!-- ヘッダー全体ここまで -->
+<div id="mymainback">
+
+<!-- ぱんくずナビここから -->
+<div id="pankuzu_wrap">
+	<!-- [[pankuzu_start]] -->
+	<div class="pankuzu">
+		<span class="pankuzu_class pankuzu_class_top"><a href="/">トップページ</a></span>
+		<span class="pankuzu_mark"> &gt; </span>
+		<span class="pankuzu_class"><a href="/soshiki/">組織でさがす</a></span>
+		<span class="pankuzu_mark"> &gt; </span>
+		<span class="pankuzu_class">多久市教育委員会</span>
+		<span class="pankuzu_mark"> &gt; </span>
+		<span class="pankuzu_class"><a href="/soshiki/20/">教育振興課</a></span>
+		<span class="pankuzu_mark"> &gt; </span>
+		<span class="pankuzu_class pankuzu_class_current">多久市歴史文化基本構想</span>
+	</div>
+	<!-- [[pankuzu_end]] -->
+	<!-- [[pankuzu2_start]] --><!-- [[pankuzu2_end]] -->
+	<!-- [[pankuzu_life_start]] --><!-- [[pankuzu_life_end]] -->
+
+<script src="/count/index.php?lif_id=27478"></script>
+</div>
+<!-- ぱんくずナビここまで -->
+
+<!-- カウントダウンここから -->
+<div id="count_down_area"></div>
+<!-- カウントダウンここまで -->
+
+<!-- サイドバー1ここから -->
+<!-- サイドバー1ここまで -->
+
+<!-- メインここから -->
+<div id="main">
+<div id="main_a">
+<hr class="hide" >
+<p class="hide"><a id="skip">本文</a></p>
+
+<div id="main_header">
+<h1>多久市歴史文化基本構想</h1>
+</div>
+
+<!-- main_bodyここから -->
+<div id="main_body">
+
+<div id="content_header" class="text_r">
+	<span><a id="print_mode_link" class="link_print" href="javascript:print_mode();">印刷</a></span>
+	<span><a id="print_mode_link_large" class="link_print" href="javascript:print_mode('large');">文字を大きくして印刷</a></span>
+	<span>更新日：2024年2月7日更新</span><br>
+	<span id="common_button_sns">
+<span id="sns_button_twitter"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a><span class="external_link_text">＜外部リンク＞</span><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></span>
+<span id="sns_button_facebook"><fb:share-button layout="button_count"></fb:share-button></span>
+<span id="sns_button_line"><script>document.write('<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="'+htmlspecialchars_URL(location.href)+'"></div>');</script><script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script></span>
+</span>
+</div>
+
+
+<div class="detail_free" ><h2><strong>－わがまちの歴史文化を活かして未来創造－</strong></h2>
+
+<h3><strong>目的</strong></h3>
+
+<p>多久市内には、指定・未指定をとわず多くの文化財があります。またそれぞれの文化財には、それを中心としたさまざまな人々の活動や、文化財がおかれた土地の自然、景観といった周辺環境があり、それらを一体にとらえて「歴史文化」と呼びます。<br>
+多久の地域や人の特色をあらわし、「多久らしさ」の基礎ともいえる多久の「歴史文化」を守り伝え、多久らしさを基にまちづくりに取り組むための基本的な考えとして、「多久市歴史文化基本構想」を策定しました。</p>
+
+<h3><strong>位置づけ</strong></h3>
+
+<p>多久市歴史文化基本構想は、多久市の文化財保護行政におけるマスタープランであり、また関係各課や市内諸団体、市民のみなさんと考えを共有することで、連携・協働の環境をつくり、歴史文化を活かしたまちづくりや人づくりの面から、多久市の総合計画が目指す将来像「―緑園に輝く―みんなで創る文教・安心・交流のまち多久」の実現にむけ推進します。</p>
+
+<ul>
+<li>多久市歴史文化基本構想【報告書】<a href="/uploaded/attachment/1430.pdf">一括ダウンロード[PDFファイル／27MB]</a></li>
+<li>【報告書】分割ダウンロード</li>
+</ul>
+
+<table border="1" style="height:100%; width:100%">
+<tbody>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:71%">表紙＿序＿例言＿目次</th>
+<td colspan="6" rowspan="3" style="height:auto; width:48%"><a href="/uploaded/attachment/1431.pdf">01[PDFファイル／1.7MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">第1章目的と行政上の位置づけ</th>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">第2章多久市の概要と歴史文化の特徴</th>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">2章つづきP12～16</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1432.pdf">02[PDFファイル／1.5MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">2章つづきP17～24</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1433.pdf">03[PDFファイル／1.6MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">2章つづきP25～30</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1434.pdf">04[PDFファイル／1.6MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">2章つづきP31～34</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1435.pdf">05[PDFファイル／1.2MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">2章つづきP35～38</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1436.pdf">06[PDFファイル／2.1MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">2章つづきP39～41</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1437.pdf">07[PDFファイル／1.4MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">2章つづきP42～44</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1438.pdf">08[PDFファイル／1.9MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">第3章歴史文化把握の方針</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1439.pdf">09[PDFファイル／1.8MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">3章つづきP64～70</th>
+<td colspan="6" rowspan="2" style="height:auto; width:48%"><a href="/uploaded/attachment/1440.pdf">10[PDFファイル／1.4MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">第4章文化財の保存・活用の基本方針</th>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">第5章関連文化財群</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1441.pdf">11[PDFファイル／1.7MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">5章つづきP80～85</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1442.pdf">12[PDFファイル／2.3MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">第6章歴史文化保存活用区域の考え方</th>
+<td colspan="6" rowspan="3" style="height:auto; width:48%"><a href="/uploaded/attachment/1443.pdf">13[PDFファイル／2.3MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:71%">第7章保存活用（管理）計画の考え方</th>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">第8章体制整備の方針</th>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">関連資料</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1444.pdf">14[PDFファイル／2.4MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; text-align:center; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; text-align:center; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">関連資料つづきP109～114</th>
+<td colspan="6" style="height:auto; width:48%"><a href="/uploaded/attachment/1445.pdf">15[PDFファイル／2.1MB]</a></td>
+</tr>
+<tr>
+<th scope="row" style="height:3%; width:auto">&nbsp;</th>
+<th scope="row" style="height:auto; width:auto">&nbsp;</th>
+<th colspan="10" scope="row" style="height:auto; width:auto">関連資料つづきP115～129</th>
+<td colspan="6" rowspan="2" style="height:auto; width:48%"><a href="/uploaded/attachment/1446.pdf">16[PDFファイル／2.0MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:3%; width:auto">奥付</th>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>多久市歴史文化基本構想【概要版】<a href="/uploaded/attachment/1447.pdf">一括ダウンロード[PDFファイル／13MB]</a></li>
+<li>【概要版】分割ダウンロード</li>
+</ul>
+
+<table border="1" style="height:39%; width:100%">
+<tbody>
+<tr>
+<th colspan="12" scope="row" style="height:15%; width:71%">概要版P1～3</th>
+<td colspan="6" style="height:auto; width:33%"><a href="/uploaded/attachment/1448.pdf">（1）[PDFファイル／1.8MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:15%; width:auto">概要版P4～5</th>
+<td colspan="6" style="height:auto; width:33%"><a href="/uploaded/attachment/1449.pdf">（2）[PDFファイル／826KB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:15%; width:auto">概要版P6</th>
+<td colspan="6" style="height:auto; width:33%"><a href="/uploaded/attachment/1450.pdf">（3）[PDFファイル／5.4MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:15%; width:auto">概要版P7</th>
+<td colspan="6" style="height:auto; width:33%"><a href="/uploaded/attachment/1451.pdf">（4）[PDFファイル／3.6MB]</a></td>
+</tr>
+<tr>
+<th colspan="12" scope="row" style="height:15%; width:auto">概要版P8</th>
+<td colspan="6" style="height:auto; width:33%"><a href="/uploaded/attachment/1452.pdf">（5）[PDFファイル／766KB]</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+
+<div class="pdf_download">
+<p class="pdf_img"><a href="https://get.adobe.com/jp/reader/"><img src="/uploaded/library/get_adobe_reader.png" width="158" height="39" alt="Adobe Reader" class="img_b" ></a><span class="external_link_text">＜外部リンク＞</span></p>
+<p class="tenpu_txt">
+PDF形式のファイルをご覧いただく場合には、Adobe社が提供するAdobe Readerが必要です。Adobe Readerをお持ちでない方は、バナーのリンク先からダウンロードしてください。（無料）<br class="floatend">
+</p>
+</div>
+<!-- [[add-template-windowsmediaplayer]] -->
+
+<!-- section_footerここから -->
+<div id="section_footer"><div id="section_footer_title"><h2>このページに関する問い合わせ</h2></div>
+<div id="section_footer_name"><strong><a href="/soshiki/20/">教育振興課</a></strong><span class="section_footer_grpname">文化振興係</span><br></div>
+<div id="section_footer_info">
+
+<span class="section_footer_address">佐賀県多久市北多久町大字小侍7-1</span><br>
+<span class="section_footer_tel">Tel：0952-75-8022</span>
+<span class="section_footer_fax">Fax：0952-75-2279</span><br>
+
+</div></div>
+<!-- section_footerここまで -->
+
+<div class="btn_add_calendar">
+	
+</div>
+
+</div>
+<!-- main_bodyここまで -->
+
+</div>
+</div>
+<!-- メインここまで -->
+<hr class="hide" >
+
+<!-- サイドバー2ここから -->
+<div id="sidebar2" class="cf">
+
+<!-- 重要なお知らせここから -->
+<div id="important_noticest_area"></div>
+<!-- 重要なお知らせここまで -->
+
+<!-- レコメンドここから -->
+<div id="recommend_tag" style="display: none;">
+<div id="sidebar_recommend">
+<div id="recommend_title"><h2><span class="hide">このページを見ている人はこんなページも見ています</span></h2></div>
+<!-- [[recommend_tag]] -->
+</div>
+</div>
+<!-- レコメンドここまで -->
+<div id="common_banner_link">
+<ul><li><a href="/site/userguide/"><img src="/img/common/banner_mitsukaranai.png" width="280" height="80" alt="見つからないときは"></a></li>
+<li><a href="/life/sub/3/"><img src="/img/common/banner_faq.png" width="280" height="80" alt="よくある質問"></a></li></ul>
+</div>
+
+
+<!-- おすすめコンテンツここから -->
+<div id="osusume_contents_area"></div>
+<!-- おすすめコンテンツここまで -->
+
+</div>
+<!-- サイドバー2ここまで -->
+
+<!-- footer0ここから -->
+<!-- footer0ここから -->
+<!-- footer0ここまで -->
+<!-- footer0ここまで -->
+
+</div><!-- 3カラム終わり -->
+
+<!-- フッターここから -->
+<div id="footer">
+<!-- footer1ここから -->
+<div id="to_page_top"><a href="#pagetop" class="btn_top"><img src="/img/common/top_btn.png" alt="Top" ></a></div>
+<!-- footer1ここまで -->
+<!-- author_infoここから -->
+<div id="author_info">
+	<div id="author_content">
+		<!-- 人口・世帯数ここから -->
+		<div id="top_jinkou">
+			<div id="top_jinkou_info">
+				<p id="top_jinkou_ttl">多久市の人口・世帯数</p>
+				<p id="top_jinkou_date">（令和8年7月1日現在）</p>
+			</div>
+			<div id="top_jinkou_list">
+				<dl><dt>人口</dt><dd>17,130人</dd></dl>
+				<dl><dt>男性</dt><dd>8,137人</dd></dl>
+				<dl><dt>女性</dt><dd>8,993人</dd></dl>
+				<dl><dt>世帯数</dt><dd>7,891世帯</dd></dl>
+			</div>
+			<div id="top_jinkou_link">
+				<a href="/site/statistics/list49-223.html">人口情報</a>
+			</div>
+		</div>
+		<!-- 人口・世帯数ここまで -->
+		
+		<div id="footer_navi">
+			<ul>
+				<li><a href="/site/userguide/4847.html">アクセシビリティ</a></li>
+				<li><a href="/site/userguide/4846.html">個人情報保護</a></li>
+				<li><a href="/site/userguide/4845.html">リンク・著作権・免責事項</a></li>
+				<li><a href="/sitemap.html">サイトマップ</a></li>
+			</ul>
+		</div>
+		
+		<div id="author_box">
+			<p class="logo_cell">
+				<a href="/"><img src="/img/common/footer_logo.png" alt="多久市ホームページ" class="footer_logo" ></a>
+				<span class="f_number">法人番号2000020412040</span>
+			</p>
+			<div class="author_wrap">
+				<div class="author_text_wrap">
+					<p class="f_address">〒846-8501　佐賀県多久市北多久町大字小侍7-1</p>
+					<p class="f_contact">Tel：0952-75-2111(代表)</p>
+				</div>
+				<div class="img_content"><img src="/img/common/footer_bg.png" alt="多久市の位置" class="footer_bg_img"></div>
+				<div id="information">
+					<div id="footer_contact"><a href="/soshiki/15/2016.html">直通連絡先一覧</a></div>
+					<div id="footer_access"><a href="/soshiki/12/1996.html">市役所へのアクセス</a></div>
+					<div id="footer_mail"><a href="/ques/questionnaire.php?openid=5">お問い合わせ</a></div>
+				</div>
+			</div>
+		</div>
+
+		<p id="copyright"><span lang="en">Copyright (C) Taku City. All Rights Reserved.</span></p>
+	</div>
+</div>
+<!-- おすすめ情報ここから -->
+<div id="osusume_banner">
+	<div id="osusume_banner_box">
+		<div id="osusume_banner_ttl">
+			<a href="javascript:void(0)" onclick="javascript:return false;" onkeypress="javascript:return false;" id="osusume_banner_open">
+				<img src="/img/common/osusume_open.png" alt="Pickup taku">
+			</a>
+		</div>
+		<div id="osusume_banner_list">
+			<div id="osusume_banner_list_box">
+				<div class="osusume_banner_list_detail">
+					<a href="https://www.takushijidoukan.jp/main/" target="_blank"><img src="/img/common/osusume_banner.jpg" alt="児童センターあじさいのバナー"></a><span class="external_link_text">＜外部リンク＞</span>
+					<a href="https://taqua.jp/" target="_blank"><img src="/img/common/osusume_banner1.jpg" alt="TAQUAのバナー"></a><span class="external_link_text">＜外部リンク＞</span>
+				</div>
+				<button type="button" id="osusume_banner_close">閉じる</button>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- おすすめ情報ここまで -->
+<!-- author_infoここまで -->
+</div>
+<!-- フッターここまで -->
+
+</div><!-- コンテナここまで -->
+
+</body>
+</html>

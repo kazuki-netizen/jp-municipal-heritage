@@ -1,0 +1,18 @@
+{
+  "d02e44089f251ab3": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/bunkazai/shiteibunkazai/rekishi/index.html",
+    "filename": "d02e44089f251ab3.html",
+    "sha256": "83a0834b2f2b5940023e4c871a2af035fcbddee2cbb52232a22efe372bc94d6e",
+    "fetched_at": "2026-07-12T07:29:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "93c094674e6a464c": {
+    "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/kyoikuiinkai/kyoshin-keikaku/kyouikuyouran.files/R7kyoikuyouran.pdf",
+    "filename": "93c094674e6a464c.pdf",
+    "sha256": "38d6ec0c9fa505d44045bd542393f1d267849c7129c446bc04848624b5e8bcdc",
+    "fetched_at": "2026-07-12T07:29:52Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

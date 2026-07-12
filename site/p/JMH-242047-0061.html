@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>真生寺虚空蔵菩薩像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>真生寺虚空蔵菩薩像</h1>
+    <p class="jmh-id">JMH-242047-0061</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1983-03-25</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1躯／康正3年（1457）／上蛸路町　真生寺／像高33cm、一木造、彩色像／昭和58年3月25日。六角の宝冠をいただき、右手は剣を垂直に立てて握り、左手は前方に屈臂(くっぴ)して掌上に宝珠を捧げる。顔は下向き加減で、目はほそくやさしく、頬はふくらみ、笑みをたたえる。肩張り、胴豊かで量感をもち、衣文は彫りが深く、かつ大きい。一木で内刳りはなく、膝前に横木を矧ぎつけている。もとは彩色像で、胡粉が各所に少し残り、宝冠と口に朱が認められる。像底に「康正三年丁丑三月廿三日　持住明斗」と墨書銘があり、造像時期のわかる仏像である。
+　なお、真生寺は天台真盛宗に属し、大倉山地蔵院を称し、もとは2km離れた大倉山中腹にあったが、織田信長の大河内城攻めのとき兵火にかかり、寛永2年（1625）頃、現在地へ移ったという寺伝をもつ。本堂は宝永2年（1705）に建築。墓地には天命・常保・大川などの蛸路の鋳物師の墓石が立ち並んでいる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/mokuzokokuzobosatsuzazo.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/mokuzokokuzobosatsuzazo.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"真生寺虚空蔵菩薩像" (JMH-242047-0061), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

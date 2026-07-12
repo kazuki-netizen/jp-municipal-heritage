@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>佐久米古墳群出土仿製鏡・勾玉 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>佐久米古墳群出土仿製鏡・勾玉</h1>
+    <p class="jmh-id">JMH-242047-0042</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1978-11-11</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:8点／古墳時代（5世紀）／佐久米町自治会（松阪市教育委員会寄託（松阪市文化財センター））／昭和53年11月11日。金剛川に近接する佐久米町内の沖積低地に営まれた大塚山・丸山・糠塚古墳からなる佐久米古墳群の内、大塚山古墳から出た変形四獣鏡1、変形獣帯鏡1、珠文鏡1、勾玉3、糠塚古墳出土の変形獣帯鏡1、珠文鏡1が考古資料として指定文化財となっている。いずれもが5世紀後半のものと推定される資料であるが、古墳3基の内、大塚山古墳は県道工事で消滅し、他の2基については墳丘基底部分が残存している。
+　なお、大塚山古墳は「東西拾九間　南北弐拾四間余」（『伊勢名勝志』明治22年）の規模を有した帆立貝式の前方後円墳と推定され、多数あった出土品のうち金銅装の眉庇付冑は早く海外に流出し、メトロポリタン美術館に所蔵されている。また、丸山・糠塚古墳は径30m余の円墳である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/boseikyo-magatama-sakume.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/boseikyo-magatama-sakume.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"佐久米古墳群出土仿製鏡・勾玉" (JMH-242047-0042), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>柚原中世墓　附　石造宝篋印塔 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>柚原中世墓　附　石造宝篋印塔</h1>
+    <p class="jmh-id">JMH-242047-0048</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定史跡</dd>
+      <dt>指定年月日</dt><dd>1978-11-11</dd>
+      <dt>所在地</dt><dd>室町時代</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1基／室町時代／柚原町寺谷／指定面積：250平方メートル／昭和53年11月11日。谷に突出した標高400m余の尾根突端部に形成された中世墓で、東西25m、南北10mの範囲内に土饅頭形をした盛土が2ヶ所あり、その上に宝篋印塔3基が現存し、内1基が墓域とともに史跡に指定されている。この石塔は総高138cm、宝珠・請花・九輪・伏鉢は後補であるが、笠の隅飾突起は室町時代の特色を示す。また、墓域には土師器片・常滑製陶器片・人骨片が散乱しており、盗掘により常滑の骨壷が出土した。壷は高さ16cm、広い平底を有するもので室町時代後期頃と推定され、指定の石塔の時代比定とも合致する。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/yunoharachuseibo.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/yunoharachuseibo.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"柚原中世墓　附　石造宝篋印塔" (JMH-242047-0048), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

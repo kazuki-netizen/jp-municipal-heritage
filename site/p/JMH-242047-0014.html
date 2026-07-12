@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>紙本墨書織田信雄朱印状 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>紙本墨書織田信雄朱印状</h1>
+    <p class="jmh-id">JMH-242047-0014</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1956-02-22</dd>
+      <dt>所在地</dt><dd>飯福田町273　飯福田寺</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1通／天正11年（1583）／飯福田町273　飯福田寺／紙本墨書、32&amp;times;45cm／昭和31年2月22日市指定。この文書は天正11年、織田信雄が飯福田寺に与えた朱印状で、「飯富田郷・後山郷」で、合わせて115貫文を寄進したものである。 飯福田寺は修験道の道場であるが、その沿革は確かな史料がなく不詳である。近世の地誌『勢陽雑記』などによると、伊勢国司北畠家の祈祷所(きとうしょ)として天文(てんぶん)年間までに補修を加えて伽藍を整えたと記される。 信雄は織田信長の二男で幼名を茶筅丸(ちゃせんまる)、後は北畠氏の家督を継いで具豊、信意、信雄と改名している。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/odanobukatusyuinjyo.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/odanobukatusyuinjyo.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"紙本墨書織田信雄朱印状" (JMH-242047-0014), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.564575, 136.398743], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.564575, 136.398743]).addTo(m);
+  </script>
+</body>
+</html>

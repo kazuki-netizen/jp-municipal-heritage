@@ -1,0 +1,18 @@
+{
+  "e10c04539f097d01": {
+    "url": "https://www.town.nakatosa.lg.jp/life/detail.php?hdnKey=129",
+    "filename": "e10c04539f097d01.html",
+    "sha256": "df0776b8336be868216dad9a7163c9c1a4197bbd56deb6ea0f99ee27b0a5dc01",
+    "fetched_at": "2026-07-12T07:43:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b0a595c813d2d38f": {
+    "url": "https://www.town.nakatosa.lg.jp/life/detail.php?hdnKey=127",
+    "filename": "b0a595c813d2d38f.html",
+    "sha256": "907fb5574ddc9e617d68ff55a41906b8023a9930571893faec211ef14e4f69c7",
+    "fetched_at": "2026-07-12T07:43:54Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

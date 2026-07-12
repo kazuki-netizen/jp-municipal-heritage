@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>分れ谷遺跡出土石包丁 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>分れ谷遺跡出土石包丁</h1>
+    <p class="jmh-id">JMH-242047-0043</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1978-11-11</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1点／弥生時代／外五曲町 松阪市文化財センター／長さ21cm、最大幅8.3cm、厚さ8mm／昭和53年11月11日。分れ谷遺跡は、現在の三重県立松阪あゆみ特別支援学校の南方約500m、南から北に突出する舌状丘陵の北端部に立地する。字名の示すとおり、ここで谷が東、西に分かれて入り込み、北方は浅い谷続きに、溜息「大池」がある。標高は約30m。一説には、分れ谷遺跡の弥生土器包含層から出土したとされているが、石器の器面には、「久保町あし田出土」と明記してある。「あし田」というのは通称で、分れ谷遺跡の北方、通称「大池」南西辺の水田を指しているようである。
+　平面形は典型的な鎌形を呈し、左上に四孔を穿つ。扁平な板状の緑泥片岩(りょくでいへんがん)を素材にしている。背部の縁辺に打痕が残っていることから、周りを叩いておおまかな輪郭をつくった後、丹念に磨きを加えて整形していることがわかる。刃部は緩やかに内湾し、両面から研磨をしてとがる。刃部には、使用痕と思われる刃こぼれがいくつも残っている。背部は全体に鈍く、左下がわずかにくびれる。刃部両端を少し欠くがほぼ完全なかたちで残る。刃部の現長は21cm、刃部から背部までの最大幅8.3cm、厚さ0.8cm、類似のものは近いところで多気郡多気町矢田の向野遺跡から出土している。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/ishibotyo-wakaredani.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/ishibotyo-wakaredani.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"分れ谷遺跡出土石包丁" (JMH-242047-0043), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

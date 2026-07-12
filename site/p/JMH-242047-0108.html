@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>天華寺廃寺出土塼仏 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>天華寺廃寺出土塼仏</h1>
+    <p class="jmh-id">JMH-242047-0108</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>2002-03-07</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1式（菱形塼仏片40点、方形塼仏片3点）／奈良時代／嬉野権現前町　嬉野考古館／平成14年3月7日。天華寺廃寺(てんげいじはいじ)は、現在の松阪市嬉野天花寺町にあった東西に塔（東）、金堂（西）を配する古代寺院である。方形三尊塼仏、方形独尊などの断片のほかに、塑像(そぞう)の左膝部分が出土している。
+　なかでも、菱形の構図に独尊如来坐像を配した塼仏は独自のもので、注目に価する。この菱形塼仏は縦約11cmを測り、やや厚めのレリーフで如来を表わす。破損状況から、面部など重要な箇所は、型（女型）に、あらかじめ薄く上質の土を張り篭め、次いで余った部分に土を充填したことがわかる。
+　この塼仏は、同型のものが多数出土していることから、夏見廃寺や山田寺、川原寺などでも指摘されているように堂内の壁面を荘厳にしたものかとも推測される。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/senbutsu-tengehaiji.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/senbutsu-tengehaiji.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"天華寺廃寺出土塼仏" (JMH-242047-0108), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

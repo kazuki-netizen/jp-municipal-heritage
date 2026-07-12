@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>多賀家文書　附　文書箱等 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>多賀家文書　附　文書箱等</h1>
+    <p class="jmh-id">JMH-242047-0134</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>2010-03-29</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:7,520点　附　10点／江戸時代～昭和前期／殿町 郷土資料室／平成22年3月29日。多賀家は紀州藩の地士の格式を持ち、江戸時代には一志郡堀之内村の庄屋を、明治以降は豊地村の収入役や村長を務めた地方名望家である。多賀家に伝えられた当文書は、近世から近代にかけて、嬉野地方の社会の成り立ちを知る上で、よくまとまった史料群である。
+　中核を占めるものが、「諸用帳」「出入日記」「晴雨日記帳」などの表題を持つ、天保7(1836)年から大正14(1925)年に至るまでの、約90年にわたる当主四代の日記である。一部は欠けるものの、ほぼ連日記載された日記がこれだけの長期にわたり残されている史料的価値は大変高い。
+　当文書群は、近世後期から第二次大戦期に至るまでの嬉野地域の社会を知るための一級史料であり、かつ戦時下の状況を伝える文書としては県内屈指の史料的価値を有するものと評価できる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/tagakemonjyo.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/tagakemonjyo.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"多賀家文書　附　文書箱等" (JMH-242047-0134), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

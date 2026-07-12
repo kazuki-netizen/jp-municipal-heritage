@@ -6,5 +6,125 @@
     "fetched_at": "2026-07-12T06:57:18Z",
     "http_status": 200,
     "format": "html"
+  },
+  "276674cbf4c33f93": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1927.html",
+    "filename": "subpages/1927.html",
+    "sha256": "2a1b23e1c53bc098efca0288c661c5c8e019038b5901cf361e2c43ec6cd0d845",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "933e2bfb8c4cd739": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1930.html",
+    "filename": "subpages/1930.html",
+    "sha256": "2bca2e3f8de082a530506f82e1a50eedccc9916b11d959cfa9024eac34663611",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "448383fa10ec606c": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1929.html",
+    "filename": "subpages/1929.html",
+    "sha256": "66944e30cd66c1df95164e534545204592c8f3adbdf00d03ba3ea5f14b2ecffa",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "32f70ebc79b8def8": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1928.html",
+    "filename": "subpages/1928.html",
+    "sha256": "44ed0ea94b6d515a98c3332fd2049915a6413a8cba950fb4b73e4d288680d540",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a34ed90e4f1a417d": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1926.html",
+    "filename": "subpages/1926.html",
+    "sha256": "751856c9f6a3da443beb32d888a4c2e18d44868b4a8c6e621ebdb44a5f663a43",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e5617de1a36a64c8": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1925.html",
+    "filename": "subpages/1925.html",
+    "sha256": "0b30ef9190773ed732d445c99d1c4d699f59bd6368bb59ad56f7c9cde9db182f",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "20dd0c0683042608": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1924.html",
+    "filename": "subpages/1924.html",
+    "sha256": "b11ac2e7e730d27a1b0546be8f8369b0283df59959eb03e11682b786bb621978",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "acf8771445a4df06": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1923.html",
+    "filename": "subpages/1923.html",
+    "sha256": "2f6c12ec1055bc4517b5369c28688df4413220a20372d214c7e67f53a7ec1dfa",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9dd17d58ae0ff172": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1922.html",
+    "filename": "subpages/1922.html",
+    "sha256": "6bd156ec0839cbe75b5b9b4b12d8e07b34d8f46b7ddfb8fca0f44cdddf8e34b3",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c66bf486e3bf365e": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1921.html",
+    "filename": "subpages/1921.html",
+    "sha256": "d2882af073b1c426b41b47acea4a9bda933d1edc383b474fadf5fdfa135c8853",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8a1b2520933e40e4": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1920.html",
+    "filename": "subpages/1920.html",
+    "sha256": "d7b3c5ae900538528ea9335af377ecfe3128551c674527fc721712457d0f1eb3",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "30e8101be5f411c8": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1919.html",
+    "filename": "subpages/1919.html",
+    "sha256": "5b2c225ca7932e280b0e6750098612f96ecb74fd58650ea50d65d4d0ee38b5d1",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f2cd64ded1916359": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1918.html",
+    "filename": "subpages/1918.html",
+    "sha256": "ff7e639090b8bdd00c8e4e2741a1dc6018a61215045b7e4bce09379906e6d292",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "09b6e99e6acb050e": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1917.html",
+    "filename": "subpages/1917.html",
+    "sha256": "7d1dd3c28e7c249f9df21bbb15147d473582b7f50e0febc3641c994cb0394542",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fe693862accfc056": {
+    "url": "https://www.city.shijonawate.lg.jp/site/bunkazai-shiseki/1916.html",
+    "filename": "subpages/1916.html",
+    "sha256": "e2fd020f255e14fb87a9bea6b92b81cdbc238d247ecb4b55cbaa2e90b3961398",
+    "fetched_at": "2026-07-12T08:15:00Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

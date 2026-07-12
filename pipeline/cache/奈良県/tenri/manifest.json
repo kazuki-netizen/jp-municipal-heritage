@@ -6,5 +6,13 @@
     "fetched_at": "2026-07-12T06:42:30Z",
     "http_status": 200,
     "format": "html"
+  },
+  "c7ab69d0dc347bce": {
+    "url": "https://www.city.tenri.nara.jp/material/files/group/36/shitei_touroku_bunkazaiichiran_20251021_2.pdf",
+    "filename": "shitei_touroku.pdf",
+    "sha256": "c7ab69d0dc347bce0d2c03b83f138702c018c0eff7cd8fad030b16a3dafa736a",
+    "fetched_at": "2026-07-12T16:54:00Z",
+    "http_status": 200,
+    "format": "pdf"
   }
 }

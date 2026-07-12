@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>宗祖日蓮聖人御本尊 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>宗祖日蓮聖人御本尊</h1>
+    <p class="jmh-id">JMH-242055-0023</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡</dd>
+      <dt>指定年月日</dt><dd>1966-11-22</dd>
+      <dt>所在地</dt><dd>伝馬町49番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1幅／形状:紙本、金襴装　94cm×52.5cm／年代:鎌倉時代／所有者:寿量寺／管理者:桑名市博物館。宗祖日蓮（1222-1282）立正大師の真蹟になる大曼荼羅で、本門の本尊として、これに向って題目（南無妙法蓮華経）を唱えるところが本門の戒壇であるとされている。 中央に題目、その左右に多宝如来、釈迦牟尼仏を始めとして、菩薩から天照大神、天台大師、伝教大師等31を記し、上下左右の四隅に大きく、大持国天王、大広目天王、大毘沙門天王、大増長天王とあり、中央やや左よりの下部に日蓮の署名、右下隅大広目天王の左傍に釈子日目授与之、左下隅大増長天王の右傍に弘安二 年歳己卯二月日とある。 弘安2年（1279）に認められた大曼荼羅は、現在11幅、この本尊は大正7年日蓮宗の宗宝調査会によって「宗宝」となった。 上記日目とは、大石寺九老僧の中老僧になった僧で元弘3年（1333）に没している。 寿量寺は文明元年（1469）頃、妙蓮寺と称し、同寺中興の傑僧日意（～1519）によって、この大曼荼羅はもたらされた。 日</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/072.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/072.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"宗祖日蓮聖人御本尊" (JMH-242055-0023), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.056892, 136.689392], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.056892, 136.689392]).addTo(m);
+  </script>
+</body>
+</html>

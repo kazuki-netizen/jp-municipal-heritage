@@ -1,0 +1,2262 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	遺産と文化 / 上峰町ホームページ
+</title>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a' && elem.tagName!='area' && elem.tagName!='AREA') /* 2011/04/04 a tag OK */
+            {
+                var useMapFlg = false;
+                if (elem.tagName == "img" || elem.tagName == "IMG") {
+                    if (elem.useMap) {
+                        useMapFlg = true;
+                    }
+                }
+                if (!useMapFlg) {
+                    if (event.preventDefault) 
+                    {
+                        event.preventDefault();
+                    } 
+                    else 
+                    {
+                        event.returnValue = false;
+                    }
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link href="//www.town.kamimine.lg.jp/dynamic/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.town.kamimine.lg.jp/dynamic/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/uiw.css" id="css_color" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/uiw.css" id="css_color_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link id="ctl00_minicalendar_css" href="//www.town.kamimine.lg.jp/dynamic/common/css/minicalendar.css" rel="stylesheet" type="text/css" /><link href="//www.town.kamimine.lg.jp/dynamic/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.town.kamimine.lg.jp/dynamic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/jquery.min.js"></script><script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/js.cookie.js"></script><script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/pubfunc.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/jquery-ui.js"></script><script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/jquery.scrollfollow.js"></script><script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/floatheader.js"></script><link href="//www.town.kamimine.lg.jp/dynamic/common/css/default_body.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.town.kamimine.lg.jp/dynamic/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/uiw.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.kamimine.lg.jp/dynamic/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<script type='text/javascript'>var setTabbarNo = [1,2,3];</script><script id="ctl00_web-fonts-with-css_js_all_min_js" type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script><script id="ctl00_TabBar_js" type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/tabbar.js"></script><link id="ctl00_web-fonts-with-css_css_all_min_css" href="//www.town.kamimine.lg.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet" type="text/css" /><link id="ctl00_TabBar_css" href="//www.town.kamimine.lg.jp/dynamic/common/css/tabbar.css" rel="stylesheet" type="text/css" /><script type='text/javascript'>
+var elementContainerId = "container";
+var elementPankuzuId = "pankuzu";
+var elementPankuzuInnerId = "pankuzu-inner";
+var sideboardRootUrl = "//www.town.kamimine.lg.jp/dynamic/";
+var sideboardPortalDsp_flg = true;
+var sideboardPortalDspPrm = {
+"sbkbn": "1"
+}
+var sideboardTopicsDsp_flg = true;
+var sideboardTopicsDspPrm = {
+"sbkbn": "2"
+}
+</script><script id="ctl00_SideBoard_js" type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/sideboard.js"></script><link id="ctl00_SideBoard_css" href="//www.town.kamimine.lg.jp/dynamic/common/css/sideboard.css" rel="stylesheet" type="text/css" /><script type='text/javascript'>
+var osusumebanRootUrl = "//www.town.kamimine.lg.jp/dynamic/";
+var osusumebanDspPrm = {
+"ossbcid": "31"
+}
+</script><script id="ctl00_OsusumeBan_js" type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/osusumeban.js"></script><link id="ctl00_OsusumeBan_css" href="//www.town.kamimine.lg.jp/dynamic/common/css/osusumeban.css" rel="stylesheet" type="text/css" />
+<!-- google analytics start -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RCCP24VVCB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RCCP24VVCB');
+</script>
+<!-- google analytics end -->
+<meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="遺産と文化" /><meta property="og:image" content="https://www.town.kamimine.lg.jp/dynamic/common/images/ogp/og_image.gif" /><meta property="og:url" content="https://www.town.kamimine.lg.jp/kiji00331/index.html" /><meta property="og:description" content="遺産と文化 / 上峰町ホームページ" /><meta property="og:site_name" content="上峰町ホームページ" /><meta property="og:locality" content="Kamimine-Cho" /><meta property="og:region" content="Saga" /><meta property="og:country-name" content="Japan" /><meta name="keywords" content="遺産と文化" /></head>
+<body class="haikei">
+
+<form name="aspnetForm" method="post" action="./detail.aspx?c_id=3&amp;id=31" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5DD862A" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbm4YZdCdMavF/rphzpsBlTOsETenyjUdTahCU2dxC6Sa/5ArSD4P2Q9IvfSe/VAiF6ot4eFpYX+Dt7xQoyCC1h4sP1pexmMajJ8vebtysFtQ4CRT2/s5YRPjaj9HNeLzbBv89dBxYQX33y0L7nnaM0J0YZ61ADhQ+IJOaXYzbhhw==" />
+</div>
+
+<div class="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+<!-- タブバー表示 全体枠 start -->
+<div id="stract">
+    <!-- タブバー -->
+    <!-- TabBar start -->
+
+<div id="tabbar_area">
+    <div id="tabBarWrapper" tabindex="-1">
+        <ul id="tabBarContainer">
+                <li><img id="tabbar_u" class="tabBarImg" src="//www.town.kamimine.lg.jp/dynamic/common/images/tabbar/tab_01_u.png" alt=""/></li>
+            
+                <li><a href="https://www.town.kamimine.lg.jp/classset010.html" onclick="javascript:return changeTabbar('1'); " tabindex="10"><img id="tabbar_1" class="tabBarImg" src="//www.town.kamimine.lg.jp/dynamic/common/images/tabbar/tab_01_1.png" alt="移住定住情報" /></a></li>
+            
+                <li><a href="https://www.town.kamimine.lg.jp/classset011.html" onclick="javascript:return changeTabbar('2'); " tabindex="10"><img id="tabbar_2" class="tabBarImg" src="//www.town.kamimine.lg.jp/dynamic/common/images/tabbar/tab_01_2.png" alt="シニア向け情報" /></a></li>
+            
+                <li><a href="https://www.town.kamimine.lg.jp/classset008.html" onclick="javascript:return changeTabbar('3'); " tabindex="10"><img id="tabbar_3" class="tabBarImg" src="//www.town.kamimine.lg.jp/dynamic/common/images/tabbar/tab_01_3.png" alt="子育て情報" /></a></li>
+            
+                <li><img id="tabbar_f" class="tabBarImg" src="//www.town.kamimine.lg.jp/dynamic/common/images/tabbar/tab_01_f.png" alt=""/></li>
+            </ul>
+    </div>
+</div>
+<input type="hidden" name="ctl00$TabBar$HidErrMsg" id="ctl00_TabBar_HidErrMsg" />
+<!-- TabBar end -->
+    <!-- タブバー表示 右枠 start -->
+    <div id="contentArea">
+
+
+
+
+<!-- allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.town.kamimine.lg.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.town.kamimine.lg.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.town.kamimine.lg.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script>
+<script>
+    jQuery.noConflict();
+
+    //　ナビゲーションメニュー開閉
+    function nabiMenuOpneClose() {
+        jQuery("#top_mokuteki").toggleClass("active");
+        jQuery("#overlay").toggleClass("open");
+        if (jQuery("#top_mokuteki").hasClass("active")) {
+            jQuery("body").addClass("no-scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".top_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("no-scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".top_head_wp").removeClass("active");
+        }
+    };
+
+    //　アクセシビリティメニュー開閉
+    function accMenuOpneClose() {
+        jQuery("#accessibility").toggleClass("active");
+        jQuery("#overlay_acc").toggleClass("open");
+        if (jQuery("#accessibility").hasClass("active")) {
+            jQuery("body").addClass("scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".acce_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".acce_head_wp").removeClass("active");
+        }
+    };
+    jQuery(function () {
+        jQuery(document).on('click', function (e) {
+            if (!jQuery(e.target).closest('#acc').length && !jQuery(e.target).closest('#accessibility').length) {
+                // 外側をクリックした場合
+                if (jQuery("#accessibility").hasClass("active")) {
+                    // メニューが開いている場合
+                    // メニューを閉じる
+                    jQuery("#accessibility").removeClass("active");
+                    jQuery("#overlay_acc").removeClass("open");
+                    jQuery("body").removeClass("scroll");
+                    //jQuery("#top_mokuteki").removeClass("active");
+                    jQuery(".acce_head_wp").removeClass("active");
+                }
+            }
+        });
+    });
+
+</script>
+
+<div id="headerAreaDef">
+    <div class="function_Area">
+        <div class="functionmenu_area">
+            <div id="headerMenu01">
+                <!-- foreign language start -->
+                
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').focus(function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').focus(function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1"><i class="fas fa-globe fa-lg"></i> Foreign Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u=https://www.town.kamimine.lg.jp/kiji00331/index.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.town.kamimine.lg.jp/dynamic/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-CN&u=https://www.town.kamimine.lg.jp/kiji00331/index.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.town.kamimine.lg.jp/dynamic/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-TW&u=https://www.town.kamimine.lg.jp/kiji00331/index.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.town.kamimine.lg.jp/dynamic/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                <li><a translate="no" lang="ko" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=ko&u=https://www.town.kamimine.lg.jp/kiji00331/index.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.town.kamimine.lg.jp/dynamic/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                <li><a translate="no" lang="ja" href="https://www.town.kamimine.lg.jp/kiji00331/index.html" class="cl-norewrite" tabindex="1">日本語</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+                <!-- foreign language end -->
+                <div class="accessibility"><a id="acc" href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1">アクセシビリティ</a></div>
+                <!-- mainSearch start -->
+                <div id="mainSearch">
+                    
+                            
+                            
+   
+    <div name="searchver2-input" data-api_url="https://kamiminesearch.kumamoto-net.ne.jp/public_api/">
+	  <!--フォームの表示箇所-->
+	</div>
+    <script>
+        var req = new XMLHttpRequest();
+        var ssurl = "https://kamiminesearch.kumamoto-net.ne.jp/site_search_input_only/"
+        req.onreadystatechange = function () {
+            var searchareas = document.getElementsByName('searchver2-input');
+            for (var i = 0; i < searchareas.length; i++) {
+                if (req.readyState == 4) { // 通信の完了時
+                    if (req.status == 200) { // 通信の成功時
+                        searchareas[i].innerHTML = req.response;
+                        var script = document.createElement("script");
+                        script.async = "async";
+                        script.src = ssurl + "index-input.0c27b256.js";
+                        searchareas[i].appendChild(script);
+
+                        var link = document.createElement("link");
+                        link.async = "async";
+                        link.rel = "stylesheet";
+                        link.type = "text/css";
+                        link.href = ssurl + "index-input.dbd7ad3a.css";
+                        searchareas[i].appendChild(link);
+                    }
+                } else {
+                    searchareas[i].innerHTML = "読込中...";
+                }
+            }
+            
+        }
+
+        req.open('GET', ssurl, true);
+        req.send(null);
+	</script>
+                        
+                </div>
+            </div>
+            <div id="navimenu"><a id="toggle" href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1"><span>
+                <img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/btn_mokuteki.png" alt="目的から探す" title="" /></span></a></div>
+        </div>
+
+    </div>
+    <input type="submit" name="ctl00$ctl35$Dmy" value="" onclick="return false;" id="ctl00_ctl35_Dmy" style="height:0px;width:0px;position: absolute; top: -100px;" />
+    <!-- rect start -->
+    <map id="header_img" name="header_img">
+        <area shape="circle" alt="上峰町ホームページトップへ" coords="119,76,86" href="https://www.town.kamimine.lg.jp/default.html" />
+    </map>
+    <!-- rect end -->
+
+    
+    <div id="header">
+        <!-- header start -->
+        <h1 id="hd_header" class="pc">
+            <img id="imgHeader" usemap="#header_img" src="//www.town.kamimine.lg.jp/common/upload/common/0_2_header_sdzr5y6x.png" alt="佐賀県上峰町" style="border-width:0px;" />
+        </h1>
+        <h1 id="hd_header02" class="SP">
+            <img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/head02.png" alt="佐賀県上峰町スマホ版" title="">
+        </h1>
+
+        <!-- header end -->
+        <!-- グローバルナビゲーション -->
+        <div id="GlobalNavigationBlock" tabindex="1">
+            <div class="Navigation">
+                <ul>
+                    <li><a href="#navi_skip" tabindex="1">グローバルナビゲーションをスキップ</a></li>
+                </ul>
+            </div>
+            <!-- global navigation start -->
+            
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,ul.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+                if (typeof id == "undefined") {
+                    return;
+                }
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("ul.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("ul#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list">
+            <li class="navi_tab exsistpic " id="navi_tab_101"
+                data-global="101">
+                <div>
+                    <a href="//www.town.kamimine.lg.jp/list00101.html" tabindex="10" >
+                        <img src="//www.town.kamimine.lg.jp/common/upload/hpkiji/101_class_globalnavi_6iwgvdab.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_101">くらし・手続き</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic " id="navi_tab_102"
+                data-global="102">
+                <div>
+                    <a href="//www.town.kamimine.lg.jp/list00102.html" tabindex="50" >
+                        <img src="//www.town.kamimine.lg.jp/common/upload/hpkiji/102_class_globalnavi_1tbzeebn.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_102">子育て・教育・文化</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic " id="navi_tab_103"
+                data-global="103">
+                <div>
+                    <a href="//www.town.kamimine.lg.jp/list00103.html" tabindex="71" >
+                        <img src="//www.town.kamimine.lg.jp/common/upload/hpkiji/103_class_globalnavi_r2orc8pu.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_103">健康・福祉・保険</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic " id="navi_tab_104"
+                data-global="104">
+                <div>
+                    <a href="//www.town.kamimine.lg.jp/list00104.html" tabindex="94" >
+                        <img src="//www.town.kamimine.lg.jp/common/upload/hpkiji/104_class_globalnavi_iuszcsgn.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_104">事業者向け</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic navi_tab_last" id="navi_tab_105"
+                data-global="105">
+                <div>
+                    <a href="//www.town.kamimine.lg.jp/list00105.html" tabindex="115" >
+                        <img src="//www.town.kamimine.lg.jp/common/upload/hpkiji/105_class_globalnavi_2x47bhg2.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_105">町政情報</p>
+                    </a>
+                </div>
+             </li>
+        </ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <ul class="g_navi " id="g_navi_101" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="290">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00290.html" tabindex="11" >新型コロナウイルス関連</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="290">
+                        
+                        
+                                <li
+                                    data-global="648">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji003703/index.html" tabindex="12" >ワクチン接種について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="649">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00649.html" tabindex="13" >町内の新型コロナウイルス感染症状況</a>
+                                </li>
+                            
+                                <li
+                                    data-global="650">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00650.html" tabindex="14" >その他情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="670">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00670.html" tabindex="15" >臨時特別給付金</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="106">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00106.html" tabindex="16" >各種証明・手続き</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="106">
+                        
+                        
+                                <li
+                                    data-global="134">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00134.html" tabindex="17" >戸籍・住民票</a>
+                                </li>
+                            
+                                <li
+                                    data-global="135">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00135.html" tabindex="18" >印鑑登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="136">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00136.html" tabindex="19" >マイナンバーカード</a>
+                                </li>
+                            
+                                <li
+                                    data-global="137">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00137.html" tabindex="20" >パスポート</a>
+                                </li>
+                            
+                                <li
+                                    data-global="721">
+                                    
+                                    <a href="https://www.nhk-cs.jp/jushinryo/index.html" tabindex="21" >NHK「受信料の窓口」</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="107">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00107.html" tabindex="22" >税金</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="107">
+                        
+                        
+                                <li
+                                    data-global="138">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00138.html" tabindex="23" >税に関するお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="141">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00141.html" tabindex="24" >減額や特例措置</a>
+                                </li>
+                            
+                                <li
+                                    data-global="139">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00139.html" tabindex="25" >税の納付・証明</a>
+                                </li>
+                            
+                                <li
+                                    data-global="140">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00140.html" tabindex="26" >税の種類</a>
+                                </li>
+                            
+                                <li
+                                    data-global="857">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00857.html" tabindex="27" >公示送達</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="108">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00108.html" tabindex="28" >ごみ・環境・ペット</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="108">
+                        
+                        
+                                <li
+                                    data-global="142">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00142.html" tabindex="29" >ごみ・リサイクル</a>
+                                </li>
+                            
+                                <li
+                                    data-global="143">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00143.html" tabindex="30" >環境・衛生</a>
+                                </li>
+                            
+                                <li
+                                    data-global="144">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00144.html" tabindex="31" >動物・ペット</a>
+                                </li>
+                            
+                                <li
+                                    data-global="145">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00145.html" tabindex="32" >住まい・土地・下水道</a>
+                                </li>
+                            
+                                <li
+                                    data-global="656">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji003624/index.html" tabindex="33" >豪雨被害復旧に伴う減免等</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="109">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00109.html" tabindex="34" >まちづくり・地域</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="109">
+                        
+                        
+                                <li
+                                    data-global="146">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00146.html" tabindex="35" >ふるさと納税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="147">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00147.html" tabindex="36" >地域・まちづくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="148">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00148.html" tabindex="37" >防犯・安心安全</a>
+                                </li>
+                            
+                                <li
+                                    data-global="149">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00149.html" tabindex="38" >イベント</a>
+                                </li>
+                            
+                                <li
+                                    data-global="635">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji003195/index.html" tabindex="39" >コミュニティバス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="754">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00754.html" tabindex="40" >回覧板</a>
+                                </li>
+                            
+                                <li
+                                    data-global="838">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00838.html" tabindex="41" >道路・河川</a>
+                                </li>
+                            
+                                <li
+                                    data-global="859">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00859.html" tabindex="42" >mineca(ミネカ)</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="110">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00110.html" tabindex="43" >施設案内</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="110">
+                        
+                        
+                                <li
+                                    data-global="150">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00150.html" tabindex="44" >公共施設</a>
+                                </li>
+                            
+                                <li
+                                    data-global="151">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00151.html" tabindex="45" >公園・運動施設</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="111">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00111.html" tabindex="46" >相談</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="111">
+                        
+                        
+                                <li
+                                    data-global="152">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00152.html" tabindex="47" >よくある質問</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="674">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00674.html" tabindex="48" >人権</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="674">
+                        
+                        
+                                <li
+                                    data-global="675">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00675.html" tabindex="49" >パートナーシップ宣誓制度</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_102" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="112">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00112.html" tabindex="51" >子育て</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="112">
+                        
+                        
+                                <li
+                                    data-global="798">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00798.html" tabindex="52" >妊娠・出産</a>
+                                </li>
+                            
+                                <li
+                                    data-global="799">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00799.html" tabindex="53" >就学前（0～6歳）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="800">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00800.html" tabindex="54" >ひとり親家庭</a>
+                                </li>
+                            
+                                <li
+                                    data-global="801">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00801.html" tabindex="55" >サポートが必要な子ども</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="113">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00113.html" tabindex="56" >教育・まなび・スポーツ</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="113">
+                        
+                        
+                                <li
+                                    data-global="153">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00153.html" tabindex="57" >小中学校</a>
+                                </li>
+                            
+                                <li
+                                    data-global="154">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00154.html" tabindex="58" >生涯学習</a>
+                                </li>
+                            
+                                <li
+                                    data-global="155">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00155.html" tabindex="59" >国際交流</a>
+                                </li>
+                            
+                                <li
+                                    data-global="156">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00156.html" tabindex="60" >スポーツ・交流施設</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="114">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00114.html" tabindex="61" >教育委員会</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="114">
+                        
+                        
+                                <li
+                                    data-global="157">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji00339/index.html" tabindex="62" >教育委員会について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="158">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00158.html" tabindex="63" >計画・方針・各種公表</a>
+                                </li>
+                            
+                                <li
+                                    data-global="159">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00159.html" tabindex="64" >教育委員会からのお知らせ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="115">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00115.html" tabindex="65" >歴史・伝統・文化</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="115">
+                        
+                        
+                                <li
+                                    data-global="231">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00231.html" tabindex="66" >米多浮立</a>
+                                </li>
+                            
+                                <li
+                                    data-global="160">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00160.html" tabindex="67" >史跡</a>
+                                </li>
+                            
+                                <li
+                                    data-global="161">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00161.html" tabindex="68" >文化財</a>
+                                </li>
+                            
+                                <li
+                                    data-global="855">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji003263/index.html" tabindex="69" >米倉文庫</a>
+                                </li>
+                            
+                                <li
+                                    data-global="856">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji003878/index.html" tabindex="70" >『上峰町史』販売</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_103" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="116">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00116.html" tabindex="72" >健康・医療</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="116">
+                        
+                        
+                                <li
+                                    data-global="162">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00162.html" tabindex="73" >健康づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="163">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00163.html" tabindex="74" >予防接種・健診</a>
+                                </li>
+                            
+                                <li
+                                    data-global="164">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00164.html" tabindex="75" >医療</a>
+                                </li>
+                            
+                                <li
+                                    data-global="165">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00165.html" tabindex="76" >休日・夜間当番医</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="118">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00118.html" tabindex="77" >年金・健康保険</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="118">
+                        
+                        
+                                <li
+                                    data-global="168">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00168.html" tabindex="78" >国民年金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="169">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00169.html" tabindex="79" >国民健康保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="170">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00170.html" tabindex="80" >後期高齢者医療</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="119">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00119.html" tabindex="81" >高齢者福祉</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="119">
+                        
+                        
+                                <li
+                                    data-global="171">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00171.html" tabindex="82" >高齢者向けサービス</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="117">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00117.html" tabindex="83" >介護・福祉</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="117">
+                        
+                        
+                                <li
+                                    data-global="166">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00166.html" tabindex="84" >介護保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="167">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00167.html" tabindex="85" >介護予防サービス</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="620">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00620.html" tabindex="86" >障害福祉</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="620">
+                        
+                        
+                                <li
+                                    data-global="772">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00772.html" tabindex="87" >手帳の申請</a>
+                                </li>
+                            
+                                <li
+                                    data-global="773">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00773.html" tabindex="88" >医療費助成 </a>
+                                </li>
+                            
+                                <li
+                                    data-global="774">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00774.html" tabindex="89" >手当・給付金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="775">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00775.html" tabindex="90" >日常生活・自立支援 </a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="120">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00120.html" tabindex="91" >地域福祉・支援窓口</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="120">
+                        
+                        
+                                <li
+                                    data-global="176">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00176.html" tabindex="92" >生活保護</a>
+                                </li>
+                            
+                                <li
+                                    data-global="177">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00177.html" tabindex="93" >福祉相談・支援窓口</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_104" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="121">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00121.html" tabindex="95" >入札・契約</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="121">
+                        
+                        
+                                <li
+                                    data-global="178">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00178.html" tabindex="96" >入札参加資格審査申請</a>
+                                </li>
+                            
+                                <li
+                                    data-global="179">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00179.html" tabindex="97" >入札・契約情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="180">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00180.html" tabindex="98" >入札結果（年度）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="181">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00181.html" tabindex="99" >入札様式</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="122">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00122.html" tabindex="100" >建設等に係る届出・許可</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="122">
+                        
+                        
+                                <li
+                                    data-global="182">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00182.html" tabindex="101" >開発行為</a>
+                                </li>
+                            
+                                <li
+                                    data-global="183">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00183.html" tabindex="102" >農地の転用</a>
+                                </li>
+                            
+                                <li
+                                    data-global="184">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00184.html" tabindex="103" >埋蔵文化財の取扱・手続き</a>
+                                </li>
+                            
+                                <li
+                                    data-global="185">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00185.html" tabindex="104" >各種申請書</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="123">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00123.html" tabindex="105" >商工業</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="123">
+                        
+                        
+                                <li
+                                    data-global="186">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00186.html" tabindex="106" >企業支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="187">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00187.html" tabindex="107" >企業誘致・物件</a>
+                                </li>
+                            
+                                <li
+                                    data-global="188">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00188.html" tabindex="108" >工場立地法に係る届出</a>
+                                </li>
+                            
+                                <li
+                                    data-global="189">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00189.html" tabindex="109" >就労・雇用支援</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="124">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00124.html" tabindex="110" >農林水産</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="124">
+                        
+                        
+                                <li
+                                    data-global="190">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00190.html" tabindex="111" >農地の転用</a>
+                                </li>
+                            
+                                <li
+                                    data-global="191">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00191.html" tabindex="112" >農業委員会</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="125">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00125.html" tabindex="113" >広告募集</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="125">
+                        
+                        
+                                <li
+                                    data-global="192">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00192.html" tabindex="114" >広報紙・ホームページ有料広告</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_105" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="126">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00126.html" tabindex="116" >町の紹介</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="126">
+                        
+                        
+                                <li
+                                    data-global="193">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji00328/index.html" tabindex="117" >町の概要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="194">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/classset002.html" tabindex="118" >組織問合せ先</a>
+                                </li>
+                            
+                                <li
+                                    data-global="195">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji00330/index.html" tabindex="119" >町へのアクセス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="196">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/dynamic/statistics/pub/default.aspx?c_id=20" tabindex="120" >人口</a>
+                                </li>
+                            
+                                <li
+                                    data-global="575">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00575.html" tabindex="121" >プライバシーポリシー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="578">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00578.html" tabindex="122" >トピックス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="616">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji003313/index.html" tabindex="123" >情報が見つからないときは</a>
+                                </li>
+                            
+                                <li
+                                    data-global="684">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00684.html" tabindex="124" >スライドバナー</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="127">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00127.html" tabindex="125" >町長室</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="127">
+                        
+                        
+                                <li
+                                    data-global="197">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00197.html" tabindex="126" >施政方針</a>
+                                </li>
+                            
+                                <li
+                                    data-global="198">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00198.html" tabindex="127" >交際費</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="128">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00128.html" tabindex="128" >町議会</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="128">
+                        
+                        
+                                <li
+                                    data-global="200">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00200.html" tabindex="129" >議会の概要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="201">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00201.html" tabindex="130" >議会の構成（議員名簿）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="202">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00202.html" tabindex="131" >請願・陳情</a>
+                                </li>
+                            
+                                <li
+                                    data-global="203">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00203.html" tabindex="132" >傍聴案内</a>
+                                </li>
+                            
+                                <li
+                                    data-global="204">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00204.html" tabindex="133" >会議録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="205">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00205.html" tabindex="134" >一般質問一覧</a>
+                                </li>
+                            
+                                <li
+                                    data-global="206">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00206.html" tabindex="135" >議会だより</a>
+                                </li>
+                            
+                                <li
+                                    data-global="207">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00207.html" tabindex="136" >本会議録画中継</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="129">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00129.html" tabindex="137" >町の財政</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="129">
+                        
+                        
+                                <li
+                                    data-global="208">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00208.html" tabindex="138" >財政状況</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="130">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00130.html" tabindex="139" >計画・プラン・評価</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="131">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00131.html" tabindex="140" >広報・広聴</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="131">
+                        
+                        
+                                <li
+                                    data-global="211">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00211.html" tabindex="141" >町民だより　つばき</a>
+                                </li>
+                            
+                                <li
+                                    data-global="213">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00213.html" tabindex="142" >情報公開</a>
+                                </li>
+                            
+                                <li
+                                    data-global="214">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00214.html" tabindex="143" >統計</a>
+                                </li>
+                            
+                                <li
+                                    data-global="802">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00802.html" tabindex="144" >公式SNS</a>
+                                </li>
+                            
+                                <li
+                                    data-global="698">
+                                    
+                                    <a href="https://www.town.kamimine.lg.jp/kiji003811/index.html" tabindex="145" >暮らしの便利帳</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="132">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00132.html" tabindex="146" >職員採用・人事</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="132">
+                        
+                        
+                                <li
+                                    data-global="215">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00215.html" tabindex="147" >人事</a>
+                                </li>
+                            
+                                <li
+                                    data-global="216">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00216.html" tabindex="148" >職員採用</a>
+                                </li>
+                            
+                                <li
+                                    data-global="217">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00217.html" tabindex="149" >任期付・臨時職員</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="133">
+                            
+                            <a href="//www.town.kamimine.lg.jp/list00133.html" tabindex="150" >選挙・監査</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="133">
+                        
+                        
+                                <li
+                                    data-global="218">
+                                    
+                                    <a href="//www.town.kamimine.lg.jp/list00218.html" tabindex="151" >選挙制度</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl35$GlobalNavigation$HidErrMsg" id="ctl00_ctl35_GlobalNavigation_HidErrMsg" />
+
+            
+
+<script type="text/javascript">
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+            img.src = "//cms.town.kamimine.lg.jp/makehtml/common/images/top1/hb_close.png";
+        }
+    }
+
+    function closeGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            menuDiv.style.display = "none";
+            img.src = "//cms.town.kamimine.lg.jp/makehtml/common/images/top1/hb_open.png";
+        }
+    }
+</script>
+
+
+    <div id="headMenu">
+        <img id="menuImg" onclick="dspGlobalMenu();" src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/hb_open.png" alt="メニュー" title="" />
+    </div>
+
+    <!-- メニュー -->
+    <div id="naviContainerSP" style="display:none;">
+        <div id="naviAreaSP">
+            <ul id="navi_listSP">
+                    <li class="navi_tab  " id="navi_tabSP_101">
+                        <div>
+                            <a href="//www.town.kamimine.lg.jp/list00101.html">
+                                
+                                <p>くらし・手続き</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_102">
+                        <div>
+                            <a href="//www.town.kamimine.lg.jp/list00102.html">
+                                
+                                <p>子育て・教育・文化</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_103">
+                        <div>
+                            <a href="//www.town.kamimine.lg.jp/list00103.html">
+                                
+                                <p>健康・福祉・保険</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_104">
+                        <div>
+                            <a href="//www.town.kamimine.lg.jp/list00104.html">
+                                
+                                <p>事業者向け</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_105">
+                        <div>
+                            <a href="//www.town.kamimine.lg.jp/list00105.html">
+                                
+                                <p>町政情報</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab"><div><a href="https://www.town.kamimine.lg.jp/classset010.html" class="addlinks_top"><p>移住定住情報</p></a></div></li>
+                    <li class="navi_tab"><div><a href="https://www.town.kamimine.lg.jp/classset011.html" class="addlinks"><p>シニア向け情報</p></a></div></li>
+                    <li class="navi_tab"><div><a href="https://www.town.kamimine.lg.jp/classset008.html" class="addlinks"><p>子育て情報</p></a></div></li>
+                </ul>
+                
+        </div>
+    </div>
+    <div class="clear"></div>
+
+            <div id="globalNavigationData" data-classid="" data-parentid="" data-topid=""></div>
+            <div id="ctl00_ctl35_globalNavigationData"></div>
+            <!-- global navigation end -->
+        </div>
+
+
+        <div class="clear"></div>
+        <!-- ナビゲーションメニュー start -->
+        <div id="top_mokuteki">
+            <div class="top_head_wp">
+                <div class="overlay" id="overlay">
+                    <div id="navimenu_close">
+                        <div><a href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                    </div>
+                    <div class="mokuteki_wp mokuteki_wp clearfix">
+                        <div class="mokuteki_wp-R">
+                            <div class="mokuteki_r-con mokuteki_con_04">
+                                <h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fas fa-bookmark"></i>&nbsp;&nbsp;便利なサービス</h2>
+                                <ul class="t_mokuteki_list">
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/list00142.html">ごみ・リサイクル</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダー</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/list00106.html">各種証明・手続き</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/dynamic/procnavi/pub/default.aspx?c_id=28">手続きナビ</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/list00212.html">意見募集・町への提案</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/list00121.html">入札・契約</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/dynamic/hpkiji/pub/shinsei.aspx?c_id=3">申請書ダウンロード</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/list00110.html">施設案内</a>
+                                    </li>
+                                    <li class="mokuteki_link innerLink">
+                                        <a href="//www.town.kamimine.lg.jp/list00152.html">よくある質問</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="subsite_con">
+                                <h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fas fa-bookmark"></i>&nbsp;&nbsp;サブサイト</h2>
+                                <div class="subsite_waku">
+                                    <ul class="t_subsite_list">
+                                        <li class="subsite_link">
+                                            <a href="//www.town.kamimine.lg.jp/bousai/default.html">防災サイト</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text_linkArea">
+                            <div class="text_link">
+                                <div class="link"><a href="//www.town.kamimine.lg.jp/classset002.html"><i class="fas fa-caret-square-right"></i>&nbsp;&nbsp;組織からさがす</a></div>
+                                <div class="link"><a href="//www.town.kamimine.lg.jp/classset001.html"><i class="fas fa-caret-square-right"></i>&nbsp;&nbsp;分類からさがす</a></div>
+                                <div class="link"><a href="//www.town.kamimine.lg.jp/sitemap.html"><i class="fas fa-caret-square-right"></i>&nbsp;&nbsp;サイトマップからさがす</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <!-- アクセシビリティメニュー start -->
+        <div id="accessibility">
+            <div class="acce_head_wp">
+                <div class="overlay_acc" id="overlay_acc">
+                    <div id="accmenu_close">
+                        <div><a href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                    </div>
+
+                    <div class="acc_wp acc_wp clearfix">
+
+                        <div id="mainFontSizeSel">
+                            <span>文字サイズ変更</span>
+                            <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                                <img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                        </div>
+                        <div id="changeHaikei">
+                            <span>背景色変更</span>
+                            <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                                <img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="clear"></div>
+</div>
+<div id="navi_skip"></div>
+<div class="clear"></div>
+
+</div><!-- allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu"><div id="pankuzuArea" data-categoryid="3" data-kijiid="31" data-subid="2" data-topid="0" data-preview="OFF"></div></div>
+</div>
+
+
+<div id="container">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+<script type="text/javascript" language="javascript">
+<!--
+window.onload = function(){
+
+    
+    
+    
+
+}
+
+function DanrakuKirikae(dspNo, allCnt){
+    if(allCnt>0)
+    {
+        for(var i=1; i <= allCnt; ++i)
+        {
+            if(dspNo == i)
+            {
+                 document.getElementById("danraku" + i).style.display = "block";
+                 document.getElementById("dMenu" + i).className = "selected";
+            }
+            else
+            {
+                 document.getElementById("danraku" + i).style.display = "none";
+                 document.getElementById("dMenu" + i).className = "";
+            }
+       
+        }
+    }
+}
+//-->
+</script>
+
+<div style="margin:0px auto;"></div>
+
+
+
+<article>
+    <div id="mainShosai">
+        
+        
+        
+
+        
+        <div class="BottomArea">
+
+            <table class="containerWidth">
+		        <tr>
+		            <td style="text-align:left;">
+		                <h1 class="title">遺産と文化</h1>
+                        
+                        <div id="snsButtonArea"></div>
+                        <div class="kijiSubInfo">
+                            <div class="updDate">最終更新日：<time datetime="2026-05-29T08:48:26+09:00">2026年5月29日</time></div>
+                            <div class="printbtn"><a href="javascript:void(0)" onclick="window.print();return false;"><i class="fas fa-print fa-lg"></i><span> 印刷</span></a></div>
+                            
+                            <div id="kijiKengenArea"></div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+		                		            
+		                
+    		        
+		                <div class="danraku" id="danraku1" style="display:block;"><div class="migration"><div id="area0"><div><div id="pbBlock46506"><div><div><iframe height="480" src="https://www.google.com/maps/d/embed?mid=1wIihKpZz4JMfZmI8fkZRzmDvuO0&amp;hl=ja" width="640" title="佐賀県上峰町遺産と文化マップ"></iframe></div></div></div><div id="pbBlock17669"><div><div><div><div>堤土塁跡歴史公園　つつみどるいあとれきしこうえん　（佐賀県史跡）</div></div><h6 class="title">上峰町大字堤2367-2ほか</h6><p>町北部に位置し土塁が作られた時期は7～8世紀と考えられています。築造方法は、粘土、砂混じりの土、黒い土を交互に積み上げたたき締めて作られており、これは強固な基盤を作ることができる版築という工法です。 目的としては、当時の農業用水を蓄える灌漑施設説、大宰府などの防衛施設、又は古代の道路ではないかという説があり結論はでていません。</p><p><img alt="写真：堤土塁跡歴史公園1" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_1_tsutsumi1.jpg" style=" MARGIN: 10px;"><img alt="写真：堤土塁跡歴史公園2" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_2_tsutsumi2.jpg" style=" MARGIN: 10px;"></p></div></div></div><div id="pbBlock17690"><div><div><div><div>都紀女加王墓　つきめかおうぼ</div></div><h6 class="title">上峰町大字坊所1570-16</h6><p><img alt="写真：都紀女加王墓" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_3_tsukimekaoubo.jpg" style=" MARGIN: 10px;text-align:left;">全長50mの前方後円墳で目達原古墳群の古墳の中では一番古い形式の古墳です。葬られているといわれている都紀女加王は応神天皇の皇子、稚野毛二派皇子（わかぬけふたまたのみこ）の孫にあたられます 今日、町の古墳公園となっています。</p></div></div></div><div id="pbBlock17691"><div><div><div><div>船石遺跡　ふないしいせき（佐賀県史跡）</div></div><h6 class="title">上峰町大字堤839</h6><p><img alt="写真：船石遺跡" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_4_funaishi.jpg" style=" MARGIN: 10px;text-align:left;">船石遺跡は、船石地区の丘陵地に広がる町内でも有数の大遺跡で縄文時代から中世に及ぶ遺構や遺物が発見されている。船石遺跡のほぼ中央に位置する船石宮天神社境内には、船石の地名の由来となった「船石」はじめ「亀石」、「鼻血石」と呼ばれる巨石が残っている。</p></div></div></div><div id="pbBlock17692"><div><div><div><div>八藤丘陵の阿蘇4火砕流堆積物及び埋没林 やとうきゅうりょうのあそ4かさいりゅうたいせきぶつおよびまいぼつりん（天然記念物）</div></div><h6 class="title">上峰町大字堤字堤2412ほか</h6><p>圃場整備の工事中に地下約3mの地中から、長さ22m、幹の直径1.5mの巨大な倒木（マツ科トウヒ属、もみの木の一種）が発見された。巨木の周囲にもたくさんの焼け焦げた木々が埋まっていた。これらの木々は、約9万年前の阿蘇4火砕流と呼ばれる北部九州一円を覆い尽くすような大火砕流によりなぎ倒され埋まった当時の森林の跡であった。この資料の一部はふるさと学館に展示されています。</p><p><a href="https://www.town.kamimine.lg.jp/kiji00336/index.html"><img alt="" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_5_arrow1.gif">文化財関連電子リーフレット</a>より八藤丘陵の阿蘇4火砕流堆積物及び埋没林に関するパンフレットを御覧いただけます。</p><p><img alt="写真：発見当初No1巨木_西から" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_6_yato1.jpg" style=" MARGIN: 10px;"><img alt="写真：No1巨木と周辺の炭化樹木群" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_7_yato2.jpg" style=" MARGIN: 10px;"><br><img alt="写真：9万年前の地表面下部の樹根" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_8_yato3.jpg" style=" MARGIN: 10px;"><img alt="写真：巨木と周辺の炭化樹木群2.jpg" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_9_yato4.jpg" style=" MARGIN: 10px;"></p></div></div></div><div id="pbBlock17693"><div><div><div><div>江迎城跡　えむかえじょうあと</div></div><h6 class="title">上峰町大字前牟田字江迎1252&nbsp;</h6><p>江迎から八枚にかけてのクリークは、中世の環濠集落の跡で、江迎城とこれを中心に発達した一ノ橋の集落跡である。圃場整備以前には、壕割で区画された「島屋敷」が残っていた。現在は、江迎の中ノ島を中心とする一部に昔の姿をとどめている。</p><p><img alt="写真：江迎城跡3" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_10_emukae3.jpg" style=" MARGIN: 10px;"><img alt="写真：江迎城跡4" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_11_emukae4.jpg" style=" MARGIN: 10px;"><br><img alt="写真：江迎城跡2" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_12_emukae2.jpg" style=" MARGIN: 10px;"><img alt="写真：江迎城跡1" src="https://www.town.kamimine.lg.jp/kiji00331/3_31_13_emukae1.jpg" style=" MARGIN: 10px;"></p></div></div></div><div id="pbBlock42398"></div></div></div></div><div class="clear"></div></div>
+		            </td>
+	            </tr>
+            </table>      
+            
+        </div>
+        <div class="clear"></div>
+    </div>
+</article>
+
+
+<div id="weblioLinkJsArea"></div>
+
+
+<div id="archiveTransitionArea">
+    <div class="archiveTransitionPrev"><a href="">前の記事へ</a></div>
+    <div class="archiveTransitionNext"><a href="">次の記事へ</a></div>
+</div>
+
+
+<div id="classTagsArea"></div>
+
+
+<div id="toiawaseInfo">
+
+    <div class="toiText"><strong>このページに関する<br />お問い合わせは</strong></div>
+    <div class="toiKugiri"></div>
+    <div class="toiData"></div>
+</div>
+
+<div id="hpkijiid_shosai">（ID:31）</div>
+
+
+<div id="footerSoegakiArea"></div>
+
+
+<div id="shosaiBanArea" data-topid="0" data-dspshosai="0" data-preview="OFF"></div>
+
+
+<div id="recommendArea"></div>
+
+
+<div id="browsingHistoryArea"></div>
+
+<div id="accessCountHpKiji"
+    data-categoryid="3"
+    data-kijiid="31"
+    data-subid="2"
+    data-topid="0"
+    data-preview="OFF"></div>
+
+<script type="text/javascript" language="javascript">
+    jQuery(function () {
+        jQuery.ajax({
+            type: 'POST',
+            cache: false,
+            url: '//www.town.kamimine.lg.jp/dynamic/hpkiji/saverecommend.ashx',
+            data: {
+                "id": 31,
+                "preview": "OFF"
+            }
+        }).done(function (response) {
+        }).fail(function (response) {
+        });
+    });
+</script>
+
+<script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/browsinghistory.js"></script>
+<script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.town.kamimine.lg.jp/dynamic/";
+
+        
+        var bannerPrm = {
+            "top_id": jQuery("#shosaiBanArea").attr("data-topid"),
+            "dspShosaiFlg": jQuery("#shosaiBanArea").attr("data-dspshosai"),
+            "preview": jQuery("#shosaiBanArea").attr("data-preview")
+        }
+        set.banner("#shosaiBanArea", bannerPrm);
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "False",
+            "pdfSetsumeiFlg": "ON",
+            "pdfDownloadFlg": "ON"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        
+        jQuery(".toiData").each(function () {
+
+            var toiawasePrm = {
+                "mdl": "85",
+                "c_id": "3",
+                "id": "31",
+                "sub_id": "2",
+                "top_id": "0",
+                "preview": "OFF"
+            }
+
+            set.toiawase(this, toiawasePrm);
+        });
+
+        
+        var kijiKengenPrm = {
+            "mdl": "85",
+            "grp_id": "15",
+            "ka_no_disp": "1",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.kijiKengen("#kijiKengenArea", kijiKengenPrm);
+
+        
+        var snsButtonPrm = {
+            "c_id": "3",
+            "id": "31",
+            "sub_id": "2",
+            "ttl": "",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.snsButton("#snsButtonArea", snsButtonPrm);
+
+        
+        var weblioLinkJsPrm = {
+            "c_id": "3"
+        }
+        set.weblioLinkJs("#weblioLinkJsArea", weblioLinkJsPrm);
+
+        
+        var recommendPrm = {
+            "c_id": "3",
+            "id": "31",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.recommend("#recommendArea", recommendPrm);
+
+        
+        var pankuzuParam = {
+            "c_id": jQuery("#pankuzuArea").attr("data-categoryid"),
+            "class_id": "",
+            "id": jQuery("#pankuzuArea").attr("data-kijiid"),
+            "sub_id": jQuery("#pankuzuArea").attr("data-subid"),
+            "top_id": jQuery("#pankuzuArea").attr("data-topid"),
+            "preview": jQuery("#pankuzuArea").attr("data-preview")
+        }
+        set.pankuzu("#pankuzuArea", "#footerPankuzuArea", pankuzuParam);
+
+        
+        var archiveTransitionParam = {
+            "c_id": "3",
+            "class_id": "",
+            "id": "31",
+            "wd": "",
+            "sely": "",
+            "selm": "",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.archiveTransition("#archiveTransitionArea", archiveTransitionParam);
+
+        
+        var classTagsParam = {
+            "rootURL":"//www.town.kamimine.lg.jp/dynamic/",
+            "c_id": "3",
+            "class_id": "",
+            "id": "31",
+            "sub_id": jQuery("#pankuzuArea").attr("data-subid"),
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.classTags("#classTagsArea", classTagsParam);
+
+        var accessCountPrm = {
+            "c_id": jQuery("#accessCountHpKiji").attr("data-categoryid"),
+            "id": jQuery("#accessCountHpKiji").attr("data-kijiid"),
+            "sub_id": jQuery("#accessCountHpKiji").attr("data-subid"),
+            "top_id": jQuery("#accessCountHpKiji").attr("data-topid"),
+            "preview": jQuery("#accessCountHpKiji").attr("data-preview")
+        }
+        set.accessCountHpKiji(accessCountPrm);
+    });
+
+    
+    jQuery(function(){
+        var fn_bh = new setBrowsingHistory();
+        fn_bh.rootUrl = "https://www.town.kamimine.lg.jp/dynamic/";
+        fn_bh.page_type = "detail";
+        fn_bh.top_id = "0";
+        fn_bh.kiji_id = "31";
+        fn_bh.preview_type = "OFF";
+        fn_bh.loadBrowsingHistory();
+    });
+</script>
+
+        
+
+     </div> <!-- cont_body -->
+</div> <!-- mainBlock -->
+
+<!-- サイドボード -->
+<!-- sideboard start -->
+
+<div id="sideborad_area">
+    <div id="sideBoardWrapper">
+        <div id="sideBoardBlock" tabindex="-1">
+            <div id="sideBoardContainer">
+
+                
+                <div id="sideboardJuyoOshirase" class="artlist">
+                    <h2><i class="fas fa-exclamation-circle fa-lg"></i> 重要なお知らせ</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardTopics" class="artlist">
+                    <h2><i class="fas fa-bell"></i> トピックス</h2>
+                </div>
+                <div class="clear"></div>
+                
+                
+                <div id="mokutekikarasagasu" class="sagasu">
+                    <h2><i class="fas fa-flag"></i> 情報をさがす</h2>
+	                <ul>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.kamimine.lg.jp/classset002.html">組織から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.kamimine.lg.jp/classset001.html">分類から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.kamimine.lg.jp/sitemap.html">サイトマップから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.kamimine.lg.jp/classset003.html">ライフイベントから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.kamimine.lg.jp/dynamic/ranking/pub/default.aspx?c_id=9">ランキングから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.kamimine.lg.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダーから</a></li>
+	                </ul>
+                </div>
+
+                <div class="clear"></div>
+
+                
+                <div id="mitsukaranaitoki">
+                    <div>
+                        <a href="https://www.town.kamimine.lg.jp/list00616.html"><i class="fas fa-question-circle fa-lg fa-fw"></i> 情報が見つからないときは</a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<input type="hidden" name="ctl00$SideBoard$HidErrMsg" id="ctl00_SideBoard_HidErrMsg" />
+<!-- sideboard end -->
+
+<div class="clear"></div>
+</div>
+
+
+<!-- allfooter start  -->
+<iframe src="//www.town.kamimine.lg.jp/dynamic/common/kijienqiframe.aspx?c_id=3&amp;id=31" id="kijiEnqArea" style="border:0px none;" title="kijienq"></iframe>
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+<div id="footerPankuzu">
+    <div id="footerPankuzuArea"></div>
+</div>
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.town.kamimine.lg.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.town.kamimine.lg.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- footer menu start -->
+
+
+<!-- footer menu end -->
+
+<!-- site info start -->
+
+<div id="siteinfo">
+    <div id="toiawasewaku">
+    <div id="toiawase">
+    <div class="footerimg"><img src="//www.town.kamimine.lg.jp/dynamic/common/images/top1/shimbol.png" alt="佐賀県上峰町" title=""></div>
+        <div class="clear"></div>
+        <p>
+                〒849-0123&nbsp;
+                佐賀県三養基郡上峰町大字坊所383番地1&nbsp;&nbsp;<br />
+                電話番号:<span class="tel"><span class="teltoon"><a href="tel:0952-52-2181">0952-52-2181</a></span><span class="teltooff">0952-52-2181</span></span>&nbsp;&nbsp;
+                Fax:0952-52-4935&nbsp;&nbsp;
+                
+            </p>
+        
+        <div class="clear"></div>
+        <!-- フッターボタン -->
+    
+        
+        
+<div class="clear"></div>
+</div></div>
+
+<div class="clear"></div>
+<div id="footerMenu">
+<!-- 問合せ先 -->
+
+        <ul id="footertextlink">
+            <li><a href="//www.town.kamimine.lg.jp/list00195.html">交通アクセス</a></li>
+            <li>｜</li>
+            <li><a href="//www.town.kamimine.lg.jp/list00575.html">プライバシーポリシー</a></li>
+            <li>｜</li>
+            <li><a href="//www.town.kamimine.lg.jp/dynamic/link_m/pub/default.aspx?c_id=22">リンク集</a></li>
+            <li>｜</li>
+            <li><a href="//www.town.kamimine.lg.jp/sitemap.html">サイトマップ</a></li>
+        </ul>
+        <div class="clear"></div>
+</div>
+
+
+</div>
+<!-- copyright -->
+<div id="cp" lang="en">
+    Copyright(c)2020 Town Kamimine All Rights Reserved
+</div>
+
+<!-- site info end -->
+</div>
+<!-- allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+    </div><!-- タブバー表示 右枠 end -->
+</div><!-- タブバー表示 全体枠 end -->
+
+<!-- おすすめ情報 -->
+<!-- OsusumeBan start -->
+
+<div id="osusumeban_area" style="display:none;">
+    <div id="osusumebanList" style="display:none;">
+        <ul id="osusumebanItems"><li></li></ul>
+    </div>
+    <div id="osusumebanBtn">
+        <a href="javascript:void(0);"><img src="https://www.town.kamimine.lg.jp/dynamic/common/images/osusumeban/btn_osusume.png" alt="上峰町のおすすめ" title="" /></a>
+    </div>
+</div>
+<input type="hidden" name="ctl00$OsusumeBan$HidErrMsg" id="ctl00_OsusumeBan_HidErrMsg" />
+<!-- OsusumeBan end -->
+
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.town.kamimine.lg.jp/dynamic/common/js/ajaxcalforie6.js"></script>
+
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 480;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.town.kamimine.lg.jp/dynamic/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.town.kamimine.lg.jp/dynamic/";
+            fn.topFlg = "False";
+            fn.topCategoryRootFolder = "";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+                var prm = {
+                    "top_id": "",
+                    "dspTopFlg": "OFF"
+                }
+                setFloatHeader(prm, "//www.town.kamimine.lg.jp/dynamic/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.town.kamimine.lg.jp/dynamic/common/images/top1/black-mozi-m.gif", off: "https://www.town.kamimine.lg.jp/dynamic/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.town.kamimine.lg.jp/dynamic/common/images/top1/black-mozi-l.gif", off: "https://www.town.kamimine.lg.jp/dynamic/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

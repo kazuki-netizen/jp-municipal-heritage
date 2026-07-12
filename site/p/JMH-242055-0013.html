@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>照源寺山門 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>照源寺山門</h1>
+    <p class="jmh-id">JMH-242055-0013</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>建造物</dd>
+      <dt>指定年月日</dt><dd>1961-11-13</dd>
+      <dt>所在地</dt><dd>東方1350番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1宇／形状:棟高7ｍ10ｃｍ、軒先高4ｍ10ｃｍ／年代:寛永元年（1624）／所有者:照源寺／管理者:照源寺。単層切妻4脚門、屋根本瓦葺、ケヤキ造、中央1対の本柱は丸柱、他の4本の控柱は角柱、石造の礎盤を用う。 当時の寺籍財産目録には｢表門木造瓦葺、梁行弐間、桁行弐間半、五坪、建坪寛永元年（1624）、松平隠岐守定行侯｣と記してある。 寛永元年は桑名城主松平定勝公逝去、当山に埋葬し、菩提のためその子定行が当寺を創建、東海山泥おん院（ないおんいん）崇源寺と称した。 寺号崇源寺は寛永3年、将軍秀忠の夫人逝去し、法号を崇源院殿と称したので、憚って照 源寺と改称した。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/054.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/054.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"照源寺山門" (JMH-242055-0013), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.069584, 136.678665], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.069584, 136.678665]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "c0bacf37e55829e9": {
+    "url": "https://www.town.kuroshio.lg.jp/pb/cont/machi-opendate/26597",
+    "filename": "c0bacf37e55829e9.html",
+    "sha256": "b1bd86a92d47b70653870d621309ae4db4fc38ad74035bf62ee53a595f590685",
+    "fetched_at": "2026-07-12T07:44:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "446693958a828bd0": {
+    "url": "https://www.town.kuroshio.lg.jp/img/files/yakuba/kyoikusinkokeikaku%20tyukanminaosi.pdf",
+    "filename": "446693958a828bd0.pdf",
+    "sha256": "b08e882b0a028a6f5e6573f66a6a8ced25738496437de5bd3052bff376b43ad8",
+    "fetched_at": "2026-07-12T07:44:02Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

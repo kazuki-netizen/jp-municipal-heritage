@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>射和文庫関係資料 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>射和文庫関係資料</h1>
+    <p class="jmh-id">JMH-242047-0129</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>2009-03-11</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:県：1,355種2,968点　市：7種14点及び1点／江戸時代～明治時代／射和町　個人／県：平成21年3月11日　市：昭和56年10月16日。射和文庫は、竹川竹斎が嘉永7年（1854）に私財を投じて創設した私立図書館である。往時、蔵書数は親戚・知人からの献本もあって1万冊余りに及んだというが、明治以降散逸し、現在ではおよそ3,000点を蔵する。
+　蔵書中特筆すべきものとして、室町時代の写本『日本書紀神代巻残本』、国学者本居宣長・荒木田久老等の自筆稿本類、勝海舟と竹斎の交友を物語る資料、竹斎の著書・日記類があげられる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/izawabunko.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/izawabunko.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"射和文庫関係資料" (JMH-242047-0129), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

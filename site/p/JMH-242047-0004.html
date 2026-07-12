@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>薬師寺本堂並びに仁王門 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>薬師寺本堂並びに仁王門</h1>
+    <p class="jmh-id">JMH-242047-0004</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1952-01-26</dd>
+      <dt>所在地</dt><dd>船江町　薬師寺</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:2棟／本堂：承応2年（1653）、仁王門：江戸時代／船江町　薬師寺／本堂：寄棟造、本瓦葺、仁王門：入母屋造、本瓦葺／昭和27年1月26日。本堂は正面3間、側面4間、寄棟造、本瓦葺の簡素な小堂。背面と左側面に半間を軒下に張出して仏壇、物置等に充てている。前面と側面前端に縁を設け、前面に1間の向拝を付ける。内部は前面1間を外陣とし、内陣との境には円柱を立てている。 仁王門は、地方寺院には珍しい仁王像を安置した三間一戸の楼門で、入母屋造、本瓦葺。礎石上に円柱を立て、貫で柱をつなぎ、上下層それぞれの出三斗組の上は一階は勾欄(こうらん)つき廻縁を、二階は二軒繁垂木(ふたのきしげたるき)の軒を支える。木割(きわり)は全体に細い。 天台宗に属する薬師寺は、聖武天皇の勅願所で、天平2年（730）行基の開基と伝え、その後文治3年（1187）後鳥羽天皇の御願により再興、寺盛大いに振ったというが、天正年間の兵乱で灰燼に帰した。中興四世良海は紀州藩祖徳川頼宣の帰依を受けて寺運を開き、本堂・仁王門・庫裏(くり)・客殿等を整えたといわれる。本堂について</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/yakushijihondo-niomon.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/yakushijihondo-niomon.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"薬師寺本堂並びに仁王門" (JMH-242047-0004), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.590714, 136.521286], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.590714, 136.521286]).addTo(m);
+  </script>
+</body>
+</html>

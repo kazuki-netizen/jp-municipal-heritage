@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>翠関雑記 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>翠関雑記</h1>
+    <p class="jmh-id">JMH-242055-0059</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>典籍</dd>
+      <dt>指定年月日</dt><dd>1983-09-13</dd>
+      <dt>所在地</dt><dd>京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:14冊／形状:縦２７.２cm、横１９.５cm／年代:江戸時代／所有者:桑名市博物館／管理者:桑名市博物館。紙本墨書・袋綴/東里翠山筆 東里翠山（1786-1867）は桑名藩重臣吉村宣浚の号で、翠関、翠隠等とも号した。 翠山は昌平校に学び藩の執政となったが、文化の頃隠退して風流を楽しんだ。 これは、翠山が見聞したこと等を記したもので、藩政、藩主の事跡、郷土誌、典籍、漢籍、神道、仏典、兵学、民俗、芸能、本草、音曲、書画など広い範囲を対象としている。 第一冊は文政七年（1824）、第二冊は文政九年（1826）、第三冊は文政十一年（1828)、第四 冊は天保二年（1831）、、第五冊は天保五年（1834）、第六冊第七冊は天保九年（1838）、第八冊は天保十年（1839）、第十一冊は天保十二年（1841）、第十二冊は弘化二年（1845）の紀年があり、第九冊十冊十三冊十四冊は奥書きが無いので成立年は不明である。 また、各冊に｢写来手自校｣「桑名東里翠山家蔵」の朱方印がある。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/110.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/110.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"翠関雑記" (JMH-242055-0059), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

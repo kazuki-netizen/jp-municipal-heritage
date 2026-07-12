@@ -1,0 +1,18 @@
+{
+  "f7711e1ad5d01aa8": {
+    "url": "https://www.city.kanzaki.saga.jp/main/394.html",
+    "filename": "f7711e1ad5d01aa8.html",
+    "sha256": "6894f8d26e1c39b5e90ecda9669a47da4dfa2708df50e942dabbd2dcb7657d1f",
+    "fetched_at": "2026-07-12T08:33:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d2b95b4256d708a5": {
+    "url": "https://www.kanzaki-museum.com/frmAboutDetail3.aspx",
+    "filename": "d2b95b4256d708a5.html",
+    "sha256": "e6c80a9ab29e031cd759f417ecf243ef724a63dc7efaf5b2f64f0b4ad73ee9db",
+    "fetched_at": "2026-07-12T08:33:39Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

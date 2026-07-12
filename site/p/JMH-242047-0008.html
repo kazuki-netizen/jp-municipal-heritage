@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>木造大日如来坐像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>木造大日如来坐像</h1>
+    <p class="jmh-id">JMH-242047-0008</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1953-12-08</dd>
+      <dt>所在地</dt><dd>上川町高田338　大日寺</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1躯／平安時代／上川町高田338　大日寺／像高95cm、檜材／昭和28年12月8日。像高九十五・〇センチを測り、智拳印（ちけんいん）を結ぶ金剛界大日如来像である。宝冠（ほうかん）・胸飾・臂釧（ひせん）・腕釧​（いずれも後補）を身に着け、条帛（じょうはく）・裙を着用して蓮台上に結跏趺坐（けっかふざ）する。 制作時期は平安時代後期と推定される。像表面は古色仕上げとし、ヒノキと思われる針葉樹で制作されており造像当初の造形骨格をよく残しているが、頭部の一部や両手先など複数箇所に後世の補修痕も確認される。 顎をやや上げて目線を下方に合わせる頭部や薄めに表現された胸部、全体的に浅めに彫り出された衣文など、随所に平安時代後期の作例に共通する造形を示す。また、穏やかにあらわされた面貌には、当代に流行を見せた定朝様（じょうちょうよう）が看取される。松阪市域に残る密教彫像の優作。 本像は古来、役牛馬の安全守護を司る仏として、近在農家の尊崇があつかった。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/mokuzodainitinyoraizazo.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/mokuzodainitinyoraizazo.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"木造大日如来坐像" (JMH-242047-0008), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.551132, 136.560654], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.551132, 136.560654]).addTo(m);
+  </script>
+</body>
+</html>

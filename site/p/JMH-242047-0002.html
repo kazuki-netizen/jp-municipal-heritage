@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>木造増長天立像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>木造増長天立像</h1>
+    <p class="jmh-id">JMH-242047-0002</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1952-01-26</dd>
+      <dt>所在地</dt><dd>船江町　薬師寺</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1躯／平安時代／船江町　薬師寺／像高106cm、檜材、一木造／昭和27年1月26日。本尊の右側の像で、持国天立像と法量・材質・造形感覚がきわめて類似し、もともと一具として造られたものであろう。両像は顔の方向、手の動作、腰のひねりに相呼応するものがあって、四天王像のうち2体が残ったものと考えるより、当初より二天彫像として造られたものではなかろうか。プロポーションは持国天立像とかわりないが、口を阿形に開き、眉尻をつり上げた憤怒相もどこかにおかしさを秘め、腹部の太帯をかむ獅噛(しがみ)の大きな顔の彫出にも滑稽さを伴う。 全体の相好、構造、造形手法から持国天立像とともに本像は、本尊と同時期の平安時代初期の作と推定される。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/mokuzozochotenryuzou.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/mokuzozochotenryuzou.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"木造増長天立像" (JMH-242047-0002), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.590714, 136.521286], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.590714, 136.521286]).addTo(m);
+  </script>
+</body>
+</html>

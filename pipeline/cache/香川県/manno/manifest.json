@@ -1,0 +1,18 @@
+{
+  "9f1ec2cf0bff0ff0": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/",
+    "filename": "9f1ec2cf0bff0ff0.html",
+    "sha256": "baf1721642f4cffd7ce8a5a525c21dd1832b266ff8f1ddd4d276091ca50ff7b8",
+    "fetched_at": "2026-07-12T07:30:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "189691ab8831b56a": {
+    "url": "https://www.town.manno.lg.jp/uploaded/attachment/3979.pdf",
+    "filename": "189691ab8831b56a.pdf",
+    "sha256": "9ddc36163fc29ed5c9ea568ee746451099a1b802ef1a6cca3098f4c5686a8872",
+    "fetched_at": "2026-07-12T07:30:18Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

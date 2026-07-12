@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>古萬古　赤絵人物文水盤 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>古萬古　赤絵人物文水盤</h1>
+    <p class="jmh-id">JMH-242055-0084</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>工芸品</dd>
+      <dt>指定年月日</dt><dd>1990-08-07</dd>
+      <dt>所在地</dt><dd>京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1口／形状:径:34.5㎝　厚:9.3cm／所有者:桑名市博物館／管理者:桑名市博物館。古萬古の創始者である沼波弄山(1718～1777)は、桑名船馬町に邸宅を持ち、江戸に店を構える商人であった。 本名を五左衛門という。 弄山は、茶道を学び、京都の尾形乾山に陶法を学び、桑名藩領内小向村(現在の三重郡朝日町小向)に窯を造り、萬古焼を始めた。 宝暦の頃には江戸へ移り、小梅に窯を造り、将軍家の御用を命じられるようになった。 ｢萬古｣は、｢萬古不易｣(いつまでも変わらない)から名付けられ、弄山のものを｢古萬古｣、江戸へ出 てからのものを｢江戸萬古｣と呼ぶ。 また、弄山の没後、小梅窯を継いだ弄山の番頭、安達新兵衛のものも｢古萬古｣に含む。 水盤は、盆石又は生花等に用いる器である。 器の周縁に配された文様は中国風で円窓の中に唐子人物、山水青海波等を描く方法は弄山が好んで用いたものである。 底の印は｢萬古｣の凸印である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/013.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/013.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"古萬古　赤絵人物文水盤" (JMH-242055-0084), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "a6f040bd327c82f9": {
+    "url": "https://www.miyoshi.i-tokushima.jp/education/docs/2022060800022.html",
+    "filename": "a6f040bd327c82f9.html",
+    "sha256": "4fca38fd1c75d37744a3cdc12a253c3f45c9a7f1e03a9ab3e57d3901574bddb9",
+    "fetched_at": "2026-07-12T07:35:08Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5e004df1280ae145": {
+    "url": "https://www.miyoshi.i-tokushima.jp/fs/5/6/9/0/3/3/_/%E4%B8%89%E5%A5%BD%E5%B8%82%E6%96%87%E5%8C%96%E8%B2%A1%E4%B8%80%E8%A6%A7%E5%85%AC%E9%96%8B%E7%89%88%28R6.4.1%E7%8F%BE%E5%9C%A8%29.pdf",
+    "filename": "5e004df1280ae145.pdf",
+    "sha256": "ad89fea2540533909bd29198a3f0d7f211d1af49f4cb4255aeb806e7c6c4e23d",
+    "fetched_at": "2026-07-12T07:35:10Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

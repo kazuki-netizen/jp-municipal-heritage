@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>本願寺の梅花佛鑑塔 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>本願寺の梅花佛鑑塔</h1>
+    <p class="jmh-id">JMH-242055-0055</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1977-03-22</dd>
+      <dt>所在地</dt><dd>東鍋屋町72番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:8基／形状:高さ138ｃｍ、幅73ｃｍ、奥行60ｃｍ／年代:支考の没後、１３回忌法要に際し、享保１６年（1731）／所有者:本願寺／管理者:光明寺。梅花仏、一名鑑塔は俳聖松尾芭蕉の門人の各務支考（俳号獅子庵、東華坊など)の分骨供養塔である。 支考はいうまでもなく蕉門十哲の1人で、美濃派の創始者であり、美濃国だけに限らず近国に多数の門弟を抱えていた。 支考は宝永8年(1711)に佯死(ようし)して、住んでいた同国山県郡北野村(現岐阜市山県北野)の獅子庵に自分の墓を建てた。 この墓は各務の姓にちなんで、円形の鏡を模しており、鑑塔と称した。 支考が実際に死んだのは享保16年（173 1）である。 この頃桑名では美濃派の俳諧が流行しており、その指導的立場にあったのは支考の直門の雲裡坊杉夫(別号有権坊）であって、彼は桑名本願寺住職を務めていたと思われる。 そして彼は師支考の没後に、その人物を片田舎に埋もれさせることを惜しみ、分骨を受けて北伊勢の門人たちの手により本願寺に鑑塔を建立し、「桑名万句」を編するなどして支考の霊を供養するとともに、東海道</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/112.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/112.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"本願寺の梅花佛鑑塔" (JMH-242055-0055), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.055771, 136.688583], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.055771, 136.688583]).addTo(m);
+  </script>
+</body>
+</html>

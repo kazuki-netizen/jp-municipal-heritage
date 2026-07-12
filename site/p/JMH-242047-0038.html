@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>槍　銘勢州松坂住兼房作 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>槍　銘勢州松坂住兼房作</h1>
+    <p class="jmh-id">JMH-242047-0038</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1970-06-05</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1本/江戸時代/殿町　個人/長さ17cm/昭和45年6月5日。両鎬(りょうしのぎ)造り、鍛えは小板目少し白ける。刃文は直刃調互(ぐ)の目乱れ、表鎬の上に棒樋(ほうひ)、裏護摩箸(うらごまばし)の彫りがある。江戸時代初期の作品である。銘「勢州松坂住兼房作」。
+　作者兼房は美濃国関の出身、松阪鍛冶町（日野町八雲通）に住み、槍を得意とした刀工であるが、やがて再び関に移住したという。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/yari-kanehusa.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/yari-kanehusa.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"槍　銘勢州松坂住兼房作" (JMH-242047-0038), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

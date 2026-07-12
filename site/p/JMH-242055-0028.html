@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>森陳明之墓 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>森陳明之墓</h1>
+    <p class="jmh-id">JMH-242055-0028</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1966-11-22</dd>
+      <dt>所在地</dt><dd>伝馬町53番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1基／形状:１４０cm／年代:明治時代／所有者:十念寺／管理者:十念寺。正面「森陳明之墓」(松平定敬書)、三面に墓銘あり(明治八年十月高松徳重撰、江間政発書)。 この墓を建てた若槻陳義は森陳明の長男、父姓森氏を避け若槻氏に復した。 十念寺門前には仰忠会による「桑名義士森陳明翁墓所」(昭和8年)碑がある。 戦後墓地を横断する道路ができたため、この墓地は道を隔てた一角になり、また昭和44年築土し施工されて、森家の墓所にまとめられた。 桑名藩士森陳明（つらあき）は、松平定敬侯京都所司代に在職中、公用人として 公を助け、勤王佐幕のことに心を砕き、戊辰戦争当時は、公に従って函館に立て籠ったが、敗れてのち、朝廷は桑名藩より反逆の主謀者を出だせと命じた時、陳明進んで全藩に代わって出頭し、明治２年１１月１３日東京深川藩邸で死に就いた。 年44歳、法号智勇院清挙忠誠義剣居士。 九華公園には、別に殉難旌節の「精忠苦節」の碑がある。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/009.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/009.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"森陳明之墓" (JMH-242055-0028), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.056892, 136.689392], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.056892, 136.689392]).addTo(m);
+  </script>
+</body>
+</html>

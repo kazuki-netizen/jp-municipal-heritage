@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>拾弐郷井堰関係文書　附木造櫃 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>拾弐郷井堰関係文書　附木造櫃</h1>
+    <p class="jmh-id">JMH-242161-0202</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>伊賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡・典籍・古文書</dd>
+      <dt>指定年月日</dt><dd>1996-03-26</dd>
+      <dt>所在地</dt><dd>三重県伊賀市上野丸之内</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数:345通 附1合。時代:江戸～大正時代。所有者:伊賀市。十二郷（寺田・高畑・羽根・服部・印代・千歳・一之宮・東条・西条・坂之下・山神・土橋村）の耕地を灌漑するため服部川に設けられた井堰「二之井」に関係する文書である。江戸期から大正期にかけての井堰に関する水利慣行や用水維持、代替水源である溜池の保守管理について記され、江戸初期から幕末まで繰り返された上流に取水口（一之井）をもつ荒木・西明寺村との水論の様子についても知ることができる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank" rel="noopener">https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d</a><br>
+      形式: opendata &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"拾弐郷井堰関係文書　附木造櫃" (JMH-242161-0202), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.769566, 136.128784], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.769566, 136.128784]).addTo(m);
+  </script>
+</body>
+</html>

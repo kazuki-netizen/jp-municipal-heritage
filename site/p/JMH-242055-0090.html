@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>桑名切付（馬具） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>桑名切付（馬具）</h1>
+    <p class="jmh-id">JMH-242055-0090</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>工芸品</dd>
+      <dt>指定年月日</dt><dd>1994-01-15</dd>
+      <dt>所在地</dt><dd>京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1式／形状:鞍（一背）前輪高28.3cm、居木長39.5cm　　居木幅9.5cm切付（一双）縦27cm、横40.5cm、厚2cm（縁）／2.8cm（中央）、笄金長25.5cm／年代:江戸（元禄頃）／所有者:桑名市博物館／管理者:桑名市博物館。｢切付(きっつけ)｣とは、馬具の一種で鞍と馬膚が直接触れないようにするためのものである。 江戸時代の書物には桑名の名産の一つに｢伊勢切付｣｢桑名切付｣と記されているが、その実態は長く不明であった。 松本家所蔵の馬具一式の中に｢勢州桑名住吉安弥兵衛重次｣の銘のある皮製品が見つかり、江戸時代に成立した『絵本名物桑名時雨蛤』等にある｢新町の吉安弥兵衛、京町の理左衛門が切付を作り藩主に賞された｣記事と合致するため、現物として確認された。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/015.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/015.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"桑名切付（馬具）" (JMH-242055-0090), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

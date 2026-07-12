@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>有王塚　付　俊寛塚 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>有王塚　付　俊寛塚</h1>
+    <p class="jmh-id">JMH-242055-0018</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1965-11-24</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:2基／年代:大正7年（1918）。近鉄益生(ますお)駅裏に、石垣に囲まれて塚がある。 石造の小祠、正面に句碑｢塚になけわが泣くあとを友千鳥 句仏」、裏に｢有王者俊寛侍者也 少尋師絶島事生収骨行脚没 桑名里人塚之此是也 大正十四年十二月十二日｣、前者は天春静堂(俳人)、後者は大谷句仏。 何れも俳人静堂氏が、この塚の荒廃を惜しんで修築し、 静堂をめぐる桑名の俳人たちによって句碑を建て、また有王講という保存会を創った。 思うにこれは平家物語に登場する俊寛僧都の関連するものであるが、平家物語に有王という侍童は述べられていない。 潤色されて有王が登場するのは後代の俗書である。 この地には往昔&amp;#x4473;崇(りんそう)寺があって、また付近に塚が多く、後年&amp;#x4473;崇寺によって有王伝説が流布されたようである。 即ち俊寛の侍童有王丸が、流罪中の俊寛を鬼界ヵ島に訪ね、師の骨を抱いて高野に収めるために行脚中 、&amp;#x4473;崇寺門</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/002.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/002.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"有王塚　付　俊寛塚" (JMH-242055-0018), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.062222, 136.683884], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.062222, 136.683884]).addTo(m);
+  </script>
+</body>
+</html>

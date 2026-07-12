@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>三町石取祭行事
+さんちょういしどりまつりぎょうじ — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>三町石取祭行事
+さんちょういしどりまつりぎょうじ</h1>
+    <p class="jmh-id">JMH-242055-0069</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>無形</dd>
+      <dt>指定年月日</dt><dd>1984-11-09</dd>
+      <dt>所在地</dt><dd>萱町、中町、下町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者:長島町萱町・中町・下町自治会／管理者:中町自治会。長島町西外面に所在する稲荷阿岐波神社は、はじめ人杉稲荷大明神と呼ばれ長島城内の西ノ丸南西角、大蔵東藪の中に祠として祀られていた。明和3（1766）年に現在地に遷宮し、 大正3（1914）年10月に境内社として花林院門前にあった稲荷神社が合祀された。 この稲荷社の祭礼が、萓町・中町・下町の三町が行事に参加をする三町石取祭である。 祭礼の起源は、神社の玉垣の敷石を一年に一度更新するために、美しい石を町屋の川から拾い採ってきたのが始まりとされ、江戸時代末期頃から大祭として行われるようになった。毎年7月に行われ、叩き出し祭事、本楽祭事等があり、とても賑わう。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/143.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/143.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"三町石取祭行事
+さんちょういしどりまつりぎょうじ" (JMH-242055-0069), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.05838, 136.69191], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.05838, 136.69191]).addTo(m);
+  </script>
+</body>
+</html>

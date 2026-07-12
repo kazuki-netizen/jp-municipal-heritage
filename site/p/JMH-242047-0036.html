@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>銅鏡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>銅鏡</h1>
+    <p class="jmh-id">JMH-242047-0036</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1962-11-15</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1面/平安時代/曽原町　法性寺/直径12月2日センチ　縁高1月2日センチ/昭和37年11月15日。縁は直角式の中縁に近いが、内側には傾斜がある。裏面の鈕(ちゅう)の回りには鴛鴦(おしどり)が配置され、その周囲を唐草文で埋める。鏡面には三尊仏の毛彫りがあり、中央に阿弥陀如来、左に千手観音、右に薬師如来を配する。阿弥陀如来の上には天蓋があり瓔珞(ようらく)の表現がある。
+　鏡面は毛彫りの後に研磨され、三尊仏は不鮮明な箇所がある。鏡は全体として歪んでいる。経塚などの埋納物であったものが、何らかの理由によって法性寺へ伝わったものと考えられる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/gokakyo.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/gokakyo.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"銅鏡" (JMH-242047-0036), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

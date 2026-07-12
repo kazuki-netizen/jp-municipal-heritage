@@ -1,0 +1,18 @@
+{
+  "55deeaab1dfcb44c": {
+    "url": "https://www.town.shodoshima.lg.jp/gyousei/kosodate_kyoiku/bunkazai/1/1337.html",
+    "filename": "55deeaab1dfcb44c.html",
+    "sha256": "de8831f1b45d9a1b9ccf7d3e3070537f739ad4f085d536c2b5026766022ab9ba",
+    "fetched_at": "2026-07-12T07:30:02Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a5971977df6079a5": {
+    "url": "https://www.town.shodoshima.lg.jp/material/files/group/26/02_gaiyou.pdf",
+    "filename": "a5971977df6079a5.pdf",
+    "sha256": "61f6505bcbc14e7540335bf60df720a9d76f8222df95adfd9a1a378bf4b89520",
+    "fetched_at": "2026-07-12T07:30:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

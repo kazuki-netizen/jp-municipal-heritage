@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>木造大日如来像（胎蔵界） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>木造大日如来像（胎蔵界）</h1>
+    <p class="jmh-id">JMH-242161-0042</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>伊賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>彫刻</dd>
+      <dt>指定年月日</dt><dd>1969-04-01</dd>
+      <dt>所在地</dt><dd>三重県伊賀市甲野</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数:1躯。時代:室町時代。所有者:極楽寺。寄木造。頭部は宝髻を結い宝冠を戴き、白毫相を表す。体部は条帛を懸け、裙を纏い、首から瓔珞を附ける。両臂には臂釧を着け智拳印を結ぶ。やや大振りの蓮弁の蓮華座に結跏趺坐する。全面金泥塗りで、宝髪や両手・両膝部に江戸期の補修が確認できる。『伊水温故』（県指定文化財）には「本尊両部大日」として「金剛ハ牛ニ乗」「胎蔵ハ蓮坐」とあり、「二尊座像恵心作」と記されている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank" rel="noopener">https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d</a><br>
+      形式: opendata &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"木造大日如来像（胎蔵界）" (JMH-242161-0042), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.775543, 136.228424], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.775543, 136.228424]).addTo(m);
+  </script>
+</body>
+</html>

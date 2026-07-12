@@ -1,0 +1,18 @@
+{
+  "376a85d9e9aec3b2": {
+    "url": "https://www.town.tobe.ehime.jp/soshikikarasagasu/shakaikyouikuka/bunka/574.html",
+    "filename": "376a85d9e9aec3b2.html",
+    "sha256": "dc12632765b3dd5ff6ebd48a91594bfad574005bc03268f6d01def19595ad360",
+    "fetched_at": "2026-07-12T07:38:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f565b129f0377850": {
+    "url": "https://www.town.tobe.ehime.jp/material/files/group/16/20428.pdf",
+    "filename": "f565b129f0377850.pdf",
+    "sha256": "ce2b1c92abdd8c537a7273e066f1a28d9c14dd17623df4e8a11a5c85982f8889",
+    "fetched_at": "2026-07-12T07:38:47Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

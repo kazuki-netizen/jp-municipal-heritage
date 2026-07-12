@@ -1,0 +1,18 @@
+{
+  "e3bd7e08706e1249": {
+    "url": "https://www.town.minami.lg.jp/docs/2731798.html",
+    "filename": "e3bd7e08706e1249.html",
+    "sha256": "82fd5fe9d0e2804a3e84004c57f50cb73016f92c5ad7ab70777018594b00c734",
+    "fetched_at": "2026-07-12T07:35:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "845d2c4c4b63bd2e": {
+    "url": "https://www.town.minami.lg.jp/fs/5/9/8/9/3/8/_/%E7%BE%8E%E6%B3%A2%E7%94%BA%E6%96%87%E5%8C%96%E8%B2%A1%28%E7%94%BA%E6%8C%87%E5%AE%9A%29.pdf",
+    "filename": "845d2c4c4b63bd2e.pdf",
+    "sha256": "ef91740879bc622f1d51fa5bdccf469b4ef3e52e51e1ad7b211409f6743144ef",
+    "fetched_at": "2026-07-12T07:35:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

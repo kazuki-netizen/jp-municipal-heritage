@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>銅鐘　天命図書安次作 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>銅鐘　天命図書安次作</h1>
+    <p class="jmh-id">JMH-242047-0027</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1962-03-08</dd>
+      <dt>所在地</dt><dd>伊勢寺町　横滝寺</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1口／慶安元年（1648）／伊勢寺町　横滝寺／総高101cm、口径85cm、銅造／昭和37年3月8日。上蛸路町の鋳物師天命図書安次作の梵鐘としては、現存する中では最古のものであり、銘により慶安元年の製作である。天命氏は常陸国の出身といわれ、室町時代には茶釜等の鋳造を盛んに行い、今でも「天命釜」は茶人の間では幻の名品とさえいわれている。 横滝寺は浄土宗に属し、伊勢寺町龍泉寺の末寺。境内に湧き出る霊泉は、眼病に効くといわれ、眼の仏様として知られている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/dousyo-yokotakidera.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/dousyo-yokotakidera.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"銅鐘　天命図書安次作" (JMH-242047-0027), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.564381, 136.4655], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.564381, 136.4655]).addTo(m);
+  </script>
+</body>
+</html>

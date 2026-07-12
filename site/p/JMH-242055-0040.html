@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>芭蕉「野ざらし紀行」跡白魚句碑等 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>芭蕉「野ざらし紀行」跡白魚句碑等</h1>
+    <p class="jmh-id">JMH-242055-0040</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1968-02-20</dd>
+      <dt>所在地</dt><dd>地蔵</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:6基／形状:①400×150×21②149×65×14③130×90×34④63×85×25⑤66×120×22⑥61×40×20高さ×幅×厚さ(cm)／年代:昭和41年(1966)3月／所有者:地蔵自治会／管理者:地蔵自治会。地蔵地区揖斐川堤防裏法面にコンクリートブロックで築かれた台地は8m×6.5m（52㎡)で、入口に空地をとり、句碑群をブロック塀で取り囲んでいる。 内部は築山に樹木を植え、句碑４基、塚１基、庚申塔１基、計６基をあしらい、入口に高さ2.5mの史跡碑1基がある。 当史跡地は明治後期までは揖斐川河中に突き出たところにあって、郊外の絶景地であり、白魚漁の中心地をなし、地蔵堂境内には灯台の設備もあった。 しかしながら明治中期からの河川改修と共に新し い堤防ができると、地蔵堂も堤防上に、庫裡その他は堤防下に移った。 「野ざらし紀行」の芭蕉が木因(ぼくいん)と共に、貞享元年(1684)の冬、この地に遊んで名句を残したところも上述の地で、現在は河中に没している。 明治36年に(この頃、全国的に句碑建立が流行したという）は、この地蔵堂横に新しく白魚句碑(桑名間遠社建立)ができ、以前からの白魚塚、千鳥句碑、庚申</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/092.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/092.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"芭蕉「野ざらし紀行」跡白魚句碑等" (JMH-242055-0040), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.053257, 136.703613], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.053257, 136.703613]).addTo(m);
+  </script>
+</body>
+</html>

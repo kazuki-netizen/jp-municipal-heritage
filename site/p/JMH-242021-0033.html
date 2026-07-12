@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>椿岸神社獅子舞 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>椿岸神社獅子舞</h1>
+    <p class="jmh-id">JMH-242021-0033</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1992-06-30</dd>
+      <dt>所在地</dt><dd>智積町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者:（管理者） 椿岸神社獅子舞保存会。椿岸神社の獅子舞は、椿神社（鈴鹿市）山本流と関係が深く、両者の獅子頭は同木で造られた兄弟獅子で、椿岸神社が姉、椿神社が妹であるといわれています。また、山本の獅子が菰野に行くときには、智積町西方の「獅子コバ」というところで「四方ザシの舞」を行うことになっていたといい、舞年には椿岸神社で「五段の舞」を奉納していたといいます。現在では、毎年10月の椿岸神社の大祭の時に行われています。演目は初段の舞、起こしの舞、すら舞、扇の舞、逆手（さかて）の舞、背負いの舞、追立ての舞、扇起こしの舞、捨扇の舞、鳥さしの舞、子じしの舞、お湯立ての舞、花の舞の13種類です。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002671/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002671/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"椿岸神社獅子舞" (JMH-242021-0033), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.987648, 136.546921], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.987648, 136.546921]).addTo(m);
+  </script>
+</body>
+</html>

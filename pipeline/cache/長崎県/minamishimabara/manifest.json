@@ -1,0 +1,18 @@
+{
+  "d3bbbd924da1cfa4": {
+    "url": "https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034732/index.html",
+    "filename": "d3bbbd924da1cfa4.html",
+    "sha256": "f3a984ecaa4d7bc36c4c941c8f603d754b70da890dce1b4d7af924580d9783da",
+    "fetched_at": "2026-07-12T08:53:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "af67da6bf483f680": {
+    "url": "https://www.city.minamishimabara.lg.jp/kyouiku/list00622.html",
+    "filename": "af67da6bf483f680.html",
+    "sha256": "530aa6e57819a7be03e8fb312e56a3afe260815a939c2761279bf6daad15ba9b",
+    "fetched_at": "2026-07-12T08:53:58Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

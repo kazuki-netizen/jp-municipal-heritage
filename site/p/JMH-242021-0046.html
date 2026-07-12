@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>茶臼山古墳群出土品（須恵器群・埴輪群） — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>茶臼山古墳群出土品（須恵器群・埴輪群）</h1>
+    <p class="jmh-id">JMH-242021-0046</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財（考古資料）</dd>
+      <dt>指定年月日</dt><dd>2006-02-23</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者:四日市市教育委員会 材質 須恵器、埴輪 時期 5世紀後半から6世紀初め頃。茶臼山古墳群は、眼下に海岸平野を見晴らす大字泊村の丘陵東縁に所在しています。 4基からなる古墳群で、1号墳を平成9年に、4号墳を平成5年に発掘調査しました。 1号墳は造り出しを有する円墳（前方後円墳の可能性もあります）で、直径30mを測る大型の古墳です。 4号墳の形状、大きさははっきりとしていません。 指定された出土品は、1号墳が須恵器群18点、埴輪群10点で、4号墳が埴輪群4点の合計32点です。 1号墳出土品は造り出しで行われた祭祀に用いられたものと考えられます。須恵器のうち、装飾須恵器の台付四連杯（蓋付）は杯身4個を脚台で連結したもので、非常に珍しいものです。 2個体分出土しました。埴輪に</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002667/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002667/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"茶臼山古墳群出土品（須恵器群・埴輪群）" (JMH-242021-0046), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.965118, 136.624451], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.965118, 136.624451]).addTo(m);
+  </script>
+</body>
+</html>

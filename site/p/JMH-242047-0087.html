@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>旧三重県立工業学校製図室 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>旧三重県立工業学校製図室</h1>
+    <p class="jmh-id">JMH-242047-0087</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1995-12-21</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1棟/明治41年（1908）/殿町　三重県立松阪工業高等学校/木造平屋建、切妻造、桟瓦葺、延241平方メートル/平成7年12月21日。「赤壁(せきへき)」の愛称で知られる松阪工業高校の資料館棟（旧三重県立工業学校製図室）の建物は、明治35年（1902）に開校した県内初の工業学校の製図室として、明治41年に建設費2,400円余りをかけて建設された。建設当初は桁行(けたゆき)8間・梁間(はりま)5間であったが、その後、移築・増築・改修がなされ、現在は桁行14間・梁間5間になっている。内部は2室と廊下で、外観は下見板張と漆喰と木骨の対照を見せるハーフティンバー風の壁面を併用し、木部には赤褐色の塗料を塗る。
+　県内でも、現存する明治期の学校施設として数少ないものの一つであり、伊賀市の旧三重県第三中学校校舎（県指定、現上野高校本館）等とともに、三重県を代表する建物である。また、松阪の近代化を象徴する建物であり、松坂城跡(まつさかじょうあと)から旧松坂御城番長屋(まつさかごじょうばんながや)・殿町の武家屋敷群にいたる歴史的景観と一体化した建物である。
+　以上のように、この建物は松阪の近代化の息吹を伝えるものとして、また明治後期の三重県の公共施設の作風をとどめるものとして、貴重なものである。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/seizusitu-kyukougyokoko.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/seizusitu-kyukougyokoko.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"旧三重県立工業学校製図室" (JMH-242047-0087), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

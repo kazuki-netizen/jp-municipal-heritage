@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>旧多度町議会関係資料 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>旧多度町議会関係資料</h1>
+    <p class="jmh-id">JMH-242055-0110</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>2016-03-30</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>年代:明治22年度～昭和29年度。《由 来》 明治維新以降、廃藩置県による県の統廃合や大小区制などの地方行政単位の変革をへて、明治22年に市町村制が施行され、 桑名郡は１町15村に整理・統合された。江戸時代の村でいけば、多度村・小山村・戸津村・柚井村・肱江村の範囲が、多度村として新たに誕生した。 その多度村が誕生して以後、欠本となっている明治29年度分を除き各年度の多度村役場村会書類として残されている。 昭和の大合併により、野代村の資料も、昭和28・29年分のみ（３冊）残されている。多度町となってからも資料はそのまま引き継がれ、多度町議会もあわせて伝存している。 近年、三重県庁文書が県指定文化財になるなど近代文書を保存し指定する機運が高まっている。 その中で、旧多度町役場に残されている、多度村役場村会書類は明治22年の市町村制施行から現代にいたるまでの資料が１年の欠落を除きすべて残されている貴重な資料群である。 この資料群</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/157.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/157.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"旧多度町議会関係資料" (JMH-242055-0110), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.062222, 136.683884], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.062222, 136.683884]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>来迎寺裏門 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>来迎寺裏門</h1>
+    <p class="jmh-id">JMH-242047-0074</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1988-04-26</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1棟／江戸時代／白粉町　来迎寺／切妻造、本瓦葺／昭和63年4月26日。一間一戸の薬医門。主柱は長方形断面で面取りが施され、根巻きがつく。柱上に冠木をのせ、それを上下から挟んで女梁・男梁を組み、男梁の前端で前桁を受け、後端は控柱にかきこみ、それと直交して後桁が組まれる。男梁上には束を立てて棟木を受ける。全く飾り気のない簡素な門であるが、木割りは太く豪壮である。大棟の鬼瓦に「寛永二年（1625）七月吉日伊勢山田乃住人藤わら吉左衛門作」とへら書きがある。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/raikoji-uramon.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/raikoji-uramon.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"来迎寺裏門" (JMH-242047-0074), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>
