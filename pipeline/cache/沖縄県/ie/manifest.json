@@ -1,0 +1,18 @@
+{
+  "12adf3b129717703": {
+    "url": "https://www.iejima.org/document/2021082500026/",
+    "filename": "12adf3b129717703.html",
+    "sha256": "154a3b53328bb409f0ac16b5801564a0035ef8e16d4c186a0410c11a9712e8b9",
+    "fetched_at": "2026-07-12T11:14:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "314bf1817657e077": {
+    "url": "https://www.iejima.org/document/2021082500026/file_contents/culturalassetsHP.pdf",
+    "filename": "314bf1817657e077.pdf",
+    "sha256": "eb862874b68f23b61d3a21f36cb641310802d22e8c76e5a7b41e96ac93ded617",
+    "fetched_at": "2026-07-12T11:14:27Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

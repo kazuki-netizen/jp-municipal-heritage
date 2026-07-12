@@ -1,0 +1,250 @@
+{
+  "fb09ace2d9ef481e": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40015.html",
+    "filename": "fb09ace2d9ef481e.html",
+    "sha256": "bb56b2f65c1feb0c8c394cd7e0d25f0d22509025e61d20d046fa73352c6a8dd4",
+    "fetched_at": "2026-07-12T10:59:08Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4a9968d1d3e98907": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40019.html",
+    "filename": "4a9968d1d3e98907.html",
+    "sha256": "6dc08c1fa013f5e43ce7fcd9626e597d0dc82f9552f02fc890d2cae061fc6c2d",
+    "fetched_at": "2026-07-12T11:20:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2e5b10e6e82dc1a6": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40020.html",
+    "filename": "2e5b10e6e82dc1a6.html",
+    "sha256": "a8aa6511a5394bf6aadba4ba3aa9a5e3203cc569e737fb566bb630e56079511d",
+    "fetched_at": "2026-07-12T11:20:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b1f8d19610730e44": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40021.html",
+    "filename": "b1f8d19610730e44.html",
+    "sha256": "12da8226bbc2d3ee58344e6208fe5d5f5dd81ac6ae13a33264587fcf9206a845",
+    "fetched_at": "2026-07-12T11:20:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "92fd9448ddf915e9": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40022.html",
+    "filename": "92fd9448ddf915e9.html",
+    "sha256": "0cc5757352f9ddf7a37dd427c65fbdbcc8fefa7c03072b2361700a1fb23e7359",
+    "fetched_at": "2026-07-12T11:20:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e5632d9dc16ccc7e": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40023.html",
+    "filename": "e5632d9dc16ccc7e.html",
+    "sha256": "f6d8641ba64159f8786a66d1abd797359caed9f0eeb537b221c06d94d0a89dd9",
+    "fetched_at": "2026-07-12T11:21:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5d3b867780254e9b": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40024.html",
+    "filename": "5d3b867780254e9b.html",
+    "sha256": "2f2dc0d016bfb11f27eb7ceba3727bebe31dc75a007747e3b7ae0a1327ff5c65",
+    "fetched_at": "2026-07-12T11:21:02Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5977249d1696ad43": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40025.html",
+    "filename": "5977249d1696ad43.html",
+    "sha256": "15940a9a9132fb86d569e131d20ff868ca8007e5b05a7dec4c7c8352c161dba7",
+    "fetched_at": "2026-07-12T11:21:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6d5dd272e9dbe16a": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40026.html",
+    "filename": "6d5dd272e9dbe16a.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T11:21:06Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "63dbe515d2b82466": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40027.html",
+    "filename": "63dbe515d2b82466.html",
+    "sha256": "c084370726189fb5c8d9d93e1ad2735460b62da8b51c9515dc3f46439f5cda44",
+    "fetched_at": "2026-07-12T11:21:08Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a1e08d113e9f8268": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40028.html",
+    "filename": "a1e08d113e9f8268.html",
+    "sha256": "86d998680278bfad9d15b5fc724925c643b7509496537e778d1230fdc81d7ba3",
+    "fetched_at": "2026-07-12T11:21:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c7463b56acef36f0": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40029.html",
+    "filename": "c7463b56acef36f0.html",
+    "sha256": "dfbd752f7f7d18bce264cd55d14bd3227d53ed7a6d00d0cd3ae75503cd125eae",
+    "fetched_at": "2026-07-12T11:21:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2d1a23e23e8bf963": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40030.html",
+    "filename": "2d1a23e23e8bf963.html",
+    "sha256": "feb880d96445a0ab041c3d745525d445ffe3fcd93183e2b702c5866564b61786",
+    "fetched_at": "2026-07-12T11:21:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ea4a4bc9e73a527a": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40031.html",
+    "filename": "ea4a4bc9e73a527a.html",
+    "sha256": "61b573a807f951b6052ec4420852b0f944d47eb8d390822ad42603f4cb1a532a",
+    "fetched_at": "2026-07-12T11:21:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6980af606e93b58d": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40032.html",
+    "filename": "6980af606e93b58d.html",
+    "sha256": "13737c74f163894d03551199ecf344e5b59d72c8533cd391b0b81bd92dbbe072",
+    "fetched_at": "2026-07-12T11:21:18Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "38436c68c8d8d4be": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40033.html",
+    "filename": "38436c68c8d8d4be.html",
+    "sha256": "665547522e4b1f65e673e3c41bc4b733b0cab88cc0cdc93406874bce116da49d",
+    "fetched_at": "2026-07-12T11:21:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dff0f94d91c5a508": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40034.html",
+    "filename": "dff0f94d91c5a508.html",
+    "sha256": "d8854602b6257427eebd2dc983b3b3e2e3bc9d0704479c04efaf4e15a240f9a6",
+    "fetched_at": "2026-07-12T11:21:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "17613ae10e641775": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40035.html",
+    "filename": "17613ae10e641775.html",
+    "sha256": "29e0aee0530f6dd2311942cdc901596c92c0635e014ade9d5cceda56e47836d8",
+    "fetched_at": "2026-07-12T11:21:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "47cd5c7e290a698a": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40036.html",
+    "filename": "47cd5c7e290a698a.html",
+    "sha256": "bdbcd54d33fa7a2433511ef9c088322892bd7cd0d11af277eea92f7651dd4c03",
+    "fetched_at": "2026-07-12T11:21:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d91fd8ce385a59cb": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40037.html",
+    "filename": "d91fd8ce385a59cb.html",
+    "sha256": "23e79afe4cc4e31792414ab180cd4aefd375ce85c5db6c5903bcbc6a4912b860",
+    "fetched_at": "2026-07-12T11:21:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8ea0c045f900ef41": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40038.html",
+    "filename": "8ea0c045f900ef41.html",
+    "sha256": "82f8c304011bcdcfea42e9ca375fe8280563d6dfc354978e53a4335bd09541a4",
+    "fetched_at": "2026-07-12T11:21:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d70d76ea4cfc7220": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40039.html",
+    "filename": "d70d76ea4cfc7220.html",
+    "sha256": "594179151b1c2c0c4fc376cf07c1e2aeaa6e9d38c1bd4744f851b6887543dd6d",
+    "fetched_at": "2026-07-12T11:21:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fd6f560484b1e83c": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40040.html",
+    "filename": "fd6f560484b1e83c.html",
+    "sha256": "d515afaccbfcd741274b3a0cd474af43090064327e2b91cc67bf1280c4d989a2",
+    "fetched_at": "2026-07-12T11:21:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6c1b1407df49168a": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40041.html",
+    "filename": "6c1b1407df49168a.html",
+    "sha256": "933630a323aa19b598f45d9b258eafeb2f8f376a44ac75c3b40981c034b1fda3",
+    "fetched_at": "2026-07-12T11:21:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "707ff55610348657": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40042.html",
+    "filename": "707ff55610348657.html",
+    "sha256": "27bef807d12b8d8495700e0dbabeb567c7d213545c8eeb190e531ba004758b42",
+    "fetched_at": "2026-07-12T11:21:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "216c8c594e98ca99": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40043.html",
+    "filename": "216c8c594e98ca99.html",
+    "sha256": "e30628144dfb7e7d485972017659cea1101f67a920c5e7fe8ab5e13c276777b5",
+    "fetched_at": "2026-07-12T11:21:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8864268d762f89b4": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40044.html",
+    "filename": "8864268d762f89b4.html",
+    "sha256": "a34f0b6a27d05960df5e8fd2e098c860a12f8e85c1a5347df4cd042d000c8067",
+    "fetched_at": "2026-07-12T11:21:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "14f54b28e1e8b49e": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40045.html",
+    "filename": "14f54b28e1e8b49e.html",
+    "sha256": "7e1bb2b604cdf6d187be6a544a3cceffb8c4a9270650a532cfea6b679b7d8557",
+    "fetched_at": "2026-07-12T11:21:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1aefdecf63ca413d": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40046.html",
+    "filename": "1aefdecf63ca413d.html",
+    "sha256": "dac2572fcffb799ce1c4e8c74f2a6a61898634f5b70d6efa8edb483b611b95dc",
+    "fetched_at": "2026-07-12T11:21:46Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "af3384c8dbc31ac3": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40047.html",
+    "filename": "af3384c8dbc31ac3.html",
+    "sha256": "74b35ca02e6b6bd0c28a8ae3a8ef0a4faf9e70649ec4bb38667c4943a360d04f",
+    "fetched_at": "2026-07-12T11:21:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "974f05d562a7f362": {
+    "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_40051.html",
+    "filename": "974f05d562a7f362.html",
+    "sha256": "5d7eac0e0b64d19fca8a81882890eaa5b68bdc6efca298e4457fab2ae350f963",
+    "fetched_at": "2026-07-12T11:21:50Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

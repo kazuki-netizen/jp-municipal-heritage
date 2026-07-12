@@ -1,0 +1,18 @@
+{
+  "573a5aca503a360d": {
+    "url": "https://www.vill.tarama.okinawa.jp/common/uploads/396aa4766653055bb4c4850d8319c8d3.pdf",
+    "filename": "573a5aca503a360d.pdf",
+    "sha256": "bbb0575db357e9f5547685cc2e71a0863fe9ea479e7e942ef9814e0fbd19e4c1",
+    "fetched_at": "2026-07-12T11:15:55Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "e5c8b72d9b479e15": {
+    "url": "https://www.vill.tarama.okinawa.jp/about/shiseki_bunkazai/",
+    "filename": "e5c8b72d9b479e15.html",
+    "sha256": "804e151b00b73821177adb122f960046183704dd3867d790cf055ea869f87a6e",
+    "fetched_at": "2026-07-12T11:15:55Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

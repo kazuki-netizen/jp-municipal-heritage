@@ -1,0 +1,18 @@
+{
+  "4314999f0e6e02ad": {
+    "url": "https://www.city.naha.okinawa.jp/kankou-bunka/bunkazai/1003531/1003520.html",
+    "filename": "4314999f0e6e02ad.html",
+    "sha256": "be3f6cbd4f490f8d0781836be83850989654d4c9e16a3b367246fd9b8addb693",
+    "fetched_at": "2026-07-12T11:13:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "279993ae9f149c33": {
+    "url": "https://www.city.naha.okinawa.jp/_res/projects/default_project/_page_/001/003/520/sinaiitiran.pdf",
+    "filename": "279993ae9f149c33.pdf",
+    "sha256": "6dd9938c578a904a92f7792beca8468547faf21f999f5c4967dc2bff8dbf7940",
+    "fetched_at": "2026-07-12T11:13:35Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "bf7b0d8149965933": {
+    "url": "https://www.city.kagoshima.lg.jp/kyoiku/kanri/bunkazai/bunka/bunka/bunkazai/shite.html",
+    "filename": "bf7b0d8149965933.html",
+    "sha256": "9b9d5cfd07a86e34501ec5ab36305c10b2622526cea2c8081b2c41c51dd148e2",
+    "fetched_at": "2026-07-12T10:59:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e9425b2b7f713ff2": {
+    "url": "https://www.city.kagoshima.lg.jp/kyoiku/kanri/bunkazai/bunka/bunka/bunkazai/documents/20250501-siteibunkazaiichiran.pdf",
+    "filename": "e9425b2b7f713ff2.pdf",
+    "sha256": "f79020f45d09cf50d04696ab59f34bba7a644e162513fc293d9ef399214f18cf",
+    "fetched_at": "2026-07-12T11:08:27Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

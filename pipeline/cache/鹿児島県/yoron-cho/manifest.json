@@ -1,0 +1,18 @@
+{
+  "dba6636d45ab03ed": {
+    "url": "https://www.yoron.jp/kiji0036639/3_6639_shiryou1_01pj8z64.pdf",
+    "filename": "dba6636d45ab03ed.pdf",
+    "sha256": "1b3e106a73fac76b8d911d58c708d53cf0da6d54d3b98c65fd0c1839816159d5",
+    "fetched_at": "2026-07-12T10:59:26Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "02aa1548177dc706": {
+    "url": "https://www.yoron.jp/list00177.html",
+    "filename": "02aa1548177dc706.html",
+    "sha256": "87d13c3fab04bec2766ccea91f37443367c6ab6a402346b42bb46a2b2a00a674",
+    "fetched_at": "2026-07-12T10:59:28Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

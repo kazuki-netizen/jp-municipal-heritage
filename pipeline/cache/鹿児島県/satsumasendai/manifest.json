@@ -1,0 +1,18 @@
+{
+  "14c43549de3d1007": {
+    "url": "https://www.city.satsumasendai.lg.jp/soshiki/1029/1/1/1586.html",
+    "filename": "14c43549de3d1007.html",
+    "sha256": "ba899f3a33c7ba555b72970c9e7b387dac98cc6401ae1da1a8b11f542ec5ab2e",
+    "fetched_at": "2026-07-12T10:59:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7673189367f2f017": {
+    "url": "https://www.city.satsumasendai.lg.jp/material/files/group/48/satsumasendai_bunkazai.xls",
+    "filename": "7673189367f2f017.bin",
+    "sha256": "2b7960f8f8f6b01742b3dca92903e3df9ea8c788d590305939db86ef9da57890",
+    "fetched_at": "2026-07-12T11:33:02Z",
+    "http_status": 200,
+    "format": "xls"
+  }
+}
