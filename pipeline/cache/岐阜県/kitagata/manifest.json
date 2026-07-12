@@ -1,0 +1,10 @@
+{
+  "eaf9a8fbddbf2bff": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c214213-007",
+    "filename": "eaf9a8fbddbf2bff.bin",
+    "sha256": "59d9f67ec7099d89c0a8a05ba9709f5838d25f93e414d28fdb1ac3596cf9997b",
+    "fetched_at": "2026-07-12T06:00:31Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

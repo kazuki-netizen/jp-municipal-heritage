@@ -1,0 +1,26 @@
+{
+  "977d9e812e5f4a5d": {
+    "url": "https://takamori-tokinoeki.com/?p=2597",
+    "filename": "977d9e812e5f4a5d.html",
+    "sha256": "51564a4eefc940e1ee0dd7ad9733af4cad9c5d898d3bac8b4aea3cb17e33c1a0",
+    "fetched_at": "2026-07-12T04:28:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1e6e3fdd5d68d4af": {
+    "url": "http://takamori-tokinoeki.com/wp-content/uploads/2018/05/akamori_map_A.pdf",
+    "filename": "1e6e3fdd5d68d4af.pdf",
+    "sha256": "ef5ac9734e673d626bac7a900a1dd7223e99b650fb65d97355a3910a7f71640a",
+    "fetched_at": "2026-07-12T04:28:25Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "bae4ee7fd9d08e82": {
+    "url": "http://takamori-tokinoeki.com/wp-content/uploads/2018/05/akamori_map_B.pdf",
+    "filename": "bae4ee7fd9d08e82.pdf",
+    "sha256": "3e90ca7858c1c112816472e4d6d87dc45bab7d1b4e62860533e6b71eee872dd2",
+    "fetched_at": "2026-07-12T04:28:27Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

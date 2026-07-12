@@ -1,0 +1,18 @@
+{
+  "360740a513fea5cb": {
+    "url": "https://www.town.sera.hiroshima.jp/site/kyouiku/782.html",
+    "filename": "360740a513fea5cb.html",
+    "sha256": "13752f8fc5d7a4ba718f682f2441522ecfe8ddf47c017c84319fa9eef44570da",
+    "fetched_at": "2026-07-12T07:07:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5ae031b797a40261": {
+    "url": "https://www.town.sera.hiroshima.jp/uploaded/attachment/1120.pdf",
+    "filename": "5ae031b797a40261.pdf",
+    "sha256": "953daf3dd35aeb929ad2b4c579313411e9cfbf577b1dbdbfe7c4cf2b5140b272",
+    "fetched_at": "2026-07-12T07:07:51Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

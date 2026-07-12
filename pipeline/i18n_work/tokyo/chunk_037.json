@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-131041-0102",
+  "name": "空印の石手水鉢",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "2011-01-07",
+  "municipality": "新宿区",
+  "location": "新宿区四谷三栄町12-16 新宿歴史博物館"
+ },
+ {
+  "jmh_id": "JMH-131041-0104",
+  "name": "浄栄寺の山門「甘露門」",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2012-05-02",
+  "municipality": "新宿区",
+  "location": "新宿区市谷薬王寺町19-10 浄栄寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0103",
+  "name": "幸国寺の山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2012-05-02",
+  "municipality": "新宿区",
+  "location": "新宿区原町2丁目20 幸国寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0108",
+  "name": "滝沢馬琴終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2013-03-27",
+  "municipality": "新宿区",
+  "location": "新宿区霞ヶ丘町14-1 明治神宮外苑信濃町休憩所"
+ },
+ {
+  "jmh_id": "JMH-131041-0105",
+  "name": "中井御霊神社の本殿・幣殿・拝殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2013-03-27",
+  "municipality": "新宿区",
+  "location": "新宿区中井2丁目29-16 中井御霊神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0107",
+  "name": "柳田國男旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2013-03-27",
+  "municipality": "新宿区",
+  "location": "新宿区市谷加賀町2丁目4-31"
+ },
+ {
+  "jmh_id": "JMH-131041-0106",
+  "name": "斎藤茂吉終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2013-03-27",
+  "municipality": "新宿区",
+  "location": "新宿区大京町22-2"
+ },
+ {
+  "jmh_id": "JMH-131041-0109",
+  "name": "下村湖人終焉の地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2014-03-26",
+  "municipality": "新宿区",
+  "location": "新宿区百人町2丁目7-16 アゼリアコート"
+ },
+ {
+  "jmh_id": "JMH-131041-0110",
+  "name": "中井御霊神社文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2014-03-26",
+  "municipality": "新宿区",
+  "location": "新宿区中井2丁目29-16 中井御霊神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0112",
+  "name": "長厳寺文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "designated_date": "2014-03-26",
+  "municipality": "新宿区",
+  "location": "新宿区市谷薬王寺町19-5 長厳寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0111",
+  "name": "落合秋艸堂跡（會津八一旧居跡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2014-03-26",
+  "municipality": "新宿区",
+  "location": "新宿区中落合2丁目14-13"
+ },
+ {
+  "jmh_id": "JMH-131041-0115",
+  "name": "亮朝院本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2015-02-06",
+  "municipality": "新宿区",
+  "location": "新宿区西早稲田3丁目16-24 亮朝院"
+ },
+ {
+  "jmh_id": "JMH-131041-0114",
+  "name": "亮朝院七面堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2015-02-06",
+  "municipality": "新宿区",
+  "location": "新宿区西早稲田3丁目16-24 亮朝院"
+ },
+ {
+  "jmh_id": "JMH-131041-0113",
+  "name": "中井御霊神社の狛犬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "2015-02-06",
+  "municipality": "新宿区",
+  "location": "新宿区中井2丁目29-16 中井御霊神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0116",
+  "name": "美術工芸品保存桐箱製作　(保持者 大坂重雄)",
+  "category": "無形文化財",
+  "subcategory": "工芸技術",
+  "designation": "区指定",
+  "designated_date": "2015-03-27",
+  "municipality": "新宿区",
+  "location": "新宿区原町1丁目"
+ },
+ {
+  "jmh_id": "JMH-131041-0117",
+  "name": "堀部武庸加功遺跡之碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "2016-03-04",
+  "municipality": "新宿区",
+  "location": "新宿区西早稲田3丁目5-43 水稲荷神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0119",
+  "name": "西條八十旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2016-03-04",
+  "municipality": "新宿区",
+  "location": "新宿区北新宿1丁目23-2"
+ },
+ {
+  "jmh_id": "JMH-131041-0118",
+  "name": "女人芸術社跡(長谷川時雨・三上於菟吉旧居跡)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2016-03-04",
+  "municipality": "新宿区",
+  "location": "新宿区市谷左内町29-36 ロワ・ヴェール市ヶ谷左内坂"
+ },
+ {
+  "jmh_id": "JMH-131041-0120",
+  "name": "内村鑑三終焉の地（今井館聖書講堂跡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2017-03-29",
+  "municipality": "新宿区",
+  "location": "新宿区北新宿3丁目10-1"
+ },
+ {
+  "jmh_id": "JMH-131041-0121",
+  "name": "鈴木三重吉終焉の地（「赤い鳥」社跡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2017-03-29",
+  "municipality": "新宿区",
+  "location": "新宿区歌舞伎町2丁目23-12 チェックメイトビル"
+ },
+ {
+  "jmh_id": "JMH-131041-0123",
+  "name": "永福寺の銅造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "2018-10-24",
+  "municipality": "新宿区",
+  "location": "新宿区新宿7丁目11-2 永福寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0122",
+  "name": "永福寺の銅造地蔵菩薩半跏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "2018-10-24",
+  "municipality": "新宿区",
+  "location": "新宿区新宿7丁目11-2 永福寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0124",
+  "name": "済松寺の加藤文麗筆絵画作品",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "2018-10-24",
+  "municipality": "新宿区",
+  "location": "新宿区榎町77 済松寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0126",
+  "name": "永心寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2019-03-07",
+  "municipality": "新宿区",
+  "location": "新宿区須賀町11 永心寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0125",
+  "name": "永心寺山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "2019-03-07",
+  "municipality": "新宿区",
+  "location": "新宿区須賀町11 永心寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0127",
+  "name": "幸国寺の日蓮聖人六百遠忌報恩塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "2019-06-03",
+  "municipality": "新宿区",
+  "location": "新宿区原町2丁目20 幸国寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0128",
+  "name": "鏑木清方旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2019-06-03",
+  "municipality": "新宿区",
+  "location": "新宿区矢来町38-3"
+ },
+ {
+  "jmh_id": "JMH-131041-0129",
+  "name": "巴講睦の獅子頭",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "2021-07-02",
+  "municipality": "新宿区",
+  "location": "新宿区北新宿2丁目1-1 巴会館（※新宿区に寄託中）"
+ },
+ {
+  "jmh_id": "JMH-131041-0130",
+  "name": "済松寺文書",
+  "category": "有形文化財",
+  "subcategory": "古文書・古記録",
+  "designation": "区指定",
+  "designated_date": "2022-02-04",
+  "municipality": "新宿区",
+  "location": "新宿区榎町77"
+ },
+ {
+  "jmh_id": "JMH-131041-0131",
+  "name": "辰野金吾の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2022-11-04",
+  "municipality": "新宿区",
+  "location": "新宿区西新宿7丁目13 常圓寺墓地"
+ },
+ {
+  "jmh_id": "JMH-131041-0132",
+  "name": "太宗寺の無量寿経曼荼羅・阿弥陀経曼荼羅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "2024-07-05",
+  "municipality": "新宿区",
+  "location": "新宿区新宿2丁目9-2 太宗寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0133",
+  "name": "藤田嗣治（レオナール・フジタ）旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2024-07-05",
+  "municipality": "新宿区",
+  "location": "新宿区高田馬場4丁目22-7 須田外科クリニック"
+ },
+ {
+  "jmh_id": "JMH-131041-0134",
+  "name": "栗本丹洲の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2025-09-05",
+  "municipality": "新宿区",
+  "location": "新宿区若葉2丁目3 日宗寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0135",
+  "name": "諏訪神社の絵馬等奉納物",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "2025-09-05",
+  "municipality": "新宿区",
+  "location": "新宿区高田馬場1丁目12-6 諏訪神社"
+ },
+ {
+  "jmh_id": "JMH-131041-0137",
+  "name": "川合玉堂旧居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "2026-05-01",
+  "municipality": "新宿区",
+  "location": "新宿区若宮町29 若宮ハウス"
+ },
+ {
+  "jmh_id": "JMH-131041-0136",
+  "name": "専行寺の木造阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "2026-05-01",
+  "municipality": "新宿区",
+  "location": "新宿区原町3丁目26 専行寺"
+ },
+ {
+  "jmh_id": "JMH-131041-0138",
+  "name": "浄輪寺の花卉寄合描屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "2026-05-01",
+  "municipality": "新宿区",
+  "location": "新宿区弁天町95 浄輪寺"
+ },
+ {
+  "jmh_id": "JMH-132080-0002",
+  "name": "上石原若宮八幡神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1967-04-11",
+  "municipality": "調布市",
+  "location": "下石原3-5-1 若宮八幡神社"
+ },
+ {
+  "jmh_id": "JMH-132080-0034",
+  "name": "西光寺仁王門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1998-12-25",
+  "municipality": "調布市",
+  "location": "上石原1-28-3 西光寺"
+ },
+ {
+  "jmh_id": "JMH-132080-0030",
+  "name": "布多天神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1998-12-25",
+  "municipality": "調布市",
+  "location": "調布ケ丘1-8-1 布多天神社"
+ }
+]

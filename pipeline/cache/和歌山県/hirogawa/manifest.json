@@ -1,0 +1,18 @@
+{
+  "1f13e7a56ac1c5b5": {
+    "url": "https://www.town.hirogawa.wakayama.jp/kyouiku/rekishibunka/bunkazai.html",
+    "filename": "1f13e7a56ac1c5b5.html",
+    "sha256": "f68554787c992eb3ad9d596d552b8b7f97143051238666052ac2eaeaae476515",
+    "fetched_at": "2026-07-12T06:47:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2af54a565c37ee6e": {
+    "url": "https://www.town.hirogawa.wakayama.jp/kyouiku/rekishibunka/pdf/all_R3.3.pdf",
+    "filename": "2af54a565c37ee6e.pdf",
+    "sha256": "301fe7ce32e4eaacec60dd12b8276118d2ecaee1826d50341d77666cc2d76a9b",
+    "fetched_at": "2026-07-12T06:47:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

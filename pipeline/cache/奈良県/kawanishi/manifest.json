@@ -1,0 +1,18 @@
+{
+  "6eebaacb2123c669": {
+    "url": "https://www.town.nara-kawanishi.lg.jp/0000000114.html",
+    "filename": "6eebaacb2123c669.html",
+    "sha256": "59fa606acc80eac034753a2e2c2a323e930641322d205a0a13ffb4befc613d86",
+    "fetched_at": "2026-07-12T06:42:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "264c3e66643b99e0": {
+    "url": "https://www.town.nara-kawanishi.lg.jp/0000002699.html",
+    "filename": "264c3e66643b99e0.html",
+    "sha256": "2178fbe18728626e9fd8289ce6233afa235e00f0a76f87571755157ae35a0d30",
+    "fetched_at": "2026-07-12T06:42:46Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

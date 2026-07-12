@@ -1,0 +1,10 @@
+{
+  "7cc39653e0b0a524": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212164-007",
+    "filename": "7cc39653e0b0a524.bin",
+    "sha256": "de1f11388b2207929101c474ff949c767458d82cf5f0d5e86bcf56ec8743b2b8",
+    "fetched_at": "2026-07-12T05:59:58Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

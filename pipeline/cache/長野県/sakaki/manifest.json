@@ -1,0 +1,15 @@
+{
+ "535f0f84f36f1080": {
+  "url": "https://www.town.sakaki.nagano.jp/page/1494.html",
+  "filename": "535f0f84f36f1080.html",
+  "sha256": "ea83ad4f515265ba87b81e46fd7cd80115f6d2155369cdbddce08a9ea9f164de",
+  "fetched_at": "2026-07-12T04:28:46Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.town.sakaki.nagano.jp/page/1494.html": {
+  "file": "535f0f84f36f1080.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:57Z"
+ }
+}

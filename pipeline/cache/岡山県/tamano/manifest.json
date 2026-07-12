@@ -1,0 +1,18 @@
+{
+  "55df3d3a79bdf035": {
+    "url": "https://www.city.tamano.lg.jp/soshiki/35/8265.html",
+    "filename": "55df3d3a79bdf035.html",
+    "sha256": "ce49bc3f705f079704e3fd7226e93041683403f6ed0910fe885d2f8ee94b6761",
+    "fetched_at": "2026-07-12T07:02:02Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "09d174ca68f56e8f": {
+    "url": "https://www.city.tamano.lg.jp/uploaded/attachment/35166.pdf",
+    "filename": "09d174ca68f56e8f.pdf",
+    "sha256": "1975f65aa49535d128019d96d74a3bc98fd496dfd07e7806e144c3136ac24855",
+    "fetched_at": "2026-07-12T07:02:03Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

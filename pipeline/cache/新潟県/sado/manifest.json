@@ -1,0 +1,18 @@
+{
+  "d856a1221c61b333": {
+    "url": "https://www.city.sado.niigata.jp/site/bunkazai/list63.html",
+    "filename": "d856a1221c61b333.html",
+    "sha256": "531aeefab1d4304a6bd9f467acdeb3f75beec8074d31df08ffeed3c8cfdcfa64",
+    "fetched_at": "2026-07-12T03:41:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ac53641415516026": {
+    "url": "https://www.city.sado.niigata.jp/site/bunkazai/5273.html",
+    "filename": "ac53641415516026.html",
+    "sha256": "4b76117872b02252e8394b0f86d997559968979350b9f6ed1fa34165723b5b2c",
+    "fetched_at": "2026-07-12T03:41:42Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

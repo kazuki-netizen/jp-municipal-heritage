@@ -1,0 +1,21 @@
+- 岐南町 (ginan): source rows 11; output 11; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 笠松町 (kasamatsu): source rows 27; output 27; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 養老町 (yoro): source rows 185; output 185; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 垂井町 (tarui): source rows 58; output 58; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 関ケ原町 (sekigahara): source rows 15; output 15; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 神戸町 (godo): source rows 131; output 131; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 輪之内町 (wanouchi): source rows 25; output 25; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 安八町 (anpachi): source rows 32; output 32; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 揖斐川町 (ibigawa): source rows 259; output 259; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 大野町 (ono): source rows 148; output 148; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 北方町 (kitagata): source rows 62; output 62; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 坂祝町 (sakahogi): source rows 15; output 15; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 富加町 (tomika): source rows 44; output 44; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 川辺町 (kawabe): source rows 50; output 50; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 七宗町 (hichiso): source rows 15; output 15; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 八百津町 (yaotsu): source rows 48; output 48; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 白川町 (shirakawa-cho): source rows 78; output 78; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 東白川村 (higashishirakawa): source rows 17; output 17; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 御嵩町 (mitake): source rows 38; output 38; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 白川村 (shirakawa-mura): source rows 37; output 37; excluded 国指定 0, 県指定 0; issues: none (CSV is municipality-designated dataset).
+- 池田町 (ikeda): category hubs scanned; output 11 explicitly-labelled 町指定 items; excluded 国指定 0, 県指定 5; issues: category pages also contain explanatory/non-designation pages and natural-monument pages without a stated designation level, excluded under null-over-guess.

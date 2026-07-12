@@ -1,0 +1,34 @@
+{
+  "94a1d5058600d613": {
+    "url": "https://www.city.namerikawa.toyama.jp/soshiki/22/3/1/index.html",
+    "filename": "94a1d5058600d613.html",
+    "sha256": "245573366ff7b215a8b1347daa5aa0a02e8ef76b18a999179a5212e43db4bd14",
+    "fetched_at": "2026-07-12T03:53:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9d42a7f0f83da942": {
+    "url": "https://www.city.namerikawa.toyama.jp/soshiki/22/3/1/2986.html",
+    "filename": "9d42a7f0f83da942.html",
+    "sha256": "7314cbc009911c440f36a95ac43044173a6883e2eb8dfbf2e981b87a6fd2cddf",
+    "fetched_at": "2026-07-12T03:53:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "480eb4b375621c90": {
+    "url": "https://www.city.namerikawa.toyama.jp/soshiki/22/3/1/2988.html",
+    "filename": "480eb4b375621c90.html",
+    "sha256": "0c2b2adfdf001ce86e72156acd1cb5a864acd0eefef73d5a09eb1df199881a3e",
+    "fetched_at": "2026-07-12T03:53:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "925f5c92b329b961": {
+    "url": "https://www.city.namerikawa.toyama.jp/material/files/group/22/bunkazai2022-01.pdf",
+    "filename": "925f5c92b329b961.pdf",
+    "sha256": "919f421e51f864bf0af44b584ca4c6d52d91f884fdd26ff289d15537070049c1",
+    "fetched_at": "2026-07-12T04:48:17Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

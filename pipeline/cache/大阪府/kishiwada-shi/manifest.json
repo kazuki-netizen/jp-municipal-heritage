@@ -1,0 +1,10 @@
+{
+  "6f4891d2c04bf70f": {
+    "url": "https://city.kishiwada.osaka.jp/soshiki/70/sitei-bunkazai.html",
+    "filename": "6f4891d2c04bf70f.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T06:56:55Z",
+    "http_status": "error:ConnectTimeout",
+    "format": "html"
+  }
+}

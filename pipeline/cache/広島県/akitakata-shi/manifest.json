@@ -1,0 +1,18 @@
+{
+  "633c2b49bfb3779b": {
+    "url": "https://www.akitakata.jp/ja/shisei/section/kyouiku/shisekibunkazai/cultural_asset/",
+    "filename": "633c2b49bfb3779b.html",
+    "sha256": "dadd0da16a5192b8edc01a325bbd06bdb406d8c1df934610f9d18c2d1112b767",
+    "fetched_at": "2026-07-12T07:07:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3ed881a33e735cdf": {
+    "url": "https://www.akitakata.jp/akitakata-media/filer_public/d7/1f/d71f8730-e577-494d-a160-a44388f27d9f/shiseki-mouri-shi-shiroato-kouriyama-shiroato-hozon-katsuyou-keikaku-zenshou.pdf",
+    "filename": "3ed881a33e735cdf.pdf",
+    "sha256": "6295d161ce93ed87aac322d8a75abf566bf84b59c36a09a052126d11a9e2f685",
+    "fetched_at": "2026-07-12T07:07:37Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

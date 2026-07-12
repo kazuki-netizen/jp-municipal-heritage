@@ -1,0 +1,18 @@
+{
+  "cd91bb3a03764ce4": {
+    "url": "https://www.town.tsunan.niigata.jp/site/kyoiku/chonaibunkazai.html",
+    "filename": "cd91bb3a03764ce4.html",
+    "sha256": "4f542dc08972cc645fc0cccae0afe8fe36173e476cf614f40e549784c040af18",
+    "fetched_at": "2026-07-12T03:41:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f14f1c7c822630e5": {
+    "url": "https://www.town.tsunan.niigata.jp/site/kyoiku/kunibunkazai.html",
+    "filename": "f14f1c7c822630e5.html",
+    "sha256": "a286843d61662e517b511361b8b9128f6861d245ac4a62600609283fa3134a9a",
+    "fetched_at": "2026-07-12T03:41:54Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

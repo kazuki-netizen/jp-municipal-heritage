@@ -1,0 +1,10 @@
+{
+  "273bc15c332d0408": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215015-007",
+    "filename": "273bc15c332d0408.bin",
+    "sha256": "3d19275cd3feb5116b53614ddd8931eb483744e0dda459267d7d72fea0adb64e",
+    "fetched_at": "2026-07-12T06:00:33Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

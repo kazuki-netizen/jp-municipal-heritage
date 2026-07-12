@@ -1,0 +1,18 @@
+{
+  "2cdcd431ae6492e1": {
+    "url": "https://www.jinsekigun.jp/town/gyousei/gaiyou/history/",
+    "filename": "2cdcd431ae6492e1.html",
+    "sha256": "698e90528bd847808ef5846af8dc9e623891714415bfda80a247aa9498493f70",
+    "fetched_at": "2026-07-12T07:07:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2617989c6b07f5a9": {
+    "url": "https://www.jinsekigun.jp/user/filer_public/71/ba/71ba6108-429c-4279-a5e2-8dc74275bb7a/shen-shi-gao-yuan-ting-zhi-ding-wen-hua-cai-hpjie-zai-yong.pdf",
+    "filename": "2617989c6b07f5a9.pdf",
+    "sha256": "8c4a21e331bc1d6d11332ebe62f3c3429cbfb4ed3194f4f7942d0d8c63127741",
+    "fetched_at": "2026-07-12T07:07:53Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

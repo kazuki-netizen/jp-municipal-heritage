@@ -1,0 +1,18 @@
+{
+  "fc9182d0c6e5cc18": {
+    "url": "https://www.town.kamitonda.lg.jp/soshiki/kyoiku/kurashi/kyoiku_bunka/1008.html",
+    "filename": "fc9182d0c6e5cc18.html",
+    "sha256": "51690170b9d0970341b8a8901641c215d51c160f4febf9c31799485d546177d9",
+    "fetched_at": "2026-07-12T06:47:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3eadf0df4533a386": {
+    "url": "https://www.town.kamitonda.lg.jp/material/files/group/12/sougoukeikaku01.pdf",
+    "filename": "3eadf0df4533a386.pdf",
+    "sha256": "9f1749977a31de8d8c071fc1a9ae6138bd6fc56e87fa1e4f4953bd3d3264600f",
+    "fetched_at": "2026-07-12T06:47:15Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

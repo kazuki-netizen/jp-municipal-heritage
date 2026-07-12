@@ -1,0 +1,18 @@
+{
+  "7e547ba05a2ff672": {
+    "url": "https://www.city.nomi.ishikawa.jp/www/contents/1001000000873/index.html",
+    "filename": "7e547ba05a2ff672.html",
+    "sha256": "388f5fb1b8f129b59372cc4a723481a10b4363c939105a804b2db51a1ed1178a",
+    "fetched_at": "2026-07-12T03:54:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "aa45edf89f139904": {
+    "url": "https://www.city.nomi.ishikawa.jp/www/contents/1001000000642/index.html",
+    "filename": "aa45edf89f139904.html",
+    "sha256": "d27d27bea58196c8242962359c72254d07bfcf9319b72c3d810799ccf01c1f89",
+    "fetched_at": "2026-07-12T03:54:33Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

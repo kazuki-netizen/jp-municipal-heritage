@@ -1,0 +1,18 @@
+{
+  "e8c45fcb0ac27555": {
+    "url": "https://www.city.tamba.lg.jp/soshiki/shakaikyoikubunkazaika/gyomuannai/7/1/1891.html",
+    "filename": "e8c45fcb0ac27555.html",
+    "sha256": "017d8c34a299fd00ca6264a7ed2ab1e74ef1543b3ab865270d7bd390149e35ac",
+    "fetched_at": "2026-07-12T06:32:03Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "28f8264a1e8d91b8": {
+    "url": "https://www.city.tamba.lg.jp/soshiki/shakaikyoikubunkazaika/gyomuannai/7/1/1489.html",
+    "filename": "28f8264a1e8d91b8.html",
+    "sha256": "1a6afb5ba30e24923f627eb2c4bb3f44eaa8360272278eae80670ae0b02bfc48",
+    "fetched_at": "2026-07-12T06:32:05Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,15 @@
+{
+ "7bf450308ab52e11": {
+  "url": "https://www.town.nagiso.nagano.jp/0000000253.html",
+  "filename": "7bf450308ab52e11.html",
+  "sha256": "4662a89ecd34fc7a683d247bd1f88cc11ff639acf1b8a4c07fa329454d8c0758",
+  "fetched_at": "2026-07-12T04:28:38Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.town.nagiso.nagano.jp/0000000253.html": {
+  "file": "7bf450308ab52e11.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:46Z"
+ }
+}

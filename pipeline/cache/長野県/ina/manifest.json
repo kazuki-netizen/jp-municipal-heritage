@@ -1,0 +1,18 @@
+{
+  "cb8fa9e6b42f9593": {
+    "url": "https://www.inacity.jp/kurashi/shogaigakushu_bunka/bunkazai/shishiteibunkazai.html",
+    "filename": "cb8fa9e6b42f9593.html",
+    "sha256": "3ef964be58f9e1d44b1e72976b7667cfd6d3d28fb8087029a2832ac9fc0e5a71",
+    "fetched_at": "2026-07-12T04:27:41Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "68caf14bdaaafff5": {
+    "url": "https://www.inacity.jp/kurashi/shogaigakushu_bunka/bunkazai/shishiteibunkazai.files/shiteibunkazaiR080212.pdf",
+    "filename": "68caf14bdaaafff5.pdf",
+    "sha256": "35301a1e72a7b69bbab36c6338708594655c8ff994cac9e5e44856e66c39382e",
+    "fetched_at": "2026-07-12T04:27:43Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

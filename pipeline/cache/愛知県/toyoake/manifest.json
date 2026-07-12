@@ -1,0 +1,26 @@
+{
+  "5168bbb09a12cffc": {
+    "url": "https://www.city.toyoake.lg.jp/3206.htm",
+    "filename": "5168bbb09a12cffc.html",
+    "sha256": "41e4e779a2612322df16c17f85f47a83ac9c567f2ec0261a4be8a58f0cf277e9",
+    "fetched_at": "2026-07-12T06:14:21Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "17e0c8f95561a29e": {
+    "url": "https://www.city.toyoake.lg.jp/3938.htm",
+    "filename": "17e0c8f95561a29e.html",
+    "sha256": "60422450278677d475c2658e6032761c561f3ba665a282e8f44c5d891a47ac66",
+    "fetched_at": "2026-07-12T06:30:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "58bf478f7f77af27": {
+    "url": "https://www.city.toyoake.lg.jp/3356.htm",
+    "filename": "58bf478f7f77af27.html",
+    "sha256": "a53d6ba32314448ab506ddecd1059857b1ad14d03a7cb5d94c0c8e80eacba73d",
+    "fetched_at": "2026-07-12T06:30:40Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

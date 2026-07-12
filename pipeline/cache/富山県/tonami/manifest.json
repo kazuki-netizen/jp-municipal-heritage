@@ -1,0 +1,18 @@
+{
+  "73605acc78b6081e": {
+    "url": "https://www.city.tonami.lg.jp/wp-content/uploads/doc_1-12-1.pdf",
+    "filename": "73605acc78b6081e.pdf",
+    "sha256": "3f6d6539c64ff2a96a563eae994e36a01caffe309b629807e21b5e27f353b228",
+    "fetched_at": "2026-07-12T03:53:38Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "d25e13e8f4099225": {
+    "url": "https://www.city.tonami.lg.jp/info/3613p/",
+    "filename": "d25e13e8f4099225.html",
+    "sha256": "02683419473902b27aae2fa0e80269bd1ee03f308c057c264277c94307cd9a66",
+    "fetched_at": "2026-07-12T03:53:41Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

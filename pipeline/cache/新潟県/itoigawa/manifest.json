@@ -1,0 +1,18 @@
+{
+  "3516bfa1708afe5b": {
+    "url": "https://www.city.itoigawa.lg.jp/3786.htm",
+    "filename": "3516bfa1708afe5b.html",
+    "sha256": "05015264ff6ed5027edc6428eddce1e2547cc4ac5cc39a4bf0b6156db902ddc3",
+    "fetched_at": "2026-07-12T03:41:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d03972d2a812b5c9": {
+    "url": "https://www.city.itoigawa.lg.jp/uploaded/attachment/18493.pdf",
+    "filename": "d03972d2a812b5c9.pdf",
+    "sha256": "bade7da4d43ba478867e9c67d2d4a97a4472bd4d62c2685db5c9cd4cd54690a5",
+    "fetched_at": "2026-07-12T03:41:27Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

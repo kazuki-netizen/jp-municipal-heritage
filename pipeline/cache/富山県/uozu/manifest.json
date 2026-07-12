@@ -1,0 +1,34 @@
+{
+  "3741d433cba5440b": {
+    "url": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=396",
+    "filename": "3741d433cba5440b.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:53:31Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "6e6193417bdfae39": {
+    "url": "https://www.city.uozu.toyama.jp/attach/EDIT/074/074140.pdf",
+    "filename": "6e6193417bdfae39.pdf",
+    "sha256": "7607bdfdc71326c25d2305595d09a74207a83ae25027c8bcce5a17511ab22ddb",
+    "fetched_at": "2026-07-12T04:44:46Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "821ce68d7593e677": {
+    "url": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=25190",
+    "filename": "821ce68d7593e677.html",
+    "sha256": "5cc671a83b4ba1299ad739b89b791e77ada153935958b2f36e5eb69438ca4907",
+    "fetched_at": "2026-07-12T04:44:46Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e5b762238c693bbc": {
+    "url": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=25167",
+    "filename": "e5b762238c693bbc.html",
+    "sha256": "134af5e1bdf9735795da68881a8326fe0d6e541371280595bee0e1e311a720df",
+    "fetched_at": "2026-07-12T04:44:46Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "8d8301ff10321b6b": {
+    "url": "https://www.town.tateshina.nagano.jp/kanko_bunka_sports/rekishi_bunkazai/bunkazai/index.html",
+    "filename": "8d8301ff10321b6b.html",
+    "sha256": "e7293af54b01a52ce62fda36a18dca43fb44e2941ea3f4769d0653ab2bd2187c",
+    "fetched_at": "2026-07-12T04:28:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5d9335d4724d25dc": {
+    "url": "https://www.town.tateshina.nagano.jp/soshiki/kyoiku_iinkai/shakai_jinken/574.html",
+    "filename": "5d9335d4724d25dc.pdf",
+    "sha256": "64e12539be6eef3470f61de7dd732230bf56fb071ebd5223950db689d2db845b",
+    "fetched_at": "2026-07-12T04:28:07Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

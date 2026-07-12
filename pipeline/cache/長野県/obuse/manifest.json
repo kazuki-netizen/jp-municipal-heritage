@@ -1,0 +1,15 @@
+{
+ "5c7859f320b2cd4e": {
+  "url": "https://www.town.obuse.nagano.jp/docs/2739.html",
+  "filename": "5c7859f320b2cd4e.html",
+  "sha256": "58e991fdc057ff05f3b119bb1722218b26e5c80965a3ac1b24c33961b50d9e4c",
+  "fetched_at": "2026-07-12T04:28:47Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.town.obuse.nagano.jp/docs/2739.html": {
+  "file": "5c7859f320b2cd4e.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:03:11Z"
+ }
+}

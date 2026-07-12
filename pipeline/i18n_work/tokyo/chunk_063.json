@@ -1,0 +1,375 @@
+[
+ {
+  "jmh_id": "JMH-132047-0027",
+  "name": "いちょう（イチョウ科）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-01-01",
+  "municipality": "三鷹市",
+  "location": "下連雀四丁目禅林寺境内"
+ },
+ {
+  "jmh_id": "JMH-132047-0029",
+  "name": "三鷹囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-01",
+  "municipality": "三鷹市",
+  "location": "大沢"
+ },
+ {
+  "jmh_id": "JMH-132047-0030",
+  "name": "新川囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1993-02-01",
+  "municipality": "三鷹市",
+  "location": "新川"
+ },
+ {
+  "jmh_id": "JMH-132047-0031",
+  "name": "古民家・峯岸清氏旧宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1994-07-01",
+  "municipality": "三鷹市",
+  "location": "大沢六丁目10番15号"
+ },
+ {
+  "jmh_id": "JMH-132047-0032",
+  "name": "山本有三記念館（山本有三氏旧宅）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1994-07-01",
+  "municipality": "三鷹市",
+  "location": "下連雀二丁目12番17号"
+ },
+ {
+  "jmh_id": "JMH-132047-0035",
+  "name": "滝坂遺跡出土の縄文時代早期前半・燃糸文系終末期土器群",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-04-01",
+  "municipality": "三鷹市",
+  "location": "中原一丁目三鷹市教育センター／保管先"
+ },
+ {
+  "jmh_id": "JMH-132047-0033",
+  "name": "丸山A遺跡出土の縄文時代後期遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-04-01",
+  "municipality": "三鷹市",
+  "location": "井の頭二丁目三鷹市教育センター／保管先"
+ },
+ {
+  "jmh_id": "JMH-132047-0034",
+  "name": "出山横穴墓群8号墓出土の古墳時代後期の須恵器（平瓶）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2004-04-01",
+  "municipality": "三鷹市",
+  "location": "大沢二丁目三鷹市教育センター／保管先"
+ },
+ {
+  "jmh_id": "JMH-132047-0036",
+  "name": "井の頭池遺跡群B第6号住居跡出土の縄文時代中期遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2009-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭四丁目三鷹市教育センター／保管先"
+ },
+ {
+  "jmh_id": "JMH-132047-0037",
+  "name": "坂上遺跡5・10号住居跡出土の縄文時代中期接合土偶",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2009-05-01",
+  "municipality": "三鷹市",
+  "location": "大沢二丁目三鷹市教育センター／保管先"
+ },
+ {
+  "jmh_id": "JMH-132047-0039",
+  "name": "滝坂遺跡第6号住居跡出土の古墳時代初頭遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2009-05-01",
+  "municipality": "三鷹市",
+  "location": "中原二丁目三鷹市教育センター／保管先"
+ },
+ {
+  "jmh_id": "JMH-132047-0038",
+  "name": "旧箕輪家住宅主屋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2009-05-01",
+  "municipality": "三鷹市",
+  "location": "大沢二丁目17番8号"
+ },
+ {
+  "jmh_id": "JMH-132047-0040",
+  "name": "明治六年銘石造馬頭観音供養塔（付 威徳院奉安位牌）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2022-07-01",
+  "municipality": "三鷹市",
+  "location": "新川二丁目1番17号"
+ },
+ {
+  "jmh_id": "JMH-131172-0021",
+  "name": "王子田楽",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "王子本町1-1-12王子神社境内"
+ },
+ {
+  "jmh_id": "JMH-131172-0007",
+  "name": "御殿前遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "西ヶ原2-3-18外"
+ },
+ {
+  "jmh_id": "JMH-131172-0025",
+  "name": "紙本著色「若一王子縁起」絵巻（模本）",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "王子1-1-3飛鳥山公園内紙の博物館"
+ },
+ {
+  "jmh_id": "JMH-131172-0029",
+  "name": "豊嶋村武藤家文書　附　複写資料55点",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "個人所有北区教育委員会受託管理"
+ },
+ {
+  "jmh_id": "JMH-131172-0010",
+  "name": "木造太田道灌坐像　附　厨子一基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "赤羽西1-21-17静勝寺所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0031",
+  "name": "赤羽台第3号古墳石室",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "十条台1-2-1北区中央公園内移築"
+ },
+ {
+  "jmh_id": "JMH-131172-0005",
+  "name": "岩井家生活用具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "王子1-1-3北区飛鳥山博物館"
+ },
+ {
+  "jmh_id": "JMH-131172-0026",
+  "name": "紙本著色平塚明神并別当城官寺縁起絵巻",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "上中里1-47-1平塚神社所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0006",
+  "name": "平塚神社文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "上中里1-47-1平塚神社所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0004",
+  "name": "十条冨士塚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "中十条2-14-18十条冨士神社"
+ },
+ {
+  "jmh_id": "JMH-131172-0015",
+  "name": "浮間村黒田家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "個人所有北区教育委員会受託管理"
+ },
+ {
+  "jmh_id": "JMH-131172-0017",
+  "name": "瀧野川村芦川家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "個人所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0034",
+  "name": "静勝寺除地検地絵図・古文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "赤羽西1-21-17静勝寺所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0020",
+  "name": "王子村真壁家文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "十条台1-2-5北区立中央図書館"
+ },
+ {
+  "jmh_id": "JMH-131172-0011",
+  "name": "木造豊島清光坐像",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "豊島7-31-7清光寺所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0027",
+  "name": "西蓮寺板碑群",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "志茂4-30-4西蓮寺所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0024",
+  "name": "稲付の餅搗唄　附　餅搗用具一式",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "伝承地赤羽西2-15道観山正一位稲荷神社地内"
+ },
+ {
+  "jmh_id": "JMH-131172-0033",
+  "name": "阿弥陀三尊来迎画像夜念仏供養板碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "個人所有北区飛鳥山博物館管理"
+ },
+ {
+  "jmh_id": "JMH-131172-0028",
+  "name": "豊島馬場遺跡出土ガラス小玉鋳型",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "王子1-1-3北区飛鳥山博物館"
+ },
+ {
+  "jmh_id": "JMH-131172-0030",
+  "name": "赤紙仁王（石造金剛力士立像）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "田端2-7-3東覚寺所有"
+ },
+ {
+  "jmh_id": "JMH-131172-0014",
+  "name": "東谷戸遺跡出土土偶",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "王子1-1-3北区飛鳥山博物館"
+ },
+ {
+  "jmh_id": "JMH-131172-0013",
+  "name": "東京書籍印刷工場・事務棟・守衛所、東京書籍株式会社附設教科書図書館東書文庫",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "堀船1-23-31（工場・事務棟・守衛所）"
+ },
+ {
+  "jmh_id": "JMH-131172-0009",
+  "name": "旧松澤家住宅　附　倉屋",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "赤羽西5-2-34赤羽自然観察公園内"
+ },
+ {
+  "jmh_id": "JMH-131172-0001",
+  "name": "七社神社前遺跡出土鉄釧",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "王子1-1-3北区飛鳥山博物館"
+ },
+ {
+  "jmh_id": "JMH-131172-0023",
+  "name": "田端西台通遺跡出土鉄剣およびガラス小玉",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "王子1-1-3北区飛鳥山博物館"
+ },
+ {
+  "jmh_id": "JMH-131172-0019",
+  "name": "王子村大岡家文書　附　典籍・絵画",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "個人所有北区教育委員会受託管理"
+ },
+ {
+  "jmh_id": "JMH-131172-0012",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "municipality": "北区",
+  "location": "志茂4-30-4西蓮寺所有"
+ }
+]

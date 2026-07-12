@@ -1,0 +1,57 @@
+{
+ "1abc28401b863735": {
+  "url": "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/",
+  "filename": "1abc28401b863735.html",
+  "sha256": "090f195b394db663ac64afcad3aafaec19c7b896aded9a789e55f10418929f08",
+  "fetched_at": "2026-07-12T04:28:28Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "2548945f55c7ad28": {
+  "url": "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/2009-0408-1045-9.html",
+  "filename": "2548945f55c7ad28.html",
+  "sha256": "4b6a2c2ba83d892c03e79e650b48ccfb31aaa03bac38aff0ec9b477b738e06a0",
+  "fetched_at": "2026-07-12T04:28:30Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "b4f0a5d2c3c54245": {
+  "url": "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/2009-0408-1050-9.html",
+  "filename": "b4f0a5d2c3c54245.html",
+  "sha256": "bfe4dab89fc7313f60c05e50a49c8d5f4275b76b5856b93a150136472a951eed",
+  "fetched_at": "2026-07-12T04:28:32Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "0f2ed8ea35fc2d27": {
+  "url": "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/2012-0621-1521-7.html",
+  "filename": "0f2ed8ea35fc2d27.html",
+  "sha256": "19cfc3cc2b51fef80943b41fa2c6d366866ad3a6792d015864afec5ec00e5b9b",
+  "fetched_at": "2026-07-12T04:28:35Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "f682ec84d8987166": {
+  "url": "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/2009-0408-1025-9.html",
+  "filename": "f682ec84d8987166.html",
+  "sha256": "8a1f01c2b6f4f8f26ef2163fe2ce82cb365bb87d804664ddf812643f32e35350",
+  "fetched_at": "2026-07-12T04:28:36Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/2009-0408-1045-9.html": {
+  "file": "2548945f55c7ad28.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:29Z"
+ },
+ "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/2009-0408-1050-9.html": {
+  "file": "b4f0a5d2c3c54245.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:32Z"
+ },
+ "https://www.vill-shimojo.jp/gyousei/mura/bunkazai/2012-0621-1521-7.html": {
+  "file": "0f2ed8ea35fc2d27.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:35Z"
+ }
+}

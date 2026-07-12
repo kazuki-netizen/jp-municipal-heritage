@@ -1,0 +1,15 @@
+{
+ "5156ece1948f60bf": {
+  "url": "https://www.vill.minamiminowa.lg.jp/soshiki/kyouiku/muranobunkazai.html",
+  "filename": "5156ece1948f60bf.html",
+  "sha256": "ada574a37aebcba9f8e75f033a1d10957c63ffb6486a5e64915045f6856d0ef0",
+  "fetched_at": "2026-07-12T04:28:19Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.vill.minamiminowa.lg.jp/soshiki/kyouiku/muranobunkazai.html": {
+  "file": "5156ece1948f60bf.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:52Z"
+ }
+}

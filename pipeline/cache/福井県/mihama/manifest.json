@@ -1,0 +1,18 @@
+{
+  "df24e6aa225245e5": {
+    "url": "https://www.town.fukui-mihama.lg.jp/soshiki/29/461.html",
+    "filename": "df24e6aa225245e5.html",
+    "sha256": "7c50c1f8dcb9a6bc0f48b42cd58d1b927a61b95eced74eaec45bd3ccaadfd313",
+    "fetched_at": "2026-07-12T03:50:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "16d16f60189154b0": {
+    "url": "https://www.town.fukui-mihama.lg.jp/life/2/34/143/",
+    "filename": "16d16f60189154b0.html",
+    "sha256": "f0d952a3726dc2fc386843b2035cc1da699daf678f70f458282d7ceabc9205f3",
+    "fetched_at": "2026-07-12T03:51:00Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

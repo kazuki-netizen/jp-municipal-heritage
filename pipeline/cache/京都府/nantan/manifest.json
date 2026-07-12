@@ -1,0 +1,18 @@
+{
+  "81c66abb80746d14": {
+    "url": "https://www.city.nantan.kyoto.jp/www/life/112/013/000/index_71573.html",
+    "filename": "81c66abb80746d14.pdf",
+    "sha256": "1790dc1a8aa4f92c0cddac30b57975ec64c56f7ec074750bb48d5d083c3c7e83",
+    "fetched_at": "2026-07-12T06:25:43Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "6ccd18c935ead4b8": {
+    "url": "https://www.city.nantan.kyoto.jp/www/life/112/013/000/71573/1017445_1_501_3.pdf",
+    "filename": "6ccd18c935ead4b8.pdf",
+    "sha256": "6ccd18c935ead4b8ae512ef1a7e65be2372fd679462bfda95c6fe422d620a0a7",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

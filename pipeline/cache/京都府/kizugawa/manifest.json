@@ -1,0 +1,18 @@
+{
+  "13d10318036476ed": {
+    "url": "https://www.city.kizugawa.lg.jp/index.cfm/8,22296,37,301,html",
+    "filename": "13d10318036476ed.pdf",
+    "sha256": "74db7a816c57065fee1dbbdc6a9e404bc281ea04a0e1874c4059c5d805aaedf7",
+    "fetched_at": "2026-07-12T06:25:43Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "30ac3637e20f0deb": {
+    "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000001/1559/20250806-145539.pdf",
+    "filename": "30ac3637e20f0deb.pdf",
+    "sha256": "30ac3637e20f0deb14004433128208a0e94d43c806b8967dfd8e655d0be6d7bd",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

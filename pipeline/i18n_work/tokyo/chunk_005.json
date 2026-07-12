@@ -1,0 +1,400 @@
+[
+ {
+  "jmh_id": "JMH-131091-0124",
+  "name": "松原家文書252点",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "2006-04-25",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0132",
+  "name": "下大崎村名主島田家文書　附、写真及びガラス乾板8点2点及び3点",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "2014-03-25",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0133",
+  "name": "上大崎村名主竹内家文書70点",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "区指定",
+  "designated_date": "2016-03-29",
+  "municipality": "品川区",
+  "location": "大井6-11-1品川歴史館"
+ },
+ {
+  "jmh_id": "JMH-131091-0119",
+  "name": "文政十一年銘道標（2）1基",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "区指定",
+  "designated_date": "2004-03-23",
+  "municipality": "品川区",
+  "location": "西品川1-6-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0046",
+  "name": "宝塔寺石造庚申供養塔2基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "東五反田1-2-29"
+ },
+ {
+  "jmh_id": "JMH-131091-0047",
+  "name": "徳蔵寺石造庚申供養塔群5基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "西五反田3-5-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0048",
+  "name": "日本諸国社号等標石群43基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "西五反田3-5-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0044",
+  "name": "安楽寺供養塔群8基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "西五反田5-6-8"
+ },
+ {
+  "jmh_id": "JMH-131091-0045",
+  "name": "安養院石造念仏供養塔1基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "西五反田4-12-1"
+ },
+ {
+  "jmh_id": "JMH-131091-0061",
+  "name": "宝塔寺板木26枚",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1982-02-10",
+  "municipality": "品川区",
+  "location": "東五反田1-2-29"
+ },
+ {
+  "jmh_id": "JMH-131091-0092",
+  "name": "徳蔵寺双盤念仏用具1式",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1987-03-24",
+  "municipality": "品川区",
+  "location": "西五反田3-5-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0101",
+  "name": "雉子神社祭礼幟2旒",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1990-03-13",
+  "municipality": "品川区",
+  "location": "東五反田1-2-33"
+ },
+ {
+  "jmh_id": "JMH-131091-0122",
+  "name": "西品川三丁目石造庚申供養塔1基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "2005-04-26",
+  "municipality": "品川区",
+  "location": "西品川3-11"
+ },
+ {
+  "jmh_id": "JMH-131091-0029",
+  "name": "文政十一年銘道標1基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "西品川3-16-31"
+ },
+ {
+  "jmh_id": "JMH-131091-0024",
+  "name": "大正六年銘道標",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "西品川3-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0014",
+  "name": "雉子神社のイチョウ1本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "東五反田1-2-33"
+ },
+ {
+  "jmh_id": "JMH-131091-0009",
+  "name": "清泉女子大学のフウ1本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "東五反田3-16-21"
+ },
+ {
+  "jmh_id": "JMH-131091-0008",
+  "name": "清岸寺のサクラ1本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "上大崎1-5-15"
+ },
+ {
+  "jmh_id": "JMH-131091-0012",
+  "name": "誕生八幡神社のイチョウ(1)・誕生八幡神社のイチョウ（2）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "上大崎2-13-36"
+ },
+ {
+  "jmh_id": "JMH-131091-0030",
+  "name": "旗岡八幡神社大絵馬1面",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "旗の台3-6-12"
+ },
+ {
+  "jmh_id": "JMH-131091-0088",
+  "name": "木造摩耶夫人立像1躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1986-03-14",
+  "municipality": "品川区",
+  "location": "荏原7-6-9"
+ },
+ {
+  "jmh_id": "JMH-131091-0105",
+  "name": "木造阿弥陀如来坐像1躯",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1991-03-26",
+  "municipality": "品川区",
+  "location": "戸越2-6-31"
+ },
+ {
+  "jmh_id": "JMH-131091-0104",
+  "name": "木造阿弥陀三尊像3軀",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "区指定",
+  "designated_date": "1991-03-26",
+  "municipality": "品川区",
+  "location": "荏原1-1-3"
+ },
+ {
+  "jmh_id": "JMH-131091-0028",
+  "name": "戸越八幡神社石造狛犬1対",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1978-11-22",
+  "municipality": "品川区",
+  "location": "戸越2-6-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0068",
+  "name": "戸越八幡神社奉納絵馬25面",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1983-03-12",
+  "municipality": "品川区",
+  "location": "戸越2-6-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0087",
+  "name": "旗の台一丁目石造庚申供養塔1基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1986-03-14",
+  "municipality": "品川区",
+  "location": "旗の台1-1"
+ },
+ {
+  "jmh_id": "JMH-131091-0093",
+  "name": "旧中原街道供養塔群（一）4基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1988-03-22",
+  "municipality": "品川区",
+  "location": "荏原1-15-10"
+ },
+ {
+  "jmh_id": "JMH-131091-0094",
+  "name": "旧中原街道供養塔群（二）6基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1988-03-22",
+  "municipality": "品川区",
+  "location": "荏原2-9-18"
+ },
+ {
+  "jmh_id": "JMH-131091-0136",
+  "name": "小山台一丁目石造庚申供養塔1基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "品川区",
+  "location": "小山台1-21-17（お猿橋庚申堂内）"
+ },
+ {
+  "jmh_id": "JMH-131091-0096",
+  "name": "大原不動堂内石造供養塔群5基",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1990-03-13",
+  "municipality": "品川区",
+  "location": "豊町5-1-15大原不動堂内"
+ },
+ {
+  "jmh_id": "JMH-131091-0042",
+  "name": "天保二年銘道標1基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "中延5-12-8"
+ },
+ {
+  "jmh_id": "JMH-131091-0050",
+  "name": "柳亭種彦墓1基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "荏原1-1-19浄土寺墓地"
+ },
+ {
+  "jmh_id": "JMH-131091-0043",
+  "name": "孟宗筍栽培記念碑1基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1980-03-11",
+  "municipality": "品川区",
+  "location": "小山1-5-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0085",
+  "name": "天明三年銘石造道標1基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-03-14",
+  "municipality": "品川区",
+  "location": "中延5-11-16"
+ },
+ {
+  "jmh_id": "JMH-131091-0086",
+  "name": "寛政元年銘石造道標1基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "区指定",
+  "designated_date": "1986-03-14",
+  "municipality": "品川区",
+  "location": "小山2-7"
+ },
+ {
+  "jmh_id": "JMH-131091-0011",
+  "name": "葛原神社のボダイジュ1本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "荏原6-2-13"
+ },
+ {
+  "jmh_id": "JMH-131091-0005",
+  "name": "小山八幡神社のシイ（1）・小山八幡神社のシイ（2）2本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "荏原7-5-14"
+ },
+ {
+  "jmh_id": "JMH-131091-0006",
+  "name": "戸越八幡神社のケンポナシ1本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "戸越2-6-23"
+ },
+ {
+  "jmh_id": "JMH-131091-0013",
+  "name": "金子家のカキ1本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1978-02-14",
+  "municipality": "品川区",
+  "location": "豊町4"
+ },
+ {
+  "jmh_id": "JMH-132187-0001",
+  "name": "北条氏照制札",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1976-06-29",
+  "municipality": "福生市"
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "57b8b213eceaca36": {
+    "url": "https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/2767.pdf",
+    "filename": "57b8b213eceaca36.pdf",
+    "sha256": "1222426580962e310fa3fe9d1cab220987c659cd14ea872a01b39e6d52529010",
+    "fetched_at": "2026-07-12T03:46:44Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "8973765090ccd743": {
+    "url": "https://www.city.yamanashi.yamanashi.jp/site/cultural-assets/list131.html",
+    "filename": "8973765090ccd743.html",
+    "sha256": "bd17fa4d9a2e7808308f8925baefeea8995e0bef5aa7a393d0fc154af2cc0c98",
+    "fetched_at": "2026-07-12T03:46:45Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "0a83f676bdda7b42": {
+    "url": "https://www.city.hakusan.lg.jp/bunka/bunkazai/1006458/1006671.html",
+    "filename": "0a83f676bdda7b42.html",
+    "sha256": "d371776ac7df69557ba6955f97b5d875af712b5e7a7abd49f22e33d0a84a33f2",
+    "fetched_at": "2026-07-12T03:54:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c58a7dc977381d2c": {
+    "url": "https://www.city.hakusan.lg.jp/bunka/bunkazai/1006096/index.html",
+    "filename": "c58a7dc977381d2c.html",
+    "sha256": "1b8a805dde08717c26c910bf88dccf729dc45b2900bf06a9b82d1be62f6d12fd",
+    "fetched_at": "2026-07-12T03:54:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ad8284652794e4f0": {
+    "url": "https://www.city.hakusan.lg.jp/kankoubunkasportbu/bunkazaihogo/contents_list/bunkazaitoppu/bunkazainoshubetsu/kenbun.html",
+    "filename": "ad8284652794e4f0.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:54:30Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}

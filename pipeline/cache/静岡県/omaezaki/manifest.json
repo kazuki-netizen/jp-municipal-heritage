@@ -1,0 +1,18 @@
+{
+  "40db1c5d2dd113de": {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/sports_bunka/bunka_gejutsu/bunkazai/ichiran.html",
+    "filename": "40db1c5d2dd113de.html",
+    "sha256": "122a3d372e3dd1aecf414196fbac4a4973dffeacf57e37c9799df8b8f13cb46f",
+    "fetched_at": "2026-07-12T03:51:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f335949476765c51": {
+    "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/26/shinaisiteibunnkazaiitirann2.pdf",
+    "filename": "f335949476765c51.pdf",
+    "sha256": "04b82c9c1fc7aca8aac72b4e17cfe3bd9db687a46c1f3b4086e314a927ece8b0",
+    "fetched_at": "2026-07-12T03:51:40Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

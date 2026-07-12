@@ -1,0 +1,10 @@
+{
+  "3569845031129b41": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212156-008",
+    "filename": "3569845031129b41.bin",
+    "sha256": "fefb86e4234ab5608074c2eb9680393837108b512b492df0b80a65c97429d8da",
+    "fetched_at": "2026-07-12T05:59:56Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

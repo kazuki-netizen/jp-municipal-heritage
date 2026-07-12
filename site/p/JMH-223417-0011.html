@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>北条家禁制朱印状 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>北条家禁制朱印状</h1>
+    <p class="jmh-id">JMH-223417-0011</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>静岡県</dd>
+      <dt>市町村</dt><dd>清水町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>美術工芸品</dd>
+      <dt>指定年月日</dt><dd>1988-01-22</dd>
+      <dt>所在地</dt><dd>八幡神社 静岡県駿東郡清水町八幡39</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数：1通／所有者：八幡神社／北条氏の村落支配と軍制を知ることが出来る文書</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://opendata.pref.shizuoka.jp/dataset/7806/resource/40884/content.html" target="_blank" rel="noopener">https://opendata.pref.shizuoka.jp/dataset/7806/resource/40884/content.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"北条家禁制朱印状" (JMH-223417-0011), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([42.900589, 140.795959], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([42.900589, 140.795959]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+ "09dceead525b0621": {
+  "url": "https://www.town.fujimi.lg.jp/site/toukei/somu-kikaku-09-12.html",
+  "filename": "09dceead525b0621.html",
+  "sha256": "f9953336fe769616785eb748371ef85290dcb59bb70265d4e9fd0cbe3d8463e9",
+  "fetched_at": "2026-07-12T04:28:16Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.town.fujimi.lg.jp/site/toukei/somu-kikaku-09-12.html": {
+  "file": "09dceead525b0621.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:03:06Z"
+ }
+}

@@ -1,0 +1,26 @@
+{
+  "01f991decf40aebf": {
+    "url": "https://www.city.suzu.lg.jp/site/opendate/4900.html",
+    "filename": "01f991decf40aebf.bin",
+    "sha256": "18b17c84887f26d1b5874f1f96e273f52afda6d1dbfca50e9c4d6571e222ba1e",
+    "fetched_at": "2026-07-12T03:54:12Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "e5b257018a7131a8": {
+    "url": "https://www.city.suzu.lg.jp/uploaded/attachment/8261.csv",
+    "filename": "e5b257018a7131a8.bin",
+    "sha256": "9975fde4f024d389679bb954911410211c6e21f4c992e0a915960485cf03fcca",
+    "fetched_at": "2026-07-12T03:54:14Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "0fa364e4b0e268d5": {
+    "url": "https://www.city.suzu.lg.jp/soshiki/2/1753.html",
+    "filename": "0fa364e4b0e268d5.html",
+    "sha256": "44ec523e9c54efa9c0e70751334dcbb4e6d5dc89d9253b767a4fb38795e25068",
+    "fetched_at": "2026-07-12T03:54:16Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

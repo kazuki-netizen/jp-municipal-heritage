@@ -1,0 +1,26 @@
+{
+  "96c364075b27436e": {
+    "url": "https://www.town.taki.mie.jp/life/soshiki/kyoiku/bunka_sport/3/bunkzai/477.html",
+    "filename": "96c364075b27436e.html",
+    "sha256": "e90af2041d5fe87899e2fe2841c4a67395e95384ae02de426b378955a2b0f812",
+    "fetched_at": "2026-07-12T06:13:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f8ff12c3c3194961": {
+    "url": "https://www.town.taki.mie.jp/life/soshiki/kyoiku/bunka_sport/3/bunkzai/478.html",
+    "filename": "f8ff12c3c3194961.html",
+    "sha256": "0be248594f8231dcff5fb6d33c81902309b8059c545b5407400f4793dc3e4975",
+    "fetched_at": "2026-07-12T06:14:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7bddf46f1abe0e37": {
+    "url": "https://www.town.taki.mie.jp/life/soshiki/kyoiku/bunka_sport/3/479.html",
+    "filename": "7bddf46f1abe0e37.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T06:14:02Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}

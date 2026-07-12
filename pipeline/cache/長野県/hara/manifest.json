@@ -1,0 +1,15 @@
+{
+ "5bc1ba3a8cb20b3a": {
+  "url": "https://www.vill.hara.lg.jp/docs/832.html",
+  "filename": "5bc1ba3a8cb20b3a.html",
+  "sha256": "b1ed455e7b796aa5a7afcf527e854452832d67354d36a3d89708ebc39ee09a65",
+  "fetched_at": "2026-07-12T04:28:16Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.vill.hara.lg.jp/docs/832.html": {
+  "file": "5bc1ba3a8cb20b3a.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:02:54Z"
+ }
+}

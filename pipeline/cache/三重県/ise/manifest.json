@@ -1,0 +1,18 @@
+{
+  "b257d08537544485": {
+    "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/002/139/siteibunkazaiitiran7.11.17.pdf",
+    "filename": "b257d08537544485.pdf",
+    "sha256": "d26ac3ee7daeba00d85bf7cfcac7c9346bf4ee5a7da6360d2bb49fb9129a9a5c",
+    "fetched_at": "2026-07-12T06:13:23Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "de46588387da1e0b": {
+    "url": "https://www.city.ise.mie.jp/cul_spo_edu/culture/bunkazai_shiseki/bunkazai/index.html",
+    "filename": "de46588387da1e0b.html",
+    "sha256": "d8efa2a3c677828561638d737c49a618bc112b0190f597f9160081134ad48109",
+    "fetched_at": "2026-07-12T06:13:25Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

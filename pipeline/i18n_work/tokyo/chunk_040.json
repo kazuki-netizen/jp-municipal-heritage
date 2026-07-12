@@ -1,0 +1,388 @@
+[
+ {
+  "jmh_id": "JMH-133035-0001",
+  "name": "中興開山月叟壽像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "殿ケ谷1129"
+ },
+ {
+  "jmh_id": "JMH-133035-0014",
+  "name": "阿弥陀如来像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "石畑1708"
+ },
+ {
+  "jmh_id": "JMH-133035-0007",
+  "name": "御嶽神社本殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "石畑1848"
+ },
+ {
+  "jmh_id": "JMH-133035-0016",
+  "name": "吉野岳地蔵堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "1977-05-28",
+  "municipality": "瑞穂町",
+  "location": "石畑1805-1"
+ },
+ {
+  "jmh_id": "JMH-133035-0005",
+  "name": "古文書（長谷部幸家）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "長岡長谷部"
+ },
+ {
+  "jmh_id": "JMH-133035-0006",
+  "name": "古文書（長谷部良家）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "長岡長谷部"
+ },
+ {
+  "jmh_id": "JMH-133035-0004",
+  "name": "古文書（栗原家）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "駒形富士山"
+ },
+ {
+  "jmh_id": "JMH-133035-0002",
+  "name": "古文書（教育委員会）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "駒形富士山316-5"
+ },
+ {
+  "jmh_id": "JMH-133035-0003",
+  "name": "古文書（村山家）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "箱根ケ崎"
+ },
+ {
+  "jmh_id": "JMH-133035-0021",
+  "name": "加藤塚跡地",
+  "category": "その他",
+  "subcategory": "旧跡",
+  "designation": "町指定",
+  "designated_date": "2013-02-28",
+  "municipality": "瑞穂町",
+  "location": "箱根ケ崎315"
+ },
+ {
+  "jmh_id": "JMH-133035-0010",
+  "name": "神明神社の欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "石畑1773"
+ },
+ {
+  "jmh_id": "JMH-133035-0011",
+  "name": "福正寺多羅葉樹",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "殿ケ谷1129"
+ },
+ {
+  "jmh_id": "JMH-133035-0008",
+  "name": "浅間神社の檜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "箱根ケ崎2598"
+ },
+ {
+  "jmh_id": "JMH-133035-0015",
+  "name": "五輪様のかきの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1977-05-28",
+  "municipality": "瑞穂町",
+  "location": "駒形富士山376"
+ },
+ {
+  "jmh_id": "JMH-133035-0009",
+  "name": "石畑重松囃子",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "石畑"
+ },
+ {
+  "jmh_id": "JMH-133035-0013",
+  "name": "箱根ケ崎獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1973-03-20",
+  "municipality": "瑞穂町",
+  "location": "箱根ケ崎"
+ },
+ {
+  "jmh_id": "JMH-133035-0017",
+  "name": "殿ケ谷の山車",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "2006-07-06",
+  "municipality": "瑞穂町",
+  "location": "殿ケ谷1034-2"
+ },
+ {
+  "jmh_id": "JMH-133035-0018",
+  "name": "石畑の山車",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "2006-07-06",
+  "municipality": "瑞穂町",
+  "location": "石畑1848"
+ },
+ {
+  "jmh_id": "JMH-133035-0019",
+  "name": "殿ケ谷の神輿",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "2012-03-22",
+  "municipality": "瑞穂町",
+  "location": "殿ケ谷1034-2"
+ },
+ {
+  "jmh_id": "JMH-133035-0020",
+  "name": "高根の神輿",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "2012-03-22",
+  "municipality": "瑞穂町",
+  "location": "高根94-8"
+ },
+ {
+  "jmh_id": "JMH-133621-0004",
+  "name": "クロマツ　別名オマツ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "利島村",
+  "location": "利島村"
+ },
+ {
+  "jmh_id": "JMH-133621-0005",
+  "name": "シマモクセイ　別名ハチジョウモクセイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "利島村",
+  "location": "利島村"
+ },
+ {
+  "jmh_id": "JMH-133621-0001",
+  "name": "イヌマキ　別名クサマキマキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "利島村",
+  "location": "利島村"
+ },
+ {
+  "jmh_id": "JMH-133621-0003",
+  "name": "オオモミジ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "利島村",
+  "location": "利島村"
+ },
+ {
+  "jmh_id": "JMH-133621-0006",
+  "name": "スダジイ　別名イメジイ・ナカジイ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "利島村",
+  "location": "利島村"
+ },
+ {
+  "jmh_id": "JMH-133621-0002",
+  "name": "イブキ　別名ビャクシン・イブキビャクシン",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "村指定",
+  "designated_date": "2002-10-01",
+  "municipality": "利島村",
+  "location": "利島村"
+ },
+ {
+  "jmh_id": "JMH-131202-0022",
+  "name": "小島家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "石神井公園ふるさと文化館 石神井町5丁目12番16号"
+ },
+ {
+  "jmh_id": "JMH-131202-0018",
+  "name": "南蔵院鐘楼門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "南蔵院 中村1丁目15番"
+ },
+ {
+  "jmh_id": "JMH-131202-0015",
+  "name": "北条氏康印判状",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "道場寺 石神井台1丁目16番"
+ },
+ {
+  "jmh_id": "JMH-131202-0036",
+  "name": "町田家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "個人所有 東大泉7丁目"
+ },
+ {
+  "jmh_id": "JMH-131202-0031",
+  "name": "服部半蔵奉納の仁王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "御嶽神社 高松3丁目19番"
+ },
+ {
+  "jmh_id": "JMH-131202-0046",
+  "name": "長命寺仁王門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "長命寺 高野台3丁目10番"
+ },
+ {
+  "jmh_id": "JMH-131202-0030",
+  "name": "春日町出土の壺形土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "石神井公園ふるさと文化館 石神井町5丁目12番16号"
+ },
+ {
+  "jmh_id": "JMH-131202-0021",
+  "name": "妙福寺文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "妙福寺 南大泉5丁目6番"
+ },
+ {
+  "jmh_id": "JMH-131202-0025",
+  "name": "尾崎遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "春日小学校 春日町5丁目12番"
+ },
+ {
+  "jmh_id": "JMH-131202-0003",
+  "name": "下練馬の大山道道標",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "北町1丁目25番地先"
+ },
+ {
+  "jmh_id": "JMH-131202-0041",
+  "name": "豊島氏奉納の石燈籠",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "氷川神社 石神井台1丁目18番"
+ },
+ {
+  "jmh_id": "JMH-131202-0026",
+  "name": "御府内并村方旧記",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "個人所有 平和台1丁目"
+ },
+ {
+  "jmh_id": "JMH-131202-0010",
+  "name": "井口家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "個人所有 関町北2丁目"
+ },
+ {
+  "jmh_id": "JMH-131202-0011",
+  "name": "井口家文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "区指定",
+  "municipality": "練馬区",
+  "location": "個人所有 関町南4丁目"
+ }
+]

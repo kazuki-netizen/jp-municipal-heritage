@@ -1,0 +1,34 @@
+{
+  "ce2be27bbd17f9c2": {
+    "url": "https://www.town.gifu-ikeda.lg.jp/kankou/category/4-6-4-0-0-0-0-0-0-0.html",
+    "filename": "ce2be27bbd17f9c2.html",
+    "sha256": "1981788c1b9b217d14bca1747ae1e798712fe894d655a25cd0b0727d16d655bd",
+    "fetched_at": "2026-07-12T06:00:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d57baf9fcfabdb47": {
+    "url": "https://www.town.gifu-ikeda.lg.jp/kankou/category/4-6-1-0-0-0-0-0-0-0.html",
+    "filename": "d57baf9fcfabdb47.html",
+    "sha256": "aadeb460929c4ba9812bb3494a17746c8524c9b396da9d737ad5fd0938223666",
+    "fetched_at": "2026-07-12T06:00:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bc7e3d5e46996afb": {
+    "url": "https://www.town.gifu-ikeda.lg.jp/kankou/category/4-6-2-0-0-0-0-0-0-0.html",
+    "filename": "bc7e3d5e46996afb.html",
+    "sha256": "59c64f7ab7d32270c87bb0179fb99fbcd7c83ffb96dfa386bd23876eeaf6961a",
+    "fetched_at": "2026-07-12T06:00:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f15df0e0480cdaeb": {
+    "url": "https://www.town.gifu-ikeda.lg.jp/kankou/category/4-6-5-0-0-0-0-0-0-0.html",
+    "filename": "f15df0e0480cdaeb.html",
+    "sha256": "755d18cedee82811e1d8df614aea0f5d002fd9234b604c4f1cd240ebdbe822bd",
+    "fetched_at": "2026-07-12T06:00:56Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "f0544ea48a1d3eea": {
+    "url": "https://www.city.kumano.lg.jp/tourism/?content=156",
+    "filename": "f0544ea48a1d3eea.html",
+    "sha256": "b59807595a5ea3a664a7a1f1654dc2046a45b2ca2c09bbb64c5deea182ead7a4",
+    "fetched_at": "2026-07-12T06:13:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "97efe460767144ae": {
+    "url": "https://www.city.kumano.lg.jp/tourism/?content=149",
+    "filename": "97efe460767144ae.html",
+    "sha256": "5d8da713e9f001f008bee4146795178968710b69ac7f13e19bdcc4e766336879",
+    "fetched_at": "2026-07-12T06:13:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "711d10489951cfc6": {
+    "url": "https://www.city.kumano.lg.jp/tourism/?content=64",
+    "filename": "711d10489951cfc6.html",
+    "sha256": "c6798c92e2db21d7077aa9d570a19e8368403183340b5c9b4f424fa9ba74190e",
+    "fetched_at": "2026-07-12T06:13:46Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

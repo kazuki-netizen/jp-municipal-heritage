@@ -1,0 +1,18 @@
+{
+  "7fa5cb308ced2609": {
+    "url": "https://www.city.gose.nara.jp/0000001352.html",
+    "filename": "7fa5cb308ced2609.html",
+    "sha256": "882b8e387a5061d89f5be191ef944cd21c0614e4983557699148e309d28ddb23",
+    "fetched_at": "2026-07-12T06:42:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b70b17451da3e39d": {
+    "url": "https://www.city.gose.nara.jp/0000001354.html",
+    "filename": "b70b17451da3e39d.html",
+    "sha256": "d42bc8b8b46a9304b1df8cc03d1a4f1fa84591e9247c4637330d701302ae2459",
+    "fetched_at": "2026-07-12T06:42:36Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

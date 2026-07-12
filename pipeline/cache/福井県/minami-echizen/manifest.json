@@ -1,0 +1,18 @@
+{
+  "2619ef8b9e03a9c7": {
+    "url": "https://www.town.minamiechizen.lg.jp/kurasi/103/128/p001083.html",
+    "filename": "2619ef8b9e03a9c7.html",
+    "sha256": "c5ce723815495c9359bd459decaaf5ea6282353bb78ff13d670e929ded5d7465",
+    "fetched_at": "2026-07-12T03:50:55Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "90d119600bdcc1b8": {
+    "url": "https://www.town.minamiechizen.lg.jp/kurasi/103/128/p001072.html",
+    "filename": "90d119600bdcc1b8.html",
+    "sha256": "103598bc8a3c8556210eec31b31700831c70ddcaf7e569b120adc8b3149e2989",
+    "fetched_at": "2026-07-12T03:50:57Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

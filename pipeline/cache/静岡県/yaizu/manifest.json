@@ -1,0 +1,18 @@
+{
+  "3b934b6cd3bb7e15": {
+    "url": "https://www.city.yaizu.lg.jp/museum/rekimin/bunkazai/shitei/index.html",
+    "filename": "3b934b6cd3bb7e15.html",
+    "sha256": "d16483a6f118daf6fcc1cee31c58eee2ac6ceac2ff83ace22f874602046c0aa3",
+    "fetched_at": "2026-07-12T03:51:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "84094418d8a7708c": {
+    "url": "https://www.city.yaizu.lg.jp/documents/3279/shiteitoubunkazaiichiran.pdf",
+    "filename": "shiteitoubunkazaiichiran.pdf",
+    "sha256": "8ec21f9afea97072ef8f98d0074e169ec6ec9491223aa7d52931aec71e3cd0e1",
+    "fetched_at": "2026-07-12T04:32:00Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "755cb36f544b934a": {
+    "url": "https://www.city.nagakute.lg.jp/kanko_bunka_sports/5/7/index.html",
+    "filename": "755cb36f544b934a.html",
+    "sha256": "9f319de9ecee6fed5d0b5f926510ec09d940571c15dadf3f45611bb2121fe7dc",
+    "fetched_at": "2026-07-12T06:14:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c38a37dd3fe36efa": {
+    "url": "https://www.city.nagakute.lg.jp/kanko_bunka_sports/5/7/9932.html",
+    "filename": "c38a37dd3fe36efa.html",
+    "sha256": "d003239a18c850577d97aaf3b5ffa971c1decddcda631466dc30fa59a675f949",
+    "fetched_at": "2026-07-12T06:39:08Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

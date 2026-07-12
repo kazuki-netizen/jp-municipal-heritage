@@ -1,0 +1,18 @@
+{
+  "2f7a029f18d009e8": {
+    "url": "https://www.town.aichi-mihama.lg.jp/soshiki/shogaigakushu/shogaigakushu/1/4/319.html",
+    "filename": "2f7a029f18d009e8.pdf",
+    "sha256": "a3a26ec12359a3bf1a03387bb195527717c3f4097fe634b49a7ed0c664d5cd58",
+    "fetched_at": "2026-07-12T06:14:31Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "fa4abf031befb9ec": {
+    "url": "https://www.town.aichi-mihama.lg.jp/material/files/group/33/mihama-bunkazaiR050328.pdf",
+    "filename": "fa4abf031befb9ec.pdf",
+    "sha256": "d225b413fc1ca898c04a13eaeae3c61a7b8c36251ccb0b40f5ea97ba407b78d4",
+    "fetched_at": "2026-07-12T06:29:04Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

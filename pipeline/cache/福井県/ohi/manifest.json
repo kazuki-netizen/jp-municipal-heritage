@@ -1,0 +1,19 @@
+{
+  "030d45a404471ccc": {
+    "url": "https://townohi-lib.jp/siryo/bunkazai/",
+    "filename": "030d45a404471ccc.html",
+    "sha256": "81a9add3246e3b02b6e89d1eba5db71f262152dc20382a0ba45ba4bebb99b178",
+    "fetched_at": "2026-07-12T03:51:02Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "shitei_ichiran": {
+    "url": "http://townohi-lib.jp/siryo/wp-content/uploads/2017/12/8e0408d5202e9e4596bc0c16c284ee6b.pdf",
+    "filename": "shitei_ichiran.pdf",
+    "sha256": "8568858995c0293573f34973e1900bd56ec6e47eba01f3ee6fe910858549e5cf",
+    "fetched_at": "2026-07-12T04:48:54Z",
+    "http_status": 200,
+    "format": "pdf",
+    "note": "hub-subpage fetch: linked PDF from cached おおいの文化財 page"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "3dde2bc658508ac9": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212199-008",
+    "filename": "3dde2bc658508ac9.bin",
+    "sha256": "68ac94e57b07d946ac8551407184acf34b4738a020a3dc4fa79084884f690eea",
+    "fetched_at": "2026-07-12T06:00:04Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

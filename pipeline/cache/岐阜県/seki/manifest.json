@@ -1,0 +1,50 @@
+{
+  "252ccedae4c77b0e": {
+    "url": "https://www.city.seki.lg.jp/kanko/0000006027.html",
+    "filename": "252ccedae4c77b0e.html",
+    "sha256": "07de48b5cc70693543e71ff5b87ce55ea5c8063efee505ea60e096eb643fe601",
+    "fetched_at": "2026-07-12T05:59:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ba53b98a0ba044d2": {
+    "url": "https://www.city.seki.lg.jp/kanko/0000006028.html",
+    "filename": "ba53b98a0ba044d2.html",
+    "sha256": "2fad1c95344cfc8656668e4560199ac6336a9253eaa7e952cf5b5e95fde5a566",
+    "fetched_at": "2026-07-12T05:59:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a39472330ff0fbdc": {
+    "url": "https://www.city.seki.lg.jp/kanko/0000006029.html",
+    "filename": "a39472330ff0fbdc.html",
+    "sha256": "0f2d224da5cf337326d7ad9483d3473b6c9a7def04b19c6e1c3a99c5d9c184dd",
+    "fetched_at": "2026-07-12T05:59:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "33ab16d86ad8dd20": {
+    "url": "https://www.city.seki.lg.jp/kanko/0000006030.html",
+    "filename": "33ab16d86ad8dd20.html",
+    "sha256": "f2a617827d8763ffa850e774d0ea64703a5420a80e066a02dca7f9af038b99c4",
+    "fetched_at": "2026-07-12T05:59:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5cfb58f29a3d12d5": {
+    "url": "https://www.city.seki.lg.jp/kanko/0000006031.html",
+    "filename": "5cfb58f29a3d12d5.html",
+    "sha256": "e280715fcd005e6da8297ca620fa46008d5e2f36f822250f8672ada8c8a0cb40",
+    "fetched_at": "2026-07-12T05:59:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f8108e7ea510a699": {
+    "url": "https://www.city.seki.lg.jp/kanko/0000006025.html",
+    "filename": "f8108e7ea510a699.html",
+    "sha256": "8f8fe98480d5b36e981a9fdc6d72ff0c5118b8c618cf6fce222b6ed366bdf946",
+    "fetched_at": "2026-07-12T05:59:38Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

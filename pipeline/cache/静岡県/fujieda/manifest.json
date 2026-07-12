@@ -1,0 +1,50 @@
+{
+  "358e43be05f7599f": {
+    "url": "https://www.city.fujieda.shizuoka.jp/kyodomuse/11/13/1445916427044.html",
+    "filename": "358e43be05f7599f.html",
+    "sha256": "d99d937c4c20a4d2e37e0d1160acfc9309d5d077a940934223fb657e14f6b15b",
+    "fetched_at": "2026-07-12T03:51:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1ccdeca51220cc09": {
+    "url": "https://opendata.pref.shizuoka.jp/mobile/dataset/9750/resource/66369/content.html",
+    "filename": null,
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:51:26Z",
+    "http_status": null,
+    "skipped": "disallowed:bunkazai-collector/1.0 (+https://github.com/kazuki-netizen/jp-municipal-heritage; public cultural-property data; contact via repo issues)"
+  },
+  "53c0e87370e47966": {
+    "url": "http://www.city.fujieda.shizuoka.jp/shisei/profile/1447731246765.html",
+    "filename": "bunkazai_top.html",
+    "sha256": "1119386626686383948f9bae786e0afc1491d5766c67ffbc9e789c916e67891b",
+    "fetched_at": "2026-07-12T04:45:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5aa3ae02eec544c1": {
+    "url": "https://www.city.fujieda.shizuoka.jp/soshiki/sports_bunka/bunkazai/gyomu/1/1445916678885.html",
+    "filename": "bunkazai_gyomu.html",
+    "sha256": "8bf2092b97b3dc0e02c590f475176904571b7ef8728c9eb1829a87f17f7005ca",
+    "fetched_at": "2026-07-12T04:45:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6a113dbdc9923cb0": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/9750.html",
+    "filename": "opendata_dataset.html",
+    "sha256": "47ce063bb11cb804d52b0240be2cc60c5e4a7df6010c884d600b7e95e8003552",
+    "fetched_at": "2026-07-12T04:45:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bcb368c5a66d56bc": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/9750/resource/66369/222143_cultural_property.csv",
+    "filename": "cultural_property.csv",
+    "sha256": "5e1346498673921406c8836d59f878a9d9c5430dd197b8b038d0f18898af8814",
+    "fetched_at": "2026-07-12T04:45:00Z",
+    "http_status": 200,
+    "format": "csv"
+  }
+}

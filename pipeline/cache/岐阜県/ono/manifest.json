@@ -1,0 +1,10 @@
+{
+  "214eb120ea68ca31": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c214035-007",
+    "filename": "214eb120ea68ca31.bin",
+    "sha256": "d23e3360f9e0bf9ab2e4f1b28d48d41e9ae0a201624049c3a60a5298c1d113ed",
+    "fetched_at": "2026-07-12T06:00:29Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

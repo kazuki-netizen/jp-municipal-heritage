@@ -1,0 +1,18 @@
+{
+  "17ae66e830052efe": {
+    "url": "https://www.city.yokkaichi.lg.jp/www/genre/1658992206280/index.html",
+    "filename": "17ae66e830052efe.html",
+    "sha256": "7a99ab5f83307a28645d165aac54ef546f137fb9727d70711cb06f902511b08f",
+    "fetched_at": "2026-07-12T06:13:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b79f1fe94ff99838": {
+    "url": "https://www.city.yokkaichi.mie.jp/kyouiku/bunkazai/",
+    "filename": "b79f1fe94ff99838.html",
+    "sha256": "328c25a2c236c82599fec993a2d5a3e9f64eb73e66f0a77cfd8eeba886a2a723",
+    "fetched_at": "2026-07-12T06:13:23Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

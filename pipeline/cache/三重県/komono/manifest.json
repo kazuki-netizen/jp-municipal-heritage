@@ -1,0 +1,18 @@
+{
+  "72a6bbe685965b60": {
+    "url": "https://www2.town.komono.mie.jp/site/kankou/1047.html",
+    "filename": "72a6bbe685965b60.html",
+    "sha256": "c554a9611501e603029133076d0f1b694632e0a2d2a20a7428eaefb0188b140c",
+    "fetched_at": "2026-07-12T06:13:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "590ce4af3837ef98": {
+    "url": "https://www2.town.komono.mie.jp/soshiki/6/2161.html",
+    "filename": "590ce4af3837ef98.html",
+    "sha256": "50d74cff8aa078f7a5933efd790096fdb6703bed9ae0e7f9bef32edc7c84230e",
+    "fetched_at": "2026-07-12T06:13:58Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

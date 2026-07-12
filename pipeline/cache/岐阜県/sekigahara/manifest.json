@@ -1,0 +1,10 @@
+{
+  "89bf56f999f65567": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c213624-007",
+    "filename": "89bf56f999f65567.bin",
+    "sha256": "fab748516dfc646d88e7ba41cbb91227f09d54cbcfd93b7cde3180f4b2021b51",
+    "fetched_at": "2026-07-12T06:00:18Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

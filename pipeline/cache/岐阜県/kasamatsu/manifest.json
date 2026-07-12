@@ -1,0 +1,10 @@
+{
+  "f39594daeb12bffb": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c213039-008",
+    "filename": "f39594daeb12bffb.bin",
+    "sha256": "122bd5190868070a9eb7946679427d19d66a049d66423b4f5c78a7a00bdd5358",
+    "fetched_at": "2026-07-12T06:00:13Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

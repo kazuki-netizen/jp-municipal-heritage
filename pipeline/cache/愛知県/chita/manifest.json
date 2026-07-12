@@ -1,0 +1,18 @@
+{
+  "8d9b0a30dee32ae6": {
+    "url": "https://www.city.chita.lg.jp/docs/2020071000028/",
+    "filename": "8d9b0a30dee32ae6.pdf",
+    "sha256": "49a9bec970fddcc25562b296f7aac664cf76164243da048ae3fb11c0e9f108eb",
+    "fetched_at": "2026-07-12T06:14:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "39b36540cef5cbc2": {
+    "url": "https://www.city.chita.lg.jp/docs/2020071000028/file_contents/bunkazai.pdf",
+    "filename": "39b36540cef5cbc2.pdf",
+    "sha256": "c440d69a541cd94fab89f4bb1743b492e74c39fb21c57e1787bdc1b00d0c3a6c",
+    "fetched_at": "2026-07-12T06:14:18Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

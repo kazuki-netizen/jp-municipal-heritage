@@ -1,0 +1,50 @@
+{
+  "303302c1392fff84": {
+    "url": "https://www.city.takayama.lg.jp/kurashi/1000021/1000119/1000847/1000848/1004122.html",
+    "filename": "303302c1392fff84.html",
+    "sha256": "c3c6b826edb7b4a3839f3f6e706bb60e7330cc50128ec566b79ead6910fe7177",
+    "fetched_at": "2026-07-12T05:59:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5e0baf068e7725f4": {
+    "url": "https://www.city.takayama.lg.jp/kurashi/1000021/1000119/1000847/1000899/index.html",
+    "filename": "5e0baf068e7725f4.html",
+    "sha256": "a78dd339eaacafdc493233de069653cbf043c9cb54b246a1ea5535c620ea7b7c",
+    "fetched_at": "2026-07-12T05:59:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5fd3635265ad19b3": {
+    "url": "https://www.city.takayama.lg.jp/kurashi/1000021/1000119/1000847/1000913/1004124.html",
+    "filename": "5fd3635265ad19b3.html",
+    "sha256": "6ba60f7a4c659058aa41a2187fda006b8a0ae50ae56898354b9e16900aa609a8",
+    "fetched_at": "2026-07-12T05:59:21Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "90c05bcb07318464": {
+    "url": "https://www.city.takayama.lg.jp/kurashi/1000021/1000119/1000847/1000915/1004125.html",
+    "filename": "90c05bcb07318464.html",
+    "sha256": "701ecc77611d9879cbd42b9a558809cfc1f26387ea1d64618bcef07af3c69898",
+    "fetched_at": "2026-07-12T05:59:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e193807f0870617a": {
+    "url": "https://www.city.takayama.lg.jp/kurashi/1000021/1000119/1000847/1000954/1004126.html",
+    "filename": "e193807f0870617a.html",
+    "sha256": "f5a2ae5c658c892035e6c5d47151dbfae7b3cef6da685f09e668601590ab5c28",
+    "fetched_at": "2026-07-12T05:59:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "06c14ebf0642b2a8": {
+    "url": "https://www.city.takayama.lg.jp/kurashi/1000021/1000119/1000847/1000994/index.html",
+    "filename": "06c14ebf0642b2a8.html",
+    "sha256": "b733f0d73730a06b9786673131f499f48f3d639689994d18fd755252d3972e51",
+    "fetched_at": "2026-07-12T05:59:27Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

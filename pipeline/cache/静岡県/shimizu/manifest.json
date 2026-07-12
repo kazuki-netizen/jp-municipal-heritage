@@ -1,0 +1,18 @@
+{
+  "8fd77e30fbf3bcc7": {
+    "url": "https://www.town.shimizu.shizuoka.jp/koryu/syakai00241.html",
+    "filename": "8fd77e30fbf3bcc7.html",
+    "sha256": "e2de09fc7d407d9f3d6c282dde9b7a711b1d3c5eed72b0a1194c78d42f53bcdc",
+    "fetched_at": "2026-07-12T03:51:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cb173ba194f596dd": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/7806/resource/40884/content.html",
+    "filename": "cb173ba194f596dd.html",
+    "sha256": "d7e2cebb9dfe5a0b95df7c743833ab1dee43b41c55ebcaee6958314571842e9c",
+    "fetched_at": "2026-07-12T03:51:44Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

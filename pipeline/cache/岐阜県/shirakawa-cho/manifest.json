@@ -1,0 +1,10 @@
+{
+  "1784c64214ac47b1": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215066-008",
+    "filename": "1784c64214ac47b1.bin",
+    "sha256": "190d9d459053afccebac7680fce0602a7532b94c0997ef8a382c61e47aee1b1d",
+    "fetched_at": "2026-07-12T06:00:43Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

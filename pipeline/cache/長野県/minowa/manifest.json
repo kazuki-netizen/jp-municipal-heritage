@@ -1,0 +1,18 @@
+{
+  "3d27c9b0c416373c": {
+    "url": "https://www.town.minowa.lg.jp/soshiki/bunka_sport/gyomu/11/1/726.html",
+    "filename": "3d27c9b0c416373c.html",
+    "sha256": "d421ae2b9f86b3c91b79bb9de9b2a6e49ec1dcb72e11c0711425b7f3ed67fde0",
+    "fetched_at": "2026-07-12T04:28:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0d75e9815407f696": {
+    "url": "https://www.town.minowa.lg.jp/soshiki/bunka_sport/gyomu/11/1/773.html",
+    "filename": "0d75e9815407f696.pdf",
+    "sha256": "de2255694057527e13e3f95eac2a3b059d753eba58b7de9eb0634e059a9813b2",
+    "fetched_at": "2026-07-12T04:28:19Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

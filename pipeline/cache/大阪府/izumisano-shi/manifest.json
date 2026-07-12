@@ -1,0 +1,18 @@
+{
+  "b4be2e45e2381381": {
+    "url": "https://www.pref.osaka.lg.jp/documents/26653/038izumisano.xlsx",
+    "filename": "b4be2e45e2381381.bin",
+    "sha256": "77fb08426a2921bcb47dc5d184203e20674aa02c38079819a8c27d4bd2bf43eb",
+    "fetched_at": "2026-07-12T06:57:06Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "cd8aaf6f449b39fd": {
+    "url": "https://www.pref.osaka.lg.jp/o180150/bunkazaihogo/bunkazai/hunai-siteiichiran.html",
+    "filename": "cd8aaf6f449b39fd.bin",
+    "sha256": "8b2c31a0047cdbbdfd85f87076a7dd744f5e85c795478fd99ed20cba110b3291",
+    "fetched_at": "2026-07-12T06:57:08Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

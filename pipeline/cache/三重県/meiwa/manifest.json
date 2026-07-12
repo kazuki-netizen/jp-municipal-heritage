@@ -1,0 +1,18 @@
+{
+  "8e5ce2ca77a43828": {
+    "url": "https://www.town.meiwa.mie.jp/material/files/group/11/bunnkazailist260324.pdf",
+    "filename": "8e5ce2ca77a43828.pdf",
+    "sha256": "4d919b1b3df89c382a5ab173f5a0bd78bd2bcf3791be473b472987c3ba2b209b",
+    "fetched_at": "2026-07-12T06:14:02Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "570202d59a358e2c": {
+    "url": "https://www.town.meiwa.mie.jp/main/soshiki/saikuuato/bunkazaik/shiteibunkazai/1534836376831.html",
+    "filename": "570202d59a358e2c.html",
+    "sha256": "93fdd1056c3378e8b9d6fe6e618d0fd5ef341ccf91da3f179b9f2bafcc056178",
+    "fetched_at": "2026-07-12T06:14:04Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

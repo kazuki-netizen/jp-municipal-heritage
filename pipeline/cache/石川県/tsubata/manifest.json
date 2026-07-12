@@ -1,0 +1,18 @@
+{
+  "423e2be2f8f42ef6": {
+    "url": "https://www.town.tsubata.lg.jp/page/1610.html",
+    "filename": "423e2be2f8f42ef6.html",
+    "sha256": "dfb8f49356d0a6bc45f506b08a4826049ae8817f0d396eba36d306bfbc597395",
+    "fetched_at": "2026-07-12T03:54:39Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ceed666a7fc28b09": {
+    "url": "https://www.town.tsubata.lg.jp/division/shougaikyouiku/指定文化財.pdf",
+    "filename": "ceed666a7fc28b09.pdf",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:54:41Z",
+    "http_status": 404,
+    "format": "pdf"
+  }
+}

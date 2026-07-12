@@ -1,0 +1,18 @@
+{
+  "e6bd29ebe7f26730": {
+    "url": "https://www.hodatsushimizu.jp/material/files/group/15/20240910bunkazaiichiran.pdf",
+    "filename": "e6bd29ebe7f26730.pdf",
+    "sha256": "f7c4d5bb8a61cbb5b4763247be7a10f0a8afa0f5d135c64d21fe071551a0b19f",
+    "fetched_at": "2026-07-12T03:54:47Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "a24c84aae08d4632": {
+    "url": "https://www.hodatsushimizu.jp/soshiki/bunkazaishitsu/2/1/1122.html",
+    "filename": "a24c84aae08d4632.html",
+    "sha256": "2edf1f66aa13b62101c485f46f7f92fac13e3adc17508067eb7a85448edf5439",
+    "fetched_at": "2026-07-12T03:54:49Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

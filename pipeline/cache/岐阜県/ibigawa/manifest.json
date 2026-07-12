@@ -1,0 +1,10 @@
+{
+  "cd89908067e532df": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c214019-008",
+    "filename": "cd89908067e532df.bin",
+    "sha256": "61f796c5bea78ef0b30f52b911b4832c0cd1ada52e390b6f06802ba626a8c4da",
+    "fetched_at": "2026-07-12T06:00:26Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

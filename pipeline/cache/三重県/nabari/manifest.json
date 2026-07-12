@@ -1,0 +1,18 @@
+{
+  "ae0455a106dd457f": {
+    "url": "https://www.city.nabari.lg.jp/s061/010/020/000/030/20190501bunkazai_ichiran.pdf",
+    "filename": "ae0455a106dd457f.pdf",
+    "sha256": "514297e6cd67e42183e2675ca71907246c731fd82819e2023a55d8f99090b097",
+    "fetched_at": "2026-07-12T06:13:32Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "99d2343059633c0b": {
+    "url": "https://www.city.nabari.lg.jp/020/008/130/",
+    "filename": "99d2343059633c0b.html",
+    "sha256": "a9660124ee5902758425a6545dc3f5e3d6404d045fc478d4277b9e5a751071bd",
+    "fetched_at": "2026-07-12T06:13:34Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

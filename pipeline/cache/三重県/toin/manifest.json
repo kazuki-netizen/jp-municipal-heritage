@@ -1,0 +1,26 @@
+{
+  "5f841fcdd16bcd11": {
+    "url": "https://www.town.toin.lg.jp/bunka_sports/rekishi_bunkazai/2522.html",
+    "filename": "5f841fcdd16bcd11.html",
+    "sha256": "44c48375d94340f177793f9fe2df88bd845b84a499edf291b54ed6eb5de63658",
+    "fetched_at": "2026-07-12T06:13:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "81e029bb8fda05bc": {
+    "url": "https://www.town.toin.lg.jp/material/files/group/1/map-omote.pdf",
+    "filename": "81e029bb8fda05bc.pdf",
+    "sha256": "28f03e8a11ccf0951a41fd59f00900c9eff1485d7380a1a8b2d22aacfb54e3b3",
+    "fetched_at": "2026-07-12T06:13:54Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "be472ee58254ecb1": {
+    "url": "https://www.town.toin.lg.jp/bunka_sports/rekishi_bunkazai/index.html",
+    "filename": "be472ee58254ecb1.html",
+    "sha256": "09327914698fbdd0c5273c5149419ba2f5215cb9039029a8376ffbf3f74dbd38",
+    "fetched_at": "2026-07-12T06:13:55Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

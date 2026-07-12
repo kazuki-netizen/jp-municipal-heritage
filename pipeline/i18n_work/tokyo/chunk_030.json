@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-133086-0045",
+  "name": "旧倉沢神社の仏像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2003-05-05",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0047",
+  "name": "温泉神社の懸仏",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "designated_date": "2003-05-05",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0044",
+  "name": "日原鍾乳洞出土の古銭と古鏡",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2003-05-05",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0040",
+  "name": "元禄絵図（奥多摩各村）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2003-05-05",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0046",
+  "name": "棚沢村絵図",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "町指定",
+  "designated_date": "2003-05-05",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0048",
+  "name": "青目立不動明王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2008-11-21",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0051",
+  "name": "川井(神塚)の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2011-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町川井"
+ },
+ {
+  "jmh_id": "JMH-133086-0049",
+  "name": "大丹波(南平)の六地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2011-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町大丹波"
+ },
+ {
+  "jmh_id": "JMH-133086-0050",
+  "name": "小丹波(大神)の七地蔵",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "2011-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町小丹波"
+ },
+ {
+  "jmh_id": "JMH-133086-0055",
+  "name": "留浦(峰)の五輪塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2011-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町留浦"
+ },
+ {
+  "jmh_id": "JMH-133086-0052",
+  "name": "徳富蘇峰詩碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2011-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0053",
+  "name": "日食供養塔",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2011-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0054",
+  "name": "江戸期の入れ歯",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "2011-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0037",
+  "name": "棚沢の薬師堂（瑠璃閣）と本尊薬師如来像",
+  "category": "民俗文化財",
+  "subcategory": "民俗資料",
+  "designation": "町指定",
+  "designated_date": "1990-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町棚沢"
+ },
+ {
+  "jmh_id": "JMH-133086-0021",
+  "name": "八雲神社獅子舞（川井）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町川井"
+ },
+ {
+  "jmh_id": "JMH-133086-0032",
+  "name": "青木神社獅子舞（大丹波）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町大丹波"
+ },
+ {
+  "jmh_id": "JMH-133086-0028",
+  "name": "棚沢獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町棚沢"
+ },
+ {
+  "jmh_id": "JMH-133086-0020",
+  "name": "元栖神社獅子舞（白丸）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町白丸"
+ },
+ {
+  "jmh_id": "JMH-133086-0031",
+  "name": "海沢獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町海沢"
+ },
+ {
+  "jmh_id": "JMH-133086-0023",
+  "name": "奥氷川神社獅子舞（大氷川）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0027",
+  "name": "根元神社獅子舞（栃久保）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町栃久保"
+ },
+ {
+  "jmh_id": "JMH-133086-0018",
+  "name": "一石山神社獅子舞（日原）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町日原"
+ },
+ {
+  "jmh_id": "JMH-133086-0057",
+  "name": "羽黒三田神社祭囃子（南氷川）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2020-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町南氷川"
+ },
+ {
+  "jmh_id": "JMH-133086-0056",
+  "name": "熊野神社祭囃子（小丹波・「こ組」）",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "2020-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町小丹波"
+ },
+ {
+  "jmh_id": "JMH-133086-0002",
+  "name": "数馬の切通し 附 供養碑",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "1977-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0001",
+  "name": "倉沢鍾乳洞",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "地質・鉱物",
+  "designation": "町指定",
+  "designated_date": "1977-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町倉沢"
+ },
+ {
+  "jmh_id": "JMH-133086-0024",
+  "name": "小丹波のイヌグス",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1983-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町小丹波"
+ },
+ {
+  "jmh_id": "JMH-133086-0036",
+  "name": "梅沢のイヌグス",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1990-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0038",
+  "name": "槐木のサイカチ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1990-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-133086-0035",
+  "name": "向寺地のアカガシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名木",
+  "designation": "町指定",
+  "designated_date": "1990-11-03",
+  "municipality": "奥多摩町",
+  "location": "奥多摩町"
+ },
+ {
+  "jmh_id": "JMH-132055-0058",
+  "name": "青石塔婆(1基)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "塩船194-1"
+ },
+ {
+  "jmh_id": "JMH-132055-0059",
+  "name": "青石塔婆(1基)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "長淵3-299"
+ },
+ {
+  "jmh_id": "JMH-132055-0062",
+  "name": "青石塔婆(2基)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "今寺1-539"
+ },
+ {
+  "jmh_id": "JMH-132055-0063",
+  "name": "青石塔婆(2基)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "藤橋2-101"
+ },
+ {
+  "jmh_id": "JMH-132055-0064",
+  "name": "青石塔婆(2基)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "吹上385"
+ },
+ {
+  "jmh_id": "JMH-132055-0060",
+  "name": "青石塔婆(1基)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "成木3-423 天ケ指共同墓地"
+ },
+ {
+  "jmh_id": "JMH-132055-0061",
+  "name": "青石塔婆(1基)",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "黒沢3-1578"
+ },
+ {
+  "jmh_id": "JMH-132055-0042",
+  "name": "小林天渕画像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "駒木町1-684"
+ },
+ {
+  "jmh_id": "JMH-132055-0057",
+  "name": "雲竜図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1964-11-03",
+  "municipality": "青梅市",
+  "location": "住江町12"
+ },
+ {
+  "jmh_id": "JMH-132055-0135",
+  "name": "木造地蔵菩薩坐像および二童子立像 弘円作 3軀／附 地蔵菩薩像内納入和歌短冊 1紙",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2024-12-01",
+  "municipality": "青梅市",
+  "location": "今寺1-540-1"
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "ff66592cf7c0534d": {
+    "url": "https://www.city.inabe.mie.jp/_res/projects/default_project/_page_/001/001/741/bunnkazai.csv",
+    "filename": "ff66592cf7c0534d.bin",
+    "sha256": "1ef96424c795fad833b96640714c118820488eccfa5e37d26f0ad6b521dacdf4",
+    "fetched_at": "2026-07-12T06:13:46Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "b463381f4651d921": {
+    "url": "https://www.city.inabe.mie.jp/kyoiku/bunka/1001741/index.html",
+    "filename": "b463381f4651d921.html",
+    "sha256": "9e85a3278169cfe8334cc203bf61384d3749c8ad100648b92e138bfc314cbac0",
+    "fetched_at": "2026-07-12T06:13:48Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

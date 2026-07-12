@@ -1,0 +1,306 @@
+[
+ {
+  "jmh_id": "JMH-132071-0022",
+  "name": "林ノ上遺跡 （拝島式土器発掘跡）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "緑町4-3783付近"
+ },
+ {
+  "jmh_id": "JMH-132071-0017",
+  "name": "拝島日吉神社祭礼囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町1-10-19 日吉神社（伝承地）"
+ },
+ {
+  "jmh_id": "JMH-132071-0024",
+  "name": "福島ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "福島町1-12-6 福島神社（伝承地）"
+ },
+ {
+  "jmh_id": "JMH-132071-0015",
+  "name": "広福寺の大松",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "福島町2-14-7 広福寺境内"
+ },
+ {
+  "jmh_id": "JMH-132071-0010",
+  "name": "大日堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町1-10-14"
+ },
+ {
+  "jmh_id": "JMH-132071-0011",
+  "name": "大日堂仁王門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町1-10-14 大日堂境内"
+ },
+ {
+  "jmh_id": "JMH-132071-0025",
+  "name": "紅林家文書四通",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0003",
+  "name": "不老軒宇多々作「月廼野露草雙紙」稿本全六冊",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "郷地町（個人所蔵）"
+ },
+ {
+  "jmh_id": "JMH-132071-0030",
+  "name": "龍津寺本堂天井板絵五五面及び杉戸絵一六面",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町5-2-37 龍津寺本堂"
+ },
+ {
+  "jmh_id": "JMH-132071-0006",
+  "name": "内藤源左衛門藤原正頼 （正久）の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "福島町2-14-7 広福寺墓地"
+ },
+ {
+  "jmh_id": "JMH-132071-0014",
+  "name": "山王祭礼図絵",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町1-20-16 普明寺"
+ },
+ {
+  "jmh_id": "JMH-132071-0028",
+  "name": "縄文時代初頭の丸底深鉢型土器（上川原遺跡出土）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0023",
+  "name": "浄土古墳",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町2-333-1"
+ },
+ {
+  "jmh_id": "JMH-132071-0026",
+  "name": "経塚下遺跡出土遺物一括",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0021",
+  "name": "日吉神社本殿彫刻並びに拝殿 格天井花鳥画七〇面・板壁絵二面及び幣殿杉戸絵四面",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町1-10-19 日吉神社"
+ },
+ {
+  "jmh_id": "JMH-132071-0016",
+  "name": "拝島日吉神社祭礼加美町屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町5-11-1"
+ },
+ {
+  "jmh_id": "JMH-132071-0018",
+  "name": "拝島日吉神社祭礼奈賀町屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町2-6-4"
+ },
+ {
+  "jmh_id": "JMH-132071-0019",
+  "name": "拝島日吉神社祭礼志茂町屋台",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "拝島町1-11-2"
+ },
+ {
+  "jmh_id": "JMH-132071-0012",
+  "name": "大神古墳出土遺物一括（五点）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0005",
+  "name": "中神・熊野神社本殿及び拝殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "中神町1-12-7 熊野神社"
+ },
+ {
+  "jmh_id": "JMH-132071-0002",
+  "name": "アキシマクジラ化石標本",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "群馬県立自然史博物館（田中町1-17-1 昭島市教育委員会）"
+ },
+ {
+  "jmh_id": "JMH-132071-0013",
+  "name": "山ノ神遺跡出土月待供養結衆板碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0004",
+  "name": "中村家旧蔵文書一括",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0027",
+  "name": "縄文後期称名寺1式土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0020",
+  "name": "指田十次家文書一括",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-132071-0007",
+  "name": "和田哲氏寄贈資料一括",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "municipality": "昭島市",
+  "location": "田中町1-17-1 教育委員会保管"
+ },
+ {
+  "jmh_id": "JMH-133612-0001",
+  "name": "野増大宮神社の十二座神楽",
+  "category": "民俗文化財",
+  "subcategory": "民俗芸能",
+  "designation": "町指定",
+  "designated_date": "1996-11-01",
+  "municipality": "大島町",
+  "location": "大島町野増大宮神社"
+ },
+ {
+  "jmh_id": "JMH-133612-0003",
+  "name": "元町ハマンカー（南井戸）",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2016-10-13",
+  "municipality": "大島町",
+  "location": "大島町元町"
+ },
+ {
+  "jmh_id": "JMH-133612-0007",
+  "name": "赤穂義士 間瀬定八の墓",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2016-10-13",
+  "municipality": "大島町",
+  "location": "大島町元町"
+ },
+ {
+  "jmh_id": "JMH-133612-0004",
+  "name": "力士 大島伝吉の碑（勇鑑石とも）",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2016-10-13",
+  "municipality": "大島町",
+  "location": "大島町岡田"
+ },
+ {
+  "jmh_id": "JMH-133612-0006",
+  "name": "粟本佐次朗記念碑（テリコの碑）",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2016-10-13",
+  "municipality": "大島町",
+  "location": "大島町岡田"
+ },
+ {
+  "jmh_id": "JMH-133612-0005",
+  "name": "波浮港開港碑",
+  "category": "その他",
+  "subcategory": "史跡",
+  "designation": "町指定",
+  "designated_date": "2016-10-13",
+  "municipality": "大島町",
+  "location": "大島町波浮港"
+ },
+ {
+  "jmh_id": "JMH-133612-0002",
+  "name": "下高洞遺跡出土・平坂式尖底土器2点",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "designated_date": "2016-10-13",
+  "municipality": "大島町",
+  "location": "大島町文化財収蔵庫"
+ }
+]

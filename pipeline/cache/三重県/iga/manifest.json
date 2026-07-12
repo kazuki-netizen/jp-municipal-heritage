@@ -1,0 +1,18 @@
+{
+  "92082f860ad51451": {
+    "url": "https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d",
+    "filename": "92082f860ad51451.bin",
+    "sha256": "5a92cfc8c33391860b7409ca9de9de09d3bbf6e10a47a033a180e21c420b63b0",
+    "fetched_at": "2026-07-12T06:13:51Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "61f2e0b98b778555": {
+    "url": "https://www.city.iga.lg.jp/0000003870.html",
+    "filename": "61f2e0b98b778555.html",
+    "sha256": "977fc1255f60fd6cb0ca4714a0c7f94ed5362d82ec5b912ccec19abd0a86db62",
+    "fetched_at": "2026-07-12T06:13:51Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

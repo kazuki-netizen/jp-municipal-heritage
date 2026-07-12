@@ -1,0 +1,364 @@
+[
+ {
+  "jmh_id": "JMH-143839-0012",
+  "name": "真鶴漁港築港記念碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0009",
+  "name": "水道記念碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0002",
+  "name": "世界近代彫刻シンポジウム碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0005",
+  "name": "品川台場礎石碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0011",
+  "name": "町有林記念碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0004",
+  "name": "半田庄右衛門頌徳碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0015",
+  "name": "福地六郎右衛門寄進手水鉢",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0003",
+  "name": "五味伊右衛門寄進春日型石灯籠",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0006",
+  "name": "岩村中奉納手洗鉢",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0001",
+  "name": "「南無阿弥陀仏」念仏講碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0008",
+  "name": "極楽東門（石造）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0014",
+  "name": "石造浮彫釈迦迎座像",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0010",
+  "name": "田廣家名号墓碑",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-143839-0016",
+  "name": "貴船神社出土器・須恵器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "町指定",
+  "municipality": "真鶴町"
+ },
+ {
+  "jmh_id": "JMH-142115-0018",
+  "name": "健速神社本殿（下大槻）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003",
+  "municipality": "秦野市",
+  "location": "秦野市下大槻611"
+ },
+ {
+  "jmh_id": "JMH-142115-0010",
+  "name": "稲荷神社の公孫樹（イチョウ）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971",
+  "municipality": "秦野市",
+  "location": "秦野市曲松1丁目3-11"
+ },
+ {
+  "jmh_id": "JMH-142115-0019",
+  "name": "八幡神社本殿（南矢名）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003",
+  "municipality": "秦野市",
+  "location": "秦野市南矢名1815"
+ },
+ {
+  "jmh_id": "JMH-142115-0020",
+  "name": "命徳寺 山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2003",
+  "municipality": "秦野市",
+  "location": "秦野市河原町1-5"
+ },
+ {
+  "jmh_id": "JMH-142115-0005",
+  "name": "八坂神社の大ムク（大椋）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971",
+  "municipality": "秦野市",
+  "location": "秦野市今泉377"
+ },
+ {
+  "jmh_id": "JMH-142115-0015",
+  "name": "寳泉院 木造大日如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990",
+  "municipality": "秦野市",
+  "location": "秦野市戸川678"
+ },
+ {
+  "jmh_id": "JMH-142115-0028",
+  "name": "絵画束帯天神像掛幅",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "市指定",
+  "municipality": "秦野市"
+ },
+ {
+  "jmh_id": "JMH-142115-0014",
+  "name": "金蔵院 木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985",
+  "municipality": "秦野市",
+  "location": "秦野市西田原337"
+ },
+ {
+  "jmh_id": "JMH-142115-0017",
+  "name": "龍法寺 木造毘沙門天立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990",
+  "municipality": "秦野市",
+  "location": "秦野市南矢名1533"
+ },
+ {
+  "jmh_id": "JMH-142115-0016",
+  "name": "龍法寺 木造不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1990",
+  "municipality": "秦野市",
+  "location": "秦野市南矢名1533"
+ },
+ {
+  "jmh_id": "JMH-142115-0002",
+  "name": "弥生式土器",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1965",
+  "municipality": "秦野市"
+ },
+ {
+  "jmh_id": "JMH-142115-0022",
+  "name": "戸川原の双体道祖神",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2012",
+  "municipality": "秦野市",
+  "location": "秦野市戸川701"
+ },
+ {
+  "jmh_id": "JMH-142115-0006",
+  "name": "木造十一面観音菩薩立像（太岳院）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1971",
+  "municipality": "秦野市",
+  "location": "秦野市今泉391"
+ },
+ {
+  "jmh_id": "JMH-142115-0007",
+  "name": "杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971",
+  "municipality": "秦野市",
+  "location": "秦野市千村1115"
+ },
+ {
+  "jmh_id": "JMH-142115-0008",
+  "name": "桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1971",
+  "municipality": "秦野市",
+  "location": "秦野市今泉699"
+ },
+ {
+  "jmh_id": "JMH-142115-0012",
+  "name": "極楽寺 木造十一面観音菩薩",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1979",
+  "municipality": "秦野市",
+  "location": "秦野市鶴巻1861番地"
+ },
+ {
+  "jmh_id": "JMH-142115-0009",
+  "name": "源実朝公御首塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1971",
+  "municipality": "秦野市"
+ },
+ {
+  "jmh_id": "JMH-142115-0003",
+  "name": "石造六地蔵尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1965",
+  "municipality": "秦野市",
+  "location": "秦野市渋沢2644"
+ },
+ {
+  "jmh_id": "JMH-142115-0004",
+  "name": "米倉丹後守一族の墓地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1968",
+  "municipality": "秦野市",
+  "location": "秦野市堀山下1153"
+ },
+ {
+  "jmh_id": "JMH-142115-0024",
+  "name": "東光寺薬師堂山門",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "市指定",
+  "designated_date": "2018",
+  "municipality": "秦野市",
+  "location": "秦野市南矢名371、下大槻236"
+ },
+ {
+  "jmh_id": "JMH-142115-0013",
+  "name": "円通寺 木造十一面観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1985",
+  "municipality": "秦野市",
+  "location": "秦野市寺山780"
+ },
+ {
+  "jmh_id": "JMH-142115-0001",
+  "name": "ニホンオオカミの頭骨",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1965",
+  "municipality": "秦野市"
+ },
+ {
+  "jmh_id": "JMH-142115-0023",
+  "name": "二子塚古墳出土の銀装圭頭大刀 附二子塚古墳横穴式石室内出土遺物",
+  "category": "有形文化財",
+  "subcategory": "重要文化財",
+  "designation": "市指定",
+  "designated_date": "2013",
+  "municipality": "秦野市"
+ },
+ {
+  "jmh_id": "JMH-142115-0027",
+  "name": "桜土手古墳群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "municipality": "秦野市"
+ },
+ {
+  "jmh_id": "JMH-142115-0029",
+  "name": "金剛寺木造阿弥陀三尊立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "municipality": "秦野市"
+ },
+ {
+  "jmh_id": "JMH-142115-0021",
+  "name": "泉蔵寺 石造十王像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2003",
+  "municipality": "秦野市",
+  "location": "秦野市千村503"
+ }
+]

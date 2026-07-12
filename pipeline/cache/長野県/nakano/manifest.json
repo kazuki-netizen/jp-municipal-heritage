@@ -1,0 +1,58 @@
+{
+  "1db015ef004717b1": {
+    "url": "https://www.city.nakano.nagano.jp/docs/2014021800158/",
+    "filename": "1db015ef004717b1.html",
+    "sha256": "c3b718aa58d46ea067aaf8cc44fc22debe12254de9e59423db5db629f8224962",
+    "fetched_at": "2026-07-12T04:27:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "05756e8b2e8b1b56": {
+    "url": "https://www.city.nakano.nagano.jp/docs/2014021200125/",
+    "filename": "05756e8b2e8b1b56.html",
+    "sha256": "2142b212c8f7a5830a68ab355174053c620066d772dabd15a818c9207e0638c9",
+    "fetched_at": "2026-07-12T04:27:47Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42926af9b6d99cae": {
+    "url": "https://www.city.nakano.nagano.jp/docs/2014021200132/",
+    "filename": "42926af9b6d99cae.html",
+    "sha256": "0a2fd80ac9f3ab6c192b3bec645fd75b9b82b0172c882855355f11e5d212b19d",
+    "fetched_at": "2026-07-12T04:27:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6e1f8dc37705174b": {
+    "url": "https://www.city.nakano.nagano.jp/docs/2014011602403/",
+    "filename": "6e1f8dc37705174b.html",
+    "sha256": "e741ee8e1cf5efe407ac87f2248cd473f9784262beedf5530fa42ce25c6deb24",
+    "fetched_at": "2026-07-12T04:27:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d6d712eff46bcd74": {
+    "url": "https://www.city.nakano.nagano.jp/docs/2014011602458/",
+    "filename": "d6d712eff46bcd74.html",
+    "sha256": "08529dfb1e97a3698d69ff61d5601f66a53c7c44d884c50ec09f16d7e85025ef",
+    "fetched_at": "2026-07-12T04:27:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3fdeadf3b57e6f19": {
+    "url": "https://www.city.nakano.nagano.jp/docs/2014011602410/index.html.r",
+    "filename": "3fdeadf3b57e6f19.html",
+    "sha256": "2bc241fc79e973a9679dd2b0a9703e7d8152e4dbab09965553897fdf07cadc9d",
+    "fetched_at": "2026-07-12T04:27:55Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "508918f7edb11e4b": {
+    "url": "https://www.city.nakano.nagano.jp/docs/2014011602427/",
+    "filename": "508918f7edb11e4b.html",
+    "sha256": "0c977a4ddd4e0a52e9187c336afd3fc9c6d22c50dfba8010a6457ede92a6e958",
+    "fetched_at": "2026-07-12T04:27:57Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "541296e63ef03bfa": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215074-007",
+    "filename": "541296e63ef03bfa.bin",
+    "sha256": "dcbc01b70c3f372d0597bcd39f92b5dd98cb63574eeba446702ea17ff97f6ed4",
+    "fetched_at": "2026-07-12T06:00:45Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

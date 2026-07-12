@@ -1,0 +1,10 @@
+{
+  "6dd49f13cf70e72e": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c213811-007",
+    "filename": "6dd49f13cf70e72e.bin",
+    "sha256": "95b408ebd57a844a585727f19d40060ce954bd1553680b7b148230085b5b6330",
+    "fetched_at": "2026-07-12T06:00:21Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

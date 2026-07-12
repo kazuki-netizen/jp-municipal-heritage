@@ -1,0 +1,396 @@
+[
+ {
+  "jmh_id": "JMH-132055-0070",
+  "name": "成木熊野神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-11-03",
+  "municipality": "青梅市"
+ },
+ {
+  "jmh_id": "JMH-132055-0072",
+  "name": "野上春日神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-11-03",
+  "municipality": "青梅市"
+ },
+ {
+  "jmh_id": "JMH-132055-0069",
+  "name": "友田御嶽神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-11-03",
+  "municipality": "青梅市"
+ },
+ {
+  "jmh_id": "JMH-132055-0073",
+  "name": "鹿島玉川神社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-11-03",
+  "municipality": "青梅市"
+ },
+ {
+  "jmh_id": "JMH-132055-0071",
+  "name": "梅郷獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-11-03",
+  "municipality": "青梅市"
+ },
+ {
+  "jmh_id": "JMH-132055-0106",
+  "name": "天之社獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1970-11-03",
+  "municipality": "青梅市"
+ },
+ {
+  "jmh_id": "JMH-132055-0025",
+  "name": "梅岩寺のしだれ桜",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "青梅市",
+  "location": "仲町235"
+ },
+ {
+  "jmh_id": "JMH-132055-0022",
+  "name": "地蔵院の宝珠梅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "青梅市",
+  "location": "畑中2-583-1"
+ },
+ {
+  "jmh_id": "JMH-132055-0023",
+  "name": "大背戸のカシ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "青梅市",
+  "location": "畑中2-209"
+ },
+ {
+  "jmh_id": "JMH-132055-0026",
+  "name": "石神の大イチョウ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "青梅市",
+  "location": "二俣尾1-199"
+ },
+ {
+  "jmh_id": "JMH-132055-0095",
+  "name": "滝本の大スギ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "青梅市",
+  "location": "御岳2-483"
+ },
+ {
+  "jmh_id": "JMH-132055-0024",
+  "name": "杜のシイノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "青梅市",
+  "location": "千ヶ瀬町2-117"
+ },
+ {
+  "jmh_id": "JMH-132055-0021",
+  "name": "一里塚のエノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1957-11-03",
+  "municipality": "青梅市",
+  "location": "今寺2-504"
+ },
+ {
+  "jmh_id": "JMH-132055-0086",
+  "name": "御嶽神社参道の杉並木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "青梅市",
+  "location": "御岳山参道"
+ },
+ {
+  "jmh_id": "JMH-132055-0077",
+  "name": "厚沢の源氏ボタル",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1968-11-03",
+  "municipality": "青梅市",
+  "location": "小曾木厚沢一帯"
+ },
+ {
+  "jmh_id": "JMH-132055-0117",
+  "name": "大沢の大ツガ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-06-01",
+  "municipality": "青梅市",
+  "location": "沢井1丁目"
+ },
+ {
+  "jmh_id": "JMH-132055-0120",
+  "name": "海禅寺のクスノキ(3本)",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-06-01",
+  "municipality": "青梅市",
+  "location": "二俣尾4-962"
+ },
+ {
+  "jmh_id": "JMH-132055-0119",
+  "name": "横吹の大イヌグス",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-06-01",
+  "municipality": "青梅市",
+  "location": "二俣尾1-30"
+ },
+ {
+  "jmh_id": "JMH-132055-0118",
+  "name": "師岡神社のシイノキ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1981-06-01",
+  "municipality": "青梅市",
+  "location": "東青梅6-68"
+ },
+ {
+  "jmh_id": "JMH-132055-0012",
+  "name": "金剛寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "天ヶ瀬町1032の一部"
+ },
+ {
+  "jmh_id": "JMH-132055-0004",
+  "name": "住吉神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "住江町12ほか"
+ },
+ {
+  "jmh_id": "JMH-132055-0002",
+  "name": "乗願寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "勝沼3-114の一部"
+ },
+ {
+  "jmh_id": "JMH-132055-0001",
+  "name": "中原章墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "滝ノ上町1317の一部"
+ },
+ {
+  "jmh_id": "JMH-132055-0013",
+  "name": "鹿島玉川神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "長淵2-519の一部"
+ },
+ {
+  "jmh_id": "JMH-132055-0005",
+  "name": "友田御嶽神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "友田町5-565-1"
+ },
+ {
+  "jmh_id": "JMH-132055-0011",
+  "name": "観音寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "塩船194-1ほか"
+ },
+ {
+  "jmh_id": "JMH-132055-0006",
+  "name": "報恩寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "今寺1-540-1"
+ },
+ {
+  "jmh_id": "JMH-132055-0010",
+  "name": "藤橋城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "藤橋2-169-1ほか"
+ },
+ {
+  "jmh_id": "JMH-132055-0003",
+  "name": "今井城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "今井1-552-1ほか"
+ },
+ {
+  "jmh_id": "JMH-132055-0009",
+  "name": "薬王寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1953-11-03",
+  "municipality": "青梅市",
+  "location": "今井1-2520"
+ },
+ {
+  "jmh_id": "JMH-132055-0016",
+  "name": "即清寺",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "青梅市",
+  "location": "柚木町1-4-1"
+ },
+ {
+  "jmh_id": "JMH-132055-0020",
+  "name": "辛垣城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "青梅市",
+  "location": "二俣尾4-1025"
+ },
+ {
+  "jmh_id": "JMH-132055-0018",
+  "name": "武蔵御嶽神社",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "青梅市",
+  "location": "御岳山176ほか"
+ },
+ {
+  "jmh_id": "JMH-132055-0017",
+  "name": "岩蔵温泉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "青梅市",
+  "location": "小曾木5-3142-1の一部"
+ },
+ {
+  "jmh_id": "JMH-132055-0019",
+  "name": "石灰石採掘場",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "青梅市",
+  "location": "成木8-686"
+ },
+ {
+  "jmh_id": "JMH-132055-0015",
+  "name": "佐藤塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "青梅市",
+  "location": "成木8-965-7"
+ },
+ {
+  "jmh_id": "JMH-132055-0028",
+  "name": "鎧塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "青梅市",
+  "location": "沢井1-283"
+ },
+ {
+  "jmh_id": "JMH-132055-0027",
+  "name": "御嶽山一の鳥居",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1960-11-03",
+  "municipality": "青梅市",
+  "location": "御岳1-1の一部"
+ },
+ {
+  "jmh_id": "JMH-132055-0067",
+  "name": "岩蔵住居跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-04-15",
+  "municipality": "青梅市",
+  "location": "小曾木5-3184の一部"
+ },
+ {
+  "jmh_id": "JMH-132055-0014",
+  "name": "今井氏の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-11-03",
+  "municipality": "青梅市",
+  "location": "今井2-1033の一部"
+ }
+]

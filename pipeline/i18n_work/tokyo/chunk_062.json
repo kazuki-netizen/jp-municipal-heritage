@@ -1,0 +1,377 @@
+[
+ {
+  "jmh_id": "JMH-131130-0023",
+  "name": "清岸寺本堂",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "municipality": "渋谷区",
+  "location": "幡ヶ谷2-36-1 清岸寺"
+ },
+ {
+  "jmh_id": "JMH-131130-0016",
+  "name": "木造聖観音菩薩立像（人肌観音）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0035",
+  "name": "銅造千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0011",
+  "name": "木造不動明王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0030",
+  "name": "絹本著色釈迦三尊像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0029",
+  "name": "絹本著色春日鹿曼荼羅図",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0003",
+  "name": "代々木八幡縁起絵",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0006",
+  "name": "伝　神功皇后之図",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0008",
+  "name": "大江山鬼退治之図（その1・その2）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0026",
+  "name": "算額（嘉永3年・安政6年・元治元年）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0010",
+  "name": "庚申塔・廿三夜塔・道しるべ",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0005",
+  "name": "代々木囃子",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-131130-0002",
+  "name": "代々木もちつき唄",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "区指定",
+  "municipality": "渋谷区"
+ },
+ {
+  "jmh_id": "JMH-132047-0016",
+  "name": "石鳥居標石（宇賀神）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭弁財天石段上（石鳥居標石）、井の頭弁財天（宇賀神）"
+ },
+ {
+  "jmh_id": "JMH-132047-0018",
+  "name": "道しるべ",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭弁財天参道入り口"
+ },
+ {
+  "jmh_id": "JMH-132047-0005",
+  "name": "狛犬（一対）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭弁財天前"
+ },
+ {
+  "jmh_id": "JMH-132047-0003",
+  "name": "水盤",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭弁財天不動堂前右側"
+ },
+ {
+  "jmh_id": "JMH-132047-0004",
+  "name": "水盤",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭弁財天"
+ },
+ {
+  "jmh_id": "JMH-132047-0008",
+  "name": "石燈籠（一対）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭弁財天石橋袂"
+ },
+ {
+  "jmh_id": "JMH-132047-0007",
+  "name": "石燈籠",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭大盛寺境内"
+ },
+ {
+  "jmh_id": "JMH-132047-0011",
+  "name": "石燈籠（已待講）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "牟礼二丁目神明社境内"
+ },
+ {
+  "jmh_id": "JMH-132047-0012",
+  "name": "石造庚申供養塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "上連雀一丁目欅橋袂"
+ },
+ {
+  "jmh_id": "JMH-132047-0013",
+  "name": "石造庚申供養塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "新川二丁目1番21号天神社境内"
+ },
+ {
+  "jmh_id": "JMH-132047-0014",
+  "name": "石造庚申供養塔",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "中原四丁目16番"
+ },
+ {
+  "jmh_id": "JMH-132047-0009",
+  "name": "石燈籠（一対）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭大盛寺門前石段上"
+ },
+ {
+  "jmh_id": "JMH-132047-0010",
+  "name": "石燈籠（一対）（紫燈籠）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭大盛寺門前石段上"
+ },
+ {
+  "jmh_id": "JMH-132047-0017",
+  "name": "辛夷の碑",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭公園内"
+ },
+ {
+  "jmh_id": "JMH-132047-0015",
+  "name": "石階段",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭大盛寺門前"
+ },
+ {
+  "jmh_id": "JMH-132047-0006",
+  "name": "石橋（太鼓橋）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "井の頭弁財天正面"
+ },
+ {
+  "jmh_id": "JMH-132047-0019",
+  "name": "鷹場標石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "野崎一丁目市民センター内"
+ },
+ {
+  "jmh_id": "JMH-132047-0020",
+  "name": "鷹場標石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "大沢二丁目2番14号長久寺境内"
+ },
+ {
+  "jmh_id": "JMH-132047-0021",
+  "name": "鷹場標石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "野崎二丁目"
+ },
+ {
+  "jmh_id": "JMH-132047-0002",
+  "name": "柴田家家碑",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "新川四丁目春清寺墓地内"
+ },
+ {
+  "jmh_id": "JMH-132047-0001",
+  "name": "柴田勝重墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1978-05-01",
+  "municipality": "三鷹市",
+  "location": "新川四丁目春清寺墓地内"
+ },
+ {
+  "jmh_id": "JMH-132047-0022",
+  "name": "三木露風墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "三鷹市",
+  "location": "牟礼五丁目大盛寺墓地内"
+ },
+ {
+  "jmh_id": "JMH-132047-0026",
+  "name": "高橋亭之助墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "三鷹市",
+  "location": "牟礼二丁目共同墓地内"
+ },
+ {
+  "jmh_id": "JMH-132047-0024",
+  "name": "森林太郎墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "三鷹市",
+  "location": "下連雀四丁目禅林寺墓地内"
+ },
+ {
+  "jmh_id": "JMH-132047-0023",
+  "name": "太宰治墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "三鷹市",
+  "location": "下連雀四丁目禅林寺墓地内"
+ },
+ {
+  "jmh_id": "JMH-132047-0025",
+  "name": "豊臣秀吉禁制",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1980-05-01",
+  "municipality": "三鷹市",
+  "location": "三鷹市立三鷹図書館／保管先"
+ },
+ {
+  "jmh_id": "JMH-132047-0028",
+  "name": "すだじい（ブナ科）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-01-01",
+  "municipality": "三鷹市",
+  "location": "下連雀四丁目八幡大神社境内"
+ }
+]

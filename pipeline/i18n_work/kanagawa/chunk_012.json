@@ -1,0 +1,383 @@
+[
+ {
+  "jmh_id": "JMH-143642-0003",
+  "name": "室生神社のぼだいじゅ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1984-02-01",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0004",
+  "name": "八幡神社のくすのき",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1985-10-01",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0005",
+  "name": "頼朝さくら",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "町指定",
+  "designated_date": "1986-08-01",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0006",
+  "name": "懸仏",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1997-06-25",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0007",
+  "name": "春日舎利厨子",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "1997-06-25",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0012",
+  "name": "箱根権現縁起絵巻（上下2巻）",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-11-28",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0008",
+  "name": "木造文殊菩薩坐像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-11-28",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0009",
+  "name": "木造薬師如来坐像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-11-28",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0011",
+  "name": "石造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-11-28",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0013",
+  "name": "銅造十一面観音菩薩立像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-11-28",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143642-0010",
+  "name": "木造釈迦如来坐像",
+  "category": "有形文化財",
+  "designation": "町指定",
+  "designated_date": "2002-11-28",
+  "municipality": "山北町"
+ },
+ {
+  "jmh_id": "JMH-143821-0036",
+  "name": "早雲寺本堂・惣門・鐘楼",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "町指定",
+  "designated_date": "2003-06-10",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0001",
+  "name": "太閤秀吉像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1963-02-20",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0008",
+  "name": "七湯の枝折",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1966-10-04",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0021",
+  "name": "紙本著色石曳図屏風",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1976-01-19",
+  "municipality": "箱根町",
+  "location": "湯本（早雲足洗の湯和泉）"
+ },
+ {
+  "jmh_id": "JMH-143821-0022",
+  "name": "紙本著色弾誓上人絵詞伝",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1991-03-29",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館寄託"
+ },
+ {
+  "jmh_id": "JMH-143821-0023",
+  "name": "早雲寺歴代画像",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1992-04-09",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0032",
+  "name": "箱根権現御影",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "1998-01-19",
+  "municipality": "箱根町",
+  "location": "元箱根"
+ },
+ {
+  "jmh_id": "JMH-143821-0035",
+  "name": "正眼寺本堂襖絵",
+  "category": "有形文化財",
+  "subcategory": "絵画",
+  "designation": "町指定",
+  "designated_date": "2000-12-08",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0011",
+  "name": "千手観音立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1971-03-31",
+  "municipality": "箱根町",
+  "location": "元箱根"
+ },
+ {
+  "jmh_id": "JMH-143821-0018",
+  "name": "木造阿弥陀三尊像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1976-01-19",
+  "municipality": "箱根町",
+  "location": "塔之澤"
+ },
+ {
+  "jmh_id": "JMH-143821-0027",
+  "name": "木造地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "町指定",
+  "designated_date": "1994-02-15",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0015",
+  "name": "木象嵌絵馬",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "町指定",
+  "designated_date": "1974-07-01",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館寄託"
+ },
+ {
+  "jmh_id": "JMH-143821-0016",
+  "name": "箱根細工三十六玉子",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "町指定",
+  "designated_date": "1974-07-01",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館寄託"
+ },
+ {
+  "jmh_id": "JMH-143821-0024",
+  "name": "芹椀",
+  "category": "有形文化財",
+  "subcategory": "工芸",
+  "designation": "町指定",
+  "designated_date": "1992-04-09",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0003",
+  "name": "紙本墨書小田原北條虎の朱印文書/片桐且元の書状",
+  "category": "有形文化財",
+  "subcategory": "文書",
+  "designation": "町指定",
+  "designated_date": "1963-02-20",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0004",
+  "name": "紙本墨書禁制の書",
+  "category": "有形文化財",
+  "subcategory": "文書",
+  "designation": "町指定",
+  "designated_date": "1963-02-20",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0010",
+  "name": "勝俣栄一家古文書",
+  "category": "有形文化財",
+  "subcategory": "文書",
+  "designation": "町指定",
+  "designated_date": "1971-03-31",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館寄託"
+ },
+ {
+  "jmh_id": "JMH-143821-0017",
+  "name": "藤曲家文書",
+  "category": "有形文化財",
+  "subcategory": "文書",
+  "designation": "町指定",
+  "designated_date": "1974-07-01",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0020",
+  "name": "箱根御関所日記書抜",
+  "category": "有形文化財",
+  "subcategory": "文書",
+  "designation": "町指定",
+  "designated_date": "1976-01-19",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0030",
+  "name": "北條氏歴代文書",
+  "category": "有形文化財",
+  "subcategory": "文書",
+  "designation": "町指定",
+  "designated_date": "1997-03-05",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0031",
+  "name": "箱根山縁起并序",
+  "category": "有形文化財",
+  "subcategory": "文書",
+  "designation": "町指定",
+  "designated_date": "1998-01-19",
+  "municipality": "箱根町",
+  "location": "元箱根"
+ },
+ {
+  "jmh_id": "JMH-143821-0029",
+  "name": "以天宗清墨蹟類",
+  "category": "有形文化財",
+  "subcategory": "墨蹟",
+  "designation": "町指定",
+  "designated_date": "1997-03-05",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0005",
+  "name": "縄文式土器片",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "町指定",
+  "designated_date": "1963-02-20",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0002",
+  "name": "弥生式土器",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "町指定",
+  "designated_date": "1963-02-20",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0034",
+  "name": "大芝遺跡出土品",
+  "category": "有形文化財",
+  "subcategory": "考古",
+  "designation": "町指定",
+  "designated_date": "2000-12-08",
+  "municipality": "箱根町",
+  "location": "町立郷土資料館"
+ },
+ {
+  "jmh_id": "JMH-143821-0025",
+  "name": "箱根神社絵馬",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1992-12-22",
+  "municipality": "箱根町",
+  "location": "元箱根"
+ },
+ {
+  "jmh_id": "JMH-143821-0026",
+  "name": "地蔵菩薩立像胎内納入品",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1994-02-15",
+  "municipality": "箱根町",
+  "location": "湯本"
+ },
+ {
+  "jmh_id": "JMH-143821-0033",
+  "name": "富士屋ホテルレジスターブック",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "町指定",
+  "designated_date": "1999-06-22",
+  "municipality": "箱根町",
+  "location": "宮ノ下"
+ },
+ {
+  "jmh_id": "JMH-143821-0028",
+  "name": "阿弥陀寺の百万遍転輪",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗",
+  "designation": "町指定",
+  "designated_date": "1994-12-19",
+  "municipality": "箱根町",
+  "location": "塔之澤"
+ }
+]

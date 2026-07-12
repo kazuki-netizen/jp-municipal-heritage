@@ -1,0 +1,18 @@
+{
+  "efb116ac37e55a14": {
+    "url": "http://www.town.oyamazaki.kyoto.jp/annai/kyoikuiinkai/rekishi/bunkazai/13.html",
+    "filename": "efb116ac37e55a14.pdf",
+    "sha256": "1b21a4d5d2b759b07b8ccbf5b25e7d35fb2f4309200684d62f9042cdaf1ce179",
+    "fetched_at": "2026-07-12T06:25:43Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "89c25485aaa81ceb": {
+    "url": "https://www.town.oyamazaki.kyoto.jp/material/files/group/51/202504oyamazakibunkazai.pdf",
+    "filename": "89c25485aaa81ceb.pdf",
+    "sha256": "89c25485aaa81ceb3419745b0280657b9064c43b8d4ff88c7f1c212d10a41744",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

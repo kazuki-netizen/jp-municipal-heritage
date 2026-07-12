@@ -1,0 +1,18 @@
+{
+  "24a78dc2250fb7ac": {
+    "url": "https://www.city.matsumoto.nagano.jp/soshiki/134/51911.html",
+    "filename": "24a78dc2250fb7ac.html",
+    "sha256": "0ff8a737afd5a2d573b3e1d2f2069661108d749edf337548b2314ca8148e76fd",
+    "fetched_at": "2026-07-12T04:27:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "60ae519e6a6a7d53": {
+    "url": "https://www.city.matsumoto.nagano.jp/soshiki/134/3713.html",
+    "filename": "60ae519e6a6a7d53.html",
+    "sha256": "a760a18395f5af0f2912c77e8e083125de5a92500c07d32b26a20808dcd75318",
+    "fetched_at": "2026-07-12T04:27:17Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

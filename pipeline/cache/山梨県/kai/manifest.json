@@ -1,0 +1,18 @@
+{
+  "089609e6f8f6490f": {
+    "url": "https://www.city.kai.yamanashi.jp/uploaded/attachment/6694.pdf",
+    "filename": "089609e6f8f6490f.pdf",
+    "sha256": "176886c33542418351a6103931620ffddc5b2378fab1ac9002bd83dfd3568345",
+    "fetched_at": "2026-07-12T03:46:59Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "0c6adb14e14614da": {
+    "url": "https://www.city.kai.yamanashi.jp/soshikinogoannai/shogaigakushubunkaka/bunkazaigakari/index.html",
+    "filename": "0c6adb14e14614da.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:47:00Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}

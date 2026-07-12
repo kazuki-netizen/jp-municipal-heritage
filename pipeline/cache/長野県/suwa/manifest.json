@@ -1,0 +1,26 @@
+{
+  "1f32a298687cafe1": {
+    "url": "https://www.city.suwa.lg.jp/site/bunkazai/2152.html",
+    "filename": "1f32a298687cafe1.html",
+    "sha256": "957e8f5a6373c88299b9e965a1034f2f2695b7c3deb8b3a42e14ba0e899551dd",
+    "fetched_at": "2026-07-12T04:27:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7837f0aab0dd6f25": {
+    "url": "https://www.city.suwa.lg.jp/uploaded/attachment/41298.pdf",
+    "filename": "7837f0aab0dd6f25.pdf",
+    "sha256": "4a3f108013e8271c5a70ec92629315387c9ef9fa5026b52ea3bebb95525f0675",
+    "fetched_at": "2026-07-12T04:27:32Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "8e57302816d9b6f1": {
+    "url": "https://www.city.suwa.lg.jp/uploaded/attachment/41490.pdf",
+    "filename": "8e57302816d9b6f1.pdf",
+    "sha256": "a1720d0fad5413e6de18241d0e3e9ba7410e0921a047b043efe5af40d1bf1da2",
+    "fetched_at": "2026-07-12T04:27:37Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

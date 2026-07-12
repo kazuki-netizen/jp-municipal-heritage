@@ -1,0 +1,18 @@
+{
+  "ec6087f0573d2635": {
+    "url": "https://www.city.tsuruga.lg.jp/page/4433.html",
+    "filename": "ec6087f0573d2635.html",
+    "sha256": "6f9f654382baedd620312ca7619e962de24ed8b4086b5c8291af71f414066220",
+    "fetched_at": "2026-07-12T03:50:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7914628f4a59563e": {
+    "url": "https://www.city.tsuruga.lg.jp/page/4434.html",
+    "filename": "7914628f4a59563e.html",
+    "sha256": "4745870128a11415e0589797b16773402e9e6959706046ccd5cabc7000db11d2",
+    "fetched_at": "2026-07-12T03:50:46Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

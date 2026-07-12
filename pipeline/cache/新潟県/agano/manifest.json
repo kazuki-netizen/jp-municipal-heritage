@@ -1,0 +1,18 @@
+{
+  "34680178e809d82c": {
+    "url": "https://www.city.agano.niigata.jp/soshiki/shogaigakushuka/rekishi_bunkazai/1/3021.html",
+    "filename": "34680178e809d82c.html",
+    "sha256": "4d45cefb811a2c05f86f35dbf80fe0ffa3025ad444f12d43681b3eb9bdabff1e",
+    "fetched_at": "2026-07-12T03:41:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ac2d2acb09794b7b": {
+    "url": "https://www.city.agano.niigata.jp/kanko_bunka_sports/rekishi_bunkazai/bunkazai/index.html",
+    "filename": "ac2d2acb09794b7b.html",
+    "sha256": "9cb4ae025f5bfb96cd12a85947644533331093b1a7224e3bfcfc56862091fd84",
+    "fetched_at": "2026-07-12T03:41:40Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "cf49ec9c09dce804": {
+    "url": "https://www.vill.omi.nagano.jp/files/kyoiku/2023/bunnkazaiitirann.pdf",
+    "filename": "cf49ec9c09dce804.pdf",
+    "sha256": "bed8ba51b2b15d8241ceb4f8d6f5bfc50b872dcd900cad3941cfa223d2d36579",
+    "fetched_at": "2026-07-12T04:28:39Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "ad284a4508f769a5": {
+    "url": "https://www.vill.omi.nagano.jp/bunkazai/list/",
+    "filename": "ad284a4508f769a5.html",
+    "sha256": "61655d834b98a1af6b8fb289e2e8b062ad0c2439affe042c4d55db2e9fa7b033",
+    "fetched_at": "2026-07-12T04:28:41Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

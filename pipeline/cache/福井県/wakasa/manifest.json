@@ -1,0 +1,18 @@
+{
+  "442fb83ece0f8cbb": {
+    "url": "https://www.town.fukui-wakasa.lg.jp/soshiki/wakasamikatajomonhakubutsukan/gyomuannai/3/1/772.html",
+    "filename": "442fb83ece0f8cbb.html",
+    "sha256": "8c3880ce4243594482997e8f25a0f7d229d8d0dfabac94761994e55e98f94eaa",
+    "fetched_at": "2026-07-12T03:51:03Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "62140b9dfab43548": {
+    "url": "https://www.town.fukui-wakasa.lg.jp/soshiki/wakasamikatajomonhakubutsukan/gyomuannai/3/1/774.html",
+    "filename": "62140b9dfab43548.html",
+    "sha256": "f307e59f55fb55c96e149db1ccd35990e68a76fa1e8824859e78f6b95c335945",
+    "fetched_at": "2026-07-12T03:51:05Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

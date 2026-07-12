@@ -1,0 +1,10 @@
+{
+  "8c371ca0e88839ac": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c213021-007",
+    "filename": "8c371ca0e88839ac.bin",
+    "sha256": "23b05b0533b51de8814c0f0c72c6865b27f6c6cc627fd6439268e58ae9679016",
+    "fetched_at": "2026-07-12T06:00:10Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

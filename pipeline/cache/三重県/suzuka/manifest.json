@@ -1,0 +1,18 @@
+{
+  "fc01dc095331f776": {
+    "url": "https://www.city.suzuka.lg.jp/_res/projects/default_project/_page_/001/003/316/ichiran_kaitei2026.pdf",
+    "filename": "fc01dc095331f776.pdf",
+    "sha256": "13ec3a8294cab6a759012b02b140e26b5784e22bd532d5d9ffb1b6cef6bb4327",
+    "fetched_at": "2026-07-12T06:13:30Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "ba559bd93303c09d": {
+    "url": "https://www.city.suzuka.lg.jp/bunka/bunkazai/1003316.html",
+    "filename": "ba559bd93303c09d.html",
+    "sha256": "37370222b9c228a8aec3fc4321b6863c55f2c1e34d6afbad41b6ee07df857b8d",
+    "fetched_at": "2026-07-12T06:13:32Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "f94f7dcde40b2208": {
+    "url": "https://www.daisen.jp/10/33/1/6/",
+    "filename": "f94f7dcde40b2208.html",
+    "sha256": "b35188b3291eb94139210e2c562d9ee5a41e2b2e34957316bec2a97f99486ee9",
+    "fetched_at": "2026-07-12T06:52:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f57f4f027af84965": {
+    "url": "https://www.daisen.jp/user/filer_public/13/19/13195ebc-30ef-4e1f-a8fa-a667bc1c498b/ooyamatyou-kuni-ken-mati-sitei-bunkazai-nado-itiranhyou.pdf",
+    "filename": "f57f4f027af84965.pdf",
+    "sha256": "80f71038e5ee33b9112634a44f22e0bd6d8aebcf31fc214f1df4e6e34a84549a",
+    "fetched_at": "2026-07-12T06:52:12Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "3ffd3c775daabc08": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c213411-008",
+    "filename": "3ffd3c775daabc08.bin",
+    "sha256": "ae685246acb7a79a57550172751e37a229e672064b009006b883c3fae81df2e4",
+    "fetched_at": "2026-07-12T06:00:14Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

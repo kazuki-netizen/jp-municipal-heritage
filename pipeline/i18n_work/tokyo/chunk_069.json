@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-131148-0005",
+  "name": "醤油屋のしいの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "区指定",
+  "designated_date": "1991年4月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0009",
+  "name": "深野家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1992年6月",
+  "municipality": "中野区",
+  "location": "江古田1-20番"
+ },
+ {
+  "jmh_id": "JMH-131148-0006",
+  "name": "堀野家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍・古文書（古文書）",
+  "designation": "区指定",
+  "designated_date": "1992年6月",
+  "municipality": "中野区",
+  "location": "江原町2-24番"
+ },
+ {
+  "jmh_id": "JMH-131148-0008",
+  "name": "沼袋氷川神社の絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1992年6月",
+  "municipality": "中野区",
+  "location": "沼袋1-31-4号 沼袋氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0007",
+  "name": "多田神社の大絵馬",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "区指定",
+  "designated_date": "1992年6月",
+  "municipality": "中野区",
+  "location": "南台3-43-1号 多田神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0013",
+  "name": "弘法大師像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "沼袋2-33-4号 密蔵院"
+ },
+ {
+  "jmh_id": "JMH-131148-0012",
+  "name": "川庵宗鼎像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "本町2-26-6号 成願寺"
+ },
+ {
+  "jmh_id": "JMH-131148-0016",
+  "name": "親鸞聖人像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "上高田1-2-7号 源通寺"
+ },
+ {
+  "jmh_id": "JMH-131148-0015",
+  "name": "聖徳太子像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "上高田1-2-7号 源通寺"
+ },
+ {
+  "jmh_id": "JMH-131148-0014",
+  "name": "浄土七祖像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "上高田1-2-7号 源通寺"
+ },
+ {
+  "jmh_id": "JMH-131148-0018",
+  "name": "阿弥陀如来立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "沼袋2-19-28号 貞源寺"
+ },
+ {
+  "jmh_id": "JMH-131148-0017",
+  "name": "釈迦如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "本町2-26-6号 成願寺"
+ },
+ {
+  "jmh_id": "JMH-131148-0011",
+  "name": "千手観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "上高田5-18-3号 光徳院"
+ },
+ {
+  "jmh_id": "JMH-131148-0010",
+  "name": "十一面観音菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "白鷺1-31-5号 福蔵院"
+ },
+ {
+  "jmh_id": "JMH-131148-0019",
+  "name": "難陀龍王立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "白鷺1-31-5号 福蔵院"
+ },
+ {
+  "jmh_id": "JMH-131148-0020",
+  "name": "雨宝童子立像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "区指定",
+  "designated_date": "1995年9月",
+  "municipality": "中野区",
+  "location": "白鷺1-31-5号 福蔵院"
+ },
+ {
+  "jmh_id": "JMH-131148-0032",
+  "name": "鳥居",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "白鷺1-31-10号 鷺宮八幡神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0030",
+  "name": "狛犬（一対）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "東中野1-11-1号 東中野氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0029",
+  "name": "燈籠（一対）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "沼袋1-31-4号 沼袋氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0027",
+  "name": "手洗鉢",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "東中野1-11-1号 東中野氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0028",
+  "name": "手洗鉢",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "大和町2-30-3号 大和町八幡神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0026",
+  "name": "如意輪観音講塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "中野5-8-1号 打越北野神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0031",
+  "name": "石橋供養塔",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "東中野1-11-1号 東中野氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0024",
+  "name": "力石（5個）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "東中野1-11-1号 東中野氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0025",
+  "name": "力石（7個）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "沼袋1-31-4号 沼袋氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0022",
+  "name": "力石（13個）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "白鷺1-31-10号 鷺宮八幡神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0021",
+  "name": "力石（12個）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "新井4-14-3号 新井北野神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0023",
+  "name": "力石（3個）",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1997年11月",
+  "municipality": "中野区",
+  "location": "江古田3-13-6号 江古田氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0040",
+  "name": "神楽殿",
+  "category": "有形文化財",
+  "subcategory": "建造物",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田3-13-6号 江古田氷川神社"
+ },
+ {
+  "jmh_id": "JMH-131148-0033",
+  "name": "五輪塔",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "中央2-33-3号 宝仙寺"
+ },
+ {
+  "jmh_id": "JMH-131148-0045",
+  "name": "縄文土器（勝坂式）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0041",
+  "name": "縄文土器（加曾利E式）1",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0042",
+  "name": "縄文土器（加曾利E式）2",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0043",
+  "name": "縄文土器（加曾利E式）3",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0044",
+  "name": "縄文土器（加曾利E式）4",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0046",
+  "name": "縄文土器（興津式）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0039",
+  "name": "弥生土器（高坏）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0036",
+  "name": "北江古田遺跡31号土坑出土遺物（曾利式）",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0034",
+  "name": "北江古田遺跡31号土坑出土遺物（加曾利E式）1",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ },
+ {
+  "jmh_id": "JMH-131148-0035",
+  "name": "北江古田遺跡31号土坑出土遺物（加曾利E式）2",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "区指定",
+  "designated_date": "1999年2月",
+  "municipality": "中野区",
+  "location": "江古田4-3-4号 歴史民俗資料館"
+ }
+]

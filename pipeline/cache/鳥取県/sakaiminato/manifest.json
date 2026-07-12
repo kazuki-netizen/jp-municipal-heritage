@@ -1,0 +1,10 @@
+{
+  "c339ad0a0bb13c19": {
+    "url": "https://www.city.sakaiminato.lg.jp/index.php?view=110160",
+    "filename": null,
+    "sha256": null,
+    "fetched_at": "2026-07-12T06:52:06Z",
+    "http_status": null,
+    "skipped": "disallowed:bunkazai-collector/1.0 (+https://github.com/kazuki-netizen/jp-municipal-heritage; public cultural-property data; contact via repo issues)"
+  }
+}

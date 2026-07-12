@@ -1,0 +1,10 @@
+{
+  "b7289ee5fcab3c81": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215023-007",
+    "filename": "b7289ee5fcab3c81.bin",
+    "sha256": "aa0cd9bb5208d2f0457057a90d5ec755f2081576ad975eacf07efddf3772b4ff",
+    "fetched_at": "2026-07-12T06:00:35Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

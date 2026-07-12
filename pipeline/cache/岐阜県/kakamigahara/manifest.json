@@ -1,0 +1,10 @@
+{
+  "90868544392475d6": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212130-008",
+    "filename": "90868544392475d6.bin",
+    "sha256": "beb2ba2123e586d7da23b83f23b67d75348f0526a1bfb61b3306c9b9fec63c24",
+    "fetched_at": "2026-07-12T05:59:52Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

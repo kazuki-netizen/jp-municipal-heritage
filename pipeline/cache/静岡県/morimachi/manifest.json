@@ -1,0 +1,114 @@
+{
+  "5e90175c7ac494ad": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/1091.html",
+    "filename": "5e90175c7ac494ad.html",
+    "sha256": "56f86a615afbc2f154809e9d145dbad1ffdd3799f63bd3647e645ad52f3aab8c",
+    "fetched_at": "2026-07-12T03:51:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3dbfff472b9fbdb4": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/chiiki/shizuoka/shuchi-morimachi/",
+    "filename": "opendata_dataset.html",
+    "sha256": "fcefbcd2a142171900e1e874a8b8ccd358c0c5ac246d5cfee1df38c796eed0d6",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "af5a87d8d7ec0334": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/12671.html",
+    "filename": "dataset_12671.html",
+    "sha256": "88eeb74752b88cf19654427bc4b9e3d7734e6c1bdf41fc1e2478c9cc4077f852",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f14ce681fd2b6acd": {
+    "url": "https://opendata.pref.shizuoka.jp/api/package_show?id=f570f6fc-cca4-4c74-9daf-14c97fce89a1",
+    "filename": "package_show.json",
+    "sha256": "5bd5d75b702ed3918a9258f786314ffbcae49c4a4fe6664f93a87229a34ac25d",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "json"
+  },
+  "5e2489f79e339e36": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/9558.html",
+    "filename": "dataset_9558.html",
+    "sha256": "89a9f514b68dc78bae41d13110dcbf8ca5bcad489584cfe7105135b90154b6b7",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f1d6bf2ae281b38a": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/9558/resource/104816/220001_cultural_property.csv",
+    "filename": "cultural_property.csv",
+    "sha256": "c1d86e2faabbec0687e40e0a89d4bc302edd98e492257c276c26fba761fa184c",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "csv"
+  },
+  "d3d0d5ef5a34bfc5": {
+    "url": "https://opendata.pref.shizuoka.jp/dataset/9558/resource/104817/%E6%96%87%E5%8C%96%E8%B2%A1%E4%B8%80%E8%A6%A7%EF%BC%882025%E5%B9%B4.12%E7%8F%BE%E5%9C%A8%EF%BC%89.xlsx",
+    "filename": "文化財一覧2025.xlsx",
+    "sha256": "139e87a7c5088db33cd72590e99a5e957e0bb29c4a3474228cc466bb6f3b5a8f",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "xlsx"
+  },
+  "6bb6e2130d6b7811": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/816.html",
+    "filename": "zusetsu_index.html",
+    "sha256": "8f7615cd8be33c61cdfbdf3b6ab33a5d5ca1182850b57e0cf454a29e9e56122b",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a0ba8f8a4b2d6048": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/775.html",
+    "filename": "page44.html",
+    "sha256": "4f8713849359b77702299f4732e13ca39e9a180dcf05d89be04fff5660524985",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "109e625922469756": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/776.html",
+    "filename": "page45.html",
+    "sha256": "31fa9ae2a1ed4ea04b8f3a0cef9a37dec13a168bcfc1818f2e8db1d1268cd79f",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0cdcf27d73f58d4c": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/774.html",
+    "filename": "page46.html",
+    "sha256": "5793552800b5b244fb88305e2a35efb4024b9f6f206b6d1d69c01bf5661ff779",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4443cf5f84c448dd": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/1098.html",
+    "filename": "page47.html",
+    "sha256": "9996c85d0097c7531dc7037008eb4e2494fa5ab22a3af822840b7828ce8953cd",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bbac5e1f923709a4": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/1097.html",
+    "filename": "page48.html",
+    "sha256": "55df499af5553010a15c75d8fc3c24ef8759a7230901a6c4d6e88c4c88acfc7d",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cd9d770243da6b48": {
+    "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/2/773.html",
+    "filename": "page49.html",
+    "sha256": "7eaacf7aa1a32ed99b5ae04bc547d0b2b6c8fce22c0a22fd88061b951ad292c8",
+    "fetched_at": "2026-07-12T05:10:00Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

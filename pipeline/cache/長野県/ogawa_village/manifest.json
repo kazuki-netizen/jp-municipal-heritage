@@ -1,0 +1,15 @@
+{
+ "e8d52295919f9b66": {
+  "url": "https://www.vill.ogawa.nagano.jp/docs/6195.html",
+  "filename": "e8d52295919f9b66.html",
+  "sha256": "82e288a74a5691684d145f0dd893b8279eabb600192cb099dbd5397b2c0858b0",
+  "fetched_at": "2026-07-12T04:28:51Z",
+  "http_status": 200,
+  "format": "html"
+ },
+ "https://www.vill.ogawa.nagano.jp/docs/6195.html": {
+  "file": "e8d52295919f9b66.html",
+  "http_code": "200",
+  "fetched_at": "2026-07-12T05:03:08Z"
+ }
+}

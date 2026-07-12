@@ -1,0 +1,18 @@
+{
+  "ceec939e8bb91e91": {
+    "url": "https://www.city.nara.lg.jp/site/bunkazai/7927.html",
+    "filename": "ceec939e8bb91e91.html",
+    "sha256": "56dfff3e610b8df7aecd457eb3512f2ce52154bb9a6c627309940890f5dcd7fe",
+    "fetched_at": "2026-07-12T06:42:27Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d567c5f5fa0e6319": {
+    "url": "https://www.city.nara.lg.jp/site/bunkazai/9849.html",
+    "filename": "d567c5f5fa0e6319.html",
+    "sha256": "7cd50b28cc9f14c8d3480df09f2702c3ca1bf9c0bdbe794b364afce519f414c7",
+    "fetched_at": "2026-07-12T06:42:29Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

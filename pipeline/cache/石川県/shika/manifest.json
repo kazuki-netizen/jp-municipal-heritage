@@ -1,0 +1,26 @@
+{
+  "d2e4a48059c68e5a": {
+    "url": "https://www.town.shika.lg.jp/page/2480.html",
+    "filename": "d2e4a48059c68e5a.html",
+    "sha256": "6946656cdf4af8c22e1198b429379907a5be12172be2249a019f6360518230f9",
+    "fetched_at": "2026-07-12T03:54:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "98303400446603af": {
+    "url": "https://www.town.shika.lg.jp/shougaigakushuu/bunkazai/mati_bunkazai.html",
+    "filename": "98303400446603af.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:54:44Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "ec2e82303ea522bf": {
+    "url": "https://www.town.shika.lg.jp/shougaigakushuu/bunkazai/ken_shika_bunkazai.html",
+    "filename": "ec2e82303ea522bf.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:54:46Z",
+    "http_status": 404,
+    "format": "html"
+  }
+}

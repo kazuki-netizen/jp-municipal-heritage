@@ -1,0 +1,10 @@
+{
+  "49bccf230e8c51b0": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c215210-008",
+    "filename": "49bccf230e8c51b0.bin",
+    "sha256": "50618f5f2b736e582161778e257f18a625e4c6f937a914dfe44c3a8f19de2597",
+    "fetched_at": "2026-07-12T06:00:47Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

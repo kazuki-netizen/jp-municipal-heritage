@@ -1,0 +1,18 @@
+{
+  "c8149801d82be4b1": {
+    "url": "https://www.city.arida.lg.jp/kurashi/sportsbunka/bunka/1000911/index.html",
+    "filename": "c8149801d82be4b1.html",
+    "sha256": "544dd8afc09f59a1d57feb6ce4760c94e91cdfd8451942a3e2553788947a5c11",
+    "fetched_at": "2026-07-12T06:47:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "12da99cc9306bbdd": {
+    "url": "https://www.city.arida.lg.jp/_res/projects/default_project/_page_/001/004/617/toshikeikaku_zentai.pdf",
+    "filename": "12da99cc9306bbdd.pdf",
+    "sha256": "d198a1f00868acf7ea969bfb38e5e36494bbaef6d91f0a401cc01bc27e4162b8",
+    "fetched_at": "2026-07-12T06:47:03Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

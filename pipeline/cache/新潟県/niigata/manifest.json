@@ -1,0 +1,26 @@
+{
+  "b76e166fb8c043bd": {
+    "url": "https://www.city.niigata.lg.jp/kanko/bunka/rekishi/bunkazai/ichiran/bunka/index.html",
+    "filename": "b76e166fb8c043bd.html",
+    "sha256": "af5317e9715f67f786357174ed14cf1cfd9788ce4f77834f90340c3a5db1883d",
+    "fetched_at": "2026-07-12T03:41:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d055c77794a343fe": {
+    "url": "https://www.city.niigata.lg.jp/kanko/bunka/rekishi/bunkazai/ichiran/kunisitei.html",
+    "filename": "d055c77794a343fe.html",
+    "sha256": null,
+    "fetched_at": "2026-07-12T03:41:11Z",
+    "http_status": 404,
+    "format": "html"
+  },
+  "132b394eba13ec91": {
+    "url": "https://www.city.niigata.lg.jp/kanko/bunka/rekishi/bunkazai/ichiran/kensuu.html",
+    "filename": "132b394eba13ec91.html",
+    "sha256": "fd346e4aa843a1092af767d75fb5bea9043c33498c1855248302adac2af74769",
+    "fetched_at": "2026-07-12T03:41:13Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

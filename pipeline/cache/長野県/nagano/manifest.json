@@ -1,0 +1,18 @@
+{
+  "84cf0e073d254a15": {
+    "url": "https://www.city.nagano.nagano.jp/documents/842/20260301_bunnkazaiichirann.pdf",
+    "filename": "84cf0e073d254a15.pdf",
+    "sha256": "c982cc4aeda1ac57ffe97ecfc0c8d778a17aac3f5b3e4e96c3c5299aae9baa1a",
+    "fetched_at": "2026-07-12T04:27:14Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "01a9a5eea809140d": {
+    "url": "https://www.city.nagano.nagano.jp/n151100/contents/p002910.html",
+    "filename": "01a9a5eea809140d.html",
+    "sha256": "7185f7ff63c83e2bd5e4fb9b81524bc721183969331f2ea39f91b118c9e6d306",
+    "fetched_at": "2026-07-12T04:27:15Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

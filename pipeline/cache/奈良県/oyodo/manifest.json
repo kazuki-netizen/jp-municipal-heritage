@@ -1,0 +1,18 @@
+{
+  "c5bf725956d4eb67": {
+    "url": "https://www.town.oyodo.lg.jp/0000000140.html",
+    "filename": "c5bf725956d4eb67.html",
+    "sha256": "cd22dc927f7c8db7c37bc78d41fca262cb5693c8a5658e23b6b24400b17f0be9",
+    "fetched_at": "2026-07-12T06:43:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "089f9c4d4b868236": {
+    "url": "https://www.town.oyodo.lg.jp/0000000022.html",
+    "filename": "089f9c4d4b868236.html",
+    "sha256": "56f7b7f0d21e9cfb82844d073611ced15656b7b9cefeca9b6e02d45238c09a00",
+    "fetched_at": "2026-07-12T06:43:06Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

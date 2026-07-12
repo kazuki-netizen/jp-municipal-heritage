@@ -1,0 +1,10 @@
+{
+  "c12d62a14191bbf1": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c216046-007",
+    "filename": "c12d62a14191bbf1.bin",
+    "sha256": "6872839f99bc3998187d2aff668eefa494942f595727f4a7ae4b639e7487a186",
+    "fetched_at": "2026-07-12T06:00:49Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

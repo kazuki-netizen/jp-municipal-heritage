@@ -1,0 +1,18 @@
+{
+  "afab3dac3599d77a": {
+    "url": "https://www.town.echizen.fukui.jp/kurashi/08/02/index.html",
+    "filename": "afab3dac3599d77a.html",
+    "sha256": "26cdbaee55c1c832977cc73f3309606e15e705a70d9735c9e69650da48427b7c",
+    "fetched_at": "2026-07-12T03:50:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5800639c94f2e4ad": {
+    "url": "https://bunkazai.pref.fukui.lg.jp/search_category",
+    "filename": "5800639c94f2e4ad.html",
+    "sha256": "0f3229b336f2af24cc87108d57f3d9675917ea10725ec4e902c8646e7aa71725",
+    "fetched_at": "2026-07-12T03:50:58Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

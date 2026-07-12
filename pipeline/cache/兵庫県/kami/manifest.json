@@ -1,0 +1,18 @@
+{
+  "b90b7c2093440670": {
+    "url": "https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/1129.html",
+    "filename": "b90b7c2093440670.html",
+    "sha256": "534dd0fec844f2871385ab85ab29760c6241e383a95fd033b8c820cb924c90c6",
+    "fetched_at": "2026-07-12T06:32:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "2337973074027801": {
+    "url": "https://www.town.mikata-kami.lg.jp/kanko-bunka-sports/rekishi-bunkazai/1/3/index.html",
+    "filename": "2337973074027801.html",
+    "sha256": "e0e7832d718b4a381342712adca0fb9c553c7bbc78b2f5b2994e27ed6843cd8d",
+    "fetched_at": "2026-07-12T06:32:17Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "a200c5ac5cd155ca": {
+    "url": "https://www.town.shimosuwa.lg.jp/www/contents/1496969553133/index.html",
+    "filename": "a200c5ac5cd155ca.html",
+    "sha256": "72b03147197676d2df8cd547f95640ecc3933d4e8a3d2d3849f27828b96c6e04",
+    "fetched_at": "2026-07-12T04:28:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "03ff3325ff1d1b3d": {
+    "url": "https://www.town.shimosuwa.lg.jp/www/contents/1496969553133/files/7-106.pdf",
+    "filename": "03ff3325ff1d1b3d.pdf",
+    "sha256": "fb24198403086252680d6aefc84af2a6a9aeb20c8f0c80b1ee0851f3ea030005",
+    "fetched_at": "2026-07-12T04:28:14Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "a42e428824b4284f": {
+    "url": "https://www.town.shimosuwa.lg.jp/www/contents/1001000000751/index.html",
+    "filename": "a42e428824b4284f.html",
+    "sha256": "7b2776cb523588e90bdfb7a5d7522cd623c6680b19a569b0f9696b4b3891fef3",
+    "fetched_at": "2026-07-12T04:28:15Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,2434 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>町の文化財 | 山梨県 富士川町</title>
+  	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.4.1/dist/css/yakuhanjp_s-noto.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css">
+	<link rel="stylesheet" type="text/css" href="/_themes/css/common.css">
+	<link rel="stylesheet" type="text/css" href="/_themes/css/color.css">
+	<link rel="stylesheet" type="text/css" href="/_themes/css/print.css" media="print">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="viewport" content="width=device-width">
+<meta name="format-detection" content="telephone=no">
+
+<script src="/_common/js/jquery.min.js"></script>
+<script src="/_common/js/jquery.cookie.min.js"></script>
+<script src="/_common/js/jquery-migrate.min.js"></script>
+<script>
+	$(function(){
+			fontCtrl();//フォントサイズ
+			changeColor();//色変更
+			//フォントサイズ
+			function fontCtrl(){
+				const defBtn	=	$('#fontMiddle');
+				const btn		=	$('#fontLarge,#fontMiddle,#fontSmall');
+				let isStrage	=	false;
+				if(checkLS()){
+					isStrage	=	true;
+				};
+				//読み込み時
+				if(isStrage){
+					if(fs = localStorage.getItem('fujikawaTown-font')){
+						fs	=	JSON.parse(fs) || {};
+						fs.forEach(function(item,index){
+							changeFs(item.size);
+							setFsCss(item.size);
+						});
+					}else{
+						changeFs(defBtn.attr('id'));
+						setFsCss(defBtn.attr('id'));
+					}
+				}
+				//クリック時
+				btn.on('click',function(){
+					let id	=	$(this).attr('id');
+					setFsCss(id);
+					changeFs(id);
+					if(isStrage){
+						setLSF(id);
+					}
+				});
+			}
+			function setFsCss(id){
+				const cssA	=	{color:'#fff',background:'#000'};
+				const css		=	{color:'#000',background:'#fff'};
+				const btnW	=	$('.fontSize li');
+				let setId	=	$('#'+id);
+				$(btnW).find('a').css(css);
+				setId.css(cssA);
+			}
+			function changeFs(id){
+				switch(id){
+					case 'fontLarge':
+						$('body').css('font-size','20px');
+						break;
+					case 'fontMiddle':
+						$('body').css('font-size','16px');
+						break;
+					case 'fontSmall':
+						$('body').css('font-size','14px');
+						break;
+					default:
+						$('body').css('font-size','16px');
+						break;
+				}
+			}
+			function setLSF(id){
+				let cId	=	{
+					size:id,
+				};
+				let fs =[];
+				fs.push(cId);
+				localStorage.setItem('fujikawaTown-font', JSON.stringify(fs));
+			}
+			
+			//背景色
+			function changeColor(){
+				const btn	=	$('.themeColor');
+				const defBtn	=	$('.white');
+				let isStrage	=	false;
+				if(checkLS){
+					isStrage	=	true;
+				}
+				//読み込み時
+				if(isStrage){
+					if(clr = localStorage.getItem('fujikawaTown-color')){
+						clr	=	JSON.parse(clr) || {};
+						clr.forEach(function(item,index){
+							setCCss(item.color);
+						});
+					}else{
+						setCCss(defBtn.attr('class'));
+					}
+				}
+				//クリック時
+				btn.find('a').on('click',function(){
+					let color	=	$(this).attr('class');
+					setCCss(color);
+					if(isStrage){
+						setCCss(color);
+						setLSC(color);
+					}
+				});
+			}
+			function setCCss(color){
+				$('body').removeClass('white yellow blue black').addClass(color);
+			}
+			function setLSC(color){
+				let cCls	=	{
+					color:color,
+				};
+				let clr =[];
+				clr.push(cCls);
+				localStorage.setItem('fujikawaTown-color', JSON.stringify(clr));
+			}
+});
+</script>
+<script src="/_themes/common.js"></script>
+<script src="/_themes/navigation.js"></script>
+<style>
+@charset "UTF-8";
+/* CSS Document */
+.video iframe {
+  width: 100%; }
+
+body {
+  font-size: 14px; }
+  @media screen and (max-width: 600px) {
+    body {
+      font-size: 16px; } }
+
+.index__mv__search__inputWrap #joruri-search-box .criteriaKeyword .keyword {
+  height: 38px; }
+
+#breadcrumbs {
+  margin-bottom: 10px; }
+  #breadcrumbs a {
+    display: inline; }
+  #breadcrumbs ol {
+    border-top: none;
+    list-style: none;
+    padding-left: 0; }
+    #breadcrumbs ol > li {
+      border-bottom: none;
+      padding: 0 0 0 0; }
+    #breadcrumbs ol li {
+      display: inline-block; }
+      #breadcrumbs ol li:not(:first-child)::before {
+        content: ">";
+        margin: 0 5px; }
+
+.pageEntry {
+  width: 980px;
+  margin: 180px auto 180px; }
+  .pageEntry .body {
+    margin-top: 1.6rem; }
+  .pageEntry strong {
+    font-weight: 700; }
+  .pageEntry h1 {
+    background: #0071BD;
+    font-size: 1.625rem;
+    font-weight: 700;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px; }
+  .pageEntry h2 {
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #0071BD;
+    margin-top: 50px;
+    margin-bottom: 50px; }
+    .pageEntry h2 a {
+      text-decoration: none; }
+  .pageEntry h3 {
+    background: #E0F1FA;
+    color: #0071BD;
+    font-size: 1.375rem;
+    padding: 20px;
+    margin-bottom: 30px; }
+    .pageEntry h3 a {
+      text-decoration: none; }
+  .pageEntry h4 {
+    position: relative;
+    padding-left: 37px;
+    font-size: 1.25rem;
+    margin-bottom: 30px; }
+    .pageEntry h4::before {
+      position: absolute;
+      content: "";
+      width: 24px;
+      height: 20px;
+      top: 2px;
+      left: 0;
+      background: url(/_themes/icon/ico_crownH3.svg) center/contain no-repeat; }
+  .pageEntry h5 {
+    font-size: 1.125rem;
+    margin-bottom: 20px;
+    border-left: 3px solid #0071BD;
+    padding-left: 20px; }
+  .pageEntry h6 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 20px; }
+  .pageEntry p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    padding: 0 20px; }
+  .pageEntry em {
+    font-style: italic; }
+  .pageEntry ul, .pageEntry ol {
+    border-top: 1px dashed #80CCB3;
+    margin-bottom: 1.6rem; }
+    .pageEntry ul > li, .pageEntry ol > li {
+      border-bottom: 1px dashed #80CCB3;
+      padding: 0.8rem 0.8rem 0.8rem 2.2rem;
+      position: relative; }
+      .pageEntry ul > li::after, .pageEntry ol > li::after {
+        content: "";
+        position: absolute;
+        display: block;
+        width: 6px;
+        height: 6px;
+        left: 12px;
+        top: 18px;
+        background: #80CCB3;
+        border-radius: 50%; }
+      .pageEntry ul > li ul, .pageEntry ol > li ul {
+        margin-top: 0.6rem; }
+        .pageEntry ul > li ul li::after, .pageEntry ol > li ul li::after {
+          content: none; }
+      .pageEntry ul > li > ul, .pageEntry ol > li > ul {
+        border-top: none;
+        margin-left: 20px;
+        margin-bottom: 0.6rem; }
+        .pageEntry ul > li > ul li, .pageEntry ol > li > ul li {
+          border-bottom: none; }
+        .pageEntry ul > li > ul > li, .pageEntry ol > li > ul > li {
+          border-left: 2px solid #80CCB3;
+          padding: 0.2rem 0.2rem 0.2rem 1rem;
+          margin-bottom: 1rem; }
+          .pageEntry ul > li > ul > li ul li, .pageEntry ol > li > ul > li ul li {
+            border-left: none;
+            position: relative; }
+            .pageEntry ul > li > ul > li ul li::after, .pageEntry ol > li > ul > li ul li::after {
+              position: absolute;
+              content: "";
+              display: block;
+              width: 4px;
+              height: 4px;
+              background: #333;
+              border-radius: 50%;
+              top: 12px;
+              left: 0; }
+  .pageEntry ol {
+    list-style: decimal;
+    list-style-position: outside;
+    padding-left: 1.6rem; }
+    .pageEntry ol > li {
+      padding-left: 0.2rem; }
+      .pageEntry ol > li::after {
+        content: none; }
+  .pageEntry ul + * {
+    margin-top: 40px; }
+  .pageEntry table {
+    margin-bottom: 1.6rem;
+    border-collapse: collapse;
+    border: 1px solid #0071BD; }
+    .pageEntry table tr {
+      border-bottom: 1px solid #0071BD; }
+      .pageEntry table tr:first-child {
+        border-top: 1px solid #0071BD; }
+    .pageEntry table th, .pageEntry table td {
+      padding: 10px 5px;
+      border: 1px solid #0071BD; }
+    .pageEntry table th {
+      background: #ddeef7;
+      color: #0071BD;
+      font-weight: 700;
+      vertical-align: middle; }
+    .pageEntry table img {
+      max-width: inherit; }
+  .pageEntry hr {
+    margin: 1rem 0; }
+  .pageEntry iframe[src*="google.com"] {
+    width: 100%;
+    min-height: 530px; }
+  @media screen and (max-width: 1000px) {
+    .pageEntry .scroll {
+      width: calc(100% - 17px);
+      margin-bottom: 1rem;
+      overflow: auto;
+      white-space: nowrap; }
+    .pageEntry .scroll::-webkit-scrollbar {
+      height: 10px; }
+    .pageEntry .scroll::-webkit-scrollbar-track {
+      background: #eee; }
+    .pageEntry .scroll::-webkit-scrollbar-thumb {
+      background: #0071BD; }
+    .pageEntry .scroll table {
+      width: 100% !important;
+      height: auto !important;
+      margin: 0 0 1em !important;
+      table-layout: auto; } }
+  @media screen and (max-width: 600px) {
+    .pageEntry {
+      width: 100%;
+      margin: 85px auto 80px;
+      padding: 10px; }
+      .pageEntry img {
+        max-width: 100%; } }
+
+.docNo {
+  text-align: right;
+  padding: 0 20px; }
+  .docNo::before {
+    content: "記事番号："; }
+  .docNo p {
+    display: inline;
+    padding: 0; }
+
+.date .publishedAt {
+  text-align: right;
+  margin-bottom: 0; }
+.date .updatedAt {
+  text-align: right;
+  margin-bottom: 0; }
+
+.qrcode {
+  margin-top: 40px; }
+
+.inquiry address {
+  padding: 20px;
+  background: #eee;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 20px; }
+  .inquiry address > div {
+    margin-bottom: 10px; }
+    .inquiry address > div.section {
+      font-weight: 700;
+      margin-bottom: 15px; }
+    .inquiry address > div .label {
+      width: 5em;
+      display: inline-block; }
+
+.dir-category a {
+  text-decoration: none;
+  display: block; }
+.dir-category .pageEntry section {
+  margin-bottom: 40px; }
+  .dir-category .pageEntry section > a {
+    text-decoration: none; }
+  .dir-category .pageEntry section > ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 80%;
+    gap: 0 40px;
+    margin: 0 auto;
+    border-top: none; }
+    .dir-category .pageEntry section > ul li:nth-child(1), .dir-category .pageEntry section > ul li:nth-child(2) {
+      border-top: 1px dashed #80CCB3; }
+    .dir-category .pageEntry section > ul li > ul {
+      margin-top: 1em; }
+      .dir-category .pageEntry section > ul li > ul li {
+        border-top: none !important; }
+.dir-category .pageEntry .yuzu {
+  padding: 0 !important; }
+
+.feed {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  border-top: none !important;
+  margin-top: -40px;
+  margin-bottom: 10px; }
+  .feed li {
+    border-bottom: none !important; }
+    .feed li::after {
+      content: none !important; }
+  .feed a {
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    margin-left: 30px; }
+    .feed a::before {
+      content: "";
+      position: absolute;
+      display: block;
+      width: 26px;
+      height: 26px;
+      background: url(/_themes/icon/ic-rss.svg) no-repeat center/cover;
+      top: calc(50% - 13px);
+      left: -30px; }
+
+.contentGnavMenuItem,
+.contentGnavMenuItems,
+.soshikiCategoryList {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px; }
+  .contentGnavMenuItem section > a,
+  .contentGnavMenuItems section > a,
+  .soshikiCategoryList section > a {
+    text-decoration: none; }
+
+.contentGpCategory, .contentGnavMenuItems, .contentGnavMenuItem {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px; }
+  .contentGpCategory > section > a, .contentGnavMenuItems > section > a, .contentGnavMenuItem > section > a {
+    text-decoration: none; }
+    .contentGpCategory > section > a:hover h2, .contentGnavMenuItems > section > a:hover h2, .contentGnavMenuItem > section > a:hover h2 {
+      color: #000; }
+  .contentGpCategory > section:not(.docs_1), .contentGpCategory > section:not(.docs_2), .contentGpCategory > section:not(.docs_3), .contentGpCategory > section:not(.docs_4), .contentGpCategory > section:not(.docs_5), .contentGpCategory > section:not(.docs_6), .contentGpCategory > section:not(.docs_7), .contentGpCategory > section:not(.docs_8), .contentGpCategory > section.categoryType, .contentGnavMenuItems > section:not(.docs_1), .contentGnavMenuItems > section:not(.docs_2), .contentGnavMenuItems > section:not(.docs_3), .contentGnavMenuItems > section:not(.docs_4), .contentGnavMenuItems > section:not(.docs_5), .contentGnavMenuItems > section:not(.docs_6), .contentGnavMenuItems > section:not(.docs_7), .contentGnavMenuItems > section:not(.docs_8), .contentGnavMenuItems > section.categoryType, .contentGnavMenuItem > section:not(.docs_1), .contentGnavMenuItem > section:not(.docs_2), .contentGnavMenuItem > section:not(.docs_3), .contentGnavMenuItem > section:not(.docs_4), .contentGnavMenuItem > section:not(.docs_5), .contentGnavMenuItem > section:not(.docs_6), .contentGnavMenuItem > section:not(.docs_7), .contentGnavMenuItem > section:not(.docs_8), .contentGnavMenuItem > section.categoryType {
+    width: 100%; }
+    .contentGpCategory > section:not(.docs_1) > h2, .contentGpCategory > section:not(.docs_2) > h2, .contentGpCategory > section:not(.docs_3) > h2, .contentGpCategory > section:not(.docs_4) > h2, .contentGpCategory > section:not(.docs_5) > h2, .contentGpCategory > section:not(.docs_6) > h2, .contentGpCategory > section:not(.docs_7) > h2, .contentGpCategory > section:not(.docs_8) > h2, .contentGpCategory > section.categoryType > h2, .contentGnavMenuItems > section:not(.docs_1) > h2, .contentGnavMenuItems > section:not(.docs_2) > h2, .contentGnavMenuItems > section:not(.docs_3) > h2, .contentGnavMenuItems > section:not(.docs_4) > h2, .contentGnavMenuItems > section:not(.docs_5) > h2, .contentGnavMenuItems > section:not(.docs_6) > h2, .contentGnavMenuItems > section:not(.docs_7) > h2, .contentGnavMenuItems > section:not(.docs_8) > h2, .contentGnavMenuItems > section.categoryType > h2, .contentGnavMenuItem > section:not(.docs_1) > h2, .contentGnavMenuItem > section:not(.docs_2) > h2, .contentGnavMenuItem > section:not(.docs_3) > h2, .contentGnavMenuItem > section:not(.docs_4) > h2, .contentGnavMenuItem > section:not(.docs_5) > h2, .contentGnavMenuItem > section:not(.docs_6) > h2, .contentGnavMenuItem > section:not(.docs_7) > h2, .contentGnavMenuItem > section:not(.docs_8) > h2, .contentGnavMenuItem > section.categoryType > h2 {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding-bottom: 0;
+      border-bottom: none; }
+      .contentGpCategory > section:not(.docs_1) > h2 a, .contentGpCategory > section:not(.docs_2) > h2 a, .contentGpCategory > section:not(.docs_3) > h2 a, .contentGpCategory > section:not(.docs_4) > h2 a, .contentGpCategory > section:not(.docs_5) > h2 a, .contentGpCategory > section:not(.docs_6) > h2 a, .contentGpCategory > section:not(.docs_7) > h2 a, .contentGpCategory > section:not(.docs_8) > h2 a, .contentGpCategory > section.categoryType > h2 a, .contentGnavMenuItems > section:not(.docs_1) > h2 a, .contentGnavMenuItems > section:not(.docs_2) > h2 a, .contentGnavMenuItems > section:not(.docs_3) > h2 a, .contentGnavMenuItems > section:not(.docs_4) > h2 a, .contentGnavMenuItems > section:not(.docs_5) > h2 a, .contentGnavMenuItems > section:not(.docs_6) > h2 a, .contentGnavMenuItems > section:not(.docs_7) > h2 a, .contentGnavMenuItems > section:not(.docs_8) > h2 a, .contentGnavMenuItems > section.categoryType > h2 a, .contentGnavMenuItem > section:not(.docs_1) > h2 a, .contentGnavMenuItem > section:not(.docs_2) > h2 a, .contentGnavMenuItem > section:not(.docs_3) > h2 a, .contentGnavMenuItem > section:not(.docs_4) > h2 a, .contentGnavMenuItem > section:not(.docs_5) > h2 a, .contentGnavMenuItem > section:not(.docs_6) > h2 a, .contentGnavMenuItem > section:not(.docs_7) > h2 a, .contentGnavMenuItem > section:not(.docs_8) > h2 a, .contentGnavMenuItem > section.categoryType > h2 a {
+        display: block;
+        border: 2px solid #009567;
+        padding: 10px 20px;
+        color: #009567;
+        border-radius: 10px; }
+        .contentGpCategory > section:not(.docs_1) > h2 a:hover, .contentGpCategory > section:not(.docs_2) > h2 a:hover, .contentGpCategory > section:not(.docs_3) > h2 a:hover, .contentGpCategory > section:not(.docs_4) > h2 a:hover, .contentGpCategory > section:not(.docs_5) > h2 a:hover, .contentGpCategory > section:not(.docs_6) > h2 a:hover, .contentGpCategory > section:not(.docs_7) > h2 a:hover, .contentGpCategory > section:not(.docs_8) > h2 a:hover, .contentGpCategory > section.categoryType > h2 a:hover, .contentGnavMenuItems > section:not(.docs_1) > h2 a:hover, .contentGnavMenuItems > section:not(.docs_2) > h2 a:hover, .contentGnavMenuItems > section:not(.docs_3) > h2 a:hover, .contentGnavMenuItems > section:not(.docs_4) > h2 a:hover, .contentGnavMenuItems > section:not(.docs_5) > h2 a:hover, .contentGnavMenuItems > section:not(.docs_6) > h2 a:hover, .contentGnavMenuItems > section:not(.docs_7) > h2 a:hover, .contentGnavMenuItems > section:not(.docs_8) > h2 a:hover, .contentGnavMenuItems > section.categoryType > h2 a:hover, .contentGnavMenuItem > section:not(.docs_1) > h2 a:hover, .contentGnavMenuItem > section:not(.docs_2) > h2 a:hover, .contentGnavMenuItem > section:not(.docs_3) > h2 a:hover, .contentGnavMenuItem > section:not(.docs_4) > h2 a:hover, .contentGnavMenuItem > section:not(.docs_5) > h2 a:hover, .contentGnavMenuItem > section:not(.docs_6) > h2 a:hover, .contentGnavMenuItem > section:not(.docs_7) > h2 a:hover, .contentGnavMenuItem > section:not(.docs_8) > h2 a:hover, .contentGnavMenuItem > section.categoryType > h2 a:hover {
+          background: #009567;
+          color: #fff; }
+  .contentGpCategory > section.docs_1, .contentGnavMenuItems > section.docs_1, .contentGnavMenuItem > section.docs_1 {
+    background: #E0F1FA;
+    padding: 0 40px 40px;
+    grid-column: 1/3; }
+    .contentGpCategory > section.docs_1 > ul:not(.feed), .contentGnavMenuItems > section.docs_1 > ul:not(.feed), .contentGnavMenuItem > section.docs_1 > ul:not(.feed) {
+      margin-top: 20px; }
+  .contentGpCategory > section.docs_2, .contentGnavMenuItems > section.docs_2, .contentGnavMenuItem > section.docs_2 {
+    grid-column: 1/3; }
+  .contentGpCategory > section.docs_7,
+  .contentGpCategory > section.category, .contentGnavMenuItems > section.docs_7,
+  .contentGnavMenuItems > section.category, .contentGnavMenuItem > section.docs_7,
+  .contentGnavMenuItem > section.category {
+    grid-column: 1/3; }
+  @media screen and (max-width: 600px) {
+    .contentGpCategory, .contentGnavMenuItems, .contentGnavMenuItem {
+      display: block; }
+      .contentGpCategory > section.docs_1, .contentGnavMenuItems > section.docs_1, .contentGnavMenuItem > section.docs_1 {
+        padding: 1px 20px 20px; } }
+
+#page-category-index .contentGpCategory {
+  display: block; }
+
+.docs_1 li::after,
+.docs_2 li::after,
+.docs_4 li::after,
+.docs_7 li::after,
+.contentGnavMenuItem li::after,
+.contentGnavMenuItems li::after,
+.docs li::after,
+.articleHeader + ul li::after {
+  content: "";
+  position: absolute;
+  background: url(/_themes/icon/ic_arrowG.svg) no-repeat center/cover;
+  width: 4.9px;
+  height: 9.8px;
+  top: calc(50% - 4.6px);
+  left: 0; }
+.docs_1 li span.update_date,
+.docs_2 li span.update_date,
+.docs_4 li span.update_date,
+.docs_7 li span.update_date,
+.contentGnavMenuItem li span.update_date,
+.contentGnavMenuItems li span.update_date,
+.docs li span.update_date,
+.articleHeader + ul li span.update_date {
+  font-size: 0.875rem;
+  margin-right: 30px; }
+@media screen and (max-width: 600px) {
+  .docs_1 li span.update_date,
+  .docs_2 li span.update_date,
+  .docs_4 li span.update_date,
+  .docs_7 li span.update_date,
+  .contentGnavMenuItem li span.update_date,
+  .contentGnavMenuItems li span.update_date,
+  .docs li span.update_date,
+  .articleHeader + ul li span.update_date {
+    display: block; } }
+
+.articleHeader + ul + .more,
+.articleHeader + ul + div .more {
+  margin-top: 20px;
+  text-align: right; }
+
+.contentOrganizationGroups h2 > span:not(.name) {
+  display: none;
+  padding-left: 36px; }
+.contentOrganizationGroups h2 + ul li > span {
+  display: block; }
+  .contentOrganizationGroups h2 + ul li > span.name {
+    font-weight: 700;
+    margin-bottom: 10px; }
+  .contentOrganizationGroups h2 + ul li > span .outline {
+    margin-top: 10px; }
+
+#soshikiAddress .pieceBody > div {
+  margin-bottom: 10px; }
+
+#docsyuzu {
+  margin-bottom: 40px; }
+
+.iconFile,
+.iconDefault {
+  min-height: 16px;
+  padding-left: 22px;
+  background-image: url("/_common/images/icons/default.png");
+  background-position: left center;
+  background-repeat: no-repeat; }
+
+.iconBmp {
+  background-image: url("/_common/images/icons/bmp.png"); }
+
+.iconCsv,
+.iconTxt {
+  background-image: url("/_common/images/icons/default.png"); }
+
+.iconDoc,
+.iconDocx {
+  background-image: url("/_common/images/icons/doc.png"); }
+
+.iconGif {
+  background-image: url("/_common/images/icons/gif.png"); }
+
+.iconJpg,
+.iconJpe,
+.iconJpeg {
+  background-image: url("/_common/images/icons/jpg.png"); }
+
+.iconJtd {
+  background-image: url("/_common/images/icons/jtd.png"); }
+
+.iconLzh {
+  background-image: url("/_common/images/icons/lzh.png"); }
+
+.iconPdf {
+  background-image: url("/_common/images/icons/pdf.png"); }
+
+.iconPng {
+  background-image: url("/_common/images/icons/png.png"); }
+
+.iconPpt,
+.iconPptx {
+  background-image: url("/_common/images/icons/ppt.png"); }
+
+.iconXls,
+.iconXlsx {
+  background-image: url("/_common/images/icons/xls.png"); }
+
+.iconZip {
+  background-image: url("/_common/images/icons/zip.png"); }
+
+main form {
+  margin-top: 60px;
+  background: #E0F1FA;
+  margin-top: 80px;
+  padding: 60px 10px;
+  border-radius: 30px; }
+  main form .submit input {
+    width: 80%;
+    max-width: 320px;
+    background: #0071BD;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto 25px; }
+main .questions {
+  width: 700px;
+  margin: 0 auto;
+  max-width: 100%; }
+main .question {
+  margin-bottom: 20px; }
+  main .question_content {
+    font-weight: 700;
+    color: #0071BD; }
+    main .question_content .note {
+      color: #C60000; }
+  main .question:last-child {
+    margin-bottom: 40px; }
+main .answer_content input[type=text], main .answer_content textarea {
+  padding: 10px 20px;
+  width: 100%;
+  border-radius: 5px;
+  max-width: 100%; }
+main .answer_content input[type=checkbox], main .answer_content input[type=radio], main .answer_content select {
+  margin-left: 20px; }
+
+.tmp_map1 {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 40px; }
+  .tmp_map1 .thumb {
+    width: 40%; }
+    .tmp_map1 .thumb img {
+      width: 100%;
+      height: auto; }
+  .tmp_map1 .data {
+    flex: 1; }
+.tmp_img2clm, .tmp_cnt2clm {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  width: 80%;
+  margin-bottom: 40px; }
+  .tmp_img2clm dl img, .tmp_cnt2clm dl img {
+    max-width: 100%;
+    height: auto; }
+  .tmp_img2clm dl dt, .tmp_img2clm dl dd, .tmp_cnt2clm dl dt, .tmp_cnt2clm dl dd {
+    margin: 0; }
+.tmp_img3clm {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 40px; }
+  .tmp_img3clm dl img {
+    max-width: 100%;
+    height: auto; }
+  .tmp_img3clm dl dt, .tmp_img3clm dl dd {
+    margin: 0; }
+.tmp_bank {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 40px; }
+  .tmp_bank .thumb {
+    width: 40%; }
+    .tmp_bank .thumb img {
+      width: 100%;
+      height: auto; }
+  .tmp_bank .data {
+    flex: 1; }
+    .tmp_bank .data__state {
+      display: inline-block;
+      min-width: 170px; }
+    .tmp_bank .data__type--land {
+      background: #0b05fa;
+      display: inline-block;
+      padding: 3px 5px;
+      color: #fff;
+      font-size: 90%;
+      margin-right: 8px;
+      border-radius: 5px;
+      padding: 2px 8px 4px;
+      font-weight: 700;
+      letter-spacing: 0.6px; }
+    .tmp_bank .data__type--building {
+      background: #146a42;
+      display: inline-block;
+      padding: 3px 5px;
+      color: #fff;
+      font-size: 90%;
+      margin-right: 8px;
+      border-radius: 5px;
+      padding: 2px 8px 4px;
+      font-weight: 700;
+      letter-spacing: 0.6px; }
+    .tmp_bank .data__type--sell {
+      background: #816638;
+      display: inline-block;
+      padding: 3px 5px;
+      color: #fff;
+      font-size: 90%;
+      margin-right: 8px;
+      border-radius: 5px;
+      padding: 2px 8px 4px;
+      font-weight: 700;
+      letter-spacing: 0.6px; }
+    .tmp_bank .data__type--rent {
+      background: #a13b82;
+      display: inline-block;
+      padding: 3px 5px;
+      color: #fff;
+      font-size: 90%;
+      margin-right: 8px;
+      border-radius: 5px;
+      padding: 2px 8px 4px;
+      font-weight: 700;
+      letter-spacing: 0.6px; }
+    .tmp_bank .data .state {
+      color: #C60000; }
+    .tmp_bank .data .price span {
+      font-size: 130%;
+      font-weight: 700;
+      display: inline-block;
+      padding: 0 3px; }
+@media screen and (max-width: 600px) {
+.tmp_bank{
+flex-direction:column-reverse;
+gap:0px;
+margin-bottom:60px;
+}
+.tmp_bank .thumb{
+width:86%;
+margin:0 auto;
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JX70ZR4YSX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JX70ZR4YSX');
+</script>
+
+    <meta property="og:type" content="article" /><meta property="og:title" content="町の文化財" /><meta property="og:description" content="文化財  富士川町にある文化財をご紹介致します。 拡大写真を見るには、各文化財の写真をクリックしてください。  最勝山 最勝寺              　　　　四季サクラ　　　　　　　鰐口　　　　正観音菩薩像版木　木..." />
+<script src="/_common/packs/vendor-e8bd766436ece4358662.js"></script>
+<script src="/_common/packs/common-b21b69c0581f376f910c.js"></script>
+<script src="/_common/packs/public-ba50c88802c1224d169e.js"></script>
+
+  <link rel="canonical" href="https://www.town.fujikawa.yamanashi.jp/docs/2023090600187/">
+
+</head>
+<body id="page-docs-2023090600187-index" class="dir-docs-2023090600187">
+  		<header class="header topC" id="pagetop">
+			<div class="header__wrap">
+				<h1 class="header__title">
+					<a href="/"><img src="/_themes/logo.png" alt="富士川町"></a>
+				</h1>
+<!-- skip reading -->
+				<div class="search">
+					<div class="index__mv__search__form">
+						<ul class="index__mv__search__wrap criteriaBasic">
+							<li class="index__mv__search__title criteriaLabel">
+								<h3>キーワードから探す</h3>
+							</li>
+							<li class="index__mv__search__inputWrap">
+							<div id="joruri-search-box"></div>
+<script>
+$(function(){
+  psid = 'n4CUPzU437xMPcuprJfB5guQpxMEmd4koa7tfOazgdk';
+  url = 'https://result.joruri-search.jp/pwm/search/api/indices/?type=box&psid=' + psid;
+  params = new URLSearchParams(location.search);
+  params.delete('type');
+  $.ajax({
+    url: url,
+    data: params.toString(),
+    xhrFields: {
+      withCredentials: true
+    }
+  }).done(function(data){
+    $('#joruri-search-box').html(data);
+  }).fail(function(){
+  });
+});
+</script>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+<div class="mainNav_header">
+<style>
+.header.topC .lang__link {
+	position: relative;
+	background: #009567;
+    color: #fff;
+    display: block;
+    padding: 5px 10px;
+    font-size: 0.9375rem;
+    border-radius: 15px;
+    text-decoration: none;
+white-space: nowrap;
+}
+
+.header.topC .lang__list{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: -32px;
+    background: #009567;
+    padding: 10px;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.header.topC .lang__list a{
+    text-decoration: none;
+    text-align: center;
+    display: block!important;
+    width: 100%;
+    height: auto;
+    color: #fff;
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #fff;
+    width: 150px;
+    padding: 10px 0;
+}
+
+.header.topC .lang{
+    position:relative;
+}
+.header.topC .lang:hover .lang__list{
+    display: block;
+}
+</style>
+<div class="accessibilityTool__body pieceBody">
+	<ul class="accessibilityTool__list">
+		<li class="lang accessibilityTool__item">
+			<a href="" class="lang__link" class="lnag__link">Lang</a>
+			<ul class="lang__list">
+				<li class="lang__item">
+					<a href="https://translate.google.com/translate?sl=ja&amp;tl=en&amp;u=http://10.61.150.125/_preview/0001/top.html" class="lang__en" target="_blank">English</a>
+				</li>
+				<li class="lang__item">
+					<a href="https://translate.google.com/translate?sl=ja&amp;tl=zh-CN&amp;u=http://10.61.150.125/_preview/0001/top.html" class="lang__zh" target="_blank">中文（簡体字）</a>
+				</li>
+				<li class="lang__item">
+					<a href="https://translate.google.com/translate?sl=ja&amp;tl=ko&amp;u=http://10.61.150.125/_preview/0001/top.html" class="lang__ko" target="_blank">한국어</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+<script>
+				let lang	=	$('.lnag__link');
+				let en	=	$('.lang__en');
+				let zh	=	$('.lang__zh');
+				let ko	=	$('.lang__ko');
+				let baseUrl	=	'https://translate.google.com/translate?sl=ja&tl=';
+				let cUrl	=	location.href;
+				let tmpUrl	=	'';
+				
+				tmpUrl	=	baseUrl + 'en&u=' + cUrl;
+				en.attr('href',tmpUrl);
+				
+				tmpUrl	=	baseUrl + 'ko&u=' + cUrl;
+				ko.attr('href',tmpUrl);
+				
+				tmpUrl	=	baseUrl + 'zh-CN&u=' + cUrl;
+				zh.attr('href',tmpUrl);
+</script>
+</div>
+
+				<div class="header__btnWrap">
+					<button class="header__searchSp">
+						<img src="/_themes/icon/ic_searchG.svg" alt="キーワード検索ボタン表示">
+					</button>
+					<button class="header__menu">
+						<span class="header__menu__icon">
+							<span></span>
+							<span></span>
+							<span></span>
+						</span>
+						<span class="header__menu__label">
+							<img src="/_themes/icon/txt_menu.png" alt="メニュー">
+						</span>
+					</button>
+				</div>
+
+
+
+
+			</div>
+		</header>
+<!-- /skip reading -->
+		<main class="topC topC__main content">
+
+<article class="pageEntry">
+<div id="breadcrumbs" class="piece breadcrumbs"
+     data-controller="cms--public--piece--bread-crumbs"
+     data-serial-id="cms_pieces-12">
+  <div class="pieceContainer">
+    <div class="pieceBody">
+      <ol><li><a href="/top.html">トップ</a></li><li><a href="/category/">カテゴリ</a></li><li><a href="/category/bunya/">分野</a></li><li><a href="/category/bunya/kurashi/">くらし</a></li><li><a href="/category/bunya/kurashi/culture/">文化・公園・体育施設</a></li><li><a href="/category/bunya/kurashi/culture/history/">歴史・文化・人</a></li><li><a href="/category/bunya/kurashi/culture/history/cultural_property/">文化財・文化施設</a></li></ol><ol><li><a href="/top.html">トップ</a></li><li><a href="/category/">カテゴリ</a></li><li><a href="/category/bunya/">分野</a></li><li><a href="/category/bunya/kosodate/">子育て・教育</a></li><li><a href="/category/bunya/kosodate/education/">教育</a></li><li><a href="/category/bunya/kosodate/education/lifelong/">生涯学習・生涯スポーツ</a></li><li><a href="/category/bunya/kosodate/education/lifelong/history/">歴史・文化・人</a></li><li><a href="/category/bunya/kosodate/education/lifelong/history/cultural_property/">文化財・文化施設</a></li></ol><ol><li><a href="/top.html">トップ</a></li><li><a href="/soshiki/">組織</a></li><li><a href="/soshiki/shougaigakushu/">生涯学習課</a></li><li><a href="/soshiki/shougaigakushu/shakaikyouiku/">社会教育担当</a></li></ol>
+
+    </div>
+  </div>
+</div>
+
+<div id="pageTitle" class="piece page_title"
+     data-controller="cms--public--piece--page-titles"
+     data-serial-id="cms_pieces-11">
+  <div class="pieceContainer">
+    <div class="pieceBody">
+      <h1>町の文化財</h1>
+
+    </div>
+  </div>
+</div>
+
+<article class="contentGpArticleDoc" data-serial-id="gp_article_docs-1034">
+        <div class="docNo">
+    <p>&nbsp;5-740</p>
+  </div>
+  <div class="date">
+    <p class="publishedAt">公開日 2023年10月01日</p>
+    <p class="updatedAt">更新日 2023年10月01日</p>
+  </div>
+
+
+      <div class="body">
+      <div class="text-beginning"><h2>文化財</h2>
+
+<p>富士川町にある文化財をご紹介致します。<br />
+拡大写真を見るには、各文化財の写真をクリックしてください。</p>
+
+<h3>最勝山 最勝寺</h3>
+
+<p><a href="file_contents/01_saisyouji_.jpg" target="_blank"><img alt="最勝山 最勝寺" src="file_contents/01_saisyouji_2.jpg" title="最勝山 最勝寺" /></a>&nbsp;&nbsp;<a href="file_contents/saisyouji_waniguti.jpg" target="_blank"><img alt="最勝寺鰐口" src="file_contents/thumb/saisyouji_waniguti.jpg" style="height:217px; width:130px" title="最勝寺鰐口" /></a>&nbsp;&nbsp; <a href="file_contents/saisyouji_hangi.jpg" target="_blank"><img alt="正観音菩薩像版木" src="file_contents/thumb/saisyouji_hangi.jpg" style="height:256px; width:100px" title="正観音菩薩像版木" /></a>&nbsp;&nbsp; <a href="file_contents/saisyouji_rituzou.jpg" target="_blank"><img alt="最勝寺聖観音立像" src="file_contents/thumb/saisyouji_rituzou.jpg" style="height:183px; width:150px" title="最勝寺聖観音立像" /></a>&nbsp;&nbsp; <a href="file_contents/saisyouji_gorintou.jpg" target="_blank"><img alt="最勝寺五輪塔" src="file_contents/thumb/saisyouji_gorintou.jpg" style="height:159px; width:200px" title="最勝寺五輪塔" /></a><br />
+　　　　四季サクラ　　　　　　　鰐口　　　　正観音菩薩像版木　木造聖観音立像　　　　歴代五輪塔群</p>
+
+<p>　真言宗。<br />
+天平20年(748年)、聖武天皇の勅願寺として建立された県内屈指の古刹です。<br />
+寺宝として、鰐口と正観音菩薩像版木があり、ともに県指定文化財となっています。<br />
+鰐口は、武田信重によって島上条八幡宮(現・甲斐市)に納められた二つのうちの一つ。<br />
+正観音菩薩像版木は、平文12年(1543年)開版の小ぶりながら気品あふれる版木です。<br />
+また四季ザクラ、木造聖観音立像、歴代五輪塔群は町指定文化財に指定されています。<br />
+木造聖観音立像は桧の一本造りで、鎌倉初期から中期の作と推定されます。<br />
+歴代五輪塔群は鎌倉初期から南北朝時代の造塔と思われ、寺歴の古さを物語っています。</p>
+
+<p>■お問い合わせ■<br />
+〒400-0502　富士川町最勝寺2016<br />
+(TEL) 0556-22-1447</p>
+
+<h3>一条忠頼の墓</h3>
+
+<p>　<a href="file_contents/ichijyo-haka_0.jpg" target="_blank"><img alt="一条忠頼の墓" src="file_contents/ichijyo-haka_0.jpg" title="一条忠頼の墓" /></a></p>
+
+<p>明楽寺跡地(富士川町𣇃米地内)。<br />
+武田家の始祖信義の嫡男で、甲斐源氏の英雄といわれる人物の墓。<br />
+一説に一条氏前衛基地の一つとして川久保城の置かれたところとされています。</p>
+
+<h3><span style="color:#0782c1">金剛山　明王寺</span></h3>
+
+<div class="tmp_img3clm">&nbsp;</div>
+
+<p><a href="file_contents/myoouji-nyoraizou2.jpg" target="_blank"><img alt="木造薬師如来" src="file_contents/thumb/myoouji-nyoraizou2.jpg" style="height:197px; width:120px" title="木造薬師如来" /></a> <a href="file_contents/myoouji-waniguchi2.jpg" target="_blank"><img alt="鰐口" src="file_contents/thumb/myoouji-waniguchi2.jpg" style="height:162px; width:200px" title="鰐口" /></a> <a href="file_contents/myoouji_hangi.jpg" target="_blank"><img alt="明王寺-不動明王版木" src="file_contents/thumb/myoouji_hangi.jpg" style="height:195px; width:130px" title="明王寺-不動明王版木" /></a> <a href="file_contents/myoouji_sikyakumon-.jpg" target="_blank"><img alt="明王寺-四脚門" src="file_contents/thumb/myoouji_sikyakumon-.jpg" style="height:195px; width:130px" title="明王寺-四脚門" /></a> <a href="file_contents/myoouji_kinseifuda-.jpg" target="_blank"><img alt="明王寺-禁制札" src="file_contents/thumb/myoouji_kinseifuda-.jpg" style="height:113px; width:230px" title="明王寺-禁制札" /></a>&nbsp;<br />
+木造薬師如来立像　　　　　鰐口　　　　　　　不動明王版木　　　　四脚門　　　　　　　　　禁制札</p>
+
+<p><a href="file_contents/fudoumyouou.jpg" target="_blank"><img alt="不動明王二童子" src="file_contents/thumb/fudoumyouou.jpg" style="height:216px; width:100px" title="不動明王二童子" /></a><br />
+不動明王二童子像</p>
+
+<p>真言宗。宝亀元年(770年)創建。<br />
+県内最古の鰐口、藤原初期の特徴を持った桧一本造りの木造薬師如来、<br />
+ともに国指定重要文化財に指定されています。<br />
+文明9年銘の不動明王版木は県指定文化財に指定されています。<br />
+勅使門と呼ばれる切妻造りの四脚門と安土桃山時代の禁制札は町指定文化財です。<br />
+また、令和3年2月1日に、不動明王二童子像が町指定文化財（絵画）に指定されました。<br />
+この絵画は、鎌倉時代の作品であり、この時代の絵画が伝存することは、たいへん貴重です。</p>
+
+<p>■お問い合わせ■<br />
+〒400-0515　富士川町𣇃米2<br />
+(TEL) 0556-22-1283</p>
+
+<h3>補蛇山 南明寺</h3>
+
+<div class="tmp_img2clm">
+<dl>
+	<dt><a href="file_contents/nanmeiji.jpg" target="_blank"><img alt="南明寺　擂粉木" src="file_contents/nanmeiji.jpg" title="nanmeiji" /></a>　　　　　<a href="file_contents/nanmeiji-yonkyaku.jpg" target="_blank"><img alt="南明寺　四脚門" src="file_contents/nanmeiji-yonkyaku_2.jpg" title="南明寺　四脚門" /></a></dt>
+	<dd>南明寺　擂粉木　　　　南明寺　四脚門</dd>
+</dl>
+</div>
+
+<p>曹洞宗。正慶2年(1333年)創建。<br />
+江戸時代に建てられた四脚門は町指定文化財。<br />
+また、徳川家康が弟子僧と共に味噌をすったという擂粉木が、<br />
+寺宝として保存されています。</p>
+
+<p>■お問い合わせ■<br />
+〒400-0504　富士川町小林2247</p>
+
+<h3>鷹尾山 氷室神社 &nbsp;(旧鷹尾寺)</h3>
+
+<p>&nbsp;　　　&nbsp;&nbsp;&nbsp;<a href="file_contents/himuro.jpg" target="_blank"><img alt="氷室神社" src="file_contents/himuro.jpg" title="氷室神社" /></a>　　　　&nbsp; &nbsp; &nbsp;<a href="file_contents/himuro4.jpg" target="_blank"><img alt="氷室神社のクロベ" src="file_contents/thumb/himuro4.jpg" style="height:188px; width:125px" title="氷室神社のクロベ" /></a><br />
+　　　　　　　大杉　　　　　　　　　　　クロベ</p>
+
+<p>　武田家や徳川家康ゆかりの神社。(富士川町平林地内。)<br />
+旧鷹尾寺ともいい、宝亀元年(770年)、儀丹行円の創建。<br />
+苔むした575段の石段を登りつめると、随神門、神楽殿、拝殿、<br />
+本殿、白山神社などがあり、御神木の大杉は樹齢千年を越えます。<br />
+この大杉は県指定重要文化財に指定されています。<br />
+またクロベ(黒桧)の大木は県内でも数少なく、町指定文化財に指定されています。</p>
+
+<h3>壽命山 昌福寺</h3>
+
+<p><a href="file_contents/mushikiri.jpg" target="_blank"><img alt="虫切加持" src="file_contents/mushikiri.jpg" title="虫切加持" /></a>　&nbsp;&nbsp;<a href="file_contents/syoufukuji_waniguti.jpg"><img alt="昌福寺鰐口" src="file_contents/thumb/syoufukuji_waniguti.jpg" style="height:143px; width:180px" title="昌福寺鰐口" /></a>&nbsp; &nbsp; <a href="file_contents/syoufukuji_sitimen.jpg"><img alt="昌福寺七面大明神倚像" src="file_contents/thumb/syoufukuji_sitimen.jpg" style="height:225px; width:150px" title="昌福寺七面大明神倚像" /></a><br />
+　　　昌福寺の虫切加持　　　　　　　鰐口　　　　　　木造七面大明神倚像</p>
+
+<p>永仁6年、日全の開山。<br />
+12代一道院日法上人は、霊元天皇の重病を加持で治したといわれています。<br />
+今も虫切加持や御礼の秘法が伝えられており、幼児の癇の虫の御礼で有名です。<br />
+「甲州神坐山常住也、永徳2年(1382)壬戌正月□日」の銘がある鰐口は県指定文化財になっています。<br />
+元禄11年に制作され、富士川舟運の船頭たちが安全祈願のために参詣したといわれている木造七面大明神倚像は、<br />
+町指定文化財に指定されています。<br />
+また、本堂・書院・大玄関及び小玄関・旧七面堂・庫裏・虫切加持堂・山門・鐘楼堂・渡廊下の９棟が<br />
+令和７年11月、国登録有形文化財に登録されました。</p>
+
+<p>&nbsp;</p>
+
+<p>■お問い合わせ■<br />
+〒400-0501　富士川町青柳町483<br />
+(TEL) 0556-22-0218</p>
+
+<h3>徳栄山 妙法寺 &nbsp;(アジサイ寺)</h3>
+
+<p><a href="file_contents/myohouji.jpg" target="_blank"><img alt="徳栄山妙法寺" src="file_contents/myohouji.jpg" style="border-style:solid; border-width:0px" /></a>&nbsp;&nbsp;<a href="file_contents/myohouji2.jpg" target="_blank"><img alt="徳栄山妙法寺　アジサイ" src="file_contents/myohouji2.jpg" style="border-style:solid; border-width:0px" /></a>&nbsp;&nbsp;<a href="file_contents/myohouji3.jpg" target="_blank"><img alt="徳栄山妙法寺　山門" src="file_contents/myohouji3.jpg" style="border-style:solid; border-width:0px" /></a>　<a href="file_contents/myouhouji_kondou.jpg" target="_blank"><img alt="金銅金具装笈" src="file_contents/thumb/myouhouji_kondou.jpg" style="height:189px; width:130px" title="金銅金具装笈" /></a><br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　金銅金具装笈　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</p>
+
+<p>朱鳥7年(693年)頃に開創され、<br />
+その後真言宗山伏東33カ国の棟梁を経て、日蓮上人の直創寺院になりました。<br />
+間口23m、奥行7m、高さ25mの見事な山門は山梨県下最大で、<br />
+その楼上には16羅漢が安置してあります。<br />
+主な霊宝である日伝上人遺品の金銅金具装笈は県指定重要文化財に指定されています。<br />
+また6月から7月にかけて境内一面に咲くアジサイが有名です。</p>
+
+<p>■お問い合わせ■<br />
+〒400-0512　富士川町小室3063<br />
+(TEL) 0556-22-0034</p>
+
+<h3>諏訪神社</h3>
+
+<p><a href="file_contents/suwa_waniguti.jpg" target="_blank"><img alt="諏訪神社鰐口" src="file_contents/thumb/suwa_waniguti.jpg" style="height:134px; width:200px" title="諏訪神社鰐口" /></a><br />
+　　　　　鰐口　　　</p>
+
+<p>貞和5年12月22日□正河　杣保黒沢観音堂鰐口という銘文の入った鰐口は<br />
+県指定文化財となっています。<br />
+昔、幾多の災害のため流出しましたが諏訪神社あたりで発見され、<br />
+現在は諏訪神社の宝物として伝えられています。</p>
+
+<h3>懸腰寺</h3>
+
+<p><a href="file_contents/kenyouji_waniguti.jpg" target="_blank"><img alt="懸腰寺鰐口" src="file_contents/thumb/kenyouji_waniguti.jpg" style="height:174px; width:150px" title="懸腰寺鰐口" /></a><br />
+　　　　鰐口</p>
+
+<p>応永22年銘の鰐口で、県指定文化財に指定されています。</p>
+
+<h3>旧𣇃米学校校舎</h3>
+
+<p><a href="file_contents/taikodou.jpg" target="_blank"><img alt="旧𣇃米学校校舎" src="file_contents/thumb/taikodou.jpg" style="height:167px; width:250px" title="旧𣇃米学校校舎" /></a></p>
+
+<p>民俗資料館（太鼓堂）は、時の山梨県令藤村紫郎が奨励した西洋風建物で藤村式建築と呼ばれ、<br />
+明治9年9月24日に𣇃米地区に𣇃米学校として落成し、県指定文化財となっています。<br />
+建物屋上の六角形の塔屋から太鼓を打ち鳴らし時を告げていたことから、太鼓堂の愛称でも親しまれています。</p>
+
+<p>詳細は<a href="https://www.town.fujikawa.yamanashi.jp/docs/2023082300422/" target="_blank">こちら</a></p>
+
+<h3>権現堂遺跡</h3>
+
+<p><a href="file_contents/kongendou.jpg" target="_blank"><img alt="権現堂遺跡" src="file_contents/thumb/kongendou.jpg" style="height:134px; width:200px" title="権現堂遺跡" /></a> <a href="file_contents/kongendou_deido.jpg" target="_blank"><img alt="泥塔一式" src="file_contents/thumb/kongendou_deido.jpg" style="height:135px; width:220px" title="泥塔一式" /></a> <a href="file_contents/kongendou_deido2.jpg" target="_blank"><img alt="泥塔一式2" src="file_contents/thumb/kongendou_deido2.jpg" style="height:135px; width:300px" title="泥塔一式2" /></a><br />
+　　　権現堂遺跡跡　　　　　　　　　出土泥塔　　　　　　　　　　　　　出土泥塔</p>
+
+<p>鎌倉時代初期の泥塔作成の窯跡と推定され、全国初出で唯一の例です。<br />
+これによって当時、泥塔供養を志す有力な領主級武士が在地したことが示されます。</p>
+
+<h3>𣇃米の銭太鼓</h3>
+
+<p><a href="file_contents/zenidaiko.jpg" target="_blank"><img alt="銭太鼓" src="file_contents/thumb/zenidaiko.jpg" style="height:148px; width:220px" title="銭太鼓" /></a></p>
+
+<p>江戸時代から伝承されたもので、町指定文化財に指定されています。<br />
+竹筒に銭を入れたもので拍子をとりながら、数え唄(祝い唄)を和するものです。</p>
+
+<h3>庚申堂と付属品</h3>
+
+<p><a href="file_contents/kousindou.jpg" target="_blank"><img alt="庚申堂と付属品" src="file_contents/thumb/kousindou.jpg" style="height:225px; width:150px" title="庚申堂と付属品" /></a></p>
+
+<p>増穂小学校の南に位置する、町指定文化財です。<br />
+火災盗難除けの神として信じられ、文化元年造営の厨子の中に本尊帝釈天を祀っています。</p>
+
+<h3>木造文殊三尊</h3>
+
+<p><a href="file_contents/monjudou.jpg" target="_blank"><img alt="文殊堂" src="file_contents/thumb/monjudou.jpg" style="height:159px; width:200px" title="文殊堂" /></a></p>
+
+<p>平林の鎮守様で町指定文化財に指定されており、大勢の方がお参りに来ます。<br />
+明治初期に高尾権現から動座したもので、御本尊の文殊菩薩は不動明王、<br />
+降三世明王の両仏とともに鷹尾寺の御本尊であったものです。</p>
+
+<h3>旧源空寺の六地蔵</h3>
+
+<p><a href="file_contents/genkuuji.jpg" target="_blank"><img alt="旧源空寺" src="file_contents/thumb/genkuuji.jpg" style="height:147px; width:220px" title="旧源空寺" /></a>&nbsp; &nbsp;<a href="file_contents/genkuuji_rokujizou.jpg" target="_blank"><img alt="旧源空寺の六地蔵石憧" src="file_contents/thumb/genkuuji_rokujizou.jpg" style="height:150px; width:100px" title="旧源空寺の六地蔵石憧" /></a></p>
+
+<p>源空寺跡にある供養のための石造建築物で、町指定文化財に指定されています。<br />
+室町期以後、庶民の間に浸透した地蔵信仰の現われとして注目されました。</p>
+
+<h3>菅原道真坐像及び厨子</h3>
+
+<p><a href="file_contents/sugawaranomitizane.jpg" target="_blank"><img alt="菅原道真坐像" src="file_contents/thumb/sugawaranomitizane.jpg" style="height:169px; width:150px" title="菅原道真坐像" /></a></p>
+
+<p>天神社御神体として、製作者・製作年代ともに不明のまま25年に1回御開帳するものとして祭られています。<br />
+冠の形に古い形を残していることから、室町時代後期から江戸時代初めのものと推測されています。</p>
+
+<h3>七面堂本殿</h3>
+
+<p><a href="file_contents/sitimendou1.jpg" target="_blank"><img alt="七面堂本殿" src="file_contents/sitimendou1.gif" title="七面堂本殿" /></a><br />
+&nbsp;</p>
+
+<p>現在ある本殿は、宝暦5年(1755年)4月、鰍沢村が施主となり建立。<br />
+富士川舟運が盛んになると、船頭たちが安全の守り神として深く信仰しました。<br />
+本殿内部の柱の金箔や回りの12支にちなんだ彫刻などから、<br />
+そのころの鰍沢村の隆盛を偲ぶことができます。</p>
+
+<h3>掛け額</h3>
+
+<p><a href="file_contents/gaku.jpg" target="_blank"><img alt=" 掛け額" src="file_contents/gaku_0.jpg" title="掛け額" /></a><br />
+&nbsp;</p>
+
+<p>文化14年(1817年)、舟運の難所であった天神ヶ滝改修工事が終了しました。<br />
+この時の工事の様子を描いたものが、<br />
+「水行直仕形(すいこうなおしかた)図絵」と「水行難船場有形図絵」です。<br />
+そして、船頭たちが深く守り神として信仰した七面堂に献額されました。<br />
+これらは、けやき1枚板の彫絵で、幅180cm、高さ70cm。<br />
+人喰い岩による遭難の様子や、工事の時の苦労を労った文章が書かれています。</p>
+
+<h3>七面天女像</h3>
+
+<p><a href="file_contents/tennyo.jpg" target="_blank"><img alt="七面天女像" src="file_contents/tennyo_0.jpg" title="七面天女像" /></a><br />
+&nbsp;</p>
+
+<p>七面堂本尊に祀られる七面天女像は、檜材・玉眼入りの寄せ木造り。<br />
+ふくよかな容姿に衣を纏い、左手掌に宝珠を戴き、<br />
+右手に瓔珞(ようらく)を持つ彩色豊かな姿は、唐代の貴婦人を偲ばせます。<br />
+像の裏面に、日現上人(1630～1717)が<br />
+その師日悦上人が守り本尊としたこの像をここに奉納したとの墨書があります。</p>
+
+<h3>広目天・多聞天像</h3>
+
+<p><a href="file_contents/tenzou.jpg" target="_blank"><img alt="広目天・多聞天像" src="file_contents/tenzou_0.jpg" title="広目天・多聞天像" /></a><br />
+&nbsp;</p>
+
+<p>この二天像は共に両手の持物を欠くため、いずれの二天かは不明ですが、<br />
+衣の上に西城風の甲をつけ、足下に邪鬼を踏まえる姿は、<br />
+仏法の守護神としての天部像を意義づけています。<br />
+像は檜材・玉眼入りの寄せ木造りに胡粉の彩色。大きな袂と裳裾の広がりが特徴です。<br />
+像高は、広目天58cm、多聞天56cmとなっています。</p>
+
+<h3>横向(明神町)七面堂供養塔</h3>
+
+<p><a href="file_contents/kuyou01.jpg" target="_blank"><img alt="供養塔" src="file_contents/kuyou.jpg" title="供養塔" /></a><br />
+&nbsp;</p>
+
+<p>参道脇に納められるこの四基の供養塔は、<br />
+左端が『万治4年3月13日』、右端が『寛文元年10月元日』と、<br />
+共に寛文元年7月の七面堂のこの地への再建の前後に奉納されたものです。<br />
+石質は4基とも輝石安山岩で、型は左端がそのころの建家を表す<br />
+カブラ懸魚(けぎょ)付き破風の屋根を持つほかは、板碑の変わったものです。</p>
+
+<h3>十谷村七面堂</h3>
+
+<p><a href="file_contents/sitimendou2_00.jpg" target="_blank"><img alt="十谷村七面堂 " src="file_contents/sitimendou2.jpg" title="十谷村七面堂2" /></a><br />
+&nbsp;</p>
+
+<p>十谷村七面堂は天正2年(1574年)に、<br />
+深沢重左衛門の先祖が子孫繁栄を願って建てたといわれ、<br />
+天明5年(1785年)に深沢重左衛門や十谷村の世話人が再建しました。<br />
+現在のものは、文久元年(1861年)に改築されたもので、<br />
+方一間の小さい仏堂で組物及び蟇股に昔の面影を残し、重厚さを感じる建造物です。</p>
+
+<h3>十谷三番叟</h3>
+
+<p><a href="file_contents/mai_01.jpg" target="_blank"><img alt="十谷三番叟" src="file_contents/mai.jpg" title="十谷三番叟" /></a><br />
+&nbsp;</p>
+
+<p>十谷那賀天神社例祭(3月25日)にふまれる祝舞。<br />
+舞は千歳・翁・黒木尉よりなり、これに太鼓1、鼓3、拍子木1、笛1の囃子方がつきます。<br />
+舞方3名は地区の少年(長男)に限られ、舞をおえたものが囃子をつとめます。<br />
+昔は舞方・囃子方とも別火潔斎でありましたが、<br />
+今は「火ものだち」「肴だち」。それに囃子も鼓と拍子木のみです。</p>
+
+<h3>柳川七面堂「日朝上人」坐像</h3>
+
+<p><a href="file_contents/zazou_01.jpg" target="_blank"><img alt="柳川七面堂「日朝上人」坐像" src="file_contents/zazou.jpg" title="柳川七面堂「日朝上人」坐像" /></a><br />
+&nbsp;</p>
+
+<p>本像は、柳川寺境内七面堂安置の「日朝上人」坐像で、<br />
+挿首・玉眼入りの寄木造り、胡粉地に彩色を施しています。<br />
+面の幅広い額や、背筋をのばした均整な姿は、<br />
+学徳のほまれ高い日朝上人の面影を偲ばせるに十分な作りであります。</p>
+
+<h3>妙現寺 十一面観世音像</h3>
+
+<p><a href="file_contents/kannon_01.jpg" target="_blank"><img alt="妙現寺 十一面観世音像" src="file_contents/kannon.jpg" title="妙現寺 十一面観世音像" /></a><br />
+&nbsp;</p>
+
+<p>鬼島の妙現寺にある十一面観世音像は、<br />
+古色一本杉、高さ5尺7寸(173cm)で、弘仁前期の手伝いを伝えていると言われ、<br />
+本町にある仏像の中でも有名なものです。<br />
+この寺は、昔は鬼島山大善寺といい、建久6年(1195年)に建てられました。<br />
+その後、本学坊日栄が永正16年(1519年)に再建。<br />
+この像は、はじめ寺の背後の観音堂に祀られていましたが、<br />
+山崩れのために流されて埋没してしまいました。<br />
+元禄7年(1694年)8月3日、村人が道を工事したときに掘り出され、この寺に祀られました。</p>
+
+<h3>円応寺仏涅槃図</h3>
+
+<p><a href="file_contents/nehannzu_01.jpg" target="_blank"><img alt="円応寺仏涅槃図" src="file_contents/nehanzu.jpg" title="円応寺仏涅槃図" /></a><br />
+&nbsp;</p>
+
+<p>円応寺の涅槃図は、釈尊の回りに、<br />
+菩薩や仏弟子、世俗の信者や大小さまざまの動物たちが馳せ集まり、<br />
+釈迦の入滅を悼む図で、紙本木版画に着色彩色したものです。<br />
+この種の涅槃図は、鎌倉期以降に多くみられ、徐々に会衆の数が増えていきました。<br />
+本涅槃図は、仏信者が61、動物が52描かれています。<br />
+裏面に「元和之頃、開山一妙坊日心阿闍梨」より伝えられた旨が記されていますが、<br />
+描かれている仏の像にそれぞれ尊名が記されている特徴があり、<br />
+江戸期より更に遡った桃山期の作とも解されます。</p>
+
+<h3>武田不動明王像絵図</h3>
+
+<p><a href="file_contents/fudou_01.jpg" target="_blank"><img alt="武田不動明王像絵図 " src="file_contents/fudou.jpg" title="武田不動明王像絵図" /></a><br />
+&nbsp;</p>
+
+<p>蓮華寺に伝えられる「武田不動明王像絵図」は、<br />
+「鎧不動尊」とも言われ、武田信玄の弟、梢遙軒信綱が描いたとされています。<br />
+永い間お折りの本尊として使われたためか痛みはあるものの、<br />
+平安時代から鎌倉時代にかけて盛んだった、<br />
+&quot;截り金(きりかね)手法&quot;による優れた作品です。</p>
+
+<h3>神宮寺上坊文書</h3>
+
+<p><a href="file_contents/zinguu_01.jpg" target="_blank"><img alt="神宮寺上坊文書" src="file_contents/zinguu.jpg" title="神宮寺上坊文書" /></a><br />
+&nbsp;</p>
+
+<p>この文書は、信玄から神宮寺上坊に宛てられた文書で、<br />
+9月2日と月日の記載はあるものの年号の記載はなく、詳細は不明です。<br />
+文中、「施物供用己下之賄龍泉庵二申付候」とみえます。<br />
+現在は、望月氏の蔵するものとなっています。</p>
+
+<h3>箱原区有文書</h3>
+
+<p><a href="file_contents/hakohara_01.jpg" target="_blank"><img alt="箱原区有文書" src="file_contents/hakohara.jpg" title="箱原区有文書" /></a><br />
+&nbsp;</p>
+
+<p>甲州西河内領旧箱原村に伝わる区有文書。<br />
+古くは寛永15年(1638年)8月20日、<br />
+十谷村との山争いの様子を書いた「入山之手形」という中世文書から、<br />
+明治時代にいたる近世地方文書まで様々あり、その数は約500点に及びます。</p>
+
+<h3>戸板の渡し免許状</h3>
+
+<p><a href="file_contents/menkyo_01.jpg" target="_blank"><img alt="戸板の渡し免許状" src="file_contents/menkyo.jpg" title="戸板の渡し免許状" /></a><br />
+&nbsp;</p>
+
+<p>中世、府中から鰍沢を経て駿河に下る際、<br />
+箱原から西嶋までの区間は、山際が富士山に迫っていて陸行不能でした。<br />
+従って、箱原の南戸板でいったん富士川を東に渡って楠甫に至り、<br />
+そこから再び富士川を西に、岩崎に渡って南下しました。<br />
+依田家に伝えられるこの2通の文書は、その戸板の渡しに、<br />
+「諸役・棟別などの義務を免ずる故、渡し守としてはげむべし」との内容で、<br />
+1通は加藤光泰(豊臣時代の甲府城主)からのものです。<br />
+江戸初期以前の富士川舟運の歴史を知る、大変貴重な資料です。</p>
+
+<h3>光長寺文書</h3>
+
+<p><a href="file_contents/mitunaga_01.jpg" target="_blank"><img alt="光長寺文書" src="file_contents/mitunaga.jpg" title="光長寺文書" /></a><br />
+&nbsp;</p>
+
+<p>八幡町にある現在の恵命山蓮華寺には、<br />
+棟別諸役免除の武田朱印状が伝えられています。<br />
+この寺は、永仁2年(1294年)、大井庄の地頭・大井橘六の三男日華上人が、<br />
+両親の菩提を弔うためにその館跡に建てた寺でした。<br />
+「恵命山光長寺」と言われていましたが、<br />
+慶長16年(1611年)、身延山21世法主日遠によって蓮華寺と改められています。</p>
+
+<h3>鰍沢村寛文検地帳他</h3>
+
+<p><a href="file_contents/kenti_01.jpg" target="_blank"><img alt="鰍沢村寛文検地帳他" src="file_contents/kenti.jpg" title="鰍沢村寛文検地帳他" /></a><br />
+&nbsp;</p>
+
+<p>秋山家は、加賀美氏の一族秋山太郎光朝に由来すると言われ、<br />
+旧鰍沢村にあっては古くより名主役をつとめる旧家でした。<br />
+この寛文の検地帳は、寛文11年8月に行われた本村の田畑屋敷毎の一筆調査簿で、<br />
+全23冊が欠けることなく保存されています。</p>
+
+<h3>原田家文書&nbsp;</h3>
+
+<p><a href="file_contents/harada_01.jpg" target="_blank"><img alt="原田家文書" src="file_contents/harada.jpg" title="原田家文書" /></a><br />
+&nbsp;</p>
+
+<p>鰍沢村の名主をした原田家には、<br />
+元禄16年(1703年)から明治に至るまでの名主文書が残されており、<br />
+600点にものぼるそれらを、「原田家文書」といいます。<br />
+天明以後のものには鰍沢河岸にまつわる文書が多くみられます。<br />
+江戸末期の鰍沢河津絵図のほか、明治初期の村の絵図などもいくつか含まれています。</p>
+
+<h3>雨宮家諏訪藩回米文書</h3>
+
+<p><a href="file_contents/ame_bunsyo_01.jpg" target="_blank"><img alt="雨宮家諏訪藩回米文書" src="file_contents/ame_bunsyo.jpg" title="雨宮家諏訪藩回米文書" /></a><br />
+&nbsp;</p>
+
+<p>富士川舟運が盛んだった頃、甲州一円の年貢米のみならず、信州諏訪藩・<br />
+松本藩・高遠藩の御城米もまた鰍沢河岸より江戸へと廻送されました。<br />
+雨宮家は、その諏訪藩御城米の廻送を一手にした回米問屋で、<br />
+この文書は諏訪ご回米に関するものです。<br />
+中でも寛延元年(1748年)より天明3年(1783年)に至る回米を記した<br />
+「御用留」は、当時の問屋や舟運を知る為の貴重な資料となっています。</p>
+
+<h3>雨宮家(諏訪問屋)墓石</h3>
+
+<p><a href="file_contents/ame_boseki_01.jpg" target="_blank"><img alt="雨宮家(諏訪問屋)墓石" src="file_contents/ame_boseki.jpg" title="雨宮家(諏訪問屋)墓石" /></a><br />
+&nbsp;</p>
+
+<p>伝承によると雨宮家ははじめ信州雨の宮村に居を置き、雨宮摂津守を称しました。<br />
+後に、諏訪藩に任えて当地に居を移し、諏訪藩城米の江戸への廻送を請負いました。<br />
+ここにいう雨宮家の墓石は、「法篋印塔」と、「石廊」各1基をいうもの。<br />
+法篋印塔には「寛永九壬申八月一日・正保三丙戌十月廿九日」の銘が、<br />
+また石廊には「元和元乙卯十月廿五日・同八壬戌八月十六日」の銘が刻まれ、<br />
+在銘の石廊としては県下最古に属します。<br />
+石廊は、屋根の部分の幹先を一部欠きますが2段の基盤は数段の階を刻み、<br />
+廊内に単体浮き彫りの合掌姿の祖霊象を納め、総高は226cmとなっています。<br />
+江戸期初期の重厚な風格を偲ばせる造りです。　</p>
+
+<h3>河住家石廊</h3>
+
+<p><a href="file_contents/kawasumi_01.jpg" target="_blank"><img alt="河住家石廊" src="file_contents/kawasumi.jpg" title="河住家石廊" /></a><br />
+&nbsp;</p>
+
+<p>河住家は、&quot;河住与一左衛門&quot;として甲斐国志士庶之部鰍沢村に載る、<br />
+唯一の旧家であります。その出は、播磨とも美濃ともいわれ、<br />
+武田氏時代、この辺りを知行地として穴山氏に仕えたものと思われます。<br />
+天戸の墓地は、その河住家の旧墓地で東西7.3m、南北5.5m(もとは東西10m)の中に、<br />
+石廟型の墓石21基と笠塔婆型・柱状形など12基が建っています。<br />
+石廟型の墓石の中には、双体(1基)または単体の祖霊の姿を刻む石像を祀りますが、<br />
+比較的古いと思われる東側の石廟は江戸中期の作と推定されます。</p>
+
+<h3>本能寺一石五輪塔</h3>
+
+<p><a href="file_contents/gorintou_01.jpg" target="_blank"><img alt="本能寺一石五輪塔" src="file_contents/gorintou.gif" title="本能寺一石五輪塔" /></a><br />
+&nbsp;</p>
+
+<p>本能寺の一石五輪塔は、信濃の武将諏訪頼重に嫁した信玄の妹、<br />
+一子&quot;虎王丸&quot;の墓と伝えられています。<br />
+五輪の塔が、供養塔や墓石として一般に用いられたのは後世のことで、<br />
+それが更に一石五輪となると、室町末期から江戸初期だと考えられます。<br />
+県下に数例の一石五輪塔は、<br />
+いずれも総高は50cm内外の小型のもので、各輪の刻みも浅くなっています。<br />
+これに比し、本能寺の一石五輪塔は総高55.6cmと大きく、<br />
+宝珠形の空輪、椀形の風輪、それに火輪の幹反り、<br />
+水・地輪の形状に五輪塔の特徴を刻み、江戸初期の作と推定されます。<br />
+県下でも最も美しい形の一石五輪塔といわれています。</p>
+
+<h3>&nbsp;鰍門早発之詩碑&nbsp;</h3>
+
+<p><a href="file_contents/souhatu_01.jpg" target="_blank"><img alt="鰍門早発之詩碑" src="file_contents/souhatu.gif" title="鰍門早発之詩碑" /></a><br />
+&nbsp;</p>
+
+<p>山縣大貮が29歳のとき、鰍沢河岸から舟で富士川を下り熱海に遊学する際の詩。<br />
+舟運開闢の偉業を神業と讃え、三数時(6時間)で岩淵に至るさまを詠いました。<br />
+はじめ、この碑は河岸近くにありましたが、<br />
+大貮の&quot;明和疑獄&quot;への関わりを恐れて捨てられ、<br />
+その後、大正12年に秋山八十郎・雨宮英一郎・原田幸八らの手で再建されました。</p>
+
+<h3>妙現寺鰐口</h3>
+
+<p><a href="file_contents/waniguchi_01.jpg" target="_blank"><img alt="妙現寺鰐口" src="file_contents/waniguchi.gif" title="妙現寺鰐口" /></a><br />
+&nbsp;</p>
+
+<p>妙現寺の鰐口は、寛文8年(1668年)に、<br />
+元東南湖村法玄寺の加賀美半之丞によって寄付されたものです。<br />
+直径26.5cm、高さ6～11cm。<br />
+十一面観世音像とともに町の有形文化財に指定されています。</p>
+
+<h3>鰍沢地区山車(4台)</h3>
+
+<p><a href="file_contents/wG9w61dasi.jpg" target="_blank"><img alt="鰍沢地区山車(4台) " src="file_contents/wG9w61dasi_3.jpg" title="鰍沢地区山車(4台) " /></a><br />
+&nbsp;</p>
+
+<p>山車がいつ頃からのものかは、詳かではありません。<br />
+上町の山車に「嘉永三年」の墨書が伝えられてますが、残されてはいません。<br />
+山車は、廻し舞台となる上層の部分とそれを支える台車との二層から成ります。<br />
+現在のものは前輪(小輪)が二輪ですが、古絵図では一輪です。<br />
+総高4m64cm、全長7m、前輪径99cm、後輪径176cm。</p>
+
+<h3>鰍沢ばやし</h3>
+
+<p><a href="file_contents/r7fN54_IMG_1745.jpg" target="_blank"><img alt="鰍沢ばやし" src="file_contents/r7fN54_IMG_5.jpg" title="鰍沢ばやし" /></a><br />
+&nbsp;</p>
+
+<p>鰍沢ばやしは、山車の上で演じられる「祭りばやし」のひとつです。<br />
+構成は笛・太鼓・しめ太鼓・三味線・鉦よりなるが、今は三味線を欠く。<br />
+現在保存会に伝えられる曲目は、<br />
+(1)鰍沢ながし (2)四丁目 (3)雨だれ (4)はぎはらの四曲。</p>
+
+<h3>消防団梯子乗り</h3>
+
+<p><a href="file_contents/IMG_4171.jpg" target="_blank"><img alt="消防団梯子乗り" src="file_contents/IMG_3.jpg" title="消防団梯子乗り" /></a><br />
+&nbsp;</p>
+
+<p>明治27年から「消防組規則施行細則」によって、<br />
+毎年1月・7月の演習が義務づけられました(町誌)。<br />
+『出初め』はその1月の演習。『梯子乗り』もその折の演技のひとつ。<br />
+現在、本町消防団に伝えられるこの梯子乗りの演技種目は、<br />
+『遠目の型』・『かんたん夢の枕』・『鯱』・『吹き流し』ほか。</p>
+
+<h3>柳川寺のしだれ桜</h3>
+
+<p><a href="file_contents/sakura_01.jpg" target="_blank"><img alt="柳川寺のしだれ桜" src="file_contents/sakura.jpg" title="柳川寺のしだれ桜" /></a><br />
+&nbsp;</p>
+
+<p>『エドヒガン』(主に西日本に自生)の変種。<br />
+柳川寺の創設天正5年(1577年)から親しまれる樹齢約450年の名木。<br />
+根回り5.85m、目通り2.8m、樹高15m。<br />
+枝張りは、東西12.7m、南北14.6m。</p>
+
+<h3>イヌガヤの群生</h3>
+
+<p><a href="file_contents/inugaya_01.jpg" target="_blank"><img alt="イヌガヤの群生" src="file_contents/inugaya.jpg" title="イヌガヤの群生" /></a><br />
+&nbsp;</p>
+
+<p>イヌガヤはイヌガヤ科の常緑樹。暖地性。<br />
+太郎坊権現境内には、約60 m<sup>2</sup>に大小40 株以上のイヌガヤの群生がみられる。<br />
+大きいものは目通り幹回り90cm、樹高約10m(雄木)。雌木では根回り65cm、樹高約7m。<br />
+イヌガヤの群生は県下にも少なく、比較して大木の自生するこの群生は注目に値します。</p>
+
+<h3>鰍沢河岸跡・禹の瀬</h3>
+
+<p><a href="file_contents/unose.jpg" target="_blank"><img alt="兎の瀬" src="file_contents/thumb/unose.jpg" style="height:146px; width:150px" title="兎の瀬" /></a></p>
+
+<p>舟運開闢の功を、中国古代『夏』の国の『禹』王の善政にも比し、<br />
+三河岸より下るこの瀬を「禹の瀬」と名付け、町指定文化財となっています。</p>
+
+<h3>雨畑硯</h3>
+
+<p><a href="file_contents/amehata.jpg" target="_blank"><img alt="雨畑硯" src="file_contents/thumb/amehata.jpg" style="height:180px; width:180px" title="雨畑硯" /></a></p>
+
+<p>県内外からも高く評価され他の硯産地にも伝播し、県指定文化財に指定されています。</p>
+</div>
+    </div>
+
+
+
+
+          <div class="qrcode">
+  <img src="./qrcode.png" />
+</div>
+
+
+          <div class="inquiry">
+  <h2>この記事に関するお問い合わせ</h2>
+    <address>
+      <div class="section">生涯学習課　社会教育担当</div><div class="postal_code"><span class="label">郵便番号</span>：400-0592</div><div class="address"><span class="label">住所</span>：山梨県南巨摩郡富士川町天神中條1134</div><div class="tel"><span class="label">TEL</span>：0556-22-7200</div><div class="fax"><span class="label">FAX</span>：0556-22-5392</div>
+    </address>
+</div>
+
+
+    
+</article>
+
+</article>
+<!-- skip reading -->
+		<nav class="mainNav content">
+			<div class="content__wrap">
+				<div class="mainNav__content">
+					<div id="accessibilityTool" class="accessibilityTool">
+						<div class="accessibilityTool__body pieceBody">
+							<ul class="accessibilityTool__list">
+								<li class="accessibilityTool__item">
+									<span>文字サイズ</span>
+									<ul class="fontSize">
+										<li><a href="javascript:void(0)" id="fontLarge" title="文字のサイズを大きくする">大</a></li>
+										<li><a href="javascript:void(0)" id="fontMiddle" title="標準の文字サイズに戻す">中</a></li>
+										<li><a href="javascript:void(0)" id="fontSmall" title="文字のサイズを小さくする">小</a></li>
+									</ul>
+								</li>
+
+								<li class="accessibilityTool__item">
+									<span>背景色</span>
+									<ul class="themeColor">
+										<li><a class="white" href="javascript:void(0)" id="themeWhite" title="背景色を元に戻す">白</a></li>
+										<li><a class="yellow" href="javascript:void(0)" id="themeYellow" title="背景色を黄色にする">黄</a></li>
+										<li><a class="blue" href="javascript:void(0)" id="themeBlue" title="背景色を青にする">青</a></li>
+										<li><a class="black" href="javascript:void(0)" id="themeBlack" title="背景色を黒にする">黒</a></li>
+									</ul>
+								</li>
+
+								<li class="ruby accessibilityTool__item">
+									<a href="#navigationRuby" id="navigationRuby" class="navigationRuby rubyOff ruby__link">ふりがなをつける</a>
+								</li>
+								<li class="lang accessibilityTool__item">
+									<a href="" class="lang__link" id="lnag__link">Multilingual</a>
+									<ul class="lang__list">
+										<li class="lang__item">
+											<a href="" id="lang__en" target="_blank">English</a>
+										</li>
+										<li class="lang__item">
+											<a href="" id="lang__zh" target="_blank">中文（簡体字）</a>
+										</li>
+										<li class="lang__item">
+											<a href="" id="lang__ko" target="_blank">한국어</a>
+										</li>
+									</ul>
+								</li>
+								<li class="talk accessibilityTool__item">
+									<a href="#navigationTalk" id="navigationTalk" class="talk__link">よみあげる</a><span id="navigationTalkPlayer"></span>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="mainNav__panelMenu">
+						<div class="mainNav__inner">
+							<div class="mainNav__topLink">
+<style>
+#page-index .index__mv__link_item img{
+background:none;
+}
+.mainNav__content .index__mv__link_item img{
+background:#fff!important;
+}
+</style>
+
+								<ul class="index__mv__link">
+									<li class="index__mv__link_item">
+										<a href="/top.html">
+											<img src="/_files/00000369/bnr_tyoumin.png" alt="町民の方">
+										</a>
+									</li>
+									<li class="index__mv__link_item">
+										<a href="/kanko/" target="_blank">
+											<img src="/_files/00000048/bnr_kanko.png" alt="観光">
+										</a>
+									</li>
+									<li class="index__mv__link_item">
+										<a href="/furusato/" target="_blank">
+											<img src="/_files/00000031/bnr_furusato.png" alt="ふるさと納税">
+										</a>
+									</li>
+								</ul>
+							</div>
+							<div class="mainNav__pageLink">
+
+								<div class="panelMenu panelMenu__item tags">
+									<h3>注目ワード</h3>
+									<div class="tags__cloud">
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2026042700027/"  class="tags__cloud__item">住まいのパートナーガイド</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2024051500010/"  class="tags__cloud__item">クーリングシェルター</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2026022700016/"  class="tags__cloud__item">買い物支援実施店一覧</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/category/bunya/bousai/disaster_prevention/bousai_info/"  class="tags__cloud__item">災害への備え</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2023073100178/" class="tags__cloud__item">WEB版ハザードマップ</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2023090600071/"  class="tags__cloud__item">富士川舟運</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/survey/dourojouhou/" class="tags__cloud__item">道路損傷通報システム</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2023082400122/" class="tags__cloud__item">ごみの分別</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2023082900363/" class="tags__cloud__item">休日・夜間急患医療</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/category/bunya/chousei/information/business/" class="tags__cloud__item" style="background-color: #f8e267;">事業者の方</a>
+										<a href="https://www.town.fujikawa.yamanashi.jp/docs/2024093000011/" class="tags__cloud__item" style="background-color: #e1ecf3;">補助・給付金</a>
+									</div>
+								</div>
+<div class="panelMenu panelMenu__item tags kurashi">
+<h3>くらしの情報</h3>
+<div class="tags__cloud">
+<a href="/navi/gomi/" class="tags__cloud__item">ゴミの出し方</a>
+<a href="/navi/sinryou/" class="tags__cloud__item">休日・夜間診療</a>
+<a href="/navi/todokede/" class="tags__cloud__item">届出・申請書</a>
+<a href="/navi/soudan/" class="tags__cloud__item">各種相談窓口</a>
+<a href="/category/bunya/chousei/profile/public_facility/" class="tags__cloud__item">施設マップ</a>
+<a href="/navi/kosodate/" class="tags__cloud__item">子育て</a>
+<a href="/navi/school/" class="tags__cloud__item">学校・教育</a>
+<a href="/navi/sumai/" class="tags__cloud__item">引っ越し・住まい</a>
+<a href="/navi/kaigo/" class="tags__cloud__item">高齢・介護</a>
+<a href="/navi/okuyami/" class="tags__cloud__item">おくやみ</a>
+</div>
+</div>
+
+								<div class="textLink">
+									<ul class="textLink__list">
+										<li class="textLink__item">
+											<a href="/soshiki/">組織で探す</a>
+										</li>
+										<li class="textLink__item">
+											<a href="/category/bunya/">分類で探す</a>
+										</li>
+										<li class="textLink__item">
+											<a href="/docs/2023070100058/">庁舎案内</a>
+										</li>
+										<li class="textLink__item">
+											<a href="/sitemap.html">サイトマップ</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="footer__content__sns">
+<style>
+.footer__content__sns--list{
+    margin-top: 65px;
+    position: relative;
+}
+.footer__content__sns--list::after {
+    content: "";
+    position: absolute;
+    background: url(/_themes/icon/ico_snspr.png) no-repeat center / cover;
+    top: -70px;
+    left: 20px;
+    width: 454px;
+    height: 53px;
+}
+@media screen and (max-width: 600px){
+.footer__content__sns--list{
+    margin-top: 60px;
+}
+.footer__content__sns--list::after {
+    top: -60px;
+    left: 0;
+    width: 100%;
+    height: 40px;
+}
+}
+</style>
+							<ul class="footer__content__sns--list">
+								<li class="footer__content__sns--item">
+									<a href="https://page.line.me/975txhkj" target="_blank">
+										<img src="/_themes/icon/ic_line.png" alt="公式LINEアカウント" width="54.06" height="54.06">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://www.facebook.com/people/%E5%AF%8C%E5%A3%AB%E5%B7%9D%E7%94%BA/100069862250724/" target="_blank">
+										<img src="/_themes/icon/ic_facebook.png" alt="公式Facebookページ" width="57.9" height="57.9">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://twitter.com/yuzunyan383838" target="_blank">
+										<img src="/_themes/icon/x_logo.png" alt="公式Twitter" width="54.35" height="54.35">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://www.instagram.com/town_fujikawa/" target="_blank">
+										<img src="/_themes/icon/ic_instagram.png" alt="公式Instagram" width="61.9" height="61.9">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://www.youtube.com/channel/UCCLQD_IByJfV9TLSQy-amqA" target="_blank">
+										<img src="/_themes/bnr_youtube.png" alt="公式Youtubeチャンネル" width="278" height="70">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="/category/bunya/chousei/pr/kofo_fujikawa/" target="_blank" style="display:block; border:3px solid #FFF; border-radius:15px;">
+										<img src="/_themes/topC/bnr_koho.png" alt="広報ふじかわ" width="272" height="64">
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="mainNav__contact">
+						<a href="/contact/inquiry/">お問い合わせ</a>
+					</div>
+				</div>
+				<div class="footer__content__copy">
+					<div class="footer__content__copy__box">
+						<div class="footer__content__copy__box__head">
+							<p class="footer__content__copy--name">
+								<a href="/"><img src="/_themes/bnr_footerlogo.svg" alt="富士川町役場" width="341.5px" height="62.08px"></a>
+							</p>
+							<p class="footer__content__copy--address">
+								&#12306;400-0592<br>
+								山梨県南巨摩郡富士川町天神中條1134
+							</p>
+						</div>
+						<div class="footer__content__copy__box__body">
+							<p class="footer__content__copy--cta">
+								<a href="tel:0556-22-1111">
+									<img src="/_themes/bnr_tel.png" alt="電話番号　0556-22-1111">
+								</a>
+								<img src="/_themes/bnr_fax.png" alt="FAX番号　0556-22-3177">
+							</p>
+							<p class="footer__content__copy--text">
+								開庁時間：午前 8時30分～午後 5時15分<br>
+								（土・日・祝日および 12月29日～1月3日を除く）
+							</p>
+						</div>
+						<div class="footer__content__copy__box__ad">
+							<img src="/_themes/ic_footerFujiYuzu.png" alt="富士山と柚子">
+						</div>
+					</div>
+					<p class="footer__content__copy__right">
+						<a href="/">&copy;2023 Fujikawa Town</a>
+					</p>
+				</div>
+			</div>
+		</nav>
+		</main>
+		<footer class="footer">
+			<nav class="menuSp" id="menuSp">
+				<ul class="menuSp__list">
+					<li class="menuSp__item">
+						<a href="#">ページの<br>トップへ</a>
+					</li>
+					<li class="menuSp__item">
+						<span id="tmpsaveCtrl2">
+							ページを<br>一時保存
+						</span>
+					</li>
+					<li class="menuSp__item">
+						<span id="showMenu">
+							メニュー
+						</span>
+					</li>
+				</ul>
+			</nav>
+			<div class="footer__linkSlide">
+				<div class="slide">
+					<div class="slide__item footer__linkSlide__item">
+						<a href="http://masuho-bunka.jp/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_hakubakuHall.jpg" alt="はくばく文化ホール">
+								<figcaption>
+									はくばく文化ホール
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+					<div class="slide__item footer__linkSlide__item">
+						<a href="http://www.kyonan-mc.jp/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_kyonanIryou.jpg" alt="峡南医療センター企業団">
+								<figcaption>
+									峡南医療センター企業団
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+					<div class="slide__item footer__linkSlide__item">
+						<a href="https://www.fujikawa-township-lib.jp/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_toshokan.jpg" alt="町立図書館">
+								<figcaption>
+									町立図書館
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+					<div class="slide__item footer__linkSlide__item">
+						<a href="https://www.michinoeki-fujikawa.jp/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_michinoekiFujikawa.jpg" alt="道の駅富士川">
+								<figcaption>
+									道の駅富士川
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+					<div class="slide__item footer__linkSlide__item">
+						<a href="https://fujikawa-syakyo.jp/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_fujikawaShakyo.jpg" alt="富士川町社会福祉協議会">
+								<figcaption>
+									富士川町社会福祉協議会
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+					<div class="slide__item footer__linkSlide__item">
+						<a href="/docs/2023082500341/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_ooarai.jpg" alt="友好都市 大洗町">
+								<figcaption>
+									友好都市 大洗町
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+					<div class="slide__item footer__linkSlide__item">
+						<a href="https://fujikawa-shionohana.com/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_shionohana.jpg" alt="塩の華">
+								<figcaption>
+									富士川町歴史文化館 塩の華
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+					<div class="slide__item footer__linkSlide__item">
+						<a href="https://fujikawa-machi.co.jp/" target="_blank">
+							<figure>
+								<img src="/_themes/footer_slider/img_fujikawa-machi.jpg" alt="ふじかわまちづくり公社">
+								<figcaption>
+									（株）ふじかわまちづくり公社
+								</figcaption>
+							</figure>
+						</a>
+					</div>
+				</div>
+				<div class="footer__linkSlideCtls">
+					<div class="footer__linkSlideCtls__dots"></div>
+					<div class="footer__linkSlideCtls__wrap">
+						<div class="footer__linkSlideCtls__prev"></div>
+						<div class="footer__linkSlideCtls__ctls slPause"></div>
+						<div class="footer__linkSlideCtls__next"></div>
+					</div>
+				</div>
+			</div>
+			<div class="footer__bnr content">
+				<div class="content__wrap">
+					<h4 class="footer__bnr__title">
+						バナー広告
+					</h4>
+<div id="add" class="piece"
+     data-controller="ad-banner--public--piece--banners"
+     data-serial-id="cms_pieces-76">
+  <div class="pieceContainer">
+    <div class="pieceBody">
+      
+  <ul class="bannerImages footer__bnr__link" data-ad-banner--public--piece--banners-target="list" data-setting="{&quot;pieceID&quot;:345,&quot;clickCount&quot;:true,&quot;sort&quot;:&quot;random&quot;}" data-endpoint="/_api/ad_banner/piece/clicks">
+      <li class="banner footer__bnr__link-item">
+        <a target="_blank" data-token="xX4P8trqpzs9S9xStnli" data-sp-url="" rel="nofollow" href="https://www.fujikawa-net.co.jp/">
+            <img alt="富士川CATV" title="富士川CATV" loading="lazy" src="/bnr/bnrfujikawacatv240219.jpg" />
+</a></li>      <li class="banner footer__bnr__link-item">
+        <a target="_blank" data-token="6LGkKDQUhrrjEEy6Ws9m" data-sp-url="" rel="nofollow" href="https://www.ympa.or.jp/">
+            <img alt="サマージャンボジャンボ宝くじ2026" title="サマージャンボジャンボ宝くじ2026" loading="lazy" src="/bnr/bnr_takarakuji2026Summer.jpg" />
+</a></li>      <li class="banner footer__bnr__link-item">
+        <a target="_blank" data-token="Punua4fcVTiDh1qYOq6W" data-sp-url="" rel="nofollow" href="https://www.ysk.co.jp/">
+            <img alt="YSK" title="YSK e-com" loading="lazy" src="/bnr/bnr_yskecom.png" />
+</a></li></ul>
+
+    </div>
+  </div>
+</div>
+
+					<p class="footer__bnr__recruit">
+						<a href="/advertisement_hp.html">
+							バナー広告の募集について
+						</a>
+					</p>
+				</div>
+			</div>
+			<div class="footer__otherLinks content">
+				<div class="content__wrap footer__otherLinks__wrap">
+					<ul class="footer__otherLinks__links">
+						<li class="footer__otherLinks__item">
+							<a href="/use.html">
+								利用案内
+							</a>
+						</li>
+						<li class="footer__otherLinks__item">
+							<a href="/category/bunya/chousei/info_disclosure/privacy/">
+								個人情報保護方針
+							</a>
+						</li>
+						<li class="footer__otherLinks__item">
+							<a href="/accessibility.html">
+								アクセシビリティ方針
+							</a>
+						</li>
+						<li class="footer__otherLinks__item">
+							<a href="/reiki/reiki_int/reiki_menu.html">
+								例規集
+							</a>
+						</li>
+						<li class="footer__otherLinks__item">
+							<a href="/docs/2026012700019/">
+								平和都市宣言
+							</a>
+						</li>
+						<li class="footer__otherLinks__item">
+							<a href="/docs/2023082900578/">
+								AED
+							</a>
+						</li>
+						<li class="footer__otherLinks__item">
+							<a href="/survey/dourojouhou/">
+								道路損傷通報システム
+							</a>
+						</li>
+					</ul>
+					<div class="footer__otherLinks__contact">
+						<a href="/contact/inquiry/">
+							お問い合わせ
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="footer__content content">
+				<div class="content__wrap">
+						<div class="footer__content__sns">
+<style>
+.footer__content__sns--list{
+    margin-top: 65px;
+    position: relative;
+}
+.footer__content__sns--list::after {
+    content: "";
+    position: absolute;
+    background: url(/_themes/icon/ico_snspr.png) no-repeat center / cover;
+    top: -70px;
+    left: 20px;
+    width: 454px;
+    height: 53px;
+}
+@media screen and (max-width: 600px){
+.footer__content__sns--list{
+    margin-top: 60px;
+}
+.footer__content__sns--list::after {
+    top: -60px;
+    left: 0;
+    width: 100%;
+    height: 40px;
+}
+}
+</style>
+							<ul class="footer__content__sns--list">
+								<li class="footer__content__sns--item">
+									<a href="https://page.line.me/975txhkj" target="_blank">
+										<img src="/_themes/icon/ic_line.png" alt="公式LINEアカウント" width="54.06" height="54.06">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://www.facebook.com/people/%E5%AF%8C%E5%A3%AB%E5%B7%9D%E7%94%BA/100069862250724/" target="_blank">
+										<img src="/_themes/icon/ic_facebook.png" alt="公式Facebookページ" width="57.9" height="57.9">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://twitter.com/yuzunyan383838" target="_blank">
+										<img src="/_themes/icon/x_logo.png" alt="公式Twitter" width="54.35" height="54.35">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://www.instagram.com/town_fujikawa/" target="_blank">
+										<img src="/_themes/icon/ic_instagram.png" alt="公式Instagram" width="61.9" height="61.9">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="https://www.youtube.com/channel/UCCLQD_IByJfV9TLSQy-amqA" target="_blank">
+										<img src="/_themes/bnr_youtube.png" alt="公式Youtubeチャンネル" width="278" height="70">
+									</a>
+								</li>
+								<li class="footer__content__sns--item">
+									<a href="/category/bunya/chousei/pr/kofo_fujikawa/" target="_blank" style="display:block; border:3px solid #FFF; border-radius:15px;">
+										<img src="/_themes/topC/bnr_koho.png" alt="広報ふじかわ" width="272" height="64">
+									</a>
+								</li>
+							</ul>
+						</div>
+
+					<div class="footer__content__profile">
+						<h4 class="footer__content__profile--title">富士川町プロフィール</h4>
+						<div class="footer__content__profile--information">
+							<h5>統計情報<span>2026年7月1日現在</span></h5>
+							<div class="footer__content__profile--dataWrap">
+								<dl class="footer__content__profile--data">
+									<dt class="footer__content__profile--dataHead">
+										人口
+									</dt>
+									<dd class="footer__content__profile--dataBody">
+										13,628 人
+									</dd>
+								</dl>
+								<dl class="footer__content__profile--data">
+									<dt class="footer__content__profile--dataHead">
+										世帯数
+									</dt>
+									<dd class="footer__content__profile--dataBody">
+										6,301世帯
+									</dd>
+								</dl>
+								<dl class="footer__content__profile--data">
+									<dt class="footer__content__profile--dataHead">
+										男性
+									</dt>
+									<dd class="footer__content__profile--dataBody">
+										6,644人
+									</dd>
+								</dl>
+								<dl class="footer__content__profile--data">
+									<dt class="footer__content__profile--dataHead">
+										女性
+									</dt>
+									<dd class="footer__content__profile--dataBody">
+										6,984人
+									</dd>
+								</dl>
+							</div>
+						</div>
+						<div class="btn footer__content__profile--btn">
+							<a href="/category/bunya/chousei/profile/">
+								町のプロフィール
+							</a>
+						</div>
+					</div>
+				<div class="footer__content__copy">
+					<div class="footer__content__copy__box">
+						<div class="footer__content__copy__box__head">
+							<p class="footer__content__copy--name">
+								<a href="/"><img src="/_themes/bnr_footerlogo.svg" alt="富士川町役場" width="341.5px" height="62.08px"></a>
+							</p>
+							<p class="footer__content__copy--address">
+								&#12306;400-0592<br>
+								山梨県南巨摩郡富士川町天神中條1134
+							</p>
+						</div>
+						<div class="footer__content__copy__box__body">
+							<p class="footer__content__copy--cta">
+								<a href="tel:0556-22-1111">
+									<img src="/_themes/bnr_tel.png" alt="電話番号　0556-22-1111">
+								</a>
+								<img src="/_themes/bnr_fax.png" alt="FAX番号　0556-22-3177">
+							</p>
+							<p class="footer__content__copy--text">
+								開庁時間：午前 8時30分～午後 5時15分<br>
+								（土・日・祝日および 12月29日～1月3日を除く）
+							</p>
+						</div>
+						<div class="footer__content__copy__box__ad">
+							<img src="/_themes/ic_footerFujiYuzu.png" alt="富士山と柚子">
+						</div>
+					</div>
+					<p class="footer__content__copy__right">
+						<a href="/">&copy;2023 Fujikawa Town</a>
+					</p>
+				</div>
+				</div>
+			</div>
+		</footer>
+		<div id="totop">
+			<a href="#">
+				<img src="/_themes/icon/ic_totop.png" alt="このページのトップへ" width="80" height="80">
+			</a>
+		</div>
+		<div id="tmpsave">
+			<div id="tmpsaveCtrl">
+				<img src="/_themes/icon/bnr_tempsave.png" alt="このページを一時保存する">
+			</div>
+			<div id="tmpsaveList">
+				<span id="ts_save">
+					このページを一時保存する
+				</span>
+				<ul id="ts_list">
+					<li class="ts_list_item">
+						現在、一時保存ページはありません。
+					</li>
+				</ul>
+				<span id="ts_delAll">
+					保存したページを全て削除する
+				</span>
+			</div>
+		</div>
+		<script>
+			window.WebFontConfig = {
+				google: { families: ['Noto+Sans+JP:400,700'] },
+				active: function() {
+					sessionStorage.fonts = true;
+				}
+			};
+			(function() {
+				var wf = document.createElement('script');
+				wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+				wf.type = 'text/javascript';
+				wf.async = 'true';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(wf, s);
+			})();
+		</script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script>
+			$(function() {
+				let slideObj	=	$('.slide');
+				slideObj.slick({
+					accessibility: true,
+					autoplay: true,
+					autoplaySpeed: 5000,
+					speed: 800,
+					initialSlide: 0,
+					slidesToShow: 3,
+					slidesToScroll: 1,
+					centerMode: true,
+					centerPadding: 0,
+					variableWidth: true,
+					infinite: true,
+					arrows:true,
+					prevArrow: '.footer__linkSlideCtls__prev',
+					nextArrow: '.footer__linkSlideCtls__next',
+					easing: 'swing',
+					touchMove: true,
+					pauseOnFocus: true,
+					pauseOnHover: true,
+					touchThreshold: 15,
+					dots: true,
+					appendDots: '.footer__linkSlideCtls__dots',
+					responsive:[
+						{
+							breakpoint: 600,
+							settings:{
+								dots: true,
+							}
+						}
+					]
+				}).slick('slickPlay');
+				let target	=	$('.footer__linkSlideCtls__ctls');
+				$('.footer__linkSlideCtls__ctls').on('click keypress',function(){
+					if(target.hasClass('slPause')){
+						target.toggleClass('slPause').toggleClass('slPlay');
+						slideObj.slick('slickPause');
+					}else{
+						target.toggleClass('slPlay').toggleClass('slPause');
+						slideObj.slick('slickPlay');	
+					}
+				});
+			});
+
+			$(function(){
+				dispTotop();//トップに戻るボタン
+				SmoothScroll();//スムーズスクロール
+				isTempSave();//ローカルストレージチェック
+				dispTmpsave();//一時保存機能表示
+				showTmpSave();//ローカルストレージ反映
+				ctrlHeader();//スクロール時ヘッダー縦幅
+				ctrlMenu();//メニュー開閉
+				setMultiLang();//言語開閉
+				ctrlTopTabs();//町民トップタブ
+				ctrlHeaderSearch();//ヘッダーキーワード検索開閉
+				$('#ts_save').on('click keypress',function(){
+					tmpSave();//ローカルストレージ一時保存
+				});
+				$(document).on('click keypress','.ts_delItem',function(){
+					let index	=	$(this).data('page-index');
+					deleteTmpSave(index);//ローカルストレージ指定削除
+					showTmpSave();
+				});
+				$('#ts_delAll').on('click keypress',function(){
+					deleteAllTmpSave();
+					showTmpSave();
+				});
+			});
+		
+			function dispTotop(){
+				let topBtn = $('#totop');
+				//ボタン表示
+				$(window).scroll(function(){
+					  if ($(this).scrollTop() > 200) {
+						  topBtn.addClass('show');
+					  } else {
+						  topBtn.removeClass('show');
+					  }
+				});
+			}
+
+			function SmoothScroll(){
+				const adjust = 100;
+				const time = 200;
+				 $('a[href^="#"]').click(function(){
+				let href= $(this).attr("href");
+				let target = $(href == "#" || href == "" ? 'html' : href);
+				let position = target.offset().top - adjust;
+				$('body,html').animate({scrollTop:position}, time, 'swing');
+				return false;
+			  });
+			}
+			
+			function dispTmpsave(){
+				let dispBtn	=	$('#tmpsaveCtrl,#tmpsaveCtrl2');
+				dispBtn.on('click',function(){
+					$('#tmpsave').toggleClass('show');
+				});
+			}
+			
+			function isTempSave(){
+				if(checkLS()){
+					$('#tmpsave').css('display','flex');
+				}
+			}
+			
+			function tmpSave(){
+				let currentPage	=	{
+					url:window.location.href,
+					title:$('title').text(),
+				};
+				let pages =[];
+				let isdupli=false;
+				if(localStorage.getItem('fujikawaTown')){
+					pages	=	JSON.parse(localStorage.getItem('fujikawaTown')) || {};
+					if(pages.length==0){
+						pages.push(currentPage);
+					}else{
+						for(let i=0;i<pages.length;i++){
+							if(pages[i].url === currentPage.url){
+								isdupli=true;
+								break;
+							}
+						}
+						if(!isdupli){
+							pages.push(currentPage);
+						}
+					}
+				}else{
+					pages.push(currentPage);
+				}
+				localStorage.setItem('fujikawaTown', JSON.stringify(pages));
+				showTmpSave();
+			}
+			function showTmpSave(){
+				let listHtml	=	'';
+				let pages =[];
+				let noItem	=	'<li class="ts_list_item">現在、一時保存ページはありません。</li>';
+				if(localStorage.getItem('fujikawaTown')){
+					pages	=	JSON.parse(localStorage.getItem('fujikawaTown')) || {};
+					
+					if(pages.length == 0 || pages == ''){
+						listHtml	=	noItem;
+					}else{
+						pages.forEach(function(page,index){
+							listHtml	+=	'<li class="ts_list_item"><a href="'+page.url+'">'+page.title+'</a><span class="ts_delItem" data-page-index="'+index+'">削除</span></li>';
+						});
+					}
+				}else{
+					listHtml	=	noItem;
+				}
+				$('#ts_list').html(listHtml);
+			}
+			function deleteTmpSave(index){
+				let pages	=	[];
+				if(localStorage.getItem('fujikawaTown')){
+					let pages	=	JSON.parse(localStorage.getItem('fujikawaTown')) || {};
+					pages.splice(index, 1);
+					localStorage.setItem('fujikawaTown',JSON.stringify(pages));
+				}
+			}
+			function deleteAllTmpSave(){
+				let pages	=	[];
+				localStorage.setItem('fujikawaTown',JSON.stringify(pages));
+			}
+
+			function ctrlHeader(){
+				let header = $('header.header');
+				$(window).scroll(function(){
+					  if ($(this).scrollTop() > 50) {
+						  header.addClass('scrled');
+					  } else {
+						  header.removeClass('scrled');
+					  }
+				});
+			}
+			
+			function ctrlMenu(){
+				let fmenu	=	$('#showMenu');
+				let hmenu	=	$('.header__menu');
+				let nav		=	$('.mainNav');
+				let sptp	=	$('#menuSp > ul > li:nth-child(1)');
+				hmenu.on('click',function(){
+					//メニュー開いている時
+					if($(this).hasClass('open')){
+						$(this).removeClass('open');
+						nav.css({
+							'visibility':'hidden',
+							'opacity':'0',
+						});
+						if(fmenu.hasClass('open')){
+							fmenu.html('メニュー');
+							fmenu.removeClass('open');
+						}else{
+						}
+						$('body').css({
+							'overflow':'visible',
+						});
+						sptp.html('<a href="#">ページの<br>トップへ</a>');
+					}else{
+						$(this).addClass('open');
+						nav.css({
+							'visibility':'visible',
+							'opacity':'1',
+						});
+						if(fmenu.hasClass('open')){
+						}else{
+							fmenu.html('メニューを<br>閉じる');
+							fmenu.addClass('open');
+						}
+						$('body').css({
+							'overflow':'hidden',
+						});
+						sptp.html('<a href="javascript:mntp();">メニューの<br>トップへ</a>');
+					}
+				});
+				fmenu.on('click',function(){
+					//メニュー開いている時
+					if($(this).hasClass('open')){
+						$(this).removeClass('open');
+						hmenu.removeClass('open');
+						fmenu.html('メニュー');
+						nav.css({
+							'visibility':'hidden',
+							'opacity':'0',
+						});
+						$('body').css({
+							'overflow':'visible',
+						});
+						sptp.html('<a href="#">ページの<br>トップへ</a>');
+					}else{
+						$(this).addClass('open');
+						
+						fmenu.html('メニューを<br>閉じる');
+						nav.css({
+							'visibility':'visible',
+							'opacity':'1',
+						});
+						if(hmenu.hasClass('open')){
+						}else{
+							hmenu.addClass('open');
+						}
+						$('body').css({
+							'overflow':'hidden',
+						});
+						sptp.html('<a href="javascript:mntp();">メニューの<br>トップへ</a>');
+					}
+				});
+
+			}
+
+			function mntp(){
+				$('.mainNav').animate({ scrollTop: 0 }, 300);
+			}
+			
+			function setMultiLang(){
+				let lang	=	$('#lnag__link');
+				let en	=	$('#lang__en');
+				let zh	=	$('#lang__zh');
+				let ko	=	$('#lang__ko');
+				let baseUrl	=	'https://translate.google.com/translate?sl=ja&tl=';
+				let cUrl	=	location.href;
+				let tmpUrl	=	'';
+				
+				tmpUrl	=	baseUrl + 'en&u=' + cUrl;
+				en.attr('href',tmpUrl);
+				
+				tmpUrl	=	baseUrl + 'ko&u=' + cUrl;
+				ko.attr('href',tmpUrl);
+				
+				tmpUrl	=	baseUrl + 'zh-CN&u=' + cUrl;
+				zh.attr('href',tmpUrl);
+			}
+			
+			function ctrlTopTabs(){
+				let tab	=	$('.news__title__item');
+				let cnt	=	$('.news__content__links');
+				let index;
+				tab.on('click',function(){
+					index	=	tab.index(this);
+					tab.removeClass('active').eq(index).addClass('active');
+					cnt.hide().eq(index).show();
+				});
+			}
+			//スマートフォン検索ボックス
+			function ctrlHeaderSearch(){
+				let dispBtn	=	$('.header__searchSp');
+				dispBtn.on('click',function(){
+					$('.header .search').toggleClass('show');
+				});
+			}			
+			// breadCrumbs
+			if ($("#breadcrumbs ol:nth-child(2)")[0]) {
+			// パンくずリストが複数存在する場合
+				$("#breadcrumbs ol:not(:last-child").wrapAll('<div class="wrap"></div>');
+				$("#breadcrumbs .pieceBody").append(
+					'<div class="bc-more"><a href="#">カテゴリを全て表示する</a></div>'
+				);
+				$("#breadcrumbs .wrap").hide();
+				$("#breadcrumbs ol").show();
+				$("#breadcrumbs .bc-more a").on("click", function (e) {
+					e.preventDefault();
+					if ($(this).hasClass("active")) {
+						$(this).text("カテゴリを全て表示する");
+					} else {
+						$(this).text("カテゴリを非表示にする");
+					}
+					$(this).toggleClass("active");
+					$("#breadcrumbs .wrap").slideToggle();
+				});
+			}
+
+
+			
+			//ローカルストレージチェック
+			function checkLS(){
+				if (typeof localStorage !== 'undefined') {
+					try {
+			  			localStorage.setItem('dummy', '1');
+			  			if (localStorage.getItem('dummy') === '1') {
+							localStorage.removeItem('dummy');
+							return true;
+			  			} else {
+							return false;
+			  			}
+					} catch(e) {
+			  			return false;
+					}
+				} else {
+					return false;
+				}
+			}
+
+			//ChatPlus
+			(function(){
+				var w=window,d=document;
+				var s="https://app.chatplus.jp/cp.js";
+				d["__cp_d"]="https://app.chatplus.jp";
+				d["__cp_c"]="4bc6fd6a_1";
+				var a=d.createElement("script"), m=d.getElementsByTagName("script")[0];
+				a.async=true,a.src=s,m.parentNode.insertBefore(a,m);
+			})();
+			
+			$(function() {
+				// responsive link
+				$(".body table, .calendarCalendarEvents table").wrap('<div class="scroll"></div>');
+				$("iframe[src*='www.youtube.com']").wrap('<div class="video"></div>');
+				
+				//linkclass
+				$('a[href^="http"],a[href^="https"],a[href^="\/\/"]').not('[href*="'+location.hostname+'"]').attr({target:'_blank',rel:'noopener nofollow'});
+				$('a[href$=".pdf"]').attr('target','_blank').addClass('iconPdf iconFile');
+				$('a[href$=".doc"]').attr('target','_blank').addClass('iconDoc iconFile');
+				$('a[href$=".docx"]').attr('target','_blank').addClass('iconDocx iconFile');
+				$('a[href$=".xls"]').attr('target','_blank').addClass('iconXls iconFile');
+				$('a[href$=".xlsx"]').attr('target','_blank').addClass('iconXlsx iconFile');
+				$('a[href$=".ppt"]').attr('target','_blank').addClass('iconPpt iconFile');
+				$('a[href$=".pptx"]').attr('target','_blank').addClass('iconPptx iconFile');
+
+				//qrcode
+				$('.qrcode').append('<p>この2次元コードは、当サイトのURLです。<br>モバイル端末からの接続にご利用ください。</p>')
+				//breadcrumb
+				$('#breadcrumbs li:contains("カテゴリ") a').parent('li').css('display','none');
+			});
+		</script>
+
+<!-- /skip reading -->
+</body>
+</html>

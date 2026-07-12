@@ -1,0 +1,18 @@
+{
+  "48c9075664857359": {
+    "url": "https://www.town.kawai.nara.jp/kakuka/machizukuri/kankoushinkou/1/913.html",
+    "filename": "48c9075664857359.html",
+    "sha256": "955cbfea26a8e226036a02a658aa7fc0d715f5cd70c4e0182c6a3e3dd973b8f0",
+    "fetched_at": "2026-07-12T06:42:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e2e101fb004b5b26": {
+    "url": "https://www.town.kawai.nara.jp/material/files/group/50/houkokusyo23.pdf",
+    "filename": "e2e101fb004b5b26.pdf",
+    "sha256": "3cccd5ebe32040c3100e6c46688e93719002981ca23a0a84c85d4409523c6968",
+    "fetched_at": "2026-07-12T06:43:02Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "5a2c0195d637a325": {
+    "url": "https://opendata.city.imizu.toyama.jp/dataset/cultural_property",
+    "filename": "5a2c0195d637a325.bin",
+    "sha256": "317a1823697585e298c28f8c408bc78d81ae7ab3cf494d86a862e7a6062355c3",
+    "fetched_at": "2026-07-12T03:53:49Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "ff5790e91f8b8a04": {
+    "url": "https://opendata.city.imizu.toyama.jp/dataset/cultural_property/resource/7c76e575-0b69-445a-81d8-b0cd22610c91",
+    "filename": "ff5790e91f8b8a04.bin",
+    "sha256": "72cfd8452fd5c829d6b2327cd0bfedc1d9d31096d812634be38a7cd1e4294fa8",
+    "fetched_at": "2026-07-12T03:53:51Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "d5ff6ac99cbc49d7": {
+    "url": "https://www.city.imizu.toyama.jp/guide/svGuideDtl.aspx?servno=26776",
+    "filename": "d5ff6ac99cbc49d7.html",
+    "sha256": "96231a9d283cb0a7238a4567df0b6159600414636fec51f496d23ed335875353",
+    "fetched_at": "2026-07-12T03:53:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0ed8dffddf45eb04": {
+    "url": "https://opendata.city.imizu.toyama.jp/dataset/15ef4861-bf75-4a93-9c79-7f39825796fc/resource/7c76e575-0b69-445a-81d8-b0cd22610c91/download/162116_cultural-property_202404.xlsx",
+    "filename": "0ed8dffddf45eb04.xlsx",
+    "sha256": "b8dd30382b51c67c1f406d9996e1d205ba72d1f200cf261ba984eae2b05e2ff2",
+    "fetched_at": "2026-07-12T04:55:52Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

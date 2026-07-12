@@ -1,0 +1,18 @@
+{
+  "c03aaaa883ce33d2": {
+    "url": "https://www.town.nakanoto.ishikawa.jp/soshiki/shougaigakushuu/2_1/2/1181.html",
+    "filename": "c03aaaa883ce33d2.html",
+    "sha256": "9122af209965a3fbc3cf8c0f10fd1cc4bb9988ff9122d8a7a30d58cb461dffdb",
+    "fetched_at": "2026-07-12T03:54:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c60a017328420af4": {
+    "url": "https://www.town.nakanoto.ishikawa.jp/material/files/group/22/r1bunkazaiichiran.pdf",
+    "filename": "c60a017328420af4.pdf",
+    "sha256": "37158ee5318d54368019734b143bcdb6ee58c8fa43f3ce6c6611dbb1f85bac67",
+    "fetched_at": "2026-07-12T03:54:52Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

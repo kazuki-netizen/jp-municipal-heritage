@@ -1,0 +1,10 @@
+{
+  "371c966d7add62e7": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212181-007",
+    "filename": "371c966d7add62e7.bin",
+    "sha256": "48bfe739db6a346af87d5fa11d0dcda48a73c2d0f013ce46cdfd43049f68957e",
+    "fetched_at": "2026-07-12T06:00:02Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "dac61c77bde038b1": {
+    "url": "https://www.city.owase.lg.jp/cmsfiles/contents/0000012/12992/ichiran.pdf",
+    "filename": "dac61c77bde038b1.pdf",
+    "sha256": "cfcb7d778372e1793407cca3a9c12ec5078d5247b877b17262ce4547489a105d",
+    "fetched_at": "2026-07-12T06:13:35Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "c7328bf5253aff33": {
+    "url": "https://www.city.owase.lg.jp/0000012992.html",
+    "filename": "c7328bf5253aff33.html",
+    "sha256": "7ebaaa328e06ccee5b3b5f63b3bb957b65ce157a2ffc8dc8777cecdf68cb046d",
+    "fetched_at": "2026-07-12T06:13:37Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "82b65b8e719d22a1": {
+    "url": "https://www.city.kamo.niigata.jp/docs/30125.html",
+    "filename": "82b65b8e719d22a1.html",
+    "sha256": "e776580e6352504d7effe521ca4a76f2086491e7622a630927499533419f7f73",
+    "fetched_at": "2026-07-12T03:41:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "545b326724272b7d": {
+    "url": "https://www.city.kamo.niigata.jp/docs/30134.html",
+    "filename": "545b326724272b7d.html",
+    "sha256": "b029b1679345bc4bec5f568d5eaa7b284619ca3a3cee4b79c5fd5ec17cd7a98a",
+    "fetched_at": "2026-07-12T03:41:21Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

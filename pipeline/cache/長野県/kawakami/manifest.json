@@ -1,0 +1,18 @@
+{
+  "8623f97ea88f1cb7": {
+    "url": "https://www.vill.kawakami.nagano.jp/www/contents/1001000000044/index.html",
+    "filename": "8623f97ea88f1cb7.html",
+    "sha256": "4ef65bb36f6c68267f9e749a2a6faf84581097baf4292a0270fbcc600b681285",
+    "fetched_at": "2026-07-12T04:27:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "015f39e529039ddc": {
+    "url": "https://www.vill.kawakami.nagano.jp/www/contents/1001000000044/files/01.pdf",
+    "filename": "015f39e529039ddc.pdf",
+    "sha256": "8209897444360e347b0f29c7adb8adc13305b47b1b1fa2834bf7ec00aa2cabe8",
+    "fetched_at": "2026-07-12T04:27:40Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

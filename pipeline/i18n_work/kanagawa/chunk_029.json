@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-141003-0113",
+  "name": "木造薬師如来坐像（東光禅寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2002-11-01",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0121",
+  "name": "木造薬師如来立像（太寧寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2004-11-05",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0120",
+  "name": "木造日光・月光菩薩立像（太寧寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2004-11-05",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0129",
+  "name": "木造薬師如来立像（薬王寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2006-11-01",
+  "municipality": "横浜市",
+  "location": "磯子区"
+ },
+ {
+  "jmh_id": "JMH-141003-0132",
+  "name": "木造菩薩立像（清林寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2007-11-01",
+  "municipality": "横浜市",
+  "location": "都筑区"
+ },
+ {
+  "jmh_id": "JMH-141003-0136",
+  "name": "木造毘沙門天立像（真照寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2008-11-20",
+  "municipality": "横浜市",
+  "location": "磯子区"
+ },
+ {
+  "jmh_id": "JMH-141003-0138",
+  "name": "木造阿弥陀如来及び両脇侍立像（正安寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2009-11-02",
+  "municipality": "横浜市",
+  "location": "栄区"
+ },
+ {
+  "jmh_id": "JMH-141003-0141",
+  "name": "木造菩薩立像（光明寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2010-11-01",
+  "municipality": "横浜市",
+  "location": "南区"
+ },
+ {
+  "jmh_id": "JMH-141003-0140",
+  "name": "木造大日如来坐像（龍華寺③）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2010-11-01",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0142",
+  "name": "木造阿弥陀如来及び両脇侍像（宝蔵院）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2010-11-01",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0150",
+  "name": "木造観音菩薩立像（光明寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2014-11-05",
+  "municipality": "横浜市",
+  "location": "港南区"
+ },
+ {
+  "jmh_id": "JMH-141003-0154",
+  "name": "木造日蓮聖人坐像 附紙本墨書法華経および法華経書写目録",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2015-11-13",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0153",
+  "name": "木造方外宏遠坐像（海蔵院）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2015-11-13",
+  "municipality": "横浜市",
+  "location": "戸塚区"
+ },
+ {
+  "jmh_id": "JMH-141003-0158",
+  "name": "銅造加来坐像（伝阿弥陀如来像）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2016-11-04",
+  "municipality": "横浜市",
+  "location": "鶴見区"
+ },
+ {
+  "jmh_id": "JMH-141003-0159",
+  "name": "木造十一面観音菩薩立像（西方寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2017-11-02",
+  "municipality": "横浜市",
+  "location": "港北区"
+ },
+ {
+  "jmh_id": "JMH-141003-0161",
+  "name": "木造地蔵菩薩坐像（光明寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2018-11-05",
+  "municipality": "横浜市",
+  "location": "南区"
+ },
+ {
+  "jmh_id": "JMH-141003-0162",
+  "name": "木造阿弥陀如来および両脇侍像（真照寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2019-11-05",
+  "municipality": "横浜市",
+  "location": "磯子区"
+ },
+ {
+  "jmh_id": "JMH-141003-0164",
+  "name": "木造薬師如来立像（證菩提寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2021-11-05",
+  "municipality": "横浜市",
+  "location": "栄区"
+ },
+ {
+  "jmh_id": "JMH-141003-0168",
+  "name": "木造地蔵菩薩坐像（薬王寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2022-12-15",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0172",
+  "name": "木造釈迦如来坐像（寳林寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2023-12-15",
+  "municipality": "横浜市",
+  "location": "南区"
+ },
+ {
+  "jmh_id": "JMH-141003-0176",
+  "name": "木造釈迦如来および右脇侍像（東漸寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2024-11-25",
+  "municipality": "横浜市",
+  "location": "磯子区"
+ },
+ {
+  "jmh_id": "JMH-141003-0180",
+  "name": "銅造聖観音菩薩坐像（證菩提寺）",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "2025-12-25",
+  "municipality": "横浜市",
+  "location": "栄区"
+ },
+ {
+  "jmh_id": "JMH-141003-0007",
+  "name": "木造黒漆花瓶",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1988-11-01",
+  "municipality": "横浜市",
+  "location": "南区"
+ },
+ {
+  "jmh_id": "JMH-141003-0022",
+  "name": "銅造不動明王坐像懸仏（杉山神社）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1989-12-25",
+  "municipality": "横浜市",
+  "location": "都筑区"
+ },
+ {
+  "jmh_id": "JMH-141003-0025",
+  "name": "木造密教法具類（宝生寺）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1990-11-01",
+  "municipality": "横浜市",
+  "location": "南区"
+ },
+ {
+  "jmh_id": "JMH-141003-0059",
+  "name": "地蔵王厨子 前机",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-11-01",
+  "municipality": "横浜市",
+  "location": "中区"
+ },
+ {
+  "jmh_id": "JMH-141003-0065",
+  "name": "梵鐘（富岡八幡宮）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1994-11-01",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0083",
+  "name": "金銅不動明王種子懸仏（總持寺）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1995-11-01",
+  "municipality": "横浜市",
+  "location": "鶴見区"
+ },
+ {
+  "jmh_id": "JMH-141003-0072",
+  "name": "大梵鐘（總持寺）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1995-11-01",
+  "municipality": "横浜市",
+  "location": "鶴見区"
+ },
+ {
+  "jmh_id": "JMH-141003-0092",
+  "name": "弘明寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "1997-11-04",
+  "municipality": "横浜市",
+  "location": "南区"
+ },
+ {
+  "jmh_id": "JMH-141003-0110",
+  "name": "酸漿蒔絵鞍（東光禅寺）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2001-11-01",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0118",
+  "name": "刺繍諸尊集会像（龍華寺）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2004-11-05",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0123",
+  "name": "木造龍頭・錺首（龍華寺）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2005-11-01",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0134",
+  "name": "須弥壇 附後屏（三渓園）",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "designated_date": "2007-11-01",
+  "municipality": "横浜市",
+  "location": "中区"
+ },
+ {
+  "jmh_id": "JMH-141003-0012",
+  "name": "天童小参抄（下巻）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1989-12-25",
+  "municipality": "横浜市",
+  "location": "港北区"
+ },
+ {
+  "jmh_id": "JMH-141003-0033",
+  "name": "和漢朗詠集（總持学園）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1991-11-01",
+  "municipality": "横浜市",
+  "location": "鶴見区"
+ },
+ {
+  "jmh_id": "JMH-141003-0045",
+  "name": "栄花物語断簡",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1992-11-01",
+  "municipality": "横浜市",
+  "location": "金沢区"
+ },
+ {
+  "jmh_id": "JMH-141003-0050",
+  "name": "大般若波羅蜜多経（總持学園）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1993-11-01",
+  "municipality": "横浜市",
+  "location": "鶴見区"
+ },
+ {
+  "jmh_id": "JMH-141003-0073",
+  "name": "大般若波羅蜜多経巻第二百八十五（東大寺八幡宮経）",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1995-11-01",
+  "municipality": "横浜市",
+  "location": "鶴見区"
+ },
+ {
+  "jmh_id": "JMH-141003-0074",
+  "name": "天童如浄和尚録",
+  "category": "有形文化財",
+  "subcategory": "書跡・典籍",
+  "designation": "市指定",
+  "designated_date": "1995-11-01",
+  "municipality": "横浜市",
+  "location": "鶴見区"
+ }
+]

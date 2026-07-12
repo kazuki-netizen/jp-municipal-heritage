@@ -1,0 +1,186 @@
+{
+  "521037cfe91b96a3": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/index.html",
+    "filename": "521037cfe91b96a3.html",
+    "sha256": "de5465512670d77698efbb1275cf2780b5a4cbf6d57561733f89763a88c25604",
+    "fetched_at": "2026-07-12T06:14:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "21f76455ca335a0e": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/index.html",
+    "filename": "21f76455ca335a0e.html",
+    "sha256": "51e5377334c38e3c34a2d081e5f2d142b024f11d3a0def0c3e7e0978eeefbdd5",
+    "fetched_at": "2026-07-12T06:41:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f82e607adba3ba7a": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002101/index.html",
+    "filename": "f82e607adba3ba7a.html",
+    "sha256": "c04d49699a6dd433a2e28ead155dc3ea340f805d42ca1bdc7f54ca9ea7c0bff6",
+    "fetched_at": "2026-07-12T06:41:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0265fd4da789c49a": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/index.html",
+    "filename": "0265fd4da789c49a.html",
+    "sha256": "ea9f3dbd75989c9802434dd8e0c1eb4ae4806de52da65ebd63181381baef1fec",
+    "fetched_at": "2026-07-12T06:41:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8c152c64fc7c5b2e": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002111.html",
+    "filename": "8c152c64fc7c5b2e.html",
+    "sha256": "b1d657cc9fcf8e1e2b95869a762453f132d154a9abf313632dbe68a5e18e3575",
+    "fetched_at": "2026-07-12T06:42:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5175a30d8dda60bc": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002112.html",
+    "filename": "5175a30d8dda60bc.html",
+    "sha256": "f655df8010d399b86b6cf00122457ab0dde50576408ee3d066a3afefa54b605e",
+    "fetched_at": "2026-07-12T06:42:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f4395e43e4e0020e": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002113.html",
+    "filename": "f4395e43e4e0020e.html",
+    "sha256": "51274a3075e991bc6a01886e462b58b00f21404ae6ea44f3b133fd96f7d5454f",
+    "fetched_at": "2026-07-12T06:42:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3c6765ee84db54a0": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002114.html",
+    "filename": "3c6765ee84db54a0.html",
+    "sha256": "c4d6a79afdea53124ec1722c45fe316fc51197ec269c536e1185819f462f8907",
+    "fetched_at": "2026-07-12T06:42:29Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5dcde2774d05d07a": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002115.html",
+    "filename": "5dcde2774d05d07a.html",
+    "sha256": "a1ddb777e68806ab3d74afd9ff4fb36f5aecc454ec7e98e77255b94f1140c176",
+    "fetched_at": "2026-07-12T06:42:31Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e71b1b2a0f1b1a97": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002116.html",
+    "filename": "e71b1b2a0f1b1a97.html",
+    "sha256": "d20028071ab42cf96b21aca72164aa6601cc5d5506b471d1895e4cab4ef6028f",
+    "fetched_at": "2026-07-12T06:42:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "200e5e441b590f75": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002117.html",
+    "filename": "200e5e441b590f75.html",
+    "sha256": "d4176fb152449735ae6e400f1b19ec102c88b9500e45adff70a0574c54be6b34",
+    "fetched_at": "2026-07-12T06:42:37Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8b68c07b497638f5": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002100/1002118.html",
+    "filename": "8b68c07b497638f5.html",
+    "sha256": "bdfff8bb4f6e498717d59c4ed08bc155100c6b14add6a44c5bd69f0f9c69ac0a",
+    "fetched_at": "2026-07-12T06:42:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c53dd32f67f808a1": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002101/1002119.html",
+    "filename": "c53dd32f67f808a1.html",
+    "sha256": "3c0ac6c03826604b96c595363bf83c6738c6519624d95e6fc570d6db856fb9bb",
+    "fetched_at": "2026-07-12T06:42:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c4c2b44bf9e3b7cd": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002101/1002120.html",
+    "filename": "c4c2b44bf9e3b7cd.html",
+    "sha256": "95d728a49df84000bbc8e4e1fdabe8b947467727f9700f20a763454cae586871",
+    "fetched_at": "2026-07-12T06:42:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "adca395f03cfa525": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002121.html",
+    "filename": "adca395f03cfa525.html",
+    "sha256": "4fb50234e4ef301f728ca52edc0c44ea3ae0dd004071f0f8c604106fbadde734",
+    "fetched_at": "2026-07-12T06:43:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "241f366ee4f0d1b2": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002122.html",
+    "filename": "241f366ee4f0d1b2.html",
+    "sha256": "17b10845874ff16555210f6f496507544dcf08780996c11269ddf0ada5342c52",
+    "fetched_at": "2026-07-12T06:43:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ef1d093f4a6e3285": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002123.html",
+    "filename": "ef1d093f4a6e3285.html",
+    "sha256": "290a798999c930a8c35190c5aed06eaaadac322d953e29e05ec023f306f43b13",
+    "fetched_at": "2026-07-12T06:43:06Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "922434d6556a858b": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002124.html",
+    "filename": "922434d6556a858b.html",
+    "sha256": "a1a5cac048288f3a10a2e3ad719cb27cb9cec0d88d9603126d9346c741aaabc0",
+    "fetched_at": "2026-07-12T06:43:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "282ec157149e43d7": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002125.html",
+    "filename": "282ec157149e43d7.html",
+    "sha256": "8d20f6586783a8a483c1f7e056eb43c3a0e13b92a07ebf5457a57961734200e0",
+    "fetched_at": "2026-07-12T06:43:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "de85f3c41f1595fd": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002126.html",
+    "filename": "de85f3c41f1595fd.html",
+    "sha256": "5d4a253605ec9f414d6b641cc117b9a1ba94b5ff2e5824bf6595ee4efa6d8096",
+    "fetched_at": "2026-07-12T06:43:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cf2c776666ad2af8": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002127.html",
+    "filename": "cf2c776666ad2af8.html",
+    "sha256": "70ae0c1273fedb45d0102c43b04aab93f6087ab26cb20122e7f2d25b9af32588",
+    "fetched_at": "2026-07-12T06:43:18Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c3c4f9bc1bf81ae1": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1002128.html",
+    "filename": "c3c4f9bc1bf81ae1.html",
+    "sha256": "6afa5b341f5487006ab1dfd32fc54128f081738d992734f3227565b9b3dae42d",
+    "fetched_at": "2026-07-12T06:43:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "341f2922c2c89f99": {
+    "url": "https://www.town.fuso.lg.jp/sports/1002076/1002095/1002102/1003695.html",
+    "filename": "341f2922c2c89f99.html",
+    "sha256": "a7685c9d60dabaad446515476972973a58fd9b3003bd7c072f5fa46845439731",
+    "fetched_at": "2026-07-12T06:43:23Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

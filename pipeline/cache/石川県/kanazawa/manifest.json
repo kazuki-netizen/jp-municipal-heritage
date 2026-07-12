@@ -1,0 +1,34 @@
+{
+  "784a9f98c479e60b": {
+    "url": "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/f1f30984-ebc8-43c4-90ef-93a046492994/resource/0c437365-4493-4630-85b1-6ccb35947652",
+    "filename": "784a9f98c479e60b.bin",
+    "sha256": "da7d7a955d682aa16616d07be58d2610b3541e9a6c52a988e0857cf36962f14b",
+    "fetched_at": "2026-07-12T03:54:02Z",
+    "http_status": 200,
+    "format": "opendata"
+  },
+  "d78c6622d7d450ae": {
+    "url": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/bunkazaihogoka/gyomuannai/3/1/1/4285.html",
+    "filename": "d78c6622d7d450ae.html",
+    "sha256": "4c8305b92f918341d4d76182475b23c3aefcdacff0a8cff4f520de0e7adfc3a2",
+    "fetched_at": "2026-07-12T03:54:03Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "498ddf9b713c1d46": {
+    "url": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/bunkazaihogoka/gyomuannai/3/1/1/4283.html",
+    "filename": "498ddf9b713c1d46.html",
+    "sha256": "a2d106e50d7c393f967f2dfc75f6dad2e06e3f868e6cf7d7de8b484096e76102",
+    "fetched_at": "2026-07-12T03:54:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "13a5177733c0c9fb": {
+    "url": "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/bunkazaihogoka/gyomuannai/3/1/1/4282.html",
+    "filename": "13a5177733c0c9fb.html",
+    "sha256": "b9077a20c752962fc309a9a522dcc646b7bb94694dc39d3d7c361dc6f180311e",
+    "fetched_at": "2026-07-12T03:54:07Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

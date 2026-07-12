@@ -1,0 +1,361 @@
+[
+ {
+  "jmh_id": "JMH-142042-0317",
+  "name": "銅造 燭台",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0316",
+  "name": "銅造 火鈴",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0313",
+  "name": "銅造 梵鐘",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内409番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0319",
+  "name": "銅造 観音菩薩御正体",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "大町一丁目11番22号"
+ },
+ {
+  "jmh_id": "JMH-142042-0318",
+  "name": "銅造 磬子",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0315",
+  "name": "銅造 灌仏盤",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内409番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0309",
+  "name": "金銅四天王五鈷鈴",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番31号"
+ },
+ {
+  "jmh_id": "JMH-142042-0044",
+  "name": "堆朱龍花文長盆",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0323",
+  "name": "銅骨蔵器 金銅五輪塔 金銅宝塔",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0324",
+  "name": "鎌倉彫屈輪文三足卓",
+  "category": "有形文化財",
+  "subcategory": "工芸品",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "小町二丁目15番13号"
+ },
+ {
+  "jmh_id": "JMH-142042-0234",
+  "name": "紙本墨書 扶桑五山記",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "二階堂710番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0237",
+  "name": "紙本墨書 神田孝平旧蔵鎌倉関係古文書",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "御成町18番10号"
+ },
+ {
+  "jmh_id": "JMH-142042-0232",
+  "name": "紙本墨書 建長寺伽藍指図",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0239",
+  "name": "紙本墨書 蘭渓道隆罰榜",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0238",
+  "name": "紙本墨書 蘭渓道隆書状",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0228",
+  "name": "紙本墨書 円鑑図（大拙担能賛）",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0235",
+  "name": "紙本墨書 浄妙寺文書",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "浄明寺三丁目8番31号"
+ },
+ {
+  "jmh_id": "JMH-142042-0230",
+  "name": "紙本墨書 夢窓疎石墨跡",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "二階堂710番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0229",
+  "name": "紙本墨書 固山一筆墨跡",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "二階堂710番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0057",
+  "name": "平井家文書",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市"
+ },
+ {
+  "jmh_id": "JMH-142042-0227",
+  "name": "紙本墨書 不聞契聞墨跡",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内434番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0240",
+  "name": "紙本墨書 頌草「最勝輪」（附 扇額 一幅）",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内428番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0231",
+  "name": "紙本墨書 夢窓疎石墨跡",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内428番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0257",
+  "name": "紙本著色 建長寺境内絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0267",
+  "name": "紙本著色 鶴岡八幡宮境内絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番31号"
+ },
+ {
+  "jmh_id": "JMH-142042-0254",
+  "name": "紙本著色 光明寺境内絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "材木座六丁目17番19号"
+ },
+ {
+  "jmh_id": "JMH-142042-0261",
+  "name": "紙本著色 極楽寺境内絵図",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "極楽寺三丁目6番７号"
+ },
+ {
+  "jmh_id": "JMH-142042-0256",
+  "name": "紙本著色 寿福寺・同塔頭境内絵図及領地図",
+  "category": "有形文化財",
+  "subcategory": "書跡",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0076",
+  "name": "新撰寇玖波集（附 箱・極札二葉）",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番31号"
+ },
+ {
+  "jmh_id": "JMH-142042-0052",
+  "name": "大光明蔵",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "二階堂710番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0053",
+  "name": "大覚禅師語録（附 箱）",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0030",
+  "name": "仏燈国師語録（附 箱）",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0236",
+  "name": "紙本墨書 神明鏡",
+  "category": "有形文化財",
+  "subcategory": "典籍",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0194",
+  "name": "浄光明寺文書（三一通）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "扇ガ谷二丁目12番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0032",
+  "name": "光明寺文書（二五通）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "材木座六丁目17番19号"
+ },
+ {
+  "jmh_id": "JMH-142042-0077",
+  "name": "明月院文書（一八通）",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0056",
+  "name": "小丸家旧蔵東慶寺縁切文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "雪ノ下二丁目1番１号"
+ },
+ {
+  "jmh_id": "JMH-142042-0307",
+  "name": "荏柄天神社文書",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "二階堂74番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0233",
+  "name": "紙本墨書 建長寺年中諷経并前住記",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "山ノ内８番地"
+ },
+ {
+  "jmh_id": "JMH-142042-0106",
+  "name": "木造 報恩寺梁牌銘",
+  "category": "有形文化財",
+  "subcategory": "古文書",
+  "designation": "市指定",
+  "municipality": "鎌倉市",
+  "location": "二階堂710番地"
+ }
+]

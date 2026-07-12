@@ -1,0 +1,18 @@
+{
+  "2e154e77bcc29cc4": {
+    "url": "https://www.city.toyokawa.lg.jp/kanko_bunka_sports/bunka_geijutsu/8/1/11734.html",
+    "filename": "2e154e77bcc29cc4.pdf",
+    "sha256": "c064c1b8d5d42d6502ec52c6a6014afc714a7ea6d297af04cd918309ce485f73",
+    "fetched_at": "2026-07-12T06:14:11Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "5e4506947e21c82b": {
+    "url": "https://www.city.toyokawa.lg.jp/material/files/group/47/shiteibunkazaiichiran20260423.pdf",
+    "filename": "5e4506947e21c82b.pdf",
+    "sha256": "4f2509a11080c59a8440c2757feddc1fabe57f03b53c0e28c7e8981be3d428a0",
+    "fetched_at": "2026-07-12T06:14:14Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

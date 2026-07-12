@@ -1,0 +1,402 @@
+[
+ {
+  "jmh_id": "JMH-132098-0012",
+  "name": "阿弥陀三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "1965-04-18",
+  "municipality": "町田市",
+  "location": "東京都町田市本町田3654"
+ },
+ {
+  "jmh_id": "JMH-132098-0013",
+  "name": "阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "1965-04-18",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町3729"
+ },
+ {
+  "jmh_id": "JMH-132098-0009",
+  "name": "地蔵菩薩立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "1965-04-18",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町3729"
+ },
+ {
+  "jmh_id": "JMH-132098-0030",
+  "name": "誕生釈迦仏立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "1987-11-14",
+  "municipality": "町田市",
+  "location": "東京都町田市成瀬4-14-1"
+ },
+ {
+  "jmh_id": "JMH-132098-0031",
+  "name": "薬師如来坐像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "1987-12-12",
+  "municipality": "町田市",
+  "location": "東京都町田市野津田町3224"
+ },
+ {
+  "jmh_id": "JMH-132098-0028",
+  "name": "聖徳太子立像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "1987-11-14",
+  "municipality": "町田市",
+  "location": "東京都町田市鶴間5-17-1"
+ },
+ {
+  "jmh_id": "JMH-132098-0035",
+  "name": "能ケ谷出土銭遺跡出土品一式",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "1997-03-26",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ },
+ {
+  "jmh_id": "JMH-132098-0025",
+  "name": "妙福寺本堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1984-02-25",
+  "municipality": "町田市",
+  "location": "東京都町田市三輪町811"
+ },
+ {
+  "jmh_id": "JMH-132098-0026",
+  "name": "妙福寺鐘楼門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1984-02-25",
+  "municipality": "町田市",
+  "location": "東京都町田市三輪町811"
+ },
+ {
+  "jmh_id": "JMH-132098-0027",
+  "name": "妙福寺高麗門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1984-02-25",
+  "municipality": "町田市",
+  "location": "東京都町田市三輪町811"
+ },
+ {
+  "jmh_id": "JMH-132098-0018",
+  "name": "長福寺山門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1973-03-09",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町2109"
+ },
+ {
+  "jmh_id": "JMH-132098-0019",
+  "name": "長福寺文殊堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1973-03-09",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町2109"
+ },
+ {
+  "jmh_id": "JMH-132098-0016",
+  "name": "清水寺観音堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1973-03-09",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町701"
+ },
+ {
+  "jmh_id": "JMH-132098-0017",
+  "name": "清水寺鐘楼",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1973-03-09",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町701"
+ },
+ {
+  "jmh_id": "JMH-132098-0015",
+  "name": "清水寺水屋",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1973-03-09",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町701"
+ },
+ {
+  "jmh_id": "JMH-132098-0024",
+  "name": "天神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1984-02-25",
+  "municipality": "町田市",
+  "location": "東京都町田市南大谷451"
+ },
+ {
+  "jmh_id": "JMH-132098-0022",
+  "name": "青木家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1977-02-24",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町810"
+ },
+ {
+  "jmh_id": "JMH-132098-0033",
+  "name": "箭幹八幡宮随身門",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1990-02-15",
+  "municipality": "町田市",
+  "location": "東京都町田市矢部町2666"
+ },
+ {
+  "jmh_id": "JMH-132098-0032",
+  "name": "熊野神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1990-02-15",
+  "municipality": "町田市",
+  "location": "東京都町田市三輪町1925-1"
+ },
+ {
+  "jmh_id": "JMH-132098-0034",
+  "name": "村野常右衛門生家",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1994-07-12",
+  "municipality": "町田市",
+  "location": "東京都町田市小野路町1256-1"
+ },
+ {
+  "jmh_id": "JMH-132098-0005",
+  "name": "金井獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963-10-23",
+  "municipality": "町田市",
+  "location": "東京都町田市金井町2686"
+ },
+ {
+  "jmh_id": "JMH-132098-0002",
+  "name": "丸山獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963-10-23",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町1743-1"
+ },
+ {
+  "jmh_id": "JMH-132098-0004",
+  "name": "矢部八幡宮獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963-10-23",
+  "municipality": "町田市",
+  "location": "東京都町田市矢部町2666"
+ },
+ {
+  "jmh_id": "JMH-132098-0003",
+  "name": "大戸囃子",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963-10-23",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町4391-3"
+ },
+ {
+  "jmh_id": "JMH-132098-0001",
+  "name": "三ツ目囃子",
+  "category": "民俗文化財",
+  "subcategory": "市指定無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1963-10-23",
+  "municipality": "町田市",
+  "location": "東京都町田市小山町3748-2"
+ },
+ {
+  "jmh_id": "JMH-132098-0021",
+  "name": "町田市三輪白坂横穴群",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-10-28",
+  "municipality": "町田市",
+  "location": "東京都町田市三輪町1720-7"
+ },
+ {
+  "jmh_id": "JMH-132098-0014",
+  "name": "木曽一里塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1969-09-03",
+  "municipality": "町田市",
+  "location": "東京都町田市木曽西4-14-15"
+ },
+ {
+  "jmh_id": "JMH-132098-0023",
+  "name": "伝鎌倉井戸（鎌倉古道推定地）",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "designated_date": "1979-09-08",
+  "municipality": "町田市",
+  "location": "東京都町田市山崎町1050-1"
+ },
+ {
+  "jmh_id": "JMH-132098-0036",
+  "name": "白洲次郎・正子旧宅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2002-11-15",
+  "municipality": "町田市",
+  "location": "東京都町田市能ヶ谷7-3-2"
+ },
+ {
+  "jmh_id": "JMH-132098-0006",
+  "name": "アカガシ群落",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1964-11-26",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町701"
+ },
+ {
+  "jmh_id": "JMH-132098-0007",
+  "name": "シダレザクラ",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1964-11-26",
+  "municipality": "町田市",
+  "location": "東京都町田市小山町2057-1"
+ },
+ {
+  "jmh_id": "JMH-132098-0038",
+  "name": "彫刻付大形石棒",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2011-12-17",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ },
+ {
+  "jmh_id": "JMH-132098-0037",
+  "name": "土偶一式",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2011-12-17",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ },
+ {
+  "jmh_id": "JMH-132098-0039",
+  "name": "深鉢形土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2011-12-17",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ },
+ {
+  "jmh_id": "JMH-132098-0040",
+  "name": "細野喜代四郎書斎（処静小斎）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2011-12-17",
+  "municipality": "町田市",
+  "location": "東京都町田市相原町3765-3"
+ },
+ {
+  "jmh_id": "JMH-132098-0043",
+  "name": "隆起線文土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2012-12-15",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ },
+ {
+  "jmh_id": "JMH-132098-0042",
+  "name": "爪形文土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2012-12-15",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ },
+ {
+  "jmh_id": "JMH-132098-0041",
+  "name": "南多摩郡各町村縮図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2012-12-15",
+  "municipality": "町田市",
+  "location": "東京都町田市野津田町897"
+ },
+ {
+  "jmh_id": "JMH-132098-0044",
+  "name": "中空土偶頭部",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2014-01-11",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ },
+ {
+  "jmh_id": "JMH-132098-0045",
+  "name": "クルミ形土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（美術工芸品）",
+  "designation": "市指定",
+  "designated_date": "2015-01-10",
+  "municipality": "町田市",
+  "location": "東京都町田市下小山田町4016"
+ }
+]

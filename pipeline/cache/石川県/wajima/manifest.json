@@ -1,0 +1,26 @@
+{
+  "84357ca21a83be1f": {
+    "url": "https://www.city.wajima.ishikawa.jp/docs/2014052100012/",
+    "filename": "84357ca21a83be1f.html",
+    "sha256": "e88425696ffea7c4aae9e691bb54ac3437229debbad76234b4b72fb03aa1ab2a",
+    "fetched_at": "2026-07-12T03:54:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "196d269106c67e12": {
+    "url": "https://www.city.wajima.ishikawa.jp/docs/2014052100012/file_contents/file_202541292642_1.pdf",
+    "filename": "196d269106c67e12.pdf",
+    "sha256": "4b387e70e2433bc5f4c35785022eaeeb68717c92a1594b2d1672e2cc49ab3f6c",
+    "fetched_at": "2026-07-12T03:54:12Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "wajima_list_pdf": {
+    "url": "https://www.city.wajima.ishikawa.jp/docs/2014052100012/file_contents/file_20254129278_1.pdf",
+    "filename": "wajima_list.pdf",
+    "sha256": "1a9a68569de3937e9e2b3d4fe7541e87f07a5e2328575007d83159759bbd133f",
+    "fetched_at": "2026-07-12T04:00:00Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

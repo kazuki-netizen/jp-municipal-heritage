@@ -1,0 +1,18 @@
+{
+  "13dcf991e45f07a8": {
+    "url": "https://www.city.kameoka.kyoto.jp/soshiki/12/4264.html",
+    "filename": "13dcf991e45f07a8.pdf",
+    "sha256": "c13b634d70b753a10acc4865a0fbdde0a3cca4b0794bf41379e6204ebb843bf5",
+    "fetched_at": "2026-07-12T06:25:40Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "cca2abbb46a78bc5": {
+    "url": "https://www.city.kameoka.kyoto.jp/uploaded/attachment/46950.pdf",
+    "filename": "cca2abbb46a78bc5.pdf",
+    "sha256": "cca2abbb46a78bc59233a686a04518b684d43a94615081862a72bae99256ebf1",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

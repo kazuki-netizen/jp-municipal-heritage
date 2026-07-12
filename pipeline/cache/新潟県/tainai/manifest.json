@@ -1,0 +1,18 @@
+{
+  "683d9cf389517acb": {
+    "url": "https://www.city.tainai.niigata.jp/kurashi/kyoiku/bunkazai/tainai-bunkazai.html",
+    "filename": "683d9cf389517acb.html",
+    "sha256": "98e882f70966d6e7006d348e7dbe8f1e89030f523055f462bc0cd964ee8cc2dd",
+    "fetched_at": "2026-07-12T03:41:45Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b176c018778f67ec": {
+    "url": "https://www.city.tainai.niigata.jp/kurashi/kyoiku/bunkazai/documents/bunnkazaiitirann.pdf",
+    "filename": "b176c018778f67ec.pdf",
+    "sha256": "298ee9bc36a50f9f8aed2a3d786263e21a9f874c82adcd5d0fc627dd1d42e943",
+    "fetched_at": "2026-07-12T03:41:47Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

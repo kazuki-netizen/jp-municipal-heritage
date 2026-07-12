@@ -1,0 +1,18 @@
+{
+  "72b499b886ce8756": {
+    "url": "http://bunka.city.kuwana.mie.jp/html/bunkazai/class.html",
+    "filename": "72b499b886ce8756.html",
+    "sha256": "4b6f69d0b51a2b9b96d33933ece257677346f757c92a64c72eb9d4741dada8fb",
+    "fetched_at": "2026-07-12T06:13:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "684704f9132e322c": {
+    "url": "http://bunka.city.kuwana.mie.jp/html/bunkazai/134.html",
+    "filename": "684704f9132e322c.html",
+    "sha256": "48fb47ee0ff93a59f6d9bc618522d328f327d7f5bc1e60ace547d09ec798f03b",
+    "fetched_at": "2026-07-12T06:13:30Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "75a01cc9c6ef45d3": {
+    "url": "https://www.city.nonoichi.lg.jp/soshiki/37/2594.html",
+    "filename": "75a01cc9c6ef45d3.html",
+    "sha256": "025f52beaa54415253204bcf429ea38cd5c036d492d556b271c6c29ac3c57feb",
+    "fetched_at": "2026-07-12T03:54:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "79e03972ab2e75e0": {
+    "url": "https://www.city.nonoichi.lg.jp/soshiki/37/925.html",
+    "filename": "79e03972ab2e75e0.html",
+    "sha256": "dbe678ddb8bacfee548fac20adcec05fb91cdfa066fd29db5dcd974882c8f9e1",
+    "fetched_at": "2026-07-12T03:54:35Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "6dc8ab283de6409a": {
+    "url": "https://www.city.itami.lg.jp/SOSIKI/TOSHIKATSURYOKU/BUNKA/bunnkazai/SINAI_BUNKAZAI/SI_SITEI/index.html",
+    "filename": "6dc8ab283de6409a.html",
+    "sha256": "438303ac007c89af436142e122a39040780ead5af42e28b934f02fb15829cacf",
+    "fetched_at": "2026-07-12T06:31:43Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "33cec21aa2f7af1c": {
+    "url": "https://www.city.itami.lg.jp/material/files/group/39/shiteibunkazaiitiranr60306.pdf",
+    "filename": "33cec21aa2f7af1c.pdf",
+    "sha256": "96a0b381a8ad59505b9ccaff74a1a6e5b3bd1bab2370d93fb38b244a50e95eb8",
+    "fetched_at": "2026-07-12T06:31:45Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

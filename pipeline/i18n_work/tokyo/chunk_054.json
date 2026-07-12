@@ -1,0 +1,388 @@
+[
+ {
+  "jmh_id": "JMH-132021-0013",
+  "name": "公私日記",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1970-11-26",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0014",
+  "name": "勝坂式土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1970-11-26",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館蔵"
+ },
+ {
+  "jmh_id": "JMH-132021-0016",
+  "name": "柴崎村野帳附柴崎村地図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1976-03-19",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館蔵"
+ },
+ {
+  "jmh_id": "JMH-132021-0017",
+  "name": "立川村十二景",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1976-03-19",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0019",
+  "name": "小林家住宅",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1989-12-01",
+  "municipality": "立川市",
+  "location": "幸町　古民家園内"
+ },
+ {
+  "jmh_id": "JMH-132021-0020",
+  "name": "砂川十番大幟（おおのぼり）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "1991-03-28",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館蔵"
+ },
+ {
+  "jmh_id": "JMH-132021-0021",
+  "name": "立川氏文書",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2001-09-01",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館蔵"
+ },
+ {
+  "jmh_id": "JMH-132021-0022",
+  "name": "旧石井家住宅（主屋・長屋門・内蔵）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2009-07-30",
+  "municipality": "立川市",
+  "location": "国営昭和記念公園こもれびの里地内"
+ },
+ {
+  "jmh_id": "JMH-132021-0026",
+  "name": "砂川村野取反別帳附砂川村絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-25",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0024",
+  "name": "柴崎村絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-25",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館蔵"
+ },
+ {
+  "jmh_id": "JMH-132021-0025",
+  "name": "砂川村絵図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-25",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館蔵"
+ },
+ {
+  "jmh_id": "JMH-132021-0023",
+  "name": "向郷遺跡環状墓群出土の遺物",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-25",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館蔵"
+ },
+ {
+  "jmh_id": "JMH-132021-0028",
+  "name": "立川氏文書（個人所有分）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2017-03-24",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0032",
+  "name": "普濟寺版 大方等大集経",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2024-03-25",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0029",
+  "name": "普濟寺古過去帳",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2024-03-25",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0031",
+  "name": "普濟寺梵鐘",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2024-03-25",
+  "municipality": "立川市",
+  "location": "柴崎町　普濟寺"
+ },
+ {
+  "jmh_id": "JMH-132021-0030",
+  "name": "普濟寺境内并堂塔図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2024-03-25",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0004",
+  "name": "大和田遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-03-10",
+  "municipality": "立川市",
+  "location": "立川市柴崎町4-5-8先"
+ },
+ {
+  "jmh_id": "JMH-132021-0003",
+  "name": "八幡神社本殿跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-03-10",
+  "municipality": "立川市",
+  "location": "立川市柴崎町1-7-17先"
+ },
+ {
+  "jmh_id": "JMH-132021-0009",
+  "name": "満願寺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-03-10",
+  "municipality": "立川市",
+  "location": "立川市柴崎町1-9-3先"
+ },
+ {
+  "jmh_id": "JMH-132021-0006",
+  "name": "柴崎分水",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1955-03-10",
+  "municipality": "立川市",
+  "location": "富士見町、柴崎町、錦町"
+ },
+ {
+  "jmh_id": "JMH-132021-0011",
+  "name": "蚕影神社跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1964-08-25",
+  "municipality": "立川市",
+  "location": "砂川町　阿豆佐味天神社"
+ },
+ {
+  "jmh_id": "JMH-132021-0001",
+  "name": "八幡神社大欅",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1955-03-10",
+  "municipality": "立川市",
+  "location": "立川市柴崎町1-7-8先"
+ },
+ {
+  "jmh_id": "JMH-132021-0018",
+  "name": "多摩川漁撈具",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1982-07-27",
+  "municipality": "立川市",
+  "location": "歴史民俗資料館保管"
+ },
+ {
+  "jmh_id": "JMH-132021-0027",
+  "name": "須﨑家内蔵",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-03-25",
+  "municipality": "立川市",
+  "location": "幸町　古民家園内"
+ },
+ {
+  "jmh_id": "JMH-132021-0012",
+  "name": "獅子舞",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1967-09-13",
+  "municipality": "立川市",
+  "location": "立川市獅子舞芸能保存会"
+ },
+ {
+  "jmh_id": "JMH-132128-0021",
+  "name": "薬師堂（東光寺薬師堂）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1961-10-01",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0004",
+  "name": "八坂神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1961-10-01",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0027",
+  "name": "安養寺本堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1965-03-01",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0036",
+  "name": "普門寺観音堂",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "1990-06-16",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0052",
+  "name": "日野宿本陣　附棟札二枚",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2003-10-15",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0059",
+  "name": "日野宿本陣上段の間および御前の間",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（建造物）",
+  "designation": "市指定",
+  "designated_date": "2024-03-23",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0019",
+  "name": "紙本着色涅槃図",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1961-10-01",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0042",
+  "name": "絹本着色弁才天十五童子像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1991-12-19",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0043",
+  "name": "絹本着色愛染明王像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1991-12-19",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0040",
+  "name": "絹本着色不動明王及び二童子像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1991-12-19",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0038",
+  "name": "板絵着色四天王像絵馬",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1991-12-19",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0044",
+  "name": "絹本着色阿弥陀如来三尊像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1991-12-19",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0039",
+  "name": "田公実筆絵画（一括）",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1991-12-19",
+  "municipality": "日野市"
+ },
+ {
+  "jmh_id": "JMH-132128-0041",
+  "name": "絹本着色地蔵菩薩像",
+  "category": "有形文化財",
+  "subcategory": "有形文化財（絵画）",
+  "designation": "市指定",
+  "designated_date": "1991-12-19",
+  "municipality": "日野市"
+ }
+]

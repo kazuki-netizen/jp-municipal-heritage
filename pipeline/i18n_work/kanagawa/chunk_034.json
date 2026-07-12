@@ -1,0 +1,398 @@
+[
+ {
+  "jmh_id": "JMH-142174-0025",
+  "name": "木造地蔵菩薩坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-12-26",
+  "municipality": "南足柄市",
+  "location": "弘西寺131"
+ },
+ {
+  "jmh_id": "JMH-142174-0026",
+  "name": "木造阿弥陀如来坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-12-26",
+  "municipality": "南足柄市",
+  "location": "関本1040"
+ },
+ {
+  "jmh_id": "JMH-142174-0024",
+  "name": "木造不動明王坐像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-12-26",
+  "municipality": "南足柄市",
+  "location": "生駒234"
+ },
+ {
+  "jmh_id": "JMH-142174-0027",
+  "name": "矜羯羅童子像",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1986-12-26",
+  "municipality": "南足柄市",
+  "location": "生駒234"
+ },
+ {
+  "jmh_id": "JMH-142174-0034",
+  "name": "関本自治会屋台",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-11-27",
+  "municipality": "南足柄市",
+  "location": "関本391-2"
+ },
+ {
+  "jmh_id": "JMH-142174-0030",
+  "name": "内山自治会屋台",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-11-27",
+  "municipality": "南足柄市",
+  "location": "内山1257-1"
+ },
+ {
+  "jmh_id": "JMH-142174-0032",
+  "name": "岩原自治会屋台",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-11-27",
+  "municipality": "南足柄市",
+  "location": "岩原893-1"
+ },
+ {
+  "jmh_id": "JMH-142174-0033",
+  "name": "日影自治会屋台",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-11-27",
+  "municipality": "南足柄市",
+  "location": "塚原3343"
+ },
+ {
+  "jmh_id": "JMH-142174-0031",
+  "name": "台河原自治会屋台",
+  "category": "有形文化財",
+  "subcategory": "彫刻",
+  "designation": "市指定",
+  "designated_date": "1991-11-27",
+  "municipality": "南足柄市",
+  "location": "塚原2780"
+ },
+ {
+  "jmh_id": "JMH-142174-0003",
+  "name": "岩原城跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-12-03",
+  "municipality": "南足柄市",
+  "location": "岩原1039"
+ },
+ {
+  "jmh_id": "JMH-142174-0004",
+  "name": "文命堤",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-12-03",
+  "municipality": "南足柄市",
+  "location": "怒田1912他"
+ },
+ {
+  "jmh_id": "JMH-142174-0005",
+  "name": "藤原範茂卿の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1966-12-03",
+  "municipality": "南足柄市",
+  "location": "怒田127"
+ },
+ {
+  "jmh_id": "JMH-142174-0011",
+  "name": "矢倉沢関所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-22",
+  "municipality": "南足柄市",
+  "location": "矢倉沢508"
+ },
+ {
+  "jmh_id": "JMH-142174-0008",
+  "name": "天野康景の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-01-22",
+  "municipality": "南足柄市",
+  "location": "沼田315"
+ },
+ {
+  "jmh_id": "JMH-142174-0018",
+  "name": "藤原範茂卿従者の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-03-27",
+  "municipality": "南足柄市",
+  "location": "怒田2180"
+ },
+ {
+  "jmh_id": "JMH-142174-0015",
+  "name": "性殊院殿の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-03-27",
+  "municipality": "南足柄市",
+  "location": "雨坪507"
+ },
+ {
+  "jmh_id": "JMH-142174-0017",
+  "name": "矢倉沢裏関所跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1973-03-27",
+  "municipality": "南足柄市",
+  "location": "矢倉沢1535"
+ },
+ {
+  "jmh_id": "JMH-142174-0020",
+  "name": "伝上杉憲実一族の宝篋印塔群3基",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1975-02-28",
+  "municipality": "南足柄市",
+  "location": "怒田1528"
+ },
+ {
+  "jmh_id": "JMH-142174-0023",
+  "name": "大塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "1985-05-30",
+  "municipality": "南足柄市",
+  "location": "塚原3697-2"
+ },
+ {
+  "jmh_id": "JMH-142174-0035",
+  "name": "松平大和守直基の墓",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "史跡",
+  "designation": "市指定",
+  "designated_date": "2007-08-23",
+  "municipality": "南足柄市",
+  "location": "大雄町1157"
+ },
+ {
+  "jmh_id": "JMH-142174-0002",
+  "name": "夕日の滝",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "名勝",
+  "designation": "市指定",
+  "designated_date": "1966-12-03",
+  "municipality": "南足柄市",
+  "location": "矢倉沢2664地先"
+ },
+ {
+  "jmh_id": "JMH-142174-0001",
+  "name": "塚田古墳出土品一括",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1964-02-28",
+  "municipality": "南足柄市",
+  "location": "関本537"
+ },
+ {
+  "jmh_id": "JMH-142174-0029",
+  "name": "御嶽神社裏山経塚出土品一括",
+  "category": "有形文化財",
+  "subcategory": "考古資料",
+  "designation": "市指定",
+  "designated_date": "1991-09-27",
+  "municipality": "南足柄市",
+  "location": "広町1544"
+ },
+ {
+  "jmh_id": "JMH-142174-0019",
+  "name": "忠臣蔵踊り、曽我の夜討ち踊り",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1974-12-18",
+  "municipality": "南足柄市"
+ },
+ {
+  "jmh_id": "JMH-142174-0021",
+  "name": "足柄ばやし",
+  "category": "民俗文化財",
+  "subcategory": "無形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "1975-02-28",
+  "municipality": "南足柄市"
+ },
+ {
+  "jmh_id": "JMH-142174-0014",
+  "name": "鳥居杉",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-01-22",
+  "municipality": "南足柄市",
+  "location": "三竹344"
+ },
+ {
+  "jmh_id": "JMH-142174-0022",
+  "name": "ナギの木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1985-05-30",
+  "municipality": "南足柄市",
+  "location": "怒田999"
+ },
+ {
+  "jmh_id": "JMH-142174-0007",
+  "name": "センペルセコイアの大木",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1973-01-22",
+  "municipality": "南足柄市",
+  "location": "塚原4440"
+ },
+ {
+  "jmh_id": "JMH-142174-0006",
+  "name": "蛤沢の化石",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "天然記念物",
+  "designation": "市指定",
+  "designated_date": "1966-12-03",
+  "municipality": "南足柄市",
+  "location": "矢倉沢2152-3付近"
+ },
+ {
+  "jmh_id": "JMH-142174-0037",
+  "name": "文命堤築堤時関係資料（ぶんめいてい ちくていじ かんけいしりょう）",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2018-09-20",
+  "municipality": "南足柄市",
+  "location": "怒田字渕ノ上1912番3地先、班目字小松原4番地先、怒田字渕ノ上1912番1"
+ },
+ {
+  "jmh_id": "JMH-141305-0101",
+  "name": "安藤家長屋門",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "2012-11-27",
+  "municipality": "川崎市",
+  "location": "中原区小杉陣屋町"
+ },
+ {
+  "jmh_id": "JMH-141305-0103",
+  "name": "深瀬家長屋門",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "2017-06-30",
+  "municipality": "川崎市",
+  "location": "幸区南加瀬"
+ },
+ {
+  "jmh_id": "JMH-141305-0068",
+  "name": "長弘寺本堂",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1990-01-23",
+  "municipality": "川崎市",
+  "location": "幸区南加瀬"
+ },
+ {
+  "jmh_id": "JMH-141305-0069",
+  "name": "長念寺山門",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1990-01-23",
+  "municipality": "川崎市",
+  "location": "多摩区登戸"
+ },
+ {
+  "jmh_id": "JMH-141305-0067",
+  "name": "日枝神社本殿",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1990-01-23",
+  "municipality": "川崎市",
+  "location": "中原区上丸子山王町"
+ },
+ {
+  "jmh_id": "JMH-141305-0077",
+  "name": "泉沢寺本堂",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1996-01-25",
+  "municipality": "川崎市",
+  "location": "中原区上小田中"
+ },
+ {
+  "jmh_id": "JMH-141305-0076",
+  "name": "子之神社本殿",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1996-01-25",
+  "municipality": "川崎市",
+  "location": "多摩区菅北浦"
+ },
+ {
+  "jmh_id": "JMH-141305-0078",
+  "name": "白山神社本殿",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1996-01-25",
+  "municipality": "川崎市",
+  "location": "麻生区白山"
+ },
+ {
+  "jmh_id": "JMH-141305-0070",
+  "name": "棟持柱の木小屋（川崎市立日本民家園）",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1995-01-24",
+  "municipality": "川崎市"
+ },
+ {
+  "jmh_id": "JMH-141305-0075",
+  "name": "蚕影山祠堂（川崎市立日本民家園）",
+  "category": "有形文化財",
+  "subcategory": "川崎市重要歴史記念物",
+  "designation": "市指定",
+  "designated_date": "1995-01-24",
+  "municipality": "川崎市"
+ }
+]

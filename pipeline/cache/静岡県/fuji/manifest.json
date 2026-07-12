@@ -1,0 +1,18 @@
+{
+  "efb498c8bf62e80c": {
+    "url": "https://www.city.fuji.shizuoka.jp/4005230000/p003451.html",
+    "filename": "efb498c8bf62e80c.html",
+    "sha256": "ad802bd2fb48ac3795742e58671b863350c269616aecd4808e98f77d59fad9a4",
+    "fetched_at": "2026-07-12T03:51:23Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c75ce3b8d67751d8": {
+    "url": "https://www.city.fuji.shizuoka.jp/documents/3385/siteibunnkazaiitirann.pdf",
+    "filename": "c75ce3b8d67751d8.pdf",
+    "sha256": "f3508be91fca907c9661e9bbf0d5b8aec26df9b7b65563e84a6278b81392b21b",
+    "fetched_at": "2026-07-12T03:51:25Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

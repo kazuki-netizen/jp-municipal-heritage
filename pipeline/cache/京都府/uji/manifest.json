@@ -1,0 +1,26 @@
+{
+  "7319abdd95144600": {
+    "url": "https://www.city.uji.kyoto.jp/site/bunkazai/38678.html",
+    "filename": "7319abdd95144600.pdf",
+    "sha256": "b081b5a03bdc5dd0c9af3ca8e10966cc24cb4daffc65188228fb3ac2d4d4a18c",
+    "fetched_at": "2026-07-12T06:25:40Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "8e99475cd7a516c4": {
+    "url": "https://www.city.uji.kyoto.jp/uploaded/life/99470_261368_misc.pdf",
+    "filename": "8e99475cd7a516c4.pdf",
+    "sha256": "8e99475cd7a516c4d06fa9141d20f9978d9bb3d3ae02eaec748c38007526be6a",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "8938eaaf1371a921": {
+    "url": "https://www.city.uji.kyoto.jp/uploaded/life/99470_261367_misc.pdf",
+    "filename": "8938eaaf1371a921.pdf",
+    "sha256": "8938eaaf1371a9217df9c9ae9c08751c193d0dc1f88dd3b4fbea2812041da2d0",
+    "fetched_at": "2026-07-12T06:58:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

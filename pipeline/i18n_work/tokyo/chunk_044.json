@@ -1,0 +1,370 @@
+[
+ {
+  "jmh_id": "JMH-132136-0032",
+  "name": "東京陸軍少年通信兵学校跡地",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "旧跡",
+  "designation": "市指定",
+  "designated_date": "2011-02-04",
+  "municipality": "東村山市",
+  "location": "東村山市富士見町1丁目2番地から5番地,7番地から10番地,12番地から14番地,16番地,同2丁目1番地,2番地のうち一部,3番地から10番地"
+ },
+ {
+  "jmh_id": "JMH-132136-0034",
+  "name": "熊野神社遺跡出土陶磁器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2013-05-01",
+  "municipality": "東村山市",
+  "location": "東村山市諏訪町1丁目6番地3　東村山ふるさと歴史館内"
+ },
+ {
+  "jmh_id": "JMH-132136-0033",
+  "name": "はなびや人形店押絵羽子板製作関連資料",
+  "category": "民俗文化財",
+  "subcategory": "有形民俗文化財",
+  "designation": "市指定",
+  "designated_date": "2013-05-01",
+  "municipality": "東村山市",
+  "location": "東村山市諏訪町1丁目6番地3　東村山ふるさと歴史館内"
+ },
+ {
+  "jmh_id": "JMH-132136-0035",
+  "name": "諏訪神社本殿",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2015-03-25",
+  "municipality": "東村山市",
+  "location": "東村山市諏訪町1丁目4番地3"
+ },
+ {
+  "jmh_id": "JMH-132136-0036",
+  "name": "笹塚遺跡出土縄文土器",
+  "category": "有形文化財",
+  "subcategory": "有形文化財",
+  "designation": "市指定",
+  "designated_date": "2020-04-08",
+  "municipality": "東村山市",
+  "location": "東村山市諏訪町1丁目6番地3　東村山ふるさと歴史館内"
+ },
+ {
+  "jmh_id": "JMH-134210-0002",
+  "name": "漂流者冥福碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "村指定",
+  "designated_date": "2010-07-22",
+  "municipality": "小笠原村",
+  "location": "小笠原村父島字奥村"
+ },
+ {
+  "jmh_id": "JMH-134210-0001",
+  "name": "にほへ碑",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "村指定",
+  "designated_date": "2010-07",
+  "municipality": "小笠原村",
+  "location": "小笠原村父島字扇浦"
+ },
+ {
+  "jmh_id": "JMH-134210-0003",
+  "name": "蟲塚",
+  "category": "有形文化財",
+  "subcategory": "歴史資料",
+  "designation": "村指定",
+  "designated_date": "2010-07-22",
+  "municipality": "小笠原村",
+  "location": "小笠原村母島字船見台"
+ },
+ {
+  "jmh_id": "JMH-132209-0006",
+  "name": "石皿",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0004",
+  "name": "徳川氏御朱印状（三光院他宛15通）",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0019",
+  "name": "里正日誌",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0010",
+  "name": "上ノ台遺跡の石器",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0012",
+  "name": "八幡谷戸遺跡第4・5号住居跡の出土遺物（一括）",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0023",
+  "name": "豊鹿島神社本殿の木製狛犬",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0022",
+  "name": "豊鹿島神社の獅子頭",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0020",
+  "name": "慶性院の水天像",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0025",
+  "name": "高木獅子舞の旧獅子頭",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0027",
+  "name": "鹿島台遺跡住居跡の出土遺物（一括）",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0028",
+  "name": "徳川氏御朱印状（氷川神社宛8通）",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1989-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0030",
+  "name": "永仁二年銘の弥陀種子板碑",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1989-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0029",
+  "name": "旧高木村名主宮鍋家文書",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1989-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0032",
+  "name": "狭山の栞　紙型（しけい）及び挿図判（一括）",
+  "category": "有形文化財",
+  "subcategory": "市重宝(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "2013-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0001",
+  "name": "名号塔婆",
+  "category": "有形文化財",
+  "subcategory": "市郷土資料(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0009",
+  "name": "高木獅子舞の道具及び衣裳一式",
+  "category": "民俗文化財",
+  "subcategory": "市郷土資料(有形民俗文化財)",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0002",
+  "name": "庚申塔（清水3丁目）",
+  "category": "有形文化財",
+  "subcategory": "市郷土資料(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0003",
+  "name": "庚申塔（芋窪6丁目）",
+  "category": "有形文化財",
+  "subcategory": "市郷土資料(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0016",
+  "name": "清水本村橋の石橋供養塔",
+  "category": "有形文化財",
+  "subcategory": "市郷土資料(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0017",
+  "name": "砂の橋の石橋供養塔",
+  "category": "有形文化財",
+  "subcategory": "市郷土資料(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0015",
+  "name": "徳治二年銘の板碑",
+  "category": "有形文化財",
+  "subcategory": "市郷土資料(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0014",
+  "name": "庚申塔（阿字庚申）",
+  "category": "有形文化財",
+  "subcategory": "市郷土資料(有形文化財)",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0005",
+  "name": "清水囃子",
+  "category": "無形文化財",
+  "subcategory": "市技芸(無形文化財)",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0007",
+  "name": "蔵敷庚申塚",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市史跡",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0011",
+  "name": "八幡谷戸遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市史跡",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0026",
+  "name": "鹿島台遺跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市史跡",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0021",
+  "name": "蔵敷太子堂跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市史跡",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0024",
+  "name": "青梅橋跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市史跡",
+  "designation": "市指定",
+  "designated_date": "1983-03-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0031",
+  "name": "戦災建造物 東大和市指定文化財 旧日立航空機株式会社変電所",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市史跡",
+  "designation": "市指定",
+  "designated_date": "1995-10-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0008",
+  "name": "高木村外五ヶ村連合戸長役場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市旧跡",
+  "designation": "市指定",
+  "designated_date": "1974-09-20",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0018",
+  "name": "蔵敷調練場跡",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市旧跡",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ },
+ {
+  "jmh_id": "JMH-132209-0013",
+  "name": "十五番札所　清水観音堂",
+  "category": "記念物(史跡・名勝・天然記念物)",
+  "subcategory": "市旧跡",
+  "designation": "市指定",
+  "designated_date": "1980-04-01",
+  "municipality": "東大和市"
+ }
+]

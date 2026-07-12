@@ -1,0 +1,10 @@
+{
+  "66dd25d26dda81c7": {
+    "url": "https://gifu-opendata.pref.gifu.lg.jp/dataset/c212172-009",
+    "filename": "66dd25d26dda81c7.bin",
+    "sha256": "d2373f3b98bf016908ac01e1cd57c1aa4b1728f6b2bc7eada6d6ac573b9fa892",
+    "fetched_at": "2026-07-12T06:00:00Z",
+    "http_status": 200,
+    "format": "opendata"
+  }
+}

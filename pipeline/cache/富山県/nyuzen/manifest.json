@@ -1,0 +1,18 @@
+{
+  "cf2abe790b4dd289": {
+    "url": "https://www.town.nyuzen.toyama.jp/material/files/group/14/bunkazai202003.pdf",
+    "filename": "cf2abe790b4dd289.pdf",
+    "sha256": "7e64d0d6f33093f8c74207fe16945e7a38b6e9f4f9674ed4e11b1acb464c7e26",
+    "fetched_at": "2026-07-12T03:53:59Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "2f69a1df544b4853": {
+    "url": "https://www.town.nyuzen.toyama.jp/gyosei/soshiki/kyoiku_iinkai/2/4/3/1339.html",
+    "filename": "2f69a1df544b4853.html",
+    "sha256": "53ef22b379d39be6c64733106b7eca572f527b9b8848ea77366e4e6a977dca40",
+    "fetched_at": "2026-07-12T03:54:01Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}
