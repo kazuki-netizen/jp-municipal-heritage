@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>本多美濃守殿文書 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>本多美濃守殿文書</h1>
+    <p class="jmh-id">JMH-242055-0080</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>1989-02-20</dd>
+      <dt>所在地</dt><dd>本町46番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1枚／形状:34cm×39cm　和紙／年代:元和２年（１６１６）／所有者:桑名・中臣神社／管理者:桑名市博物館。桑名藩第二代目藩主、本多忠政が春日神社に小山の内に20石を与えた黒印状。 忠政の嫡子忠刻のもとへ千姫（家康の孫･秀忠の長女）が元和2年（1616）に輿入れしており、千姫は春日神社に東照宮を勧進し、家康の木像を寄進している。 この20石はそれに関係あると思われる。 ｢小山｣は、多度町（当時は桑名藩領）に同名の地名があるが、詳細は不詳。 忠政は元和3年（1617）姫路へ移封し、桑名治政は７年と短く貴重な資料である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/065.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/065.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"本多美濃守殿文書" (JMH-242055-0080), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.065434, 136.694931], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.065434, 136.694931]).addTo(m);
+  </script>
+</body>
+</html>

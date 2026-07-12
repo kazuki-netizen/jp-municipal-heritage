@@ -1,0 +1,18 @@
+{
+  "27584c2e0f50eb03": {
+    "url": "https://www.city.sakaide.lg.jp/soshiki/bunkashinkou/bunkazaiichiran.html",
+    "filename": "27584c2e0f50eb03.html",
+    "sha256": "8be958786cd5ad32a53fe983b1a0268fa6bb3e4e896035a351ee8cc103b07013",
+    "fetched_at": "2026-07-12T07:29:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a8a8418be55b11ba": {
+    "url": "https://www.city.sakaide.lg.jp/uploaded/life/57007_203794_misc.pdf",
+    "filename": "a8a8418be55b11ba.pdf",
+    "sha256": null,
+    "fetched_at": "2026-07-12T07:29:54Z",
+    "http_status": 404,
+    "format": "pdf"
+  }
+}

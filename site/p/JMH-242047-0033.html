@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>(まつうらたけしろうたんじょうち) — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>(まつうらたけしろうたんじょうち)</h1>
+    <p class="jmh-id">JMH-242047-0033</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定史跡</dd>
+      <dt>指定年月日</dt><dd>1962-11-15</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:江戸時代～明治時代/小野江町/昭和37年11月15日。文化15年（1818）に、松浦武四郎が生まれ育ったと伝えられる地である。建物は天保3年（1832）建築で、本家の家督を譲った武四郎の父圭介が購入し、移住したといわれている。後に増改築された箇所があるものの、ほぼ当時の様子を残している。また、庭園には明治2年（1869）に武四郎が建てた灯篭や、昭和30年（1955）9月にこの生家を訪れたアイヌ語研究の第一人者金田一京助博士が植樹した桜の木がある。
+　武四郎が生誕200年を迎えた平成30年（2018）2月に合わせて史跡整備を進め、明治維新直前に作られた家相図に基づき、保存修理と一部復元、補強工事を行った。
+　平成30年（2018）2月から一般公開が行われている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/maturatakeshiro-tanjyoti.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/maturatakeshiro-tanjyoti.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"(まつうらたけしろうたんじょうち)" (JMH-242047-0033), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

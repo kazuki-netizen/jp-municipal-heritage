@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>赤須賀神明社石取祭 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>赤須賀神明社石取祭</h1>
+    <p class="jmh-id">JMH-242055-0058</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1981-12-11</dd>
+      <dt>所在地</dt><dd>赤須賀1817番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>年代:明治33年（1900）／所有者:赤須賀神明社石取祭保存会／管理者:赤須賀神明社石取祭保存会。赤須賀神明社の石取祭は祖先が来住した時、既に桑名春日神社には「石取り」が行なわれており赤須賀からも献石をしたことが始まりであると言われる。 久波奈名所図会にも赤須賀神明社が「石取り」を行なうとの記録があり、古くより赤須賀にても石取祭が行われていたことがわかる。 石取祭が現在のような形になったのは、明治33年木曽三川の河川改修により街区が整備された後であるが、以前は船石取にて祭礼をしていたと言われる。 昭和２０年の空襲により弁天町を除く５ 台の祭車は焼失したが、その後、各町とも祭車を昭和28年、29年頃に建造し、現在は6台の祭車が揃い8月14日より16日の間に石取祭が盛大に行われている。 祭車は鬼木とよばれる台木に小輪を前に、大輪を左右に取りつけ廻橡がめぐらされ、その上に社殿を模した階段及び高欄つきの建築物が載せてあり、その上の山形に十二張の提灯をとりつけ御幣を飾る。 後部に太鼓、鉦など囃子</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/108.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/108.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"赤須賀神明社石取祭" (JMH-242055-0058), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.062355, 136.701401], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.062355, 136.701401]).addTo(m);
+  </script>
+</body>
+</html>

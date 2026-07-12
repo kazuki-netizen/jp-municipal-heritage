@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>上野天神祭供奉面・能面 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>上野天神祭供奉面・能面</h1>
+    <p class="jmh-id">JMH-242161-0112</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>伊賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1979-12-20</dd>
+      <dt>所在地</dt><dd>三重県伊賀市上野徳居町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数:13面。時代:江戸～明治時代。所有者:上野徳居町。上野天神祭の鬼行列で使われる供奉面である。鬼行列は、悪疫退散と五穀豊穣を祈念して練り歩くが、元は藤堂高虎の眼病平癒の祈祷のお礼として、能面を賜ったことが始まりとされる。上野徳居町所蔵の面は、鎮西八郎為朝の面（写真）をはじめ能面など13面で、般若の面は面裏に天保12年（1841）の銘がある。他の面も江戸中期から明治期にかけて製作されたのものと考えられる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank" rel="noopener">https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d</a><br>
+      形式: opendata &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"上野天神祭供奉面・能面" (JMH-242161-0112), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.763371, 136.124908], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.763371, 136.124908]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>久波奈名所図会 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>久波奈名所図会</h1>
+    <p class="jmh-id">JMH-242055-0004</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>典籍</dd>
+      <dt>指定年月日</dt><dd>1959-07-17</dd>
+      <dt>所在地</dt><dd>伝馬町105番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:3冊／形状:紙本墨書　墨画/魯縞庵義道編/工藤麟溪絵２５.２ｃｍ×１８.２ｃｍ／年代:享和２年（1802）／所有者:長円寺／管理者:桑名市博物館。美濃判和本で上巻は自凝洲崎（おのころすざき）、中巻は加良洲崎（からすざき）、下巻は泡洲崎（あわすざき）と往古の桑名が川によって三分されていた地形区分によって分冊されている。 編者は長円寺の学僧魯縞庵義道で、挿絵は工藤麟溪、内容は桑名の名所、霊跡、神社、仏閣、風俗、行事、その他を京都の秋里籬島の著した諸国名所図会本に倣って作ったもので、享和2年（1802）8月完稿、前後5年間の労作である。 地方都市でかような克明な趣味本的名所図会を試みたものは あまり見受けない。 自序には享和2年8月、奥書には文化元年(1804)6月、序文は山田鳳蕭亭主人、この書の原稿は義道であるが、筆者は挿絵の画工(町絵師)麟溪であるとみて誤りはないであろう。 また詳細な奥付を付けているところ等から、上梓の予定があっての版下であったようにも思われるが、好事家的な趣味癖の所産であったのだろう。 桑名郷土誌中の稀本ではある。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/044.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/044.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"久波奈名所図会" (JMH-242055-0004), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.056892, 136.689392], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.056892, 136.689392]).addTo(m);
+  </script>
+</body>
+</html>

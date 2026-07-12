@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>浜田大山車の舞獅子 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>浜田大山車の舞獅子</h1>
+    <p class="jmh-id">JMH-242021-0049</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>2008-07-24</dd>
+      <dt>所在地</dt><dd>四日市市中浜田町及び南浜田町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>保持者:四日市祭浜田大山車の舞獅子保存連合会。諏訪神社の祭礼四日市祭に4輌あった大山車の上で舞われていた獅子舞のうち、浜田の大山車で舞われたものです。舞獅子と称しているのは、同じ南浜田から四日市祭に出る練り物の「富士の巻狩り」における、造り物の大イノシシと混同しないための地元の言い習わしです。 この舞獅子は、箕田流の流れを汲むものですが、動きが敏速で力強い舞です。大山車という4層構造の巨大な山車の上で獅子が舞う演目は、この民俗芸能に特徴的なものです。また、祭の最後に舞う道化舞は、四日市祭の都市祭礼的風流の伝統が現れたものといえます。 口取りの鳥兜は舞楽の楽人が着用するものであり、囃子で使用する太鼓が長胴の鋲打太鼓という特色もあります。 山</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002684/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002684/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"浜田大山車の舞獅子" (JMH-242021-0049), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.961929, 136.618866], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.961929, 136.618866]).addTo(m);
+  </script>
+</body>
+</html>

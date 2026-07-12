@@ -6,5 +6,61 @@
     "fetched_at": "2026-07-12T06:31:41Z",
     "http_status": 200,
     "format": "html"
+  },
+  "c28001d4f6deaebe": {
+    "url": "https://www.city.himeji.lg.jp/kanko/0000001937.html",
+    "filename": "c28001d4f6deaebe.html",
+    "sha256": "82d77ec7269060bba40757c96a8b16550ac8eb958d21c742112fe50baf38a9a5",
+    "fetched_at": "2026-07-12T07:00:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "20d55b939be237f7": {
+    "url": "https://www.city.himeji.lg.jp/kanko/0000002088.html",
+    "filename": "20d55b939be237f7.html",
+    "sha256": "47ea9bcf00cbe9adbc708c72acff4829b437b70690f2ce76827668cb02add3f6",
+    "fetched_at": "2026-07-12T07:00:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ded653d60c6d9bee": {
+    "url": "https://www.city.himeji.lg.jp/kanko/0000001951.html",
+    "filename": "ded653d60c6d9bee.html",
+    "sha256": "74a89362a2c9c2ffdced94ff35923f1ee421990390ae1dfe97305f211ad4e3b3",
+    "fetched_at": "2026-07-12T07:00:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f6abc5a9bbe7a904": {
+    "url": "https://www.city.himeji.lg.jp/kanko/0000002115.html",
+    "filename": "f6abc5a9bbe7a904.html",
+    "sha256": "a84eb94e4b6124221189e1ef40f90fcf0af31f2c7abf3f15dab53df0ad3c45cb",
+    "fetched_at": "2026-07-12T07:00:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "eed840db36318872": {
+    "url": "https://www.city.himeji.lg.jp/kanko/0000001986.html",
+    "filename": "eed840db36318872.html",
+    "sha256": "efd56f47e4c33a14a2b75a210a72267c6a2ef338f1f12cdb2173ed56350ecf62",
+    "fetched_at": "2026-07-12T07:00:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b2f6c3ac42ef711f": {
+    "url": "https://www.city.himeji.lg.jp/kanko/0000002046.html",
+    "filename": "b2f6c3ac42ef711f.html",
+    "sha256": "f46fda38288acf30154d3b1971e5124b76f3e9878066d95e0b90f6e3e832dac9",
+    "fetched_at": "2026-07-12T07:00:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5c6a3a1df9182206": {
+    "url": "https://www.city.himeji.lg.jp/kanko/0000002076.html",
+    "filename": "5c6a3a1df9182206.html",
+    "sha256": "0c9dafa22009d1b61ae62f22078e078b7e200ed6d40bb4d644aa98337689aa50",
+    "fetched_at": "2026-07-12T07:00:00Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

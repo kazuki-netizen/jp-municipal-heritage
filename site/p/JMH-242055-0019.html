@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>湯立釜 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>湯立釜</h1>
+    <p class="jmh-id">JMH-242055-0019</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1965-11-24</dd>
+      <dt>所在地</dt><dd>大福261番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1対／形状:高さ 45.3cm 内胴 16.5cm 底部 20.5cm 脚 8.3cm 外径 53cm 内口径 41cm 鍔の径 5.2cm 底部径 33cm／年代:明和７年（1770）／所有者:八重垣神社／管理者:八重垣神社。鉄製鋳物。 銘文 表に明和七庚寅暦 広瀬与左衛門藤原政次、裏に大福邑氏子牛頭天王 六月十四日。 図柄 表に五七桐紋１、三ツ巴紋２、内部に鍵、宝珠、桝の図が各１個鋳出されている。 高さ、外径、口径の比が調和されており、文字は陽鋳で力強く脚部並に取手の付根が獣の姿になっている。 作者は桑名鋳物の始祖彦三郎五代の孫、広瀬与左衛門政次で、宝暦9年(1759)に家業を継ぎ、在職12年で後継に譲っているので作品数は少なく、現存する二三も銅 製品で、このように鉄製品は至って少ない。 鉄は腐食し易いが、この釜は適正に保存されて腐食程度は軽く、稀少価値のある作品であろう。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/064.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/064.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"湯立釜" (JMH-242055-0019), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.054813, 136.683655], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.054813, 136.683655]).addTo(m);
+  </script>
+</body>
+</html>

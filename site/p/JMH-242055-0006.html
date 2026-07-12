@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>大福村庄屋文書 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>大福村庄屋文書</h1>
+    <p class="jmh-id">JMH-242055-0006</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>1959-07-17</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:141点／形状:紙本墨書／年代:江戸―明治／所有者:個人蔵／管理者:桑名市博物館。旧大福村の庄屋を勤めた梶島家に伝存する年貢割付状（免状ともいう）である。 免状は、領主が決定した年貢を通達した文書で、多少の差はあるが、村高・引高・有高・年貢率・年貢量・納期などを記し、収穫時に出された。 大福村の免状は元禄４、正徳３、享保１９、元文４、寛保３、延享３、宝暦１１、明和８、安永３、天明８、寛政８、享和３、文化１２、文政１３、天保１２、弘化３、嘉永７、安政５、文久３、元治１、慶応３、明治１、年不詳（酉年）１の計138枚である。 村高は江戸時代初期には500石前後であるが、中期に入ると300石前後となっている。 これは、宝永７年（1710）の藩主の移封に関係深いかと思われる。 しかし、定納の方は350石前後と、免状の残っている元禄から幕末までほとんど変化が無い。 これは桑名藩の税制の厳しさを示すものであろう。 掲載したのは、この免状中もっとも古い元禄２年（1689）のものである。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/A01.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/A01.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"大福村庄屋文書" (JMH-242055-0006), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.062222, 136.683884], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.062222, 136.683884]).addTo(m);
+  </script>
+</body>
+</html>

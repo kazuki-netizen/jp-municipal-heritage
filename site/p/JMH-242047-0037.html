@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>御火試・粥試神事 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>御火試・粥試神事</h1>
+    <p class="jmh-id">JMH-242047-0037</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1965-12-14</dd>
+      <dt>所在地</dt><dd>小阿坂町　阿射加神社</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:期日：1月12～18日の土曜日の夜／小阿坂町　阿射加神社／昭和40年12月14日。夜7時頃から境内で大ドンドが焚かれ、調舎（ちょうや）で御火試・粥試の神事が行われる。稲の作柄の豊穣を祈る予祝神事である。 御火試は、調舎の囲炉裏の前に浄衣姿の神主と白衣・白袴を着た添え役2人が座り、月数を書いた12本の長さ40cmほどの樫の割木の先を囲炉裏で焼き、月数をしるした檜の板にその焼け先を乗せ消えるのを待ち、灰の色が白ければ「晴れ」、黒い炭の状態であれば「雨」、その中間であれば「半晴れ（はんぱれ）」などと唱えながら1年間の月ごとの天候を占う。 粥試は、早生・中生・晩生のしるしを付けた長さ15cmほどの笹竹の管3本を入れて小豆粥を炊き込み、管に入った小豆や米粒の量によって「大々豊作、大豊作、豊作」と稲作の吉凶を占う。 氏子たちはこの小豆粥を食べると夏病みしないと、分け合って食べていく。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/ohidameshi-kayudameshishinji.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/ohidameshi-kayudameshishinji.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"御火試・粥試神事" (JMH-242047-0037), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.586586, 136.468155], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.586586, 136.468155]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>八雲神社神輿 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>八雲神社神輿</h1>
+    <p class="jmh-id">JMH-242047-0025</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1962-03-08</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1基/元禄15年（1702）/日野町　八雲神社/総高222cm、木造漆塗り金銅装/昭和37年3月8日。屋根は宝形造り(ほうぎょうづくり）で頂上の露盤上に鳳凰(ほうおう)をのせる。軸部は方一間とし、方柱を台上に立て、その上の出三つ斗(でみつど)で軒を受け、出三つ斗の下は頭貫(かしらぬき)、上下の内法長押(うちのりなげし)を順に重ね、その下を霊屋とし、戸張をかけ、神鏡3面を吊る。霊屋の下には、腰長押と地長押との間に盲連子(れんじ)を入れ、縁上に勾欄(こうらん)を組み、鳥居を立て、最下の台から轅(ながえ)が出ている。神鏡に「元禄十五壬午(みずのえうま)天六月吉祥日松坂惣中産寺弥勒院　覚翁代」と陰刻があり、その頃の製作と考えられる。
+　なお、八雲神社は旧城下の産土神（うぶすながみ）で牛頭天王(ごずてんのう)を祀り、江戸時代は弥勒院善福寺が別当寺であった。神輿は7月の祇園祭の際、本殿前に鎮座する。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/yagumojinjyamikoshi.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/yagumojinjyamikoshi.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"八雲神社神輿" (JMH-242047-0025), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>三井家発祥地 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>三井家発祥地</h1>
+    <p class="jmh-id">JMH-242047-0015</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定史跡</dd>
+      <dt>指定年月日</dt><dd>1956-07-03</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:江戸時代/本町/指定面積：568.49ｍ²/昭和31年7月3日。江戸時代屈指の豪商であった三井家は、松阪本町から、やがて「江戸店持京商人(えどだなもちきょうあきんど)」となって天下に飛躍していった。この三井家発祥地はその父祖の記念の地であり、記念碑が建てられている。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　創業の祖（家祖）は高利(たかとし)（1622～94）であるが、ここには高利の祖父高安と父高俊の墓碑、高利の長兄らの供養碑ととも高利の産湯(うぶゆ)に使ったという伝承のある井戸がある。
+　三井家は父高俊の代に松阪に居宅を構え、この発祥地周辺に広い地歩を占めていた。しかし、本格的な江戸進出を果たした高利は、京都に居宅を移す一方、松阪には同族と松阪店を置き、紀州藩の御用も勤めた。やがて、18世紀後半には呉服、両替の店14軒を三都に構える繁栄振りであった。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/mitsuikehassyoti.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/mitsuikehassyoti.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"三井家発祥地" (JMH-242047-0015), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

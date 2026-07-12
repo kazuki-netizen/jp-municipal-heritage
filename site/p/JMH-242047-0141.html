@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>津屋城でこさん — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>津屋城でこさん</h1>
+    <p class="jmh-id">JMH-242047-0141</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:期日：旧暦10月15日／江戸時代／嬉野津屋城町／昭和45年。満月の夜、少年男子がヤカタと呼ばれる神輿(みこし)を担いで村内各戸を巡回する行事で、元禄の頃の始まりという。当日16時頃、子供たちは集会所にある紺絣(こんかすり)の着物、袴(はかま)、黒足袋(たび)、草履、白鉢巻き、白たすきを身につける。
+　でこさんは武士の形をした50cmほどの人形で「上」と書いた紙を持っている。この人形に、その年の一番早い生まれの男の子の着物を着せる。
+　「でこさんのやかた」は青竹で基礎を組み、菊の花でかざった柱に、南天の葉と実を付けた屋根を取りつけ、四方に赤い提灯をつける。高さ1メートル全長2メートル程度の神輿である。
+　行事は赤旗2本、白旗1本、黄旗1本を持つ子供たちが先に出発し、帰ってくるとヤカタが出発する。「でこさんのやかた」は4人で担ぎ、後にチャンギリ4人、太鼓4人、提灯4人、お供3～4人が後につく。一行は大門橋で満月に礼拝する。家の巡回が始まると米1升とかお金を頂戴するのでヤカタは重くなる。
+　休憩する家ではお菓子やお茶をご馳走になる。最後に大門橋に立ち、月に礼拝して、集会所で解散となる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/tsuyajyodekosan.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/tsuyajyodekosan.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"津屋城でこさん" (JMH-242047-0141), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

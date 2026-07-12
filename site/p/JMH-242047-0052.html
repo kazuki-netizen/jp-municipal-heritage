@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>阪内城跡・阪内御所跡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>阪内城跡・阪内御所跡</h1>
+    <p class="jmh-id">JMH-242047-0052</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定史跡</dd>
+      <dt>指定年月日</dt><dd>1978-11-11</dd>
+      <dt>所在地</dt><dd>室町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:室町／阪内町脇谷・御所／指定面積：1,252平方メートル／昭和53年11月11日。城跡は標高302mの山頂部、東西50m、南北55mの範囲内にあり、細長い台状地を中心に平坦地、堀切りが残る。また、城主の居館跡と思われる御所跡は、城から谷を挟んで西に見下ろした山麓にあったが、現在は阪内幼稚園となり、往時の遺構は残らない。 本城は応永年間、伊勢国司北畠家一門の北畠雅俊が入城し、その子孫は代々坂内姓を名乗り、「坂内御所」とも称された。天正4年（1576）11月、7代具義は北畠信雄の謀略により田丸城において殺害され、やがて本城も廃城となる</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/sakanaijyoato-sakanaigosyoato.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/sakanaijyoato-sakanaigosyoato.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"阪内城跡・阪内御所跡" (JMH-242047-0052), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

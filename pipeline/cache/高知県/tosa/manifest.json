@@ -1,0 +1,18 @@
+{
+  "9979ff65de2dda9e": {
+    "url": "https://www.city.tosa.lg.jp/life/detail.php?hdnKey=4277",
+    "filename": "9979ff65de2dda9e.html",
+    "sha256": "1c0a65a89df1e9b2e44a5bf575897a3654c109722f6db49751d0006800f59d95",
+    "fetched_at": "2026-07-12T07:43:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b48f09b80ee0403b": {
+    "url": "https://www.city.tosa.lg.jp/life/detail.php?hdnKey=4375",
+    "filename": "b48f09b80ee0403b.html",
+    "sha256": "f6015ac3f2f5385471718e1a117a992474a7c0379bc16b42b9d2a390f4be8ba2",
+    "fetched_at": "2026-07-12T07:43:42Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

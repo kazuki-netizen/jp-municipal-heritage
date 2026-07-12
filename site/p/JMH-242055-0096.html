@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>徳川家斉筆　光格天皇御製漢詩 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>徳川家斉筆　光格天皇御製漢詩</h1>
+    <p class="jmh-id">JMH-242055-0096</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡</dd>
+      <dt>指定年月日</dt><dd>2003-02-27</dd>
+      <dt>所在地</dt><dd>吉之丸9番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:一幅／形状:掛軸　縦33.2cm　横122.3cm／年代:江戸時代／所有者:鎮国守国神社／管理者:鎮国守国神社。天明８年１月晦日、京都大火にて皇居・仙洞御所炎上。 同年３月22日松平定信が皇居造営の総督に就任し、寛政元年２月２日から寛政２年10月29日までその任にあたる。 寛政２年、新造御所へ遷幸なった光格天皇より将軍家斉へ、造営の労をねぎらう宸翰御製詩が贈られた。 その詩を家斉が臨書し、総奉行を務めた老中松平定信に下賜。 定信公は造営に関与した諸役人を招宴し、御製詩を掲げてその栄を分け合ったという。 鎮国守国神社収蔵の定信公の自画像と共に城内においても事ある毎に掲げて家臣に拝見せしめた大幅である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/117.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/117.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"徳川家斉筆　光格天皇御製漢詩" (JMH-242055-0096), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.065292, 136.698044], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.065292, 136.698044]).addTo(m);
+  </script>
+</body>
+</html>

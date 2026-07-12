@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>紙本墨書蒲生氏郷茶日記 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>紙本墨書蒲生氏郷茶日記</h1>
+    <p class="jmh-id">JMH-242047-0011</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1953-12-08</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1幅／天正20年（1592）／魚町　旧長谷川治郎兵衛家／紙本墨書、掛幅装、28.5×39cm／昭和28年12月8日。天正20年付けの元松坂城主蒲生氏郷自筆の茶の注文書である。氏郷は戦国武将として著名であるが、一方では和歌・連歌等の文芸にも長じ、特に茶道については、千利休の直伝を受けた代表的門人の一人でもあった。書中の「極上」、「白袋」は、当時の宇治茶の品質等級を示す用語であり、いずれも最高級品の碾茶をさす。また、「羽忠」とは、羽柴忠三郎（氏郷の別名）の略称である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/gamouujisatochanikki.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/gamouujisatochanikki.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"紙本墨書蒲生氏郷茶日記" (JMH-242047-0011), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>蔵多日記 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>蔵多日記</h1>
+    <p class="jmh-id">JMH-215074-0016</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>岐阜県</dd>
+      <dt>市町村</dt><dd>東白川村</dd>
+      <dt>指定区分</dt><dd>村指定</dd>
+      <dt>大分類</dt><dd>その他</dd>
+      <dt>小分類</dt><dd>その他</dd>
+      <dt>指定年月日</dt><dd>1993-01-11</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号: 0204000004; 員数: 4 点</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://gifu-opendata.pref.gifu.lg.jp/dataset/cc474030-1181-41a7-a97b-e328709562f3/resource/ae799dd9-c0af-47c7-bc93-0b797565b653/download/215074_cultural_property_municipality-specify_202204.csv" target="_blank" rel="noopener">https://gifu-opendata.pref.gifu.lg.jp/dataset/cc474030-1181-41a7-a97b-e328709562f3/resource/ae799dd9-c0af-47c7-bc93-0b797565b653/download/215074_cultural_property_municipality-specify_202204.csv</a><br>
+      形式: csv &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"蔵多日記" (JMH-215074-0016), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.642498, 137.323883], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.642498, 137.323883]).addTo(m);
+  </script>
+</body>
+</html>

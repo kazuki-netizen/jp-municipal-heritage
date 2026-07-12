@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>桑名日記・柏崎日記　関係文書 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>桑名日記・柏崎日記　関係文書</h1>
+    <p class="jmh-id">JMH-242055-0067</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1984-07-10</dd>
+      <dt>所在地</dt><dd>京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:8件／年代:天保10年（1839）／所有者:桑名市博物館／管理者:桑名市博物館。桑名藩御米蔵算用係渡部平太夫政通（1784-1848）と、その養子で桑名藩領柏崎へ赴任した勝之助政醇（1802-1864）の間で交わされた日記『桑名日記』『柏崎日記』（県文)があるが、日記の内容は、日常生活がほとんどで、勝之助が桑名に残した鐐之助のことや、柏崎で生まれた次男真吾達の様子をこまごまと記し、当時の生活を知る貴重な資料である。 この一連の文書は、『桑名日記』『柏崎日記』に関連した資料である。 A 旅日記 一冊/紙本墨書/天保十年(1 839)/15.8cm×12cm/渡部政醇筆 渡部勝之助政醇は柏崎陣屋詰を命じられ、天保十年(1839)三月赴任するが、この時は妻きくが身重であったため単身で赴く。 この日記は、きくと生まれた娘おろくを連れて柏崎に戻る時の道中記である。 B 手扣 一冊/紙本墨書/19cm×14.5cm/渡部政醇筆 勝之助は、柏崎に設けられた学問所益習堂の句読指南(責</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/046.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/046.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"桑名日記・柏崎日記　関係文書" (JMH-242055-0067), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

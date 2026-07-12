@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>朝田寺書院 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>朝田寺書院</h1>
+    <p class="jmh-id">JMH-242047-0138</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>2019-04-18</dd>
+      <dt>所在地</dt><dd>朝田町　朝田寺</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1棟／江戸時代（元禄11～12年）／朝田町　朝田寺／入母屋造、本瓦葺、錣葺／平成31年4月18日指定。朝田寺は天台宗延暦寺派の寺院である。書院は南を正面とし桁行6間半、梁間6間強で、東側に幅2間の下屋を設け、その南端は側筋から突出して入母屋造妻入、妻飾木連格子の玄関とする。建築年代が明確であり、本堂、山門と合わせて江戸時代中期の密教寺院の伽藍を良く伝えている。当初の平面構成や構造部材を良く残す一方で、仏間や各室の天井の取替、玄関の増築などの後世の改変も認められるが、それも檀家を有するに至った事との関連によるものであり、江戸時代中期から明治期にかけての、朝田寺の変遷をよく示している。以上から、この書院はこの地域における密教寺院建築の展開の具体相を示すものとして歴史的意義が高い。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/chodenji-shoin.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/chodenji-shoin.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"朝田寺書院" (JMH-242047-0138), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.56813, 136.564972], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.56813, 136.564972]).addTo(m);
+  </script>
+</body>
+</html>

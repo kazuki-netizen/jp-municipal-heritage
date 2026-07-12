@@ -1,0 +1,2569 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	町指定文化財 / 波佐見町ホームページ
+</title><script type='text/javascript'>var glapiky='AIzaSyCzbixjF3aE4bDsibJvJesSFTnUaHc0w8Q';</script>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a' && elem.tagName!='area' && elem.tagName!='AREA') /* 2011/04/04 a tag OK */
+            {
+                var useMapFlg = false;
+                if (elem.tagName == "img" || elem.tagName == "IMG") {
+                    if (elem.useMap) {
+                        useMapFlg = true;
+                    }
+                }
+                if (!useMapFlg) {
+                    if (event.preventDefault) 
+                    {
+                        event.preventDefault();
+                    } 
+                    else 
+                    {
+                        event.returnValue = false;
+                    }
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&family=Noto+Sans&family=Noto+Sans+JP:wght@100;400;500;700;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"/>
+<!-- cloudDeliverdFont start -->
+<!-- cloudDeliverdFont end -->
+<link href="//www.town.hasami.lg.jp/dynamic/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/uiw.css" id="css_color" rel="stylesheet" type="text/css" /><link id="ctl00_minicalendar_css" href="//www.town.hasami.lg.jp/dynamic/common/css/minicalendar.css" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.town.hasami.lg.jp/dynamic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/jquery.min.js"></script><script id="ctl00_js_cookie_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/js.cookie.js"></script><script id="ctl00_setCookie_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/pubfunc.js"></script><script id="ctl00_pubfunc_settablescroll_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/pubfunc_settablescroll.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="https://www.town.hasami.lg.jp/dynamic/common/js/jquery-ui.js"></script><script id="ctl00_jquery_easing_js" type="text/javascript" src="https://www.town.hasami.lg.jp/dynamic/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="https://www.town.hasami.lg.jp/dynamic/common/js/jquery.scrollfollow.js"></script><script id="ctl00_floatHeader_js" type="text/javascript" src="https://www.town.hasami.lg.jp/dynamic/common/js/floatheader.js"></script><link id="ctl00_floatHeader_css" href="https://www.town.hasami.lg.jp/dynamic/common/css/floatheader.css" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/default_body.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="https://www.town.hasami.lg.jp/dynamic/common/js/keepsavepage.js"></script><link href="//www.town.hasami.lg.jp/dynamic/common/css/keepsavepage.css" id="css_keepSavePage" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.town.hasami.lg.jp/dynamic/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/uiw.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.hasami.lg.jp/dynamic/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="https://www.town.hasami.lg.jp/dynamic/common/css/bxslider.css" /><link rel="stylesheet" href="https://www.town.hasami.lg.jp/dynamic/common/css/slideviewer.css" /><script id="ctl00_jquery_bxSlider_responsive_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/jquery.bxslider.responsive.js"></script><script id="ctl00_ofi_min_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/ofi.min.js"></script><script id="ctl00_featuredArticle_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/featuredarticle/js/featuredarticle.js"></script>
+<!-- google analytics start -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6XJG2NPKZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6XJG2NPKZW');
+</script>
+
+<!-- google analytics end -->
+<script id="ctl00_header__commHeader_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/header/commheader.js"></script><link id="ctl00_header__commHeader_css" href="//www.town.hasami.lg.jp/dynamic/common/css/header/commheader.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" type="text/css" href="//www.town.hasami.lg.jp/dynamic/common/css/kinkyupanel.css" /><script id="ctl00_kinkyuPanel_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/kinkyupanel.js"></script><link rel="stylesheet" type="text/css" href="//www.town.hasami.lg.jp/dynamic/common/css/selectlanguagemenu_opened.css" /><link rel="stylesheet" type="text/css" href="//www.town.hasami.lg.jp/dynamic/common/css/selectlanguagemenu_opened.css" /><link id="ctl00_siteSearchArea_css" href="//www.town.hasami.lg.jp/dynamic/common/css/area/sitesearcharea.css" rel="stylesheet" type="text/css" /><script id="ctl00_siteSearchVer2_js" type="text/javascript" src="https://www.town.hasami.lg.jp/dynamic/common/js/sitesearchver2.js"></script><script id="ctl00_footer__commFooter_js" type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/footer/commfooter.js"></script><link id="ctl00_footer__commFooter_css" href="//www.town.hasami.lg.jp/dynamic/common/css/footer/commfooter.css" rel="stylesheet" type="text/css" /><meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="町指定文化財" /><meta property="og:image" content="https://www.town.hasami.lg.jp/dynamic/common/images/ogp/og_image.png" /><meta property="og:url" content="https://www.town.hasami.lg.jp/kiji0031442/index.html" /><meta property="og:description" content="町指定文化財 / 波佐見町ホームページ" /><meta property="og:site_name" content="波佐見町ホームページ" /><meta property="og:locality" content="Kumamoto-Shi" /><meta property="og:region" content="Kumamoto" /><meta property="og:country-name" content="Japan" /><script id="ctl00_CityBousai_js" type="text/javascript" src="https://www.town.hasami.lg.jp/dynamic/common/js/citybousai.js"></script><link id="ctl00_CityBousai_css" href="https://www.town.hasami.lg.jp/dynamic/common/css/citybousai.css" rel="stylesheet" type="text/css" /><meta name="keywords" content="町指定文化財" /></head>
+<body class="haikei">
+
+
+
+<form name="aspnetForm" method="post" action="./detail.aspx?c_id=3&amp;id=1442" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5DD862A" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAANvY3wOfMYminhC0MmJIX0bbYpBpkgHeoFwncFfYX3w2Rx2fztekhb53PZp5S06nVVn0s7qwn3Nco1/khZhQxTMb0VJ+hQJrXxgAAFvDD0f+w==" />
+</div>
+
+<div class="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+
+
+
+<!-- allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.town.hasami.lg.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.town.hasami.lg.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.town.hasami.lg.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script>
+<script>
+    jQuery.noConflict();
+</script>
+
+<header>
+    <div id="headerAreaDef">
+        <input type="submit" name="ctl00$ctl31$Dmy" value="" onclick="return false;" id="ctl00_ctl31_Dmy" style="height:0px;width:0px;position: absolute; top: -100px;" />
+        <!-- rect start -->
+        
+        <!-- rect end -->
+
+        
+        <!-- header start -->
+        <div id="header">
+            <h1 id="hd_header">
+                <div class="title">
+                    <a href="https://www.town.hasami.lg.jp/dynamic//default.aspx">
+                        <img id="imgHeader" usemap="#header_img" alt="" src="https://www.town.hasami.lg.jp/common/upload/common/0_3_header_zhuyq02s.png" alt="波佐見町　人と心がかよいあう陶磁と緑のまち" style="border-width:0px;" />
+                        
+                            <a href="https://www.town.hasami.lg.jp/default.html">
+                                <img id="imgHeaderSP" src="https://www.town.hasami.lg.jp/common/upload/common/0_3_headersp_7kbaju4o.png" alt="波佐見町　人と心がかよいあう陶磁と緑のまち" style="border-width:0px;" /></a>
+                        
+                    </a>
+                </div>
+                <div class="subtitle">
+                    <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/subtitle.png" alt="創る つなげる 超えていく～暮らしと絆を大切にするまち～" />
+                </div>
+            </h1>
+            <div class="headerMenu">
+                <div class="op_mypage">
+                    
+                    <a href="https://www.town.hasami.lg.jp/index.html">
+                        <div class="btn_op">オープニングへ</div>
+                    </a>
+                    <a href="https://www.town.hasami.lg.jp/dynamic/personalize/pub/default.aspx?c_id=28">
+                        <div class="btn_mypage">マイページ</div>
+                    </a>
+                </div>
+
+                <div class="wrap_4btn">
+
+                    <a href="javascript:void(0)" class="comm_toggle-button" data-panel="area_kinkyu" data-close="close_kinkyu" tabindex="1">
+                        <figure>
+                            <div class="btn_kinkyu">
+                                <div class="hb_icon">
+                                    <img id="button_kinkyu" src="//www.town.hasami.lg.jp/dynamic/common/images/top1/hb_icon01.svg" alt=" " title="" />
+                                </div>
+                                <div>緊急情報</div>
+                            </div>
+                        </figure>
+                    </a>
+                    <a href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1">
+                        <figure>
+                            <div class="btn_sagasu">
+                                <div class="hb_icon">
+                                    <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/hb_icon02.svg" alt=" " title="" />
+                                </div>
+                                <div>さがす</div>
+                            </div>
+                        </figure>
+                    </a>
+
+
+
+                    <a href="javascript:void(0)" class="comm_toggle-button" data-panel="accessibility" data-close="close_accessibility" tabindex="1" id="acc">
+                        <figure>
+                            <div class="btn_accessibility">
+                                <div class="hb_icon">
+                                    <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/hb_icon04.svg" alt=" " title="" />
+                                </div>
+                                <div>閲覧補助</div>
+                            </div>
+                        </figure>
+                    </a>
+
+
+                    <a href="javascript:void(0)" class="comm_toggle-button" data-panel="area_languages" data-close="close_languages" tabindex="1">
+                        <figure>
+                            <div class="btn_Languages">
+                                <div class="hb_icon">
+                                    <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/hb_icon03.svg" alt=" " title="" />
+                                </div>
+                                Languages
+                            </div>
+                        </figure>
+                    </a>
+
+                    
+                </div>
+            </div>
+        </div>
+
+        <!-- 緊急情報パネル -->
+        <div id="area_kinkyu">
+            <div>
+                <a href="javascript:void(0)" id="close_kinkyu" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a>
+            </div>
+            <div class="kinkyu_menu">
+                <div class="kinkyuTtl">
+                    <h1><i class="fa-solid fa-triangle-exclamation h-my-white fa-fw"></i> 緊急情報</h1>
+                </div>
+                <div class="kinkyu_ichiran"><a href="//www.town.hasami.lg.jp/kinkyu.html"><i class="fa-solid fa-angles-right h-my-white fa-fw"></i> 一覧へ</a></div>
+                <div class="kinkyu_item_line">｜</div>
+                <div class="kinkyu_item"><a href="//www.town.hasami.lg.jp/bousai/default.html" target="_blank"><i class="fas fa-caret-right fa-fw"></i>防災サイト</a></div>
+                <div class="kinkyu_item"><a href="https://www.town.hasami.lg.jp/bousai/list00359.html" target="_blank"><i class="fas fa-caret-right fa-fw"></i>防災マップ</a></div>
+                <div class="kinkyu_item"><a href="https://www.town.hasami.lg.jp/bousai/list00352.html"><i class="fas fa-caret-right fa-fw"></i>避難場所</a></div>
+                <div class="kinkyu_item">
+                    
+
+
+                </div>
+            </div>
+            
+    <!-- 緊急情報パネル start -->
+    <script type="text/javascript">
+        jQuery.noConflict();
+        jQuery(function () {
+            var kinkyuPanel = new KinkyuPanel(8, false, 'ctl00_ctl31_KinkyuPanel_kinkyuPanel', 0, 1, false, 'commHeaderButtonAddClass("button_kinkyu", "blinking");', 0, false);
+        });
+    </script>
+    <div id="ctl00_ctl31_KinkyuPanel_kinkyuPanel" class="kinkyuPanelWrap bousaiKinkyuHeader" tabindex="-1"></div>
+    <!-- 緊急情報パネル end -->
+
+            <div class="clear"></div>
+        </div>
+        <!-- 翻訳メニューパネル -->
+        <div id="area_languages">
+            <div class="languages_close">
+                <a href="javascript:void(0)" id="close_languages" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a>
+            </div>
+            <div class="language_wrap">
+                <div class="lang_title">Languages</div>
+
+                
+    <!-- 外国語翻訳メニュー start -->
+    <script type="text/javascript">
+        jQuery.noConflict();
+        jQuery(function () {
+            var wrapid = 'ctl00_ctl31_SelectLanguageMenu_menu';
+            // メニュー用
+            jQuery('#' + wrapid + '.selectLanguageMenu .dropmenu a').focus(function () {
+                jQuery(this).siblings('.sub-menu').addClass('focused');
+            }).blur(function () {
+                jQuery(this).siblings('.sub-menu').removeClass('focused');
+            });
+            // サブメニュー用
+            jQuery('#' + wrapid + '.selectLanguageMenu a').focus(function () {
+                jQuery(this).parents('.sub-menu').addClass('focused');
+            }).blur(function () {
+                jQuery(this).parents('.sub-menu').removeClass('focused');
+            });
+        }); 
+    </script>
+    <div id="ctl00_ctl31_SelectLanguageMenu_menu" class="selectLanguageMenu opened" tabindex="-1">
+        <ul class="dropmenu" tabindex="-1">
+            <li><a lang="en" href="javascript:void(0);" class="topmenu" tabindex="1"><i class="fas fa-globe"></i> Language</a>
+                <ul class="sub-menu">
+                    <li><a translate="no" lang="en" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                    <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-CN&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                    <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-TW&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                    <li><a translate="no" lang="ko" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=ko&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                    
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <!-- 外国語翻訳メニュー end -->
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!-- 閲覧補助パネル -->
+        <div id="accessibility">
+            <div class="acce_head_wp">
+                <div class="overlay_acc" id="overlay_acc">
+                    <div id="accmenu_close">
+                        <div><a href="javascript:void(0)" id="close_accessibility" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                    </div>
+                    <div class="acc_wp">
+                        <div id="acc_title">閲覧補助</div>
+                        <div class="font-size_wrap">
+                            <div id="mainFontSizeSel">
+                                <div class="change_title"><span>- 文字サイズを変更する -</span></div>
+                                <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                                    <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                            </div>
+                        </div>
+                        <div class="haikei_wrap">
+                            <div id="changeHaikei">
+                                <div class="change_title"><span>- 背景色を変更する -</span></div>
+                                <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                                    <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                            </div>
+                        </div>
+                        <div class="easyJapanese_wrap">
+                            
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!-- さがす -->
+        <div id="top_mokuteki">
+            <div class="top_head_wp">
+                <div class="overlay" id="overlay_mokuteki">
+                    <div id="navimenu_close">
+                        <div><a href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                    </div>
+                    <div class="mokuteki_wrap">
+                        <div class="mokuteki_title">
+                            <h2><i class="fa-solid fa-flag"></i><span>さがす</span></h2>
+                        </div>
+
+                        <div class="acc_wrap_sp">
+                            <div id="acc_title">閲覧補助</div>
+                            <div class="font-size_wrap">
+                                <div id="mainFontSizeSel">
+                                    <div class="change_title"><span>- 文字サイズを変更する -</span></div>
+                                    <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                                        <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                                </div>
+                            </div>
+                            <div class="haikei_wrap">
+                                <div id="changeHaikei">
+                                    <div class="change_title"><span>- 背景色を変更する -</span></div>
+                                    <div class="change_color_buttons">
+                                        <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="language_wrap_sp">
+                            <div class="lang_title">Languages</div>
+                            
+    <!-- 外国語翻訳メニュー start -->
+    <script type="text/javascript">
+        jQuery.noConflict();
+        jQuery(function () {
+            var wrapid = 'ctl00_ctl31_SelectLanguageMenu2_menu';
+            // メニュー用
+            jQuery('#' + wrapid + '.selectLanguageMenu .dropmenu a').focus(function () {
+                jQuery(this).siblings('.sub-menu').addClass('focused');
+            }).blur(function () {
+                jQuery(this).siblings('.sub-menu').removeClass('focused');
+            });
+            // サブメニュー用
+            jQuery('#' + wrapid + '.selectLanguageMenu a').focus(function () {
+                jQuery(this).parents('.sub-menu').addClass('focused');
+            }).blur(function () {
+                jQuery(this).parents('.sub-menu').removeClass('focused');
+            });
+        }); 
+    </script>
+    <div id="ctl00_ctl31_SelectLanguageMenu2_menu" class="selectLanguageMenu opened" tabindex="-1">
+        <ul class="dropmenu" tabindex="-1">
+            <li><a lang="en" href="javascript:void(0);" class="topmenu" tabindex="1"><i class="fas fa-globe"></i> Language</a>
+                <ul class="sub-menu">
+                    <li><a translate="no" lang="en" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                    <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-CN&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                    <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-TW&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                    <li><a translate="no" lang="ko" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=ko&u=https%3a%2f%2fwww.town.hasami.lg.jp%2fkiji0031442%2findex.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.town.hasami.lg.jp/dynamic/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                    
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <!-- 外国語翻訳メニュー end -->
+
+                        </div>
+                         <a href="https://www.town.hasami.lg.jp/index.html"><div class="opening_btn_sp"><i class="fas fa-undo-alt fa-fw"></i> オープングにもどる</div></a>
+
+                        <div class="mokuteki_menu">
+                              
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+    });
+</script>
+<ul class="sagasulist">
+    
+        <li>
+<div class="siteSearchArea">
+    
+            
+            
+<div name="searchver2-input" class="searchver2-input" data-api_url="https://hasami.sitesearch1.kumamoto-net.ne.jp/public_api/"><!--フォームの表示箇所--></div>
+                                                                                           
+</div>
+</li>
+    
+                <li class="sagasu_li_101">
+                    <div><a href="//www.town.hasami.lg.jp/list00101.html"><img class="sagasu_bullet_pic" src="//www.town.hasami.lg.jp/common/upload/hpkiji/101_class_globalnavi_r0tpq2pt.png" alt="" title="" />くらし・手続き</a></div>
+                    
+                </li>
+            
+                <li class="sagasu_li_102">
+                    <div><a href="//www.town.hasami.lg.jp/list00102.html"><img class="sagasu_bullet_pic" src="//www.town.hasami.lg.jp/common/upload/hpkiji/102_class_globalnavi_grqq0dke.png" alt="" title="" />健康・福祉</a></div>
+                    
+                </li>
+            
+                <li class="sagasu_li_103">
+                    <div><a href="//www.town.hasami.lg.jp/list00103.html"><img class="sagasu_bullet_pic" src="//www.town.hasami.lg.jp/common/upload/hpkiji/103_class_globalnavi_g6rgyr6m.png" alt="" title="" />子育て・教育</a></div>
+                    
+                </li>
+            
+                <li class="sagasu_li_104">
+                    <div><a href="//www.town.hasami.lg.jp/list00104.html"><img class="sagasu_bullet_pic" src="//www.town.hasami.lg.jp/common/upload/hpkiji/104_class_globalnavi_yjouseq0.png" alt="" title="" />まちの魅力</a></div>
+                    
+                </li>
+            
+                <li class="sagasu_li_105">
+                    <div><a href="//www.town.hasami.lg.jp/list00105.html"><img class="sagasu_bullet_pic" src="//www.town.hasami.lg.jp/common/upload/hpkiji/105_class_globalnavi_e6g5pk6c.png" alt="" title="" />しごと</a></div>
+                    
+                </li>
+            
+                <li class="sagasu_li_106">
+                    <div><a href="//www.town.hasami.lg.jp/list00106.html"><img class="sagasu_bullet_pic" src="//www.town.hasami.lg.jp/common/upload/hpkiji/106_class_globalnavi_yudv31jc.png" alt="" title="" />町政</a></div>
+                    
+                </li>
+            
+</ul>
+
+                        </div>
+
+
+                        
+                        <div class="life_wrap">
+                            <div class="mokuteki_title01">
+                                <h3><i class="fas fa-bookmark"></i><span>お困りですか？</span></h3>
+                            </div>
+                            <div class="life_eventArea">
+                                <ul id="life_mokuteki">
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00301.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life1.png" alt="妊娠・出産" title=""><span class="life_text">妊娠・出産</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00302.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life2.png" alt="子育て・教育" title=""><span class="life_text">子育て・教育</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00303.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life3.png" alt="就職・離職" title=""><span class="life_text">就職・離職</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00304.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life4.png" alt="結婚・離婚" title=""><span class="life_text">結婚・離婚</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00305.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life5.png" alt="転入・転出" title=""><span class="life_text">転入・転出</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00306.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life6.png" alt="病気・事故・災害" title=""><span class="life_text">病気・事故・災害</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00307.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life7.png" alt="高齢・介護" title=""><span class="life_text">高齢・介護</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.town.hasami.lg.jp/list00308.html">
+                                            <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/life8.png" alt="おくやみ" title=""><span class="life_text">おくやみ</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="link__block">
+                            <div class="block__header">
+                                <h3><i class="fas fa-bookmark"></i><span>各専用サイトはこちら</span></h3>
+                            </div>
+                            <div class="link__content">
+                                <div class="link__item"><a href="https://www.town.hasami.lg.jp/bousai/default.html"><i class="fas fa-arrow-circle-right fa-fw"></i> 防災サイト</a></div>
+                                <div class="link__item"><a href="https://www.town.hasami.lg.jp/list00571.html"><i class="fas fa-arrow-circle-right fa-fw"></i> 子育てナビ</a></div>
+                                <div class="link__item"><a href="https://www.town.hasami.lg.jp/rekishi/default.html"><i class="fas fa-arrow-circle-right fa-fw"></i> 歴史文化交流館</a></div>
+                            </div>
+                        </div>
+                        <div class="link__block">
+                            <div class="block__header">
+                                <h3><i class="fas fa-bookmark"></i><span>便利な機能</span></h3>
+                            </div>
+                            <div class="link__content">
+                                <div class="link__item"><a href="https://www.town.hasami.lg.jp/list00107.html"><i class="fas fa-arrow-circle-right fa-fw"></i> 申請・届出</a></div>
+                                <div class="link__item"><a href="https://k5.p-kashikan.jp/town-hasami/" target="_blank"><i class="fas fa-arrow-circle-right fa-fw"></i> 公共施設予約</a></div>
+                                <div class="link__item"><a href="https://www.town.hasami.lg.jp/list00109.html"><i class="fas fa-arrow-circle-right fa-fw"></i> ごみ出し</a></div>
+                                <div class="link__item"><a href="https://www.town.hasami.lg.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3"><i class="fas fa-arrow-circle-right fa-fw"></i> イベントカレンダー</a></div>
+                                <div class="link__item"><a href="https://www.town.hasami.lg.jp/dynamic/ranking/pub/default.aspx?c_id=9"><i class="fas fa-arrow-circle-right fa-fw"></i> アクセスランキング</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- global navigation start -->
+        <!-- グローバルナビゲーション -->
+        <nav>
+            <div id="GlobalNavigationBlock">
+                
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,ul.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("ul.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("ul#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+
+    jQuery(window).on('load', function () {
+        var nvObj = jQuery('#naviContainer');
+        if (jQuery(nvObj)) {
+            var nvObjOffsetTop = 0;
+            if (nvObj.offset() != null) {
+                nvObjOffsetTop = nvObj.offset().top;
+            }
+            var nvObjOuterHeight = 0;
+            if (nvObj.outerHeight(true) != null) {
+                nvObjOuterHeight = nvObj.outerHeight(true);
+            }
+            //console.log('nvObjOffsetTop=' + nvObjOffsetTop + ', nvObjOuterHeight=' + nvObjOuterHeight);
+
+            var setMaxHeight = jQuery(window).innerHeight() - (nvObjOffsetTop + nvObjOuterHeight + 5);
+            //console.log('setMaxHeight=' + setMaxHeight);
+
+            jQuery('#popNaviArea ul.g_navi').each(function () {
+                jQuery(this).css('max-height', setMaxHeight + 'px');
+                jQuery(this).css('overflow-y', 'auto');
+            });
+        }
+    });
+
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list">
+            <li class="navi_tab exsistpic " id="navi_tab_101"
+                data-global="101">
+                <div>
+                    <a href="//www.town.hasami.lg.jp/list00101.html" tabindex="10" >
+                        <img src="//www.town.hasami.lg.jp/common/upload/hpkiji/101_class_globalnavi_r0tpq2pt.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_101">くらし・手続き</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic " id="navi_tab_102"
+                data-global="102">
+                <div>
+                    <a href="//www.town.hasami.lg.jp/list00102.html" tabindex="52" >
+                        <img src="//www.town.hasami.lg.jp/common/upload/hpkiji/102_class_globalnavi_grqq0dke.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_102">健康・福祉</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic " id="navi_tab_103"
+                data-global="103">
+                <div>
+                    <a href="//www.town.hasami.lg.jp/list00103.html" tabindex="80" >
+                        <img src="//www.town.hasami.lg.jp/common/upload/hpkiji/103_class_globalnavi_g6rgyr6m.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_103">子育て・教育</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic " id="navi_tab_104"
+                data-global="104">
+                <div>
+                    <a href="//www.town.hasami.lg.jp/list00104.html" tabindex="93" >
+                        <img src="//www.town.hasami.lg.jp/common/upload/hpkiji/104_class_globalnavi_yjouseq0.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_104">まちの魅力</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic " id="navi_tab_105"
+                data-global="105">
+                <div>
+                    <a href="//www.town.hasami.lg.jp/list00105.html" tabindex="110" >
+                        <img src="//www.town.hasami.lg.jp/common/upload/hpkiji/105_class_globalnavi_e6g5pk6c.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_105">しごと</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab exsistpic navi_tab_last" id="navi_tab_106"
+                data-global="106">
+                <div>
+                    <a href="//www.town.hasami.lg.jp/list00106.html" tabindex="129" >
+                        <img src="//www.town.hasami.lg.jp/common/upload/hpkiji/106_class_globalnavi_yudv31jc.png" style="max-width:54px;max-height:40px" alt="" title="" /><p id="navi_tab_text_106">町政</p>
+                    </a>
+                </div>
+             </li>
+        </ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <ul class="g_navi " id="g_navi_101" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="107">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00107.html" tabindex="11" >届出・各種証明</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="107">
+                        
+                        
+                                <li
+                                    data-global="145">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00145.html" tabindex="12" >証明書の発行　</a>
+                                </li>
+                            
+                                <li
+                                    data-global="146">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00146.html" tabindex="13" >戸籍の届出</a>
+                                </li>
+                            
+                                <li
+                                    data-global="147">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00147.html" tabindex="14" >住所変更（転入・転出）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="148">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00148.html" tabindex="15" >印鑑登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="149">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00149.html" tabindex="16" >マイナンバー・住民基本台帳</a>
+                                </li>
+                            
+                                <li
+                                    data-global="572">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00572.html" tabindex="17" >パスポート申請</a>
+                                </li>
+                            
+                                <li
+                                    data-global="150">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00150.html" tabindex="18" >電子申請・申請書ダウンロード</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="108">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00108.html" tabindex="19" >税金</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="108">
+                        
+                        
+                                <li
+                                    data-global="151">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00151.html" tabindex="20" >税に関するお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="152">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00152.html" tabindex="21" >税の納付・証明</a>
+                                </li>
+                            
+                                <li
+                                    data-global="153">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00153.html" tabindex="22" >軽自動車税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="154">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00154.html" tabindex="23" >個人の住民税、法人町民税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="155">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00155.html" tabindex="24" >固定資産税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="156">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00156.html" tabindex="25" >その他の税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="157">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00157.html" tabindex="26" >ふるさと納税</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="109">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00109.html" tabindex="27" >ごみ・環境</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="109">
+                        
+                        
+                                <li
+                                    data-global="158">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00158.html" tabindex="28" >ごみ・リサイクルのお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="159">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00159.html" tabindex="29" >ごみ出しナビ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="160">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00160.html" tabindex="30" >リサイクル・大型ごみ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="161">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00161.html" tabindex="31" >生活環境・衛生</a>
+                                </li>
+                            
+                                <li
+                                    data-global="162">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00162.html" tabindex="32" >動物・ペット</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="110">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00110.html" tabindex="33" >住まい・まちづくり</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="110">
+                        
+                        
+                                <li
+                                    data-global="163">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00163.html" tabindex="34" >住まい・土地</a>
+                                </li>
+                            
+                                <li
+                                    data-global="164">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00164.html" tabindex="35" >道路・河川・公園</a>
+                                </li>
+                            
+                                <li
+                                    data-global="165">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00165.html" tabindex="36" >上下水道</a>
+                                </li>
+                            
+                                <li
+                                    data-global="166">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00166.html" tabindex="37" >公共交通</a>
+                                </li>
+                            
+                                <li
+                                    data-global="167">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00167.html" tabindex="38" >移住・定住</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="111">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00111.html" tabindex="39" >地域づくり・住民参画</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="111">
+                        
+                        
+                                <li
+                                    data-global="168">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00168.html" tabindex="40" >自治会・地域交流</a>
+                                </li>
+                            
+                                <li
+                                    data-global="169">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00169.html" tabindex="41" >地域づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="170">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00170.html" tabindex="42" >住民活動・ボランティア</a>
+                                </li>
+                            
+                                <li
+                                    data-global="590">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00590.html" tabindex="43" >男女共同参画</a>
+                                </li>
+                            
+                                <li
+                                    data-global="171">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00171.html" tabindex="44" >国際交流</a>
+                                </li>
+                            
+                                <li
+                                    data-global="591">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00591.html" tabindex="45" >多文化共生</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="112">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00112.html" tabindex="46" >防災・消防</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="113">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00113.html" tabindex="47" >安心のために</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="113">
+                        
+                        
+                                <li
+                                    data-global="172">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00172.html" tabindex="48" >地域の防犯・交通安全</a>
+                                </li>
+                            
+                                <li
+                                    data-global="173">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00173.html" tabindex="49" >消費生活相談</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="114">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00114.html" tabindex="50" >町内施設予約</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="114">
+                        
+                        
+                                <li
+                                    data-global="264">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00264.html" tabindex="51" >施設予約システム</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_102" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="115">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00115.html" tabindex="53" >医療・予防・健康</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="115">
+                        
+                        
+                                <li
+                                    data-global="174">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00174.html" tabindex="54" >注意喚起</a>
+                                </li>
+                            
+                                <li
+                                    data-global="175">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00175.html" tabindex="55" >医療</a>
+                                </li>
+                            
+                                <li
+                                    data-global="176">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00176.html" tabindex="56" >休日当番医</a>
+                                </li>
+                            
+                                <li
+                                    data-global="177">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00177.html" tabindex="57" >予防接種</a>
+                                </li>
+                            
+                                <li
+                                    data-global="178">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00178.html" tabindex="58" >健診</a>
+                                </li>
+                            
+                                <li
+                                    data-global="179">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00179.html" tabindex="59" >健康づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="180">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00180.html" tabindex="60" >その他相談</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="116">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00116.html" tabindex="61" >介護保険</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="116">
+                        
+                        
+                                <li
+                                    data-global="181">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00181.html" tabindex="62" >介護が必要なとき</a>
+                                </li>
+                            
+                                <li
+                                    data-global="182">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00182.html" tabindex="63" >介護保険料</a>
+                                </li>
+                            
+                                <li
+                                    data-global="183">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00183.html" tabindex="64" >介護保険サービス</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="117">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00117.html" tabindex="65" >年金・健康保険</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="117">
+                        
+                        
+                                <li
+                                    data-global="184">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00184.html" tabindex="66" >国民年金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="185">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00185.html" tabindex="67" >国民健康保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="186">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00186.html" tabindex="68" >後期高齢者医療</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="118">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00118.html" tabindex="69" >障がい者支援</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="118">
+                        
+                        
+                                <li
+                                    data-global="187">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00187.html" tabindex="70" >手帳を取得する</a>
+                                </li>
+                            
+                                <li
+                                    data-global="188">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00188.html" tabindex="71" >各種支援手続き</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="119">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00119.html" tabindex="72" >高齢者支援</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="119">
+                        
+                        
+                                <li
+                                    data-global="189">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00189.html" tabindex="73" >高齢者向けサービス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="190">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00190.html" tabindex="74" >認知症支援</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="120">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00120.html" tabindex="75" >地域福祉・支援窓口</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="120">
+                        
+                        
+                                <li
+                                    data-global="191">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00191.html" tabindex="76" >地域包括支援センター</a>
+                                </li>
+                            
+                                <li
+                                    data-global="192">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00192.html" tabindex="77" >生活保護</a>
+                                </li>
+                            
+                                <li
+                                    data-global="193">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00193.html" tabindex="78" >給付金・助成金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="194">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00194.html" tabindex="79" >福祉支援・相談窓口</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_103" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="121">
+                            
+                            <a href="https://www.town.hasami.lg.jp/list00571.html" tabindex="81" >子育てナビ</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="122">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00122.html" tabindex="82" >教育委員会</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="122">
+                        
+                        
+                                <li
+                                    data-global="195">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00195.html" tabindex="83" >教育方針</a>
+                                </li>
+                            
+                                <li
+                                    data-global="196">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00196.html" tabindex="84" >定例会議事録</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="123">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00123.html" tabindex="85" >社会教育</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="123">
+                        
+                        
+                                <li
+                                    data-global="197">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00197.html" tabindex="86" >生涯学習</a>
+                                </li>
+                            
+                                <li
+                                    data-global="198">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00198.html" tabindex="87" >青少年健全育成会議</a>
+                                </li>
+                            
+                                <li
+                                    data-global="199">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00199.html" tabindex="88" >公民館活動</a>
+                                </li>
+                            
+                                <li
+                                    data-global="586">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00586.html" tabindex="89" >スポーツ振興補助金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="569">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00569.html" tabindex="90" >部活動地域移行</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="124">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00124.html" tabindex="91" >波佐見町図書館</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="124">
+                        
+                        
+                                <li
+                                    data-global="200">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00200.html" tabindex="92" >図書館利用案内</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_104" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="125">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00125.html" tabindex="94" >イベント</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="125">
+                        
+                        
+                                <li
+                                    data-global="202">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00202.html" tabindex="95" >イベントカレンダー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="203">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00203.html" tabindex="96" >文化イベント</a>
+                                </li>
+                            
+                                <li
+                                    data-global="204">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00204.html" tabindex="97" >スポーツイベント</a>
+                                </li>
+                            
+                                <li
+                                    data-global="205">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00205.html" tabindex="98" >観光イベント</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="126">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00126.html" tabindex="99" >まちのブランド</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="126">
+                        
+                        
+                                <li
+                                    data-global="206">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00206.html" tabindex="100" >波佐見焼</a>
+                                </li>
+                            
+                                <li
+                                    data-global="207">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00207.html" tabindex="101" >西の原</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="127">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00127.html" tabindex="102" >文化財・史跡</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="128">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00128.html" tabindex="103" >見る・体験する</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="128">
+                        
+                        
+                                <li
+                                    data-global="208">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00208.html" tabindex="104" >やきもの関連</a>
+                                </li>
+                            
+                                <li
+                                    data-global="209">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00209.html" tabindex="105" >景観・名所</a>
+                                </li>
+                            
+                                <li
+                                    data-global="210">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00210.html" tabindex="106" >体験プログラム</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="129">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00129.html" tabindex="107" >歴史文化交流館</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="130">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00130.html" tabindex="108" >観光情報</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="131">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00131.html" tabindex="109" >フォトギャラリー</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_105" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="132">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00132.html" tabindex="111" >入札・契約</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="132">
+                        
+                        
+                                <li
+                                    data-global="211">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00211.html" tabindex="112" >入札参加登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="212">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00212.html" tabindex="113" >入札公告・結果</a>
+                                </li>
+                            
+                                <li
+                                    data-global="213">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00213.html" tabindex="114" >発注見通し</a>
+                                </li>
+                            
+                                <li
+                                    data-global="214">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00214.html" tabindex="115" >入札・契約関係様式</a>
+                                </li>
+                            
+                                <li
+                                    data-global="215">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00215.html" tabindex="116" >入札関連のお知らせ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="133">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00133.html" tabindex="117" >事業者・就労者支援</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="133">
+                        
+                        
+                                <li
+                                    data-global="216">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00216.html" tabindex="118" >経営・創業支援・相談窓口</a>
+                                </li>
+                            
+                                <li
+                                    data-global="217">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00217.html" tabindex="119" >就労支援・求人情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="218">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00218.html" tabindex="120" >人材育成・職業訓練</a>
+                                </li>
+                            
+                                <li
+                                    data-global="219">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00219.html" tabindex="121" >各種支援施策（補助金等）</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="134">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00134.html" tabindex="122" >企業誘致・支援</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="134">
+                        
+                        
+                                <li
+                                    data-global="220">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00220.html" tabindex="123" >土地の開発・取引</a>
+                                </li>
+                            
+                                <li
+                                    data-global="221">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00221.html" tabindex="124" >誘致への補助支援策</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="135">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00135.html" tabindex="125" >産業</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="135">
+                        
+                        
+                                <li
+                                    data-global="222">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00222.html" tabindex="126" >農業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="223">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00223.html" tabindex="127" >林業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="224">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00224.html" tabindex="128" >窯業・商工業</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_106" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="136">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00136.html" tabindex="130" >まちの概要</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="136">
+                        
+                        
+                                <li
+                                    data-global="225">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00225.html" tabindex="131" >まちの紹介</a>
+                                </li>
+                            
+                                <li
+                                    data-global="226">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00226.html" tabindex="132" >統計・オープンデータ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="227">
+                                    
+                                    <a href="https://www.town.hasami.lg.jp/dynamic/statistics/pub/default.aspx?c_id=17" tabindex="133" >ひとのうごき</a>
+                                </li>
+                            
+                                <li
+                                    data-global="228">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00228.html" tabindex="134" >例規集</a>
+                                </li>
+                            
+                                <li
+                                    data-global="229">
+                                    
+                                    <a href="https://www.town.hasami.lg.jp/dynamic/info/pub/default.aspx?c_id=18" tabindex="135" >施設案内</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="137">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00137.html" tabindex="136" >町長室</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="137">
+                        
+                        
+                                <li
+                                    data-global="230">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00230.html" tabindex="137" >町長あいさつ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="138">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00138.html" tabindex="138" >町議会</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="138">
+                        
+                        
+                                <li
+                                    data-global="231">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00231.html" tabindex="139" >議会について</a>
+                                </li>
+                            
+                                <li
+                                    data-global="232">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00232.html" tabindex="140" >議員の紹介</a>
+                                </li>
+                            
+                                <li
+                                    data-global="233">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00233.html" tabindex="141" >会議情報（定例会・臨時会）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="234">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00234.html" tabindex="142" >議会広報誌</a>
+                                </li>
+                            
+                                <li
+                                    data-global="235">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00235.html" tabindex="143" >議会からのお知らせ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="139">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00139.html" tabindex="144" >行政・財政</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="139">
+                        
+                        
+                                <li
+                                    data-global="236">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00236.html" tabindex="145" >予算・決算</a>
+                                </li>
+                            
+                                <li
+                                    data-global="237">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00237.html" tabindex="146" >財政状況</a>
+                                </li>
+                            
+                                <li
+                                    data-global="238">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00238.html" tabindex="147" >施策・計画・取り組み</a>
+                                </li>
+                            
+                                <li
+                                    data-global="239">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00239.html" tabindex="148" >方針・指針</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="140">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00140.html" tabindex="149" >広報・広聴</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="140">
+                        
+                        
+                                <li
+                                    data-global="240">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00240.html" tabindex="150" >まちの話題</a>
+                                </li>
+                            
+                                <li
+                                    data-global="241">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00241.html" tabindex="151" >広報はさみ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="242">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00242.html" tabindex="152" >公式SNS</a>
+                                </li>
+                            
+                                <li
+                                    data-global="243">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00243.html" tabindex="153" >はちゃまるのお部屋</a>
+                                </li>
+                            
+                                <li
+                                    data-global="244">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00244.html" tabindex="154" >プロモーション</a>
+                                </li>
+                            
+                                <li
+                                    data-global="245">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00245.html" tabindex="155" >町の広告事業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="246">
+                                    
+                                    <a href="https://www.town.hasami.lg.jp/dynamic/entry/pub/default.aspx?c_id=29" tabindex="156" >ご意見募集</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="141">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00141.html" tabindex="157" >情報公開・お知らせ</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="141">
+                        
+                        
+                                <li
+                                    data-global="247">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00247.html" tabindex="158" >報道発表資料</a>
+                                </li>
+                            
+                                <li
+                                    data-global="248">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00248.html" tabindex="159" >情報開示と個人情報保護</a>
+                                </li>
+                            
+                                <li
+                                    data-global="573">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00573.html" tabindex="160" >町内イベント情報配信メール登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="249">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00249.html" tabindex="161" >ホームページについて</a>
+                                </li>
+                            
+                                <li
+                                    data-global="250">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00250.html" tabindex="162" >プライバシーポリシー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="251">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00251.html" tabindex="163" >情報がみつからないときは</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="142">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00142.html" tabindex="164" >職員採用・人事</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="142">
+                        
+                        
+                                <li
+                                    data-global="252">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00252.html" tabindex="165" >人事・給与</a>
+                                </li>
+                            
+                                <li
+                                    data-global="253">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00253.html" tabindex="166" >職員採用・募集</a>
+                                </li>
+                            
+                                <li
+                                    data-global="254">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00254.html" tabindex="167" >コンプライアンス</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="143">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00143.html" tabindex="168" >選挙</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="143">
+                        
+                        
+                                <li
+                                    data-global="255">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00255.html" tabindex="169" >選挙管理委員会からのお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="256">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00256.html" tabindex="170" >選挙制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="257">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00257.html" tabindex="171" >選挙の結果</a>
+                                </li>
+                            
+                                <li
+                                    data-global="258">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00258.html" tabindex="172" >啓発・広報（明るい選挙）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="259">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00259.html" tabindex="173" >選挙管理委員会</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="144">
+                            
+                            <a href="//www.town.hasami.lg.jp/list00144.html" tabindex="174" >監査</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="144">
+                        
+                        
+                                <li
+                                    data-global="260">
+                                    
+                                    <a href="//www.town.hasami.lg.jp/list00260.html" tabindex="175" >監査事務局</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl31$GlobalNavigation$HidErrMsg" id="ctl00_ctl31_GlobalNavigation_HidErrMsg" />
+
+                <div id="globalNavigationData" data-classid="" data-parentid="" data-topid=""></div>
+                <div id="ctl00_ctl31_globalNavigationData"></div>
+            </div>
+        </nav>
+
+        <!-- global navigation end -->
+        <!-- header end -->
+        <a name="mainContent"></a>
+    </div>
+    <div id="headerAreaDef_margin"></div>
+</header>
+
+</div><!-- allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu"><div id="pankuzuArea" data-categoryid="3" data-kijiid="1442" data-subid="1" data-topid="0" data-preview="OFF"></div></div>
+</div>
+
+
+<div id="container">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+<script type="text/javascript" language="javascript">
+<!--
+const pageAnchorButtonElementName = "page_anchor_list_button";
+const pageAnchorListElementName = "page_anchor_link_list";
+const pageAnchorButtonImageElementName = "toggle_icon";
+
+const pageAnchorListClassName = "page_anchor_link_list_hidden";
+const pageAnchorListButtonHiddenClassName = "page_anchor_list_button_hidden";
+const pageAnchorButtonImagePlusClassName = "toggle_icon_plus";
+const pageAnchorButtonImageMinusClassName = "toggle_icon_minus";
+
+document.addEventListener("DOMContentLoaded", function () {
+    // 画面サイズに応じて基にするサイト情報の値を決める
+    var screenWidth = window.innerWidth;
+    var pageAnchorButtonStatus = 0;
+
+    if (screenWidth > 768) {
+        pageAnchorButtonStatus = parseInt("0", 10);
+    }
+    else {
+        pageAnchorButtonStatus = parseInt("0", 10);
+    }
+
+    if (isNaN(pageAnchorButtonStatus)) {
+        pageAnchorButtonStatus = 0;
+    }
+    else if (pageAnchorButtonStatus > 2) {
+        pageAnchorButtonStatus = 0;
+    }
+
+    // ページ内目次の要素を取得する
+    var pageAnchorButtonElement = document.getElementById(pageAnchorButtonElementName);
+    var pageAnchorListElement = document.getElementById(pageAnchorListElementName);
+    var pageAnchorButtonImageElement = document.getElementById(pageAnchorButtonImageElementName);
+
+    // 要素が取得できた場合のみ処理を行う
+    if (pageAnchorButtonElement && pageAnchorListElement && pageAnchorButtonImageElement) {
+        if (pageAnchorButtonStatus == 0) {
+            pageAnchorButtonImageElement.classList.add(pageAnchorButtonImagePlusClassName);
+        }
+        else if (pageAnchorButtonStatus == 1) {
+            if (pageAnchorListElement.classList.contains(pageAnchorListClassName)) {
+                pageAnchorListElement.classList.remove(pageAnchorListClassName);
+            }
+            pageAnchorButtonImageElement.classList.add(pageAnchorButtonImageMinusClassName);
+        }
+        else if (pageAnchorButtonStatus == 2) {
+            if (pageAnchorListElement.classList.contains(pageAnchorListClassName)) {
+                pageAnchorListElement.classList.remove(pageAnchorListClassName);
+            }
+            page_anchor_list_button.classList.add(pageAnchorListButtonHiddenClassName);
+        }
+    }
+
+    
+    
+    
+});
+
+
+function toggleUlDisplay() {
+    // ページ内目次の要素を取得する
+    var pageAnchorListElement = document.getElementById(pageAnchorListElementName);
+    var pageAnchorButtonImageElement = document.getElementById(pageAnchorButtonImageElementName);
+
+    // 要素が取得できた場合のみ処理を行う
+    if (pageAnchorListElement && pageAnchorButtonImageElement) {
+
+        // ページ内目次の表示・非表示
+        if (pageAnchorListElement.classList.contains(pageAnchorListClassName)) {
+            pageAnchorListElement.classList.remove(pageAnchorListClassName);
+            pageAnchorButtonImageElement.classList.remove(pageAnchorButtonImagePlusClassName);
+            pageAnchorButtonImageElement.classList.add(pageAnchorButtonImageMinusClassName);
+        }
+        else {
+            pageAnchorListElement.classList.add(pageAnchorListClassName);
+            pageAnchorButtonImageElement.classList.remove(pageAnchorButtonImageMinusClassName);
+            pageAnchorButtonImageElement.classList.add(pageAnchorButtonImagePlusClassName);
+        }
+    }
+}
+
+function DanrakuKirikae(dspNo, allCnt){
+    if(allCnt>0)
+    {
+        for(var i=1; i <= allCnt; ++i)
+        {
+            if(dspNo == i)
+            {
+                 document.getElementById("danraku" + i).style.display = "block";
+                 document.getElementById("dMenu" + i).className = "selected";
+            }
+            else
+            {
+                 document.getElementById("danraku" + i).style.display = "none";
+                 document.getElementById("dMenu" + i).className = "";
+            }
+       
+        }
+    }
+}
+//-->
+</script>
+
+<div style="margin:0px auto;"></div>
+
+
+
+<article>
+    <div id="mainShosai">
+        
+        
+        
+
+        
+        <div class="BottomArea">
+
+            <div class="containerWidth">
+		        <h1 class="title">町指定文化財</h1>
+                
+                <div id="snsButtonArea"></div>
+                <div class="kijiSubInfo">
+                    <div class="updDate">最終更新日：<time datetime="2018-03-23T00:00:00+09:00">2018年3月23日</time></div>
+                    <span class="hpkijiid_shosai">（ID:1442）</span>
+                    <div class="printbtn"><a href="javascript:void(0)" onclick="window.print();return false;"><i class="fas fa-print fa-lg"></i><span> 印刷</span></a></div>
+                    
+                    <div id="kijiKengenArea"></div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+		        		            
+		        
+    		        
+                
+                
+
+		        <div class="danraku" id="danraku1" style="display:block;"><div class="migration"><div id="social-update-area"></div>
+              <div id="contents-in">      
+        
+        
+                <div>
+          <div><h2 class="title">皿山の大神宮石像神殿</h2>
+<div id="ui-id-2"><div><img alt="皿山大神宮石像神殿の写真" src="https://www.town.hasami.lg.jp/kiji0031442/3_1442_1_daijingu2.jpg"><p><strong>皿山大神宮石像神殿</strong></p></div>
+<div><p>皿山大神宮は、室町中期の長享元年（1487）祠を建てて五穀豊穣を祈ったのがはじまりである。石造神殿は、明治初期、名工筒井関平によるもので、その構造・彫刻ともに芸術性が高い。破損が進んでいたが、平成3年(1991)に補修が行われ、当時の姿を今に伝えている</p></div>
+<div style="clear: both;"><div></div></div></div>
+<h2 class="title">浮立</h2>
+<div id="ui-id-5"><div><img alt="浮立の写真" src="https://www.town.hasami.lg.jp/kiji0031442/3_1442_2_huryu2.jpg"><p><strong>浮立</strong></p></div>
+<div><p>日照りで稲田が割れる時、笛・鉦・太鼓をうち鳴らし乙女が踊って雨乞いをしまた、春に豊作を祈り秋の満作を感謝した氏神の祭礼に奉納したのが浮立である。現在、野々川・山中（湯無田）・鬼木・協和の4地区で継承されている。</p></div>
+<div style="clear: both;"><div></div></div></div>
+<h2 class="title">三領石</h2>
+<div id="ui-id-8"><div><img alt="三領石の写真" src="https://www.town.hasami.lg.jp/kiji0031442/3_1442_3_sanryouseki.jpg"><p><strong>三領石</strong></p></div>
+<div><p>寛保2年（1742）に建てられた旧佐賀藩領・大村藩領・平戸藩領の三領境を示す石碑。村木郷の峠にある。三角柱の形状をなし、それぞれの面には三領を示す文字が刻みこまれている。</p></div>
+<div style="clear: both;"><div></div></div></div>
+<h2 class="title">稗ノ尾眼鏡橋</h2>
+<div id="ui-id-15"><div><img alt="稗ノ尾眼鏡橋の写真" src="https://www.town.hasami.lg.jp/kiji0031442/3_1442_4_megane.jpg"><p><strong>稗ノ尾眼鏡橋</strong></p></div>
+<div><p>やきものの産地である永尾・三股両郷を結ぶ橋であったが、明治41年(1908）、陶石・やきもの荷などの重量物を馬車で運搬するために石橋として架け換えられた。 現在は災害工事に伴い、稗ノ尾河川公園内に移築されている。</p></div>
+<div style="clear: both;"><div></div></div></div></div></div>
+        
+        
+            
+              
+                                                                  <!-- 「お問い合わせ先」 -->
+                                                        
+      
+                    
+                     <!-- pdfダウンロード -->
+                  
+  
+                  
+                
+              <!-- //#contents-in  --></div>
+            <!-- //#contents  --></div><div class="clear"></div></div>
+            </div>      
+            
+        </div>
+        <div class="clear"></div>
+    </div>
+</article>
+
+
+<div id="calendarLink">
+    
+</div>
+
+
+<div id="weblioLinkJsArea"></div>
+
+
+<div id="archiveTransitionArea">
+    <div class="archiveTransitionPrev"><a href="">前の記事へ</a></div>
+    <div class="archiveTransitionNext"><a href="">次の記事へ</a></div>
+</div>
+
+
+<div id="classTagsArea"></div>
+
+
+<div id="toiawaseInfo">
+
+    <div class="toiText"><strong>このページに関する<br />お問い合わせは</strong></div>
+    <div class="toiKugiri"></div>
+    <div class="toiData"></div>
+</div>
+
+<div id="hpkijiid_shosai">（ID:1442）</div>
+
+
+<div id="footerSoegakiArea"></div>
+
+
+<div id="shosaiBanArea" data-topid="0" data-dspshosai="0" data-preview="OFF"></div>
+
+
+<div id="recommendArea"></div>
+
+
+<div id="browsingHistoryArea"></div>
+
+<div id="accessCountHpKiji"
+    data-categoryid="3"
+    data-kijiid="1442"
+    data-subid="1"
+    data-topid="0"
+    data-preview="OFF"></div>
+
+<script type="text/javascript" language="javascript">
+    jQuery(function () {
+        jQuery.ajax({
+            type: 'POST',
+            cache: false,
+            url: '//www.town.hasami.lg.jp/dynamic/hpkiji/saverecommend.ashx',
+            data: {
+                "id": 1442,
+                "preview": "OFF"
+            }
+        }).done(function (response) {
+        }).fail(function (response) {
+        });
+    });
+</script>
+
+<script type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/browsinghistory.js"></script>
+<script type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.town.hasami.lg.jp/dynamic/";
+
+        
+        var bannerPrm = {
+            "top_id": jQuery("#shosaiBanArea").attr("data-topid"),
+            "dspShosaiFlg": jQuery("#shosaiBanArea").attr("data-dspshosai"),
+            "preview": jQuery("#shosaiBanArea").attr("data-preview")
+        }
+        set.banner("#shosaiBanArea", bannerPrm);
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "False",
+            "pdfSetsumeiFlg": "ON",
+            "pdfDownloadFlg": "ON"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        
+        jQuery(".toiData").each(function () {
+
+            var toiawasePrm = {
+                "mdl": "85",
+                "c_id": "3",
+                "id": "1442",
+                "sub_id": "1",
+                "top_id": "0",
+                "preview": "OFF"
+            }
+
+            set.toiawase(this, toiawasePrm);
+        });
+
+        
+        var kijiKengenPrm = {
+            "mdl": "85",
+            "grp_id": "16",
+            "ka_no_disp": "0",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.kijiKengen("#kijiKengenArea", kijiKengenPrm);
+
+        
+        var snsButtonPrm = {
+            "c_id": "3",
+            "id": "1442",
+            "sub_id": "1",
+            "ttl": "",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.snsButton("#snsButtonArea", snsButtonPrm);
+
+        
+        var weblioLinkJsPrm = {
+            "c_id": "3"
+        }
+        set.weblioLinkJs("#weblioLinkJsArea", weblioLinkJsPrm);
+
+        
+        var recommendPrm = {
+            "c_id": "3",
+            "id": "1442",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.recommend("#recommendArea", recommendPrm);
+
+        
+        var pankuzuParam = {
+            "c_id": jQuery("#pankuzuArea").attr("data-categoryid"),
+            "class_id": "",
+            "id": jQuery("#pankuzuArea").attr("data-kijiid"),
+            "sub_id": jQuery("#pankuzuArea").attr("data-subid"),
+            "top_id": jQuery("#pankuzuArea").attr("data-topid"),
+            "preview": jQuery("#pankuzuArea").attr("data-preview")
+        }
+        set.pankuzu("#pankuzuArea", "#footerPankuzuArea", pankuzuParam);
+
+        
+        var archiveTransitionParam = {
+            "c_id": "3",
+            "class_id": "",
+            "id": "1442",
+            "wd": "",
+            "sely": "",
+            "selm": "",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.archiveTransition("#archiveTransitionArea", archiveTransitionParam);
+
+        
+        var classTagsParam = {
+            "rootURL":"//www.town.hasami.lg.jp/dynamic/",
+            "c_id": "3",
+            "class_id": "",
+            "id": "1442",
+            "sub_id": jQuery("#pankuzuArea").attr("data-subid"),
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.classTags("#classTagsArea", classTagsParam);
+
+        var accessCountPrm = {
+            "c_id": jQuery("#accessCountHpKiji").attr("data-categoryid"),
+            "id": jQuery("#accessCountHpKiji").attr("data-kijiid"),
+            "sub_id": jQuery("#accessCountHpKiji").attr("data-subid"),
+            "top_id": jQuery("#accessCountHpKiji").attr("data-topid"),
+            "preview": jQuery("#accessCountHpKiji").attr("data-preview")
+        }
+        set.accessCountHpKiji(accessCountPrm);
+    });
+
+    
+    jQuery(function(){
+        var fn_bh = new setBrowsingHistory();
+        fn_bh.rootUrl = "https://www.town.hasami.lg.jp/dynamic/";
+        fn_bh.page_type = "detail";
+        fn_bh.top_id = "0";
+        fn_bh.kiji_id = "1442";
+        fn_bh.preview_type = "OFF";
+        fn_bh.loadBrowsingHistory();
+    });
+</script>
+
+        
+
+     </div> <!-- cont_body end -->
+</div> <!-- mainBlock end -->
+
+
+<div class="clear"></div>
+</div>
+
+
+<!-- allfooter start  -->
+<iframe src="https://www.town.hasami.lg.jp/dynamic/common/kijienqiframe.aspx?c_id=3&amp;id=1442" id="kijiEnqArea" style="border:0px none;" title="kijienq"></iframe>
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+<div id="footerPankuzu">
+    <div id="footerPankuzuArea"></div>
+</div>
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.town.hasami.lg.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.town.hasami.lg.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- footer menu start -->
+
+
+
+<!-- footer menu end -->
+<!-- site info start -->
+<div id="topbtn">
+    <a href="#">
+        <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/pagetop.png" alt="このページの先頭へ" title=""></a>
+</div>
+
+
+<footer>
+    <div id="siteinfo">
+        <div id="toiawasewaku">
+
+            <div class="wrap_foot_left">
+                <div class="footerimg">
+                    <div class="logo">
+                        <img class="footerlogo" src="//www.town.hasami.lg.jp/dynamic/common/images/top1/footerlogo.png" alt="波佐見町" title="">
+                    </div>
+                    <div class="wrap_sns">
+                        <div>
+                            <a href="https://page.line.me/zry3659m" target="_blank">
+                                <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/icon_line.svg" alt="波佐見町公式LINE" title=""></a>
+                        </div>
+                        <div>
+                            <a href="https://www.instagram.com/hasami_town/" target="_blank">
+                                <img src="//www.town.hasami.lg.jp/dynamic/common/images/top1/icon_ins.svg" alt="波佐見町公式Instagram" title=""></a>
+                        </div>
+                    </div>
+                </div>
+                <div id="toiawase">
+                    <div class="add">
+
+                        <div class="inner_add">
+
+                            <div class="con_add">〒859-3791 長崎県東彼杵郡波佐見町宿郷660番地</div>
+                            <div class="tel_fax">
+                                <div class="con_tel">電話番号：0956-85-2111（代表）</div>
+                                <div class="con_fax">FAX：0956-85-5581</div>
+                            </div>
+
+                            
+                        </div>
+
+                        <div class="time">
+                            開庁時間：祝日を除く月曜日から金曜日まで（午前8時30分から午後5時15分）
+                        </div>
+                        <div class="houjin_bango">
+                            法人番号  9000020423238
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="footerMenu">
+                <!-- 問合せ先 -->
+                <ul id="footertextlink">
+                    
+
+                    <li><a href="//www.town.hasami.lg.jp/list00249.html">ホームページについて</a></li>
+                    <li><a href="//www.town.hasami.lg.jp/list00250.html">プライバシーポリシー</a></li>
+                    <li><a href="https://www.town.hasami.lg.jp/dynamic/link_m/pub/default.aspx?c_id=23">リンク集</a></li>
+                    <li><a href="https://www.town.hasami.lg.jp/sitemap.html">サイトマップ</a></li>
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+    <!-- copyright -->
+    <div id="cp" lang="en">
+        ©2025 Hasami Town
+    </div>
+</footer>
+
+
+
+<!-- site info end -->
+
+</div>
+<!-- allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var sitesearch_config = {
+SEARCH_ROOT: 'https://www.town.hasami.lg.jp/dynamic/search/pub/Default.aspx?c_id=2',
+API_ROOT: 'https://hasami.sitesearch1.kumamoto-net.ne.jp/public_api/',
+};
+var sitesearch_ssurl = 'https://hasami.sitesearch1.kumamoto-net.ne.jp/site_search_input_only/';
+var sitesearch_jsurl = sitesearch_ssurl + 'index-input.0c27b256.js';
+var sitesearch_cssurl = sitesearch_ssurl + 'index-input.dbd7ad3a.css';
+sitesearch_req.open('GET', sitesearch_ssurl, true);
+sitesearch_req.send(null);
+//]]>
+</script>
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.town.hasami.lg.jp/dynamic/common/js/ajaxcalforie6.js"></script>
+
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 480;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.town.hasami.lg.jp/dynamic/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.town.hasami.lg.jp/dynamic/";
+            fn.topFlg = "False";
+            fn.topCategoryRootFolder = "";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+            var prm = {
+                "top_id": "",
+                "dspTopFlg": "OFF"
+            }
+            setFloatHeader(prm, "//www.town.hasami.lg.jp/dynamic/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.town.hasami.lg.jp/dynamic/common/images/top1/black-mozi-m.gif", off: "https://www.town.hasami.lg.jp/dynamic/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.town.hasami.lg.jp/dynamic/common/images/top1/black-mozi-l.gif", off: "https://www.town.hasami.lg.jp/dynamic/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

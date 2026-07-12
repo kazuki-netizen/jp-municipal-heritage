@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>伝如来荒神像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>伝如来荒神像</h1>
+    <p class="jmh-id">JMH-242161-0154</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>伊賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>1988-03-17</dd>
+      <dt>所在地</dt><dd>三重県伊賀市長田</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数:1幅。時代:南北朝時代。所有者:西蓮寺。荒神は日本古来の竈神信仰と修験道との習合により成立したもので、その信仰は鎌倉期に始まるとされる。蓮華座の上に三鈷鈴を横たえ、その上に独鈷杵を立てて大円相を描き、その円相内に赤肉身の如来荒神が結跏趺坐した姿で表現されている。如来荒神は二臂にも六臂にも描かれるが、本図は二臂を合掌する姿で描き、朱肉線で描かれた体躯は堂々たるものである。本図には、西蓮寺16世真雅による寛文11年（1671）の修補銘が確認できる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank" rel="noopener">https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d</a><br>
+      形式: opendata &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"伝如来荒神像" (JMH-242161-0154), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.767151, 136.093567], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.767151, 136.093567]).addTo(m);
+  </script>
+</body>
+</html>

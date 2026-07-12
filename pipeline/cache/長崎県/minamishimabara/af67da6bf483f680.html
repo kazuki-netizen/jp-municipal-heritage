@@ -1,0 +1,1889 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	指定文化財（国・県・市） / 南島原市教育委員会 / 長崎県南島原市公式ホームページ
+</title>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a' && elem.tagName!='area' && elem.tagName!='AREA') /* 2011/04/04 a tag OK */
+            {
+                var useMapFlg = false;
+                if (elem.tagName == "img" || elem.tagName == "IMG") {
+                    if (elem.useMap) {
+                        useMapFlg = true;
+                    }
+                }
+                if (!useMapFlg) {
+                    if (event.preventDefault) 
+                    {
+                        event.preventDefault();
+                    } 
+                    else 
+                    {
+                        event.returnValue = false;
+                    }
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+JP:wght@100;400;500;700;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"/><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/fontsizen.css" id="css_fontsize_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/uiw_kyouiku.css" id="css_color" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/uiw_kyouiku.css" id="css_color_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link id="ctl00_minicalendar_css" href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/minicalendar.css" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/jquery.min.js"></script><script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/js.cookie.js"></script><script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/pubfunc.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/jquery-ui.js"></script><script id="ctl00_jquery_easing_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/jquery.scrollfollow.js"></script><script id="ctl00_floatHeader_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/floatheader.js"></script><link id="ctl00_floatHeader_css" href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/floatheader.css" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/kyouiku_body.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/keepsavepage.js"></script><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/keepsavepage.css" id="css_keepSavePage" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/uiw_kyouiku.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<script type='text/javascript'>
+var elementContainerId = "container_14";
+var elementPankuzuId = "pankuzu_14";
+var elementPankuzuInnerId = "pankuzu-inner_14";
+var sideboardRootUrl = "//www.city.minamishimabara.lg.jp/dynamic/kyouiku/";
+var sideboardPortalDsp_flg = true;
+var sideboardPortalDspPrm = {
+"sbkbn": "1"
+}
+var sideboardTopicsDsp_flg = true;
+var sideboardTopicsDspPrm = {
+"sbkbn": "2"
+}
+var sideboardDigestDsp_flg = true;
+var sideboardDigestDspPrm = {
+"sbkbn": "3"
+}
+var sideboardCountdownDsp_flg = true;
+var sideboardCountdownKbn = "4";
+</script><script id="ctl00_web-fonts-with-css_js_all_min_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/web-fonts-with-css/js/all.min.js"></script><script id="ctl00_SideBoard_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/sideboard.js"></script><script id="ctl00_SideBoardApi_js" type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/sideboardapi.js"></script><link id="ctl00_web-fonts-with-css_css_all_min_css" href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/web-fonts-with-css/css/all.min.css" rel="stylesheet" type="text/css" /><link id="ctl00_SideBoard_css" href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/sideboard.css" rel="stylesheet" type="text/css" />
+<!-- google analytics start -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M2K7EYGPYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M2K7EYGPYD');
+  gtag('config', 'UA-74441666-1');
+</script>
+
+<!-- google analytics end -->
+<meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="指定文化財（国・県・市）" /><meta property="og:image" content="https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/ogp/og_image.gif" /><meta property="og:url" content="https://www.city.minamishimabara.lg.jp/kyouiku/list00622.html" /><meta property="og:description" content="指定文化財（国・県・市） / 南島原市教育委員会 / 長崎県南島原市公式ホームページ" /><meta property="og:site_name" content="長崎県南島原市公式ホームページ" /><meta property="og:locality" content="Kumamoto-Shi" /><meta property="og:region" content="Kumamoto" /><meta property="og:country-name" content="Japan" /></head>
+<body class="haikei_14">
+
+<form name="aspnetForm" method="post" action="./list.aspx?c_id=3&amp;class_id=622&amp;class_set_id=7" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="278440BA" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAATJxR1hzd6ARhQq2ctprzgbr/kCtIPg/ZD0i99J79UCIXqi3h4Wlhf4O3vFCjIILWHiw/Wl7GYxqMny95u3KwW1T71SVwNtT63Sod7rhrkzPj8veCtJoOFatskgrqUnHB0=" />
+</div>
+
+<div class="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+
+
+
+<!-- kyouiku allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/header/kyouiku.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/header/kyouiku.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/web-fonts-with-css/js/all.min.js"></script>
+<script type="text/javascript">
+    jQuery.noConflict();
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+            img.src = "//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/menu2.png"
+        }
+    }
+
+    function closeGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            menuDiv.style.display = "none";
+            img.src = "//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/menu.png"
+        }
+    }
+    //　アクセシビリティメニュー開閉
+    function accMenuOpneClose() {
+        jQuery("#accessibility").toggleClass("active");
+        jQuery("#overlay_acc").toggleClass("open");
+        if (jQuery("#accessibility").hasClass("active")) {
+            jQuery("body").addClass("scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".acce_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".acce_head_wp").removeClass("active");
+        }
+    };
+    jQuery(function () {
+        jQuery(document).on('click', function (e) {
+            if (!jQuery(e.target).closest('#acc').length && !jQuery(e.target).closest('#accessibility').length) {
+                // 外側をクリックした場合
+                if (jQuery("#accessibility").hasClass("active")) {
+                    // メニューが開いている場合
+                    // メニューを閉じる
+                    jQuery("#accessibility").removeClass("active");
+                    jQuery("#overlay_acc").removeClass("open");
+                    jQuery("body").removeClass("scroll");
+                    //jQuery("#top_mokuteki").removeClass("active");
+                    jQuery(".acce_head_wp").removeClass("active");
+                }
+            }
+        });
+    });
+
+</script>
+
+<div id="floatmenu">
+
+    <div class="bg_menuarea">
+
+        <div class="menuarea">
+
+
+
+            
+            <div class="headerimgarea">
+                <!-- kyouiku rect start -->
+                <map id="header_img" name="header_img">
+                    <area shape="rect" alt="長崎県南島原市公式ホームページ島原市教育委員会" coords="1,0,560,72" href="https://www.city.minamishimabara.lg.jp/kyouiku/default.html" />
+
+                </map>
+                <!-- kyouiku rect end -->
+
+                
+
+
+                <div id="header">
+                    <!-- kyouiku header start -->
+                    <h1 id="hd_header">
+                        <img id="imgHeader" usemap="#header_img" src="//www.city.minamishimabara.lg.jp/kyouiku/common/upload/common/14_3_header_0qoqxeq6.png" alt="長崎県南島原市公式ホームページ　南島原市教育委員会" style="border-width:0px;" />
+                    </h1>
+                    <!-- kyouiku header end -->
+
+
+
+                </div>
+
+            </div>
+
+
+
+            <div class="menuinner">
+
+
+
+
+
+                <!-- アクセシビリティ・　Foreignlanguage  -->
+                <div id="headerMenu01">
+
+                    <!-- kyouiku foreign language start -->
+                    
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').focus(function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').focus(function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1"><i class="fas fa-globe"></i> Foreign Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://www.city.minamishimabara.lg.jp.e.abk.hp.transer.com/kyouiku/list00622.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://www.city.minamishimabara.lg.jp.c.abk.hp.transer.com/kyouiku/list00622.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://www.city.minamishimabara.lg.jp.t.abk.hp.transer.com/kyouiku/list00622.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                <li><a translate="no" lang="ko" href="https://www.city.minamishimabara.lg.jp.k.abk.hp.transer.com/kyouiku/list00622.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                
+            </ul>
+        </li>
+    </ul>
+</div>
+
+                    <!-- kyouiku foreign language end -->
+                    <div class="accessibility">
+                        <a id="acc" href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1">アクセシビリティ
+
+              </a>
+                    </div>
+                </div>
+
+
+                <div class="main_search_wrapper">
+
+                    <!-- メインサイトへボタン -->
+                    <div id="mainTop">
+                        <a href="https://www.city.minamishimabara.lg.jp/default.html">行政トップページへ</a>
+                    </div>
+
+
+                    <!-- mainSearch start -->
+                    <div id="mainSearch">
+                        
+                                
+                                
+   
+    <div name="searchver2-input" class="searchver2-input" data-api_url="https://minamishimabarasearch.kumamoto-net.ne.jp/public_api/">
+	  <!--フォームの表示箇所-->
+	</div>
+<script>
+var sitesearch_config = {
+        SEARCH_ROOT: "https://www.city.minamishimabara.lg.jp/dynamic/search/pub/Default.aspx?c_id=2",
+        API_ROOT: "https://minamishimabarasearch.kumamoto-net.ne.jp/public_api/",
+    };
+</script>
+    <script>
+        var req = new XMLHttpRequest();
+        var ssurl = "https://minamishimabarasearch.kumamoto-net.ne.jp/site_search_input_only/"
+        req.onreadystatechange = function () {
+            var searchareas = document.getElementsByName('searchver2-input');
+            for (var i = 0; i < searchareas.length; i++) {
+                if (req.readyState == 4) { // 通信の完了時
+                    if (req.status == 200) { // 通信の成功時
+                        searchareas[i].innerHTML = req.response;
+                        var script = document.createElement("script");
+                        script.async = "async";
+                        script.src = ssurl + "index-input.0c27b256.js";
+                        searchareas[i].appendChild(script);
+
+                        var link = document.createElement("link");
+                        link.async = "async";
+                        link.rel = "stylesheet";
+                        link.type = "text/css";
+                        link.href = ssurl + "index-input.dbd7ad3a.css";
+                        searchareas[i].appendChild(link);
+                    }
+                } else {
+                    searchareas[i].innerHTML = "読込中...";
+                }
+            }
+            
+        }
+
+        req.open('GET', ssurl, true);
+        req.send(null);
+	</script>
+                            
+                    </div>
+                    <!-- mainSearch end -->
+                </div>
+
+            </div>
+        </div>
+        <!-- menuarea end -->
+    </div>
+
+    <!-- グローバルナビゲーションSPプログラム-->
+    
+
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+
+        function dspGlobalMenu() {
+            var menuDiv = document.getElementById("naviContainerSP");
+            var img = document.getElementById("menuImg");
+            if (menuDiv.style.display == "block") {
+                closeGlobalMenu();
+            } else {
+                menuDiv.style.display = "block";
+                //img.src = "//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/kyouiku/hb_close.png";
+            }
+        }
+
+        function closeGlobalMenu() {
+            var menuDiv = document.getElementById("naviContainerSP");
+            var img = document.getElementById("menuImg");
+            if (menuDiv.style.display == "block") {
+                menuDiv.style.display = "none";
+            //img.src = "//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/kyouiku/hb_open.png";
+            }
+        }
+
+        jQuery("#menuImg").click(function () {
+            jQuery("#menuImg").toggleClass('active');
+            dspGlobalMenu();
+        });
+    });
+</script>
+
+
+    <div id="headMenu">
+        <div id="menuImg" class="openbtn"><span></span><span></span><span></span></div>
+    </div>
+    
+    <!-- メニュー -->
+    <div id="naviContainerSP" style="display:none;">
+        <div class="naviAreaSP_upper"></div>
+        <div id="naviAreaSP">
+            <ul id="navi_listSP">
+                    <li class="navi_tab  " id="navi_tabSP_601">
+                        <div>
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00601.html">
+                                
+                                <p>教育委員会</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_602">
+                        <div>
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00602.html">
+                                
+                                <p>学校教育</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_603">
+                        <div>
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00603.html">
+                                
+                                <p>生涯学習・スポーツ振興</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab now " id="navi_tabSP_604">
+                        <div>
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00604.html">
+                                
+                                <p>文化財</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_605">
+                        <div>
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00605.html">
+                                
+                                <p>南島原市の小中学校</p>
+                            </a>
+                        </div>
+                     </li>
+                </ul>
+
+            <div class="topLink"><a href="https://www.city.minamishimabara.lg.jp/default.html">行政トップへ戻る</a></div>
+            
+        </div>
+         <div class="openingLink"><a href="https://www.city.minamishimabara.lg.jp/index.html"><i class="fas fa-undo fa-fw my-brown"></i>  オープニングに戻る</a></div>
+    </div>
+
+
+    <div id="headerAreaDef">
+
+       
+            <input type="submit" name="ctl00$ctl35$Dmy" value="" onclick="return false;" id="ctl00_ctl35_Dmy" style="height:0px;width:0px;position: absolute; top: -100px;" />
+
+
+
+            <!-- グローバルナビゲーション -->
+            <div id="GlobalNavigationBlock">
+                
+                <!-- kyouiku global navigation start -->
+                
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,ul.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("ul.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("ul#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+
+    jQuery(window).on('load', function () {
+        var nvObj = jQuery('#naviContainer');
+        var setMaxHeight = jQuery(window).innerHeight() - (nvObj.offset().top + nvObj.outerHeight(true) + 5);
+        //console.log('setMaxHeight=' + setMaxHeight);
+        jQuery('#popNaviArea ul.g_navi').each(function () {
+            jQuery(this).css('max-height', setMaxHeight + 'px');
+            jQuery(this).css('overflow-y', 'auto');
+        });
+    });
+
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list">
+            <li class="navi_tab  " id="navi_tab_601"
+                data-global="601">
+                <div>
+                    <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00601.html" tabindex="10" >
+                        <p id="navi_tab_text_601">教育委員会</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_602"
+                data-global="602">
+                <div>
+                    <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00602.html" tabindex="16" >
+                        <p id="navi_tab_text_602">学校教育</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_603"
+                data-global="603">
+                <div>
+                    <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00603.html" tabindex="27" >
+                        <p id="navi_tab_text_603">生涯学習・スポーツ振興</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_604"
+                data-global="604">
+                <div>
+                    <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00604.html" tabindex="32" >
+                        <p id="navi_tab_text_604">文化財</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  navi_tab_last" id="navi_tab_605"
+                data-global="605">
+                <div>
+                    <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00605.html" tabindex="35" >
+                        <p id="navi_tab_text_605">南島原市の小中学校</p>
+                    </a>
+                </div>
+             </li>
+        </ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <ul class="g_navi " id="g_navi_601" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="606">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00606.html" tabindex="11" >教育委員</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="607">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00607.html" tabindex="12" >教育委員会会議録</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="608">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00608.html" tabindex="13" >教育振興基本計画</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="609">
+                            
+                            <a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034623/index.html" tabindex="14" >自己点検・評価報告書</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="610">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00610.html" tabindex="15" >奨学資金</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_602" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="611">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00611.html" tabindex="17" >学校教育</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="612">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00612.html" tabindex="18" >学校再編</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="613">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00613.html" tabindex="19" >学校施設</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="614">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00614.html" tabindex="20" >入学・転校の手続きなど</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="615">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00615.html" tabindex="21" >通学区域</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="723">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00723.html" tabindex="22" >通学路交通安全プログラム</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="616">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00616.html" tabindex="23" >就学援助</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="618">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00618.html" tabindex="24" >学校給食</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="617">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00617.html" tabindex="25" >学びの支援</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="724">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00724.html" tabindex="26" >中学校部活動地域移行</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_603" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="619">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00619.html" tabindex="28" >生涯学習</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="620">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00620.html" tabindex="29" >スポーツ・社会体育</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="621">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00621.html" tabindex="30" >Ｂ＆Ｇ海洋センター</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="735">
+                            
+                            <a href="https://www.city.minamishimabara.lg.jp/kyouiku/list00724.html" tabindex="31" >中学校部活動地域移行</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_604" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="622">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00622.html" tabindex="33" >指定文化財（国・県・市）</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="623">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00623.html" tabindex="34" >申請・届出など</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_605" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="624">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00624.html" tabindex="36" >学校一覧</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="625">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00625.html" tabindex="37" >深江町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="626">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00626.html" tabindex="38" >布津町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="627">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00627.html" tabindex="39" >有家町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="628">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00628.html" tabindex="40" >西有家町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="629">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00629.html" tabindex="41" >北有馬町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="630">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00630.html" tabindex="42" >南有馬町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="631">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00631.html" tabindex="43" >口之津町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="632">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00632.html" tabindex="44" >加津佐町</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="633">
+                            
+                            <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00633.html" tabindex="45" >フォトニュース</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl35$GlobalNavigation$HidErrMsg" id="ctl00_ctl35_GlobalNavigation_HidErrMsg" />
+
+
+
+                <div id="globalNavigationData" data-classid="622" data-parentid="604" data-topid="604"></div>
+                <div id="ctl00_ctl35_globalNavigationData"></div>
+                <!-- kyouiku global navigation end -->
+            </div>
+
+
+        
+        <!--<div class="headerMenu_wrapper">-->
+        <div class="clear"></div>
+
+
+
+        <!-- アクセシビリティメニュー start -->
+        <div id="headmenu03">
+            <div id="accessibility">
+                <div class="acce_head_wp">
+                    <div class="overlay_acc" id="overlay_acc">
+                        <div id="accmenu_close">
+                            <div><a href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                        </div>
+
+
+                        <div class="acc_wp acc_wp clearfix">
+
+                            <div id="mainFontSizeSel">
+                                <span>文字サイズ変更</span>
+                                <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                                    <img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                            </div>
+                            <div id="changeHaikei">
+                                <span>背景色変更</span>
+                                <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                                    <img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                            </div>
+                            
+                            <div class="clear"></div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="floatmenu_margin"></div>
+
+<div class="btn_bar">
+    <div class="bar_item"><a href="https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/entry/pub/ansform.aspx?c_id=34&entry_ins=1">
+        <img src="https://www.city.minamishimabara.lg.jp/dynamic//kyouiku/common/images/kyouiku/btn_toiawase.png" alt="お問い合わせ" title=""></a></div>
+</div>
+</div><!-- kyouiku allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu_14"><div class="pankuzu-inner_14"><ul class="pankuzu-item">
+<li><a href="https://www.city.minamishimabara.lg.jp/kyouiku/default.html" class='sizeA' >南島原市教育委員会</a></li>
+<li><a href="//www.city.minamishimabara.lg.jp/kyouiku/classset007.html" class='sizeA' >分類から探す（教育委員会）</a></li>
+<li><a href="//www.city.minamishimabara.lg.jp/kyouiku/list00604.html" class='sizeA' >文化財</a></li>
+<li>指定文化財（国・県・市）</li>
+</ul>
+</div></div>
+</div>
+
+
+<div id="container_14">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+
+<script src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/jquery.autopager-1.0.0.js" type="text/javascript"></script>
+
+
+
+
+
+<div style="text-align:center;"></div>
+
+<div class="wideMenu">
+
+<h1 class="classTitle">
+    指定文化財（国・県・市）
+
+    
+</h1>
+
+
+
+
+
+
+
+
+<div id="rightBanArea" data-topid="14" data-classid="622" data-dspclass="1" data-preview="OFF"></div>
+<div class="clear"></div>
+
+
+
+
+ 
+
+
+
+
+
+    <div class="kijiArea kanrenKijiArea KijiAreaType">
+        
+       
+                
+        <div class="kensu" style="display:none;">全14件</div>
+        
+        <ul class="kijilist KijiListType fullKijiList">
+            <li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年10月4日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034732/index.html" id="loadboxlisttop1">市指定文化財</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年9月12日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034731/index.html">県指定文化財</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年9月1日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034731/index.html" target="_blank">県指定文化財&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年8月30日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034732/index.html" target="_blank">市指定文化財&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年8月2日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034730/index.html" target="_blank">国指定文化財&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年8月2日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0031574/index.html">原城跡発掘情報</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年8月2日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034894/index.html">【お知らせ】ごみのポイ捨てや喫煙に関する罰則の適用について</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年5月6日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034730/index.html">国指定文化財</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2020年6月17日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0038271/3_8271_shiryou1_x1d473kg.jpg" target="_blank" style="text-decoration: none;"><img src="https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/icon/icon_doc.gif" alt="" title=""   style="vertical-align:middle;" />&nbsp;<span style="text-decoration: underline;">旧長崎税関口之津支署庁舎（長崎県指定有形文化財）</span><span class="sizeAs">（ファイル：338.9キロバイト）</span>&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2020年6月17日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0038276/3_8276_shiryou1_nilnlup3.jpg" target="_blank" style="text-decoration: none;"><img src="https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/icon/icon_doc.gif" alt="" title=""   style="vertical-align:middle;" />&nbsp;<span style="text-decoration: underline;">山田右衛門作住居跡（供養塔）</span><span class="sizeAs">（ファイル：354.2キロバイト）</span>&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2020年6月17日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0038279/3_8279_shiryou1_yiwoilvx.jpg" target="_blank" style="text-decoration: none;"><img src="https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/icon/icon_doc.gif" alt="" title=""   style="vertical-align:middle;" />&nbsp;<span style="text-decoration: underline;">南蛮船来航の地（長崎県指定史跡）</span><span class="sizeAs">（ファイル：361.9キロバイト）</span>&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2020年6月17日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0038280/3_8280_shiryou1_unijl1b4.jpg" target="_blank" style="text-decoration: none;"><img src="https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/icon/icon_doc.gif" alt="" title=""   style="vertical-align:middle;" />&nbsp;<span style="text-decoration: underline;">口之津町白浜のキリシタン墓碑（長崎県指定史跡）</span><span class="sizeAs">（ファイル：287.5キロバイト）</span>&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2020年6月17日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0038281/3_8281_shiryou1_vbgx1kvh.jpg" target="_blank" style="text-decoration: none;" id="loadboxlisttop2"><img src="https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/icon/icon_doc.gif" alt="" title=""   style="vertical-align:middle;" />&nbsp;<span style="text-decoration: underline;">あこう群落（市指定天然記念物）</span><span class="sizeAs">（ファイル：398.1キロバイト）</span>&nbsp;<img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2009年7月31日更新</span><div class="title">
+        <p class="img"></p>
+<a href="https://www.city.minamishimabara.lg.jp/kyouiku/kiji0034923/index.html">原城跡</a>
+        <br /><span class="tag"></span>
+        <div class="gaiyou"></div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+
+        </ul>
+        
+        <div class="clear"></div>
+        <div class="more" id="nextload1" style=" display:none;">
+            <a href=""  rel="next1">もっと見る</a>
+        </div>
+        <div id="loadmoreajaxloader1" style="display: none;text-align:center;">
+            <img src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/loading.gif" alt="ロード中" />
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="hideMenu">
+    
+        <ul id="classMenuArea">
+        
+            <li class="selected">
+                <span>指定文化財（国・県・市）</span>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow622"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(622);">
+                        <img id="arrow622" class="naviSpreadBtn" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub622" style="display:none;">
+                
+            </li>
+        
+            <li class="">
+                <a href="//www.city.minamishimabara.lg.jp/kyouiku/list00623.html">申請・届出など</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow623"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(623);">
+                        <img id="arrow623" class="naviSpreadBtn" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub623" style="display:none;">
+                
+            </li>
+        
+        </ul>
+        
+
+    
+
+    
+    
+    
+
+    
+    <div id="leftBanArea" data-topid="14" data-classid="622" data-dspclass="1" data-preview="OFF"></div>
+</div>
+<div class="clear"></div>
+
+<div id="footerSoegakiArea"></div>
+
+<div id="accessCountClassContents"
+    data-classsetid="7"
+    data-classid="622"
+    data-topid="14"
+    data-preview="OFF"></div>
+
+
+
+
+<script type="text/javascript">
+jQuery(function() {
+
+    //autopagerの実行関数
+    jQuery.autopager({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox',
+        
+        // もっと見るリンク
+    	link: 'a[rel=next1]',
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload1').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadboxlisttop' + pgNo)[0]) jQuery('#loadboxlisttop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadboxlisttop1')[0]) jQuery('#loadboxlisttop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next1]').click(function(){
+        jQuery.autopager('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+    
+    //autopagerの実行関数
+    jQuery.autopager2({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox2',
+
+        // もっと見るリンク
+    	link: 'a[rel=next2]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload2').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox2listtop' + pgNo)[0]) jQuery('#loadbox2listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox2listtop1')[0]) jQuery('#loadbox2listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next2]').click(function(){
+        jQuery.autopager2('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+
+    //autopagerの実行関数
+    jQuery.autopager3({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox3',
+
+        // もっと見るリンク
+        link: 'a[rel=next3]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload3').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox3listtop' + pgNo)[0]) jQuery('#loadbox3listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox3listtop1')[0]) jQuery('#loadbox3listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+            //added feature to disable 'もっと見る'
+            if(next.url ===undefined){
+                jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+                jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+            }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next3]').click(function(){
+        jQuery.autopager3('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+});
+</script>
+
+<script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/";
+
+        
+        jQuery("#rightMiniCalArea, #leftMiniCalArea").each(function () {
+            var miniCalendarPrm = {
+                "c_id": jQuery(this).attr("data-categoryid"),
+                "class_id": jQuery(this).attr("data-classid")
+            }
+            set.miniCalendar(this, miniCalendarPrm);
+        });
+
+        
+        jQuery(".LeftArea #leftBanArea, .wideMenu #rightBanArea").each(function () {
+            var bannerPrm = {
+                "top_id": jQuery(this).attr("data-topid"),
+                "class_id": jQuery(this).attr("data-classid"),
+                "dspClassFlg": jQuery(this).attr("data-dspclass"),
+                "preview": jQuery(this).attr("data-preview")
+            }
+            set.banner(this, bannerPrm);
+        });
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "True"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        var accessCountPrm = {
+            "class_set_id": jQuery("#accessCountClassContents").attr("data-classsetid"),
+            "class_id": jQuery("#accessCountClassContents").attr("data-classid"),
+            "top_id": jQuery("#accessCountClassContents").attr("data-topid"),
+            "preview": jQuery("#accessCountClassContents").attr("data-preview")
+        }
+        set.accessCountClassContents(accessCountPrm);
+    });
+
+    function checkClassCssType(color){
+        jQuery("#css_class").attr("disabled", (color == "W") ? false : true);
+    }
+
+    /******************************************
+    * メニュー折り畳み
+    *******************************************/
+    function openCloseMenu(mode){
+        if(jQuery('#classMenuAreaSub' + mode).css('display') == 'none'){
+            jQuery('#classMenuAreaSub' + mode).css('display','block');
+            jQuery('#arrow' + mode).attr("src", "http://www.city.minamishimabara.lg.jp/dynamic/kyouiku/hpkiji/images/btnMinus.png");
+            jQuery('#arrow' + mode).attr("alt", "マイナスボタン");  
+        }
+        else{
+            jQuery('#classMenuAreaSub' + mode).css('display','none');
+            jQuery('#arrow' + mode).attr("src", "http://www.city.minamishimabara.lg.jp/dynamic/kyouiku/hpkiji/images/btnPlus.png"); 
+            jQuery('#arrow' + mode).attr("alt", "プラスボタン");  
+            //            jQuery('#arrow' + mode).text('↓');
+        }
+    }
+</script>
+        
+
+     </div> <!-- cont_body -->
+</div> <!-- mainBlock -->
+
+<!-- サイドボード -->
+<!-- kyouiku sideboard start -->
+
+<div id="sideborad_area">
+    <div id="sideBoardWrapper">
+        <div id="sideBoardBlock" tabindex="-1">
+            <div id="sideBoardContainer">
+
+                
+                <div id="sideboardJuyoOshirase" class="artlist">
+                    <h2><i class="fas fa-exclamation-circle fa-lg"></i> 重要なお知らせ</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardCountdown" class="artlist">
+                    <h2><i class="fas fa-bell"></i>カウントダウン</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardDigest" class="artlist">
+                    <h2><i class="fas fa-bell"></i>注目情報</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardTopics" class="artlist">
+                    <h2><i class="fas fa-bell"></i> トピックス</h2>
+                </div>
+                <div class="clear"></div>
+                
+                
+                <div id="mokutekikarasagasu" class="sagasu">
+                    <h2><i class="fas fa-flag"></i> 情報をさがす</h2>
+	                <ul>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.minamishimabara.lg.jp/classset002.html">組織から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.minamishimabara.lg.jp/classset001.html">分類から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.minamishimabara.lg.jp/sitemap.html">サイトマップから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.minamishimabara.lg.jp/classset003.html">ライフイベントから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.minamishimabara.lg.jp/dynamic/ranking/pub/default.aspx?c_id=9">ランキングから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.minamishimabara.lg.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダーから</a></li>
+	                </ul>
+                </div>
+
+                <div class="clear"></div>
+
+                
+                <div id="mitsukaranaitoki">
+                    <div>
+                        <a href="https://www.city.minamishimabara.lg.jp/list00701.html"><i class="fas fa-question-circle fa-lg fa-fw"></i> 情報が見つからないときは</a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<input type="hidden" name="ctl00$SideBoard$HidErrMsg" id="ctl00_SideBoard_HidErrMsg" />
+<!-- kyouiku sideboard end -->
+
+<div class="clear"></div>
+</div>
+
+
+<!-- kyouiku allfooter start  -->
+
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+
+    
+
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/footer/kyouiku.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/css/footer/kyouiku.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- kyouiku footer menu start -->
+
+
+<!-- kyouiku footer menu end -->
+
+<!-- kyouiku site info start -->
+<div id="footerSpBtn">
+    <a href="https://www.city.minamishimabara.lg.jp/default.html"><i class="fas fa-redo"></i>&nbsp;行政TOPへ</a>
+</div>
+<!-- 問合せ先 -->
+<div id="siteinfo">
+    <div id="toiawase">
+        <div class="toiawase_left">
+            <img class="gikai_footerlogo" src="https://www.city.minamishimabara.lg.jp/dynamic//kyouiku/common/images/kyouiku/footer_logo.png" alt="南島原市教育委員会"/>
+        </div>
+        <div class="toiawase_right">
+
+            
+
+                
+                   <span>南島原市教育委員会</span>
+
+                <div class="wrapper_add_toiawase">
+                    <p>〒859-2412  長崎県南島原市南有馬町乙1023番地</p>
+                    <p>【開庁時間】月曜～金曜の午前8時30分～午後5時15分（ただし、祝・休日、12月29日～翌年1月3日を除く）</p>
+                </div>
+
+
+                
+                <div class="wrapper_tel_fax">
+                    <div class="area_tel">
+                        <p><a href="tel:0957-73-6701">0957-73-6701</a></p>
+                    </div>
+                    <div class="area_fax">
+                        <p>0957-85-2767</p>
+                    </div>
+                </div>
+
+                
+            
+        </div>
+    </div>    
+    <!-- copyright -->
+<div id="cp" lang="en">
+    <p>
+        Copyrights(c)2023 Minamishimabara City. All Rights Reserved
+    </p>
+</div>
+<!-- kyouiku site info end -->
+</div>
+
+
+<div class="area_pagetop">
+    <a href="#">
+     <div id="topbtn" class="btn_pagetop">
+        <img src="https://www.city.minamishimabara.lg.jp/dynamic//gikai/common/images/gikai/btn_pagetop.png" alt="ページトップへ戻る" title="">
+    </div>
+        </a>
+</div>
+</div>
+<!-- kyouiku allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/js/ajaxcalforie6.js"></script>
+
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 480;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/";
+            fn.topFlg = "True";
+            fn.topCategoryRootFolder = "kyouiku";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+                var prm = {
+                    "top_id": "14",
+                    "dspTopFlg": "OFF"
+                }
+                setFloatHeader(prm, "//www.city.minamishimabara.lg.jp/dynamic/kyouiku/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/black-mozi-m.gif", off: "https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/black-mozi-l.gif", off: "https://www.city.minamishimabara.lg.jp/dynamic/kyouiku/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

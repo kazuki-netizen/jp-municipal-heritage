@@ -1,0 +1,2424 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	うきは市の文化財 / うきは市
+</title>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a' && elem.tagName!='area' && elem.tagName!='AREA') /* 2011/04/04 a tag OK */
+            {
+                var useMapFlg = false;
+                if (elem.tagName == "img" || elem.tagName == "IMG") {
+                    if (elem.useMap) {
+                        useMapFlg = true;
+                    }
+                }
+                if (!useMapFlg) {
+                    if (event.preventDefault) 
+                    {
+                        event.preventDefault();
+                    } 
+                    else 
+                    {
+                        event.returnValue = false;
+                    }
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/uiw.css" id="css_color" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/uiw.css" id="css_color_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link id="ctl00_minicalendar_css" href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/minicalendar.css" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/jquery.min.js"></script><script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/js.cookie.js"></script><script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/pubfunc.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="https://www.city.ukiha.fukuoka.jp/dynamic/common/js/jquery-ui.js"></script><script id="ctl00_jquery_easing_js" type="text/javascript" src="https://www.city.ukiha.fukuoka.jp/dynamic/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="https://www.city.ukiha.fukuoka.jp/dynamic/common/js/jquery.scrollfollow.js"></script><script id="ctl00_floatHeader_js" type="text/javascript" src="https://www.city.ukiha.fukuoka.jp/dynamic/common/js/floatheader.js"></script><link id="ctl00_floatHeader_css" href="https://www.city.ukiha.fukuoka.jp/dynamic/common/css/floatheader.css" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/default_body.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="https://www.city.ukiha.fukuoka.jp/dynamic/common/js/keepsavepage.js"></script><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/keepsavepage.css" id="css_keepSavePage" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/uiw.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<script type='text/javascript'>
+var elementContainerId = "container";
+var elementPankuzuId = "pankuzu";
+var elementPankuzuInnerId = "pankuzu-inner";
+var sideboardRootUrl = "//www.city.ukiha.fukuoka.jp/dynamic/";
+var sideboardPortalDsp_flg = true;
+var sideboardPortalDspPrm = {
+"sbkbn": "1"
+}
+var sideboardTopicsDsp_flg = true;
+var sideboardTopicsDspPrm = {
+"sbkbn": "2"
+}
+var sideboardDigestDsp_flg = true;
+var sideboardDigestDspPrm = {
+"sbkbn": "3"
+}
+var sideboardCountdownDsp_flg = false;
+var sideboardCountdownKbn = "4";
+</script><script id="ctl00_web-fonts-with-css_js_all_min_js" type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script><script id="ctl00_SideBoard_js" type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/sideboard.js"></script><script id="ctl00_SideBoardApi_js" type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/sideboardapi.js"></script><link id="ctl00_web-fonts-with-css_css_all_min_css" href="//www.city.ukiha.fukuoka.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet" type="text/css" /><link id="ctl00_SideBoard_css" href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/sideboard.css" rel="stylesheet" type="text/css" />
+<!-- google analytics start -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LZDJ8TLD1P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LZDJ8TLD1P');
+  gtag('config', 'UA-222133062-1');
+</script>
+<!-- google analytics end -->
+<meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="うきは市の文化財" /><meta property="og:image" content="https://www.city.ukiha.fukuoka.jp/dynamic/common/UploadFileOutput.ashx?c_id=3&amp;id=5118&amp;set_pic=1&amp;set_file_field=0&amp;folder=hpkiji&amp;file=3_5118_digest1_ESY243VR&amp;ext=jpg&amp;updflWid=1200&amp;updflHei=630" /><meta property="og:url" content="https://www.city.ukiha.fukuoka.jp/kiji0035118/index.html" /><meta property="og:description" content="うきは市の文化財 / うきは市" /><meta property="og:site_name" content="うきは市" /><meta property="og:locality" content="Uukiha-Shi" /><meta property="og:region" content="Fukuoka" /><meta property="og:country-name" content="Japan" /><meta name="keywords" content="うきは市の文化財" /></head>
+<body class="haikei">
+
+<form name="aspnetForm" method="post" action="./detail.aspx?c_id=3&amp;id=5118" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5DD862A" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAQnJVFIHkww9OWkcuqhuQrcr/kCtIPg/ZD0i99J79UCIXqi3h4Wlhf4O3vFCjIILWHiw/Wl7GYxqMny95u3KwW18fz1oLV73qR6Psdkopwrhz3CypEKPvax7JN/tpSP550=" />
+</div>
+
+<div class="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+
+
+
+<!-- allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.city.ukiha.fukuoka.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script>
+<script>
+    jQuery.noConflict();
+    //　ナビゲーションメニュー開閉
+    function nabiMenuOpneClose() {
+        window.scrollTo(0, 0);
+        jQuery("#top_mokuteki").toggleClass("active");
+        jQuery("#overlay").toggleClass("open");
+        if (jQuery("#top_mokuteki").hasClass("active")) {
+            jQuery("body").addClass("no-scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".top_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("no-scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".top_head_wp").removeClass("active");
+        }
+    };
+
+    //　アクセシビリティメニュー開閉
+    function accMenuOpneClose() {
+        jQuery("#accessibility").toggleClass("active");
+        jQuery("#overlay_acc").toggleClass("open");
+        if (jQuery("#accessibility").hasClass("active")) {
+            jQuery("body").addClass("scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".acce_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".acce_head_wp").removeClass("active");
+        }
+    };
+    jQuery(function () {
+        jQuery(document).on('click', function (e) {
+            if (!jQuery(e.target).closest('#acc').length && !jQuery(e.target).closest('#accessibility').length) {
+                // 外側をクリックした場合
+                if (jQuery("#accessibility").hasClass("active")) {
+                    // メニューが開いている場合
+                    // メニューを閉じる
+                    jQuery("#accessibility").removeClass("active");
+                    jQuery("#overlay_acc").removeClass("open");
+                    jQuery("body").removeClass("scroll");
+                    //jQuery("#top_mokuteki").removeClass("active");
+                    jQuery(".acce_head_wp").removeClass("active");
+                }
+            }
+        });
+    });
+
+</script>
+
+
+<div id="headerAreaDef">
+    <input type="submit" name="ctl00$ctl35$Dmy" value="" onclick="return false;" id="ctl00_ctl35_Dmy" style="height:0px;width:0px;position: absolute; top: -100px;" />
+    <!-- rect start -->
+    <map id="header_img" name="header_img">
+        <area shape="rect" alt="うきは市トップへ" coords="0,0,219,78" href="https://www.city.ukiha.fukuoka.jp/default.html" />
+    </map>
+    <!-- rect end -->
+    
+    <div class="function_Area">
+        <div class="functionmenu_area">
+            <!-- foreign language start -->
+            
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').focus(function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').focus(function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1"><i class="fas fa-globe fa-lg my-blue"></i> Foreign Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u=https://www.city.ukiha.fukuoka.jp/kiji0035118/index.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-CN&u=https://www.city.ukiha.fukuoka.jp/kiji0035118/index.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-TW&u=https://www.city.ukiha.fukuoka.jp/kiji0035118/index.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                <li><a translate="no" lang="ko" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=ko&u=https://www.city.ukiha.fukuoka.jp/kiji0035118/index.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                <li><a translate="no" lang="vi" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=vi&u=https://www.city.ukiha.fukuoka.jp/kiji0035118/index.html" target="_blank" tabindex="1">Tiếng việt nam&nbsp;<img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin.gif" alt="Mở cái này với cửa sổ khác" title=""></a></li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+            <!-- foreign language end -->
+            <div class="accessibility"><a id="acc" href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1">アクセシビリティ</a></div>
+            <!-- mainSearch start -->
+            <div id="mainSearch">
+                
+                        
+                        
+   
+    <div name="searchver2-input" class="searchver2-input" data-api_url="https://ukihasearch.kumamoto-net.ne.jp/public_api/">
+	  <!--フォームの表示箇所-->
+	</div>
+<script>
+var sitesearch_config = {
+        SEARCH_ROOT: "https://www.city.ukiha.fukuoka.jp/dynamic/search/pub/Default.aspx?c_id=2",
+        API_ROOT: "https://ukihasearch.kumamoto-net.ne.jp/public_api/",
+    };
+</script>
+    <script>
+        var req = new XMLHttpRequest();
+        var ssurl = "https://ukihasearch.kumamoto-net.ne.jp/site_search_input_only/"
+        req.onreadystatechange = function () {
+            var searchareas = document.getElementsByName('searchver2-input');
+            for (var i = 0; i < searchareas.length; i++) {
+                if (req.readyState == 4) { // 通信の完了時
+                    if (req.status == 200) { // 通信の成功時
+                        searchareas[i].innerHTML = req.response;
+                        var script = document.createElement("script");
+                        script.async = "async";
+                        script.src = ssurl + "index-input.0c27b256.js";
+                        searchareas[i].appendChild(script);
+
+                        var link = document.createElement("link");
+                        link.async = "async";
+                        link.rel = "stylesheet";
+                        link.type = "text/css";
+                        link.href = ssurl + "index-input.dbd7ad3a.css";
+                        searchareas[i].appendChild(link);
+                    }
+                } else {
+                    searchareas[i].innerHTML = "読込中...";
+                }
+            }
+            
+        }
+
+        req.open('GET', ssurl, true);
+        req.send(null);
+	</script>
+                    
+            </div>
+        </div>
+        <div id="navimenu"><a id="toggle" href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1">
+            <img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/navi_menu.png" alt="目的から探す" title="" /></a></div>
+
+    </div>
+
+    <div id="header">
+
+        <!-- header start -->
+        <h1 id="hd_header" class="pc">
+            <img id="imgHeader" usemap="#header_img" src="https://www.city.ukiha.fukuoka.jp/common/upload/common/0_2_header_uw2kujtm.png" alt="うきは市" style="border-width:0px;" />
+        </h1>
+        <h1 id="hd_header02" class="SP">
+            <a href="https://www.city.ukiha.fukuoka.jp/default.html"><img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/head_sp.png" alt="うきは市スマホ版" title=""></a>
+        </h1>
+        <!-- header end -->
+        <!-- グローバルナビゲーション -->
+        <div id="GlobalNavigationBlock">
+            <div class="Navigation">
+                <ul>
+                    <li><a href="#navi_skip" tabindex="1">グローバルナビゲーションをスキップ</a></li>
+                </ul>
+            </div>
+            <!-- global navigation start -->
+            
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,ul.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("ul.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("ul#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list">
+            <li class="navi_tab  " id="navi_tab_101"
+                data-global="101">
+                <div>
+                    <a href="//www.city.ukiha.fukuoka.jp/list00101.html" tabindex="10" >
+                        <p id="navi_tab_text_101">くらし・手続き</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_102"
+                data-global="102">
+                <div>
+                    <a href="//www.city.ukiha.fukuoka.jp/list00102.html" tabindex="64" >
+                        <p id="navi_tab_text_102">結婚・子育て・教育</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_103"
+                data-global="103">
+                <div>
+                    <a href="//www.city.ukiha.fukuoka.jp/list00103.html" tabindex="74" >
+                        <p id="navi_tab_text_103">健康・医療・福祉</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_104"
+                data-global="104">
+                <div>
+                    <a href="//www.city.ukiha.fukuoka.jp/list00104.html" tabindex="112" >
+                        <p id="navi_tab_text_104">事業者向け</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  navi_tab_last" id="navi_tab_105"
+                data-global="105">
+                <div>
+                    <a href="//www.city.ukiha.fukuoka.jp/list00105.html" tabindex="121" >
+                        <p id="navi_tab_text_105">市政情報</p>
+                    </a>
+                </div>
+             </li>
+        </ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <ul class="g_navi " id="g_navi_101" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="106">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00106.html" tabindex="11" >届出・各種証明</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="106">
+                        
+                        
+                                <li
+                                    data-global="136">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00136.html" tabindex="12" >証明書の発行　</a>
+                                </li>
+                            
+                                <li
+                                    data-global="137">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00137.html" tabindex="13" >戸籍の届出</a>
+                                </li>
+                            
+                                <li
+                                    data-global="138">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00138.html" tabindex="14" >住所変更（転入・転出）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="139">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00139.html" tabindex="15" >印鑑登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="140">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00140.html" tabindex="16" >マイナンバー・住民基本台帳</a>
+                                </li>
+                            
+                                <li
+                                    data-global="141">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00141.html" tabindex="17" >パスポート</a>
+                                </li>
+                            
+                                <li
+                                    data-global="825">
+                                    
+                                    <a href="https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form" tabindex="18" target="_blank">ぴったりサービス（マイナポータル）&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="107">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00107.html" tabindex="19" >税金</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="107">
+                        
+                        
+                                <li
+                                    data-global="142">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00142.html" tabindex="20" >税に関するお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="143">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00143.html" tabindex="21" >税に関する証明</a>
+                                </li>
+                            
+                                <li
+                                    data-global="144">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00144.html" tabindex="22" >市税の納付等</a>
+                                </li>
+                            
+                                <li
+                                    data-global="145">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00145.html" tabindex="23" >軽自動車税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="146">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00146.html" tabindex="24" >個人市民税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="147">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00147.html" tabindex="25" >法人市民税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="148">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00148.html" tabindex="26" >固定資産税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="149">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00149.html" tabindex="27" >国民健康保険税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="150">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00150.html" tabindex="28" >その他の税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="151">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00151.html" tabindex="29" >公売に関すること</a>
+                                </li>
+                            
+                                <li
+                                    data-global="152">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00152.html" tabindex="30" >税制改正</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="108">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00108.html" tabindex="31" >住まい・ごみ・環境</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="108">
+                        
+                        
+                                <li
+                                    data-global="153">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00153.html" tabindex="32" >住まい・道路・墓地</a>
+                                </li>
+                            
+                                <li
+                                    data-global="154">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00154.html" tabindex="33" >地下水・上下水道</a>
+                                </li>
+                            
+                                <li
+                                    data-global="155">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00155.html" tabindex="34" >公共交通</a>
+                                </li>
+                            
+                                <li
+                                    data-global="156">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00156.html" tabindex="35" >環境</a>
+                                </li>
+                            
+                                <li
+                                    data-global="157">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00157.html" tabindex="36" >ごみ・リサイクル</a>
+                                </li>
+                            
+                                <li
+                                    data-global="158">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00158.html" tabindex="37" >動物・ペット</a>
+                                </li>
+                            
+                                <li
+                                    data-global="814">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00814.html" tabindex="38" >温暖化対策・エネルギー政策</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="109">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00109.html" tabindex="39" >防災・安全・防犯</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="109">
+                        
+                        
+                                <li
+                                    data-global="160">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/bousai/default.html" tabindex="40" target="_blank">防災サイト&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="161">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00161.html" tabindex="41" >交通安全</a>
+                                </li>
+                            
+                                <li
+                                    data-global="162">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00162.html" tabindex="42" >防犯・消費生活相談</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="110">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00110.html" tabindex="43" >自動車学校</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="110">
+                        
+                        
+                                <li
+                                    data-global="163">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00163.html" tabindex="44" >初めての方へ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="164">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00164.html" tabindex="45" >料金・教習プラン</a>
+                                </li>
+                            
+                                <li
+                                    data-global="165">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00165.html" tabindex="46" >在校生の方へ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="166">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00166.html" tabindex="47" >卒業生の声</a>
+                                </li>
+                            
+                                <li
+                                    data-global="167">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00167.html" tabindex="48" >よくある質問</a>
+                                </li>
+                            
+                                <li
+                                    data-global="168">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/dynamic/entry/pub/ansform.aspx?c_id=21&entry_ins=5" tabindex="49" target="_blank">自動車学校へのお問い合わせ&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="111">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00111.html" tabindex="50" >まちづくり・地域</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="111">
+                        
+                        
+                                <li
+                                    data-global="169">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00169.html" tabindex="51" >自治協議会</a>
+                                </li>
+                            
+                                <li
+                                    data-global="170">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00170.html" tabindex="52" >まちづくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="171">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00171.html" tabindex="53" >まちの話題</a>
+                                </li>
+                            
+                                <li
+                                    data-global="172">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00172.html" tabindex="54" >公園・キャンプ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="173">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00173.html" tabindex="55" >地域おこし協力隊</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="112">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00112.html" tabindex="56" >移住・定住</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="112">
+                        
+                        
+                                <li
+                                    data-global="174">
+                                    
+                                    <a href="https://ukihastorys.jp/" tabindex="57" target="_blank">移住・定住ポータルサイト&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="175">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00175.html" tabindex="58" >空き家バンク</a>
+                                </li>
+                            
+                                <li
+                                    data-global="891">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00891.html" tabindex="59" >二地域居住</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="113">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00113.html" tabindex="60" >がいこくじんのかたへ</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="759">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00759.html" tabindex="61" >手続き・補助金ナビ</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="759">
+                        
+                        
+                                <li
+                                    data-global="760">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/dynamic/procnavi/pub/default.aspx?c_id=25" tabindex="62" target="_blank">手続きナビ&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="761">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/dynamic/procnavi/pub/default.aspx?c_id=29" tabindex="63" target="_blank">補助金ナビ&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_102" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="114">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00114.html" tabindex="65" >結婚</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="114">
+                        
+                        
+                                <li
+                                    data-global="176">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00176.html" tabindex="66" >結婚支援</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="115">
+                            
+                            <a href="https://www.city.ukiha.fukuoka.jp/kosodate/default.html" tabindex="67" target="_blank">うきはっ子応援サイト&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="115">
+                        
+                        
+                                <li
+                                    data-global="773">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/kosodate/list00557.html" tabindex="68" target="_blank">小学校・中学校&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="116">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00116.html" tabindex="69" >スポーツ・教育・文化</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="116">
+                        
+                        
+                                <li
+                                    data-global="177">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00177.html" tabindex="70" >スポーツ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="178">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00178.html" tabindex="71" >生涯学習</a>
+                                </li>
+                            
+                                <li
+                                    data-global="179">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00179.html" tabindex="72" >文化財（歴史・文化）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="180">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00180.html" tabindex="73" >人権・同和対策・男女共同参画</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_103" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="117">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00117.html" tabindex="75" >新型コロナウイルス感染症</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="117">
+                        
+                        
+                                <li
+                                    data-global="181">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00181.html" tabindex="76" >ワクチン接種</a>
+                                </li>
+                            
+                                <li
+                                    data-global="182">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00182.html" tabindex="77" >発生状況・医療体制</a>
+                                </li>
+                            
+                                <li
+                                    data-global="183">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00183.html" tabindex="78" >市長から市民の方へ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="184">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00184.html" tabindex="79" >感染防止対策</a>
+                                </li>
+                            
+                                <li
+                                    data-global="185">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00185.html" tabindex="80" >支援情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="186">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00186.html" tabindex="81" >施設・学校・市の行事関連</a>
+                                </li>
+                            
+                                <li
+                                    data-global="187">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00187.html" tabindex="82" >相談窓口、お知らせ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="118">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00118.html" tabindex="83" >健康・医療</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="118">
+                        
+                        
+                                <li
+                                    data-global="188">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00188.html" tabindex="84" >健康づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="189">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00189.html" tabindex="85" >食育</a>
+                                </li>
+                            
+                                <li
+                                    data-global="190">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00190.html" tabindex="86" >予防接種・健診</a>
+                                </li>
+                            
+                                <li
+                                    data-global="191">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00191.html" tabindex="87" >医療</a>
+                                </li>
+                            
+                                <li
+                                    data-global="192">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00192.html" tabindex="88" >地域医療・小児夜間救急診療</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="119">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00119.html" tabindex="89" >介護保険</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="119">
+                        
+                        
+                                <li
+                                    data-global="194">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00194.html" tabindex="90" >介護保険制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="193">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00193.html" tabindex="91" >地域包括支援センター</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="120">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00120.html" tabindex="92" >年金・健康保険</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="120">
+                        
+                        
+                                <li
+                                    data-global="196">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00196.html" tabindex="93" >国民年金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="197">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00197.html" tabindex="94" >国民健康保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="198">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/kiji0036900/index.html" tabindex="95" >後期高齢者医療</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="121">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00121.html" tabindex="96" >障がい者支援</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="121">
+                        
+                        
+                                <li
+                                    data-global="199">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00199.html" tabindex="97" >手帳の申請</a>
+                                </li>
+                            
+                                <li
+                                    data-global="200">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00200.html" tabindex="98" >医療費助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="201">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00201.html" tabindex="99" >手当・給付金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="202">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00202.html" tabindex="100" >日常生活・自立支援</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="122">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00122.html" tabindex="101" >高齢者支援</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="122">
+                        
+                        
+                                <li
+                                    data-global="203">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00203.html" tabindex="102" >生活のサポート制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="204">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00204.html" tabindex="103" >健康に過ごすために</a>
+                                </li>
+                            
+                                <li
+                                    data-global="205">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00205.html" tabindex="104" >安全・安心なくらし</a>
+                                </li>
+                            
+                                <li
+                                    data-global="206">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00206.html" tabindex="105" >生活の質の向上</a>
+                                </li>
+                            
+                                <li
+                                    data-global="207">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00207.html" tabindex="106" >しごと・ボランティア</a>
+                                </li>
+                            
+                                <li
+                                    data-global="208">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00208.html" tabindex="107" >趣味・学び</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="123">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00123.html" tabindex="108" >地域福祉・支援窓口</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="123">
+                        
+                        
+                                <li
+                                    data-global="209">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00209.html" tabindex="109" >生活保護</a>
+                                </li>
+                            
+                                <li
+                                    data-global="210">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00210.html" tabindex="110" >福祉相談・支援窓口</a>
+                                </li>
+                            
+                                <li
+                                    data-global="795">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00795.html" tabindex="111" >給付金</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_104" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="767">
+                            
+                            <a href="https://www.city.ukiha.fukuoka.jp/sigoto/default.html" tabindex="113" target="_blank">商工業・しごと応援サイト&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="767">
+                        
+                        
+                                <li
+                                    data-global="769">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/sigoto/list00501.html" tabindex="114" target="_blank">入札・契約&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="124">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00124.html" tabindex="115" >農林業</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="124">
+                        
+                        
+                                <li
+                                    data-global="211">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00211.html" tabindex="116" >農業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="212">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00212.html" tabindex="117" >森林・林業・木材産業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="213">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00213.html" tabindex="118" >農業委員会</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="125">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00125.html" tabindex="119" >都市計画関連</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="782">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00782.html" tabindex="120" >公民連携</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_105" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="126">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00126.html" tabindex="122" >うきは市の紹介</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="126">
+                        
+                        
+                                <li
+                                    data-global="214">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00214.html" tabindex="123" >市の概要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="847">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00847.html" tabindex="124" >市勢要覧</a>
+                                </li>
+                            
+                                <li
+                                    data-global="215">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00215.html" tabindex="125" >庁舎・ダイヤル案内</a>
+                                </li>
+                            
+                                <li
+                                    data-global="216">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/kiji0036498/index.html" tabindex="126" >交通アクセス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="799">
+                                    
+                                    <a href="https://www.city.ukiha.fukuoka.jp/kiji0033249/index.html" tabindex="127" >オープンデータ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="217">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00217.html" tabindex="128" >統計</a>
+                                </li>
+                            
+                                <li
+                                    data-global="218">
+                                    
+                                    <a href="https://www1.g-reiki.net/city.ukiha.fukuoka/reiki_menu.html" tabindex="129" target="_blank">例規集&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="762">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00762.html" tabindex="130" >うきは市の施設</a>
+                                </li>
+                            
+                                <li
+                                    data-global="220">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00220.html" tabindex="131" >うきはテロワール</a>
+                                </li>
+                            
+                                <li
+                                    data-global="221">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00221.html" tabindex="132" >観光情報</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="127">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00127.html" tabindex="133" >市長室</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="127">
+                        
+                        
+                                <li
+                                    data-global="222">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00222.html" tabindex="134" >市長あいさつ・プロフィール</a>
+                                </li>
+                            
+                                <li
+                                    data-global="223">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00223.html" tabindex="135" >施政方針</a>
+                                </li>
+                            
+                                <li
+                                    data-global="224">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00224.html" tabindex="136" >市長交際費</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="128">
+                            
+                            <a href="https://www.city.ukiha.fukuoka.jp/gikai/default.html" tabindex="137" target="_blank">市議会&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="129">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00129.html" tabindex="138" >行政・財政</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="129">
+                        
+                        
+                                <li
+                                    data-global="225">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00225.html" tabindex="139" >広域行政</a>
+                                </li>
+                            
+                                <li
+                                    data-global="226">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00226.html" tabindex="140" >行政改革</a>
+                                </li>
+                            
+                                <li
+                                    data-global="227">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00227.html" tabindex="141" >財政</a>
+                                </li>
+                            
+                                <li
+                                    data-global="228">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00228.html" tabindex="142" >ふるさと納税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="229">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00229.html" tabindex="143" >企業版ふるさと納税</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="130">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00130.html" tabindex="144" >計画・方針・ビジョン</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="130">
+                        
+                        
+                                <li
+                                    data-global="230">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00230.html" tabindex="145" >総合計画</a>
+                                </li>
+                            
+                                <li
+                                    data-global="231">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00231.html" tabindex="146" >新市建設計画</a>
+                                </li>
+                            
+                                <li
+                                    data-global="232">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00232.html" tabindex="147" >うきは市ルネッサンス戦略</a>
+                                </li>
+                            
+                                <li
+                                    data-global="233">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00233.html" tabindex="148" >うきは市国土強靱化地域計画</a>
+                                </li>
+                            
+                                <li
+                                    data-global="234">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00234.html" tabindex="149" >人を育てます</a>
+                                </li>
+                            
+                                <li
+                                    data-global="235">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00235.html" tabindex="150" >まちのにぎわい</a>
+                                </li>
+                            
+                                <li
+                                    data-global="236">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00236.html" tabindex="151" >健康なくらし</a>
+                                </li>
+                            
+                                <li
+                                    data-global="237">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00237.html" tabindex="152" >安全安心なまち</a>
+                                </li>
+                            
+                                <li
+                                    data-global="238">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00238.html" tabindex="153" >協働のまちづくり</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="131">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00131.html" tabindex="154" >成果</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="131">
+                        
+                        
+                                <li
+                                    data-global="239">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00239.html" tabindex="155" >成果</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="132">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00132.html" tabindex="156" >広聴・広報</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="132">
+                        
+                        
+                                <li
+                                    data-global="240">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00240.html" tabindex="157" >パブリックコメント</a>
+                                </li>
+                            
+                                <li
+                                    data-global="241">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00241.html" tabindex="158" >広報うきは</a>
+                                </li>
+                            
+                                <li
+                                    data-global="243">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00243.html" tabindex="159" >広報活動・SNS</a>
+                                </li>
+                            
+                                <li
+                                    data-global="783">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00783.html" tabindex="160" >360°パノラマビュー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="244">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00244.html" tabindex="161" >募集・学び</a>
+                                </li>
+                            
+                                <li
+                                    data-global="245">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00245.html" tabindex="162" >情報公開・個人情報保護</a>
+                                </li>
+                            
+                                <li
+                                    data-global="246">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00246.html" tabindex="163" >相談窓口</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="133">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00133.html" tabindex="164" >職員採用・人事</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="133">
+                        
+                        
+                                <li
+                                    data-global="247">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00247.html" tabindex="165" >人事</a>
+                                </li>
+                            
+                                <li
+                                    data-global="248">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00248.html" tabindex="166" >職員採用</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="134">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00134.html" tabindex="167" >選挙</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="134">
+                        
+                        
+                                <li
+                                    data-global="249">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00249.html" tabindex="168" >選挙管理委員会からのお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="250">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00250.html" tabindex="169" >選挙制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="251">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00251.html" tabindex="170" >選挙の結果</a>
+                                </li>
+                            
+                                <li
+                                    data-global="868">
+                                    
+                                    <a href="//www.city.ukiha.fukuoka.jp/list00868.html" tabindex="171" >選挙啓発</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="135">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00135.html" tabindex="172" >監査</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="895">
+                            
+                            <a href="//www.city.ukiha.fukuoka.jp/list00895.html" tabindex="173" >公示送達</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl35$GlobalNavigation$HidErrMsg" id="ctl00_ctl35_GlobalNavigation_HidErrMsg" />
+
+            
+
+<script type="text/javascript">
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+            img.src = "//cms.city.ukiha.fukuoka.jp/makehtml/common/images/top1/hb_close.png";
+        }
+    }
+
+    function closeGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            menuDiv.style.display = "none";
+            img.src = "//cms.city.ukiha.fukuoka.jp/makehtml/common/images/top1/hb_open.png";
+        }
+    }
+</script>
+
+
+    <div id="headMenu">
+        <img id="menuImg" onclick="dspGlobalMenu();" src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/hb_open.png" alt="メニュー" title="" />
+    </div>
+
+    <!-- メニュー -->
+    <div id="naviContainerSP" style="display:none;">
+        <div id="naviAreaSP">
+            <ul id="navi_listSP">
+                    <li class="navi_tab  " id="navi_tabSP_101">
+                        <div>
+                            <a href="//www.city.ukiha.fukuoka.jp/list00101.html">
+                                
+                                <p>くらし・手続き</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_102">
+                        <div>
+                            <a href="//www.city.ukiha.fukuoka.jp/list00102.html">
+                                
+                                <p>結婚・子育て・教育</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_103">
+                        <div>
+                            <a href="//www.city.ukiha.fukuoka.jp/list00103.html">
+                                
+                                <p>健康・医療・福祉</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_104">
+                        <div>
+                            <a href="//www.city.ukiha.fukuoka.jp/list00104.html">
+                                
+                                <p>事業者向け</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_105">
+                        <div>
+                            <a href="//www.city.ukiha.fukuoka.jp/list00105.html">
+                                
+                                <p>市政情報</p>
+                            </a>
+                        </div>
+                     </li>
+                </ul>
+            <div class="sub_site_link">
+                <ul>
+                    <li><a href="//www.city.ukiha.fukuoka.jp/dynamic/hpkiji/pub/shinsei.aspx?c_id=3">申請書ダウンロード</a></li>
+                    <li class="last"><a href="//www.city.ukiha.fukuoka.jp/list00759.html">手続き・補助金ナビ</a></li>
+
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+
+
+            <div id="globalNavigationData" data-classid="" data-parentid="" data-topid=""></div>
+            <div id="ctl00_ctl35_globalNavigationData"></div>
+            <!-- global navigation end -->
+        </div>
+        </div>
+        <div class="clear"></div>
+        <!-- アクセシビリティメニュー start -->
+        <div id="accessibility">
+            <div class="acce_head_wp">
+                <div class="overlay_acc" id="overlay_acc">
+                    <div id="accmenu_close">
+                        <div><a href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                    </div>
+
+                    <div class="acc_wp acc_wp clearfix">
+
+                        <div id="mainFontSizeSel">
+                            <span>文字サイズ変更</span>
+                            <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                                <img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                        </div>
+                        <div id="changeHaikei">
+                            <span>背景色変更</span>
+                            <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                                <img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+
+<div id="headerAreaDef_margin"></div>
+<div id="navi_skip"></div>
+<div class="clear"></div>
+
+
+<!-- ナビゲーションメニュー start -->
+<div id="top_mokuteki">
+    <div class="top_head_wp">
+        <div class="overlay" id="overlay">
+            <div id="navimenu_close">
+                <div><a href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+            </div>
+            <div class="mokuteki_wp mokuteki_wp clearfix">
+                <div class="mokuteki_wp-R">
+                    <div class="mokuteki_r-con mokuteki_con_04">
+                        <h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fas fa-bookmark"></i>&nbsp;&nbsp;便利なサービス</h2>
+                        <ul class="t_mokuteki_list">
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/dynamic/hpkiji/pub/shinsei.aspx?c_id=3">申請書ダウンロード</a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/list00759.html">手続き・補助金ナビ</a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/list00259.html">イベント情報</a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/list00244.html">募集・学ぶ</a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="https://ukihalove.jp/" target="_blank">うきは市観光サイト<img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/new_win01.gif" alt="別ウィンドウで開きます" title=""></a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/list00228.html">ふるさと納税</a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="https://ukihastorys.jp/" target="_blank">うきはのはなし&nbsp;<img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/new_win01.gif" alt="別ウィンドウで開きます" title=""></a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダー</a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/sigoto/list00501.html">入札・契約</a>
+                            </li>
+                            <li class="mokuteki_link innerLink">
+                                <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/list00157.html">ごみ・リサイクル</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="subsite_con">
+                        <h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fas fa-bookmark"></i>&nbsp;&nbsp;サブサイト</h2>
+                        <div class="subsite_waku">
+                            <ul class="t_subsite_list">
+                                <li class="subsite_link innerLink" style="min-height: 50px;">
+                                    <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/sigoto/default.html">商工業・しごと応援サイト</a>
+                                </li>
+                                <li class="subsite_link innerLink" style="min-height: 50px;">
+                                    <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/kosodate/default.html">うきはっ子応援サイト</a>
+                                </li>
+                                <li class="subsite_link innerLink" style="min-height: 50px;">
+                                    <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/sinrin/default.html">うきは市森林セラピー</a>
+                                </li>
+                                <li class="subsite_link innerLink" style="min-height: 52px;">
+                                    <a class="innerLink" href="//www.city.ukiha.fukuoka.jp/gikai/default.html">うきは市議会</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="text_link">
+                    <ul>
+                        <li><a href="//www.city.ukiha.fukuoka.jp/classset002.html"><i class="fas fa-caret-square-right"></i>&nbsp;&nbsp;組織</a></li>
+                        <li><a href="//www.city.ukiha.fukuoka.jp/sitemap.html"><i class="fas fa-caret-square-right"></i>&nbsp;&nbsp;サイトマップ</a></li>
+                    </ul>
+                </div>
+                <div class="mokuteki_wp-R">
+                    <div class="mokuteki_r-con mokuteki_con_05">
+                        <div class="btn_yokuaru">
+                            <h2 class="mokuteki_wp_title2 mokuteki_tit_icon04">
+                                <i class="fas fa-question-circle"></i><a href="//www.city.ukiha.fukuoka.jp/dynamic/faq2/pub/default.aspx?c_id=20">よくある質問</a></h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="ukipi">
+                    <img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/ukipi.png" alt="" title="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+<div class="btn_bar">
+    <div class="bar_item"><a href="//www.city.ukiha.fukuoka.jp/dynamic/hpkiji/pub/shinsei.aspx?c_id=3">
+        <img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/bar01.png" alt="申請書ダウンロード" title="" /></a></div>
+    <div class="bar_item"><a href="//www.city.ukiha.fukuoka.jp/list00759.html">
+        <img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/bar02.png" alt="手続き・補助金ナビ" title="" /></a></div>
+</div>
+
+</div><!-- allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu"><div id="pankuzuArea" data-categoryid="3" data-kijiid="5118" data-subid="6" data-topid="0" data-preview="OFF"></div></div>
+</div>
+
+
+<div id="container">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+<script type="text/javascript" language="javascript">
+<!--
+window.onload = function(){
+
+    
+    
+    
+
+}
+
+function DanrakuKirikae(dspNo, allCnt){
+    if(allCnt>0)
+    {
+        for(var i=1; i <= allCnt; ++i)
+        {
+            if(dspNo == i)
+            {
+                 document.getElementById("danraku" + i).style.display = "block";
+                 document.getElementById("dMenu" + i).className = "selected";
+            }
+            else
+            {
+                 document.getElementById("danraku" + i).style.display = "none";
+                 document.getElementById("dMenu" + i).className = "";
+            }
+       
+        }
+    }
+}
+//-->
+</script>
+
+<div style="margin:0px auto;"></div>
+
+
+
+<article>
+    <div id="mainShosai">
+        
+        
+        
+
+        
+        <div class="BottomArea">
+
+            <table class="containerWidth">
+		        <tr>
+		            <td style="text-align:left;">
+		                <h1 class="title">うきは市の文化財</h1>
+                        
+                        <div id="snsButtonArea"></div>
+                        <div class="kijiSubInfo">
+                            <div class="updDate">最終更新日：<time datetime="2024-02-29T11:59:11+09:00">2024年2月29日</time></div>
+                            <div class="printbtn"><a href="javascript:void(0)" onclick="window.print();return false;"><i class="fas fa-print fa-lg"></i><span> 印刷</span></a></div>
+                            
+                            <div id="kijiKengenArea"></div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+		                <!-- <div class="kijiGaiyo">
+    <div class="mainblock">
+        <p class="img"><img src="https://www.city.ukiha.fukuoka.jp/kiji0035118/3_5118_digest1_esy243vr.jpg" style="max-width:100px;max-height:200px" alt="うきは市文化財" title="" /></p>
+        <div class="gaiyou"></div>
+    </div>
+    <div class="clear"></div>
+</div>
+ -->		            
+		                
+    		        
+		                <div class="danraku" id="danraku1" style="display:block;"><div class="migration"><div><div tmptype="3" class="wys_template wys_imgList wys_img1"><ul><li><img src="https://www.city.ukiha.fukuoka.jp/kiji0035118/3_5118_6655_up_7m7xc8k6.jpg" alt="２" title=""></li></ul></div><p class="body"><br></p></div><div>うきは市には、各時代にわたる文化財が数多く残っています。</div><div>これらの文化財の中で重要なものを重点的に保護するため、国、県、市は指定文化財として文化財の指定を行っています。</div><div><br></div><div>現在、うきは市では指定文化財３８件（国指定８件、県指定７件、市指定２３件）、国登録文化財２件があります。</div><div><br></div><div>詳細は、下記一覧表をご確認ください。</div><div><br></div><div>（2024年2月時点）</div><div>&nbsp;</div><ul type="square"><ul type="square"><li><br></li><li><a href="https://www.city.ukiha.fukuoka.jp/kiji0035118/3_5118_3_71_140_2997_up_UG35CEMV.pdf" target="_blank"><img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/icon/pdf.gif" alt="" title="" style="vertical-align:middle;">&nbsp;「うきは市文化財一覧表」（PDF：223.1キロバイト）&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin.gif" alt="別ウィンドウで開きます" title=""></a></li></ul></ul><p>&nbsp;</p><p><span class="wys_bold">うきは市文化財マップができました！！</span></p><div tmptype="0" class="wys_template wys_list"><ul><li><p><a href="https://www.city.ukiha.fukuoka.jp/kiji0035118/3_5118_6654_up_ps7argym.pdf" target="_blank"><img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/icon/pdf.gif" alt="" title="">&nbsp;うきは市文化財MAP（PDF：1.45メガバイト）&nbsp;<img src="https://www.city.ukiha.fukuoka.jp/dynamic/common/images/newwin.gif" alt="別ウインドウで開きます" title=""></a></p></li></ul></div><p class="body"><br></p></div><div class="clear"></div></div>
+		            </td>
+	            </tr>
+            </table>      
+            
+        </div>
+        <div class="clear"></div>
+    </div>
+</article>
+
+
+<div id="weblioLinkJsArea"></div>
+
+
+<div id="archiveTransitionArea">
+    <div class="archiveTransitionPrev"><a href="">前の記事へ</a></div>
+    <div class="archiveTransitionNext"><a href="">次の記事へ</a></div>
+</div>
+
+
+<div id="classTagsArea"></div>
+
+
+<div id="toiawaseInfo">
+
+    <div class="toiText"><strong>このページに関する<br />お問い合わせは</strong></div>
+    <div class="toiKugiri"></div>
+    <div class="toiData"></div>
+</div>
+
+<div id="hpkijiid_shosai">（ID:5118）</div>
+
+
+<div id="footerSoegakiArea"></div>
+
+
+<div id="shosaiBanArea" data-topid="0" data-dspshosai="0" data-preview="OFF"></div>
+
+
+<div id="recommendArea"></div>
+
+
+<div id="browsingHistoryArea"></div>
+
+<div id="accessCountHpKiji"
+    data-categoryid="3"
+    data-kijiid="5118"
+    data-subid="6"
+    data-topid="0"
+    data-preview="OFF"></div>
+
+<script type="text/javascript" language="javascript">
+    jQuery(function () {
+        jQuery.ajax({
+            type: 'POST',
+            cache: false,
+            url: '//www.city.ukiha.fukuoka.jp/dynamic/hpkiji/saverecommend.ashx',
+            data: {
+                "id": 5118,
+                "preview": "OFF"
+            }
+        }).done(function (response) {
+        }).fail(function (response) {
+        });
+    });
+</script>
+
+<script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/browsinghistory.js"></script>
+<script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.city.ukiha.fukuoka.jp/dynamic/";
+
+        
+        var bannerPrm = {
+            "top_id": jQuery("#shosaiBanArea").attr("data-topid"),
+            "dspShosaiFlg": jQuery("#shosaiBanArea").attr("data-dspshosai"),
+            "preview": jQuery("#shosaiBanArea").attr("data-preview")
+        }
+        set.banner("#shosaiBanArea", bannerPrm);
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "True",
+            "pdfSetsumeiFlg": "ON",
+            "pdfDownloadFlg": "ON"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        
+        jQuery(".toiData").each(function () {
+
+            var toiawasePrm = {
+                "mdl": "85",
+                "c_id": "3",
+                "id": "5118",
+                "sub_id": "6",
+                "top_id": "0",
+                "preview": "OFF"
+            }
+
+            set.toiawase(this, toiawasePrm);
+        });
+
+        
+        var kijiKengenPrm = {
+            "mdl": "85",
+            "grp_id": "14",
+            "ka_no_disp": "1",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.kijiKengen("#kijiKengenArea", kijiKengenPrm);
+
+        
+        var snsButtonPrm = {
+            "c_id": "3",
+            "id": "5118",
+            "sub_id": "6",
+            "ttl": "",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.snsButton("#snsButtonArea", snsButtonPrm);
+
+        
+        var weblioLinkJsPrm = {
+            "c_id": "3"
+        }
+        set.weblioLinkJs("#weblioLinkJsArea", weblioLinkJsPrm);
+
+        
+        var recommendPrm = {
+            "c_id": "3",
+            "id": "5118",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.recommend("#recommendArea", recommendPrm);
+
+        
+        var pankuzuParam = {
+            "c_id": jQuery("#pankuzuArea").attr("data-categoryid"),
+            "class_id": "",
+            "id": jQuery("#pankuzuArea").attr("data-kijiid"),
+            "sub_id": jQuery("#pankuzuArea").attr("data-subid"),
+            "top_id": jQuery("#pankuzuArea").attr("data-topid"),
+            "preview": jQuery("#pankuzuArea").attr("data-preview")
+        }
+        set.pankuzu("#pankuzuArea", "#footerPankuzuArea", pankuzuParam);
+
+        
+        var archiveTransitionParam = {
+            "c_id": "3",
+            "class_id": "",
+            "id": "5118",
+            "wd": "",
+            "sely": "",
+            "selm": "",
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.archiveTransition("#archiveTransitionArea", archiveTransitionParam);
+
+        
+        var classTagsParam = {
+            "rootURL":"//www.city.ukiha.fukuoka.jp/dynamic/",
+            "c_id": "3",
+            "class_id": "",
+            "id": "5118",
+            "sub_id": jQuery("#pankuzuArea").attr("data-subid"),
+            "top_id": "0",
+            "preview": "OFF"
+        }
+        set.classTags("#classTagsArea", classTagsParam);
+
+        var accessCountPrm = {
+            "c_id": jQuery("#accessCountHpKiji").attr("data-categoryid"),
+            "id": jQuery("#accessCountHpKiji").attr("data-kijiid"),
+            "sub_id": jQuery("#accessCountHpKiji").attr("data-subid"),
+            "top_id": jQuery("#accessCountHpKiji").attr("data-topid"),
+            "preview": jQuery("#accessCountHpKiji").attr("data-preview")
+        }
+        set.accessCountHpKiji(accessCountPrm);
+    });
+
+    
+    jQuery(function(){
+        var fn_bh = new setBrowsingHistory();
+        fn_bh.rootUrl = "https://www.city.ukiha.fukuoka.jp/dynamic/";
+        fn_bh.page_type = "detail";
+        fn_bh.top_id = "0";
+        fn_bh.kiji_id = "5118";
+        fn_bh.preview_type = "OFF";
+        fn_bh.loadBrowsingHistory();
+    });
+</script>
+
+        
+
+     </div> <!-- cont_body -->
+</div> <!-- mainBlock -->
+
+<!-- サイドボード -->
+<!-- sideboard start -->
+
+<div id="sideborad_area">
+    <div id="sideBoardWrapper">
+        <div id="sideBoardBlock" tabindex="-1">
+            <div id="sideBoardContainer">
+
+                
+                <div id="sideboardJuyoOshirase" class="artlist">
+                    <h2><i class="fas fa-exclamation-circle fa-lg"></i> 重要なお知らせ</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardCountdown" class="artlist">
+                    <h2><i class="fas fa-bell"></i>カウントダウン</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardDigest" class="artlist">
+                    <h2><i class="fas fa-bell"></i>注目情報</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardTopics" class="artlist">
+                    <h2><i class="fas fa-bell"></i> トピックス</h2>
+                </div>
+                <div class="clear"></div>
+                
+                
+                <div id="mokutekikarasagasu" class="sagasu">
+                    <h2><i class="fas fa-flag"></i> 情報をさがす</h2>
+	                <ul>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.ukiha.fukuoka.jp/classset002.html">組織から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.ukiha.fukuoka.jp/classset001.html">分類から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.ukiha.fukuoka.jp/sitemap.html">サイトマップから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.ukiha.fukuoka.jp/classset003.html">ライフイベントから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.ukiha.fukuoka.jp/dynamic/ranking/pub/default.aspx?c_id=9">ランキングから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.ukiha.fukuoka.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダーから</a></li>
+	                </ul>
+                </div>
+
+                <div class="clear"></div>
+
+                
+                <div id="mitsukaranaitoki">
+                    <div>
+                        <a href="https://www.city.ukiha.fukuoka.jp/list00766.html"><i class="fas fa-question-circle fa-lg fa-fw"></i> 情報が見つからないときは</a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<input type="hidden" name="ctl00$SideBoard$HidErrMsg" id="ctl00_SideBoard_HidErrMsg" />
+<!-- sideboard end -->
+
+<div class="clear"></div>
+</div>
+
+
+<!-- allfooter start  -->
+
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+
+    
+
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.city.ukiha.fukuoka.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- footer menu start -->
+
+
+
+
+<!-- footer menu end -->
+
+<!-- site info start -->
+<div id="footerMenu">
+<!-- 問合せ先 -->
+        <ul id="footertextlink">
+            <li><a href="//www.city.ukiha.fukuoka.jp/list00216.html">交通アクセス</a></li>
+            <li><a href="https://www.city.ukiha.fukuoka.jp/kiji0035611/index.html">プライバシーポリシー</a></li>
+            <li><a href="//www.city.ukiha.fukuoka.jp/dynamic/entry/pub/default.aspx?c_id=21&entry_ins=1&pg=1&mst=1">お問い合わせ</a></li>
+            <li><a href="//www.city.ukiha.fukuoka.jp/sitemap.html">サイトマップ</a></li>
+        </ul>
+        <div class="clear"></div>
+</div>
+<div id="siteinfo">
+    <div id="toiawasewaku">
+    <div id="toiawase">
+    <div class="footerimg"><img src="//www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/shimbol.png" alt="うきは市" title=""></div>
+    <div class="number">法人番号：1000020402257</div>
+
+        <p>
+                〒839-1393&nbsp;
+                福岡県うきは市吉井町新治316&nbsp;&nbsp;<br/>
+                電話番号:<span class="tel"><span class="teltoon"><a href="tel:0943-75-3111">0943-75-3111</a></span><span class="teltooff">0943-75-3111</span></span>&nbsp;&nbsp;
+                Fax:0943-75-5509&nbsp;&nbsp;
+                
+            </p>
+        <div class="add">業務時間：月～金曜日　8時30分～17時15分（祝日・年末年始を除く）</div>
+        
+        <div class="clear"></div>
+        <!-- フッターボタン -->
+    
+        
+        
+<div class="clear"></div>
+</div></div>
+
+<div class="clear"></div>
+
+
+
+</div>
+<!-- copyright -->
+<div id="cp" lang="en">
+    Copyrights(c)2022 UKIHA City All Rights Reserved
+</div>
+
+<!-- site info end -->
+
+</div>
+<!-- allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.city.ukiha.fukuoka.jp/dynamic/common/js/ajaxcalforie6.js"></script>
+
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 480;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.city.ukiha.fukuoka.jp/dynamic/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.city.ukiha.fukuoka.jp/dynamic/";
+            fn.topFlg = "False";
+            fn.topCategoryRootFolder = "";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+            var prm = {
+                "top_id": "",
+                "dspTopFlg": "OFF"
+            }
+            setFloatHeader(prm, "//www.city.ukiha.fukuoka.jp/dynamic/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/black-mozi-m.gif", off: "https://www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/black-mozi-l.gif", off: "https://www.city.ukiha.fukuoka.jp/dynamic/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

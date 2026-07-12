@@ -1,0 +1,18 @@
+{
+  "62c3f48f33a14caf": {
+    "url": "https://www.city.saga-kashima.lg.jp/main/298.html",
+    "filename": "62c3f48f33a14caf.html",
+    "sha256": "fe5dde0a239fd4f19cb4adb1b8ec7020d95b960d0a3fb587b27044b3a7623331",
+    "fetched_at": "2026-07-12T08:33:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6cda0ef4acada214": {
+    "url": "https://www.city.saga-kashima.lg.jp/site_files/file/bunkazai.pdf",
+    "filename": "6cda0ef4acada214.pdf",
+    "sha256": "6b00a2f8f5dfbe527d2fa2f88cf874365ebbbf6724db097fdc733659b740ceaa",
+    "fetched_at": "2026-07-12T08:33:37Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

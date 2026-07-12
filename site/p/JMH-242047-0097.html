@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>甚目の虫送り — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>甚目の虫送り</h1>
+    <p class="jmh-id">JMH-242047-0097</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1998-05-16</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:期日：7月第2日曜日/甚目町　手力男神社/平成10年5月16日。昔は7月12日、虫送りと同時に手力男(たぢからお)神社の夏祭りが行われる。虫送りはオイヤレと称し、夏祭りの太鼓踊りと共に奉納される。
+　当日の朝、当番長の家には祭りハンテンを着た子供たちが集まり、台車に乗せた大太鼓を踊りながら打ち始める。虫送りの松明は、菜種ガラを芯にして麦ガラを巻きつけた3mほどのもので、茗荷の葉をさす。
+　午後7時半ころ、当番長の家では、ほら貝と鉦の合図で出発の太鼓踊りが始まる。一踊り済むと世話人に先導されて村里の道を、鉦吊り、ほら貝吹き、太鼓、その後を火をつけた松明が、田の畦を撫でるように振りながらつづく。セコごとの辻で太鼓踊りをして手力男神社の門前までくると、松明は一ヶ所に集めて燃やされる。
+　神社では、夜おそくまで太鼓踊りが繰り返され、音頭取りの低い声とそれをなぞる村人の声が流れ、境内は村人の熱気にわく。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/hadame-mushiokuri.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/hadame-mushiokuri.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"甚目の虫送り" (JMH-242047-0097), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

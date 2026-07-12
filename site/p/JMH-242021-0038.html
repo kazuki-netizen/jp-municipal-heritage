@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>算額 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>算額</h1>
+    <p class="jmh-id">JMH-242021-0038</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1999-09-28</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者:神明神社（川島町）。「算額」とは数学の問題を解いて神社仏閣に奉納した絵馬の一種で、神仏に感謝して、その解法を広く知らしめたり、問題を解いた自分の名前を喧伝する意味があり、江戸時代に流行した風習です。三重県では記録上、30面以上があったといわれていますが、現存するものは9面に過ぎません。神明神社にはこのうち寛政二年（1790）、天保十五年（1844）、文久三年（1863）の3種類の算額が残されており、特に寛政二年のものは現在、三重県最古のものです。寛政二年の額には3問が取り上げられ、『闡微算法（せんびさんぽう）』にある問題を解いたものです。天保十五年の額は「當社産子 柳川安左衛門」の奉納で出題した問題を門人の「清水</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002622/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002622/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"算額" (JMH-242021-0038), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.965118, 136.624451], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.965118, 136.624451]).addTo(m);
+  </script>
+</body>
+</html>

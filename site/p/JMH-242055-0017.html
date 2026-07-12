@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>桑名城城壁 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>桑名城城壁</h1>
+    <p class="jmh-id">JMH-242055-0017</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1965-07-23</dd>
+      <dt>所在地</dt><dd>三之丸</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>形状:約５００m／年代:桃山、江戸時代（慶長～寛永）／所有者:桑名市／管理者:桑名市。川口町揖斐川に面する川口樋門より南大手橋に至る堀川東岸（三之丸地内）の城壁延約５００ｍ、桑名城跡は県史跡地ではあるが、これに含まれていた揖斐川右岸の城壁は伊勢湾台風後の復旧工事(別にこの城壁は少しの被害もなかったのであるが)で凡てなくなり、残る城壁はこの５００ｍとなり上述の史跡区域には含まれていないので将来のために指定保存となった。 積み石の状態は乱積で野面はぎ、打込はぎの二方法によっている。 また全面的ではないが数十の刻印を刻んだものがあり 、片町に面したところには出隅、入隅がある。 各所に堀川に向って狭い通路が設けられてあるのは明治以後、廃城になってから便宜掘開されたものであろう。 戦前までは南大手橋から京橋裏、それに三之丸立教小学校横まで堀川は続いていたが、終戦直後、またたく間に埋立てられた。 この城壁には亭々たる老松が並木をなし枝は堀へ垂れ、川水は満々と美しく、行き交う荷船で賑わっ</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/063.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/063.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"桑名城城壁" (JMH-242055-0017), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.066185, 136.696991], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.066185, 136.696991]).addTo(m);
+  </script>
+</body>
+</html>

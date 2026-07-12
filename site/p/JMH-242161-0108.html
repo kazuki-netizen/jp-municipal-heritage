@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>紙本大般若経の残欠 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>紙本大般若経の残欠</h1>
+    <p class="jmh-id">JMH-242161-0108</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>伊賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡・典籍・古文書</dd>
+      <dt>指定年月日</dt><dd>1978-03-16</dd>
+      <dt>所在地</dt><dd>三重県伊賀市新堂</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>員数:10巻。時代:室町時代。所有者:神明神社。第101巻から第110巻までの10巻が残存している。一部に見られる焼失は、天正伊賀の乱の戦火によると伝えられる。元は柏野の藤位神社にあったが、合祀されて神明神社にもたらされた。奥書に「天文二年癸巳（1533）五月吉日毛牧桜宮常住寄進賢性」とあることから、藤位神社と滋賀県甲賀市にあった毛牧桜宮に何らかの関連が想定される。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank" rel="noopener">https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d</a><br>
+      形式: opendata &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"紙本大般若経の残欠" (JMH-242161-0108), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.825748, 136.202713], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.825748, 136.202713]).addTo(m);
+  </script>
+</body>
+</html>

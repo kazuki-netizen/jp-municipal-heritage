@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>伝額田廃寺出土せん仏 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>伝額田廃寺出土せん仏</h1>
+    <p class="jmh-id">JMH-242055-0104</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>考古資料</dd>
+      <dt>指定年月日</dt><dd>2010-03-02</dd>
+      <dt>所在地</dt><dd>桑名市京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1点／形状:土製品　縦10cm横5cm／年代:白鳳／所有者:桑名市博物館。本資料は、桑名市額田に所在した額田廃寺で採集された資料である。 台座の上に結跏趺座（ｹｯｶﾌｻﾞ）、光背を負い、左右に脇侍を添える。左手を膝上に載せ右手は下に垂らす、降魔成道印（ｺﾞｳﾏｼﾞｮｳﾄﾞｳｲﾝ）を結ぶ。光背は、木葉をモチーフとする。 降魔成道印を結ぶ如来の例としては７～８世紀を中心に南伝の影響で制作され、とくに新羅石窟庵が有名である。わが国では、山田寺跡（奈良県桜井市）出土の銅製三尊仏板にその例が見られるほか、白鶴美術館所蔵の銅製三尊仏板などが知られている。山田寺像を基準とするならば、本作は７世紀後半まで遡るかと考えられる。一部にヘラによる調整痕が見られ、型出ののち仕上げがなされたもので、一品制作としての丁寧さが見られる。 また、形状が基部に従って厚く作り、自立性に対する配慮が見られる点から、仏堂や厨子に貼り付けられた、いわゆる千仏として制作されたものではなく、念持仏であった可</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/149.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/149.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"伝額田廃寺出土せん仏" (JMH-242055-0104), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

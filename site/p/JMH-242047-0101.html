@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>木造阿弥陀如来立像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>木造阿弥陀如来立像</h1>
+    <p class="jmh-id">JMH-242047-0101</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>2000-02-17</dd>
+      <dt>所在地</dt><dd>室町時代</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1躯／室町時代／飯南町有間野　極楽寺／像高98.4cm、檜材、寄木造／平成12年2月17日。室町時代初期の作。面相厳しく、衣文の線に張りがあり、南宋風の写実性が見られる秀作である。布張りをした上から彩色が施されていたが、現在は黒っぽい古色で、「黒仏さん」と呼ばれ親しまれている。 松坂鍛治町の刀鍛冶平井家の持仏であったが、いつの頃か、大河内村の九蓮寺に引き取られていた。後に、同寺の僧が極楽寺住職になった際、いっしょに移されてきたと言う。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/mokuzoamidanyorairyuzo-gokurakuji.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/mokuzoamidanyorairyuzo-gokurakuji.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"木造阿弥陀如来立像" (JMH-242047-0101), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

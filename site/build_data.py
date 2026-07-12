@@ -34,7 +34,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "site", "geocode_cache.json")
 
-PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa", "tokyo", "niigata", "yamanashi", "toyama", "ishikawa", "fukui", "nagano", "shizuoka"]
+PREFS = ["iwate", "miyagi", "aomori", "akita", "yamagata", "fukushima", "hokkaido", "tochigi", "gunma", "ibaraki", "saitama", "chiba", "kanagawa", "tokyo", "niigata", "yamanashi", "toyama", "ishikawa", "fukui", "nagano", "shizuoka", "gifu", "aichi", "mie"]
 
 COLUMNS = [
     "pref", "municipality", "name", "category", "subcategory",

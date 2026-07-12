@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>権現様御代水谷九左衛門殿折紙 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>権現様御代水谷九左衛門殿折紙</h1>
+    <p class="jmh-id">JMH-242055-0082</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>1989-02-20</dd>
+      <dt>所在地</dt><dd>本町46番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1枚／形状:１６．８cm×４９．４cm（和紙）／年代:慶長６年（１６０１）／所有者:桑名・中臣神社／管理者:桑名市博物館。徳川家康の意により、大久保十兵衛の世話によって春日神社に三町懸の内より百石が与えられることを、春日神社（桑名･中臣神社）へ水谷九左衛門光勝が通達した文書である。 ｢三町懸｣は『久波奈名所図会』に｢瓦師瀬古より本統寺までの縄手云。 (中略)俗説に田所の惣高三町不足する故三町闕と云り｣とある。 慶長6年(1601)には家康はまだ将軍にはなっていないため、｢内府(内大臣)｣とある。 水谷九左衛門光勝はこの時、四日市代官をつとめてい たと思われる。 大久保十兵衛については伝不詳。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/004.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/004.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"権現様御代水谷九左衛門殿折紙" (JMH-242055-0082), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.065434, 136.694931], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.065434, 136.694931]).addTo(m);
+  </script>
+</body>
+</html>

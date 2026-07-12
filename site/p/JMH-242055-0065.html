@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>御領分郷村案内帳　附　案内帳 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>御領分郷村案内帳　附　案内帳</h1>
+    <p class="jmh-id">JMH-242055-0065</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>書跡</dd>
+      <dt>指定年月日</dt><dd>1984-07-10</dd>
+      <dt>所在地</dt><dd>京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:上下2冊・1冊／形状:Ａ 9.7ｃｍ×20.6ｃｍ　Ｂ 14ｃｍ×20.2ｃｍ／年代:文政10年（1827）／所有者:桑名市博物館／管理者:桑名市博物館。紙本墨書 案内帳とは、検地の時、検地役人を案内する庄屋等有力農民の案内人が参考にした帳面で、村名・庄屋名･石高などを記した。 A 二冊/ 桑名藩御領分郷村案内帳 二冊を一冊にとじたもので、二冊目に「文政十丁亥年/御領分四村案内帳/孟春/柳本」の記入がある。 裏書に、弘化嘉永の項、土地金穀に関する役を務める柳本七郎右衛門(生没年不詳)が、文政の原本を用いて書き替えたと注記がある。 B 一冊/ 筆者も年代も不明である。 これによると、 桑名藩内の村は、｢中組｣｢北組｣｢南組｣に大別されていたことがわかる。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/006.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/006.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"御領分郷村案内帳　附　案内帳" (JMH-242055-0065), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

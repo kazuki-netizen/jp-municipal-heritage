@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>立阪神社獅子舞 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>立阪神社獅子舞</h1>
+    <p class="jmh-id">JMH-242021-0037</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財 記録作成等の措置を講ずべき無形の民俗文化財（県）</dd>
+      <dt>指定年月日</dt><dd>1998-07-27</dd>
+      <dt>所在地</dt><dd>垂坂町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>保持者:立阪神社獅子保存会。立阪神社の獅子舞は、弘化元年（1844）に垂坂の麹組合と他の麹組合との間で商権が確定したのを祝って獅子舞を奉納したことを起源とするといいます。舞法は久久志弥（くくしみ）神社（鈴鹿市）に伝わる「箕田流（みだりゅう）」に属します。 現在、10月の立阪神社の大祭に行われており、演目はだんちょう、飛びささら、舞い出し、おき扇、くわえ扇、すみ扇、花の舞の7種があり、特に花の舞では毬（まり）を使い、獅子が口にくわえた毬を上に放り投げ、またそれを口でくわえるという独特の演技があります。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002703/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002703/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"立阪神社獅子舞" (JMH-242021-0037), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.008099, 136.614822], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.008099, 136.614822]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "2400086f55b492cc": {
+    "url": "https://www.city.yawatahama.ehime.jp/doc/2022103100010/file_contents/shi-shiteibunkazai-1.pdf",
+    "filename": "2400086f55b492cc.pdf",
+    "sha256": "01c063b1989e7cc4d83a0e2cde93576c0b81555ed105a6d345db6f2f17ab806a",
+    "fetched_at": "2026-07-12T07:38:36Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "94a61c24ed94f56d": {
+    "url": "https://www.city.yawatahama.ehime.jp/gikai/2025112800032/",
+    "filename": "94a61c24ed94f56d.html",
+    "sha256": "9eda25781ea759bb1843cbe18c6a9406299a5b43e4c482312b2bdfaccc6ba8b9",
+    "fetched_at": "2026-07-12T07:38:38Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

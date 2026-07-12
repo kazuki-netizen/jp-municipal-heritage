@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>お諏訪おどり — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>お諏訪おどり</h1>
+    <p class="jmh-id">JMH-242021-0019</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1973-01-07</dd>
+      <dt>所在地</dt><dd>水沢町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>保持者:お諏訪踊り保存会。鈴鹿山麓には各所に太鼓踊りが伝承されています。四日市市内では西部の水沢地区（水沢町と水沢野田町）に見ることができます。水沢町の太鼓踊りは「お諏訪おどり」と呼ばれています。「お諏訪おどり」の名称は、この踊りの中に「お諏訪踊り」という曲名に基づくものです。これは干害に苦しむ水沢町の庄屋で瀬戸用水の完成に尽力した辻久善の功績を讃える詞章です。お諏訪おどりをはじめとする太鼓踊りがいつ頃から水沢町で行われたかどうか定かではありませんが、18世紀前半には雨乞いの「お礼おどり」があったことが記録上確認できるので、これが現在の「お諏訪おどり」と何らかの形で関係があったと思われます。踊りは頭に花笠を被り、胸に締</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002592/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002592/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"お諏訪おどり" (JMH-242021-0019), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.976723, 136.487534], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.976723, 136.487534]).addTo(m);
+  </script>
+</body>
+</html>

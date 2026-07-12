@@ -6,5 +6,14 @@
     "fetched_at": "2026-07-12T07:07:46Z",
     "http_status": "error:ConnectionError",
     "format": "pdf"
+  },
+  "7d16abe17f0c1b05": {
+    "url": "http://web.archive.org/web/20250216100039/https://www.town.kumano.hiroshima.jp/www/contents/1606709704434/index.html",
+    "filename": "wayback_1606709704434.html",
+    "sha256": "936764e55392ab6aa1b12bac27d4f22cc79434852e37258a9206065e87c96148",
+    "fetched_at": "2026-07-12T00:00:00Z",
+    "http_status": 200,
+    "format": "html",
+    "note": "公式ドメイン(.hiroshima.jp)がDNS失効。新ドメイン(.lg.jp)にも該当ページなし。Wayback Machineの2025-02-16アーカイブ(令和6年8月28日現在の一覧)を代替一次情報として使用。"
   }
 }

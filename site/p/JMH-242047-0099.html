@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>奉納本古事記伝　附　本居宣長書簡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>奉納本古事記伝　附　本居宣長書簡</h1>
+    <p class="jmh-id">JMH-242047-0099</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1999-04-15</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:46冊附1巻／寛政10年（1798）／本町　御厨神社（本居宣長記念館寄託）／平成11年4月15日。奉納本古事記伝は、本居宣長が御厨神社に奉納したもので、全44巻と附録、目録があり、全部で46冊。本居宣長書簡一巻が添えられており、平成3年から本居宣長記念館に寄託されている。
+　非常に信仰心の厚かった宣長は、『古事記伝』を刊行するたびに伊勢両宮、熱田神宮、松阪の神社三社の神前に一部を献納している。松阪の三社は御厨神社と八雲神社、山神社とされているが、現在見つかっているのは、御厨神社のものだけである。『古事記伝』の奉納本としては、御厨神社本が唯一の伝本である可能性が高く、それに関する本居宣長の書簡が現存する。保存状態は比較的良好で、特に本紙の状態は完璧であり、帙・本箱も完備している。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/hounoubonkojikiden.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/hounoubonkojikiden.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"奉納本古事記伝　附　本居宣長書簡" (JMH-242047-0099), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>角屋七郎兵衛等供養碑 及 松本駝堂墓 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>角屋七郎兵衛等供養碑 及 松本駝堂墓</h1>
+    <p class="jmh-id">JMH-242047-0066</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定史跡</dd>
+      <dt>指定年月日</dt><dd>1985-03-30</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:2基／江戸時代／白粉町　来迎寺／供養碑：総高139.5cm、墓碑：総高56.5cm／昭和60年3月30日。安南(あんなん)（ベトナム）貿易家の角屋七郎兵衛（1610～1672）は、湊町の廻船問屋角屋七郎次郎の次男。寛永10年（1631）22歳の時、初航海で交趾（コーチ）へ渡るが、その2年後に鎖国令が出されたため、現地に永住することを決意する。その後、會安（ホイアン）の日本人町の長として活躍をしながら、松坂の一族とも音信を交わし、伊勢神宮や松坂城下の寺社への寄進を続けた。供養碑は、七郎兵衛とその一族の名を刻むが、建立年は不明である。
+　松本駝堂（1673～1751）は、角屋家別家出身の外科医。松坂出身の丹羽正伯(にわしょうはく)や植村正勝とともに本草(ほんぞう)学者として知られた人物である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/kadoyashitirobetokuyoto.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/kadoyashitirobetokuyoto.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"角屋七郎兵衛等供養碑 及 松本駝堂墓" (JMH-242047-0066), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

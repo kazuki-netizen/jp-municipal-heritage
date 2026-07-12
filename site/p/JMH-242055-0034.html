@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>蛤墳 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>蛤墳</h1>
+    <p class="jmh-id">JMH-242055-0034</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1966-11-22</dd>
+      <dt>所在地</dt><dd>今中町7番地3</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1基／形状:総高:183cm 碑の高さ:62cm 幅:30cm 厚さ:24cm／年代:江戸時代　文政6年（1823）9月／所有者:専正寺／管理者:専正寺。当寺はもと正念寺、戦後専久寺とあわせて専正寺と称した。 碑の中央に｢蛤墳｣、その両側に細字で碑文と歌一首が次のように刻まれている。 ｢みでらちかきわたりには年を経(３字不明)蛤のさはにとられけるを谷何がしのいたみてそれが為に石ふみ建て供養し侍る いせのうみのあさからぬ心さしははまぐりも身をひるがへしてよろこばざらめや(３字不明)さとらめ あまおふねのりのみ声にはまぐりの貝の耳にもとめてしのばむ 一雲山人行業」裏銘｢文政六年癸末九月 今一色谷氏 建之」。 一雲山人行業は黒沢翁満(国学者、歌人、桑名藩士）の父で、狂歌に秀でた人、今一色あたりは、江戸初期には漁村で、当前蛤の貝殻で厚く地面は覆われていた。 文政年間この地の住人谷氏が、これら無尽蔵の貝殻をみて、蛤の供養を思い立ち、正念寺の墓地にこの碑を建てた。 もとは1m足らずのものであったのを、大正年間、時雨蛤の同業８人が現在のように改築したもの</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/077.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/077.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"蛤墳" (JMH-242055-0034), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.068439, 136.689774], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.068439, 136.689774]).addTo(m);
+  </script>
+</body>
+</html>

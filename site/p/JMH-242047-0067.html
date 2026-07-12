@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>釜生田辻垣内瓦窯跡群 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>釜生田辻垣内瓦窯跡群</h1>
+    <p class="jmh-id">JMH-242047-0067</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>市指定史跡</dd>
+      <dt>指定年月日</dt><dd>1985-08-01</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:2基／奈良時代／嬉野釜生田町　釜生田自治会／昭和60年8月1日。中村川左岸の標高38mの河岸段丘上斜面に位置する瓦窯跡群である。昭和59年に発掘調査が行われ、7世紀後半代のあな窯3基と8世紀後半代のロストル窯2基が確認されている。その内であな窯2基と平窯(ひらがま)1基が発掘調査されている。あな窯の内、2号窯跡からは鴟尾(しび)3個体分の遺物が確認されており、鴟尾焼成用の窯と考えられている。
+　鴟尾が出土した2号窯は、南に急傾斜する丘陵斜面及び頂部平担面を利用し築かれ、たき口は南斜面にほぼ直交している。規模は残存長6月8日m、幅1月2日mを測る、半地下式のあな窯である。側壁・床面にスサ入り粘土を張り付けて構築される。
+　窯跡からは複弁八葉軒丸瓦(ふくべんはちようのきまるがわら)（川原寺式）や複線鋸歯文複弁七葉軒丸瓦(ふくせんきょしもんふくべんしちようのきまるがわら)（一志廃寺式）などが確認されており、旧一志郡内の古代寺院造営の状況が分かる窯跡である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/kamodatsujigaitogayosekigun.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/kamodatsujigaitogayosekigun.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"釜生田辻垣内瓦窯跡群" (JMH-242047-0067), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

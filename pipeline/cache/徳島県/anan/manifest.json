@@ -1,0 +1,18 @@
+{
+  "f2bf249b54f97a53": {
+    "url": "https://www.city.anan.tokushima.jp/docs/2010090700160/",
+    "filename": "f2bf249b54f97a53.html",
+    "sha256": "607ab97539d96303864a394a622ad91fccf3af435d63caae8eead4c03c1412d3",
+    "fetched_at": "2026-07-12T07:34:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7ccaa8b1410669d7": {
+    "url": "https://www.city.anan.tokushima.jp/docs/2022052700026/file_contents/wakasugikatuyou.pdf",
+    "filename": "7ccaa8b1410669d7.pdf",
+    "sha256": "d6801d13e33f3f589dc99beb70f8945e083441518e5af5aa28ab99d7d87dbf73",
+    "fetched_at": "2026-07-12T07:35:05Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

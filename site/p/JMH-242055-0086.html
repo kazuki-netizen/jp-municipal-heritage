@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>宝暦治水史跡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>宝暦治水史跡</h1>
+    <p class="jmh-id">JMH-242055-0086</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1991-04-01</dd>
+      <dt>所在地</dt><dd>多度町香取135番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1体／所有者:常音寺。木曽川三川下流域は、百輪中とよばれるほど多くの輪中が形成され、川の流れは複雑で常に洪水の危険にさらされていました。そのため、江戸時代を通じて治水対策は重要な施策の一つでした。幕府が、薩摩藩に命じて行わせたのが宝暦3（1753）年からの治水工事で、多度には幕府や薩摩の役人の宿泊地がありました。工事は難行を極め、幕府の役人の嫌がらせもあり、薩摩藩士の中からは病で亡くなった人、抗議のために自殺した人が84人も出ました。総監督であった平田靱負も責任をとって自害しました。常音寺には、その内5人の墓があり昭和10(1935)年に建てられた墓碑とともに祀られています。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/133.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/133.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"宝暦治水史跡" (JMH-242055-0086), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.133862, 136.650192], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.133862, 136.650192]).addTo(m);
+  </script>
+</body>
+</html>

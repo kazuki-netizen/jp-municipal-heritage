@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>木造阿弥陀如来立像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>木造阿弥陀如来立像</h1>
+    <p class="jmh-id">JMH-242047-0019</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>1960-12-01</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:1躯／室町時代／白粉町　常教寺／像高49.5cm、寄木造、素木地／昭和35年12月1日。切れ長な目をあらわし、鼻口は小さく造る。やや張った肩や薄く階調美しく整えた衣文など鎌倉時代に遡る像である。左脇にアクセントをもつ衣文処理には、慶派(けいは)との関係で、とくに注目される。肉髻(にっけい)、地髪(じはつ)を多少低くつくり、荒めの螺髪(らほつ)とともに宋風を基とした当時の流行の断片が垣間見られる。
+　もとは笹川町字只越の地蔵堂に安置されていたが、明治末の廃寺の際、個人蔵となり、最近、常教寺に施入された。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/mokuzoamidanyorairyuzo-jyokyoji.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/mokuzoamidanyorairyuzo-jyokyoji.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"木造阿弥陀如来立像" (JMH-242047-0019), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

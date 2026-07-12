@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>水谷九左衛門光勝墓 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>水谷九左衛門光勝墓</h1>
+    <p class="jmh-id">JMH-242055-0029</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1966-11-22</dd>
+      <dt>所在地</dt><dd>萱町74番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:3基／形状:総高128cm（光勝）／年代:江戸時代　元和4年（1618）7月／所有者:顕本寺／管理者:顕本寺。3基並立しているなかで、向かって右端が水谷光勝の墓、五輪塔で空、風、火、水、地輪の各4面に「南無妙法蓮華経」、地輪中央に「昌慶位」、その両側に「真如院逆修元和四暦戌午七月吉日」(1618)とあり、中央は同形で光勝の妻、地輪には光勝墓と同じく「妙寿位」、「安立院逆修元和四暦戌午七月吉日」とある。 逆修とは生前建立の墓で、実際の没年は光勝は寛永7年(1630)12月12日、妻は寛永8年8月8日である。 向かって左端の浄智院澄月一栄位（寛永5年7月18日） は当寺過去帳に「古帳損□之故不分明」となっている。 水谷九左衛門光勝の出自(生地)については詳伝が伝わらぬので残念であるが、推測すれば伊勢塩浜あたりであろう。 徳川家康最大の難とされる伊賀越え（本能寺変の時）の折、伊勢から三河への渡海に案内をしたのが光勝で、その後四日市代官、名古屋城築の作業奉行、山田奉行などを歴任した。 春日神社文書(桑名神</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/079.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/079.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"水谷九左衛門光勝墓" (JMH-242055-0029), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.032246, 136.694473], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.032246, 136.694473]).addTo(m);
+  </script>
+</body>
+</html>

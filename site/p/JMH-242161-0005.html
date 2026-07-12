@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>獅子踊 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>獅子踊</h1>
+    <p class="jmh-id">JMH-242161-0005</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>伊賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1955-10-01</dd>
+      <dt>所在地</dt><dd>三重県伊賀市島ヶ原</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者:獅子神楽保存会。鸕宮神社の秋祭に境内で奉納される4頭の獅子による獅子踊りである。享保年間（1716～1736）に敢国神社の獅子舞（県指定文化財）の影響を受けて始められたようで、大広前・五段神楽・剣の舞・獅子踊り・鼻高・荒舞などの演目が伝えられている。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank" rel="noopener">https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d</a><br>
+      形式: opendata &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"獅子踊" (JMH-242161-0005), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.770733, 136.054337], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.770733, 136.054337]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>辻堂古墳 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>辻堂古墳</h1>
+    <p class="jmh-id">JMH-242161-0080</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>伊賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1973-04-01</dd>
+      <dt>所在地</dt><dd>三重県伊賀市中村</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>時代:古墳時代。所有者:中村区。山田盆地東側の服部川右岸段丘上に立地する。両袖式の横穴式石室を有する古墳で、径20ｍ程度の円墳であったと推定される。石室の天井石と側壁上半部は失われているが、羨道部に設けられた排水溝は良く残っている。また、石室内には組合式石棺が残存し、北伊賀には少ない事例として注目される。石室内から須恵器などが出土している。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d" target="_blank" rel="noopener">https://data.bodik.jp/dataset/242161_cultural_property/resource/2a3c620e-d01c-417f-bedb-338528ea0b4d</a><br>
+      形式: opendata &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"辻堂古墳" (JMH-242161-0080), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.758087, 136.23262], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.758087, 136.23262]).addTo(m);
+  </script>
+</body>
+</html>

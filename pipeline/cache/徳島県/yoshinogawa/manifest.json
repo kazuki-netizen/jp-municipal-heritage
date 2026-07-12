@@ -1,0 +1,18 @@
+{
+  "ea08963728ee93ec": {
+    "url": "https://www.city.yoshinogawa.lg.jp/docs/2021032400031/",
+    "filename": "ea08963728ee93ec.html",
+    "sha256": "6b0cf73e068249adfe159a2f5e3c728d6f9355a460d1542ac267602ca7190c89",
+    "fetched_at": "2026-07-12T07:35:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bf533e5004ec1969": {
+    "url": "https://www.city.yoshinogawa.lg.jp/docs/2021032400031/file_contents/shishiteibunkazair5222.pdf",
+    "filename": "bf533e5004ec1969.pdf",
+    "sha256": "7c5f5ed6cc4243b81342bf27453e15567267a74bb605100c44c02748d84cd65d",
+    "fetched_at": "2026-07-12T07:35:08Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>生桑長松神社の大鏡餅神事 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>生桑長松神社の大鏡餅神事</h1>
+    <p class="jmh-id">JMH-242021-0042</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>2002-08-29</dd>
+      <dt>所在地</dt><dd>生桑町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>保持者:生桑町自治会。1月2日の早暁、順に務める当番から特殊な形状の鏡餅を生桑長松神社に奉納する行事です。大鏡は、四升丸餅と称する二段の円筒形の餅の上に、鳥で羽を広げたような形状のトンビを縦横に交差して二段に重ねたものを置き、一番上に串柿とダイダイを乗せて、トンビからタワラモを垂らします。これが一対です。本殿まで分解されて長持で運搬された大鏡餅は、本殿前に供えられ、神事の後、切りわけられて参詣者に配られます。この行事は滋賀県北部に広く分布する餅オコナイと称する行事と共通する要素が多く、民俗学的に注目されます。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002646/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002646/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"生桑長松神社の大鏡餅神事" (JMH-242021-0042), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.983887, 136.600021], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.983887, 136.600021]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>広山和尚像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>広山和尚像</h1>
+    <p class="jmh-id">JMH-242021-0014</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財（絵画）</dd>
+      <dt>指定年月日</dt><dd>1959-03-25</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>所有者:大樹寺（市場町） 法量 縦109.0cm 横51.5cm 材質・形状 絹本著色 掛幅 製作年代 正保2年（1645）頃 江戸時代。大樹寺の12代住持で妙心寺の185世法主にもなった広山元廈（こうざんげんか）の頂相（ちんそう）です。頂相とは禅宗において教えを受け継ぐ者の証明として師匠が弟子に与える自分の肖像画です。 広山は、桑名藩主松平氏の帰依が深かったといわれ、大雄正智（たいゆうしょうち）禅師の諡（おくりな）を天皇から与えられました。この絵は曲 （きょくろく）に座り、警策を握る静かななかにも威厳を具えた姿で描かれています。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002619/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002619/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"広山和尚像" (JMH-242021-0014), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.965118, 136.624451], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.965118, 136.624451]).addTo(m);
+  </script>
+</body>
+</html>

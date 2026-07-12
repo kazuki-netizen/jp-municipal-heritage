@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>天野周防守宛豊臣秀吉朱印状 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>天野周防守宛豊臣秀吉朱印状</h1>
+    <p class="jmh-id">JMH-242055-0105</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>2010-03-02</dd>
+      <dt>所在地</dt><dd>桑名市京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1通／形状:絵本墨書、折紙縦46cm横64.4cm／年代:安土桃山／所有者:桑名市博物館／管理者:解説。豊臣政権期の桑名や北伊勢に関する文書は数少なく、同時期の歴史像を示す貴重な史料である。この文書は家臣の天野周防守雄光に宛てた豊臣秀吉朱印状で、秀吉の署名はなく朱印のみが押印されている。折紙形式で、様式から天正年間後半から秀吉の亡くなる慶長3年（1598）までのものと思われる。文字的にも紙質からみても当時のものとみて間違いない。 内容は、滝川雄利に命じた米2万石を入れる蔵を用意して早急に米の搬入を申し付けたもので、天野には当地での米の番も命じられている。また、美濃国から積み出した米を小船で桑名へ運ぶことにも精を出すよう述べている。桑名や北伊勢は天正11年（1583）以降織田信長の次男織田信雄領であったが、同18年の信雄改易以後、豊臣政権の直轄領や家臣の所領となり、そういったことからこの文書も天正18年以降のものと思われる。2万石の米を入れ置く蔵を桑名に設置し、早急に米を運びこむような事態は、</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/150.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/150.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"天野周防守宛豊臣秀吉朱印状" (JMH-242055-0105), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

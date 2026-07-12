@@ -1,0 +1,1267 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	神埼デジタルミュージアム「かんざき@NAVI」-神埼市の指定文化財
+</title><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="description" content="かんざき@NAVIは、佐賀県神埼市に今も数多く残る、歴史遺産や地域資源を紹介する、インターネット上の博物館です。" /><meta name="keywords" content="佐賀県神埼市デジタルミュージアム,歴史遺産,地域資源" />
+    <!--<link href="css/import.css" rel="stylesheet" type="text/css" />-->
+    <link href="/css/reset.css" rel="stylesheet" type="text/css" /><link href="/css/contents.css" rel="stylesheet" type="text/css" /><link href="/css/animate.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/Images/favicon.ico" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://www.google.com/jsapi" type="text/javascript"></script>
+    <script src="/js/jquery.sidr.min.js" type="text/javascript"></script>
+    <link href="/css/jquery.sidr.dark.css" rel="stylesheet" type="text/css" /><meta property="og:title" content="かんざき@NAVI" /><meta property="og:type" content="website" /><meta property="og:description" content="かんざき@NAVIは、佐賀県神埼市に今も数多く残る、歴史遺産や地域資源を紹介する、インターネット上の博物館です。" /><meta property="og:url" content="https://www.kanzaki-museum.com/" /><meta property="og:image" content="/Images/ogp.png" /><meta property="og:site_name" content="かんざき@NAVI" /><meta name="twitter:card" content="summary" /><!--タイプ-->
+    <meta name="twitter:site" content="@k_museum" /><!--アカウント-->
+    <meta name="twitter:title" content="かんざき@NAVI" /><!--title-->
+    <meta name="twitter:description" content="かんざき@NAVIは、佐賀県神埼市に今も数多く残る、歴史遺産や地域資源を紹介する、インターネット上の博物館です。" /><!--文章-->
+    <meta name="twitter:image" content="/Images/ogp.png" /><!--画像-->
+    <script type="text/javascript" src="/js/wow.min.js"></script>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZCDKRGK1B1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
+
+			gtag('config', 'G-ZCDKRGK1B1');
+		</script>
+<script type="text/javascript">    new WOW().init();</script>
+<script type="text/javascript">
+
+   //navi固定
+    $(function () {
+        var nav = $('.navi');
+        var navTop = nav.offset().top;
+        $(window).scroll(function () {
+            var winTop = $(this).scrollTop();
+            if (winTop >= navTop) {
+                nav.addClass('fixed')
+            } else if (winTop <= navTop) {
+                nav.removeClass('fixed')
+            }
+        });
+    });
+
+
+    $(function () {
+        //アコーディオン設定
+        $(".acMenu dt, .acMenu2 dt, .acMenu4 dt,.acMenu5 .acc").on("click", function () {
+            $(this).next().slideToggle();
+            $(this).toggleClass("active"); //.active追加
+        });
+
+        
+
+
+        
+
+        //ファイル名frmDataList.aspxとfrmDataDtetail.aspx以外の.Bunruiは隠す
+                    var url = window.location.href;
+                    var filename_ex = url.match(".+/(.+?)([\?#;].*)?$")[1];
+                    if (filename_ex == "/frmDataList.aspx") {
+                        var tmp = location.search;
+                        if (tmp != "") {
+                            tmp = tmp.substring(1, tmp.length);
+                            var tmp2 = tmp.split("&");
+                            for (i in tmp2) {
+                                var hensu = tmp2[i].split("=")[0];
+                                var atai = tmp2[i].split("=")[1];
+                                var query = "" + hensu + "=" + atai + "";
+                                
+                                //alert(query);
+                                if (query == "kbn=2") { $(".location").wrap("<dd></dd>"), $(".era").wrap("<dd></dd>"); }
+                                else if (query == "kbn=1") { $(".Bunrui").wrap("<dd></dd>"), $(".era").wrap("<dd></dd>"), $(".location").wrap("<dd></dd>"); }
+                                else if (query == "kbn=3") { $(".Bunrui").wrap("<dd></dd>"), $(".era").wrap("<dd></dd>"); }
+                                else if (query == "kbn=4") { $(".location").wrap("<dd></dd>"), $(".Bunrui").wrap("<dd></dd>"); }
+
+                            }
+
+                        }
+                    
+                    } else{
+                        $(".location").wrap("<dd></dd>"), $(".Bunrui").wrap("<dd></dd>"), $(".era").wrap("<dd></dd>");
+                    }
+
+        $('.scrolltop').click(function () {
+            $('body,html').animate({ scrollTop: 0 }, 800);
+        });
+    });
+
+
+        //ブラウザ判定
+        var _ua = (function () {
+            return {
+                ltIE6: typeof window.addEventListener == "undefined" && typeof document.documentElement.style.maxHeight == "undefined",
+                ltIE7: typeof window.addEventListener == "undefined" && typeof document.querySelectorAll == "undefined",
+                ltIE8: typeof window.addEventListener == "undefined" && typeof document.getElementsByClassName == "undefined",
+                ltIE9: document.uniqueID && typeof window.matchMedia == "undefined",
+                gtIE10: document.uniqueID && window.matchMedia,
+                Trident: document.uniqueID,
+                Gecko: 'MozAppearance' in document.documentElement.style,
+                Presto: window.opera,
+                Blink: window.chrome,
+                Webkit: typeof window.chrome == "undefined" && 'WebkitAppearance' in document.documentElement.style,
+                Touch: typeof document.ontouchstart != "undefined",
+                Mobile: (typeof window.orientation != "undefined") || (navigator.userAgent.indexOf("Windows Phone") != -1),
+                ltAd4_4: typeof window.orientation != "undefined" && typeof (EventSource) == "undefined",
+                Pointer: window.navigator.pointerEnabled,
+                MSPoniter: window.navigator.msPointerEnabled
+            }
+
+        })();
+
+        $(document).ready(function () {
+            //横スライド jquery.sidr.min.jsの設定
+            $('#right-menu').sidr({
+                name: 'right-sidr',
+                side: 'right'
+            });
+
+            if (_ua.ltIE9) {
+                //この中のコードはIE9以下用
+                //webfontをIE9以下は消す
+                $("i").css("display", "none");
+            }
+
+        });
+
+ </script>
+<style>
+    .header_links a{ font-weight: bold;}
+    #subBunrui1_icon,#subBunrui2_icon,#subBunrui3_icon{ float: left; width:10px;}
+    #subBunrui1_icon i,#subBunrui2_icon i,#subBunrui3_icon i{ margin:0; padding:0; line-height:100%; font-size:12px; position: relative; top:-2px;}
+    .acMenu3 ul li{ font-weight: bold;}
+    .acMenu3 ul li.subBunrui1,.subBunrui1{ padding:0; margin-top:20px; font-weight: normal; margin-bottom:-10px;}
+    .acMenu3 ul li.subBunrui2{ padding:0 0 0 10px; font-weight: normal; margin:0 0 -10 0px;}
+    .acMenu3 ul li.subBunrui3{ padding:0 0 0 20px; font-weight: normal; margin:0 0 -10 0px;}
+    .acMenu3 ul li.subBunrui1 a,.acMenu3 ul li.subBunrui2 a,.acMenu3 ul li.subBunrui3 a{ border:none; display: block;line-height:100%; width:100%; overflow: hidden; padding:0 0 0 5px; margin:-8px 0; font-size:90%;}
+    .hamburger{ position: absolute; top:0; right:0; z-index:9999999;}
+    .oshirase span{font-size:10px; position: absolute;right:0px;top:2px; background:url(/Images/flag.png) center top no-repeat; line-height:100%; width:18px; height:28px; text-align: center; padding-top:4px;}
+    .oshirase{ background:url(/Images/osirase_icon.png) center center no-repeat; width:12px; height:24px;}
+    .ItouOshirase span{ font-size:10px; position: absolute;right:0px;top:2px; background:url(/Images/flag.png) center top no-repeat; line-height:100%; width:18px; height:28px; text-align: center; padding-top:4px;}
+    /*.ItouOshirase span{ font-size:9px; position: absolute;right:0px;top:0px; background-color:#f33; padding:3px 6px;border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px; line-height:100%;}
+    */
+    .acMenu dt,.acMenu2 dt
+    {
+        position: relative;
+    display:block;
+    width:95%;
+    height:35px;
+    line-height:35px;
+    /*text-align:center;*/
+    padding-left:5%;
+    cursor:pointer;
+    background:#336699;/*338299*/
+    color:#fff;
+    }
+    .news_btn{ display: block; padding:10px 0 5px 0; background-color:#336699;color:#fff; text-align: center; line-height:100%; position: relative; border-bottom:4px solid #114477;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;}
+    .news_btn:hover{color:#fff; text-decoration:none;}
+    .acMenu dt img,.acMenu2 dt img,.acMenu3 dt img{position: absolute;right:8px;top:8px;}
+    .acMenu dd,.acMenu2 dd,.acMenu3 dd{display:none;}
+    .acMenu dd div
+    {
+    background:#338299;
+    width:100%;   
+    height:35px;
+    line-height:35px;
+    text-align:center;
+    border-top:#4493aa 1px solid;
+    border-bottom:#227188 1px solid;
+    color:#fff;
+    font-size:90%;
+        }
+        /* map */
+        .infowindow{ text-align: center;}
+        .infowindow p span{ font-size:10px; line-height:110%;}
+        .infowindow p{ font-size:20px; margin-bottom:10px;}
+        /*
+.acMenu dt.active,.acMenu2 dt.active,.acMenu3 dt.active{background:#4493aa;}
+*/
+
+li.subBunrui1 a{ line-height:150% !important;}
+
+/*---------------------------------------*/
+.acMenu2,.acMenu3{ margin-bottom:5px;}
+
+
+.acMenu2 div
+    {
+    background:#fff;
+    width:96%;   
+    padding:2%;
+    line-height:150%;
+    font-size:90%;
+        }
+/*---------------------------------------*/
+.acMenu3 dt
+{
+    position: relative;
+    display:block;
+    width:95%;
+    height:35px;
+    line-height:35px;
+    /*text-align:center;*/
+    padding-left:5%;
+    cursor:pointer;
+    background:#338299;
+    color:#fff;
+    }
+.acMenu3 dd div
+    {
+    background:#fff;
+    width:96%;   
+    padding:2%;
+    line-height:150%;
+    font-size:100%;
+        }
+/*---------------------------------------*/
+
+.acMenu4 dd{display:none;}
+.acMenu4 div
+    {
+    width:100%;  
+    font-size:90%;
+        }
+.acMenu4 div a
+    {color:#fff; padding:5% 0;line-height:150%; display: block;width:100%;}
+.acMenu4 div a i{ font-size:12px; position: relative; top:0px;}
+.acMenu4 div a:hover
+    {background-color:rgba(255,255,255,0.2); opacity:1;}
+   
+/*---------------------------------------*/
+
+.header_links{ font-size:75%;}
+.header_links img{ padding-right:5px; }
+
+.fb-page{ width:100%;}
+.banner{ text-align: center; margin-bottom:10px;}
+.banner img{ max-width:100%;}
+.tw-page,.facebook{ text-align: center;}
+.menu2 i,.menu i{ font-size:22px;}
+.menu_inner ul li{ margin:8px 0;}
+.menu_inner ul li span{ font-size:80%; line-height:100%;}
+.floatnavi1{ width:30px; height:100px; background:url(/Images/float_navi1.png); display: block; position: relative;right:0;}
+.floatnavi1:hover{background:url(/Images/float_navi1.png) 30px 0px; display: block;}
+.floatnavi2{ width:30px; height:100px; background:url(/Images/float_navi2.png); display: block;}
+.floatnavi2:hover{background:url(/Images/float_navi2.png) 30px 0px; display: block;}
+.common_navi{right:10px;}
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+ /* SP ------------------------------------------------------------*/
+@media (max-width: 720px) 
+{
+    
+}
+</style>
+  
+<style>
+    table{ border:none;border-collapse: collapse; overflow: scroll; width:100%;}
+    .fs12{ font-size:12px;}
+</style>
+</head>
+<body>
+<div id="fb-root"></div>
+<script type="text/javascript">    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
+<form name="aspnetForm" method="post" action="./frmAboutDetail3.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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jO+8l+W5tOW6piDnpZ7ln7zlob7jgpLplovlgqzjgZfjgb7jgZnjgII8L2E+PC9saT48bGk+PHNwYW4+MjAyNS4wNS4xMC48L3NwYW4+PGJyPjxhIGhyZWY9Ii9pdG9nZW5ib2t1L2ZybUl0b3VBbm5vdW5jZURldGFpbC5hc3B4P2Fubm91bmNlaWQ9MjUiID7npZ7ln7zpg7flnJ/noJTnqbbkvJrjga7nt4/kvJrjgavjgYrjgYTjgaborJvmvJTjgpLooYzjgYTjgb7jgZfjgZ88L2E+PC9saT5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxY7BRBjdGwwMCRjYmxBcmVhMiQwBRBjdGwwMCRjYmxBcmVhMiQxBRBjdGwwMCRjYmxBcmVhMiQyBRBjdGwwMCRjYmxBcmVhMiQzBRBjdGwwMCRjYmxBcmVhMiQ0BRBjdGwwMCRjYmxBcmVhMiQ1BRBjdGwwMCRjYmxBcmVhMiQ2BRBjdGwwMCRjYmxBcmVhMiQ3BRBjdGwwMCRjYmxBcmVhMiQ4BRBjdGwwMCRjYmxBcmVhMiQ5BRFjdGwwMCRjYmxBcmVhMiQxMAURY3RsMDAkY2JsQXJlYTIkMTEFEWN0bDAwJGNibEFyZWEyJDEyBRFjdGwwMCRjYmxBcmVhMiQxMwURY3RsMDAkY2JsQXJlYTIkMTQFEWN0bDAwJGNibEFyZWEyJDE0BRBjdGwwMCRjYmxBcmVhMSQwBRBjdGwwMCRjYmxBcmVhMSQxBRBjdGwwMCRjYmxBcmVhMSQyBRBjdGwwMCRjYmxBcmVhMSQyBRBjdGwwMCRjYmxBcmVhMyQwBRBjdGwwMCRjYmxBcmVhMyQxBRBjdGwwMCRjYmxBcmVhMyQyBRBjdGwwMCRjYmxBcmVhMyQzBRBjdGwwMCRjYmxBcmVhMyQ0BRBjdGwwMCRjYmxBcmVhMyQ1BRBjdGwwMCRjYmxBcmVhMyQ2BRBjdGwwMCRjYmxBcmVhMyQ3BRBjdGwwMCRjYmxBcmVhMyQ4BRBjdGwwMCRjYmxBcmVhMyQ5BRFjdGwwMCRjYmxBcmVhMyQxMAURY3RsMDAkY2JsQXJlYTMkMTEFEWN0bDAwJGNibEFyZWEzJDEyBRFjdGwwMCRjYmxBcmVhMyQxMwURY3RsMDAkY2JsQXJlYTMkMTMFFGN0bDAwJGNibEFyZWFPdGhlciQwBRRjdGwwMCRjYmxBcmVhT3RoZXIkMAURY3RsMDAkY2JsUGVyaW9kJDAFEWN0bDAwJGNibFBlcmlvZCQxBRFjdGwwMCRjYmxQZXJpb2QkMgURY3RsMDAkY2JsUGVyaW9kJDMFEWN0bDAwJGNibFBlcmlvZCQ0BRFjdGwwMCRjYmxQZXJpb2QkNQURY3RsMDAkY2JsUGVyaW9kJDYFEWN0bDAwJGNibFBlcmlvZCQ3BRFjdGwwMCRjYmxQZXJpb2QkOAURY3RsMDAkY2JsUGVyaW9kJDkFEmN0bDAwJGNibFBlcmlvZCQxMAUSY3RsMDAkY2JsUGVyaW9kJDExBRJjdGwwMCRjYmxQZXJpb2QkMTIFEmN0bDAwJGNibFBlcmlvZCQxMwUSY3RsMDAkY2JsUGVyaW9kJDE0BRJjdGwwMCRjYmxQZXJpb2QkMTUFEmN0bDAwJGNibFBlcmlvZCQxNgUSY3RsMDAkY2JsUGVyaW9kJDE3BRJjdGwwMCRjYmxQZXJpb2QkMTgFEmN0bDAwJGNibFBlcmlvZCQxOQUSY3RsMDAkY2JsUGVyaW9kJDIwBRJjdGwwMCRjYmxQZXJpb2QkMjDiugyh9ZHIWdJcb+NyXCURnN59UqqvzrrSgn7JIum18A==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A77C75C4" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdADv3/nnjvRCCt3mJBmZLk/WE4+3WpZQNb82rzs2KnT3rh1V6RkAfufrqJa6LpqnGFgtDUGvpfFJAokdyyGdXKCSPEu6sVJCw/XquZG+UrjiPvqCIiK2+UFIyhCJssfaXuxiY+blJrU2ghJbrt88zLMWpW2ZQII0Okf04VYI1eQvTse/Ll/vGSmoiIvmLw4cT0LLhDy7dtYMH0gBpYwh49Sok2+UqvasVGBVST8C63tXodYrZVogJTS8ifYbS+J5V/TyH73J7W2aYEdI5h8flLxAPIWlnfrAhBYvKMRC201/3mqklDzTbIN7+h59yfAaK81rS9UKtMUIib9+khnxwjkVsNyeuvJYBYF6iB5RFO1Dt57m8ZcyF0wDBQL2OJ7rYMXMAazBE7RYGvDBwRiMlrVHiHuJeNlbykH/asNYFH38UQcLllr9NQy1EZX7+wYYJBVIooGdoL9DErEJU/7sWj3Id1DwQ3+PcI4IHpWUll96/oS9gaTYbnlD5Vtnoj30pd1idXuBb9gLXHuX9pIs/NSQy3n9hRNdStqxEM3AN13A/sC3ZQMR4lPDIQNHmxjPv8k5YInGmEbLamKZkXp55Xvmz18YT7wW5VWVAoAbR96t9tx24e14m/8js7jrFtChBCS8R7dcE8TCA9cD88U4k7GfYfUyJLXG63meEdUtHkb15Q4ZqDOi9wnZqMBaLNAwqLFRH8nOun+ggkiM+2Mjam5MkvEKqv0SiXZJjxhdmn3u1NXG2wsPBK9XY0nuJrECuDyGMxE9NmUF2mXpt+ICaOGDPiUkyg+8KakxuKQmJtfRvt3clxQUbIm6DHMXSZ4OpEjvJBjGe+hqUFFBEz4AJSszwAunI/0APhi9zNpF2nLeAp5LMtGCGqjMQKdc0R/8lmuhoMXGnxo+xTECUYfVmZJCdzDHlvIlWnesrh2QYUyEJbSHe5/Grf/xpjpoyPdqgIX/XzAI5bmsWEuopPxzpIR8VYAPYKoNPqbawjlQR9/YshPoDU502dP/FnPjh+DaJWwThJmrIsOqF7o9ikaSsghiHd4itbOnaCmluO80pe69Y/ThIFPHzzaifS1Chlm6ZlX20HOKsgBdPuBaU4taBy4BiEfXD8Y4dMuaBzYPsFrn9Zu2WNlRDBq9+LVgflqeWZsd0ziC5oMfdtza+oBC6QthJ1CBK2XAkxbE5g+3jofOtvGSlosNIBlNFv+jNS+h9pvDzJaTpT9B+RE4I7XIKrXB57WBlYp9X9fmwNiIK5tSgUv2ph+NsLikpmVs135YC2xI2JQb45YzItGAQIXi+Sy4C" />
+  <div>
+    <div id="header">
+      <div class="header_inner">
+        <div class="inner" style=" padding:12px 0;">
+          <div class="header_logo" style=" float: left; padding-right:5px;">
+            <a href="/"><img src="/Images/header_logo.png" alt=""/></a>
+          </div>
+          <div class="pc">
+            <div class="" style=" float: left;">
+
+              <a href="/johokan/"><img src="/Images/header_Guide.png" alt=""/></a>
+            </div>
+            <div class="" style=" float: left;">
+
+              <a href="/itogenboku/"><img src="/Images/header_Itou.png" alt=""/></a>
+            </div>
+            <div class="header_links">
+              <a href="/frmContact.aspx"><img src="/Images/mail_icon.png" alt=""/>お問合わせ</a><br>
+              <a href="/frmSiteMap.aspx"><img src="/Images/site_icon.png" alt=""/>サイトマップ</a>
+            </div>
+          </div>
+        </div>
+        <div class=" tb_sp">
+          <div class="hamburger"><div id="right-menu" href="#right-sidr"><img src="/Images/hamburger.png" alt=""/></div></div>
+          <div id="right-sidr">
+	          <ul>
+		          <li><a href="/">HOME</a></li>
+              <li><a href="/frmFeature.aspx">展示室</a></li>
+              <li><a href="/frmData.aspx">資料室</a></li>
+              <li><a href="/itogenboku/">伊東玄朴顕彰室</a></li>
+              <li><a href="/frmPanoramaList.aspx">パノラマ神埼</a></li>
+              <li><a href="/frmMovieList.aspx">映像で見る神埼</a></li>
+              <li><a href="/frmCommunity.aspx">人が繋ぐ神埼</a></li>
+              <li><a href="/frmGuide.aspx">ご利用案内</a></li>
+              <li><a href="/frmAbout.aspx">神埼市基本情報</a></li>
+              <li><a href="/frmContact.aspx">お問い合わせ</a></li>
+              <li><a href="/frmRule.aspx">ご利用規約</a></li>
+              <li><a href="/frmSiteMap.aspx">サイトマップ</a></li>
+	          </ul>
+          </div>
+        </div>
+      </div>
+      <div class="navi pc wow fadeInDown">
+        <ul class="inner" style=" height:44px;"><!-- border-right:1px solid #fff;-->
+          <a href="/"><li>HOME</li></a>
+          <a href="/frmFeature.aspx"><li>展示室</li></a>
+          <a href="/frmData.aspx"><li>資料室</li></a>
+          
+          <!--<a href="frmItouDefault.aspx"><li class="ItouOshirase">伊東玄朴顕彰室-->
+
+              <!---->
+              
+          <!--<span class="animated rubberBand infinite">&nbsp;</span>-->
+          <!--</li></a>-->
+          <a href="/frmPanoramaList.aspx"><li>パノラマ神埼</li></a>
+          <a href="/frmMovieList.aspx"><li>映像で見る神埼</li></a>
+          <a href="/frmCommunity.aspx"><li>人が繋ぐ神埼</li></a>
+          <li class="acMenu4">
+            <dt>インフォメーション</dt>
+            <dd>
+              <div>
+                <a href="/frmAnnounceList.aspx"><div><i class=" material-icons">arrow_forward</i>お知らせ</div></a>
+                <a href="/frmGuide.aspx"><div><i class=" material-icons">arrow_forward</i>ご利用案内</div></a>
+                <a href="/frmAbout.aspx"><div><i class=" material-icons">arrow_forward</i>神埼市基本情報</div></a>
+                <a href="/frmContact.aspx"><div><i class=" material-icons">arrow_forward</i>お問い合わせ</div></a>
+                <a href="/frmRule.aspx"><div><i class=" material-icons">arrow_forward</i>ご利用規約</div></a>
+              </div>
+            </dd>
+          </li>
+          <a href="/frmAnnounceList.aspx" title="お知らせ">
+            <li class="oshirase">
+              
+            </li>
+          </a>
+        </ul>
+      </div>
+    </div>
+<div class="contents">
+  <div class="inner">
+    
+<div class="Breadcrumb"><p><a href="/"><img src="Images/icon_resouce.gif" alt="" class="bcicon">HOME</a> > 神埼市基本情報</p></div>
+<div class="right_contents">
+<div id="wrap">
+
+			<div id="contentsArea" class="clearfix">
+                <h1>神埼市の指定文化財<br><span>ABOUT KANZAKI CITY</span></h1>
+				<div id="mainCol" class="clearfix">
+					
+<p>本ページでは、神埼市に存在する、文化財の数と、その一覧をご覧頂けます。</p>
+<h3>国指定文化財</h3>
+<table border="1" width="100%">
+    <tbody>
+        <tr>
+            <th>&nbsp;</th>
+            <th>名称</th>
+            <th>種別</th>
+            <th>所在地</th>
+            <th>所有者</th>
+            <th>指定年月日</th>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">1</td>
+            <td bgcolor="#f3f3f3">吉野ヶ里遺跡</td>
+            <td bgcolor="#f3f3f3">特別史跡</td>
+            <td bgcolor="#f3f3f3">神埼町鶴・志波屋</td>
+            <td bgcolor="#f3f3f3">佐賀県ほか</td>
+            <td bgcolor="#f3f3f3">H 3.5.28</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>帯隈山神籠石</td>
+            <td>史跡</td>
+            <td>神埼町尾崎</td>
+            <td>神埼市</td>
+            <td>S 26.6.9</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">3</td>
+            <td bgcolor="#f3f3f3">姉川城跡</td>
+            <td bgcolor="#f3f3f3">史跡</td>
+            <td bgcolor="#f3f3f3">神埼町姉川</td>
+            <td bgcolor="#f3f3f3">神埼市ほか</td>
+            <td bgcolor="#f3f3f3">H 22.2.22</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>九年庵</td>
+            <td>名勝</td>
+            <td>神埼町的</td>
+            <td>佐賀県</td>
+            <td>H 7.2.21</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">5</td>
+            <td bgcolor="#f3f3f3">カササギ生息地</td>
+            <td bgcolor="#f3f3f3">天然記念物</td>
+            <td bgcolor="#f3f3f3">市内一帯</td>
+            <td bgcolor="#f3f3f3">神埼市</td>
+            <td bgcolor="#f3f3f3">T 12.3.7</td>
+        </tr>
+    </tbody>
+</table>
+<h3>国登録文化財</h3>
+<table border="1" width="100%">
+    <tbody>
+        <tr>
+            <th>&nbsp;</th>
+            <th>名称</th>
+            <th>種別</th>
+            <th>所在地</th>
+            <th>所有者</th>
+            <th>登録年月日</th>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">1</td>
+            <td bgcolor="#f3f3f3">福成歯科医院<br />
+            (旧古賀銀行神埼支店)</td>
+            <td bgcolor="#f3f3f3">有形文化財 (建造物)</td>
+            <td bgcolor="#f3f3f3">神埼町神埼(3丁目)</td>
+            <td bgcolor="#f3f3f3">神埼市</td>
+            <td bgcolor="#f3f3f3">H 13.10.12</td>
+        </tr>
+    </tbody>
+</table>
+<h3>県指定文化財</h3>
+<table border="1" width="100%">
+    <tbody>
+        <tr>
+            <th>&nbsp;</th>
+            <th>名称</th>
+            <th>種別</th>
+            <th>所在地</th>
+            <th>所有者</th>
+            <th width="85">指定年月日</th>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">1</td>
+            <td bgcolor="#f3f3f3">伊勢塚</td>
+            <td bgcolor="#f3f3f3">史跡</td>
+            <td bgcolor="#f3f3f3">神埼町志波屋</td>
+            <td bgcolor="#f3f3f3">神埼市ほか</td>
+            <td bgcolor="#f3f3f3">S 28.11.3</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>伊東玄朴旧宅</td>
+            <td>史跡</td>
+            <td>神埼町的</td>
+            <td>神埼市</td>
+            <td>S 48.4.23</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">3</td>
+            <td bgcolor="#f3f3f3">吉野ヶ里遺跡</td>
+            <td bgcolor="#f3f3f3">史跡</td>
+            <td bgcolor="#f3f3f3">神埼町志波屋</td>
+            <td bgcolor="#f3f3f3">佐賀県</td>
+            <td bgcolor="#f3f3f3">H 8.11.15</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>高志神社遺跡</td>
+            <td>史跡</td>
+            <td>千代田町下板</td>
+            <td>高志神社</td>
+            <td>H 8.11.15</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">5</td>
+            <td bgcolor="#f3f3f3">白角折神社の楠</td>
+            <td bgcolor="#f3f3f3">天然記念物</td>
+            <td bgcolor="#f3f3f3">神埼町的</td>
+            <td bgcolor="#f3f3f3">朝日地区</td>
+            <td bgcolor="#f3f3f3">S 40.7.23</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>木造薬師如来座像<br />
+            及び 脇侍菩薩立像</td>
+            <td>重要文化財 (彫刻)</td>
+            <td>神埼町神埼 (2丁目)</td>
+            <td>辻地区</td>
+            <td>S 28.11.3</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">7</td>
+            <td bgcolor="#f3f3f3">石造肥前鳥居</td>
+            <td bgcolor="#f3f3f3">重要文化財 (建造物)</td>
+            <td bgcolor="#f3f3f3">神埼町神埼 (3丁目)</td>
+            <td bgcolor="#f3f3f3">櫛田宮</td>
+            <td bgcolor="#f3f3f3">S 39.5.23</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>宝神社の銅剣</td>
+            <td>重要文化財 (考古資料)</td>
+            <td>千代田町直鳥166－1</td>
+            <td>市教育委員会</td>
+            <td>S 55.3.21</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">9</td>
+            <td bgcolor="#f3f3f3">川寄吉原遺跡出土<br />
+            鐸形土製品</td>
+            <td bgcolor="#f3f3f3">重要文化財 (考古資料)</td>
+            <td bgcolor="#f3f3f3">佐賀市城内1丁目 佐賀県立博物館・美術館</td>
+            <td bgcolor="#f3f3f3">市教育委員会</td>
+            <td bgcolor="#f3f3f3">S 59.3.21</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>川寄若宮遺跡出土<br />
+            鐸形土製品</td>
+            <td>重要文化財 (考古資料)</td>
+            <td>佐賀市城内2丁目 佐賀県立博物館・美術館</td>
+            <td>市教育委員会</td>
+            <td>S 59.3.21</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">11</td>
+            <td bgcolor="#f3f3f3">利田柳遺跡出土<br />
+            鐸形土製品</td>
+            <td bgcolor="#f3f3f3">重要文化財 (考古資料)</td>
+            <td bgcolor="#f3f3f3">千代田町直鳥166－1</td>
+            <td bgcolor="#f3f3f3">市教育委員会</td>
+            <td bgcolor="#f3f3f3">S 59.3.21</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>詫田西分遺跡出土<br />
+            鐸形土製品</td>
+            <td>重要文化財 (考古資料)</td>
+            <td>千代田町直鳥166－1</td>
+            <td>市教育委員会</td>
+            <td>S 59.3.21</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">13</td>
+            <td bgcolor="#f3f3f3">姉遺跡出土<br />
+            銅矛・銅剣鋳型</td>
+            <td bgcolor="#f3f3f3">重要文化財 (考古資料)</td>
+            <td bgcolor="#f3f3f3">千代田町直鳥166－1</td>
+            <td bgcolor="#f3f3f3">市教育委員会</td>
+            <td bgcolor="#f3f3f3">S 60.3.20</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>脊振山経塚群出土<br />
+            銅製経筒一口、紙教本十八巻</td>
+            <td>重要文化財 (考古資料)</td>
+            <td>佐賀市城内2丁目 佐賀県立博物館・美術館</td>
+            <td>市教育委員会</td>
+            <td>S 61.11.5</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">15</td>
+            <td bgcolor="#f3f3f3">黒井遺跡出土梯子</td>
+            <td bgcolor="#f3f3f3">重要文化財 (考古資料)</td>
+            <td bgcolor="#f3f3f3">千代田町直鳥166－1</td>
+            <td bgcolor="#f3f3f3">市教育委員会</td>
+            <td bgcolor="#f3f3f3">H 6.3.31</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>詫田西分遺跡出土<br />
+            木製品</td>
+            <td>重要文化財 (考古資料)</td>
+            <td>佐賀市城内2丁目 佐賀県立博物館・美術館</td>
+            <td>市教育委員会</td>
+            <td>H 6.3.31</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">17</td>
+            <td bgcolor="#f3f3f3">高志神社遺跡出土<br />
+            甕棺及び出土遺物一括</td>
+            <td bgcolor="#f3f3f3">重要文化財 (考古資料)</td>
+            <td bgcolor="#f3f3f3">千代田町直鳥166－1</td>
+            <td bgcolor="#f3f3f3">市教育委員会</td>
+            <td bgcolor="#f3f3f3">H 12.4.28</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>仁比山神社の御田舞</td>
+            <td>重要無形 民俗文化財</td>
+            <td>神埼町的仁比山神社</td>
+            <td>仁比山神社の御田舞保存会</td>
+            <td>S 34.3.20</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">19</td>
+            <td bgcolor="#f3f3f3">太神楽</td>
+            <td bgcolor="#f3f3f3">重要無形 民俗文化財</td>
+            <td bgcolor="#f3f3f3">神埼町尾崎</td>
+            <td bgcolor="#f3f3f3">太神楽保存会</td>
+            <td bgcolor="#f3f3f3">S 41.4.23</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>高志狂言</td>
+            <td>重要無形 民俗文化財</td>
+            <td>千代田町下板</td>
+            <td>高志狂言保存会</td>
+            <td>S 46.3.28</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">21</td>
+            <td bgcolor="#f3f3f3">櫛田宮神幸祭絵馬</td>
+            <td bgcolor="#f3f3f3">重要有形 民俗文化財</td>
+            <td bgcolor="#f3f3f3">神埼町神埼 (3丁目)</td>
+            <td bgcolor="#f3f3f3">櫛田宮</td>
+            <td bgcolor="#f3f3f3">S 54.3.31</td>
+        </tr>
+    </tbody>
+</table>
+<h3>市指定文化財</h3>
+<table border="1" width="100%">
+    <tbody>
+        <tr>
+            <th>&nbsp;</th>
+            <th>名称</th>
+            <th>種別</th>
+            <th>所在地</th>
+            <th>所有者</th>
+            <th>指定年月日</th>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">1</td>
+            <td bgcolor="#f3f3f3">二子遺跡</td>
+            <td bgcolor="#f3f3f3">史跡</td>
+            <td bgcolor="#f3f3f3">神埼町城原</td>
+            <td bgcolor="#f3f3f3">神埼市</td>
+            <td bgcolor="#f3f3f3">S 45.2.17</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>ひのはしら一里塚</td>
+            <td>史跡</td>
+            <td>神埼町田道ヶ里</td>
+            <td>神埼市</td>
+            <td>H 20.3.31</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">3</td>
+            <td bgcolor="#f3f3f3">真龍寺のキンモクセイ</td>
+            <td bgcolor="#f3f3f3">天然記念物</td>
+            <td bgcolor="#f3f3f3">神埼町志波屋2148</td>
+            <td bgcolor="#f3f3f3">真龍寺</td>
+            <td bgcolor="#f3f3f3">S 48.2.1</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>仁比山神社のクスノキ</td>
+            <td>天然記念物</td>
+            <td>神埼町的1692-1</td>
+            <td>仁比山神社</td>
+            <td>S 56.7.18</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">5</td>
+            <td bgcolor="#f3f3f3">花浦のヤマザクラ</td>
+            <td bgcolor="#f3f3f3">天然記念物</td>
+            <td bgcolor="#f3f3f3">神埼町的1297-1</td>
+            <td bgcolor="#f3f3f3">個人</td>
+            <td bgcolor="#f3f3f3">S 56.7.18</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>小渕のヤマモモ</td>
+            <td>天然記念物</td>
+            <td>神埼町的1125</td>
+            <td>個人</td>
+            <td>S 56.7.18</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">7</td>
+            <td bgcolor="#f3f3f3">貴別当神社のアベマキ</td>
+            <td bgcolor="#f3f3f3">天然記念物</td>
+            <td bgcolor="#f3f3f3">千代田町下西</td>
+            <td bgcolor="#f3f3f3">貴別当神社</td>
+            <td bgcolor="#f3f3f3">H 6.3.31</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>貴別当神社のイチイガシ</td>
+            <td>天然記念物</td>
+            <td>千代田町下西</td>
+            <td>貴別当神社</td>
+            <td>H 6.3.31</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">9</td>
+            <td bgcolor="#f3f3f3">鹿路神社の杉</td>
+            <td bgcolor="#f3f3f3">天然記念物</td>
+            <td bgcolor="#f3f3f3">脊振町鹿路</td>
+            <td bgcolor="#f3f3f3">鹿路神社</td>
+            <td bgcolor="#f3f3f3">H 23.3.31</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>久保山のヤマザクラ</td>
+            <td>天然記念物</td>
+            <td>脊振町服巻873-5</td>
+            <td>神埼市</td>
+            <td>H 26.3.31</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>若宮神社肥前鳥居</td>
+            <td>重要文化財 (建造物)</td>
+            <td>千代田町詫田西分</td>
+            <td>若宮神社</td>
+            <td>H 2.3.31</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">12</td>
+            <td bgcolor="#f3f3f3">下村湖人生家</td>
+            <td bgcolor="#f3f3f3">重要文化財 (建造物)</td>
+            <td bgcolor="#f3f3f3">千代田町﨑村895-1</td>
+            <td bgcolor="#f3f3f3">神埼市</td>
+            <td bgcolor="#f3f3f3">H 3.3.30</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>正一位若宮神社<br />
+            肥前鳥居</td>
+            <td>重要文化財 (建造物)</td>
+            <td>千代田町境原</td>
+            <td>若宮神社</td>
+            <td>H 4.3.31</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">14</td>
+            <td bgcolor="#f3f3f3">石造六地蔵六観音像</td>
+            <td bgcolor="#f3f3f3">重要文化財 (建造物)</td>
+            <td bgcolor="#f3f3f3">千代田町境原</td>
+            <td bgcolor="#f3f3f3">下犬童地区</td>
+            <td bgcolor="#f3f3f3">H 11.3.31</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>脊振の眼鏡橋</td>
+            <td>重要文化財 (建造物)</td>
+            <td>背振町鹿路 (川ノ内)</td>
+            <td>神埼市</td>
+            <td>H 21.9.1</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">16</td>
+            <td bgcolor="#f3f3f3">地蔵院の六地蔵塔</td>
+            <td bgcolor="#f3f3f3">重要文化財 (建造物)</td>
+            <td bgcolor="#f3f3f3">神埼町的</td>
+            <td bgcolor="#f3f3f3">地蔵院</td>
+            <td bgcolor="#f3f3f3">H 23.3.31</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>金剛力士像</td>
+            <td>重要文化財 (彫刻)</td>
+            <td>神埼町的</td>
+            <td>仁比山神社</td>
+            <td>S 45.2.17</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">18</td>
+            <td bgcolor="#f3f3f3">櫛田宮文書</td>
+            <td bgcolor="#f3f3f3">重要文化財 (古文書)</td>
+            <td bgcolor="#f3f3f3">神埼町神埼 (3丁目)</td>
+            <td bgcolor="#f3f3f3">櫛田宮</td>
+            <td bgcolor="#f3f3f3">S 48.2.1</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>仁比山神社文書</td>
+            <td>重要文化財 (古文書)</td>
+            <td>神埼町的</td>
+            <td>仁比山神社</td>
+            <td>S 48.2.1</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">20</td>
+            <td bgcolor="#f3f3f3">黒井遺跡出土<br />
+            弥生土器</td>
+            <td bgcolor="#f3f3f3">重要文化財 (考古資料)</td>
+            <td bgcolor="#f3f3f3">千代田町直鳥166-1</td>
+            <td bgcolor="#f3f3f3">市教育委員会</td>
+            <td bgcolor="#f3f3f3">S 61.9.1</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>上黒井遺跡出土<br />
+            朝鮮系無文土器</td>
+            <td>重要文化財 (考古資料)</td>
+            <td>千代田町直鳥166-1</td>
+            <td>市教育委員会</td>
+            <td>H 4.10.1</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">22</td>
+            <td bgcolor="#f3f3f3">締元行列</td>
+            <td bgcolor="#f3f3f3">重要無形 民俗文化財</td>
+            <td bgcolor="#f3f3f3">神埼町神埼</td>
+            <td bgcolor="#f3f3f3">櫛田宮</td>
+            <td bgcolor="#f3f3f3">S 45.2.17</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>横武の百手祭</td>
+            <td>重要無形 民俗文化財</td>
+            <td>神埼町横武</td>
+            <td>横武地区</td>
+            <td>S 48.2.17</td>
+        </tr>
+    </tbody>
+</table>
+<h3>22世紀に残す佐賀県遺産</h3>
+<table border="1" width="100%">
+    <tbody>
+        <tr>
+            <th>&nbsp;</th>
+            <th>遺産名</th>
+            <th>所有者</th>
+            <th>所在地</th>
+            <th>認定日</th>
+            <th>備 考</th>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">1</td>
+            <td bgcolor="#f3f3f3">仁比山神社の仁王門</td>
+            <td bgcolor="#f3f3f3">仁比山神社</td>
+            <td bgcolor="#f3f3f3">神埼町的</td>
+            <td bgcolor="#f3f3f3">H 17.11.18</td>
+            <td bgcolor="#f3f3f3">金剛力士像 市指定</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>ひのはしら一里塚</td>
+            <td>神埼市</td>
+            <td>神埼町田道ヶ里</td>
+            <td>H 17.11.18</td>
+            <td>市指定</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f3f3f3">3</td>
+            <td bgcolor="#f3f3f3">下村湖人生家</td>
+            <td bgcolor="#f3f3f3">神埼市</td>
+            <td bgcolor="#f3f3f3">千代田町﨑村895-1</td>
+            <td bgcolor="#f3f3f3">H 22.2.16</td>
+            <td bgcolor="#f3f3f3">市指定</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>旧古賀銀行神埼支店</td>
+            <td>神埼市</td>
+            <td>神埼町神埼 (3丁目)</td>
+            <td>H 22.2.16</td>
+            <td>国登録</td>
+        </tr>
+    </tbody>
+</table>
+<h3>神埼市歴史まちづくり登録遺産</h3>
+<table border="1" cellspacing="1" cellpadding="1" class="fs12">
+    <thead>
+        <tr>
+            <th scope="col">&nbsp;</th>
+            <th scope="col">遺産名</th>
+            <th scope="col">分類</th>
+            <th scope="col">所有者</th>
+            <th scope="col">所在地</th>
+            <th scope="col">認定日</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>鳥羽院古釜の百手祭</td>
+            <td>
+            <p>文化</p>
+            <p>遺産　　　　　　</p>
+            </td>
+            <td>鳥羽院古釜地区</td>
+            <td>
+            <p>脊振町鹿路　古釜</p>
+            </td>
+            <td>H 26. 3.17</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>伊勢塚溜池干しと魚とり行事</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>志波屋地区</td>
+            <td>神埼町志波屋</td>
+            <td>
+            <p>H 26. 3.17</p>
+            </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>志波屋地区の千灯籠(2件）</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>志波屋地区</td>
+            <td>神埼町志波屋</td>
+            <td>
+            <p>H 26. 3.17</p>
+            </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>上直鳥の川路段</td>
+            <td>
+            <p>歴史</p>
+            <p>遺産</p>
+            </td>
+            <td>個人</td>
+            <td>千代田町直鳥</td>
+            <td>
+            <p>H 26. 3.17</p>
+            </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>上直鳥の堀と文化を守る会</td>
+            <td>
+            <p>地域</p>
+            <p>活動</p>
+            </td>
+            <td>上直鳥地区</td>
+            <td>千代田町直鳥</td>
+            <td>
+            <p>H 26. 3.17</p>
+            </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>真龍寺の鍋島家墓所</td>
+            <td>
+            <p>歴史</p>
+            <p>遺産</p>
+            </td>
+            <td>
+            <p>鍋島主水家墓所</p>
+            <p>保存会</p>
+            </td>
+            <td>神埼町志波屋</td>
+            <td>H 27. 3.31</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>鹿路地区の百手祭</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>鹿路地区</td>
+            <td>脊振町鹿路</td>
+            <td>
+            <p>H 27. 8. 6</p>
+            </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>鹿路地区のいずみさんつぎ</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>鹿路地区</td>
+            <td>脊振町鹿路</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>姉川上分・下分の汐取り行事</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>姉川上分・下分地区</td>
+            <td>神埼町姉川</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>姉川西分の汐取り行事</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>姉川西分地区</td>
+            <td>神埼町姉川</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>姉川東分の汐取り行事</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>姉川東分地区</td>
+            <td>神埼町姉川</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>大門地区の川祭り</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>大門地区</td>
+            <td>神埼町永歌</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>嘉納地区の神水かけ</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>嘉納地区</td>
+            <td>千代田町嘉納</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>乙南里地区のお汐井取り</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>乙南里地区</td>
+            <td>千代田町姉</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>東野ヶ里地区の汐取り祭</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>東野ヶ里地区</td>
+            <td>千代田町餘江</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>犬童地区のお汐井取り</td>
+            <td>
+            <p>文化</p>
+            <p>遺産</p>
+            </td>
+            <td>犬童地区</td>
+            <td>千代田町境原</td>
+            <td>H 27. 8. 6</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+					<p class="returnIndex"><a href="frmAbout.aspx"><img alt="神埼市基本情報のトップに戻る" src="Images/btn_about_return.gif"></a></p>
+				</div><!-- #mainCol -->
+			</div><!-- #contentsArea -->
+		</div><!-- #wrap -->        </div>
+
+        <div class="leftmenu">
+    <div class="leftmenulist">
+    <div class="leftmenutitle"><img src="Images/about_title.png" alt="神埼市基本情報"/></div>
+        <ul>
+            <li><a href="frmAboutDetail1.aspx"><i class="material-icons">speaker_notes</i>神埼市の行政地名の変遷</a></li>
+			<li><a href="frmAboutDetail2.aspx"><i class="material-icons">speaker_notes</i>神埼市の人口推移</a></li>
+			<li><a href="frmAboutDetail3.aspx"><i class="material-icons">speaker_notes</i>神埼市の指定文化財</a></li>
+			<li><a href="frmAboutDetail4.aspx"><i class="material-icons">speaker_notes</i>神埼の歴史</a></li>
+			<li><a href="frmAboutQuantity.aspx"><i class="material-icons">speaker_notes</i>神埼市の地域資源数</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="left_contents"><!--left_contents-->
+      <div class="left_contents_inner">
+        <div class="menu2">
+          <img src="/Images/title_library.gif" width="100%" alt=""/>
+          <div style=" background:#fff;">
+            <p style=" font-size:10px; padding:5px; line-height:140%;">神埼市全域に数多く残る地域資源を、お好みの形で検索できます。まずは検索してみよう！</p>
+          </div>
+          <div class="menu_inner">
+            <dl class="acMenu2">
+              <dt><i class=" material-icons">search</i>条件検索</dt>
+              <div>
+                <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" style=" width:98%; margin-bottom:5px;" />
+                <input type="submit" name="ctl00$btnSearch" value="検索" id="ctl00_btnSearch" style=" width:100%; height:35px;" />
+              </div>
+            </dl>
+            <dl class="acMenu2">
+              <dt><i class=" material-icons">search</i>分類指定<img src="/Images/menu_button.png" alt=""/></dt>
+              
+              <div class="Bunrui">
+                <dl class="acMenu3">
+                  <dt style=" background-color:#555;"><i class="material-icons">change_history</i>歴史文化遺産</dt>
+                  <ul>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=101">建造物・石造構造物</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=102">生活文化資料</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=103">美術工芸品</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=104">記録資料</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=105">民俗</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=106">生産・諸職・技術</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=107">地名</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=108">人物</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=109">埋蔵文化財 遺跡</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=110">埋蔵文化財　遺物</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=111">災害</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=1&cat2=112">騒乱</a></li>
+</ul>
+
+                </dl>
+                <dl class="acMenu3">
+                  <dt style=" background-color:#555;"><i class="material-icons">nature_people</i>自然・景観資源</dt>
+                  <ul>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=2&cat2=201">自然資源</a></li>
+<li><a href="/frmDataList.aspx?kbn=2&cat1=2&cat2=202">景観・眺望</a></li>
+</ul>
+
+                </dl>
+              </div>
+              
+            </dl>
+            <dl class="acMenu2">
+              <dt><i class=" material-icons">search</i>場所指定<img src="/Images/menu_button.png" alt=""/></dt>
+              
+              <div class="location">
+                <dl class="acMenu3">
+                  <dt style=" background-color:#555;"><i class="material-icons">place</i>神埼町</dt>
+                  <span id="ctl00_cblArea2"><font size="2"><input id="ctl00_cblArea2_0" type="checkbox" name="ctl00$cblArea2$0" /><label for="ctl00_cblArea2_0">神埼</label><input id="ctl00_cblArea2_1" type="checkbox" name="ctl00$cblArea2$1" /><label for="ctl00_cblArea2_1">枝ヶ里</label><input id="ctl00_cblArea2_2" type="checkbox" name="ctl00$cblArea2$2" /><label for="ctl00_cblArea2_2">西小津ヶ里</label><input id="ctl00_cblArea2_3" type="checkbox" name="ctl00$cblArea2$3" /><label for="ctl00_cblArea2_3">永歌</label><input id="ctl00_cblArea2_4" type="checkbox" name="ctl00$cblArea2$4" /><label for="ctl00_cblArea2_4">本堀</label><input id="ctl00_cblArea2_5" type="checkbox" name="ctl00$cblArea2$5" /><label for="ctl00_cblArea2_5">田道ヶ里</label><input id="ctl00_cblArea2_6" type="checkbox" name="ctl00$cblArea2$6" /><label for="ctl00_cblArea2_6">横武</label><input id="ctl00_cblArea2_7" type="checkbox" name="ctl00$cblArea2$7" /><label for="ctl00_cblArea2_7">本告牟田</label><input id="ctl00_cblArea2_8" type="checkbox" name="ctl00$cblArea2$8" /><label for="ctl00_cblArea2_8">姉川</label><input id="ctl00_cblArea2_9" type="checkbox" name="ctl00$cblArea2$9" /><label for="ctl00_cblArea2_9">尾崎</label><input id="ctl00_cblArea2_10" type="checkbox" name="ctl00$cblArea2$10" /><label for="ctl00_cblArea2_10">竹</label><input id="ctl00_cblArea2_11" type="checkbox" name="ctl00$cblArea2$11" /><label for="ctl00_cblArea2_11">鶴</label><input id="ctl00_cblArea2_12" type="checkbox" name="ctl00$cblArea2$12" /><label for="ctl00_cblArea2_12">城原</label><input id="ctl00_cblArea2_13" type="checkbox" name="ctl00$cblArea2$13" /><label for="ctl00_cblArea2_13">志波屋</label><input id="ctl00_cblArea2_14" type="checkbox" name="ctl00$cblArea2$14" /><label for="ctl00_cblArea2_14">的</label></font></span>
+                </dl>
+                <dl class="acMenu3">
+                  <dt style=" background-color:#555;"><i class="material-icons">place</i>脊振町</dt>
+                    <span id="ctl00_cblArea1"><font size="2"><input id="ctl00_cblArea1_0" type="checkbox" name="ctl00$cblArea1$0" /><label for="ctl00_cblArea1_0">広滝</label><input id="ctl00_cblArea1_1" type="checkbox" name="ctl00$cblArea1$1" /><label for="ctl00_cblArea1_1">服巻</label><input id="ctl00_cblArea1_2" type="checkbox" name="ctl00$cblArea1$2" /><label for="ctl00_cblArea1_2">鹿路</label></font></span>
+                  </dl>
+                  <dl class="acMenu3">
+                    <dt style=" background-color:#555;"><i class="material-icons">place</i>千代田町</dt>
+                      <span id="ctl00_cblArea3"><font size="2"><input id="ctl00_cblArea3_0" type="checkbox" name="ctl00$cblArea3$0" /><label for="ctl00_cblArea3_0">﨑村</label><input id="ctl00_cblArea3_1" type="checkbox" name="ctl00$cblArea3$1" /><label for="ctl00_cblArea3_1">渡瀬</label><input id="ctl00_cblArea3_2" type="checkbox" name="ctl00$cblArea3$2" /><label for="ctl00_cblArea3_2">柳島</label><input id="ctl00_cblArea3_3" type="checkbox" name="ctl00$cblArea3$3" /><label for="ctl00_cblArea3_3">迎島</label><input id="ctl00_cblArea3_4" type="checkbox" name="ctl00$cblArea3$4" /><label for="ctl00_cblArea3_4">用作</label><input id="ctl00_cblArea3_5" type="checkbox" name="ctl00$cblArea3$5" /><label for="ctl00_cblArea3_5">直鳥</label><input id="ctl00_cblArea3_6" type="checkbox" name="ctl00$cblArea3$6" /><label for="ctl00_cblArea3_6">姉</label><input id="ctl00_cblArea3_7" type="checkbox" name="ctl00$cblArea3$7" /><label for="ctl00_cblArea3_7">黒井</label><input id="ctl00_cblArea3_8" type="checkbox" name="ctl00$cblArea3$8" /><label for="ctl00_cblArea3_8">嘉納</label><input id="ctl00_cblArea3_9" type="checkbox" name="ctl00$cblArea3$9" /><label for="ctl00_cblArea3_9">詫田</label><input id="ctl00_cblArea3_10" type="checkbox" name="ctl00$cblArea3$10" /><label for="ctl00_cblArea3_10">下板</label><input id="ctl00_cblArea3_11" type="checkbox" name="ctl00$cblArea3$11" /><label for="ctl00_cblArea3_11">境原</label><input id="ctl00_cblArea3_12" type="checkbox" name="ctl00$cblArea3$12" /><label for="ctl00_cblArea3_12">餘江</label><input id="ctl00_cblArea3_13" type="checkbox" name="ctl00$cblArea3$13" /><label for="ctl00_cblArea3_13">下西</label></font></span>
+                    </dl>
+                    <dl class="acMenu3">
+                      <dt style=" background-color:#555;"><i class="material-icons">place</i>その他</dt>
+                      <span id="ctl00_cblAreaOther"><font size="2"><input id="ctl00_cblAreaOther_0" type="checkbox" name="ctl00$cblAreaOther$0" /><label for="ctl00_cblAreaOther_0">神奈川県その他</label></font></span>
+                    </dl>
+                    <input type="submit" name="ctl00$btnArea" value="指定した場所で検索" id="ctl00_btnArea" style=" width:100%; height:30px;" />
+                  </div>
+                  
+                </dl>
+                <dl class="acMenu2">
+                  <dt><i class=" material-icons">search</i>時代指定<img src="/Images/menu_button.png" alt=""/></dt>
+                  <div class="era">
+                    <span id="ctl00_cblPeriod"><font size="2"><input id="ctl00_cblPeriod_0" type="checkbox" name="ctl00$cblPeriod$0" /><label for="ctl00_cblPeriod_0">旧石器</label><input id="ctl00_cblPeriod_1" type="checkbox" name="ctl00$cblPeriod$1" /><label for="ctl00_cblPeriod_1">縄文</label><input id="ctl00_cblPeriod_2" type="checkbox" name="ctl00$cblPeriod$2" /><label for="ctl00_cblPeriod_2">弥生</label><input id="ctl00_cblPeriod_3" type="checkbox" name="ctl00$cblPeriod$3" /><label for="ctl00_cblPeriod_3">古墳</label><input id="ctl00_cblPeriod_4" type="checkbox" name="ctl00$cblPeriod$4" /><label for="ctl00_cblPeriod_4">飛鳥</label><input id="ctl00_cblPeriod_5" type="checkbox" name="ctl00$cblPeriod$5" /><label for="ctl00_cblPeriod_5">奈良</label><input id="ctl00_cblPeriod_6" type="checkbox" name="ctl00$cblPeriod$6" /><label for="ctl00_cblPeriod_6">平安</label><input id="ctl00_cblPeriod_7" type="checkbox" name="ctl00$cblPeriod$7" /><label for="ctl00_cblPeriod_7">鎌倉</label><input id="ctl00_cblPeriod_8" type="checkbox" name="ctl00$cblPeriod$8" /><label for="ctl00_cblPeriod_8">南北朝</label><input id="ctl00_cblPeriod_9" type="checkbox" name="ctl00$cblPeriod$9" /><label for="ctl00_cblPeriod_9">室町</label><input id="ctl00_cblPeriod_10" type="checkbox" name="ctl00$cblPeriod$10" /><label for="ctl00_cblPeriod_10">戦国</label><input id="ctl00_cblPeriod_11" type="checkbox" name="ctl00$cblPeriod$11" /><label for="ctl00_cblPeriod_11">江戸</label><input id="ctl00_cblPeriod_12" type="checkbox" name="ctl00$cblPeriod$12" /><label for="ctl00_cblPeriod_12">明治</label><input id="ctl00_cblPeriod_13" type="checkbox" name="ctl00$cblPeriod$13" /><label for="ctl00_cblPeriod_13">大正</label><input id="ctl00_cblPeriod_14" type="checkbox" name="ctl00$cblPeriod$14" /><label for="ctl00_cblPeriod_14">昭和</label><input id="ctl00_cblPeriod_15" type="checkbox" name="ctl00$cblPeriod$15" /><label for="ctl00_cblPeriod_15">平成</label><input id="ctl00_cblPeriod_16" type="checkbox" name="ctl00$cblPeriod$16" /><label for="ctl00_cblPeriod_16">令和</label><input id="ctl00_cblPeriod_17" type="checkbox" name="ctl00$cblPeriod$17" /><label for="ctl00_cblPeriod_17">古代</label><input id="ctl00_cblPeriod_18" type="checkbox" name="ctl00$cblPeriod$18" /><label for="ctl00_cblPeriod_18">中世</label><input id="ctl00_cblPeriod_19" type="checkbox" name="ctl00$cblPeriod$19" /><label for="ctl00_cblPeriod_19">近世</label><input id="ctl00_cblPeriod_20" type="checkbox" name="ctl00$cblPeriod$20" /><label for="ctl00_cblPeriod_20">不明</label></font></span>
+                    <input type="submit" name="ctl00$btnPeriod" value="指定した時代で検索" id="ctl00_btnPeriod" style=" width:100%; height:30px;" />
+                  </div>
+                </dl>
+                <dl class="acMenu2">
+                  <a href="/frmDataMap.aspx"><dt><i class=" material-icons">search</i>地図検索</dt></a>
+                </dl>
+              </div>
+            </div>
+            <div class="menu">
+              <h3><i class=" material-icons">info</i>おしらせ</h3>
+              <div class="menu_inner">
+                <ul>
+                  <li><span>2026.04.01.</span><br><a href="http://www.city.kanzaki.saga.jp/main/8240.html" >伊東玄朴記念館整備寄附のお願い</a></li><li><span>2026.02.01.</span><br><a href="https://www.city.kanzaki.saga.jp/main/19826.html" >伊東玄朴生誕225年祭を開催します！</a></li><li><span>2025.11.07.</span><br><a href="https://www.city.kanzaki.saga.jp/main/19521.html" >吉田絃二郎生誕140年祭を開催します。</a></li><li><span>2025.09.22.</span><br><a href="/johokan/frmInformationCenterAnnounceDetail.aspx?announceid=8" >令和７年度 神埼塾を開催します。</a></li><li><span>2025.05.10.</span><br><a href="/itogenboku/frmItouAnnounceDetail.aspx?announceid=25" >神埼郷土研究会の総会において講演を行いました</a></li>
+                  <a href="/frmAnnounceList.aspx" class="news_btn">お知らせをもっと見る</a>
+                </ul>
+              </div>
+            </div>
+            <div class="facebook">
+              <div class="fb-page" data-href="https://www.facebook.com/kanzaki.museum/" data-width="500" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/kanzaki.museum/"><a href="https://www.facebook.com/kanzaki.museum/">神埼市デジタルミュージアム かんざき&#064;NAVI</a></blockquote></div></div>
+            </div>
+            
+            <div class="banner">
+              <a href="http://kanzakimuseum.sagafan.jp/" target="_blank"><img src="/Images/banner.png" alt="デジタル日誌"/></a>
+            </div>
+            <div class="sns_button">
+              <div class="fb-like" expr:data-href="https://www.kanzaki-museum.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" style=" float:left;"/>
+            </div>
+            <a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="k_museum" data-lang="ja">ツイート</a>
+            <script type="text/javascript">    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } } (document, 'script', 'twitter-wjs');</script>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="common_navi pc_tb">
+      <p class="returnPage animated fadeInRight"><a href="javascript:history.back();"><span class="floatnavi2"></span></a></p>
+	    <p class="scrolltop animated fadeInRight"><a title="ページの先頭に戻る" href="#"><span class="floatnavi1"></span></a></p>
+    </div>
+    <div style=" float:none; clear: both;"></div>
+    <div class="footer">
+      <div class="footer_navi">
+        <div class="inner">
+          <ul>
+            <li><a href="/">HOME</a></li>
+            <li><a href="/frmFeature.aspx">展示室</a></li>
+            <li><a href="/frmData.aspx">資料室</a></li>
+            
+            <li><a href="/frmPanoramaList.aspx">パノラマ神埼</a></li>
+            <li><a href="/frmMovieList.aspx">映像で見る神埼</a></li>
+            <li><a href="http://kanzakimuseum.sagafan.jp/" target="_blank">デジタル日誌</a></li>
+            <li><a href="/frmAnnounceList.aspx">お知らせ</a></li>
+            <li><a href="/frmCommunity.aspx">人が繋ぐ神埼</a></li>
+            <li><a href="/frmGuide.aspx">ご利用案内</a></li>
+            <li><a href="/frmAbout.aspx">神埼市基本情報</a></li>
+            <li><a href="/frmContact.aspx">お問い合わせ</a></li>
+            <li><a href="/frmRule.aspx">ご利用規約</a></li>
+            <li><a href="/frmSiteMap.aspx">サイトマップ</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="inner">
+        <p class="footer_left">
+          神埼デジタルミュージアム「かんざき@NAVI」<br/>
+          神埼市歴史文化遺産を活かしたまちづくり
+        </p>
+        <div class="Copyright">
+          <a href="/"><img src="/Images/kanzaki_logo.gif" alt="自然と歴史と人が輝く未来都市佐賀県神埼市"/></a>
+          <p>Copyright (c) 2011 The City of Kanzaki, All Rights Reserved.</p>
+        </div>
+      </div>
+    </div>
+  </form>
+    <!-- google analytics -->
+	<script type="text/javascript">
+		<!--
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-19746175-3']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		// -->
+	</script>
+	<!-- /google analytics -->
+</body>
+</html>

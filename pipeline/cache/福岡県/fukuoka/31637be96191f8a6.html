@@ -1,0 +1,855 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+
+<head prefix="og: http://ogp.me/ns#  article: http://ogp.me/ns/website#">
+	<meta charset="utf-8"/>
+	<title>福岡市の文化財</title>
+
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-WXZQTWS');
+	</script>
+	<!-- End Google Tag Manager -->
+
+	<meta name="description" content="福岡市には，アジア各地との交流を物語る，数多くの文化財が存在しています。このホームページは，これら文化財にまつわるさまざまな情報を皆様にお伝えするものです。加えて，福岡市内の史跡や埋蔵文化財（遺跡）などにかかわる行政的な手続きについても，ご案内します。"/><meta name="keywords" content="福岡市,文化財,史跡,埋蔵文化財,遺跡,アジア,発掘"/><meta property="og:locale" content="ja"/><meta property="og:type" content="website"/><meta property="og:site_name" content="福岡市の文化財"/><meta property="og:title" content="福岡市の文化財"/><meta property="og:description" content="福岡市には，アジア各地との交流を物語る，数多くの文化財が存在しています。このホームページは，これら文化財にまつわるさまざまな情報を皆様にお伝えするものです。加えて，福岡市内の史跡や埋蔵文化財（遺跡）などにかかわる行政的な手続きについても，ご案内します。"/><meta property="og:image" content="http://bunkazai.city.fukuoka.lg.jp/img/profile.png"/><meta property="og:url" content="http://bunkazai.city.fukuoka.lg.jp/sp/cultural_properties/search"/><meta property="twitter:card" content="summary_large_image"/><meta property="twitter:title" content="福岡市の文化財"/><meta property="twitter:description" content="福岡市には，アジア各地との交流を物語る，数多くの文化財が存在しています。このホームページは，これら文化財にまつわるさまざまな情報を皆様にお伝えするものです。加えて，福岡市内の史跡や埋蔵文化財（遺跡）などにかかわる行政的な手続きについても，ご案内します。"/><meta property="twitter:image:src" content="http://bunkazai.city.fukuoka.lg.jp/img/profile.png"/><meta name="format-detection" content="telephone"/>
+	<!-- viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+	
+	<!--favicon-->
+	<link href="/img/favicon.ico" rel="shortcut icon">
+
+	<!-- css -->
+	<!-- <link rel="stylesheet" href="/css/common.css">
+	<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+	<link rel="stylesheet" href="/js/droppy.css"> -->
+
+
+	<!-- fonts -->
+	<!-- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
+
+	<!-- js-->
+	<script src="/sp/js/jquery.js"></script>
+	<script type="text/javascript">
+		$(document).bind("mobileinit", function() {
+			$.mobile.ajaxEnabled = false;
+			$.mobile.ajaxFormsEnabled = false;
+			scrollBy(0, 1);
+		});
+
+		//GPS情報を取得
+		function get_current_gps() {
+			if (!navigator.geolocation) {
+				alert('位置情報が取得できませんでした。');
+				return;
+			}
+			navigator.geolocation.getCurrentPosition(
+				function(position) {
+					location.href = "/sp/cultural_properties/search?c_lttd=" + position.coords.latitude + "&c_lgtd=" + position.coords.longitude + "&search_scale=10000";
+				},
+				function(error) {
+					alert('位置情報が取得できませんでした。');
+				}, {
+					enableHighAccuracy: true,
+					maximumAge: 0
+				});
+		}
+		$(function() {
+			if (location.href.match(/geolocation=1/)) {
+				get_current_gps();
+			}
+		})
+	</script>
+	<script src="/sp/js/jquery.mobile-1.4.0.min.js"></script>
+	<script src="/sp/js/pagetop.js"></script>
+	<script src="/js/clearForm.js"></script><script src="/js/jquery.cookie.js"></script><script src="//maps.google.com/maps/api/js?key=AIzaSyDBv9Vrc9ou_sdpgnQHqpfd76j4BarAlrg&amp;language=ja"></script><script>
+var display = true;
+var map;
+var infowindow = new google.maps.InfoWindow();
+var markers = new Array();
+var MAX_LAT1 = MIN_LNG1 = MIN_LAT1 = MAX_LNG1 = null;
+var is_init = 0;
+var gpsMarker;
+var current_lat = 0;
+var current_lon = 0;
+
+
+// function toggleArea(is_list) {
+// 	if(is_list) {
+// 		$('#list_area').show();
+// 		$('#map_area').hide();
+// 		$('#list_bar').addClass('selected');
+// 		$('#map_bar').removeClass('selected');
+// 		display = true;
+// 		$.cookie('display', '1', { path: '/' });
+// 	}
+// 	else {
+// 		$('#list_area').hide();
+// 		$('#map_area').show();
+// 		$('#list_bar').removeClass('selected');
+// 		$('#map_bar').addClass('selected');
+// 		display = false;
+// 		$.cookie('display', '0', { path: '/' });
+
+// 		if(!map) initialize();
+// 	}
+// }
+
+// jQuery('.paging a').click(function() {
+// 		if($.cookie('display') == '1') {
+// 			toggleArea(false);
+// 		} 
+// });
+
+function aMapMaxMinLatLng1(lat, lng) {
+	if(!MAX_LAT1 || MAX_LAT1<lat) MAX_LAT1 = lat;
+	if(!MIN_LAT1 || MIN_LAT1>lat) MIN_LAT1 = lat;
+	if(!MAX_LNG1 || MAX_LNG1<lng) MAX_LNG1 = lng;
+	if(!MIN_LNG1 || MIN_LNG1>lng) MIN_LNG1 = lng;
+}
+
+function aMapFitBounds1() {
+	var MAX_LAT2 = MAX_LAT1;
+	var MIN_LNG2 = MIN_LNG1;
+	var MIN_LAT2 = MIN_LAT1;
+	var MAX_LNG2 = MAX_LNG1;
+
+	if(current_lat && current_lon) {
+		// current_positionを加味する
+		if(!MAX_LAT2 || MAX_LAT2<current_lat) MAX_LAT2 = current_lat;
+		if(!MIN_LAT2 || MIN_LAT2>current_lat) MIN_LAT2 = current_lat;
+		if(!MAX_LNG2 || MAX_LNG2<current_lon) MAX_LNG2 = current_lon;
+		if(!MIN_LNG2 || MIN_LNG2>current_lon) MIN_LNG2 = current_lon;
+	}
+
+	var southwest = new google.maps.LatLng(MAX_LAT2, MIN_LNG2);
+	var northeast = new google.maps.LatLng(MIN_LAT2, MAX_LNG2);
+	var bounds = new google.maps.LatLngBounds(southwest, northeast);
+	map.fitBounds(bounds);
+}
+
+function initialize() {
+
+	var myLatlng = new google.maps.LatLng(33.590356,130.401715);
+	var myOptions = {
+		zoom: 11,
+		center: myLatlng,
+		mapTypeId: google.maps.MapTypeId.ROADMAP,
+		scrollwheel: false
+	}
+	createMap(myOptions);
+}
+
+function setCurrentIcon() {
+	if(gpsMarker) gpsMarker.setMap(null);
+	var gpsLatlng = new google.maps.LatLng(current_lat, current_lon);
+	gpsMarker = new google.maps.Marker({
+		position: gpsLatlng,
+		map: map,
+		title:'現在地',
+	});
+
+	google.maps.event.addListener(gpsMarker, 'click', function() {
+		var content = '現在地';
+		infowindow.setContent(content);
+		infowindow.open(map, gpsMarker);
+	});
+
+	aMapFitBounds1();
+}
+
+function errorGps() {
+	if(!current_lat || !current_lon) {
+		$('#c_lttd').val('');
+		$('#c_lgtd').val('');
+		$('#search_around').hide();
+	}
+}
+
+jQuery(function() {
+	//GPS情報を取得
+	if(!navigator.geolocation){ errorGps(); return; }
+	navigator.geolocation.getCurrentPosition(
+		function(position) {
+			current_lat = position.coords.latitude;
+			current_lon = position.coords.longitude;
+
+			$('#c_lttd').val(position.coords.latitude);
+			$('#c_lgtd').val(position.coords.longitude);
+			$('#search_around').show();
+
+			if(map) {
+				setCurrentIcon();
+			}
+		},
+		function(error){
+			errorGps();
+		},
+		{
+			enableHighAccuracy: true,
+			maximumAge : 0
+		}
+	);
+});
+
+
+</script><script>
+var map = null;
+var datas = [{"id":"17f9121f-a987-4aa6-bf39-1046137ee13a","title":"\u5999\u5fb3\u7985\u5bfa","kana":"\u3000","sub_name":null,"old_item_id":0,"master_area_id":1,"master_kubun_id":9,"master_ku_type_id":18,"master_shitei_id":11,"master_unit_id":0,"volume":0,"address":"\u798f\u5ca1\u5e02\u6771\u533a\u99ac\u51fa5\u4e01\u76ee36-5","latitude":33.614247,"longitude":130.4210632,"zoom":"18","sub_address":null,"owner":null,"sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\r\n\t\u66f9\u6d1e\u5b97\u306e\u5bfa\u9662\u3067\u3001\u5c71\u53f7\u306f\u4eca\u5cf0\u5c71\u3067\u3059\u3002\u8056\u798f\u5bfa\u306e\u958b\u7956\u3001\u6804\u897f\u304c\u5b8b\u304b\u3089\u5e30\u56fd\u3057\u305f\u5f8c\u3001\u8056\u798f\u5bfa\u304c\u5efa\u3066\u3089\u308c\u308b\u9593\u4f4f\u3093\u3067\u3044\u305f\u3068\u300e\u7b51\u524d\u56fd\u7d9a\u98a8\u571f\u8a18\u300f\u306b\u8a18\u3055\u308c\u3066\u3044\u307e\u3059\u3002<\/p>\r\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2013-07-18T17:21:00+09:00","modified":"2015-03-18T17:48:00+09:00","cid":570,"cultural_property_sub_image_blocks":[{"id":"eebee93b-6eb8-488b-bb9b-b92182811581","foreign_id":"17f9121f-a987-4aa6-bf39-1046137ee13a","sequence":0,"is_daihyou":1,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/eebee93b-6eb8-488b-bb9b-b92182811581\/value01\/CulturalPropertyImage755imageja.jpg","value02":"CulturalPropertyImage755imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2015-03-18T17:48:00+09:00","deleted":null,"cid":755}],"cultural_property_periods":[],"master_kubun":{"id":"d9fb7ff5-1072-49e3-a0f3-2b0fe1980214","title":"\u305d\u306e\u4ed6","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:10:41+09:00","cid":9},"master_ku_type":{"id":"bf6eb1bd-555e-414e-933c-b3d420fc49ae","master_kubun_id":9,"title":"\u305d\u306e\u4ed6","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2013-01-30T16:20:06+09:00","cid":18},"master_area":{"id":"b21ed040-8f63-4738-aa57-6d8b912292b3","title":"\u6771\u533a","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-09T15:30:51+09:00","cid":1},"master_shitei":{"id":"12b8943a-e30f-46d7-9e83-8211ac8406e4","title":"\u305d\u306e\u4ed6","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2024-02-03T14:03:17+09:00","cid":11},"master_periods":[]},{"id":"5835a8f4-4984-4c15-966c-de929e808965","title":"\u9577\u6027\u7985\u5bfa","kana":"\u3000","sub_name":null,"old_item_id":0,"master_area_id":1,"master_kubun_id":0,"master_ku_type_id":0,"master_shitei_id":0,"master_unit_id":0,"volume":0,"address":"\u798f\u5ca1\u770c\u798f\u5ca1\u5e02\u6771\u533a\u7bb1\u5d0e\uff11\u4e01\u76ee\uff13\uff16","latitude":33.617851299559,"longitude":130.42278319014,"zoom":"21","sub_address":null,"owner":null,"sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\r\n\t\u5929\u6b6315 \u5e74\uff081587 \u5e74\uff09\u8c4a\u81e3\u79c0\u5409\u304c\u4e5d\u5dde\u5f81\u4f10\u3067\u8a2a\u308c\u305f\u969b\u3001\u76f8\u5224\u5f79\u3060\u3063\u305f\u5343\u5229\u4f11\u306b\u547d\u3058\u3066\u8336\u5e2d\u306e\u5ead\u3092\u7bc9\u304b\u305b\u305f\u969b\u3001\u5ead\u77f3\u306b\u4f7f\u3063\u305f\u3068\u8a00\u308f\u308c\u308b\u77f3\uff12\u3064\u304c\u3001\u672c\u5ead\u306b\u4eca\u306a\u304a\u300c\u5229\u4f11\u77f3\uff08\u4e00\u822c\u975e\u516c\u958b\uff09\u300d\u3068\u3057\u3066\u6b8b\u3063\u3066\u3044\u307e\u3059\u3002<\/p>\r\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2014-11-13T17:30:00+09:00","modified":"2015-03-19T17:52:00+09:00","cid":668,"cultural_property_sub_image_blocks":[{"id":"966a7da5-71cf-4cf1-9c08-e520d0921a00","foreign_id":"5835a8f4-4984-4c15-966c-de929e808965","sequence":0,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/966a7da5-71cf-4cf1-9c08-e520d0921a00\/value01\/CulturalPropertyImage694imageja.jpg","value02":"CulturalPropertyImage694imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:43:00+09:00","deleted":null,"cid":694},{"id":"5d39e890-0ee2-48ac-88de-5c3710c03603","foreign_id":"5835a8f4-4984-4c15-966c-de929e808965","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/5d39e890-0ee2-48ac-88de-5c3710c03603\/value01\/CulturalPropertyImage695imageja.jpg","value02":"CulturalPropertyImage695imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:43:00+09:00","deleted":null,"cid":695},{"id":"d7400243-095b-45c0-8d09-0e9ab64d0939","foreign_id":"5835a8f4-4984-4c15-966c-de929e808965","sequence":2,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/d7400243-095b-45c0-8d09-0e9ab64d0939\/value01\/CulturalPropertyImage696imageja.jpg","value02":"CulturalPropertyImage696imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:43:00+09:00","deleted":null,"cid":696},{"id":"0cf1ee29-a4ba-4c00-a3a1-d4ed8df82bd6","foreign_id":"5835a8f4-4984-4c15-966c-de929e808965","sequence":3,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/0cf1ee29-a4ba-4c00-a3a1-d4ed8df82bd6\/value01\/CulturalPropertyImage697imageja.jpg","value02":"CulturalPropertyImage697imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:43:00+09:00","deleted":null,"cid":697},{"id":"d40247c8-9214-4f32-97e1-963a313e7982","foreign_id":"5835a8f4-4984-4c15-966c-de929e808965","sequence":4,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/d40247c8-9214-4f32-97e1-963a313e7982\/value01\/CulturalPropertyImage698imageja.jpg","value02":"CulturalPropertyImage698imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:43:00+09:00","deleted":null,"cid":698},{"id":"e8315227-8589-4bb0-abfd-76762c92ba44","foreign_id":"5835a8f4-4984-4c15-966c-de929e808965","sequence":5,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/e8315227-8589-4bb0-abfd-76762c92ba44\/value01\/CulturalPropertyImage699imageja.jpg","value02":"CulturalPropertyImage699imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:43:00+09:00","deleted":null,"cid":699}],"cultural_property_periods":[],"master_kubun":null,"master_ku_type":null,"master_area":{"id":"b21ed040-8f63-4738-aa57-6d8b912292b3","title":"\u6771\u533a","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-09T15:30:51+09:00","cid":1},"master_shitei":null,"master_periods":[]},{"id":"3fa342f9-11ff-4af6-8f2a-bd5157f0c936","title":"\u7fbd\u6839\u6238\u539f\u5730\u8535\u5802","kana":"\u3000","sub_name":null,"old_item_id":0,"master_area_id":7,"master_kubun_id":9,"master_ku_type_id":18,"master_shitei_id":11,"master_unit_id":0,"volume":0,"address":"\u798f\u5ca1\u5e02\u897f\u533a\u5927\u5b57\u7fbd\u6839\u6238768","latitude":33.5465732,"longitude":130.3020156,"zoom":"18","sub_address":null,"owner":null,"sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\u65b0\u56db\u56fd\u970a\u5834\u7b2c\uff13\uff15\u756a\u793c\u6240\u306e\u5730\u8535\u5802\u3067\u3059\u3002\u5883\u5185\u306b\u306f\u685c\u306e\u6728\u304c\u591a\u304f\u3001\u82b1\u898b\u306e\u5b63\u7bc0\u306b\u306f\u591a\u304f\u306e\u4eba\u304c\u8a2a\u308c\u3066\u3044\u307e\u3059\u3002<\/p>\r\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2013-07-18T12:41:00+09:00","modified":"2017-04-14T14:19:00+09:00","cid":516,"cultural_property_sub_image_blocks":[{"id":"6fc95df8-e9e6-47d3-a85b-6b4e8d03b026","foreign_id":"3fa342f9-11ff-4af6-8f2a-bd5157f0c936","sequence":0,"is_daihyou":1,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/6fc95df8-e9e6-47d3-a85b-6b4e8d03b026\/value01\/CulturalPropertyImage786imageja.jpg","value02":"CulturalPropertyImage786imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2017-04-12T12:50:00+09:00","deleted":null,"cid":786},{"id":"c81d9b73-aa80-41bd-9764-15ac68dcdc24","foreign_id":"3fa342f9-11ff-4af6-8f2a-bd5157f0c936","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/c81d9b73-aa80-41bd-9764-15ac68dcdc24\/value01\/CulturalPropertyImage787imageja.jpg","value02":"CulturalPropertyImage787imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2017-04-12T12:50:00+09:00","deleted":null,"cid":787},{"id":"200cfd4f-d23e-46b1-9738-580ebb19c826","foreign_id":"3fa342f9-11ff-4af6-8f2a-bd5157f0c936","sequence":2,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/200cfd4f-d23e-46b1-9738-580ebb19c826\/value01\/CulturalPropertyImage788imageja.jpg","value02":"CulturalPropertyImage788imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2017-04-12T12:50:00+09:00","deleted":null,"cid":788}],"cultural_property_periods":[],"master_kubun":{"id":"d9fb7ff5-1072-49e3-a0f3-2b0fe1980214","title":"\u305d\u306e\u4ed6","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:10:41+09:00","cid":9},"master_ku_type":{"id":"bf6eb1bd-555e-414e-933c-b3d420fc49ae","master_kubun_id":9,"title":"\u305d\u306e\u4ed6","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2013-01-30T16:20:06+09:00","cid":18},"master_area":{"id":"b5b907c8-fcc2-4e5c-a2d4-7a885f9efe39","title":"\u897f\u533a","sequence":7,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-09T15:31:09+09:00","cid":7},"master_shitei":{"id":"12b8943a-e30f-46d7-9e83-8211ac8406e4","title":"\u305d\u306e\u4ed6","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2024-02-03T14:03:17+09:00","cid":11},"master_periods":[]},{"id":"e32a74fc-a7eb-4843-80b4-8570768f188b","title":"\u611b\u5b95\u795e\u793e","kana":"\u3042\u305f\u3054\u3058\u3093\u3058\u3083","sub_name":null,"old_item_id":101007,"master_area_id":7,"master_kubun_id":9,"master_ku_type_id":18,"master_shitei_id":11,"master_unit_id":30,"volume":1,"address":"\u798f\u5ca1\u5e02\u897f\u533a\u611b\u5b95","latitude":33.585579,"longitude":130.334778,"zoom":null,"sub_address":null,"owner":"\u611b\u5b95\u795e\u793e","sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"\u3000\u5ba4\u898b\u5ddd\u6cb3\u53e3\u897f\u5074\u306e\u4e18\u9675\u4e0a\u306b\u3042\u308b\u3002\u53e4\u304f\u306f\u9df2\u5c3e\u795e\u793e\u3068\u3044\u3044\u3001\u666f\u884c\u5929\u7687\u306e\u4ee3\u306b\u3001\u5929\u5fcd\u7a42\u8033\u5c0a\uff08\u3042\u3081\u306e\u304a\u3057\u307b\u307f\u307f\u306e\u307f\u3053\u3068\uff09\u3001\u4f0a\u90aa\u90a3\u5c90\u5c0a\uff08\u3044\u3056\u306a\u304e\u306e\u307f\u3053\u3068\uff09\u306e2\u795e\u3092\u796d\u3063\u305f\u3068\u3044\u3046\u3002\u5bdb\u6c3811\u5e74\uff081634\uff09\u9ed2\u7530\u5fe0\u4e4b\u304c\u4eac\u90fd\u611b\u5b95\u795e\u793e\u304b\u3089\u706b\u7523\u970a\u795e\uff08\u307b\u3080\u3059\u3073\u306e\u304b\u307f\u3001\u304b\u3050\u3064\u3061\u306e\u304b\u307f\uff09\u3001\u4f0a\u90aa\u90a3\u7f8e\u5c0a\uff08\u3044\u3056\u306a\u307f\u306e\u307f\u3053\u3068\uff09\u306e2\u795e\u3092\u52e7\u8acb\u3057\u3001\u611b\u5b95\u795e\u793e\u3092\u4f5c\u3063\u305f\u3002\u660e\u6cbb34\u5e74\uff081901\uff09\u4e21\u793e\u304c\u5408\u4f75\u3057\u3001\u73fe\u5728\u9df2\u5c3e\u611b\u5b95\u795e\u793e\u3068\u3057\u30664\u795e\u304c\u796d\u3089\u308c\u3066\u3044\u308b\u3002\u958b\u904b\u30fb\u9577\u5bff\u30fb\u5546\u58f2\u7e41\u76db\u30fb\u93ae\u706b\u3001\u307e\u305f\u7981\u9152\u30fb\u7981\u7159\u306a\u3069\u306b\u3082\u970a\u9a13\u304c\u3042\u308b\u3068\u3055\u308c\u3001\u300c\u611b\u5b95\u3055\u3093\u53c2\u308a\u300d\u306e\u7fd2\u4fd7\u304c\u4eca\u3082\u7d9a\u304f\u3002<br \/>\r\n\t\u3000\u795e\u793e\u306e\u3042\u308b\u4e18\u9675\u4e00\u5e2f\u306f\u7b51\u524d\u63a2\u984c\u8de1\u3068\u4f1d\u3048\u3089\u308c\u3066\u3044\u308b\u304c\u3001\u7b51\u524d\u63a2\u984c\u3068\u3044\u3046\u8077\u5236\u306f\u306a\u304f\u3001\u5ba4\u753a\u5e55\u5e9c\u304c\u4efb\u547d\u3057\u305f\u4e5d\u5dde\u63a2\u984c\u306b\u7531\u6765\u3059\u308b\u5df7\u4f1d\u3067\u3042\u308d\u3046\u3002\u4ed8\u8fd1\u306b\u306f\u63a2\u984c\u585a\u304c\u6b8b\u308b\u304c\u3001\u3053\u308c\u306f1534\u5e74\u3053\u308d\u306b\u6700\u5f8c\u306e\u63a2\u984c\u6e0b\u5ddd\u5c2d\u9855\u304c\u8a0e\u6b7b\u3057\u846c\u3063\u305f\u3053\u3068\u306b\u56e0\u3080\u3068\u3044\u3046\u3002\u305f\u3060\u3057\u3001\u6e0b\u5ddd\u5c2d\u9855\u306e\u540d\u306f\u53f2\u6599\u306b\u306f\u898b\u3048\u305a\u3001\u305d\u306e\u5b58\u5728\u306f\u660e\u3089\u304b\u3067\u306f\u306a\u3044\u3002<br \/>\r\n\t\u3000\u307e\u305f\u3001\u611b\u5b95\u795e\u793e\u306e\u6771\u5357\u306e\u5c71\u9e93\u4e2d\u8179\u304b\u3089\u7aaa\u5730\u306b\u304b\u3051\u3066\u3001\u74e6\u7d4c\u304c\u898b\u3064\u304b\u3063\u3066\u3044\u308b\u3002\u4e00\u822c\u7684\u306b\u7d4c\u6587\u306f\u74e6\u7d4c\u306e\u8868\u88cf\u9762\u306b\u66f8\u304b\u308c\u308b\u304c\u3001\u611b\u5b95\u5c71\u51fa\u571f\u5206\u306f\u3059\u3079\u3066\u7247\u9762\u5199\u7d4c\u3067\u3042\u308b\u3002","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2008-06-09T00:00:00+09:00","modified":"2013-03-12T18:22:00+09:00","cid":4,"cultural_property_sub_image_blocks":[{"id":"714dbc70-51de-4255-8195-8b3afd68e88e","foreign_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","sequence":0,"is_daihyou":1,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/714dbc70-51de-4255-8195-8b3afd68e88e\/value01\/CulturalPropertyImage11imageja.jpg","value02":"CulturalPropertyImage11imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u611b\u5b95\u795e\u793e","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":null,"deleted":null,"cid":11},{"id":"b9346ea9-bbbb-450d-96df-cb4c6fb1446c","foreign_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/b9346ea9-bbbb-450d-96df-cb4c6fb1446c\/value01\/CulturalPropertyImage12imageja.jpg","value02":"CulturalPropertyImage12imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u62dd\u6bbf\u30fb\u672c\u6bbf","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":null,"deleted":null,"cid":12}],"cultural_property_periods":[{"id":"3ded9e84-3d4a-42e4-936f-b97f35903428","cultural_property_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":15},{"id":"60e6f92d-a0de-4b4a-849f-e6d1550cf9cd","cultural_property_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","master_period_id":"46213d7e-8e2e-418e-9d4c-24b5753f54f9","cid":17},{"id":"7518fbe6-33ed-4137-b42d-71044cf6838c","cultural_property_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","master_period_id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","cid":16}],"master_kubun":{"id":"d9fb7ff5-1072-49e3-a0f3-2b0fe1980214","title":"\u305d\u306e\u4ed6","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:10:41+09:00","cid":9},"master_ku_type":{"id":"bf6eb1bd-555e-414e-933c-b3d420fc49ae","master_kubun_id":9,"title":"\u305d\u306e\u4ed6","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2013-01-30T16:20:06+09:00","cid":18},"master_area":{"id":"b5b907c8-fcc2-4e5c-a2d4-7a885f9efe39","title":"\u897f\u533a","sequence":7,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-09T15:31:09+09:00","cid":7},"master_shitei":{"id":"12b8943a-e30f-46d7-9e83-8211ac8406e4","title":"\u305d\u306e\u4ed6","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2024-02-03T14:03:17+09:00","cid":11},"master_periods":[{"id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","title":"\u5ba4\u753a","sequence":10,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:31+09:00","cid":10,"_joinData":{"id":"3ded9e84-3d4a-42e4-936f-b97f35903428","cultural_property_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":15}},{"id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","title":"\u6c5f\u6238","sequence":12,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:22+09:00","cid":12,"_joinData":{"id":"7518fbe6-33ed-4137-b42d-71044cf6838c","cultural_property_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","master_period_id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","cid":16}},{"id":"46213d7e-8e2e-418e-9d4c-24b5753f54f9","title":"\u305d\u306e\u4ed6","sequence":18,"note":"","status":"published","public":"published","created":null,"modified":"2024-01-19T19:11:25+09:00","cid":17,"_joinData":{"id":"60e6f92d-a0de-4b4a-849f-e6d1550cf9cd","cultural_property_id":"e32a74fc-a7eb-4843-80b4-8570768f188b","master_period_id":"46213d7e-8e2e-418e-9d4c-24b5753f54f9","cid":17}}]},{"id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","title":"\u6cb9\u5c71\u89b3\u97f3\uff08\u6b63\u899a\u5bfa\uff09","kana":"\u3042\u3076\u3089\u3084\u307e\u304b\u3093\u306e\u3093\u3000\u3057\u3087\u3046\u304c\u304f\u3058","sub_name":null,"old_item_id":101022,"master_area_id":5,"master_kubun_id":9,"master_ku_type_id":18,"master_shitei_id":11,"master_unit_id":30,"volume":1,"address":"\u798f\u5ca1\u5e02\u57ce\u5357\u533a\u6771\u6cb9\u5c71508","latitude":33.527414,"longitude":130.37,"zoom":"14","sub_address":null,"owner":"\uff08\u5b97\uff09\u6cb9\u5c71\u89b3\u97f3","sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\u3000\u81e8\u6e08\u5b97\u6771\u798f\u5bfa\u6d3e\u3002\u5c71\u53f7\u306f\u6771\u6cb9\u5c71\u3002\u3082\u3068\u6771\u6cb9\u5c71\u306e\u5ea7\u4e3b\u574a\u6cc9\u798f\u5bfa\u3002<br \/>\r\n\u5929\u5e73\u5e74\u9593\uff08729\uff5e748\uff09\u897f\u57df\u50e7\u6e05\u8cc0\u4e0a\u4eba\u306e\u958b\u57fa\u3068\u4f1d\u3048\u3001\u6cb9\u5c71\u306e\u5730\u540d\u306f\u6e05\u8cc0\u4e0a\u4eba\u304c\u80e1\u9ebb\u3067\u6cb9\u3092\u4f5c\u308a\u8af8\u5bfa\u306b\u9001\u3063\u305f\u3053\u3068\u306b\u3088\u308b\u3068\u3044\u3046\u3002\u5efa\u4e452\u5e74\uff081193\uff09\u93ae\u897f\u4e0a\u4eba\u8056\u5149\u304c\u5165\u5bfa\u3057\u4e00\u5c71\u3092\u6307\u5c0e\u3057\u305f\u3002\u897f\u6cb9\u5c71\u306e\u5929\u798f\u5bfa\u3068\u4e26\u3093\u3067\u50e7\u5175\u3092\u64c1\u3057\u3066\u6804\u3048\u3001\u76db\u6642\u306b\u306f360\u306e\u50e7\u574a\u304c\u7acb\u3061\u4e26\u3093\u3067\u3044\u305f\u3068\u3055\u308c\u308b\u304c\u3001\u5929\u6b63\u5e74\u4e2d\u3001\u5175\u706b\u306b\u3042\u3044\u5168\u5c71\u708e\u4e0a\u3057\u89b3\u97f3\u5802\u304c\u6b8b\u308b\u306e\u307f\u3068\u306a\u3063\u305f\u3068\u3044\u3046\u3002<br \/>\r\n\u3000\u5143\u79847\u5e74\uff081694\uff09\u306b\u518d\u5efa\u3055\u308c\u3001\u5bfa\u53f7\u3092\u6b63\u899a\u5bfa\u3068\u3057\u305f\u3002\u6cb9\u5c71\u89b3\u97f3\u3067\u77e5\u3089\u308c\u308b\u8056\u89b3\u97f3\u5750\u50cf\u306f\u3001\u5e73\u5b89\u6642\u4ee3\u306e\u4f5c\u3067\u56fd\u6307\u5b9a\u306e\u91cd\u8981\u6587\u5316\u8ca1\u3002\u5883\u5185\u5165\u308a\u53e3\u306b\u7acb\u3064\u65b0\u7f85\u5f0f\u77f3\u9580\u306f\u3001\u9ed2\u7530\u5fe0\u4e4b\uff08\u4e8c\u4ee3\u85e9\u4e3b\uff09\u5efa\u7acb\u306e\u685c\u9580\u306e\u8de1\u306b\u660e\u6cbb23\u5e74\uff081890\uff09\u306b\u7acb\u3066\u3089\u308c\u305f\u9580\u3067\u3001\u53e4\u4ee3\u671d\u9bae\u304b\u3089\u4f1d\u6765\u3057\u305f\u77f3\u9580\u4f5c\u308a\u306e\u6280\u6cd5\u3067\u5efa\u7acb\u3055\u308c\u305f\u3082\u306e\u3068\u3044\u3046\u3002<br \/>\r\n\u3000\u6cb9\u5c71\u306e\u61d0\u306b\u62b1\u304b\u308c\u305f\u5883\u5185\u306f\u3001\u6669\u79cb\u9803\u306b\u306f\u3001\u5883\u5185\u306e\u6953\u3084\u5927\u9280\u674f\u306e\u7d05\u8449\u304c\u7f8e\u3057\u3044\u3002<\/p>\r\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2008-06-09T00:00:00+09:00","modified":"2016-06-14T11:17:00+09:00","cid":13,"cultural_property_sub_image_blocks":[{"id":"4bbe25a8-291a-407d-aa72-207e3c88f86f","foreign_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","sequence":0,"is_daihyou":1,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/4bbe25a8-291a-407d-aa72-207e3c88f86f\/value01\/CulturalPropertyImage32imageja.jpg","value02":"CulturalPropertyImage32imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u6b63\u899a\u5bfa","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2016-06-14T11:17:00+09:00","deleted":null,"cid":32},{"id":"d128c982-948a-42bf-aa28-bd86a700353e","foreign_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/d128c982-948a-42bf-aa28-bd86a700353e\/value01\/CulturalPropertyImage31imageja.jpg","value02":"CulturalPropertyImage31imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u65b0\u7f85\u5f0f\u77f3\u9580","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2016-06-14T11:17:00+09:00","deleted":null,"cid":31}],"cultural_property_periods":[{"id":"4b59d78f-c930-4051-9e32-e15aa311923d","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"cecb6665-1c9c-4023-9818-fa83c6d568f0","cid":590},{"id":"605bc391-3b57-496a-9fe3-8a2c4e1f447e","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":589},{"id":"6e396fe6-585f-4052-a737-d8189de09fca","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"388b88ff-c718-4972-ab76-618804446136","cid":588},{"id":"7bfb290d-6aed-4a41-86fd-67322f71dc6e","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"0319dc1f-10f5-4ae8-8027-6d394a6fa052","cid":587}],"master_kubun":{"id":"d9fb7ff5-1072-49e3-a0f3-2b0fe1980214","title":"\u305d\u306e\u4ed6","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:10:41+09:00","cid":9},"master_ku_type":{"id":"bf6eb1bd-555e-414e-933c-b3d420fc49ae","master_kubun_id":9,"title":"\u305d\u306e\u4ed6","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2013-01-30T16:20:06+09:00","cid":18},"master_area":{"id":"a6645df1-53f1-40fa-9862-b94676be60d5","title":"\u57ce\u5357\u533a","sequence":5,"note":"","status":"published","public":"published","created":null,"modified":"2023-10-03T11:07:26+09:00","cid":5},"master_shitei":{"id":"12b8943a-e30f-46d7-9e83-8211ac8406e4","title":"\u305d\u306e\u4ed6","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2024-02-03T14:03:17+09:00","cid":11},"master_periods":[{"id":"0319dc1f-10f5-4ae8-8027-6d394a6fa052","title":"\u5948\u826f","sequence":6,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:49+09:00","cid":6,"_joinData":{"id":"7bfb290d-6aed-4a41-86fd-67322f71dc6e","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"0319dc1f-10f5-4ae8-8027-6d394a6fa052","cid":587}},{"id":"388b88ff-c718-4972-ab76-618804446136","title":"\u938c\u5009","sequence":8,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:42+09:00","cid":8,"_joinData":{"id":"6e396fe6-585f-4052-a737-d8189de09fca","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"388b88ff-c718-4972-ab76-618804446136","cid":588}},{"id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","title":"\u5ba4\u753a","sequence":10,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:31+09:00","cid":10,"_joinData":{"id":"605bc391-3b57-496a-9fe3-8a2c4e1f447e","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":589}},{"id":"cecb6665-1c9c-4023-9818-fa83c6d568f0","title":"\u73fe\u5728","sequence":17,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:41:52+09:00","cid":16,"_joinData":{"id":"4b59d78f-c930-4051-9e32-e15aa311923d","cultural_property_id":"a5265c57-65f2-45ff-853d-10bfcc9e31e9","master_period_id":"cecb6665-1c9c-4023-9818-fa83c6d568f0","cid":590}}]},{"id":"47c09d2f-2d27-4357-b324-32afd8c750a7","title":"\u7db2\u5c4b\u5730\u8535\u5927\u83e9\u85a9(\u7db2\u5c4b\u7acb\u7b4b\uff09","kana":"\u3042\u307f\u3084\u3058\u305e\u3046\u3060\u3044\u307c\u3055\u3064","sub_name":null,"old_item_id":0,"master_area_id":1,"master_kubun_id":0,"master_ku_type_id":0,"master_shitei_id":0,"master_unit_id":0,"volume":0,"address":"\u798f\u5ca1\u770c\u798f\u5ca1\u5e02\u6771\u533a\u7bb1\u5d0e\uff12\u4e01\u76ee","latitude":33.619612696741,"longitude":130.41982818887,"zoom":"21","sub_address":null,"owner":null,"sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\r\n\t\u5357\u5317\u671d\u6642\u4ee3\u3001\u591a\u3005\u826f\u6d5c\u306e\u5408\u6226\u3067\u6557\u308c\u305f\u83ca\u6c60\u52e2\u306e\u6b66\u5c06\u3084\u5175\u58eb\u3092\u5730\u5143\u306e\u4eba\u3005\u304c\u4e01\u5be7\u306b\u846c\u308a\u3001\u4f9b\u990a\u306e\u305f\u3081\u306b\u5efa\u3066\u305f\u77f3\u7891\u304c\u5730\u8535\u83e9\u85a9\u3068\u3057\u3066\u7940\u3089\u308c\u305f\u3068\u3044\u3046\u8a00\u3044\u4f1d\u3048\u304c\u3042\u308a\u307e\u3059\u3002\u7bb1\u5d0e\u6d66\u4e00\u5e2f\u306e\u5730\u8535\u5c0a\u3067\u306f\u3001\u6bce\u5e74\u590f\u306b\u7bb1\u5ead\u306b\u4eba\u5f62\u3092\u98fe\u308a\u3001\u7121\u75c5\u606f\u707d\u3092\u9858\u3046\u300c\u4eba\u5f62\u98fe\u300d\u3068\u3044\u3046\u5b50\u3069\u3082\u306e\u884c\u4e8b\u304c\u884c\u308f\u308c\u3066\u3044\u307e\u3059\u3002<\/p>\r\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2014-11-13T18:59:00+09:00","modified":"2015-03-19T17:51:00+09:00","cid":673,"cultural_property_sub_image_blocks":[{"id":"4d046bb7-bda3-4e77-96d4-acb004699f12","foreign_id":"47c09d2f-2d27-4357-b324-32afd8c750a7","sequence":0,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/4d046bb7-bda3-4e77-96d4-acb004699f12\/value01\/CulturalPropertyImage709imageja.jpg","value02":"CulturalPropertyImage709imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:47:00+09:00","deleted":null,"cid":709},{"id":"3950b0f5-bf6d-47db-ae11-e0ae3f5c8939","foreign_id":"47c09d2f-2d27-4357-b324-32afd8c750a7","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/3950b0f5-bf6d-47db-ae11-e0ae3f5c8939\/value01\/CulturalPropertyImage710imageja.jpg","value02":"CulturalPropertyImage710imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:47:00+09:00","deleted":null,"cid":710},{"id":"d61c39eb-cf38-437c-9b72-095a2f8dae36","foreign_id":"47c09d2f-2d27-4357-b324-32afd8c750a7","sequence":2,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/d61c39eb-cf38-437c-9b72-095a2f8dae36\/value01\/CulturalPropertyImage711imageja.jpg","value02":"CulturalPropertyImage711imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-11-15T16:47:00+09:00","deleted":null,"cid":711}],"cultural_property_periods":[],"master_kubun":null,"master_ku_type":null,"master_area":{"id":"b21ed040-8f63-4738-aa57-6d8b912292b3","title":"\u6771\u533a","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-09T15:30:51+09:00","cid":1},"master_shitei":null,"master_periods":[]},{"id":"45ef5136-7ecd-4dfb-9976-2b3bcf0f6eac","title":"\u7db2\u5c4b\u5730\u8535\u5927\u83e9\u85a9(\u7db2\u5c4b\u672c\u753a\uff09","kana":"\u3042\u307f\u3084\u3058\u305e\u3046\u307c\u3055\u3064\u3000\u3042\u307f\u3084\u307b\u3093\u307e\u3061","sub_name":null,"old_item_id":0,"master_area_id":1,"master_kubun_id":0,"master_ku_type_id":0,"master_shitei_id":0,"master_unit_id":0,"volume":0,"address":"\u798f\u5ca1\u770c\u798f\u5ca1\u5e02\u6771\u533a\u7bb1\u5d0e\uff12\u4e01\u76ee\uff18","latitude":33.617997911162,"longitude":130.42048192945,"zoom":"21","sub_address":null,"owner":null,"sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\r\n\t<span style=\"color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);\">\u5357\u5317\u671d\u6642\u4ee3\u3001\u591a\u3005\u826f\u6d5c\u306e\u5408\u6226\u3067\u6557\u308c\u305f\u83ca\u6c60\u52e2\u306e\u6b66\u5c06\u3084\u5175\u58eb\u3092\u5730\u5143\u306e\u4eba\u3005\u304c\u4e01\u5be7\u306b\u846c\u308a\u3001\u4f9b\u990a\u306e\u305f\u3081\u306b\u5efa\u3066\u305f\u77f3\u7891\u304c\u5730\u8535\u83e9\u85a9\u3068\u3057\u3066\u7940\u3089\u308c\u305f\u3068\u3044\u3046\u8a00\u3044\u4f1d\u3048\u304c\u3042\u308a\u307e\u3059\u3002\u7bb1\u5d0e\u6d66\u4e00\u5e2f\u306e\u5730\u8535\u5c0a\u3067\u306f\u3001\u6bce\u5e74\u590f\u306b\u7bb1\u5ead\u306b\u4eba\u5f62\u3092\u98fe\u308a\u3001\u7121\u75c5\u606f\u707d\u3092\u9858\u3046\u300c\u4eba\u5f62\u98fe\u300d\u3068\u3044\u3046\u5b50\u3069\u3082\u306e\u884c\u4e8b\u304c\u884c\u308f\u308c\u3066\u3044\u307e\u3059\u3002<\/span><\/p>\r\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2014-11-13T18:45:00+09:00","modified":"2015-03-19T17:51:00+09:00","cid":672,"cultural_property_sub_image_blocks":[{"id":"b306cd2c-e923-4dee-9aa8-b5714b09efba","foreign_id":"45ef5136-7ecd-4dfb-9976-2b3bcf0f6eac","sequence":0,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/b306cd2c-e923-4dee-9aa8-b5714b09efba\/value01\/CulturalPropertyImage706imageja.jpg","value02":"CulturalPropertyImage706imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-12-10T13:31:00+09:00","deleted":null,"cid":706},{"id":"37c2f71d-6a42-4e0f-9e78-6eeff5d7ab54","foreign_id":"45ef5136-7ecd-4dfb-9976-2b3bcf0f6eac","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/37c2f71d-6a42-4e0f-9e78-6eeff5d7ab54\/value01\/CulturalPropertyImage708imageja.jpg","value02":"CulturalPropertyImage708imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-12-10T13:31:00+09:00","deleted":null,"cid":708},{"id":"8bf2fa72-9628-4812-9f7b-f04c61db9fe4","foreign_id":"45ef5136-7ecd-4dfb-9976-2b3bcf0f6eac","sequence":2,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/8bf2fa72-9628-4812-9f7b-f04c61db9fe4\/value01\/CulturalPropertyImage707imageja.jpg","value02":"CulturalPropertyImage707imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2014-12-10T13:31:00+09:00","deleted":null,"cid":707}],"cultural_property_periods":[],"master_kubun":null,"master_ku_type":null,"master_area":{"id":"b21ed040-8f63-4738-aa57-6d8b912292b3","title":"\u6771\u533a","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-09T15:30:51+09:00","cid":1},"master_shitei":null,"master_periods":[]},{"id":"72fb3c15-1129-4e04-a3f1-8e7ec50bf08f","title":"\u8352\u5e73\u57ce\u8de1","kana":"\u3042\u3089\u3072\u3089\u3058\u3087\u3046\u3042\u3068","sub_name":null,"old_item_id":101039,"master_area_id":6,"master_kubun_id":9,"master_ku_type_id":18,"master_shitei_id":11,"master_unit_id":30,"volume":1,"address":"\u798f\u5ca1\u5e02\u65e9\u826f\u533a\u8352\u5e73\u5c71","latitude":33.511374,"longitude":130.351222,"zoom":null,"sub_address":null,"owner":null,"sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"\u3000\u65e9\u826f\u5e73\u91ce\u3092\u8cab\u6d41\u3059\u308b\u5ba4\u898b\u5ddd\uff08\u65e9\u826f\u5ddd\uff09\u4e0a\u30fb\u4e2d\u6d41\u57df\u306e\u6771\u897f\u4e18\u9675\u3084\u5c71\u9802\u306b\u306f\u3001\u8352\u5e73\u57ce\u3092\u306f\u3058\u3081\u98ef\u76db\u57ce\u3001\u90fd\u5730\u57ce\u3001\u66f2\u6df5\u57ce\u306a\u3069\u5e73\u91ce\u306e\u8981\u6240\u3092\u5360\u3081\u308b\u4e2d\u4e16\u5c71\u57ce\u304c\u77e5\u3089\u308c\u3066\u3044\u308b\u3002<br \/>\r\n\t\u3000\u8352\u5e73\u57ce\u306f\u6cb9\u5c71\u306e\u4e00\u652f\u5c71\u3067\u3042\u308b\u8352\u5e73\u5c71\uff08\u6a19\u9ad8392\uff4d\uff09\u306b\u3042\u308a\u3001\u8c4a\u5f8c\u306e\u6226\u56fd\u5927\u540d\u5927\u53cb\u6c0f\u306e\u914d\u4e0b\u306b\u3042\u3063\u305f\u5c0f\u7530\u90e8\u6c11\u90e8\u5927\u8f14\u93ae\u901a\u304c\u3001\u5929\u658722\u5e74\uff5e\u5929\u6b637\u5e74\uff081553\uff5e1579\uff09\u306e\u9593\u3001\u5c45\u57ce\u3068\u3057\u305f\u3002\u5c71\u9802\u3092\u672c\u4e38\uff08\u65b930\u9593\uff09\u3068\u3057\u3001\u305d\u306e\u4e0b\u306e\u5c3e\u6839\u90e8\u5206\u3092\u4e8c\u306e\u4e38\uff08\u65b915\u9593\uff09\u3068\u3059\u308b\u3002\u5929\u6b637\u5e74\u3001\u80a5\u524d\u9f8d\u9020\u6c0f\u306b\u653b\u3081\u3089\u308c\u843d\u57ce\u3057\u305f\u3002<br \/>\r\n\t\u3000\u306a\u304a\u53e4\u6587\u66f8\u306b\u306f\u3053\u308c\u3088\u308a\u4ee5\u524d\u306e\u5bdb\u6b636\u5e74\uff081465\uff09\u3001\u6587\u660e10\u5e74\uff081478\uff09\u306b\u8352\u5e73\u57ce\u306e\u3053\u3068\u304c\u898b\u3048\u3066\u3044\u308b\u3002<br \/>\r\n\t\u3000\u73fe\u5728\u3082\u5800\u5207\u3001\u77f3\u57a3\u3001\u571f\u5841\u306a\u3069\u304c\u6b8b\u308a\u3001\u672c\u4e38\u8de1\u306b\u306f\u5b89\u697d\u5e73\u57ce\u8de1\u306e\u7891\u304c\u5efa\u3064\u3002","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2008-06-09T00:00:00+09:00","modified":"2013-03-12T18:22:00+09:00","cid":23,"cultural_property_sub_image_blocks":[{"id":"848c4d18-974c-4114-8781-7bcdcb819960","foreign_id":"72fb3c15-1129-4e04-a3f1-8e7ec50bf08f","sequence":2,"is_daihyou":1,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/848c4d18-974c-4114-8781-7bcdcb819960\/value01\/CulturalPropertyImage60imageja.jpg","value02":"CulturalPropertyImage60imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u8352\u5e73\u57ce\u8de1","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":null,"deleted":null,"cid":60},{"id":"6d345f54-89f1-434f-ad97-bbbc1ebfc3b9","foreign_id":"72fb3c15-1129-4e04-a3f1-8e7ec50bf08f","sequence":0,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/6d345f54-89f1-434f-ad97-bbbc1ebfc3b9\/value01\/CulturalPropertyImage58imageja.jpg","value02":"CulturalPropertyImage58imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u65e9\u826f\u5e73\u91ce\u5074\u304b\u3089\u898b\u305f\u8352\u5e73\u57ce\u8de1","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":null,"deleted":null,"cid":58},{"id":"0471de41-c506-4ab1-86cd-ba9139780be5","foreign_id":"72fb3c15-1129-4e04-a3f1-8e7ec50bf08f","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/0471de41-c506-4ab1-86cd-ba9139780be5\/value01\/CulturalPropertyImage59imageja.jpg","value02":"CulturalPropertyImage59imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u77f3\u57a3","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":null,"deleted":null,"cid":59}],"cultural_property_periods":[{"id":"2cc85e8e-a33e-4683-af55-e3c209178b62","cultural_property_id":"72fb3c15-1129-4e04-a3f1-8e7ec50bf08f","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":71}],"master_kubun":{"id":"d9fb7ff5-1072-49e3-a0f3-2b0fe1980214","title":"\u305d\u306e\u4ed6","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:10:41+09:00","cid":9},"master_ku_type":{"id":"bf6eb1bd-555e-414e-933c-b3d420fc49ae","master_kubun_id":9,"title":"\u305d\u306e\u4ed6","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2013-01-30T16:20:06+09:00","cid":18},"master_area":{"id":"f2bba271-90ad-45b5-823d-3a8d939b1d10","title":"\u65e9\u826f\u533a","sequence":6,"note":"","status":"published","public":"published","created":null,"modified":"2023-10-03T11:07:34+09:00","cid":6},"master_shitei":{"id":"12b8943a-e30f-46d7-9e83-8211ac8406e4","title":"\u305d\u306e\u4ed6","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2024-02-03T14:03:17+09:00","cid":11},"master_periods":[{"id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","title":"\u5ba4\u753a","sequence":10,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:31+09:00","cid":10,"_joinData":{"id":"2cc85e8e-a33e-4683-af55-e3c209178b62","cultural_property_id":"72fb3c15-1129-4e04-a3f1-8e7ec50bf08f","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":71}}]},{"id":"288a7aac-f4c0-4643-b164-2ee016aa3981","title":"\u6709\u7530\u907a\u8de1\u7fa4","kana":"\u3042\u308a\u305f \u3044\u305b\u304d\u3050\u3093","sub_name":null,"old_item_id":101037,"master_area_id":6,"master_kubun_id":8,"master_ku_type_id":17,"master_shitei_id":11,"master_unit_id":0,"volume":0,"address":"\u798f\u5ca1\u5e02\u65e9\u826f\u533a\u6709\u7530\u30fb\u5c0f\u7530\u90e8","latitude":33.567106,"longitude":130.334694,"zoom":"14","sub_address":null,"owner":null,"sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\u3000\u6709\u7530\u907a\u8de1\u7fa4\u306f\u3001\u65e9\u826f\u533a\u6709\u7530\u30fb\u5c0f\u7530\u90e8\u30fb\u5357\u5e84\u5730\u533a\u306b\u304b\u3051\u3066\u5e83\u304c\u308b\u65e7\u77f3\u5668\u6642\u4ee3\u304b\u3089\u6c5f\u6238\u6642\u4ee3\u306b\u308f\u305f\u308b\u5927\u907a\u8de1\u3067\u3042\u308b\u30021966\u5e74\u306e\u533a\u753b\u6574\u7406\u4e8b\u696d\u306b\u4f34\u3046\u767a\u6398\u8abf\u67fb\u4ee5\u6765\u3001\u3053\u308c\u307e\u3067270\u30f6\u6240\u3092\u8d85\u3048\u308b\u5730\u70b9\u3092\u8abf\u67fb\u3057\u3066\u3044\u308b\u3002<br \/>\n\u3000\u7e04\u6587\u6642\u4ee3\u3067\u306f\u4e2d\u671f\u304b\u3089\u5f8c\u671f\uff08\u304a\u3088\u305d5000\u5e74\u524d\u304b\u30893000\u5e74\u524d\uff09\u306e\u5b9a\u4f4f\u751f\u6d3b\u3092\u793a\u3059\u3001\u74b0\u72b6\u306b\u914d\u7f6e\u3055\u308c\u305f\u8caf\u8535\u7a74\u7fa4\u304c\u307f\u3064\u304b\u3063\u3066\u3044\u308b\u3002<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><br \/>\n\u5f25\u751f\u6642\u4ee3\u306b\u306f\u65e9\u826f\u5e73\u91ce\u3067\u6700\u5927\u7d1a\u306e\u96c6\u843d\u304c\u5f62\u6210\u3055\u308c\u308b\u3002\u524d\u671f\u306e\u74b0\u6fe0\u96c6\u843d\u306f\u76f4\u5f84200m\u3092\u8d85\u3048\u308b\u7bc4\u56f2\u3092\u3001\u5e452\uff5e4\uff4d\u3001\u6df1\u30551.5\uff5e2\uff4d\u306e\u6e9d\u3067\u56f2\u3093\u3060\u96c6\u843d\u8de1\u3068\u63a8\u5b9a\u3055\u308c\u3066\u3044\u308b\u304c\u3001\u540c\u6642\u4ee3\u306e\u677f\u4ed8\u907a\u8de1\uff08\u56fd\u53f2\u8de1\u3001\u535a\u591a\u533a\uff09\u3092\u4e0a\u56de\u308b\u898f\u6a21\u306b\u306a\u308b\u3002\u307e\u305f\u3001\u6709\u4f4f\u5c0f\u5b66\u6821\u5468\u8fba\u306f\u6709\u7530\u4e18\u9675\u306e\u897f\u5074\u306b\u4f4d\u7f6e\u3059\u308b\u4f4e\u5730\u3060\u304c\u3001\u671d\u9bae\u534a\u5cf6\u3068\u306e\u95a2\u9023\u304c\u3046\u304b\u304c\u3048\u308b\u5f25\u751f\u6642\u4ee3\u65e9\u671f\u306e\u571f\u5668\u3084\u77f3\u88fd\u8fb2\u5177\u306a\u3069\u304c\u51fa\u571f\u3057\u3066\u3044\u308b\u3002\u4ed8\u8fd1\u306b\u306f\u305d\u306e\u6642\u4ee3\u306e\u6c34\u7530\u304c\u7720\u3063\u3066\u3044\u308b\u3068\u8003\u3048\u3089\u308c\u308b\u3002\u907a\u8de1\u5185\u3067\u306f\u5f25\u751f\u6642\u4ee3\u524d\u671f\u304b\u3089\u5f8c\u671f\u306e\u96c6\u843d\u8de1\u306e\u307b\u304b\u3001\u7515\u68fa\u5893\u5730\u306a\u3069\u3082\u307f\u3064\u304b\u3063\u3066\u3044\u308b\u304c\u3001\u770c\u7acb\u798f\u5ca1\u8b1b\u502b\u9928\u9ad8\u6821\u5185\u3067\u767a\u898b\u3055\u308c\u305f\u7515\u68fa\u5893\u306b\u306f\u6b66\u5668\u5f62\u9752\u9285\u5668\u306e\u9285\u6208\u304c\u526f\u846c\u3055\u308c\u3066\u304a\u308a\u3001\u5f53\u6642\u306e\u7d79\u7e54\u7269\u3082\u6b8b\u5b58\u3057\u3066\u3044\u305f\u3002<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><br \/>\n\u53e4\u58b3\u6642\u4ee3\u3082\u62e0\u70b9\u96c6\u843d\u3068\u3057\u3066\u5b58\u7d9a\u3059\u308b\u304c\u30016\uff5e\uff17\u4e16\u7d00\u306b\u306f\u67f5\u3067\u5009\u5eab\u7fa4\u306a\u3069\u3092\u533a\u753b\u3057\u305f\u30a8\u30ea\u30a2\u304c\u8907\u6570\u5f62\u6210\u3055\u308c\u308b\u3088\u3046\u306b\u306a\u308a\u3001\u98db\u9ce5\u6642\u4ee3\u304b\u3089\u5948\u826f\u6642\u4ee3\uff08\uff17\uff5e\uff18\u4e16\u7d00\uff09\u306b\u304b\u3051\u3066\u3001\u5730\u57df\u7d4c\u55b6\u306e\u62e0\u70b9\u3068\u306a\u308b\u5b98\u8859\uff08\u5f79\u6240\uff09\u304c\u55b6\u307e\u308c\u305f\u3068\u8003\u3048\u3089\u308c\u3066\u3044\u308b\u3002<br \/>\n\u73fe\u5730\u306b\u306f\u5c0f\u7530\u90e8\u897f\u516c\u5712\u3001\u5c0f\u7530\u90e8\u5357\u516c\u5712\u3001\u6709\u7530\u6771\u516c\u5712\u3001\u6709\u7530\u897f\u516c\u5712\u3001\u6709\u4f4f\u5c0f\u5b66\u6821\u5185\u306b\u907a\u8de1\u3092\u7d39\u4ecb\u3059\u308b\u8aac\u660e\u677f\u304c\u305f\u3066\u3089\u308c\u3066\u3044\u308b\u3002<\/p>\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2008-06-09T00:00:00+09:00","modified":"2022-12-13T14:10:00+09:00","cid":22,"cultural_property_sub_image_blocks":[{"id":"011c49ad-69f6-4fa7-87f9-03627520a6df","foreign_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","sequence":0,"is_daihyou":1,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/011c49ad-69f6-4fa7-87f9-03627520a6df\/value01\/CulturalPropertyImage57imageja.jpg","value02":"CulturalPropertyImage57imageja.jpg","value03":"","value04":"image\/jpeg","value05":"9607\u5317\u304b\u3089","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-12-13T14:10:00+09:00","deleted":null,"cid":57},{"id":"c3ecf610-f8d6-4014-8695-8dff61416170","foreign_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/c3ecf610-f8d6-4014-8695-8dff61416170\/value01\/CulturalPropertyImage56imageja.jpg","value02":"CulturalPropertyImage56imageja.jpg","value03":"","value04":"image\/jpeg","value05":"9803ART189","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-12-13T14:10:00+09:00","deleted":null,"cid":56},{"id":"db4f5e30-e5c1-4ea7-9244-676cc903aa0a","foreign_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","sequence":2,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/db4f5e30-e5c1-4ea7-9244-676cc903aa0a\/value01\/CulturalPropertyImage921imageja.jpg","value02":"CulturalPropertyImage921imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-12-13T14:10:00+09:00","deleted":null,"cid":921},{"id":"ea91f22d-bd06-44e7-a907-270523cea13d","foreign_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","sequence":3,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/ea91f22d-bd06-44e7-a907-270523cea13d\/value01\/CulturalPropertyImage922imageja.jpg","value02":"CulturalPropertyImage922imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-12-13T14:10:00+09:00","deleted":null,"cid":922},{"id":"bae3b1fe-dc57-46b4-b59b-2c6894266ed9","foreign_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","sequence":4,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/bae3b1fe-dc57-46b4-b59b-2c6894266ed9\/value01\/CulturalPropertyImage923imageja.jpg","value02":"CulturalPropertyImage923imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-12-13T14:10:00+09:00","deleted":null,"cid":923},{"id":"64959b26-b97c-4923-93a7-d87605ad31a3","foreign_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","sequence":5,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/64959b26-b97c-4923-93a7-d87605ad31a3\/value01\/CulturalPropertyImage924imageja.jpg","value02":"CulturalPropertyImage924imageja.jpg","value03":"","value04":"image\/jpeg","value05":"","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-12-13T14:10:00+09:00","deleted":null,"cid":924}],"cultural_property_periods":[{"id":"13f2a2d7-5a3d-4ff4-8dfc-f1e6829d2c4b","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":1048},{"id":"4b296d8c-8fa6-46cb-a629-28392a6f0b93","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","cid":1050},{"id":"6c2cfd42-941c-4706-9e00-7125572ad4e1","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"79ed0af7-2177-45bd-a50a-9778fe6a9bb2","cid":1047},{"id":"78c33659-8ed4-4692-a4f5-50c86f4d953c","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"06255de8-96c7-433e-b8d7-39f70e30be41","cid":1041},{"id":"79f003d5-d4e0-4255-af7a-d5530597f31e","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"acbc113a-2897-4732-8c17-51d28d50a053","cid":1049},{"id":"815287b8-f959-4ba4-a614-0d0fa8ef2872","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"95d82785-26eb-450a-a04f-dd900d19e196","cid":1042},{"id":"8293576c-905a-4d42-9339-d8180c6dedca","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"0319dc1f-10f5-4ae8-8027-6d394a6fa052","cid":1044},{"id":"a841c17e-1db3-451f-87c4-aff23c707db1","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"01adf95c-e6be-480b-8023-db40e9c6f7b4","cid":1045},{"id":"b596cfd3-6c98-42e2-a22b-65c3c7865907","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"aad52348-6a7c-4632-9f1b-4f6a8045ca04","cid":1043},{"id":"c68e6d09-82f7-4366-b765-c66cb773825a","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"388b88ff-c718-4972-ab76-618804446136","cid":1046},{"id":"d977f0f8-73cb-4206-970d-0f375ee0f84b","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"f553ef35-adea-4883-b443-30b5be70cb41","cid":1039},{"id":"dc259dda-bffd-4a3c-a1c5-dd60426f8629","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"a67f3ac5-64e7-450a-8776-475b4d53ac95","cid":1040}],"master_kubun":{"id":"50fc46a5-e38f-4c34-bc3e-dea479b8b1fe","title":"\u57cb\u8535\u6587\u5316\u8ca1","sequence":8,"note":"","status":"published","public":"published","created":null,"modified":"2016-10-03T19:02:20+09:00","cid":8},"master_ku_type":{"id":"c8275356-ac90-4622-857d-d61ee04d3089","master_kubun_id":8,"title":"\u57cb\u8535\u6587\u5316\u8ca1","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-10T11:12:53+09:00","cid":17},"master_area":{"id":"f2bba271-90ad-45b5-823d-3a8d939b1d10","title":"\u65e9\u826f\u533a","sequence":6,"note":"","status":"published","public":"published","created":null,"modified":"2023-10-03T11:07:34+09:00","cid":6},"master_shitei":{"id":"12b8943a-e30f-46d7-9e83-8211ac8406e4","title":"\u305d\u306e\u4ed6","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2024-02-03T14:03:17+09:00","cid":11},"master_periods":[{"id":"f553ef35-adea-4883-b443-30b5be70cb41","title":"\u65e7\u77f3\u5668","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-10T11:09:21+09:00","cid":1,"_joinData":{"id":"d977f0f8-73cb-4206-970d-0f375ee0f84b","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"f553ef35-adea-4883-b443-30b5be70cb41","cid":1039}},{"id":"a67f3ac5-64e7-450a-8776-475b4d53ac95","title":"\u7e04\u6587","sequence":2,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-10T11:09:21+09:00","cid":2,"_joinData":{"id":"dc259dda-bffd-4a3c-a1c5-dd60426f8629","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"a67f3ac5-64e7-450a-8776-475b4d53ac95","cid":1040}},{"id":"06255de8-96c7-433e-b8d7-39f70e30be41","title":"\u5f25\u751f","sequence":3,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:59+09:00","cid":3,"_joinData":{"id":"78c33659-8ed4-4692-a4f5-50c86f4d953c","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"06255de8-96c7-433e-b8d7-39f70e30be41","cid":1041}},{"id":"95d82785-26eb-450a-a04f-dd900d19e196","title":"\u53e4\u58b3","sequence":4,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:59+09:00","cid":4,"_joinData":{"id":"815287b8-f959-4ba4-a614-0d0fa8ef2872","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"95d82785-26eb-450a-a04f-dd900d19e196","cid":1042}},{"id":"aad52348-6a7c-4632-9f1b-4f6a8045ca04","title":"\u98db\u9ce5","sequence":5,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:53+09:00","cid":5,"_joinData":{"id":"b596cfd3-6c98-42e2-a22b-65c3c7865907","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"aad52348-6a7c-4632-9f1b-4f6a8045ca04","cid":1043}},{"id":"0319dc1f-10f5-4ae8-8027-6d394a6fa052","title":"\u5948\u826f","sequence":6,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:49+09:00","cid":6,"_joinData":{"id":"8293576c-905a-4d42-9339-d8180c6dedca","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"0319dc1f-10f5-4ae8-8027-6d394a6fa052","cid":1044}},{"id":"01adf95c-e6be-480b-8023-db40e9c6f7b4","title":"\u5e73\u5b89","sequence":7,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:47+09:00","cid":7,"_joinData":{"id":"a841c17e-1db3-451f-87c4-aff23c707db1","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"01adf95c-e6be-480b-8023-db40e9c6f7b4","cid":1045}},{"id":"388b88ff-c718-4972-ab76-618804446136","title":"\u938c\u5009","sequence":8,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:42+09:00","cid":8,"_joinData":{"id":"c68e6d09-82f7-4366-b765-c66cb773825a","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"388b88ff-c718-4972-ab76-618804446136","cid":1046}},{"id":"79ed0af7-2177-45bd-a50a-9778fe6a9bb2","title":"\u5357\u5317\u671d","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:38+09:00","cid":9,"_joinData":{"id":"6c2cfd42-941c-4706-9e00-7125572ad4e1","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"79ed0af7-2177-45bd-a50a-9778fe6a9bb2","cid":1047}},{"id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","title":"\u5ba4\u753a","sequence":10,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:31+09:00","cid":10,"_joinData":{"id":"13f2a2d7-5a3d-4ff4-8dfc-f1e6829d2c4b","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":1048}},{"id":"acbc113a-2897-4732-8c17-51d28d50a053","title":"\u5b89\u571f\u6843\u5c71","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:27+09:00","cid":11,"_joinData":{"id":"79f003d5-d4e0-4255-af7a-d5530597f31e","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"acbc113a-2897-4732-8c17-51d28d50a053","cid":1049}},{"id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","title":"\u6c5f\u6238","sequence":12,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:22+09:00","cid":12,"_joinData":{"id":"4b296d8c-8fa6-46cb-a629-28392a6f0b93","cultural_property_id":"288a7aac-f4c0-4643-b164-2ee016aa3981","master_period_id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","cid":1050}}]},{"id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","title":"\u98ef\u76db\u795e\u793e","kana":"\u3044\u3044\u3082\u308a \u3058\u3093\u3058\u3083","sub_name":null,"old_item_id":101032,"master_area_id":7,"master_kubun_id":9,"master_ku_type_id":18,"master_shitei_id":11,"master_unit_id":30,"volume":1,"address":"\u798f\u5ca1\u5e02\u897f\u533a\u98ef\u76db609","latitude":33.538278,"longitude":130.309167,"zoom":"14","sub_address":null,"owner":"\u98ef\u76db\u795e\u793e","sub_owner":null,"owner_address":null,"shitei_date":null,"add_shitei":null,"comment":"<p>\u3000\u98ef\u76db\u795e\u793e\u306f\u65e7\u65e9\u826f\u90e17\u30f5\u6751\u306e\u60e3\u793e\u3067\u3001\u8a89\u7530\u5225\u547d\uff08\u307b\u3080\u3060\u308f\u3051\u306e\u307f\u3053\u3068\uff09\u30fb\u4f0a\u5f09\u5189\u547d\uff08\u3044\u3056\u306a\u307f\u306e\u307f\u3053\u3068\uff09\u30fb\u7389\u4f9d\u59eb\u547d\uff08\u305f\u307e\u3088\u308a\u3072\u3081\u306e\u307f\u3053\u3068\uff09\u3092\u796d\u795e\u3068\u3059\u308b\u3002\u98ef\u76db\u5c71\u3092\u5fa1\u795e\u4f53\u3068\u3057\u3066\u3001\u4e0a\u5bae\u3001\u4e2d\u5bae\u3001\u4e0b\u5bae\u306e\u4e09\u6240\u304c\u796d\u3089\u308c\u3066\u3044\u305f\u304c\u3001\u73fe\u5728\u306f\u4e0b\u5bae\u306e\u307f\u6b8b\u3055\u308c\u3066\u3044\u308b\u3002\u305d\u306e\u8d77\u6e90\u306f\u4e0d\u660e\u3067\u3042\u308b\u304c\u3001\u4e0a\u5bae\u8de1\u3067\u3042\u308b\u5c71\u9802\u304b\u3089\u306f\u6c38\u4e452\u5e74\uff081114\uff09\u306e\u9298\u3092\u6301\u3064\u74e6\u7d4c\u304c\u767a\u898b\u3055\u308c\u3066\u304a\u308a\u3001\u53e4\u4ee3\u306b\u3055\u304b\u306e\u307c\u308b\u53ef\u80fd\u6027\u306f\u9ad8\u3044\u3002<br \/>\n\u3000\u98ef\u76db\u795e\u793e\u306f\u65e9\u826f\u90e1\u306e\u4e00\u5bae\u3067\u3042\u3063\u305f\u3068\u8003\u3048\u3089\u308c\u3001\u938c\u5009\u6642\u4ee3\u306b\u306f73\u753a\u4f59\u308a\u306e\u793e\u9818\u3092\u6301\u3063\u3066\u3044\u305f\u304c\u3001\u6226\u56fd\u6642\u4ee3\u306e\u9803\u306b\u306a\u308b\u3068\u8870\u9000\u3057\u3001\u793e\u9818\u308218\u753a\u4f59\u308a\u306b\u6e1b\u5c11\u3057\u3001\u305d\u306e\u4fe1\u4ef0\u570f\u30fb\u5b97\u6559\u7684\u52e2\u529b\u570f\u3082\u98ef\u76db\u795e\u793e\u3092\u4e2d\u5fc3\u3068\u3057\u305f\u65e9\u826f\u5e73\u91ce\u4e2d\u592e\u90e8\u5206\u306b\u9650\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002<br \/>\n\u3000\u672c\u6bbf\uff08\u5e02\u6307\u5b9a\uff09\u306f\u5929\u660e6\u5e74\uff081786\uff09\u5efa\u7acb\u3002\u5357\u5317\u671d\u6642\u4ee3\u306e\u5b8b\u98a8\u306e\u77f3\u9020\u72db\u72ac\uff08\u770c\u6307\u5b9a\uff09\u3001\u98ef\u76db\u795e\u793e\u6587\u66f8\uff08\u5e02\u6307\u5b9a\uff09\u304c\u8535\u3055\u308c\u308b\u3002\u307e\u305f\u3001\u305d\u306e\u5e74\u306e\u8c4a\u51f6\u3092\u5360\u3046\u304b\u3086\u5360\u306f\u770c\u6307\u5b9a\u306e\u7121\u5f62\u6c11\u4fd7\u6587\u5316\u8ca1\u300210\u67089\u65e5\u306b\u306f\u5e02\u6307\u5b9a\u306e\u7121\u5f62\u6c11\u4fd7\u6587\u5316\u8ca1\u3067\u3042\u308b\u6d41\u93d1\u99ac\u304c\u884c\u308f\u308c\u308b\u3002<br \/>\n\u3000\u307e\u305f\u3001\u795e\u5bae\u5bfa\u771f\u6559\u9662\u306e\u8de1\u5730\u306b\u306f\u6587\u6b8a\u5802\u304c\u5efa\u3064\u3002<br \/>\n\u3000\u771f\u6559\u9662\u306f\u938c\u5009\u6642\u4ee3\u306b\u306f\u5948\u826f\u897f\u5927\u5bfa\u306e\u672b\u5bfa\u3067\u3042\u308a\u3001\u3053\u306e\u5730\u65b9\u306e\u771f\u8a00\u5f8b\u5b97\u306e\u4e2d\u5fc3\u3068\u3057\u3066\u6804\u3048\u305f\u3002\u5802\u5185\u306e\u5143\u5f183\u5e74\uff081333\uff09\u4ecf\u5e2b\u582a\u5e78\u4f5c\u306e\u6587\u6b8a\u83e9\u85a9\u9a0e\u7345\u50cf\uff08\u5e02\u6307\u5b9a\u6587\u5316\u8ca1\uff09\u306f\u3001\u5eb7\u6c38\u5143\u5e74\uff081342\uff09\u306e\u795e\u5bae\u5bfa\u958b\u5c71\u5341\u4e09\u56de\u5fcc\u306b\u304a\u3044\u3066\u3001\u795e\u5bae\u5bfa\u306e\u672c\u5c0a\u3068\u3057\u3066\u5b89\u7f6e\u3055\u308c\u305f\u3082\u306e\u3067\u3042\u308b\u3002<br \/>\n\u3000\u6587\u6b8a\u5802\u306e\u5468\u8fba\u306b\u306f\u4e09\u57fa\u306e\u68b5\u5b57\u677f\u7891\u304c\u3042\u308b\u3002\u8c9e\u548c5\u5e74\uff081349\uff09\u306e\u677f\u7891\uff08\u5e02\u6307\u5b9a\u6587\u5316\u8ca1\uff09\u306f\u3001\u6587\u6b8a\u83e9\u85a9\u3092\u8868\u308f\u3059\u68b5\u5b57\uff08\u30de\u30f3\uff09\u3092\u523b\u3080\u3002<\/p>\n","disp_top":0,"disp_saijiki":false,"term_text":null,"auto_term":null,"status":"published","public":"published","searchtext":null,"created":"2008-06-09T00:00:00+09:00","modified":"2022-04-06T09:50:00+09:00","cid":20,"cultural_property_sub_image_blocks":[{"id":"17f01cee-8bf5-4d2b-8129-2154bf2dd397","foreign_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","sequence":0,"is_daihyou":1,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/17f01cee-8bf5-4d2b-8129-2154bf2dd397\/value01\/CulturalPropertyImage51imageja.jpg","value02":"CulturalPropertyImage51imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u98ef\u76db\u795e\u793e","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-04-06T09:50:00+09:00","deleted":null,"cid":51},{"id":"dfe70159-2494-407e-8dfe-af63c55c2896","foreign_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","sequence":1,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/dfe70159-2494-407e-8dfe-af63c55c2896\/value01\/CulturalPropertyImage50imageja.jpg","value02":"CulturalPropertyImage50imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u98ef\u76db\u6587\u6b8a\u5802","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-04-06T09:50:00+09:00","deleted":null,"cid":50},{"id":"2d5d89ea-ba43-472c-8019-46682f3f1a4e","foreign_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","sequence":2,"is_daihyou":0,"type":"cultural_property_sub_image","value01":"\/files\/CulturalPropertySubImageBlocks\/2d5d89ea-ba43-472c-8019-46682f3f1a4e\/value01\/CulturalPropertyImage52imageja.jpg","value02":"CulturalPropertyImage52imageja.jpg","value03":"","value04":"image\/jpeg","value05":"\u672c\u6bbf","value06":"","value07":"","value08":"","value09":"","value10":"","value11":"","value12":"","value13":"","value14":"","value15":"","value16":"","value17":"","value18":"","value19":"","value20":"","created":null,"modified":"2022-04-06T09:50:00+09:00","deleted":null,"cid":52}],"cultural_property_periods":[{"id":"1775a0e9-603b-4a15-bf1b-be7531b86b8d","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"79ed0af7-2177-45bd-a50a-9778fe6a9bb2","cid":864},{"id":"59bc1442-a52a-4631-a69f-78fcae8cd6fe","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":865},{"id":"8626d127-731f-420c-ae94-23ae05c822d6","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"388b88ff-c718-4972-ab76-618804446136","cid":863},{"id":"b92cd217-23d7-4388-a950-58ee0039ad19","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"01adf95c-e6be-480b-8023-db40e9c6f7b4","cid":862},{"id":"b95a537c-bedb-4d86-b573-83f4f27522e2","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","cid":866},{"id":"b9af2f8c-bc7e-4e94-9a91-c863273feb93","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"46213d7e-8e2e-418e-9d4c-24b5753f54f9","cid":867}],"master_kubun":{"id":"d9fb7ff5-1072-49e3-a0f3-2b0fe1980214","title":"\u305d\u306e\u4ed6","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:10:41+09:00","cid":9},"master_ku_type":{"id":"bf6eb1bd-555e-414e-933c-b3d420fc49ae","master_kubun_id":9,"title":"\u305d\u306e\u4ed6","sequence":1,"note":"","status":"published","public":"published","created":null,"modified":"2013-01-30T16:20:06+09:00","cid":18},"master_area":{"id":"b5b907c8-fcc2-4e5c-a2d4-7a885f9efe39","title":"\u897f\u533a","sequence":7,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-09T15:31:09+09:00","cid":7},"master_shitei":{"id":"12b8943a-e30f-46d7-9e83-8211ac8406e4","title":"\u305d\u306e\u4ed6","sequence":11,"note":"","status":"published","public":"published","created":null,"modified":"2024-02-03T14:03:17+09:00","cid":11},"master_periods":[{"id":"01adf95c-e6be-480b-8023-db40e9c6f7b4","title":"\u5e73\u5b89","sequence":7,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:47+09:00","cid":7,"_joinData":{"id":"b92cd217-23d7-4388-a950-58ee0039ad19","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"01adf95c-e6be-480b-8023-db40e9c6f7b4","cid":862}},{"id":"388b88ff-c718-4972-ab76-618804446136","title":"\u938c\u5009","sequence":8,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:42+09:00","cid":8,"_joinData":{"id":"8626d127-731f-420c-ae94-23ae05c822d6","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"388b88ff-c718-4972-ab76-618804446136","cid":863}},{"id":"79ed0af7-2177-45bd-a50a-9778fe6a9bb2","title":"\u5357\u5317\u671d","sequence":9,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:38+09:00","cid":9,"_joinData":{"id":"1775a0e9-603b-4a15-bf1b-be7531b86b8d","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"79ed0af7-2177-45bd-a50a-9778fe6a9bb2","cid":864}},{"id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","title":"\u5ba4\u753a","sequence":10,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:31+09:00","cid":10,"_joinData":{"id":"59bc1442-a52a-4631-a69f-78fcae8cd6fe","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"a04930f8-3555-4a7f-be27-b9d21bdb300e","cid":865}},{"id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","title":"\u6c5f\u6238","sequence":12,"note":"","status":"published","public":"published","created":null,"modified":"2023-11-17T11:44:22+09:00","cid":12,"_joinData":{"id":"b95a537c-bedb-4d86-b573-83f4f27522e2","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"bf252eb4-6cde-47ef-a313-eb1ef1ea554f","cid":866}},{"id":"46213d7e-8e2e-418e-9d4c-24b5753f54f9","title":"\u305d\u306e\u4ed6","sequence":18,"note":"","status":"published","public":"published","created":null,"modified":"2024-01-19T19:11:25+09:00","cid":17,"_joinData":{"id":"b9af2f8c-bc7e-4e94-9a91-c863273feb93","cultural_property_id":"f9affc81-919c-45bd-8b71-41c4a2b9fb4e","master_period_id":"46213d7e-8e2e-418e-9d4c-24b5753f54f9","cid":867}}]}];
+var markers = [];
+var infowindows = [];
+
+
+
+
+$(function(){
+    var opts = {
+        zoom: 11,
+        center: new google.maps.LatLng(0,0)
+    };
+    map = new google.maps.Map(document.getElementById("map_canvas"), opts);
+
+    var showmap = function(){
+
+        setMap();
+    }
+    setTimeout(showmap, 1000);
+
+});
+
+
+//マップ生成 
+function setMap(){
+
+
+    var len = datas.length;
+
+    for(var j = 0; j < len; j++){
+
+    if(datas[j]["latitude"] == 0 || datas[j]["longitude"] == 0) {
+        continue;
+    }
+
+
+    if(datas[j]["master_ku_type_id"]) {
+        var num = ( '00' + datas[j]["master_ku_type_id"] ).slice( -2 );
+    } else {
+
+        var num = '00';
+    }
+        var img = '/img/icon/pin' + num
+        img = '/icon.php?src=' + img + ".png&no=&isDirectPath=2";
+
+
+        var icon = new google.maps.MarkerImage(
+            img,
+            new google.maps.Size(37, 62), // size
+            new google.maps.Point(0, 0),
+            new google.maps.Point(18, 39)
+        );
+        var marker = new google.maps.Marker({
+            position: {lat: datas[j].latitude, lng: datas[j].longitude},
+            map: map,
+            icon: img,
+        });
+
+
+        if(datas[j].cultural_property_sub_image_blocks.length > 0) {
+
+            var m_image = datas[j].cultural_property_sub_image_blocks[0]["value01"];
+        } else {
+            var m_image = "/img/no_image.gif";
+        }
+
+
+        // 情報ウインドウの生成とクリックイベント関数の登録処理
+        setMarkerListener(marker, datas[j].title, datas[j].cid, m_image, j, datas[j].master_area["title"], num);
+
+        markers.push(marker);
+        aMapMaxMinLatLng1(datas[j].latitude,datas[j].longitude);
+
+    }
+
+
+	// google.maps.event.addListenerOnce(map, \"idle\", function(event) {
+		if(!is_init){
+			aMapFitBounds1();
+			if(current_lat && current_lon) setCurrentIcon();
+		}
+		is_init = 1;
+	// });
+
+
+}
+
+// 開いている情報ウィンドウ
+var currentInfoWindow;
+
+// 情報ウインドウの生成とクリックイベント関数の登録処理
+function setMarkerListener(marker, title, id, image, num, area, ku_type) {
+
+    var bg = "/properties/img/bg_c" + ku_type + ".gif";
+
+	// 情報ウィンドウの生成
+	var infoWindow = new google.maps.InfoWindow({
+        content: '<div style="width: 150px;"><div style="overflow: auto; font-weight:bold; font-size: 108%;">'+ area + '</div><div style="margin: 5px 0;"><a href="/cultural_properties/detail/' + id + '">' + '<img style="max-width: 100%;" src="'+ image +'" alt=""></a></div><div>' +
+        '<p style="margin-left: 2em; text-indent: -2em;"><span style="background:url(' + bg +') no-repeat left top;background-size:contain;padding: 0 5px; margin-right: 10px; font-weight: bold;">' + (num + 1) + '</span><a href="/sp/cultural_properties/detail/' + id + '">' + title + '</a></p></div></div>',
+        maxWidth: 250
+
+	});
+	// マーカーのクリックイベントの関数登録
+	google.maps.event.addListener(marker, 'click', function(event) {
+        if (currentInfoWindow) {
+            currentInfoWindow.close();
+        } 
+		// 情報ウィンドウの表示
+		infoWindow.open(map, marker);
+        currentInfoWindow = infoWindow;
+
+	});
+}
+
+
+function changeSearch(disp_id){
+        $("#display").val(disp_id);
+		document.search.submit();
+}
+function refreshInput() {
+	$("input[type='checkbox']").checkboxradio('refresh');
+	$("select").selectmenu('refresh')
+}
+
+</script>
+	<link rel="stylesheet" href="/sp/css/themes/default/jquery.mobile-1.4.0.css">
+
+	<link rel="stylesheet" href="/sp/css/common.css"/><link rel="stylesheet" href="/sp/searches/css/searches.css"/>
+		<script type="text/javascript">
+		function menu() {
+			var menu = $("#SiteMenu");
+			var mclass = document.getElementById("SiteMenu").className;
+			var modal = $("#ModalBg");
+			var h = Math.max.apply(null, [document.body.clientHeight, document.body.scrollHeight, document.documentElement.scrollHeight, document.documentElement.clientHeight]);
+
+			if (mclass == 'open') {
+				menu.removeClass('open');
+				modal.css({
+					'display': 'none',
+					'height': h
+				});
+			} else {
+				menu.addClass('open');
+				modal.css({
+					'display': 'block',
+					'height': h
+				});
+			}
+		}
+	</script>
+	
+</head>
+
+<body>
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXZQTWS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<div data-role="page">
+				<!--header-->
+		<div data-role="header" id="header">
+			<div class="backBtn"><a href="/sp/"><img src="/sp/img/home.png" width="36" height="34" alt="home" /></a></div>
+			<div id="pageLogo">
+				<h1><img src="/sp/img/logo.png" alt="福岡市の文化財" width="155" height="27" /></h1>
+			</div>
+			<div class="homeBtn"><a href="javascript:menu();"><img src="/sp/img/menu.png" width="36" height="34" alt="menu" /></a></div>
+		</div>
+		<!--/header-->
+		<div id="SiteMenu" class="">
+			<nav>
+				<ul>					<li class="level01 low"><a class="first" href="/sp/news/">新着情報<span></span></a></li>
+					<li class="level01 low"><a class="first" href="/sp/cultural_properties/search/">文化財情報検索<span></span></a></li>
+					<li class="level01 low"><a class="first" href="/sp/excavation_news/lists/">発掘最前線<span></span></a></li>
+					<li class="level01 low"><a class="first" href="/sp/courses/">まち歩きコース<span></span></a></li>
+					<li class="level01 low"><a class="first" href="/sp/fund/">ふるさと納税<span></span></a></li>
+					<li class="level01 low"><a class="first" href="/sp/about_constructions/">遺跡内での土木工事<span></span></a></li>
+				</ul>
+				<p class="close"><img width="111" height="41" alt="閉じる" src="/sp/img/btn_close.png" onClick="menu();"></p>
+			</nav>
+		</div>
+
+		<div id="ModalBg" style="display: none; height: 1400px;"></div>
+		
+				<noscript>
+			<div style="margin: 10px;"></div>
+		</noscript>
+
+		<style>
+	.basicList li p {
+		margin-left: 10px;
+	}
+</style>
+
+</style>
+<div class="pageTitle">
+	<h2>文化財情報検索</h2>
+</div>
+
+<!--wrapper-->
+<div id="wrapper">
+	<!--wrapperIn-->
+	<div class="wrapperIn">
+		<!--main-->
+		<div id="main">
+
+			<!--searchresults-->
+			<div class="searchresults">
+				<form method="get" accept-charset="utf-8" name="search" id="SearchesForm" action="/sp/cultural_properties/search">				<input type="hidden" name="display" id="display"/>				<div class="keyword">
+					<input type="text" name="keyword" title="キーワード検索" id="keyword_search" placeholder="キーワード検索"/>				</div>
+
+				<div data-role="collapsible" data-collapsed="true" data-theme="f" data-icon="arrow-r" data-iconpos="right">
+					<h5 class="panelItem">詳しく検索(条件から検索)</h5>
+					<!--inner-->
+					<div class="inner" id="search_around" style="display:none;">
+						<div data-role="collapsible" data-collapsed="true" data-theme="g" data-icon="arrow-r" data-iconpos="right">
+							<h5 class="panelItem">現在地周辺を検索</h5>
+							<ul class="info clearfix">
+								<li>
+																		<div class="input radio"><input type="hidden" name="search_scale" id="search-scale" value=""/><label for="search-scale-0"><input type="radio" name="search_scale" value="0" id="search-scale-0" checked="checked" class="check">距離の指定なし</label><label for="search-scale-300"><input type="radio" name="search_scale" value="300" id="search-scale-300" class="check">300m</label><label for="search-scale-500"><input type="radio" name="search_scale" value="500" id="search-scale-500" class="check">500m</label><label for="search-scale-1000"><input type="radio" name="search_scale" value="1000" id="search-scale-1000" class="check">1km</label><label for="search-scale-3000"><input type="radio" name="search_scale" value="3000" id="search-scale-3000" class="check">3km</label><label for="search-scale-5000"><input type="radio" name="search_scale" value="5000" id="search-scale-5000" class="check">5km</label><label for="search-scale-10000"><input type="radio" name="search_scale" value="10000" id="search-scale-10000" class="check">10km</label></div>								</li>
+							</ul>
+							<input type="hidden" name="c_lttd" id="c_lttd"/>							<input type="hidden" name="c_lgtd" id="c_lgtd"/>						</div>
+					</div>
+					<!--inner /-->
+
+					<!--inner-->
+					<div class="inner">
+						<div data-role="collapsible" data-collapsed="true" data-theme="g" data-icon="arrow-r" data-iconpos="right">
+							<h5 class="panelItem">時代別で絞り込む</h5>
+							<ul class="info clearfix">
+																									<li>
+										<input type="checkbox" name="master_period_id[1]" value="f553ef35-adea-4883-b443-30b5be70cb41" id="area-f553ef35-adea-4883-b443-30b5be70cb41">										<label for="area-f553ef35-adea-4883-b443-30b5be70cb41">旧石器</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[2]" value="a67f3ac5-64e7-450a-8776-475b4d53ac95" id="area-a67f3ac5-64e7-450a-8776-475b4d53ac95">										<label for="area-a67f3ac5-64e7-450a-8776-475b4d53ac95">縄文</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[3]" value="06255de8-96c7-433e-b8d7-39f70e30be41" id="area-06255de8-96c7-433e-b8d7-39f70e30be41">										<label for="area-06255de8-96c7-433e-b8d7-39f70e30be41">弥生</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[4]" value="95d82785-26eb-450a-a04f-dd900d19e196" id="area-95d82785-26eb-450a-a04f-dd900d19e196">										<label for="area-95d82785-26eb-450a-a04f-dd900d19e196">古墳</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[5]" value="aad52348-6a7c-4632-9f1b-4f6a8045ca04" id="area-aad52348-6a7c-4632-9f1b-4f6a8045ca04">										<label for="area-aad52348-6a7c-4632-9f1b-4f6a8045ca04">飛鳥</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[6]" value="0319dc1f-10f5-4ae8-8027-6d394a6fa052" id="area-0319dc1f-10f5-4ae8-8027-6d394a6fa052">										<label for="area-0319dc1f-10f5-4ae8-8027-6d394a6fa052">奈良</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[7]" value="01adf95c-e6be-480b-8023-db40e9c6f7b4" id="area-01adf95c-e6be-480b-8023-db40e9c6f7b4">										<label for="area-01adf95c-e6be-480b-8023-db40e9c6f7b4">平安</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[8]" value="388b88ff-c718-4972-ab76-618804446136" id="area-388b88ff-c718-4972-ab76-618804446136">										<label for="area-388b88ff-c718-4972-ab76-618804446136">鎌倉</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[9]" value="79ed0af7-2177-45bd-a50a-9778fe6a9bb2" id="area-79ed0af7-2177-45bd-a50a-9778fe6a9bb2">										<label for="area-79ed0af7-2177-45bd-a50a-9778fe6a9bb2">南北朝</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[10]" value="a04930f8-3555-4a7f-be27-b9d21bdb300e" id="area-a04930f8-3555-4a7f-be27-b9d21bdb300e">										<label for="area-a04930f8-3555-4a7f-be27-b9d21bdb300e">室町</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[11]" value="acbc113a-2897-4732-8c17-51d28d50a053" id="area-acbc113a-2897-4732-8c17-51d28d50a053">										<label for="area-acbc113a-2897-4732-8c17-51d28d50a053">安土桃山</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[12]" value="bf252eb4-6cde-47ef-a313-eb1ef1ea554f" id="area-bf252eb4-6cde-47ef-a313-eb1ef1ea554f">										<label for="area-bf252eb4-6cde-47ef-a313-eb1ef1ea554f">江戸</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[13]" value="c9663c6e-210f-457e-b1b6-7f826e800b36" id="area-c9663c6e-210f-457e-b1b6-7f826e800b36">										<label for="area-c9663c6e-210f-457e-b1b6-7f826e800b36">明治</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[14]" value="a1cca999-6af9-4a73-b86c-7bff61a05df6" id="area-a1cca999-6af9-4a73-b86c-7bff61a05df6">										<label for="area-a1cca999-6af9-4a73-b86c-7bff61a05df6">大正</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[15]" value="b1abb2ae-6689-46d5-b993-3874f2cac6a8" id="area-b1abb2ae-6689-46d5-b993-3874f2cac6a8">										<label for="area-b1abb2ae-6689-46d5-b993-3874f2cac6a8">昭和</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[16]" value="4866bb96-3380-4b0e-a0f4-8affd6ca3aa5" id="area-4866bb96-3380-4b0e-a0f4-8affd6ca3aa5">										<label for="area-4866bb96-3380-4b0e-a0f4-8affd6ca3aa5">平成</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[17]" value="cecb6665-1c9c-4023-9818-fa83c6d568f0" id="area-cecb6665-1c9c-4023-9818-fa83c6d568f0">										<label for="area-cecb6665-1c9c-4023-9818-fa83c6d568f0">現在</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_period_id[18]" value="46213d7e-8e2e-418e-9d4c-24b5753f54f9" id="area-46213d7e-8e2e-418e-9d4c-24b5753f54f9">										<label for="area-46213d7e-8e2e-418e-9d4c-24b5753f54f9">その他</label>
+									</li>
+																								</ul>
+						</div>
+					</div>
+					<!--inner /-->
+					<!--inner-->
+					<div class="inner">
+						<div data-role="collapsible" data-collapsed="true" data-theme="g" data-icon="arrow-r" data-iconpos="right">
+							<h5 class="panelItem">エリア・マップで絞り込む</h5>
+							<ul class="info clearfix">
+																									<li>
+										<input type="checkbox" name="master_area_id[1]" value="1" id="area-1">										<label for="area-1">東区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_area_id[2]" value="2" id="area-2">										<label for="area-2">博多区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_area_id[3]" value="3" id="area-3">										<label for="area-3">中央区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_area_id[4]" value="4" id="area-4">										<label for="area-4">南区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_area_id[5]" value="5" id="area-5">										<label for="area-5">城南区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_area_id[6]" value="6" id="area-6">										<label for="area-6">早良区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_area_id[7]" value="7" id="area-7">										<label for="area-7">西区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_area_id[8]" value="8" id="area-8">										<label for="area-8">福岡市外</label>
+									</li>
+																								</ul>
+						</div>
+					</div>
+					<!--inner /-->
+					<!--inner-->
+					<div class="inner">
+						<div data-role="collapsible" data-collapsed="true" data-theme="g" data-icon="arrow-r" data-iconpos="right">
+							<h5 class="panelItem">種別で絞り込む</h5>
+							<ul class="info clearfix">
+																									<li>
+										<input type="checkbox" name="master_ku_type_id[1]" value="1" id="type-1">										<label for="type-1">建造物</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[2]" value="2" id="type-2">										<label for="type-2">絵画</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[3]" value="3" id="type-3">										<label for="type-3">彫刻</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[4]" value="4" id="type-4">										<label for="type-4">工芸品</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[5]" value="5" id="type-5">										<label for="type-5">書跡・典籍・古文書</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[6]" value="6" id="type-6">										<label for="type-6">考古資料</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[7]" value="7" id="type-7">										<label for="type-7">歴史資料</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[8]" value="8" id="type-8">										<label for="type-8">無形文化財</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[9]" value="9" id="type-9">										<label for="type-9">無形民俗文化財</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[10]" value="10" id="type-10">										<label for="type-10">有形民俗文化財</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[11]" value="11" id="type-11">										<label for="type-11">史跡</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[12]" value="12" id="type-12">										<label for="type-12">名勝</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[13]" value="13" id="type-13">										<label for="type-13">天然記念物</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[14]" value="14" id="type-14">										<label for="type-14">文化的景観</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[15]" value="15" id="type-15">										<label for="type-15">伝統的建造物群保存地区</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[16]" value="16" id="type-16">										<label for="type-16">選定保存技術</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[17]" value="17" id="type-17">										<label for="type-17">埋蔵文化財</label>
+									</li>
+																										<li>
+										<input type="checkbox" name="master_ku_type_id[18]" value="18" id="type-18">										<label for="type-18">その他</label>
+									</li>
+																								</ul>
+						</div>
+					</div>
+					<!--inner /-->
+					<div class="centerBtn ui-grid-a">
+						<div class="ui-block-a"><input type="reset" id="reset" data-theme="f" value="クリア" data-icon="delete" data-iconpos="left" onclick="clearFormAll();refreshInput(); return false;" /></div>
+						<div class="ui-block-b"><input type="submit" data-theme="h" value="検索する" data-icon="search" data-iconpos="left" /></div>
+					</div>
+				</div>
+				</form>
+				<p class="resultTxt">すべてで検索した結果　<span>349</span>件中<span>1～10件</span>を表示</p>
+									<!--paging-->
+					<div class="paging">
+												<span class="current">1</span><span><a href="/sp/cultural_properties/search?page=2">2</a></span><span><a href="/sp/cultural_properties/search?page=3">3</a></span><span><a href="/sp/cultural_properties/search?page=4">4</a></span><span><a href="/sp/cultural_properties/search?page=5">5</a></span>						<span><a href="/sp/cultural_properties/search?page=2" rel="next" class="next">&nbsp;&raquo;</a></span>					</div>
+					<!--paging /-->
+				
+			</div>
+			<!--/searchresults-->
+
+
+
+		</div>
+		<!--/main-->
+
+		<!--resultArea-->
+		<div class="resultArea">
+			<div class="resultIn">
+				<!--menu-->
+				<div class="menu">
+					<div data-role="navbar" class="listmap" data-theme="f">
+						<ul>
+							<li id="list_bar" class="selected"><a href="javascript:void(0)" onclick="changeSearch('list')">リスト表示</a></li>
+							<li id="map_bar" "><a href="javascript:void(0)" onclick="changeSearch('map')">地図で表示</a></li>
+						</ul>
+					</div>
+				</div>
+				<!--menu /-->
+			</div>
+		</div>
+		<!--/resultArea-->
+
+
+					<div id="list_area">
+				<!--searchList-->
+				<div class="searchList">
+					<!--basicList-->
+					<div class="basicList">
+						<ul data-role="listview" data-theme="f">
+																								<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/570">
+                        <img src="/files/CulturalPropertySubImageBlocks/eebee93b-6eb8-488b-bb9b-b92182811581/value01/CulturalPropertyImage755imageja.jpg" alt=""/>                <h3>
+        <span class="c18">1</span>        妙徳禅寺    </h3>
+    <p class="date">
+                    <span>【指定】その他</span>
+                            <span>【種別】その他</span>
+            </p>
+    <p>
+	曹洞宗の寺院で、山号は今峰山です。聖福寺の開祖、栄西が宋から帰国した後、聖福寺が建てられる間住んでいたと『筑前国続風土記』に記されてい...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/668">
+                        <img src="/files/CulturalPropertySubImageBlocks/966a7da5-71cf-4cf1-9c08-e520d0921a00/value01/CulturalPropertyImage694imageja.jpg" alt=""/>                <h3>
+        <span class="c00">2</span>        長性禅寺    </h3>
+    <p class="date">
+                    </p>
+    <p>
+	天正15 年（1587 年）豊臣秀吉が九州征伐で訪れた際、相判役だった千利休に命じて茶席の庭を築かせた際、庭石に使ったと言われる石２つが、本庭...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/516">
+                        <img src="/files/CulturalPropertySubImageBlocks/6fc95df8-e9e6-47d3-a85b-6b4e8d03b026/value01/CulturalPropertyImage786imageja.jpg" alt=""/>                <h3>
+        <span class="c18">3</span>        羽根戸原地蔵堂    </h3>
+    <p class="date">
+                    <span>【指定】その他</span>
+                            <span>【種別】その他</span>
+            </p>
+    <p>新四国霊場第３５番礼所の地蔵堂です。境内には桜の木が多く、花見の季節には多くの人が訪れています。
+</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/4">
+                        <img src="/files/CulturalPropertySubImageBlocks/714dbc70-51de-4255-8195-8b3afd68e88e/value01/CulturalPropertyImage11imageja.jpg" alt="愛宕神社"/>                <h3>
+        <span class="c18">4</span>        愛宕神社    </h3>
+    <p class="date">
+                    <span>【指定】その他</span>
+                            <span>【種別】その他</span>
+            </p>
+    <p>　室見川河口西側の丘陵上にある。古くは鷲尾神社といい、景行天皇の代に、天忍穂耳尊（あめのおしほみみのみこと）、伊邪那岐尊（いざなぎのみこ...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/13">
+                        <img src="/files/CulturalPropertySubImageBlocks/4bbe25a8-291a-407d-aa72-207e3c88f86f/value01/CulturalPropertyImage32imageja.jpg" alt="正覚寺"/>                <h3>
+        <span class="c18">5</span>        油山観音（正覚寺）    </h3>
+    <p class="date">
+                    <span>【指定】その他</span>
+                            <span>【種別】その他</span>
+            </p>
+    <p>　臨済宗東福寺派。山号は東油山。もと東油山の座主坊泉福寺。
+天平年間（729～748）西域僧清賀上人の開基と伝え、油山の地名は清賀上人が胡麻で...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/673">
+                        <img src="/files/CulturalPropertySubImageBlocks/4d046bb7-bda3-4e77-96d4-acb004699f12/value01/CulturalPropertyImage709imageja.jpg" alt=""/>                <h3>
+        <span class="c00">6</span>        網屋地蔵大菩薩(網屋立筋）    </h3>
+    <p class="date">
+                    </p>
+    <p>
+	南北朝時代、多々良浜の合戦で敗れた菊池勢の武将や兵士を地元の人々が丁寧に葬り、供養のために建てた石碑が地蔵菩薩として祀られたという言い...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/672">
+                        <img src="/files/CulturalPropertySubImageBlocks/b306cd2c-e923-4dee-9aa8-b5714b09efba/value01/CulturalPropertyImage706imageja.jpg" alt=""/>                <h3>
+        <span class="c00">7</span>        網屋地蔵大菩薩(網屋本町）    </h3>
+    <p class="date">
+                    </p>
+    <p>
+	南北朝時代、多々良浜の合戦で敗れた菊池勢の武将や兵士を地元の人々が丁寧に葬り、供養のために建てた石碑が地蔵菩薩として祀られたという言い...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/23">
+                        <img src="/files/CulturalPropertySubImageBlocks/848c4d18-974c-4114-8781-7bcdcb819960/value01/CulturalPropertyImage60imageja.jpg" alt="荒平城跡"/>                <h3>
+        <span class="c18">8</span>        荒平城跡    </h3>
+    <p class="date">
+                    <span>【指定】その他</span>
+                            <span>【種別】その他</span>
+            </p>
+    <p>　早良平野を貫流する室見川（早良川）上・中流域の東西丘陵や山頂には、荒平城をはじめ飯盛城、都地城、曲淵城など平野の要所を占める中世山城が...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/22">
+                        <img src="/files/CulturalPropertySubImageBlocks/011c49ad-69f6-4fa7-87f9-03627520a6df/value01/CulturalPropertyImage57imageja.jpg" alt="9607北から"/>                <h3>
+        <span class="c17">9</span>        有田遺跡群    </h3>
+    <p class="date">
+                    <span>【指定】その他</span>
+                            <span>【種別】埋蔵文化財</span>
+            </p>
+    <p>　有田遺跡群は、早良区有田・小田部・南庄地区にかけて広がる旧石器時代から江戸時代にわたる大遺跡である。1966年の区画整理事業に伴う発掘調査...</p>
+</a>									</li>
+																	<li>
+										
+<style>
+    .ui-listview img {
+        width: 60px;
+    }
+</style>
+
+
+<a href="/sp/cultural_properties/detail/20">
+                        <img src="/files/CulturalPropertySubImageBlocks/17f01cee-8bf5-4d2b-8129-2154bf2dd397/value01/CulturalPropertyImage51imageja.jpg" alt="飯盛神社"/>                <h3>
+        <span class="c18 num">10</span>        飯盛神社    </h3>
+    <p class="date">
+                    <span>【指定】その他</span>
+                            <span>【種別】その他</span>
+            </p>
+    <p>　飯盛神社は旧早良郡7ヵ村の惣社で、誉田別命（ほむだわけのみこと）・伊弉冉命（いざなみのみこと）・玉依姫命（たまよりひめのみこと）を祭神と...</p>
+</a>									</li>
+																					</ul>
+					</div>
+					<!--/basicList-->
+				</div>
+				<!--/searchList-->
+			</div>
+							<!--paging-->
+			<div class="paging">
+								<span class="current">1</span><span><a href="/sp/cultural_properties/search?page=2">2</a></span><span><a href="/sp/cultural_properties/search?page=3">3</a></span><span><a href="/sp/cultural_properties/search?page=4">4</a></span><span><a href="/sp/cultural_properties/search?page=5">5</a></span>				<span><a href="/sp/cultural_properties/search?page=2" rel="next" class="next">&nbsp;&raquo;</a></span>			</div>
+			<!--paging /-->
+			</div>
+	<!--/wrapperIn-->
+</div>
+<!--/wrapper-->
+		<p id="back-top">
+			<a href="#top"><span></span></a>
+		</p>
+
+		<!--footer-->
+		<div data-role="footer" id="footer">
+			<div class="btnWrap">
+				<div class="btnFb"><a href="https://www.facebook.com/bunkazai.city.fukuoka.page" target="_blank"><img src="/img/ico_facebook.png" height="36" width="36" alt="福岡市の文化財facebookページ"></a></div>
+				<div class="btnInsta"><a href="https://www.instagram.com/fukuoka_bunkazai/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="/img/ico_instagram.png" height="36" width="36" alt="福岡市の文化財Instagramページ"></a></div>
+				<div class="btnFb"><a href="https://www.youtube.com/playlist?list=PL3Z99vf5yrhxOW-tCyLT0QT3T858R8wkP" target="_blank"><img src="/img/ico_youtube.png" height="36" width="36" alt="福岡市の文化財YouTubeページ"></a></div>
+												<div class="footerBtn"><a data-role="button" href="/cultural_properties/search/?from_sp=1" target="_blank" data-iconpos="right" data-theme="c" class="mapbtn">PCサイトを表示</a></div>
+			</div>
+
+			<div class="copy">福岡市経済観光文化局　文化財活用部　文化財活用課<br>TEL:092-711-4666　FAX:092-733-5537<br>Copyright &copy; 2026 Fukuoka City All Rights Reserved.</div>
+		</div>
+		<!--/footer-->
+	</div>
+	
+
+</body>
+
+</html>

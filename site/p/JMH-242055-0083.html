@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>古萬古　オランダ写手焙 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>古萬古　オランダ写手焙</h1>
+    <p class="jmh-id">JMH-242055-0083</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>工芸品</dd>
+      <dt>指定年月日</dt><dd>1990-08-07</dd>
+      <dt>所在地</dt><dd>京町37番地1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:1口／形状:径２２cm、高２０cm／年代:江戸時代後期／所有者:桑名市博物館／管理者:桑名市博物館。手焙とは、手を焙るための小さな火鉢のことで、特に厳寒の頃、茶席において手を温める目的で愛用された用具である。 全体は青白釉で、描かれた瑞獣・瑞鳥・花唐草は黄釉を主とし、赤絵とは別の趣で異国情緒を充分取り入れたものである。 当時としては前衛的であったと思われる。 口縁部の雷文と裾部の雁木輪文（がんぎわもん）は染付で、底には染付の書き印で「萬古」とある。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/014.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/014.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"古萬古　オランダ写手焙" (JMH-242055-0083), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.063286, 136.694321], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.063286, 136.694321]).addTo(m);
+  </script>
+</body>
+</html>

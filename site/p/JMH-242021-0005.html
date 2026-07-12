@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>日永つんつく踊り — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>日永つんつく踊り</h1>
+    <p class="jmh-id">JMH-242021-0005</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>四日市市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>市指定無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1956-02-18</dd>
+      <dt>所在地</dt><dd>日永三丁目</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>保持者:日永つんつくおどり保存会。「日永つんつく踊り」は日永地区に伝わる郷土色豊かな踊りです。その起源については、滝川一益の母の隠居所を実蓮寺境内に建築する地固め工事に歌った歌謡と動作を取り入れた踊りであるという伝承があり、もう一つは滝川一益が田畑を流失する農民の困窮を見て、天白川の堤防を築くための地固め、地つきに歌ったとする伝承です。なお、元和6年（1620）の「清水九朗左衛門手記」に「日永踊之事ツンツクノ事ハ此ノ町地タカメ浪切踊トテ帯ヲ手ニモチ扇ニ而踊浪入也」とあり、近世の初頭には現在のような「つんつく踊り」があったことがうかがわれます。踊りには3種類あって太鼓・笛などを用いた囃子と歌い手に合わせて、櫓を中心に二重三重に円</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.yokkaichi.lg.jp/www/contents/1001000002593/index.html" target="_blank" rel="noopener">https://www.city.yokkaichi.lg.jp/www/contents/1001000002593/index.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"日永つんつく踊り" (JMH-242021-0005), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.950962, 136.603485], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.950962, 136.603485]).addTo(m);
+  </script>
+</body>
+</html>

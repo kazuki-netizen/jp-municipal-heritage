@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>高田二号墳出土埴輪 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>高田二号墳出土埴輪</h1>
+    <p class="jmh-id">JMH-242047-0127</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>松阪市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>市指定有形文化財</dd>
+      <dt>指定年月日</dt><dd>2007-01-18</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>概要:4点／古墳時代／松阪市教育委員会（松阪市文化財センター）／平成19年1月18日。高田二号墳は上川町五良谷に所在する径27m、高さ3m前後の古墳である。 これらの埴輪は、昭和46年に偶然に発見されたものであり、古墳西北部周溝に伴う円筒棺であったと考えられている。 埴輪は、外面をタテハケによる調整を施し、体部に透かし穴があり、上段には三角透かし、最下段には半円形の透かしを用いるなど伊勢地方における最古段階の埴輪群であると考えられ、伊勢地方における古墳造営のあり方やその状況を考える上で極めて貴重な資料である。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.matsusaka.mie.jp/site/culture-info/haniwa-takada2go.html" target="_blank" rel="noopener">https://www.city.matsusaka.mie.jp/site/culture-info/haniwa-takada2go.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"高田二号墳出土埴輪" (JMH-242047-0127), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.577972, 136.527618], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.577972, 136.527618]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>絹本着色　日本風景図 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>絹本着色　日本風景図</h1>
+    <p class="jmh-id">JMH-242055-0053</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>三重県</dd>
+      <dt>市町村</dt><dd>桑名市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>絵画</dd>
+      <dt>指定年月日</dt><dd>1975-04-25</dd>
+      <dt>所在地</dt><dd>東方1350番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>数量:2幅／形状:A １２０cm×４３.６cm　B １２０cm×４３.６cm／年代:江戸後期／所有者:照源寺／管理者:桑名市博物館。絹本着彩/小田野直武筆 安政二年（1773）秋田藩は銅山検分のため江戸から平賀源内（1729-1779）を招いた。 この時、源内は秋田藩主佐竹義敦（号曙山）、角館城代佐竹義躬、藩士小田野直武、田代国忠、荻津勝孝らに油絵を教えたと伝えられる。 源内が江戸に帰ると、曙山（1748-1785）は新しい西洋画の知識を吸収させるため直武（1749-1780）を江戸詰とし、源内の家に寄寓させた。 直武は安永二年（1773）から八年（1779）まで江 戸に滞在し洋風画を学んだ。 この間に直武は『解体新書』の挿絵を描き、曙山は直武の協力で『画法綱領』などの画論を書いている。 こうした秋田藩の活動は「秋田蘭画」と呼ばれ、司馬江漢らの洋風画より早く花開いた。 秋田蘭画は写実を基本とし、陰影法と遠近法を取りいれている。 近景を極端に拡大し遠景を低く配するのは秋田蘭画の基本的構図であるが、中景を欠き空間を十分に表</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://bunka.city.kuwana.mie.jp/html/bunkazai/109.html" target="_blank" rel="noopener">http://bunka.city.kuwana.mie.jp/html/bunkazai/109.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"絹本着色　日本風景図" (JMH-242055-0053), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.069584, 136.678665], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.069584, 136.678665]).addTo(m);
+  </script>
+</body>
+</html>
