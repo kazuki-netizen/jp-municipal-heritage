@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>鍋島直茂誕生地 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>鍋島直茂誕生地</h1>
+    <p class="jmh-id">JMH-412015-0006</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1967-02-11</dd>
+      <dt>所在地</dt><dd>佐賀市本庄町大字本庄</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>佐賀藩藩祖・鍋島直茂は、天文7年(1538年)清房の次男としてこの地、本庄館で生まれました。直茂は、戦国武将・龍造寺隆信のもとで、豊後の大友義鎮(宗麟:そうりん)の佐賀城攻略を阻止するなどの武功を重ね、天正12年(1584年)、龍造寺隆信が島原の戦いで戦死すると、龍造寺氏の領国の経営を豊臣秀吉から認定され、政権が龍造寺氏から鍋島氏に移されました。その後慶長12年(1607年)、家督を鍋島勝茂(佐賀藩初代藩主)に譲り、多布施に隠居。81歳でこの世を去りました。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2281.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2281.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"鍋島直茂誕生地" (JMH-412015-0006), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.240166, 130.288803], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.240166, 130.288803]).addTo(m);
+  </script>
+</body>
+</html>

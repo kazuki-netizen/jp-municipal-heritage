@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>宮ノ前遺跡掘立柱建物跡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>宮ノ前遺跡掘立柱建物跡</h1>
+    <p class="jmh-id">JMH-285854-0042</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>兵庫県</dd>
+      <dt>市町村</dt><dd>香美町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1993-03-31</dd>
+      <dt>所在地</dt><dd>小代区実山</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>宮の前遺跡より、平安時代から鎌倉初期にかけての里の長の館とみられる建物遺構が確認されました。 有力者の住居跡の建物構造がはっきりと発見されたのは町内では例がなく、当時の地方史を解く上で有力な資料になると期待してます。また、水甕が建物内に旧状のまま出土する例は全国的にも少なく、歴史時代の解明に重要な遺跡であると考えられます。 指定内容:建物は通常と比較して規模の大きいこと、遺物の質が高いことなどから本遺跡の主が平安後期の有力者、具体的には京のいる荘園領主にかわって地域を預かる人物の屋敷と推定されます。 建物1は、南北に長い掘立柱建物、大甕2個を据え置き、東西2間、南北2間の規模です。 建物2は大規模な南北棟の掘建柱建物で柱は抜き取られていますが、柱堀形は50センチメートル前後のものが大半で、3間×5間の大型建物です。確認された建物は、規模、遺物などから判断すれば、郷もしくは里の役所、ないし長の館かと推定されます。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1124.html" target="_blank" rel="noopener">https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1124.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"宮ノ前遺跡掘立柱建物跡" (JMH-285854-0042), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.440708, 134.54335], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.440708, 134.54335]).addTo(m);
+  </script>
+</body>
+</html>

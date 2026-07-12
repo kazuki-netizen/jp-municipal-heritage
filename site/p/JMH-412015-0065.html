@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>与止日女神社三ノ鳥居 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>与止日女神社三ノ鳥居</h1>
+    <p class="jmh-id">JMH-412015-0065</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>重要文化財</dd>
+      <dt>指定年月日</dt><dd>1983-10-17</dd>
+      <dt>所在地</dt><dd>所在地 大和町川上1番地1 与止日女神社</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>柱に刻まれた銘文により、鍋島初代藩主鍋島勝茂が慶長13(1608)年に寄進したことがわかる石造の肥前鳥居です。肥前鳥居の特徴は木鼻が流線的に伸びていること笠置と鳥木が一体化し、笠木・貫・柱が三本継ぎになっていることなどが特徴です。周辺ではこのほか駄市川原の北村天満宮の肥前鳥居(慶長12年)が知られています。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/3210.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/3210.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"与止日女神社三ノ鳥居" (JMH-412015-0065), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.263512, 130.300888], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.263512, 130.300888]).addTo(m);
+  </script>
+</body>
+</html>

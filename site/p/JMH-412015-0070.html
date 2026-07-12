@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>燈堂(あかしどう) — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>燈堂(あかしどう)</h1>
+    <p class="jmh-id">JMH-412015-0070</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1985-02-25</dd>
+      <dt>所在地</dt><dd>所在地 佐賀市川副町大字犬井道</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>戦国時代の勇将、龍造寺隆信(1529～1584年)は、豊後の大友氏に内通した家臣に追われ、筑後柳川に近い一木村に身をひそめていました。天文22年(1533年)ひそかに水ヶ江城奪還を企てていた隆信は、鹿江兼明らの船に乗り、犬井道地先の燈堂(あかしどう)に上陸しました。当時この辺一体は葦の生い茂った海岸で、航路の安全を祈る灯(燈=あかし)をつける堂があったことから、アカシドウと呼ばれています。 中にある龍造寺隆信の座像は、当初昭和28年4月南川副町制施行を記念して、地元の有志によって建立されたものですが、その後損傷が激しくなったため、平成10年9月に改築されたものです。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2281.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2281.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"燈堂(あかしどう)" (JMH-412015-0070), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.856865, 140.456619], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.856865, 140.456619]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>桜之城跡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>桜之城跡</h1>
+    <p class="jmh-id">JMH-462047-0007</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>枕崎市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1983-03-07</dd>
+      <dt>所在地</dt><dd>枕崎市桜山町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号9号；桜之城は薩州島津氏がこの地方を支配した長禄3(1459)年から天文7(1538)年の間に築城されたものと推測されます。すなわち薩州島津氏方二代国久は加世田城にあり，三男忠綱を勝目城に，四男秀久を鹿籠の桜之城に置いて鹿籠坊泊方面を支配させました。桜之城が史書に出てくるのはこれが初めてです。以後忠将─久定と続きますが，久定は日新公の南薩平定により吉利に移封され，日新公三男尚久が桜之城に入ります。尚久も永禄5年，32歳の若さで病死し，子忠長の支配となりますが，彼も天正6(1578)年28歳にして串良の地頭として転出し，その後に鹿籠を併領する事になった喜入氏五代季久が，喜入から桜之城入りしました。なお，桜之城は後代山之城と呼んだとされますが，その年代は明らかではありません。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.makurazaki.lg.jp/site/history/5654.html" target="_blank" rel="noopener">https://www.city.makurazaki.lg.jp/site/history/5654.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"桜之城跡" (JMH-462047-0007), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.293756, 130.286835], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.293756, 130.286835]).addTo(m);
+  </script>
+</body>
+</html>

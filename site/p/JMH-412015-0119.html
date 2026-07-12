@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>思案橋荷揚げ場跡 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>思案橋荷揚げ場跡</h1>
+    <p class="jmh-id">JMH-412015-0119</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>2023-03-20</dd>
+      <dt>所在地</dt><dd>佐賀市柳町199番及び河川の一部</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>江戸～明治期の物資運搬は、人力運搬や荷車・人力車による車運搬と共に、舟運が重要な手段で、思案橋界隈が物資の取り扱い場として栄えていたことが文献資料等からもわかる。発見された遺構は、そのことを具体的に裏付けるものであり、商業地として栄えた往時の重要な流通手段となっていた舟運に関連する遺構は、佐賀城下の歴史を知る上で貴重なものである。 また、石垣護岸と雁木が一体となって状態よく残っており、佐賀城下では初めての発見である。石段の据え方などの構築技術を知る上で貴重であると同時に、長崎街道と紺屋川が交差する特徴的な景観を留める場所で、江戸時代から現代にいたる川幅や土地利用の変遷、それによる景観の移り変わ</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2285.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2285.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"思案橋荷揚げ場跡" (JMH-412015-0119), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.254139, 130.307938], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.254139, 130.307938]).addTo(m);
+  </script>
+</body>
+</html>

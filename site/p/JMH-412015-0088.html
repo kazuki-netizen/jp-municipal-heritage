@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>旧牛島家住宅 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>旧牛島家住宅</h1>
+    <p class="jmh-id">JMH-412015-0088</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>重要文化財</dd>
+      <dt>指定年月日</dt><dd>1995-10-23</dd>
+      <dt>所在地</dt><dd>佐賀市柳町（佐賀市歴史民俗館）</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>江戸期に町の咾（おとな）役を務めた足軽高楊伊助が問屋業を営んでいた建物で、佐賀市朝日町3番4号（旧下今宿町）にありました。建築年代は18世紀前期に遡ると考えられ、佐賀市で最も古い町家建築として貴重です。当初は、外観も土蔵造りではなく、座敷部分にも大きな土間を設けた建物でしたが、明治後期に今のような姿に整えられました。道路拡幅に伴って平成5年（1993年）に取り壊される予定でしたが、同様の町家がかつて建っていた現在地に移築再建されました。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2279.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2279.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"旧牛島家住宅" (JMH-412015-0088), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.254139, 130.307938], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.254139, 130.307938]).addTo(m);
+  </script>
+</body>
+</html>

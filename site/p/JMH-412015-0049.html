@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>伊勢神社の石造肥前鳥居および肥前狛犬像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>伊勢神社の石造肥前鳥居および肥前狛犬像</h1>
+    <p class="jmh-id">JMH-412015-0049</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>重要文化財</dd>
+      <dt>指定年月日</dt><dd>1982-03-01</dd>
+      <dt>所在地</dt><dd>佐賀市伊勢町(伊勢神社)</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>石造肥前鳥居の特徴は、笠木、島木、貫、柱が2から3本の継材で形成されていて、笠木と島木が1本化し、木鼻は船底状の流線形になっていることです。さらに、柱の上端の笠木、島木には台輪が必ずつけられています。伊勢神社の鳥居は慶長12年(1607年)に造られました。石造肥前狛犬は小形で、その彫法も簡潔で素朴なものです。前面と側面を浅く彫り、全体は丸彫り的に調整され、背は半円形、アゴは角張って張り出し、口はアゴいっぱいに浅く刻まれています。寛文7年(1667年)に造られたこの狛犬は、市内で最古級の作として注目されます。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2278.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2278.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"伊勢神社の石造肥前鳥居および肥前狛犬像" (JMH-412015-0049), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.252045, 130.289032], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.252045, 130.289032]).addTo(m);
+  </script>
+</body>
+</html>

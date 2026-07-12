@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>値賀神社所蔵品一括 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>値賀神社所蔵品一括</h1>
+    <p class="jmh-id">JMH-413879-0001</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>玄海町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>重要有形文化財（彫刻及び工芸品）</dd>
+      <dt>指定年月日</dt><dd>1994-10-05</dd>
+      <dt>所在地</dt><dd>佐賀県立名護屋城博物館（値賀神社）</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号1号、員数一括。内訳: 銅造如来形立像1躯・木造不動明王立像2躯・木造十一面観音坐像1躯・御正体(懸仏)11面・御正体7躯(うち銅造十一面観音3躯・銅造阿弥陀1躯・銅造阿弥陀如来1躯・銅造釈迦如来2躯)・鏡1面・柄鏡1柄・独鈷杵1柄・錫杖頭及び残欠2柄・金幣1柄・牛王版木1面</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.genkai.lg.jp/site/kankou/87758.html" target="_blank" rel="noopener">https://www.town.genkai.lg.jp/site/kankou/87758.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"値賀神社所蔵品一括" (JMH-413879-0001), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.249352, 130.298798], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.249352, 130.298798]).addTo(m);
+  </script>
+</body>
+</html>

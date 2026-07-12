@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>太田の浮立 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>太田の浮立</h1>
+    <p class="jmh-id">JMH-412015-0076</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>重要無形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1988-03-01</dd>
+      <dt>所在地</dt><dd>佐賀市諸富町大字大堂1663番地の1</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>「浮立」は佐賀、長崎を中心に伝承されている民俗芸能で、太田の浮立は「天衡舞浮立」と呼ばれています。伝承では、「掘江大明神(佐賀市神野)雨乞い祈願に神官の山本玄蕃が創始したもの」あるいは、川副町の由来『玄蕃一流奥傳巻』によると「川副郷寺井津の住人玄蕃亮常が徐福上陸のとき当時中断していた浮立太神楽を再興し、金立山に同行したもの」とも伝えられています。天衡舞浮立は、神野系、市川系、七山系・川副系の四系統に分類され、太田の浮立は川副系とみられます。奉納は、5年に1回、秋の例祭に行われます。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/3067.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/3067.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"太田の浮立" (JMH-412015-0076), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.235123, 130.350693], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.235123, 130.350693]).addTo(m);
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>打製石斧 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>打製石斧</h1>
+    <p class="jmh-id">JMH-285854-0043</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>兵庫県</dd>
+      <dt>市町村</dt><dd>香美町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>考古資料</dd>
+      <dt>指定年月日</dt><dd>1993-03-31</dd>
+      <dt>所在地</dt><dd>香美町教育委員会 村岡区村岡</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>この打製石斧は上ノ山遺跡1号住居跡から出土しました。形態、ともに出土した遺物から縄文時代中期～後期にかけてのものだと考えられます。打製石斧は一般的に掘削道具とされ、この打製石斧にも道具として使った痕跡が残っています。材質はサヌカイト製でこの近隣にはサヌカイトを産出する場所がないため、交易によってもたらされたものと考えられています。 指定内容:上ノ山遺跡1号住居跡にて、いずれも刃がついている方を住居跡中央に向けて住居跡壁面近くに並んだ状態で出土しています。えぐりのある部分以外には刃の端に少しだけ刃をつくるための調整が施されているだけで、刃の角度そのものには全く手が加えられていません。えぐり部には擦れた跡がみられ、刃のまわりには使用による磨耗痕が残ります。 左 長さ 15.2センチ 最大幅 7.4センチ えぐり部幅 4.4センチ 最大厚さ3.2センチ 中 長さ 15.6センチ 最大幅 7.2センチ えぐり部幅 3センチ 最大厚さ 2.8センチ 右 長さ 10.2センチ 最大幅 5.6センチ 最大厚さ 1.8センチ</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1247.html" target="_blank" rel="noopener">https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1247.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"打製石斧" (JMH-285854-0043), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.632221, 134.629166], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.632221, 134.629166]).addTo(m);
+  </script>
+</body>
+</html>

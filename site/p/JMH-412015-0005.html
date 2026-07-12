@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>葉隠発祥の地 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>葉隠発祥の地</h1>
+    <p class="jmh-id">JMH-412015-0005</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1967-02-11</dd>
+      <dt>所在地</dt><dd>佐賀市金立町大字金立</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>元禄13年(1700年)、佐賀藩2代藩主・鍋島光茂の祐筆(ゆうひつ)であった山本常朝は、光茂の死去のため、出家して黒土原にある朝陽軒(のちの宗寿庵)に隠棲しました。その10年後、同藩士・田代陣基が自己修養のために常朝のもとを訪れ、7年にわたり教えをこいました。その教訓を中心に筆録したのが「葉隠」で、この地を葉隠発祥の地として史跡指定しています。現在朝陽軒の建物は残っていませんが、光茂の夫人が亡夫追善のために法華経を自読した碑である「大乗妙典一千部」の石塔と、昭和10年に建立した「常朝先生垂訓碑」があります。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2281.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2281.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"葉隠発祥の地" (JMH-412015-0005), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.334892, 130.303726], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.334892, 130.303726]).addTo(m);
+  </script>
+</body>
+</html>

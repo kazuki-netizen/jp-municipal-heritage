@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>肝付氏墓(きもつきしのはか)［東禅寺墓地］ — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>肝付氏墓(きもつきしのはか)［東禅寺墓地］</h1>
+    <p class="jmh-id">JMH-462250-0033</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>姶良市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>鹿児島県姶良市加治木町日木山522</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>加治木氏・伊地知氏に続いて加治木城主となったのが、肝付氏です。肝付氏は加治木が豊臣秀吉の直轄地になるまでの68年間、この地を領有しました。肝付兼演ははじめ溝辺城にいましたが、伊地知氏の乱に乗じて加治木に入り、反島津勢力として戦いました。しかし、その後は島津氏に忠誠を示し、戦国島津家の一翼を担いました。；ここにある墓は、二代兼盛・兼盛側室・三代兼寛などのものです。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/shisiteisiseki.html" target="_blank" rel="noopener">http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/shisiteisiseki.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"肝付氏墓(きもつきしのはか)［東禅寺墓地］" (JMH-462250-0033), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.742695, 130.675232], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.742695, 130.675232]).addTo(m);
+  </script>
+</body>
+</html>

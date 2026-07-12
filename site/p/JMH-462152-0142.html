@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>永源寺跡石塔群 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>永源寺跡石塔群</h1>
+    <p class="jmh-id">JMH-462152-0142</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>薩摩川内市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>2003-03-01</dd>
+      <dt>所在地</dt><dd>祁答院 黒木 祁答院町黒木165番地</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号167号；所有者又は管理者: （所）若松　クニエ（故） 　→？松　美奈 （管）薩摩川内市（祁答院支所）；鹿児島福昌寺の末寺。延享元年（1744）豊州島津家第12代久起が黒木に移転。菩提寺とした。廃仏毀釈で仏像等焼かれたが，裏山に隠してあった仁王と羽州（山形県）知元作の薬師如来石仏が残っている。（新）有川　敏江（変更日平成20年12月19日）
+住所　薩摩川内市祁答院町黒木165番地　清掃：H28村原政和</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.satsumasendai.lg.jp/material/files/group/48/satsumasendai_bunkazai.xls" target="_blank" rel="noopener">https://www.city.satsumasendai.lg.jp/material/files/group/48/satsumasendai_bunkazai.xls</a><br>
+      形式: xls &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"永源寺跡石塔群" (JMH-462152-0142), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.865267, 130.484589], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.865267, 130.484589]).addTo(m);
+  </script>
+</body>
+</html>

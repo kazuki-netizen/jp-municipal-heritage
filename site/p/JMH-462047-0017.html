@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>道野樟脳製造所遺構 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>道野樟脳製造所遺構</h1>
+    <p class="jmh-id">JMH-462047-0017</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>枕崎市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>2021-10-05</dd>
+      <dt>所在地</dt><dd>枕崎市桜山上町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号17号；この樟脳製造所遺構は，昭和の初め（昭和元年～昭和12・13年頃）に稼働した施設で，樟脳の製造用具(設備)であるカマド(竈)，釜，冷却水槽，通い筒の五つから構成されており水蒸気蒸留法により樟脳を抽出していたことの判る遺構です。樟脳製造には多くの水が必要であったため，この樟脳製造施設の北側に貯水池(広さ約500平方メートル)を設置し，いったん花渡川上流の水を引いて溜め，そこから道路の下を通して樟脳製造施設へ流す施設(暗渠)が作られました。この道路下の暗渠(水路)は石で作られており，この暗渠に水を通して水車を回し，施設内の竈近くを通って，数個あるタンクに水が入る仕組みになっています。樟脳製造に必要な竈，釜，甑，冷却水槽，水車設置場，水路などが現在も残っているこの樟脳製造施設は，枕崎の貴重な近代化遺産です。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.makurazaki.lg.jp/site/history/22291.html" target="_blank" rel="noopener">https://www.city.makurazaki.lg.jp/site/history/22291.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"道野樟脳製造所遺構" (JMH-462047-0017), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.307234, 130.262344], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.307234, 130.262344]).addTo(m);
+  </script>
+</body>
+</html>

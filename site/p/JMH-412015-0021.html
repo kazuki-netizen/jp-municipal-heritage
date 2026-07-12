@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>佐賀八幡宮石造肥前鳥居 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>佐賀八幡宮石造肥前鳥居</h1>
+    <p class="jmh-id">JMH-412015-0021</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>重要文化財</dd>
+      <dt>指定年月日</dt><dd>1972-02-11</dd>
+      <dt>所在地</dt><dd>佐賀市白山1丁目(龍造寺八幡神社【通称:八幡神社】)</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>この鳥居は、慶長9年(1604年)佐賀藩祖、鍋島直茂の北方藤女の奉献によるもので、笠木の長さ4.80メートル、高さ3.40メートル。上部が細くなった石柱の下部は生け込みとなっていて、笠木は太い三本継の柱に対して薄く、島木と一体となりゆるやかに反っています。肥前鳥居の特徴は、島木と笠木が一体化し、笠木、島木、貫、柱が三本継ぎになっていることです。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2278.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2278.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"佐賀八幡宮石造肥前鳥居" (JMH-412015-0021), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.254696, 130.296982], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.254696, 130.296982]).addTo(m);
+  </script>
+</body>
+</html>

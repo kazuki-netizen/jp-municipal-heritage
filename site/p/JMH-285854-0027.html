@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>大照山論争関係古文書 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>大照山論争関係古文書</h1>
+    <p class="jmh-id">JMH-285854-0027</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>兵庫県</dd>
+      <dt>市町村</dt><dd>香美町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>古文書</dd>
+      <dt>指定年月日</dt><dd>1981-03-30</dd>
+      <dt>所在地</dt><dd>小代区神水</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>但馬国七美郡の三ヶ村（熊波村・城山村・神水村－山名伊豆守領分）が、但馬国二方郡（柤岡村－京極甲斐守領分）を相手に、大照山を中心にした領地の争いがありました。 地方には珍しく領主間の問題となり、64年あまりの年月、江戸幕府の評定所までもち出されたこと、争いの中で死人まで出たことから元禄年間の大きな事件となったものです。 指定内容:神水、城山、熊波、柤岡の間で争われた山争いに関する古文書</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1133.html" target="_blank" rel="noopener">https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/23/1/3/1133.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"大照山論争関係古文書" (JMH-285854-0027), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.468609, 134.539078], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.468609, 134.539078]).addTo(m);
+  </script>
+</body>
+</html>

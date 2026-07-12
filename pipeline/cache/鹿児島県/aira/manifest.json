@@ -14,5 +14,37 @@
     "fetched_at": "2026-07-12T10:59:19Z",
     "http_status": 200,
     "format": "html"
+  },
+  "a3f98da185150fdb": {
+    "url": "http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/shisiteisiseki.html",
+    "filename": "a3f98da185150fdb.html",
+    "sha256": "0ec8a2632fe1487dc0e880d530f3505471c692e8b8d5bb9c0e2bcb57b1ea2ac1",
+    "fetched_at": "2026-07-12T11:52:49Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4a9f9b37711249f1": {
+    "url": "http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/yuukeiminnzoku.html",
+    "filename": "4a9f9b37711249f1.html",
+    "sha256": "4985d20182e2f6b6c579794b12c02bdc000fc0cec6dc8c614d61bde3a2905d2c",
+    "fetched_at": "2026-07-12T11:52:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a9f95fd125f2cdb7": {
+    "url": "http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/mukeiminnzoku.html",
+    "filename": "a9f95fd125f2cdb7.html",
+    "sha256": "add257f3dfcfaa3ac0334f1415e3c729a36441d22cb9f8e9323a4df8be79f356",
+    "fetched_at": "2026-07-12T11:52:53Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "dc87598a94c0803f": {
+    "url": "http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/tennenkinenbutu.html",
+    "filename": "dc87598a94c0803f.html",
+    "sha256": "e48c3f47bf66649486882f7d8e8ac1032b9cf8633632df2815af5032238a2ff9",
+    "fetched_at": "2026-07-12T11:52:55Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

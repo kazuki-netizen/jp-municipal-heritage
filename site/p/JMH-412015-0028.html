@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>御位牌所 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>御位牌所</h1>
+    <p class="jmh-id">JMH-412015-0028</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>重要文化財</dd>
+      <dt>指定年月日</dt><dd>1974-02-11</dd>
+      <dt>所在地</dt><dd>佐賀市本庄町大字本庄(高伝寺)</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>この御位牌所は明治29年(1896年)に建立され、外観は唐風な花頭窓と棧唐戸、そして向拝の屋根はギリシャ風の柱に支えられた破風づくりとなっています。御位牌所の中央には佐賀藩2代藩主鍋島光茂の寄進による阿弥陀如来像が安置され、その姿は像高1.45メートルの堂々たるものです。また、御位牌所の中には龍造寺、鍋島両家の202霊を祀る位牌があり、最大のものは高さ1.34メートル、その彫物や彩色などもたいへんすばらしいものです。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2278.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2278.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"御位牌所" (JMH-412015-0028), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.240166, 130.288803], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.240166, 130.288803]).addTo(m);
+  </script>
+</body>
+</html>

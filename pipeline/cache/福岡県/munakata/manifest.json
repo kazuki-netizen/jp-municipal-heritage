@@ -1,10 +1,10 @@
 {
-  "ec236e2854737328": {
-    "url": "https://www.city.munakata.lg.jp/w028/zenpen.pdf",
-    "filename": "ec236e2854737328.pdf",
-    "sha256": null,
-    "fetched_at": "2026-07-12T07:54:55Z",
-    "http_status": 404,
-    "format": "pdf"
+  "zenpen": {
+    "url": "https://www.city.munakata.lg.jp/kiji00333/3_33_24_05_5.pdf",
+    "filename": "zenpen.pdf",
+    "format": "pdf",
+    "fetched_at": "2026-07-12T21:22:00Z",
+    "http_status": 200,
+    "note": "元sources記載URL(w028/zenpen.pdf)は404のため、WebSearchで代替の歴史的風致維持向上計画PDFを特定"
   }
 }

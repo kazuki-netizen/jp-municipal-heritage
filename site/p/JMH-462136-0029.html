@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>脇差し — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>脇差し</h1>
+    <p class="jmh-id">JMH-462136-0029</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>西之表市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>工芸品</dd>
+      <dt>指定年月日</dt><dd>1977-01-13</dd>
+      <dt>所在地</dt><dd>榕城松畠</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号10号；所有者又は管理者: 個人；為 種子島輔時雅丈錬之</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.nishinoomote.lg.jp/material/files/group/87/R080401bunkazaiichiran.pdf" target="_blank" rel="noopener">https://www.city.nishinoomote.lg.jp/material/files/group/87/R080401bunkazaiichiran.pdf</a><br>
+      形式: pdf &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"脇差し" (JMH-462136-0029), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([30.732428, 130.997009], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([30.732428, 130.997009]).addTo(m);
+  </script>
+</body>
+</html>

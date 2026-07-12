@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>大涅槃像 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>大涅槃像</h1>
+    <p class="jmh-id">JMH-412015-0068</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>佐賀県</dd>
+      <dt>市町村</dt><dd>佐賀市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>重要文化財</dd>
+      <dt>指定年月日</dt><dd>1984-03-26</dd>
+      <dt>所在地</dt><dd>佐賀市本庄町大字本庄(高伝寺)</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>この涅槃(ねはん)像は、縦14.4メートル、横6.3メートルもある巨大なものです。佐賀藩3代藩主・鍋島綱茂が、京都に住む経師・若井利左衛門の協力を得て、京都東福寺にあったものを書き写させたものと伝えられています。作者は不明です。箱のふたの裏には「宝永3年(1706年)」と書かれてあり、おそらく涅槃像が完成した日付と思われます。 損傷が激しかったため、平成20～21年度にかけて修理が行われました。折れや皺を修復した後に実測した結果、縦15.2メートル、横6.1メートルであることが判明しました。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2280.html" target="_blank" rel="noopener">https://www.city.saga.lg.jp/bunka-sports/rekishi-bunkazai/4/3/2280.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"大涅槃像" (JMH-412015-0068), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([33.240166, 130.288803], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([33.240166, 130.288803]).addTo(m);
+  </script>
+</body>
+</html>

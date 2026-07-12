@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>茅野の田の神 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>茅野の田の神</h1>
+    <p class="jmh-id">JMH-462047-0009</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鹿児島県</dd>
+      <dt>市町村</dt><dd>枕崎市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>民俗文化財</dd>
+      <dt>小分類</dt><dd>有形民俗文化財</dd>
+      <dt>指定年月日</dt><dd>1983-03-07</dd>
+      <dt>所在地</dt><dd>枕崎市茅野町</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定番号6号；首が欠落していますが，台座に「明和十年吉日」の刻字があります。明和10年は安永2年に当たりますが，片田舎のことゆえに，年号の変わっていることも知らなかったのでしょう。田の神は春になると山の神が里に下って田の神となり，秋のとり入れがすむと，また山に帰ると信じられていました。稲作の神様として，崇め祀った農民の心が偲ばれます。今は周辺一帯が畑作地帯のこの地区に，田の神が建てられていることは興味深いことです。昭和30年代までは国見岳から水を引いて中原集落の県道沿いに田んぼが広がっていたので，江戸時代には茅野集落でも稲作を行っていたのかもしれません。</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.makurazaki.lg.jp/site/history/5653.html" target="_blank" rel="noopener">https://www.city.makurazaki.lg.jp/site/history/5653.html</a><br>
+      形式: html &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"茅野の田の神" (JMH-462047-0009), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([31.300289, 130.346283], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([31.300289, 130.346283]).addTo(m);
+  </script>
+</body>
+</html>
