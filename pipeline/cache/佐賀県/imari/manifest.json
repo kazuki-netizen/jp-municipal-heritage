@@ -6,5 +6,29 @@
     "fetched_at": "2026-07-12T08:33:33Z",
     "http_status": 200,
     "format": "html"
+  },
+  "9095c7d6dd3120a8": {
+    "url": "https://www.city.imari.lg.jp/2685.htm",
+    "filename": "9095c7d6dd3120a8.html",
+    "sha256": "0e6979e930cb7f08deab8f496c0f16a74ad013b3eaa9486cd575c9eeb5702911",
+    "fetched_at": "2026-07-12T10:30:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "60766cf1e49abe1f": {
+    "url": "https://www.city.imari.lg.jp/2687.htm",
+    "filename": "60766cf1e49abe1f.html",
+    "sha256": "fa91749607f723e052777c932d216e16e6beea66b6e0c013c2070e38c7b06d4e",
+    "fetched_at": "2026-07-12T10:30:33Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8e2fce15dec9d199": {
+    "url": "https://www.city.imari.lg.jp/2688.htm",
+    "filename": "8e2fce15dec9d199.html",
+    "sha256": "8c0f6286be189e89a079f0680ef14d4e3880999ed3bca0dd12830c506825ec2f",
+    "fetched_at": "2026-07-12T10:30:36Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

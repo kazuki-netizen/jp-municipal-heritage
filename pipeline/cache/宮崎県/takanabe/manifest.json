@@ -1,0 +1,18 @@
+{
+  "4252c09005ae341a": {
+    "url": "https://www.town.takanabe.lg.jp/material/files/group/17/bunnkazaiitirann.pdf",
+    "filename": "4252c09005ae341a.pdf",
+    "sha256": "232afde01e723acb10a661de3f7a456cd5fecaa794bed6ee7818fdf16bdb666d",
+    "fetched_at": "2026-07-12T10:19:16Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "561634de55187567": {
+    "url": "https://www.town.takanabe.lg.jp/soshiki/shakaikyoiku/4/2/4234.html",
+    "filename": "561634de55187567.html",
+    "sha256": "5fd2a9795b67bbf2078e902e936898199228f1107beb1fb93ee3c0615a66f56d",
+    "fetched_at": "2026-07-12T10:19:18Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

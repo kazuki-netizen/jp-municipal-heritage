@@ -1,0 +1,1776 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	指定文化財（応法・黒牟田・曲川地区） / 有田歴史民俗資料館 / 有田町公式ホームページ
+</title>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a' && elem.tagName!='area' && elem.tagName!='AREA') /* 2011/04/04 a tag OK */
+            {
+                var useMapFlg = false;
+                if (elem.tagName == "img" || elem.tagName == "IMG") {
+                    if (elem.useMap) {
+                        useMapFlg = true;
+                    }
+                }
+                if (!useMapFlg) {
+                    if (event.preventDefault) 
+                    {
+                        event.preventDefault();
+                    } 
+                    else 
+                    {
+                        event.returnValue = false;
+                    }
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&family=Noto+Sans&family=Noto+Sans+JP:wght@100;400;500;700;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"/>
+<!-- cloudDeliverdFont start -->
+<!-- cloudDeliverdFont end -->
+<link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/fontsizen.css" id="css_fontsize_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/uiw_rekishi.css" id="css_color" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/uiw_rekishi.css" id="css_color_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link id="ctl00_minicalendar_css" href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/minicalendar.css" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/jquery.min.js"></script><script id="ctl00_js_cookie_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/js.cookie.js"></script><script id="ctl00_setCookie_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/pubfunc.js"></script><script id="ctl00_pubfunc_settablescroll_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/pubfunc_settablescroll.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/jquery-ui.js"></script><script id="ctl00_jquery_easing_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/jquery.scrollfollow.js"></script><script id="ctl00_floatHeader_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/floatheader.js"></script><link id="ctl00_floatHeader_css" href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/floatheader.css" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/rekishi_body.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/keepsavepage.js"></script><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/keepsavepage.css" id="css_keepSavePage" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/uiw_rekishi.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MBBGTPP5');</script>
+<!-- End Google Tag Manager --><script type='text/javascript'>
+var elementContainerId = "container_30";
+var elementPankuzuId = "pankuzu_30";
+var elementPankuzuInnerId = "pankuzu-inner_30";
+var sideboardRootUrl = "//www.town.arita.lg.jp/dynamic/rekishi/";
+var sideboardPortalDsp_flg = true;
+var sideboardPortalDspPrm = {
+"sbkbn": "1"
+}
+var sideboardTopicsDsp_flg = true;
+var sideboardTopicsDspPrm = {
+"sbkbn": "2"
+}
+var sideboardDigestDsp_flg = true;
+var sideboardDigestDspPrm = {
+"sbkbn": "3"
+}
+var sideboardCountdownDsp_flg = true;
+var sideboardCountdownKbn = "4";
+</script><script id="ctl00_web-fonts-with-css_js_all_min_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/web-fonts-with-css/js/all.min.js"></script><script id="ctl00_SideBoard_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/sideboard.js"></script><script id="ctl00_SideBoardApi_js" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/sideboardapi.js"></script><link id="ctl00_web-fonts-with-css_css_all_min_css" href="//www.town.arita.lg.jp/dynamic/rekishi/common/web-fonts-with-css/css/all.min.css" rel="stylesheet" type="text/css" /><link id="ctl00_SideBoard_css" href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/sideboard.css" rel="stylesheet" type="text/css" />
+<!-- google analytics start -->
+<script type="text/javascript">
+</script>
+<!-- google analytics end -->
+<script id="ctl00_pt_loader" type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/ewbc.min.js"></script><script id="ctl00_siteSearchVer2_js" type="text/javascript" src="https://www.town.arita.lg.jp/dynamic/common/js/sitesearchver2.js"></script><meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="指定文化財（応法・黒牟田・曲川地区）" /><meta property="og:image" content="https://www.town.arita.lg.jp/dynamic/rekishi/common/images/ogp/og_image.png" /><meta property="og:url" content="https://www.town.arita.lg.jp/rekishi/list00682.html" /><meta property="og:description" content="指定文化財（応法・黒牟田・曲川地区） / 有田歴史民俗資料館 / 有田町公式ホームページ" /><meta property="og:site_name" content="有田町公式ホームページ" /><meta property="og:locality" content="Arita-Cho" /><meta property="og:region" content="Saga" /><meta property="og:country-name" content="Japan" /><meta http-equiv="refresh" content="0; url=https://www.town.arita.lg.jp/dynamic/rekishi/hpkiji/pub/detail.aspx?c_id=3&amp;id=2073&amp;class_set_id=12&amp;class_id=682" /></head>
+<body class="haikei_30">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe title=" Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-MBBGTPP5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<script type="text/javascript">
+    var aiRagChatUrl = "https://front.arita-aichat.kumamoto-net.ne.jp/?isIframe=true";
+</script>
+
+<link rel="stylesheet" href="https://www.town.arita.lg.jp/dynamic/common/css/airagchat.css">
+<script type="text/javascript" src="https://www.town.arita.lg.jp/dynamic/common/js/airagchat.js"></script>
+
+
+
+<form name="aspnetForm" method="post" action="./list.aspx?c_id=3&amp;class_id=682&amp;class_set_id=12" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+location.href='https://www.town.arita.lg.jp/dynamic/rekishi/hpkiji/pub/detail.aspx?c_id=3&id=2073&class_set_id=12&class_id=682';//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CCC976A2" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAARCw4PJnA6y8z1ol+jmWB16t6zMe4XD21sQFVI3UoTucq7LqF1L+fsIZZOoQQ3myEjiw/Wl7GYxqMny95u3KwW1SOoZa2ZOb0+okiT7JYMioVkAW3xhLCzyBV/NEDHq/tU=" />
+</div>
+
+<div class="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+
+
+
+<!-- rekishi allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/header/rekishi.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/header/rekishi.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.town.arita.lg.jp/dynamic/rekishi/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/web-fonts-with-css/js/all.min.js"></script>
+<script type="text/javascript">
+    jQuery.noConflict();
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+            img.src = "//www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/menu2.png"
+        }
+    }
+
+    function closeGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            menuDiv.style.display = "none";
+            img.src = "//www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/menu.png"
+        }
+    }
+    //　アクセシビリティメニュー開閉
+    function accMenuOpneClose() {
+        jQuery("#accessibility").toggleClass("active");
+        jQuery("#overlay_acc").toggleClass("open");
+        if (jQuery("#accessibility").hasClass("active")) {
+            jQuery("body").addClass("scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".acce_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".acce_head_wp").removeClass("active");
+        }
+    };
+    jQuery(function () {
+        jQuery(document).on('click', function (e) {
+            if (!jQuery(e.target).closest('#acc').length && !jQuery(e.target).closest('#accessibility').length) {
+                // 外側をクリックした場合
+                if (jQuery("#accessibility").hasClass("active")) {
+                    // メニューが開いている場合
+                    // メニューを閉じる
+                    jQuery("#accessibility").removeClass("active");
+                    jQuery("#overlay_acc").removeClass("open");
+                    jQuery("body").removeClass("scroll");
+                    //jQuery("#top_mokuteki").removeClass("active");
+                    jQuery(".acce_head_wp").removeClass("active");
+                }
+            }
+        });
+    });
+
+</script>
+
+<div id="floatmenu">
+
+    <div class="cont_wrap">
+
+    <div class="menuarea">
+
+
+
+        
+        <div class="headerimgarea">
+            <!-- rekishi rect start -->
+            <map id="header_img" name="header_img">
+                <area shape="rect" alt="有田町公式ホームページ有田町歴史民俗資料館" coords="1,0,560,72" href="https://www.town.arita.lg.jp/rekishi/default.html" />
+           
+
+
+            </map>
+
+           
+            <!-- rekishi rect end -->
+
+            
+
+
+            <div id="header">
+                <!-- rekishi header start -->
+                <h1 id="hd_header">
+                    <img id="imgHeader" usemap="#header_img" src="//www.town.arita.lg.jp/rekishi/common/upload/common/30_5_header_1kp8t4sx.png" alt="有田町公式ホームページ　有田歴史民俗資料館" style="border-width:0px;" />
+                </h1>
+                <!-- rekishi header end -->
+
+
+
+            </div>
+
+            
+            
+
+        </div>
+         
+
+
+
+        <div class="menuinner">
+
+
+
+
+
+            <!-- アクセシビリティ・　Foreignlanguage  -->
+            <div id="headerMenu01">
+
+                <!-- rekishi foreign language start -->
+                
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').focus(function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').focus(function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1"><i class="fas fa-globe fa-lg my-red"></i> Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u=https://www.town.arita.lg.jp/rekishi/list00682.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-CN&u=https://www.town.arita.lg.jp/rekishi/list00682.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-TW&u=https://www.town.arita.lg.jp/rekishi/list00682.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                <li><a translate="no" lang="ko" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=ko&u=https://www.town.arita.lg.jp/rekishi/list00682.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                
+            </ul>
+        </li>
+    </ul>
+</div>
+
+                <!-- rekishi foreign language end -->
+                <div class="accessibility">
+                    <a id="acc" href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1">アクセシビリティ</a>
+                </div>
+            </div>
+
+
+            <div class="main_search_wrapper">
+
+                <!-- メインサイトへボタン -->
+                <div id="mainTop">
+                    <a href="https://www.town.arita.lg.jp/default.html">行政トップページへ</a>
+                </div>
+
+
+                <!-- mainSearch start -->
+                <div id="mainSearch">
+                    
+                            
+                            
+<div name="searchver2-input" class="searchver2-input" data-api_url="https://aritasearch.kumamoto-net.ne.jp/public_api/"><!--フォームの表示箇所--></div>
+                        
+                </div>
+                <!-- mainSearch end -->
+            </div>
+
+        </div>
+    </div>
+    <!-- menuarea end -->
+
+     <div id="headerAreaDef">
+
+
+        <input type="submit" name="ctl00$ctl34$Dmy" value="" onclick="return false;" id="ctl00_ctl34_Dmy" style="height:0px;width:0px;position: absolute; top: -100px;" />
+
+
+
+        <!-- グローバルナビゲーション -->
+        <div id="GlobalNavigationBlock">
+            
+            <!-- rekishi global navigation start -->
+            
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,ul.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("ul.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("ul#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+
+    jQuery(window).on('load', function () {
+        var nvObj = jQuery('#naviContainer');
+        var setMaxHeight = jQuery(window).innerHeight() - (nvObj.offset().top + nvObj.outerHeight(true) + 5);
+        //console.log('setMaxHeight=' + setMaxHeight);
+        jQuery('#popNaviArea ul.g_navi').each(function () {
+            jQuery(this).css('max-height', setMaxHeight + 'px');
+            jQuery(this).css('overflow-y', 'auto');
+        });
+    });
+
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list">
+            <li class="navi_tab  " id="navi_tab_651"
+                data-global="651">
+                <div>
+                    <a href="//www.town.arita.lg.jp/rekishi/list00651.html" tabindex="10" >
+                        <p id="navi_tab_text_651">お知らせ</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_652"
+                data-global="652">
+                <div>
+                    <a href="//www.town.arita.lg.jp/rekishi/list00652.html" tabindex="14" >
+                        <p id="navi_tab_text_652">施設案内</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_653"
+                data-global="653">
+                <div>
+                    <a href="//www.town.arita.lg.jp/rekishi/list00653.html" tabindex="23" >
+                        <p id="navi_tab_text_653">有田内山の町並み</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_654"
+                data-global="654">
+                <div>
+                    <a href="//www.town.arita.lg.jp/rekishi/list00654.html" tabindex="26" >
+                        <p id="navi_tab_text_654">有田町の文化財</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_655"
+                data-global="655">
+                <div>
+                    <a href="//www.town.arita.lg.jp/rekishi/list00655.html" tabindex="35" >
+                        <p id="navi_tab_text_655">窯跡</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  navi_tab_last" id="navi_tab_656"
+                data-global="656">
+                <div>
+                    <a href="//www.town.arita.lg.jp/rekishi/list00656.html" tabindex="42" >
+                        <p id="navi_tab_text_656">刊行物・グッズ</p>
+                    </a>
+                </div>
+             </li>
+        </ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <ul class="g_navi " id="g_navi_651" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="1087">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list01087.html" tabindex="11" >2026年</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="981">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00981.html" tabindex="12" >2025年</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="859">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00859.html" tabindex="13" >2024年</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_652" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="658">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00658.html" tabindex="15" >有田町歴史民俗資料館東館</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="659">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00659.html" tabindex="16" >有田町歴史民俗資料館西館</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="660">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00660.html" tabindex="17" >有田焼参考館</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="661">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00661.html" tabindex="18" >有田町出土文化財管理センター</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="662">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00662.html" tabindex="19" >有田陶磁美術館</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="663">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00663.html" tabindex="20" >旧田代家西洋館</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="664">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00664.html" tabindex="21" >各種申請書</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="665">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00665.html" tabindex="22" >アクセス</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_653" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="666">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00666.html" tabindex="24" >重要伝統的建造物群保存地区</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="667">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00667.html" tabindex="25" >景観形成と町並み</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_654" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="668">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00668.html" tabindex="27" >指定文化財</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="668">
+                        
+                        
+                                <li
+                                    data-global="679">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00679.html" tabindex="28" >指定文化財（有田内山地区）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="680">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00680.html" tabindex="29" >指定文化財（佐賀県立九州陶磁文化館所蔵）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="681">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00681.html" tabindex="30" >指定文化財（南山・原明地区）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="682">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00682.html" tabindex="31" >指定文化財（応法・黒牟田・曲川地区）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="683">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00683.html" tabindex="32" >指定文化財（大山地区）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="684">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00684.html" tabindex="33" >指定文化財（その他の地区）</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="669">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00669.html" tabindex="34" >文化財の管理について</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_655" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="670">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00670.html" tabindex="36" >窯跡（内山地区(1)）</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="671">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00671.html" tabindex="37" >窯跡（内山地区(2)）</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="672">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00672.html" tabindex="38" >窯跡（外山地区(1)）</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="673">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00673.html" tabindex="39" >窯跡（外山地区(2)）</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="674">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00674.html" tabindex="40" >窯跡（外山地区(3)）</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="675">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00675.html" tabindex="41" >窯跡（外山地区(4)）</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_656" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="676">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00676.html" tabindex="43" >館報　季刊「皿山」</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="677">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00677.html" tabindex="44" >歴史民俗資料館ブログ「泉山日録」</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="677">
+                        
+                        
+                                <li
+                                    data-global="1071">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list01071.html" tabindex="45" >2026年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="967">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00967.html" tabindex="46" >2025年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="747">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00747.html" tabindex="47" >2024年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="748">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00748.html" tabindex="48" >2023年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="749">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00749.html" tabindex="49" >2022年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="750">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00750.html" tabindex="50" >2021年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="751">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00751.html" tabindex="51" >2020年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="752">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00752.html" tabindex="52" >2019年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="753">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00753.html" tabindex="53" >2018年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="754">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00754.html" tabindex="54" >2017年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="755">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00755.html" tabindex="55" >2016年</a>
+                                </li>
+                            
+                                <li
+                                    data-global="756">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00756.html" tabindex="56" >2015年</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="678">
+                            
+                            <a href="//www.town.arita.lg.jp/rekishi/list00678.html" tabindex="57" >販売物（書籍・グッズ）</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="678">
+                        
+                        
+                                <li
+                                    data-global="685">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00685.html" tabindex="58" >販売物一覧　有田町史</a>
+                                </li>
+                            
+                                <li
+                                    data-global="686">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00686.html" tabindex="59" >販売物一覧　発掘調査報告書</a>
+                                </li>
+                            
+                                <li
+                                    data-global="687">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00687.html" tabindex="60" >販売物一覧　研究紀要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="688">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00688.html" tabindex="61" >販売物一覧　図録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="689">
+                                    
+                                    <a href="//www.town.arita.lg.jp/rekishi/list00689.html" tabindex="62" >販売物一覧　その他の書籍</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl34$GlobalNavigation$HidErrMsg" id="ctl00_ctl34_GlobalNavigation_HidErrMsg" />
+
+
+
+            <div id="globalNavigationData" data-classid="" data-parentid="" data-topid=""></div>
+            <div id="ctl00_ctl34_globalNavigationData"></div>
+            <!-- rekishi global navigation end -->
+        </div>
+
+
+
+        <!--<div class="headerMenu_wrapper">-->
+        <div class="clear"></div>
+
+
+
+        <!-- アクセシビリティメニュー start -->
+        <div id="headmenu03">
+            <div id="accessibility">
+                <div class="acce_head_wp">
+                    <div class="overlay_acc" id="overlay_acc">
+                        <div id="accmenu_close">
+                            <div><a href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+                        </div>
+
+
+                        <div class="acc_wp acc_wp clearfix">
+
+                            <div id="mainFontSizeSel">
+                                <span>文字サイズ変更</span>
+                                <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                                    <img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                            </div>
+                            <div id="changeHaikei">
+                                <span>背景色変更</span>
+                                <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                                    <img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                            </div>
+
+                            
+
+                            <div class="clear"></div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+    <!-- グローバルナビゲーションSPプログラム-->
+    
+
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+                //img.src = "//www.town.arita.lg.jp/dynamic/rekishi/common/images/rekishi/hb_close.png";
+            }
+        }
+
+        function closeGlobalMenu() {
+            var menuDiv = document.getElementById("naviContainerSP");
+            var img = document.getElementById("menuImg");
+            if (menuDiv.style.display == "block") {
+                menuDiv.style.display = "none";
+            //img.src = "//www.town.arita.lg.jp/dynamic/rekishi/common/images/rekishi/hb_open.png";
+        }
+    }
+
+    jQuery("#menuImg").click(function () {
+        jQuery("#menuImg").toggleClass('active');
+        dspGlobalMenu();
+    });
+});
+</script>
+
+
+    <div id="headMenu">
+        <div id="menuImg" class="openbtn"><span></span><span></span><span></span></div>
+    </div>
+    
+    <!-- メニュー -->
+    <div id="naviContainerSP" style="display:none;">
+        <div class="naviAreaSP_upper"></div>
+        <div id="naviAreaSP">
+            <ul id="navi_listSP">
+                    <li class="navi_tab  " id="navi_tabSP_651">
+                        <div>
+                            <a href="//www.town.arita.lg.jp/rekishi/list00651.html">
+                                
+                                <p>お知らせ</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_652">
+                        <div>
+                            <a href="//www.town.arita.lg.jp/rekishi/list00652.html">
+                                
+                                <p>施設案内</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_653">
+                        <div>
+                            <a href="//www.town.arita.lg.jp/rekishi/list00653.html">
+                                
+                                <p>有田内山の町並み</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab now " id="navi_tabSP_654">
+                        <div>
+                            <a href="//www.town.arita.lg.jp/rekishi/list00654.html">
+                                
+                                <p>有田町の文化財</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_655">
+                        <div>
+                            <a href="//www.town.arita.lg.jp/rekishi/list00655.html">
+                                
+                                <p>窯跡</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_656">
+                        <div>
+                            <a href="//www.town.arita.lg.jp/rekishi/list00656.html">
+                                
+                                <p>刊行物・グッズ</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                <ul class="btn_gyouseitop">
+                <li class="navi_tab gyousei_top"><div> <a href="https://www.town.arita.lg.jp/default.html">行政トップページへ</a></div>
+
+                </li>
+                    
+                    </ul>
+
+           
+        </div>
+    </div>
+
+
+   </div>
+</div>
+<div class="btn_bar">
+    <div class="bar_item">
+        <a href="https://www.town.arita.lg.jp/dynamic/rekishi/entry/pub/default.aspx?c_id=40"">
+            お問い合わせ</a>
+    </div>
+</div>
+
+</div><!-- rekishi allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu_30"><div class="pankuzu-inner_30"><ul class="pankuzu-item">
+<li><a href="https://www.town.arita.lg.jp/rekishi/default.html" class='sizeA' >有田歴史民俗資料館</a></li>
+<li><a href="//www.town.arita.lg.jp/rekishi/classset012.html" class='sizeA' >分類から探す（資料館サイト）</a></li>
+<li><a href="//www.town.arita.lg.jp/rekishi/list00654.html" class='sizeA' >有田町の文化財</a></li>
+<li><a href="//www.town.arita.lg.jp/rekishi/list00668.html" class='sizeA' >指定文化財</a></li>
+<li>指定文化財（応法・黒牟田・曲川地区）</li>
+</ul>
+</div></div>
+</div>
+
+
+<div id="container_30">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+<script src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/jquery.autopager-1.0.0.js" type="text/javascript"></script>
+
+
+
+
+
+<div style="text-align:center;"></div>
+
+<div class="wideMenu">
+
+
+
+
+
+<div id="rightBanArea" data-topid="30" data-classid="682" data-dspclass="1" data-preview="OFF"></div>
+<div class="clear"></div>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="hideMenu">
+    
+
+    
+
+    
+    
+    
+
+    
+    <div id="leftBanArea" data-topid="30" data-classid="682" data-dspclass="1" data-preview="OFF"></div>
+</div>
+<div class="clear"></div>
+
+<div id="footerSoegakiArea"></div>
+
+<div id="accessCountClassContents"
+    data-classsetid="12"
+    data-classid="682"
+    data-topid="30"
+    data-preview="OFF"></div>
+
+
+
+
+<script type="text/javascript">
+jQuery(function() {
+
+    //autopagerの実行関数
+    jQuery.autopager({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox',
+        
+        // もっと見るリンク
+    	link: 'a[rel=next1]',
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload1').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadboxlisttop' + pgNo)[0]) jQuery('#loadboxlisttop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadboxlisttop1')[0]) jQuery('#loadboxlisttop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next1]').click(function(){
+        jQuery.autopager('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+    
+    //autopagerの実行関数
+    jQuery.autopager2({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox2',
+
+        // もっと見るリンク
+    	link: 'a[rel=next2]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload2').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox2listtop' + pgNo)[0]) jQuery('#loadbox2listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox2listtop1')[0]) jQuery('#loadbox2listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next2]').click(function(){
+        jQuery.autopager2('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+
+    //autopagerの実行関数
+    jQuery.autopager3({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox3',
+
+        // もっと見るリンク
+        link: 'a[rel=next3]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload3').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox3listtop' + pgNo)[0]) jQuery('#loadbox3listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox3listtop1')[0]) jQuery('#loadbox3listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+            //added feature to disable 'もっと見る'
+            if(next.url ===undefined){
+                jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+                jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+            }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next3]').click(function(){
+        jQuery.autopager3('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+});
+</script>
+
+<script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.town.arita.lg.jp/dynamic/rekishi/";
+
+        
+        jQuery("#rightMiniCalArea, #leftMiniCalArea").each(function () {
+            var miniCalendarPrm = {
+                "c_id": jQuery(this).attr("data-categoryid"),
+                "class_id": jQuery(this).attr("data-classid")
+            }
+            set.miniCalendar(this, miniCalendarPrm);
+        });
+
+        
+        jQuery(".LeftArea #leftBanArea, .wideMenu #rightBanArea").each(function () {
+            var bannerPrm = {
+                "top_id": jQuery(this).attr("data-topid"),
+                "class_id": jQuery(this).attr("data-classid"),
+                "dspClassFlg": jQuery(this).attr("data-dspclass"),
+                "preview": jQuery(this).attr("data-preview")
+            }
+            set.banner(this, bannerPrm);
+        });
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "True"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        var accessCountPrm = {
+            "class_set_id": jQuery("#accessCountClassContents").attr("data-classsetid"),
+            "class_id": jQuery("#accessCountClassContents").attr("data-classid"),
+            "top_id": jQuery("#accessCountClassContents").attr("data-topid"),
+            "preview": jQuery("#accessCountClassContents").attr("data-preview")
+        }
+        set.accessCountClassContents(accessCountPrm);
+    });
+
+    function checkClassCssType(color){
+        jQuery("#css_class").attr("disabled", (color == "W") ? false : true);
+    }
+
+    /******************************************
+    * メニュー折り畳み
+    *******************************************/
+    function openCloseMenu(mode){
+        if(jQuery('#classMenuAreaSub' + mode).css('display') == 'none'){
+            jQuery('#classMenuAreaSub' + mode).css('display','block');
+            jQuery('#arrow' + mode).attr("src", "http://www.town.arita.lg.jp/dynamic/rekishi/hpkiji/images/btnMinus.png");
+            jQuery('#arrow' + mode).attr("alt", "マイナスボタン");  
+        }
+        else{
+            jQuery('#classMenuAreaSub' + mode).css('display','none');
+            jQuery('#arrow' + mode).attr("src", "http://www.town.arita.lg.jp/dynamic/rekishi/hpkiji/images/btnPlus.png"); 
+            jQuery('#arrow' + mode).attr("alt", "プラスボタン");  
+            //            jQuery('#arrow' + mode).text('↓');
+        }
+    }
+</script>
+        
+
+     </div> <!-- cont_body end -->
+</div> <!-- mainBlock end -->
+
+<!-- rekishi sideboard start -->
+
+<div id="sideborad_area">
+    <div id="sideBoardWrapper">
+        <div id="sideBoardBlock" tabindex="-1">
+            <div id="sideBoardContainer">
+
+                
+                <div id="sideboardJuyoOshirase" class="artlist">
+                    <h2><i class="fas fa-exclamation-circle fa-lg"></i> 重要なお知らせ</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardCountdown" class="artlist">
+                    <h2><i class="fas fa-bell"></i>カウントダウン</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardDigest" class="artlist">
+                    <h2><i class="fas fa-bell"></i>注目情報</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardTopics" class="artlist">
+                    <h2><i class="fas fa-bell"></i> トピックス</h2>
+                </div>
+                <div class="clear"></div>
+                
+                
+                <div id="mokutekikarasagasu" class="sagasu">
+                    <h2><i class="fas fa-flag"></i> 情報をさがす</h2>
+	                <ul>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.arita.lg.jp/classset002.html">組織から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.arita.lg.jp/classset001.html">分類から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.arita.lg.jp/sitemap.html">サイトマップから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.arita.lg.jp/classset003.html">ライフイベントから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.arita.lg.jp/dynamic/ranking/pub/default.aspx?c_id=9">ランキングから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.town.arita.lg.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダーから</a></li>
+	                </ul>
+                </div>
+
+                <div class="clear"></div>
+
+                
+                <div id="mitsukaranaitoki">
+                    <div>
+                        <a href="https://www.town.arita.lg.jp/list00920.html"><i class="fas fa-question-circle fa-lg fa-fw"></i> 情報が見つからないときは</a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<input type="hidden" name="ctl00$SideBoard$HidErrMsg" id="ctl00_SideBoard_HidErrMsg" />
+<!-- rekishi sideboard end -->
+<div class="clear"></div>
+</div>
+
+
+<!-- rekishi allfooter start  -->
+
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+
+    
+
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/footer/rekishi.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.town.arita.lg.jp/dynamic/rekishi/common/css/footer/rekishi.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- rekishi footer menu start -->
+
+
+<!-- rekishi footer menu end -->
+
+<!-- rekishi site info start -->
+<div id="footerSpBtn">
+    <a href="https://www.town.arita.lg.jp/default.html"><i class="fas fa-redo"></i>&nbsp;行政TOPへ</a>
+</div>
+<!-- 問合せ先 -->
+<div id="siteinfo">
+    <div id="toiawase">
+        <div class="toiawase_left">
+            <img class="rekishi_footerlogo" src="https://www.town.arita.lg.jp/dynamic/rekishi/common/images/rekishi/footer_logo.png" alt="有田町歴史民俗資料館"/>
+        </div>
+        <div class="toiawase_right">
+
+            
+
+                
+                   <span>有田町役場　文化財課</span>
+
+                <div class="wrapper_add_toiawase">
+                    <p><span class="css-br">〒844-0001</span>　佐賀県西松浦郡有田町泉山一丁目4番1号</p>
+                                    
+                </div>
+
+
+                
+                <div class="wrapper_tel_fax">
+                    <div class="area_tel">
+                        <p><span class="small">電話番号：</span><a href="tel:0955-43-2678">0955-43-2678</a></p>
+                    </div>
+                
+                    <div class="area_fax"> 
+                        <p><span class="small marg_fax">FAX番号：</span>0955-43-4185</p>
+                    </div>
+                </div>
+
+                
+            
+        </div>
+    </div>    
+    <!-- copyright -->
+
+<!-- rekishi site info end -->
+</div>
+
+<div id="cp" lang="en">
+    <p>
+        © 2024 Arita Town.
+    </p>
+</div>
+
+
+<div class="area_pagetop">
+    <a href="#">
+     <div id="topbtn" class="btn_pagetop">
+        <img src="https://www.town.arita.lg.jp/dynamic/rekishi/common/images/rekishi/btn_pagetop.png" alt="ページトップへ戻る" title="">
+    </div>
+        </a>
+</div>
+</div>
+<!-- rekishi allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var sitesearch_config = {
+SEARCH_ROOT: 'https://www.town.arita.lg.jp/dynamic/search/pub/Default.aspx?c_id=2',
+API_ROOT: 'https://aritasearch.kumamoto-net.ne.jp/public_api/',
+};
+var sitesearch_ssurl = 'https://aritasearch.kumamoto-net.ne.jp/site_search_input_only/';
+var sitesearch_jsurl = sitesearch_ssurl + 'index-input.0c27b256.js';
+var sitesearch_cssurl = sitesearch_ssurl + 'index-input.dbd7ad3a.css';
+sitesearch_req.open('GET', sitesearch_ssurl, true);
+sitesearch_req.send(null);
+setTimeout("dispRedirectLink()", 10000);
+function dispRedirectLink(){
+document.getElementById("redirectlink").style.display="block";
+}
+//]]>
+</script>
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.town.arita.lg.jp/dynamic/rekishi/common/js/ajaxcalforie6.js"></script>
+
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 480;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.town.arita.lg.jp/dynamic/rekishi/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.town.arita.lg.jp/dynamic/rekishi/";
+            fn.topFlg = "True";
+            fn.topCategoryRootFolder = "rekishi";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+            var prm = {
+                "top_id": "30",
+                "dspTopFlg": "OFF"
+            }
+            setFloatHeader(prm, "//www.town.arita.lg.jp/dynamic/rekishi/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/black-mozi-m.gif", off: "https://www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/black-mozi-l.gif", off: "https://www.town.arita.lg.jp/dynamic/rekishi/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

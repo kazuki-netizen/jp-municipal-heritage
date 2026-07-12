@@ -1,0 +1,18 @@
+{
+  "991cb16a844a338e": {
+    "url": "https://www.vill.shiiba.miyazaki.jp/education/culture/museum.php",
+    "filename": "991cb16a844a338e.html",
+    "sha256": "c8c0dc7e6fd842e5e337aea6ea40f4f372690d586ff55fdf5dc4b09826b05c6c",
+    "fetched_at": "2026-07-12T10:19:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:28Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

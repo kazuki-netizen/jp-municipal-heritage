@@ -1,0 +1,18 @@
+{
+  "9ac6ac4816792c8a": {
+    "url": "https://www.town.takaharu.lg.jp/soshiki/14/299620.html",
+    "filename": "9ac6ac4816792c8a.html",
+    "sha256": "845293e4590182d6404268d16850d186c05dc6f06280cad7e5da034f8a3cf6da",
+    "fetched_at": "2026-07-12T10:19:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:14Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

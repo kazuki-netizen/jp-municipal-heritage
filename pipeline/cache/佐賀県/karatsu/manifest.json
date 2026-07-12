@@ -6,5 +6,37 @@
     "fetched_at": "2026-07-12T08:33:33Z",
     "http_status": 200,
     "format": "html"
+  },
+  "327dca7614bbdb2b": {
+    "url": "https://www.city.karatsu.lg.jp/page/3476.html",
+    "filename": "327dca7614bbdb2b.html",
+    "sha256": "8c00e984fdf3699200a45fe01431712bc5e8f95d5052fcd14beea48b5bcce061",
+    "fetched_at": "2026-07-12T10:20:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ce010e098c42b846": {
+    "url": "https://www.city.karatsu.lg.jp/page/3164.html",
+    "filename": "ce010e098c42b846.html",
+    "sha256": "c5caace20b8f2e6123dd40c9a63e8ad7152389fc3c840fe1cd0b5399e327270d",
+    "fetched_at": "2026-07-12T10:20:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3114ba944f055196": {
+    "url": "https://www.city.karatsu.lg.jp/page/4611.html",
+    "filename": "3114ba944f055196.html",
+    "sha256": "d28725404b47f5299b47c212e0087159f6180a3fbfbae617152dffc7050dfb58",
+    "fetched_at": "2026-07-12T10:20:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c7b29c4a93b99588": {
+    "url": "https://www.city.karatsu.lg.jp/page/3475.html",
+    "filename": "c7b29c4a93b99588.html",
+    "sha256": "9d9a5d2370a57ef9b1821826805f8320ff422a8fe1db7259acfa5781072df103",
+    "fetched_at": "2026-07-12T10:20:30Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

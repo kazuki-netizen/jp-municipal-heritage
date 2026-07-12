@@ -6,5 +6,37 @@
     "fetched_at": "2026-07-12T08:33:37Z",
     "http_status": 200,
     "format": "html"
+  },
+  "04f1d5d0c393a5e4": {
+    "url": "https://www.city.ogi.lg.jp/main/17341.html",
+    "filename": "04f1d5d0c393a5e4.html",
+    "sha256": "7feae1cb692c750c2eafa4126ed171f595de9167bbcf3d41768df45ca62daf12",
+    "fetched_at": "2026-07-12T10:32:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4efcc884d1b91e3c": {
+    "url": "https://www.city.ogi.lg.jp/main/4902.html",
+    "filename": "4efcc884d1b91e3c.html",
+    "sha256": "056383db2d9932e5d01b79cdbca439a2313d9a99e1259bf4177d940978086880",
+    "fetched_at": "2026-07-12T10:32:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "70aa7c1c396eb350": {
+    "url": "https://www.city.ogi.lg.jp/main/30953.html",
+    "filename": "70aa7c1c396eb350.html",
+    "sha256": "463b83c4eb7e4464d83c4dc233bfbebf9075cdd342d3bb65f18aaaf3e641d913",
+    "fetched_at": "2026-07-12T10:33:57Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "98d3242d7a65e2a8": {
+    "url": "https://www.city.ogi.lg.jp/main/4899.html",
+    "filename": "98d3242d7a65e2a8.html",
+    "sha256": "d109c5054eafdc0f0fad36750ba25894a12034b51341e61bccb5802c3b8bb3b9",
+    "fetched_at": "2026-07-12T10:34:42Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

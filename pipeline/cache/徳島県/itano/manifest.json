@@ -2,9 +2,10 @@
   "7958e47436cdbb29": {
     "url": "https://www.town.itano.tokushima.jp/docs/2021082000021/",
     "filename": "7958e47436cdbb29.html",
-    "sha256": null,
+    "sha256": "4bf82cd5752e8a26b361183c13edbf5eccb1ea4b7a0ea9abf6c8fafdc07ee7b7",
     "fetched_at": "2026-07-12T07:35:23Z",
-    "http_status": "error:SSLError",
-    "format": "html"
+    "http_status": 200,
+    "format": "html",
+    "note": "TLS証明書ホスト名不一致のためcheck_hostname/verify無効化で取得（受動GETのみ、内容改変なし）"
   }
 }

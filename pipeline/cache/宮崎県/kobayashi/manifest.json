@@ -1,0 +1,18 @@
+{
+  "ee414507b818fa8a": {
+    "url": "https://www.city.kobayashi.lg.jp/soshikikarasagasu/kyoikubushakaikyoikuka/kankojoho/1/1271.html",
+    "filename": "ee414507b818fa8a.html",
+    "sha256": "27113070713d3ec3a72611c1fd24f69b581b67c72b8c3b17a60d75113b272c89",
+    "fetched_at": "2026-07-12T10:19:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:07Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

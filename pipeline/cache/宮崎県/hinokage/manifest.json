@@ -1,0 +1,26 @@
+{
+  "40a0402365b278ab": {
+    "url": "https://www.town.hinokage.lg.jp/docs/2016022200166/",
+    "filename": "40a0402365b278ab.html",
+    "sha256": "9d738df408e3400e4c7459b029a31c4c051c6b8849bab29a7b1880b56f6c1b1c",
+    "fetched_at": "2026-07-12T10:19:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bf99676ddde7c035": {
+    "url": "https://www.town.hinokage.lg.jp/docs/2016022200173/",
+    "filename": "bf99676ddde7c035.html",
+    "sha256": "0f4c8e27c4b03d14e4a83047688bdc8017f5ce7ed3ca89498c43344a076e0648",
+    "fetched_at": "2026-07-12T10:19:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:32Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,1 @@
+{"pref": "熊本県", "municipality": "八代市", "slug": "yatsushiro", "strategy": "html", "urls": [{"url": "https://www.city.yatsushiro.lg.jp/kiji003474/3_474_108089_up_bwovjwsg.csv", "format": "csv", "note": "八代市市指定文化財一覧(2023CSV)"}], "official_count": 198, "notes": "extra csv fetch"}

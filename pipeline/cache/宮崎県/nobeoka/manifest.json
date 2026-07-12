@@ -1,0 +1,18 @@
+{
+  "bf9ec4f41bb5c48a": {
+    "url": "https://www.city.nobeoka.miyazaki.jp/life/3/28/131/",
+    "filename": "bf9ec4f41bb5c48a.html",
+    "sha256": "a808e836a09aa5491451a77e649a77d189391987fb065b7d03850aa611d471f5",
+    "fetched_at": "2026-07-12T10:19:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:03Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}
