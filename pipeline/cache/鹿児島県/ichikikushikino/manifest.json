@@ -1,0 +1,26 @@
+{
+  "30d2fe2ca44078c9": {
+    "url": "https://www.city.ichikikushikino.lg.jp/bunka1/siteiminnzoku.html",
+    "filename": "30d2fe2ca44078c9.html",
+    "sha256": "8e4d5d779049cf4b7d458fddcef816255634fc1566966a1c7699441885b6cbed",
+    "fetched_at": "2026-07-12T10:59:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1610e48dea7c69c2": {
+    "url": "https://www.city.ichikikushikino.lg.jp/bunka1/shisekimeisyourisuto.html",
+    "filename": "1610e48dea7c69c2.html",
+    "sha256": "5ffdc0b4ac6868eb62134d7f23acc42d593d6f0d3e9ee10a7a0c5ab968441871",
+    "fetched_at": "2026-07-12T10:59:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "51dd8e343fb3f144": {
+    "url": "https://www.city.ichikikushikino.lg.jp/kyoiku/bunka/bunkazai_index.html",
+    "filename": "51dd8e343fb3f144.html",
+    "sha256": "cc9fd294a414055d164dfb2c1538f728a6015d549425f4175a8fcad22d2ffd2d",
+    "fetched_at": "2026-07-12T11:42:44Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "0415f458cafffdee": {
+    "url": "https://www.town.kin.okinawa.jp/soshiki/shakaikyoikuka/gyomuannai/3/1/521.html",
+    "filename": "0415f458cafffdee.html",
+    "sha256": "2335533afa94f517bf94ed5024c18dae45b8814f12626deebfe5b9cea2c8ebd3",
+    "fetched_at": "2026-07-12T11:14:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0f067e142d90930f": {
+    "url": "https://www.town.kin.okinawa.jp/material/files/group/17/itiran.pdf",
+    "filename": "0f067e142d90930f.pdf",
+    "sha256": "d380059c3bbedc49cebfe1188827f364dc26d82678537afac889367ab5832520",
+    "fetched_at": "2026-07-12T11:14:24Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "5b106bb0e0375cb9": {
+    "url": "https://www.city.nishinoomote.lg.jp/admin/soshiki/kyouikuiinkai/rekishibunkaka/bunkazai/bunkazai/siseki/siteibunnkazai/index.html",
+    "filename": "5b106bb0e0375cb9.html",
+    "sha256": "0d8d4ef0ccc7b8b4e0ffe182877dd1d66971beb4680b581672b81fc9c5356e08",
+    "fetched_at": "2026-07-12T10:59:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "eb9a618efd9d601a": {
+    "url": "https://www.city.nishinoomote.lg.jp/material/files/group/87/R080401bunkazaiichiran.pdf",
+    "filename": "eb9a618efd9d601a.pdf",
+    "sha256": "7c0ac9afd5620dd5656e0330f1740bfab48ecffe22797b633fd0ead16b4fd705",
+    "fetched_at": "2026-07-12T11:29:05Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

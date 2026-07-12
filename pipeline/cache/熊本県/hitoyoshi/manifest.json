@@ -6,5 +6,13 @@
     "fetched_at": "2026-07-12T09:36:03Z",
     "http_status": 200,
     "format": "pdf"
+  },
+  "f7b4bfb1b500f5be": {
+    "url": "https://www.city.hitoyoshi.lg.jp/resource.php?e=c611ca775a995dcf93e2a949d9aa1a2e51dac0db45e34b54c98c7f8f857ba0c2415fc80b48bf19084dcf8ec3c216aca9",
+    "filename": "f7b4bfb1b500f5be.pdf",
+    "sha256": "9180547d38fcb409b5f472241dabeb05b4a563b611fe96c6c18b08f9b24bad60",
+    "fetched_at": "2026-07-12T10:46:54Z",
+    "http_status": 200,
+    "format": "pdf"
   }
 }

@@ -6,5 +6,101 @@
     "fetched_at": "2026-07-12T09:36:19Z",
     "http_status": 200,
     "format": "html"
+  },
+  "e5761e887d84bb03": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00709.html",
+    "filename": "e5761e887d84bb03.html",
+    "sha256": "c8d118d455f4871efefab9e3a9bae0e0ccc17fda491b590f0a1b4f1fb7458131",
+    "fetched_at": "2026-07-12T11:02:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f52ac5eb99464ae3": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00791.html",
+    "filename": "f52ac5eb99464ae3.html",
+    "sha256": "f871e4fe30f5ad062d12da75b648f74efb8a4a3dacc080b552f3220e9bc9073e",
+    "fetched_at": "2026-07-12T11:03:02Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5c5aafc26bea149f": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00793.html",
+    "filename": "5c5aafc26bea149f.html",
+    "sha256": "37a83979a057b17ba28e0438fe19a444168258c3ff96f97d538f291006d44b8b",
+    "fetched_at": "2026-07-12T11:03:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e6a7ab55e59966ee": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00795.html",
+    "filename": "e6a7ab55e59966ee.html",
+    "sha256": "dbfab3151bd20c962169174a80fdd6f4cb71f6087efdf79c39a6b7edf6cd637c",
+    "fetched_at": "2026-07-12T11:03:05Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f9bb00c4d59d037c": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00797.html",
+    "filename": "f9bb00c4d59d037c.html",
+    "sha256": "ba7bed3f48d3c63548ed6f7223f548d1f74f4e11695f27c235d00db4219908d8",
+    "fetched_at": "2026-07-12T11:03:07Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0471edb218d2e2d5": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00799.html",
+    "filename": "0471edb218d2e2d5.html",
+    "sha256": "9f7fa3ae1d04a391f83634366cfba4cb4be47c72a70f138d9ee990a28d7a36d5",
+    "fetched_at": "2026-07-12T11:03:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a3b76fb1b1814821": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00801.html",
+    "filename": "a3b76fb1b1814821.html",
+    "sha256": "005016ab7676d2411d0a73f18a8068fdb1ca98b4a7014d45dd5a243ccc81444c",
+    "fetched_at": "2026-07-12T11:03:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1952ed2999419dcd": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00803.html",
+    "filename": "1952ed2999419dcd.html",
+    "sha256": "c90b7e31fbf418f72584ebb1c3ec2e007f76e80183b673797d4a11bd86cc75b7",
+    "fetched_at": "2026-07-12T11:03:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "fa4dfaa864f558eb": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00807.html",
+    "filename": "fa4dfaa864f558eb.html",
+    "sha256": "3c6998948cd0426986a529c09a02cd26367c4a0a658e7655353ee1a969988ef2",
+    "fetched_at": "2026-07-12T11:03:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d82c0832fb13e556": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00809.html",
+    "filename": "d82c0832fb13e556.html",
+    "sha256": "b76222acfb6c1b4ce07cb63934cd21fc682381788676ca9296b0708800490770",
+    "fetched_at": "2026-07-12T11:03:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d90b4155f6b64b00": {
+    "url": "https://www.city.amakusa.kumamoto.jp/list00812.html",
+    "filename": "d90b4155f6b64b00.html",
+    "sha256": "97c409081dfeca8ed03f21cb326c07473e561ad6ba33038e6c389a2817226aaf",
+    "fetched_at": "2026-07-12T11:03:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a9e8122f6fe8afbb": {
+    "url": "https://www.city.amakusa.kumamoto.jp/dynamic/hpkiji/pub/hpkijilistpagerhandler.ashx?c_id=3&class_id=807&class_set_id=1&pg=4&kbn=kijilist&top_id=0",
+    "filename": "a9e8122f6fe8afbb.html",
+    "sha256": "450eecad9fcf5ccddd901612c0d4441d0530ca65b918d950206e59530a8bea0b",
+    "fetched_at": "2026-07-12T11:04:01Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

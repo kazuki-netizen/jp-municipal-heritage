@@ -1,0 +1,2561 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	自然・文化財 / 与論町ホームページ
+</title>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a' && elem.tagName!='area' && elem.tagName!='AREA') /* 2011/04/04 a tag OK */
+            {
+                var useMapFlg = false;
+                if (elem.tagName == "img" || elem.tagName == "IMG") {
+                    if (elem.useMap) {
+                        useMapFlg = true;
+                    }
+                }
+                if (!useMapFlg) {
+                    if (event.preventDefault) 
+                    {
+                        event.preventDefault();
+                    } 
+                    else 
+                    {
+                        event.returnValue = false;
+                    }
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+JP:wght@100;400;500;700;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"/>
+<!-- cloudDeliverdFont start -->
+<!-- cloudDeliverdFont end -->
+<link href="//www.yoron.jp/dynamic/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.yoron.jp/dynamic/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.yoron.jp/dynamic/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.yoron.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.yoron.jp/dynamic/common/css/uiw.css" id="css_color" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.yoron.jp/dynamic/common/css/uiw.css" id="css_color_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link id="ctl00_minicalendar_css" href="//www.yoron.jp/dynamic/common/css/minicalendar.css" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.yoron.jp/dynamic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/js/jquery.min.js"></script><script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/js.cookie.js"></script><script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/js/pubfunc.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/jquery-ui.js"></script><script id="ctl00_jquery_easing_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/jquery.scrollfollow.js"></script><script id="ctl00_floatHeader_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/js/floatheader.js"></script><link id="ctl00_floatHeader_css" href="//www.yoron.jp/dynamic/common/css/floatheader.css" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/common/css/default_body.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/keepsavepage.js"></script><link href="//www.yoron.jp/dynamic/common/css/keepsavepage.css" id="css_keepSavePage" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.yoron.jp/dynamic/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/common/css/uiw.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.yoron.jp/dynamic/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<script type='text/javascript'>
+var elementContainerId = "container";
+var elementPankuzuId = "pankuzu";
+var elementPankuzuInnerId = "pankuzu-inner";
+var sideboardRootUrl = "//www.yoron.jp/dynamic/";
+var sideboardPortalDsp_flg = true;
+var sideboardPortalDspPrm = {
+"sbkbn": "1"
+}
+var sideboardTopicsDsp_flg = true;
+var sideboardTopicsDspPrm = {
+"sbkbn": "2"
+}
+var sideboardDigestDsp_flg = true;
+var sideboardDigestDspPrm = {
+"sbkbn": "3"
+}
+var sideboardCountdownDsp_flg = false;
+var sideboardCountdownKbn = "4";
+</script><script id="ctl00_web-fonts-with-css_js_all_min_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script><script id="ctl00_SideBoard_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/js/sideboard.js"></script><script id="ctl00_SideBoardApi_js" type="text/javascript" src="//www.yoron.jp/dynamic/common/js/sideboardapi.js"></script><link id="ctl00_web-fonts-with-css_css_all_min_css" href="//www.yoron.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet" type="text/css" /><link id="ctl00_SideBoard_css" href="//www.yoron.jp/dynamic/common/css/sideboard.css" rel="stylesheet" type="text/css" />
+<!-- google analytics start -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V4S7HJ0G5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6V4S7HJ0G5');
+</script>
+
+<!-- google analytics end -->
+<script id="ctl00_siteSearchVer2_js" type="text/javascript" src="https://www.yoron.jp/dynamic/common/js/sitesearchver2.js"></script><meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="自然・文化財" /><meta property="og:image" content="https://www.yoron.jp/dynamic/common/images/ogp/og_image.png" /><meta property="og:url" content="https://www.yoron.jp/list00177.html" /><meta property="og:description" content="自然・文化財 / 与論町ホームページ" /><meta property="og:site_name" content="与論町ホームページ" /><meta property="og:locality" content="Kumamoto-Shi" /><meta property="og:region" content="Kumamoto" /><meta property="og:country-name" content="Japan" /></head>
+<body class="haikei">
+
+<form name="aspnetForm" method="post" action="./list.aspx?c_id=3&amp;class_id=177&amp;class_set_id=1" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CCC976A2" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAASOWo26+NJUxdSM22cJ/fa4r/kCtIPg/ZD0i99J79UCIXqi3h4Wlhf4O3vFCjIILWHiw/Wl7GYxqMny95u3KwW1TUaKtHtTR7mciOGF80pV2MUlIp4TuJ3gu8hnGZgfioc=" />
+</div>
+
+<div class="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+
+
+
+<!-- allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.yoron.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.yoron.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.yoron.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.yoron.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script>
+<script>
+    jQuery.noConflict();
+    //　ナビゲーションメニュー開閉
+    function nabiMenuOpneClose() {
+        window.scrollTo(0, 0);
+        jQuery("#top_mokuteki").toggleClass("active");
+        jQuery("#overlay").toggleClass("open");
+        if (jQuery("#top_mokuteki").hasClass("active")) {
+            jQuery("body").addClass("no-scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".top_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("no-scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".top_head_wp").removeClass("active");
+        }
+    };
+
+
+    //　検索メニュー開閉
+    function searchMenuOpneClose() {
+        window.scrollTo(0, 0);
+        jQuery("#top_search").toggleClass("active");
+        jQuery("#search_overlay").toggleClass("open");
+        if (jQuery("#top_search").hasClass("active")) {
+            jQuery("body").addClass("no-scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".top_head_wp").addClass("active");
+
+            // サイト内検索の入力テキストボックスにフォーカスする
+            jQuery("#search_overlay .search_area input").focus();
+            jQuery("#search_overlay .search_area .searchBox").focus();
+
+        } else {
+            jQuery("body").removeClass("no-scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".top_head_wp").removeClass("active");
+        }
+    };
+
+
+    //　アクセシビリティメニュー開閉
+    function accMenuOpneClose() {
+        jQuery("#accessibility").toggleClass("active");
+        jQuery("#overlay_acc").toggleClass("open");
+        if (jQuery("#accessibility").hasClass("active")) {
+            jQuery("body").addClass("scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".acce_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".acce_head_wp").removeClass("active");
+        }
+    };
+    jQuery(function () {
+        jQuery(document).on('click', function (e) {
+            if (!jQuery(e.target).closest('#acc').length && !jQuery(e.target).closest('#accessibility').length) {
+                // 外側をクリックした場合
+                if (jQuery("#accessibility").hasClass("active")) {
+                    // メニューが開いている場合
+                    // メニューを閉じる
+                    jQuery("#accessibility").removeClass("active");
+                    jQuery("#overlay_acc").removeClass("open");
+                    jQuery("body").removeClass("scroll");
+                    //jQuery("#top_mokuteki").removeClass("active");
+                    jQuery(".acce_head_wp").removeClass("active");
+                }
+            }
+        });
+    });
+
+</script>
+
+
+<div id="headerAreaDef">
+    <input type="submit" name="ctl00$ctl35$Dmy" value="" onclick="return false;" id="ctl00_ctl35_Dmy" style="height:0px;width:0px;position: absolute; top: -100px;" />
+    <!-- rect start -->
+    <map id="header_img" name="header_img">
+        <area shape="rect" alt="与論町ホームページトップへ" coords="1,3,509,105" href="https://www.yoron.jp/default.html" />
+    </map>
+    <!-- rect end -->
+
+    
+
+
+
+    <div id="header">
+        <!-- header start -->
+        <h1 id="hd_header">        
+            <img id="imgHeader" usemap="#header_img" alt="" src="//www.yoron.jp/common/upload/common/0_2_header_pn4myule.png" alt="与論町" style="border-width:0px;" /></h1>
+<div id="hd_header_SP"><a href="https://www.yoron.jp/default.html"><img src="//www.yoron.jp/dynamic/common/images/headerimgm/head_sp.png" alt="与論町" title=""></a></div>
+            
+
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+                //img.src = "//www.yoron.jp/dynamic/common/images/top1/hb_close.png";
+            }
+        }
+
+        function closeGlobalMenu() {
+            var menuDiv = document.getElementById("naviContainerSP");
+            var img = document.getElementById("menuImg");
+            if (menuDiv.style.display == "block") {
+                menuDiv.style.display = "none";
+            //img.src = "//www.yoron.jp/dynamic/common/images/top1/hb_open.png";
+        }
+    }
+
+    jQuery("#menuImg").click(function () {
+        jQuery("#menuImg").toggleClass('active');
+        dspGlobalMenu();
+    });
+});
+</script>
+
+
+    <div id="headMenu">
+        <div id="menuImg" class="openbtn"><span></span><span></span><span></span></div>
+    </div>
+    
+    <!-- メニュー -->
+    <div id="naviContainerSP" style="display:none;">
+        <div class="naviAreaSP_upper"></div>
+        <div id="naviAreaSP">
+            <ul id="navi_listSP">
+                    <li class="navi_tab  " id="navi_tabSP_101">
+                        <div>
+                            <a href="//www.yoron.jp/list00101.html">
+                                
+                                <p>くらし・手続き</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_102">
+                        <div>
+                            <a href="//www.yoron.jp/list00102.html">
+                                
+                                <p>健康・福祉</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab now " id="navi_tabSP_103">
+                        <div>
+                            <a href="//www.yoron.jp/list00103.html">
+                                
+                                <p>子育て・学び</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_104">
+                        <div>
+                            <a href="//www.yoron.jp/list00104.html">
+                                
+                                <p>しごと・農業</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_105">
+                        <div>
+                            <a href="//www.yoron.jp/list00105.html">
+                                
+                                <p>町政情報</p>
+                            </a>
+                        </div>
+                     </li>
+                </ul>
+        </div>
+    </div>
+
+
+
+
+        <!-- header end -->
+
+        <div class="navi_wrap">
+
+        <div class="headerMenu">
+            <div class="headmenu_wrap">
+                <div class="Flang">
+                    <!-- foreign language start -->
+                    
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').focus(function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').focus(function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1"><i class="fas fa-globe fa-lg"></i> Foreign Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=en&u=https://www.yoron.jp/list00177.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.yoron.jp/dynamic/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-CN&u=https://www.yoron.jp/list00177.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.yoron.jp/dynamic/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=zh-TW&u=https://www.yoron.jp/list00177.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.yoron.jp/dynamic/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                <li><a translate="no" lang="ko" href="https://translate.google.co.jp/translate?hl=ja&sl=ja&tl=ko&u=https://www.yoron.jp/list00177.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.yoron.jp/dynamic/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                
+            </ul>
+        </li>
+    </ul>
+</div>
+
+                    <!-- foreign language end -->
+                </div>
+                <div class="accessibility"><a id="acc" href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1">アクセシビリティ</a></div>
+                <div class="opening"><a href="//www.yoron.jp/index.html"><i class="fas fa-undo fa-fw my-blue"></i>オープニングに戻る</a></div>
+
+                <div class="clear"></div>
+            </div>
+        </div>
+
+            <div class="clear"></div>
+            <!-- グローバルナビゲーション -->
+            <div id="GlobalNavigationBlock" tabindex="1">
+                <div class="Navigation">
+                    <ul>
+                        <li><a href="#mainContent" tabindex="1">グローバルナビゲーションをスキップ</a></li>
+                    </ul>
+                </div>
+                <!-- global navigation start -->
+                
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,ul.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("ul.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("ul#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+
+    jQuery(window).on('load', function () {
+        var nvObj = jQuery('#naviContainer');
+        var setMaxHeight = jQuery(window).innerHeight() - (nvObj.offset().top + nvObj.outerHeight(true) + 5);
+        //console.log('setMaxHeight=' + setMaxHeight);
+        jQuery('#popNaviArea ul.g_navi').each(function () {
+            jQuery(this).css('max-height', setMaxHeight + 'px');
+            jQuery(this).css('overflow-y', 'auto');
+        });
+    });
+
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list">
+            <li class="navi_tab  " id="navi_tab_101"
+                data-global="101">
+                <div>
+                    <a href="//www.yoron.jp/list00101.html" tabindex="10" >
+                        <p id="navi_tab_text_101">くらし・手続き</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_102"
+                data-global="102">
+                <div>
+                    <a href="//www.yoron.jp/list00102.html" tabindex="36" >
+                        <p id="navi_tab_text_102">健康・福祉</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_103"
+                data-global="103">
+                <div>
+                    <a href="//www.yoron.jp/list00103.html" tabindex="58" >
+                        <p id="navi_tab_text_103">子育て・学び</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_104"
+                data-global="104">
+                <div>
+                    <a href="//www.yoron.jp/list00104.html" tabindex="76" >
+                        <p id="navi_tab_text_104">しごと・農業</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  navi_tab_last" id="navi_tab_105"
+                data-global="105">
+                <div>
+                    <a href="//www.yoron.jp/list00105.html" tabindex="93" >
+                        <p id="navi_tab_text_105">町政情報</p>
+                    </a>
+                </div>
+             </li>
+        </ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <ul class="g_navi " id="g_navi_101" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="106">
+                            
+                            <a href="//www.yoron.jp/list00106.html" tabindex="11" >届出・証明</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="107">
+                            
+                            <a href="//www.yoron.jp/list00107.html" tabindex="12" >税金</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="107">
+                        
+                        
+                                <li
+                                    data-global="133">
+                                    
+                                    <a href="//www.yoron.jp/list00133.html" tabindex="13" >各種町税</a>
+                                </li>
+                            
+                                <li
+                                    data-global="134">
+                                    
+                                    <a href="//www.yoron.jp/list00134.html" tabindex="14" >納付方法</a>
+                                </li>
+                            
+                                <li
+                                    data-global="135">
+                                    
+                                    <a href="//www.yoron.jp/list00135.html" tabindex="15" >税の証明書発行</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="108">
+                            
+                            <a href="//www.yoron.jp/list00108.html" tabindex="16" >住まい・環境</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="108">
+                        
+                        
+                                <li
+                                    data-global="136">
+                                    
+                                    <a href="//www.yoron.jp/list00136.html" tabindex="17" >住まい・土地</a>
+                                </li>
+                            
+                                <li
+                                    data-global="137">
+                                    
+                                    <a href="//www.yoron.jp/list00137.html" tabindex="18" >上下水道</a>
+                                </li>
+                            
+                                <li
+                                    data-global="138">
+                                    
+                                    <a href="//www.yoron.jp/list00138.html" tabindex="19" >公共交通</a>
+                                </li>
+                            
+                                <li
+                                    data-global="139">
+                                    
+                                    <a href="//www.yoron.jp/list00139.html" tabindex="20" >環境保全</a>
+                                </li>
+                            
+                                <li
+                                    data-global="140">
+                                    
+                                    <a href="//www.yoron.jp/list00140.html" tabindex="21" >動物・ペット</a>
+                                </li>
+                            
+                                <li
+                                    data-global="568">
+                                    
+                                    <a href="//www.yoron.jp/list00568.html" tabindex="22" >まちづくり</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="109">
+                            
+                            <a href="//www.yoron.jp/list00109.html" tabindex="23" >ごみ・リサイクル</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="109">
+                        
+                        
+                                <li
+                                    data-global="141">
+                                    
+                                    <a href="https://www.yoron.jp/dynamic/cal_recycle/pub/default.aspx?c_id=29" tabindex="24" >ごみ出しカレンダー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="142">
+                                    
+                                    <a href="https://www.yoron.jp/dynamic/word_l/pub/default.aspx?c_id=28" tabindex="25" >ごみ出し早見表</a>
+                                </li>
+                            
+                                <li
+                                    data-global="143">
+                                    
+                                    <a href="//www.yoron.jp/list00143.html" tabindex="26" >ごみの出し方</a>
+                                </li>
+                            
+                                <li
+                                    data-global="144">
+                                    
+                                    <a href="//www.yoron.jp/list00144.html" tabindex="27" >リサイクル・減量化</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="110">
+                            
+                            <a href="//www.yoron.jp/list00110.html" tabindex="28" >防災・安心・安全</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="110">
+                        
+                        
+                                <li
+                                    data-global="145">
+                                    
+                                    <a href="//www.yoron.jp/list00145.html" tabindex="29" >防災サイト</a>
+                                </li>
+                            
+                                <li
+                                    data-global="146">
+                                    
+                                    <a href="//www.yoron.jp/list00146.html" tabindex="30" >地域防犯・交通安全</a>
+                                </li>
+                            
+                                <li
+                                    data-global="147">
+                                    
+                                    <a href="//www.yoron.jp/list00147.html" tabindex="31" >消防・救急</a>
+                                </li>
+                            
+                                <li
+                                    data-global="148">
+                                    
+                                    <a href="//www.yoron.jp/list00148.html" tabindex="32" >消費生活</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="111">
+                            
+                            <a href="//www.yoron.jp/list00111.html" tabindex="33" >相談・よくある質問</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="111">
+                        
+                        
+                                <li
+                                    data-global="149">
+                                    
+                                    <a href="//www.yoron.jp/list00149.html" tabindex="34" >相談窓口</a>
+                                </li>
+                            
+                                <li
+                                    data-global="150">
+                                    
+                                    <a href="//www.yoron.jp/list00150.html" tabindex="35" >よくある質問Q&amp;A</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_102" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="112">
+                            
+                            <a href="//www.yoron.jp/list00112.html" tabindex="37" >新型コロナウイルス感染症</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="112">
+                        
+                        
+                                <li
+                                    data-global="151">
+                                    
+                                    <a href="//www.yoron.jp/list00151.html" tabindex="38" >皆様へ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="152">
+                                    
+                                    <a href="//www.yoron.jp/list00152.html" tabindex="39" >感染状況・相談窓口</a>
+                                </li>
+                            
+                                <li
+                                    data-global="153">
+                                    
+                                    <a href="//www.yoron.jp/list00153.html" tabindex="40" >ワクチン接種</a>
+                                </li>
+                            
+                                <li
+                                    data-global="154">
+                                    
+                                    <a href="//www.yoron.jp/list00154.html" tabindex="41" >個人向け支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="155">
+                                    
+                                    <a href="//www.yoron.jp/list00155.html" tabindex="42" >事業者向け支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="156">
+                                    
+                                    <a href="//www.yoron.jp/list00156.html" tabindex="43" >施設・学校・行事関連</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="113">
+                            
+                            <a href="//www.yoron.jp/list00113.html" tabindex="44" >健康・医療</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="113">
+                        
+                        
+                                <li
+                                    data-global="157">
+                                    
+                                    <a href="//www.yoron.jp/list00157.html" tabindex="45" >医療機関</a>
+                                </li>
+                            
+                                <li
+                                    data-global="158">
+                                    
+                                    <a href="//www.yoron.jp/list00158.html" tabindex="46" >予防接種・健康診断</a>
+                                </li>
+                            
+                                <li
+                                    data-global="159">
+                                    
+                                    <a href="//www.yoron.jp/list00159.html" tabindex="47" >健康づくり</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="114">
+                            
+                            <a href="//www.yoron.jp/list00114.html" tabindex="48" >福祉</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="114">
+                        
+                        
+                                <li
+                                    data-global="160">
+                                    
+                                    <a href="//www.yoron.jp/list00160.html" tabindex="49" >高齢者支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="161">
+                                    
+                                    <a href="//www.yoron.jp/list00161.html" tabindex="50" >障がい者支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="162">
+                                    
+                                    <a href="//www.yoron.jp/list00162.html" tabindex="51" >生活支援窓口</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="115">
+                            
+                            <a href="//www.yoron.jp/list00115.html" tabindex="52" >年金・保険</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="115">
+                        
+                        
+                                <li
+                                    data-global="163">
+                                    
+                                    <a href="//www.yoron.jp/list00163.html" tabindex="53" >国民年金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="164">
+                                    
+                                    <a href="//www.yoron.jp/list00164.html" tabindex="54" >介護保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="165">
+                                    
+                                    <a href="//www.yoron.jp/list00165.html" tabindex="55" >国民健康保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="166">
+                                    
+                                    <a href="//www.yoron.jp/list00166.html" tabindex="56" >後期高齢者医療</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="570">
+                            
+                            <a href="//www.yoron.jp/list00570.html" tabindex="57" >寄附金・義援金</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_103" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="116">
+                            
+                            <a href="//www.yoron.jp/list00116.html" tabindex="59" >子育て支援・施設</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="116">
+                        
+                        
+                                <li
+                                    data-global="167">
+                                    
+                                    <a href="//www.yoron.jp/list00167.html" tabindex="60" >子育てに関する手当・支援・助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="168">
+                                    
+                                    <a href="//www.yoron.jp/list00168.html" tabindex="61" >子育て支援施設・サークル</a>
+                                </li>
+                            
+                                <li
+                                    data-global="169">
+                                    
+                                    <a href="//www.yoron.jp/list00169.html" tabindex="62" >保育所・こども園・幼稚園</a>
+                                </li>
+                            
+                                <li
+                                    data-global="170">
+                                    
+                                    <a href="//www.yoron.jp/list00170.html" tabindex="63" >放課後児童クラブ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="117">
+                            
+                            <a href="//www.yoron.jp/list00117.html" tabindex="64" >子ども医療・健診・予防接種</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="118">
+                            
+                            <a href="//www.yoron.jp/list00118.html" tabindex="65" >教育委員会</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="119">
+                            
+                            <a href="//www.yoron.jp/list00119.html" tabindex="66" >子育てもしものとき</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="119">
+                        
+                        
+                                <li
+                                    data-global="171">
+                                    
+                                    <a href="//www.yoron.jp/list00171.html" tabindex="67" >子ども医療電話相談♯8000</a>
+                                </li>
+                            
+                                <li
+                                    data-global="172">
+                                    
+                                    <a href="//www.yoron.jp/list00172.html" tabindex="68" >子育てに関する相談フォーム</a>
+                                </li>
+                            
+                                <li
+                                    data-global="173">
+                                    
+                                    <a href="//www.yoron.jp/list00173.html" tabindex="69" >教育に関する相談フォーム</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="120">
+                            
+                            <a href="//www.yoron.jp/list00120.html" tabindex="70" >文化・スポーツ</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="120">
+                        
+                        
+                                <li
+                                    data-global="174">
+                                    
+                                    <a href="//www.yoron.jp/list00174.html" tabindex="71" >講座・講演</a>
+                                </li>
+                            
+                                <li
+                                    data-global="175">
+                                    
+                                    <a href="//www.yoron.jp/list00175.html" tabindex="72" >図書室</a>
+                                </li>
+                            
+                                <li
+                                    data-global="176">
+                                    
+                                    <a href="//www.yoron.jp/list00176.html" tabindex="73" >スポーツ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="177">
+                                    
+                                    <a href="//www.yoron.jp/list00177.html" tabindex="74" >自然・文化財</a>
+                                </li>
+                            
+                                <li
+                                    data-global="178">
+                                    
+                                    <a href="//www.yoron.jp/list00178.html" tabindex="75" >歴史・伝統文化</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_104" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="121">
+                            
+                            <a href="//www.yoron.jp/list00121.html" tabindex="77" >入札・契約</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="121">
+                        
+                        
+                                <li
+                                    data-global="559">
+                                    
+                                    <a href="https://www.yoron.jp/dynamic/info/pub/default.aspx?c_id=30" tabindex="78" >入札情報検索</a>
+                                </li>
+                            
+                                <li
+                                    data-global="180">
+                                    
+                                    <a href="//www.yoron.jp/list00180.html" tabindex="79" >入札関連のお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="181">
+                                    
+                                    <a href="//www.yoron.jp/list00181.html" tabindex="80" >入札参加資格申請</a>
+                                </li>
+                            
+                                <li
+                                    data-global="564">
+                                    
+                                    <a href="//www.yoron.jp/list00564.html" tabindex="81" >契約関連のお知らせ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="122">
+                            
+                            <a href="//www.yoron.jp/list00122.html" tabindex="82" >事業者向けお知らせ</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="122">
+                        
+                        
+                                <li
+                                    data-global="182">
+                                    
+                                    <a href="//www.yoron.jp/list00182.html" tabindex="83" >建設・道路・開発</a>
+                                </li>
+                            
+                                <li
+                                    data-global="183">
+                                    
+                                    <a href="//www.yoron.jp/list00183.html" tabindex="84" >空港・港湾・漁港 </a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="123">
+                            
+                            <a href="//www.yoron.jp/list00123.html" tabindex="85" >産業・商工</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="123">
+                        
+                        
+                                <li
+                                    data-global="184">
+                                    
+                                    <a href="//www.yoron.jp/list00184.html" tabindex="86" >事業者・起業者支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="185">
+                                    
+                                    <a href="//www.yoron.jp/list00185.html" tabindex="87" >働く・雇用</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="124">
+                            
+                            <a href="//www.yoron.jp/list00124.html" tabindex="88" >農林水産</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="124">
+                        
+                        
+                                <li
+                                    data-global="186">
+                                    
+                                    <a href="//www.yoron.jp/list00186.html" tabindex="89" >農業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="187">
+                                    
+                                    <a href="//www.yoron.jp/list00187.html" tabindex="90" >耕地</a>
+                                </li>
+                            
+                                <li
+                                    data-global="188">
+                                    
+                                    <a href="//www.yoron.jp/list00188.html" tabindex="91" >農林水産業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="189">
+                                    
+                                    <a href="//www.yoron.jp/list00189.html" tabindex="92" >農業委員会</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_105" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="572">
+                            
+                            <a href="//www.yoron.jp/list00572.html" tabindex="94" >情報公開・個人情報保護</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="125">
+                            
+                            <a href="//www.yoron.jp/list00125.html" tabindex="95" >よろんあれこれ</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="125">
+                        
+                        
+                                <li
+                                    data-global="190">
+                                    
+                                    <a href="//www.yoron.jp/list00190.html" tabindex="96" >こんなところ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="191">
+                                    
+                                    <a href="//www.yoron.jp/list00191.html" tabindex="97" >まちの公式SNS</a>
+                                </li>
+                            
+                                <li
+                                    data-global="192">
+                                    
+                                    <a href="//www.yoron.jp/list00192.html" tabindex="98" >移住支援情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="193">
+                                    
+                                    <a href="//www.yoron.jp/list00193.html" tabindex="99" >庁舎案内・アクセス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="194">
+                                    
+                                    <a href="//www.yoron.jp/list00194.html" tabindex="100" >統計情報・オープンデータ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="195">
+                                    
+                                    <a href="//www.yoron.jp/list00195.html" tabindex="101" >町内の施設</a>
+                                </li>
+                            
+                                <li
+                                    data-global="196">
+                                    
+                                    <a href="https://www.yoron.jp/reiki/reiki.html" tabindex="102" >例規集</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="126">
+                            
+                            <a href="//www.yoron.jp/list00126.html" tabindex="103" >町長室</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="126">
+                        
+                        
+                                <li
+                                    data-global="197">
+                                    
+                                    <a href="//www.yoron.jp/list00197.html" tabindex="104" >プロフィール</a>
+                                </li>
+                            
+                                <li
+                                    data-global="198">
+                                    
+                                    <a href="//www.yoron.jp/list00198.html" tabindex="105" >町長メッセージ</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="127">
+                            
+                            <a href="//www.yoron.jp/list00127.html" tabindex="106" >議会</a>
+                        </h3>
+                        
+                        
+                        
+                        
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="128">
+                            
+                            <a href="//www.yoron.jp/list00128.html" tabindex="107" >広報・広聴</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="128">
+                        
+                        
+                                <li
+                                    data-global="200">
+                                    
+                                    <a href="//www.yoron.jp/list00200.html" tabindex="108" >広報よろん</a>
+                                </li>
+                            
+                                <li
+                                    data-global="201">
+                                    
+                                    <a href="//www.yoron.jp/list00201.html" tabindex="109" >お知らせカレンダー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="202">
+                                    
+                                    <a href="//www.yoron.jp/list00202.html" tabindex="110" >町内放送</a>
+                                </li>
+                            
+                                <li
+                                    data-global="203">
+                                    
+                                    <a href="//www.yoron.jp/list00203.html" tabindex="111" >まちの話題</a>
+                                </li>
+                            
+                                <li
+                                    data-global="204">
+                                    
+                                    <a href="//www.yoron.jp/list00204.html" tabindex="112" >パブリックコメント</a>
+                                </li>
+                            
+                                <li
+                                    data-global="205">
+                                    
+                                    <a href="//www.yoron.jp/list00205.html" tabindex="113" >お知らせ等</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="129">
+                            
+                            <a href="//www.yoron.jp/list00129.html" tabindex="114" >行政・財政</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="129">
+                        
+                        
+                                <li
+                                    data-global="206">
+                                    
+                                    <a href="//www.yoron.jp/list00206.html" tabindex="115" >行政改革</a>
+                                </li>
+                            
+                                <li
+                                    data-global="207">
+                                    
+                                    <a href="//www.yoron.jp/list00207.html" tabindex="116" >町の財政</a>
+                                </li>
+                            
+                                <li
+                                    data-global="208">
+                                    
+                                    <a href="//www.yoron.jp/list00208.html" tabindex="117" >ふるさと納税（サンゴ礁基金）</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="130">
+                            
+                            <a href="//www.yoron.jp/list00130.html" tabindex="118" >計画・方針</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="130">
+                        
+                        
+                                <li
+                                    data-global="209">
+                                    
+                                    <a href="//www.yoron.jp/list00209.html" tabindex="119" >総合振興計画</a>
+                                </li>
+                            
+                                <li
+                                    data-global="210">
+                                    
+                                    <a href="//www.yoron.jp/list00210.html" tabindex="120" >総合戦略</a>
+                                </li>
+                            
+                                <li
+                                    data-global="211">
+                                    
+                                    <a href="//www.yoron.jp/list00211.html" tabindex="121" >障がい者就労施設等からの物品等調達推進方針</a>
+                                </li>
+                            
+                                <li
+                                    data-global="212">
+                                    
+                                    <a href="//www.yoron.jp/list00212.html" tabindex="122" >事業・施策・取り組み</a>
+                                </li>
+                            
+                                <li
+                                    data-global="213">
+                                    
+                                    <a href="//www.yoron.jp/list00213.html" tabindex="123" >職員採用・人事</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="131">
+                            
+                            <a href="//www.yoron.jp/list00131.html" tabindex="124" >選挙管理委員会</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="131">
+                        
+                        
+                                <li
+                                    data-global="214">
+                                    
+                                    <a href="//www.yoron.jp/list00214.html" tabindex="125" >選挙関連のお知らせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="215">
+                                    
+                                    <a href="//www.yoron.jp/list00215.html" tabindex="126" >選挙制度・概要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="216">
+                                    
+                                    <a href="//www.yoron.jp/list00216.html" tabindex="127" >選挙結果</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="132">
+                            
+                            <a href="//www.yoron.jp/list00132.html" tabindex="128" >監査</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="132">
+                        
+                        
+                                <li
+                                    data-global="217">
+                                    
+                                    <a href="//www.yoron.jp/list00217.html" tabindex="129" >監査の概要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="218">
+                                    
+                                    <a href="//www.yoron.jp/list00218.html" tabindex="130" >監査の結果</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl35$GlobalNavigation$HidErrMsg" id="ctl00_ctl35_GlobalNavigation_HidErrMsg" />
+
+                <div id="globalNavigationData" data-classid="" data-parentid="" data-topid=""></div>
+                <div id="ctl00_ctl35_globalNavigationData"></div>
+                <!-- global navigation end -->
+            </div>
+
+        </div>
+        <div class="btn_search"><a href="javascript:void(0)" onclick="javascript:searchMenuOpneClose();" tabindex="1"><img src="//www.yoron.jp/dynamic/common/images/top1/btn_search.png" alt="Search" title=""></a></div>
+    </div>
+    <div class="clear"></div>
+    <!-- アクセシビリティメニュー start -->
+    <div id="accessibility">
+        <div class="acce_head_wp">
+            <div class="overlay_acc" id="overlay_acc">
+                <div id="accmenu_close">
+                    <div><a href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-3x"></i></span></a></div>
+                </div>
+                <div class="acc_wp clearfix">
+                    <div id="mainFontSizeSel">
+                        <span>文字サイズ変更</span>
+                        <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.yoron.jp/dynamic/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                    </div>
+                    <div id="changeHaikei">
+                        <span>背景色変更</span>
+                        <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.yoron.jp/dynamic/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.yoron.jp/dynamic/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+<!-- ナビゲーションメニュー start -->
+<div id="top_mokuteki">
+    <div class="top_head_wp">
+        <div class="overlay" id="overlay">
+            <div id="navimenu_close">
+                <div><a href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+            </div>
+            <div class="mokuteki_wrap">
+                <div class="mokuteki_title"><h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fa-solid fa-flag"></i>&nbsp;&nbsp;目的から探す</h2></div>
+                <div class="mokuteki_menu">
+                    <div class="search_area">
+                        
+                        
+                        
+<div name="searchver2-input" class="searchver2-input" data-api_url="https://yoronsearch.kumamoto-net.ne.jp/public_api/"><!--フォームの表示箇所--></div>
+                    
+                        
+                               
+                        <br />
+                        <a href="//www.yoron.jp/list00528.html"><i class="fas fa-angle-right fa-fw my-white"></i> 情報が見つからないときは</a>
+                    </div>
+                    <div class="mokuteki_btn_area">
+                        <a href="//www.yoron.jp/classset002.html"><div class="mokuteli_btn"><i class="fas fa-users fa-2x"></i><br />組織から探す</div></a>
+                        <a href="//www.yoron.jp/sitemap.html"><div class="mokuteli_btn"><i class="fas fa-sitemap fa-2x"></i><br />サイトマップから探す</div></a>
+                        <a href="//www.yoron.jp/classset001.html"><div class="mokuteli_btn"><i class="far fa-folder-open fa-2x"></i><br />分類から探す</div></a>
+
+
+                    </div>
+                </div>
+                <div class="life_wrap">
+                    <div class="mokuteki_title01"><h3><i class="fas fa-bookmark"></i>&nbsp;&nbsp;ライフイベントから探す</h3></div>
+             <div class="life_eventArea">
+                <ul id="life_mokuteki">
+                    <li>
+                        <a href="//www.yoron.jp/list00519.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life01.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>出産・育児</a>
+                    </li>
+                    <li>
+                        <a href="//www.yoron.jp/list00520.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life02.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>就学・教育</a>
+                    </li>
+                    <li>
+                        <a href="//www.yoron.jp/list00521.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life03.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>働く・退職</a>
+                    </li>
+                    <li>
+                        <a href="//www.yoron.jp/list00522.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life04.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>結婚・離婚</a>
+                    </li>
+                    <li>
+                        <a href="//www.yoron.jp/list00523.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life05.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>住まい・引越し</a>
+                    </li>
+                    <li>
+                        <a href="//www.yoron.jp/list00524.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life06.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>病気・事故</a>
+                    </li>
+                    <li>
+                        <a href="//www.yoron.jp/list00525.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life07.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>高齢・介護</a>
+                    </li>
+                    <li>
+                        <a href="//www.yoron.jp/list00526.html">
+                            <img src="//www.yoron.jp/dynamic/common/images/top1/life08.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw my-green"></i>おくやみ</a>
+                    </li>
+                </ul>
+
+                <div class="clear"></div>
+            </div>
+                </div>
+
+                <div class="benri_wrap">
+                    <div class="mokuteki_title01"><h3><i class="fas fa-bookmark"></i>&nbsp;&nbsp;サブサイト</h3></div>
+                    <div class="benri_btn_area">
+                        <div class="benri_btn"><a href="//www.yoron.jp/bousai/default.html"><i class="fas fa-angle-right fa-fw my-blue"></i>防災サイト</a></div>
+                        <div class="benri_btn"><a href="//www.yoron.jp/gikai/default.html"><i class="fas fa-angle-right fa-fw my-blue"></i>与論町議会</a></div>
+                        <div class="benri_btn"><a href="//www.yoron.jp/kosodate/default.html"><i class="fas fa-angle-right fa-fw my-blue"></i>子育て応援サイト</a></div>
+                        <div class="benri_btn"><a href="//www.yoron.jp/kyouiku/default.html"><i class="fas fa-angle-right fa-fw my-blue"></i>教育委員会</a></div>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+
+<!-- ナビゲーションメニュー start -->
+<div id="top_search">
+
+
+    <div class="search_head_wp">
+
+        <div id="search_overlay" class="overlay" >
+            <div id="searchmenu_close">
+                <div><a href="javascript:void(0)" onclick="javascript:searchMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+            </div>
+            <div class="search_wrap">
+                <div class="search_title">何をお探しですか？</div>
+                <div class="search_area">
+                    
+                            
+                            
+<div name="searchver2-input" class="searchver2-input" data-api_url="https://yoronsearch.kumamoto-net.ne.jp/public_api/"><!--フォームの表示箇所--></div>
+                        
+                </div>
+            </div>
+        </div>
+
+</div>
+<div class="clear"></div>
+
+    </div>
+
+ 
+<div class="clear"></div>
+
+
+<div id="headerAreaDef_margin"></div>
+<div class="btn_bar">
+    <div class="bar_item">
+       <a id="toggle" href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1">
+        <img src="//www.yoron.jp/dynamic/common/images/top1/btn_mokuteki.png" alt="目的から探す" title="" />
+       </a>
+
+    </div>
+</div>
+
+
+<a name="mainContent"></a>
+</div><!-- allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu"><div class="pankuzu-inner"><ul class="pankuzu-item">
+<li><a href="https://www.yoron.jp/default.html" class='sizeA' >ホーム</a></li>
+<li><a href="//www.yoron.jp/classset001.html" class='sizeA' >分類から探す</a></li>
+<li><a href="//www.yoron.jp/list00103.html" class='sizeA' >子育て・学び</a></li>
+<li><a href="//www.yoron.jp/list00120.html" class='sizeA' >文化・スポーツ</a></li>
+<li>自然・文化財</li>
+</ul>
+</div></div>
+</div>
+
+
+<div id="container">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+<script src="//www.yoron.jp/dynamic/common/js/jquery.autopager-1.0.0.js" type="text/javascript"></script>
+
+
+
+
+
+<div style="text-align:center;"></div>
+
+<div class="wideMenu">
+
+<h1 class="classTitle">
+    自然・文化財
+
+    
+</h1>
+
+
+
+
+
+
+
+
+<div id="rightBanArea" data-topid="0" data-classid="177" data-dspclass="1" data-preview="OFF"></div>
+<div class="clear"></div>
+
+
+
+
+
+
+ 
+
+
+
+
+
+    <div class="kijiArea kanrenKijiArea KijiAreaType0">
+        
+       
+                
+        <div class="kensu" style="display:none;">全18件</div>
+        
+        <ul class="kijilist KijiListType0 fullKijiList">
+            <li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年2月19日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036701/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036701/3_6701_digest1_1luya1cz.jpg" style="max-width:100px;max-height:800px" alt="浜宿跡の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036701/index.html" id="loadboxlisttop1">浜宿跡</a>
+
+<div class="gaiyou">按司根津栄が、舟倉沖でマチアン漁をした後に使った休憩所（宿・ヤドゥイ）跡で石垣や網干場が残っている。</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年2月19日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036698/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036698/3_6698_digest1_6kkor2i5.jpg" style="max-width:100px;max-height:800px" alt="按司根津栄屋敷跡の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036698/index.html">按司根津栄屋敷跡</a>
+
+<div class="gaiyou">　この地は、按司根津栄が誕生した屋敷跡とされており、調髪用具置き場と伝わる「二段刻みの棚岩」が屋敷内東方(写真中央の岩)に実在する。</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年2月19日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036704/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036704/3_6704_digest1_ba5gtrj4.jpg" style="max-width:100px;max-height:800px" alt="赤崎ウガンの画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036704/index.html">赤崎ウガン</a>
+
+<div class="gaiyou">　赤崎海岸の灯台近くにある島の中でも最も格式高いとも伝わる拝所で、シニグやウンジャミの祭祀の中で神の送迎が行われた場所とされています。<br />…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年2月19日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036702/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036702/3_6702_digest1_zk17ib5o.jpg" style="max-width:100px;max-height:800px" alt="カミゴーの画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036702/index.html">カミゴー</a>
+
+<div class="gaiyou">　この井戸は、湧水井戸で「カミゴー」といわれています。按司根津栄神社、祭主である市来家が執り行う按司根津栄の神事、ニッチェーダークラ（サー…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年2月19日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036699/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036699/3_6699_digest1_pbly6gdg.jpg" style="max-width:100px;max-height:800px" alt="根津栄墓（頭骨安置所）の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036699/index.html">根津栄墓（頭骨安置所）</a>
+
+<div class="gaiyou">　按司根津栄神社の東側に位置し、按司根津栄、兄のキャーラドキ、妹のインジュルキの頭骨を安置している墓である。<br />　この安置所は、昭和14～…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月5日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036693/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036693/3_6693_digest1_g16wt2er.jpg" style="max-width:100px;max-height:800px" alt="アマンジョウの画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036693/index.html">アマンジョウ</a>
+
+<div class="gaiyou">与論島に初めて人類が渡来したとき、この水を発見し、それからこの島に住みついたといわれている。</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月5日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036696/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036696/3_6696_digest1_vv5zbuhh.jpg" style="max-width:100px;max-height:800px" alt="大道那太遺物の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036696/index.html">大道那太遺物</a>
+
+<div class="gaiyou">大道那太遺物<br />那太が生活していた屋敷（母屋）や高倉、生活用具（着物入れ、ヒツ、刀入れ箱）</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月5日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036703/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036703/3_6703_digest1_ri7js63b.jpg" style="max-width:100px;max-height:800px" alt="古文書の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036703/index.html">古文書</a>
+
+<div class="gaiyou"> 「大和踊言葉書帳」は城集落の旧家に伝わる江戸時代末期の古文書で、安政六年に記されたものがベースで明治時代に表紙等が加えられています。この…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月5日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036695/index.html"><p class="img"></p></a>
+<a href="https://www.yoron.jp/kiji0036695/index.html">与論城跡（国指定史跡）</a>
+
+<div class="gaiyou">　与論城跡は、与論島の中でも南側に位置する城(ぐすく)集落の西端に所在する城跡で、島を南北に走る断層崖を取り込んだ城域を持ちます。<br />　平…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月5日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0038920/index.html"><p class="img"></p></a>
+<a href="https://www.yoron.jp/kiji0038920/index.html">与論島の芭蕉布製造技術　国指定重要無形民俗文化財</a>
+
+
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2026年1月4日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036694/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036694/3_6694_digest1_rjapjlcl.jpg" style="max-width:100px;max-height:800px" alt="屋川（ヤゴー）の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036694/index.html">屋川（ヤゴー）</a>
+
+<div class="gaiyou">この地下のわき水は、与論城跡を築城する際に発見されたという説があり、城集落の生活用水として利用されていたが、水道施設がなされてからは使用さ…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2022年5月19日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0032358/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0032358/3_2358_digest1_oz8ie22t.jpg" style="max-width:100px;max-height:800px" alt="琴平神社の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0032358/index.html">史跡を訪ねる</a>
+
+<div class="gaiyou">与論島は、沖縄北部の辺戸岬から北東28kmの距離にあり、地理的状況の中で琉球文化の影響を強く受けながらも、島独自の文化を育ててきました。ま…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2018年11月6日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036692/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036692/3_6692_digest1_8pybbxn2.jpg" style="max-width:100px;max-height:800px" alt="与論の十五夜踊　一番組の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036692/index.html" id="loadboxlisttop2">与論の十五夜踊　国指定重要無形民俗文化財</a>
+
+
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2017年5月9日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0032339/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0032339/3_2339_digest1_2goouny3.jpg" style="max-width:100px;max-height:800px" alt="十五夜踊りの画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0032339/index.html">十五夜踊り</a>
+
+
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2016年7月13日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0032323/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0032323/3_2323_digest1_6qtromm8.jpg" style="max-width:100px;max-height:800px" alt="与論十五夜踊り（旧暦3月15日）の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0032323/index.html">与論十五夜踊り</a>
+
+<div class="gaiyou">　古くは、「大和踊」とも「里主子美踊」ともいい、毎年旧暦3月、8月、10月の各15日に、城の琴平神社と地主神社に奉納されます。</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年5月20日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036639/3_6639_shiryou1_01pj8z64.pdf" target="_blank" class="_df_custom"><p class="img"></p></a>
+<a href="https://www.yoron.jp/kiji0036639/3_6639_shiryou1_01pj8z64.pdf" target="_blank" style="text-decoration: none;" class="_df_custom"><img src="https://www.yoron.jp/dynamic/common/images/icon/pdf.gif" alt="" title=""   style="vertical-align:middle;" />&nbsp;<span style="text-decoration: underline;">文化財一覧</span><span class="sizeAs">（PDF：127.8キロバイト）</span>&nbsp;<img src="//www.yoron.jp/dynamic/common/images/newwin.gif" alt="別ウインドウで開きます" title="" /></a>
+
+
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2015年3月3日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036705/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036705/3_6705_digest1_myj38zku.jpg" style="max-width:100px;max-height:800px" alt="民具の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036705/index.html">与論島の生産・生活用具　町指定有形民俗文化財</a>
+
+<div class="gaiyou">与論の日用品であり、他の文化財と違って人の手によってできた物で、生活の染み込んだ貴重なものである。農具・漁具・生活用具など1,094点が町…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+<li class="loadbox">
+    <div class="mainblock">
+        <span class="upddate">2014年2月18日更新</span><div class="title">
+        <a href="https://www.yoron.jp/kiji0036700/index.html"><p class="img"><img src="https://www.yoron.jp/kiji0036700/3_6700_digest1_kstouqgq.jpg" style="max-width:100px;max-height:800px" alt="弓コヒリ跡（ウマヌクン）の画像" title="" style="max-width:100px; max-height:800px" /></p></a>
+<a href="https://www.yoron.jp/kiji0036700/index.html">ウマヌクン</a>
+
+<div class="gaiyou">　按司根津栄が、東の海に向かって弓を引いた時に使ったといわれている矢立て穴や足跡など3つの穴がある約3平方メートルの平らな1枚岩。<br />　弓…</div>
+        </div><div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</li>
+
+        </ul>
+        
+        <div class="clear"></div>
+        <div class="more" id="nextload1" style=" display:none;">
+            <a href=""  rel="next1">もっと見る</a>
+        </div>
+        <div id="loadmoreajaxloader1" style="display: none;text-align:center;">
+            <img src="//www.yoron.jp/dynamic/common/images/loading.gif" alt="ロード中" />
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="hideMenu">
+    
+        <ul id="classMenuArea">
+        
+            <li class="">
+                <a href="//www.yoron.jp/list00174.html">講座・講演</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow174"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(174);">
+                        <img id="arrow174" class="naviSpreadBtn" src="//www.yoron.jp/dynamic/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub174" style="display:none;">
+                
+            </li>
+        
+            <li class="">
+                <a href="//www.yoron.jp/list00175.html">図書室</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow175"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(175);">
+                        <img id="arrow175" class="naviSpreadBtn" src="//www.yoron.jp/dynamic/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub175" style="display:none;">
+                
+            </li>
+        
+            <li class="">
+                <a href="//www.yoron.jp/list00176.html">スポーツ</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow176"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(176);">
+                        <img id="arrow176" class="naviSpreadBtn" src="//www.yoron.jp/dynamic/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub176" style="display:none;">
+                
+            </li>
+        
+            <li class="selected">
+                <span>自然・文化財</span>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow177"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(177);">
+                        <img id="arrow177" class="naviSpreadBtn" src="//www.yoron.jp/dynamic/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub177" style="display:none;">
+                
+            </li>
+        
+            <li class="">
+                <a href="//www.yoron.jp/list00178.html">歴史・伝統文化</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow178"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(178);">
+                        <img id="arrow178" class="naviSpreadBtn" src="//www.yoron.jp/dynamic/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub178" style="display:none;">
+                
+            </li>
+        
+        </ul>
+        
+
+    
+
+    
+    
+    
+
+    
+    <div id="leftBanArea" data-topid="0" data-classid="177" data-dspclass="1" data-preview="OFF"></div>
+</div>
+<div class="clear"></div>
+
+<div id="footerSoegakiArea"></div>
+
+<div id="accessCountClassContents"
+    data-classsetid="1"
+    data-classid="177"
+    data-topid="0"
+    data-preview="OFF"></div>
+
+
+
+
+<script type="text/javascript">
+jQuery(function() {
+
+    //autopagerの実行関数
+    jQuery.autopager({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox',
+        
+        // もっと見るリンク
+    	link: 'a[rel=next1]',
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload1').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadboxlisttop' + pgNo)[0]) jQuery('#loadboxlisttop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadboxlisttop1')[0]) jQuery('#loadboxlisttop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next1]').click(function(){
+        jQuery.autopager('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+    
+    //autopagerの実行関数
+    jQuery.autopager2({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox2',
+
+        // もっと見るリンク
+    	link: 'a[rel=next2]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload2').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox2listtop' + pgNo)[0]) jQuery('#loadbox2listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox2listtop1')[0]) jQuery('#loadbox2listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next2]').click(function(){
+        jQuery.autopager2('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+
+    //autopagerの実行関数
+    jQuery.autopager3({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox3',
+
+        // もっと見るリンク
+        link: 'a[rel=next3]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload3').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox3listtop' + pgNo)[0]) jQuery('#loadbox3listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox3listtop1')[0]) jQuery('#loadbox3listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+            //added feature to disable 'もっと見る'
+            if(next.url ===undefined){
+                jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+                jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+            }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next3]').click(function(){
+        jQuery.autopager3('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+});
+</script>
+
+<script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.yoron.jp/dynamic/";
+
+        
+        jQuery("#rightMiniCalArea, #leftMiniCalArea").each(function () {
+            var miniCalendarPrm = {
+                "c_id": jQuery(this).attr("data-categoryid"),
+                "class_id": jQuery(this).attr("data-classid")
+            }
+            set.miniCalendar(this, miniCalendarPrm);
+        });
+
+        
+        jQuery(".LeftArea #leftBanArea, .wideMenu #rightBanArea").each(function () {
+            var bannerPrm = {
+                "top_id": jQuery(this).attr("data-topid"),
+                "class_id": jQuery(this).attr("data-classid"),
+                "dspClassFlg": jQuery(this).attr("data-dspclass"),
+                "preview": jQuery(this).attr("data-preview")
+            }
+            set.banner(this, bannerPrm);
+        });
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "True"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        var accessCountPrm = {
+            "class_set_id": jQuery("#accessCountClassContents").attr("data-classsetid"),
+            "class_id": jQuery("#accessCountClassContents").attr("data-classid"),
+            "top_id": jQuery("#accessCountClassContents").attr("data-topid"),
+            "preview": jQuery("#accessCountClassContents").attr("data-preview")
+        }
+        set.accessCountClassContents(accessCountPrm);
+    });
+
+    function checkClassCssType(color){
+        jQuery("#css_class").attr("disabled", (color == "W") ? false : true);
+    }
+
+    /******************************************
+    * メニュー折り畳み
+    *******************************************/
+    function openCloseMenu(mode){
+        if(jQuery('#classMenuAreaSub' + mode).css('display') == 'none'){
+            jQuery('#classMenuAreaSub' + mode).css('display','block');
+            jQuery('#arrow' + mode).attr("src", "http://www.yoron.jp/dynamic/hpkiji/images/btnMinus.png");
+            jQuery('#arrow' + mode).attr("alt", "マイナスボタン");  
+        }
+        else{
+            jQuery('#classMenuAreaSub' + mode).css('display','none');
+            jQuery('#arrow' + mode).attr("src", "http://www.yoron.jp/dynamic/hpkiji/images/btnPlus.png"); 
+            jQuery('#arrow' + mode).attr("alt", "プラスボタン");  
+            //            jQuery('#arrow' + mode).text('↓');
+        }
+    }
+</script>
+        
+
+     </div> <!-- cont_body end -->
+</div> <!-- mainBlock end -->
+
+<!-- sideboard start -->
+
+<div id="sideborad_area">
+    <div id="sideBoardWrapper">
+        <div id="sideBoardBlock" tabindex="-1">
+            <div id="sideBoardContainer">
+
+                
+                <div id="sideboardJuyoOshirase" class="artlist">
+                    <h2><i class="fas fa-exclamation-circle fa-lg"></i> 重要なお知らせ</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardCountdown" class="artlist">
+                    <h2><i class="fas fa-bell"></i>カウントダウン</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardDigest" class="artlist">
+                    <h2><i class="fas fa-bell"></i>注目情報</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardTopics" class="artlist">
+                    <h2><i class="fas fa-bell"></i> トピックス</h2>
+                </div>
+                <div class="clear"></div>
+                
+                
+                <div id="mokutekikarasagasu" class="sagasu">
+                    <h2><i class="fas fa-flag"></i> 情報をさがす</h2>
+	                <ul>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.yoron.jp/classset002.html">組織から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.yoron.jp/classset001.html">分類から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.yoron.jp/sitemap.html">サイトマップから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.yoron.jp/classset003.html">ライフイベントから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.yoron.jp/dynamic/ranking/pub/default.aspx?c_id=9">ランキングから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.yoron.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダーから</a></li>
+	                </ul>
+                </div>
+
+                <div class="clear"></div>
+
+                
+                <div id="mitsukaranaitoki">
+                    <div>
+                        <a href="https://www.yoron.jp/list00528.html"><i class="fas fa-question-circle fa-lg fa-fw"></i> 情報が見つからないときは</a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<input type="hidden" name="ctl00$SideBoard$HidErrMsg" id="ctl00_SideBoard_HidErrMsg" />
+<!-- sideboard end -->
+<div class="clear"></div>
+</div>
+
+
+<!-- allfooter start  -->
+
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+
+    
+
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.yoron.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.yoron.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- footer menu start -->
+
+
+
+
+<!-- footer menu end -->
+
+<!-- site info start -->
+<div id="topbtn">
+    <a href="#">
+        <img src="//www.yoron.jp/dynamic/common/images/top1/top.png" alt="このページの先頭へ" title=""></a>
+</div>
+<div id="footer_wrap">
+<div class="nami"></div>
+<div id="siteinfo">
+    <div id="toiawasewaku">
+    <div class="toiawase">
+    <div class="footerimg"><img src="//www.yoron.jp/dynamic/common/images/top1/shimbol.png" alt="与論町" title=""><br />法人番号 : 7000020465356</div>
+        <div class="add">
+                〒891-9301&nbsp;
+                鹿児島県大島郡与論町茶花1418-1&nbsp;&nbsp;<br />
+                電話番号:<span class="tel"><span class="teltoon"><a href="tel:0997-97-3111">0997-97-3111</a></span><span class="teltooff">0997-97-3111</span></span>&nbsp;&nbsp;
+                Fax:0997-97-4196&nbsp;&nbsp;
+                <br />
+                業務時間：月～金曜日　8時30分～17時15分（祝日・年末年始を除く）<br />
+            
+
+        </div>
+        
+        <div class="clear"></div>
+        <!-- フッターボタン -->
+    
+
+</div>
+<div class="clear"></div>
+<div id="footerMenu">
+<!-- 問合せ先 -->
+        <ul class="footertextlink">
+            <li><a href="//www.yoron.jp/list00556.html"><i class="fas fa-caret-right my-yellow"></i> 与論町サイトについて</a></li>
+            <li><a href="//www.yoron.jp/list00193.html"><i class="fas fa-caret-right my-yellow"></i> 庁舎案内・アクセス</a></li>
+            <li><a href="//www.yoron.jp/list00224.html"><i class="fas fa-caret-right my-yellow"></i> プライバシーポリシー</a></li>
+            <li><a href="//www.yoron.jp/dynamic/entry/pub/ansform.aspx?c_id=35&entry_ins=2"><i class="fas fa-caret-right my-yellow"></i> お問い合わせ</a></li>
+            <li><a href="//www.yoron.jp/dynamic/link_m/pub/default.aspx?c_id=34"><i class="fas fa-caret-right my-yellow"></i> リンク集</a></li>
+            <li><a href="//www.yoron.jp/sitemap.html"><i class="fas fa-caret-right my-yellow"></i> サイトマップ</a></li>
+        </ul>
+        <div class="clear"></div>
+</div>
+<div class="clear"></div>
+    </div>
+
+<div class="clear"></div>
+
+
+
+</div>
+
+</div>
+<!-- copyright -->
+<div id="cp" lang="en">
+    Copyright (C)2023 Yoron Town.
+</div>
+
+<!-- site info end -->
+
+</div>
+<!-- allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var sitesearch_config = {
+SEARCH_ROOT: 'https://www.yoron.jp/dynamic/search/pub/Default.aspx?c_id=2',
+API_ROOT: 'https://yoronsearch.kumamoto-net.ne.jp/public_api/',
+};
+var sitesearch_ssurl = 'https://yoronsearch.kumamoto-net.ne.jp/site_search_input_only/';
+var sitesearch_jsurl = sitesearch_ssurl + 'index-input.0c27b256.js';
+var sitesearch_cssurl = sitesearch_ssurl + 'index-input.dbd7ad3a.css';
+sitesearch_req.open('GET', sitesearch_ssurl, true);
+sitesearch_req.send(null);
+//]]>
+</script>
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.yoron.jp/dynamic/common/js/ajaxcalforie6.js"></script>
+
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 480;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.yoron.jp/dynamic/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.yoron.jp/dynamic/";
+            fn.topFlg = "False";
+            fn.topCategoryRootFolder = "";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+            var prm = {
+                "top_id": "",
+                "dspTopFlg": "OFF"
+            }
+            setFloatHeader(prm, "//www.yoron.jp/dynamic/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.yoron.jp/dynamic/common/images/top1/black-mozi-m.gif", off: "https://www.yoron.jp/dynamic/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.yoron.jp/dynamic/common/images/top1/black-mozi-l.gif", off: "https://www.yoron.jp/dynamic/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

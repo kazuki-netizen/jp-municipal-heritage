@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>敬台院・忠英母子併刻の雲形位牌 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>敬台院・忠英母子併刻の雲形位牌</h1>
+    <p class="jmh-id">JMH-364037-0009</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>徳島県</dd>
+      <dt>市町村</dt><dd>藍住町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>工芸品</dd>
+      <dt>指定年月日</dt><dd>不明</dd>
+      <dt>所在地</dt><dd>正法寺蔵</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>藍住町文化財保存活用地域計画は文化財を分野別件数（町指定47件）のみ集計し、個別一覧表を掲載していないため、本文の記述から個別名称が判明した文化財のみ記録（指定年月日の記載なし）。江戸時代前期のもの</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.town.aizumi.lg.jp/docs/2024072200012/file_contents/chiikikeikaku.pdf" target="_blank" rel="noopener">https://www.town.aizumi.lg.jp/docs/2024072200012/file_contents/chiikikeikaku.pdf</a><br>
+      形式: pdf &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"敬台院・忠英母子併刻の雲形位牌" (JMH-364037-0009), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([34.126633, 134.495117], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([34.126633, 134.495117]).addTo(m);
+  </script>
+</body>
+</html>

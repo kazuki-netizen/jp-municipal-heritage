@@ -1,0 +1,58 @@
+{
+  "34abf30efccbd635": {
+    "url": "https://www.city.tarumizu.lg.jp/bunka/kurashi/kosodate/roman/shiseki.html",
+    "filename": "34abf30efccbd635.html",
+    "sha256": "68a6a633f90394055179f32865e3280a6fc51bcc002f025f1df7e5d9b6b4e1d4",
+    "fetched_at": "2026-07-12T10:59:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42d89ffdec5ccc7f": {
+    "url": "https://www.city.tarumizu.lg.jp/bunka/kurashi/kosodate/roman/map.html",
+    "filename": "42d89ffdec5ccc7f.html",
+    "sha256": "ca49560d6f3f9fe1d9442216f259d2d8c494bfbaa197e96e18661a71d0ccd52b",
+    "fetched_at": "2026-07-12T10:59:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4e4d98ce2c2928ff": {
+    "url": "https://www.city.tarumizu.lg.jp/bunka/kurashi/kosodate/bunka/roman/rekishi_sanpo.html",
+    "filename": "4e4d98ce2c2928ff.html",
+    "sha256": "093fddb206a44c11d68ecb88557f67b80d3af64898768bdb647b58c30f122ea5",
+    "fetched_at": "2026-07-12T11:31:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "7e50a788194b31ef": {
+    "url": "https://www.city.tarumizu.lg.jp/bunka/kurashi/kosodate/roman/documents/shiseki_f2.pdf",
+    "filename": "7e50a788194b31ef.pdf",
+    "sha256": "9e6da662d9570819ff372295e401f29e050a0944e16856fb5a39e3da001163a6",
+    "fetched_at": "2026-07-12T11:32:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "ae28bc813a6757b4": {
+    "url": "https://www.city.tarumizu.lg.jp/bunka/kurashi/kosodate/roman/documents/shiseki_f6.pdf",
+    "filename": "ae28bc813a6757b4.pdf",
+    "sha256": "2f4098226381183f8627a5a80d9b0c522e74182d7189467cdddd49b4267d3277",
+    "fetched_at": "2026-07-12T11:32:11Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "0249ff4b9b550550": {
+    "url": "https://www.city.tarumizu.lg.jp/bunka/kurashi/kosodate/roman/documents/shiseki_f8.pdf",
+    "filename": "0249ff4b9b550550.pdf",
+    "sha256": "b511127e932f82769649a0b64b13cd5c51ac35eaf21b2608ba0cc9deb10f2396",
+    "fetched_at": "2026-07-12T11:32:13Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "23d3f10457835f07": {
+    "url": "https://www.city.tarumizu.lg.jp/bunka/kurashi/kosodate/roman/tarumzusimadubosyo.html",
+    "filename": "23d3f10457835f07.html",
+    "sha256": "c05e0e35dd4a75026e942096f761bcd789a93083ada20e843ef26b4c5cba0d78",
+    "fetched_at": "2026-07-12T11:32:15Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

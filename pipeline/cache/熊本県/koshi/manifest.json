@@ -6,5 +6,101 @@
     "fetched_at": "2026-07-12T09:36:19Z",
     "http_status": 200,
     "format": "html"
+  },
+  "31524ddfe2944435": {
+    "url": "https://www.city.koshi.lg.jp/list00350.html",
+    "filename": "31524ddfe2944435.html",
+    "sha256": "f49714b8ddb514086025d2fc5261b425b0b25abd2023c6ff42c9eaa5bf7a5b5c",
+    "fetched_at": "2026-07-12T11:06:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4a7dbbd25d785150": {
+    "url": "https://www.city.koshi.lg.jp/kiji00320216/3_20216_13582_up_5br0lpet.pdf",
+    "filename": "4a7dbbd25d785150.pdf",
+    "sha256": "a2df8567ae198aa88320d379e58cbdd2c2ff94daf21b9e8513f85db7c2ee3ac7",
+    "fetched_at": "2026-07-12T11:07:09Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "55d97c610503c319": {
+    "url": "https://www.city.koshi.lg.jp/kiji00320216/3_20216_13583_up_thsh7g6u.pdf",
+    "filename": "55d97c610503c319.pdf",
+    "sha256": "49a952093fecc3ca343261b9739b98d442a9ead7996412a406e5eabc68fbb766",
+    "fetched_at": "2026-07-12T11:07:11Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "b6a787c8cc5130c7": {
+    "url": "https://www.city.koshi.lg.jp/list00462.html",
+    "filename": "b6a787c8cc5130c7.html",
+    "sha256": "2c70f24d54e37d50076a4f607a883656bdcdd0b4d9a4e6e97daf620a79ae11b2",
+    "fetched_at": "2026-07-12T11:08:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f1a782a8ea908e78": {
+    "url": "https://www.city.koshi.lg.jp/list00229.html",
+    "filename": "f1a782a8ea908e78.html",
+    "sha256": "11b3638d06ed0bc05610557cc7c45b4098fef843984202facea1968cad3a2f84",
+    "fetched_at": "2026-07-12T11:08:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d0949dc47bc8e293": {
+    "url": "https://www.city.koshi.lg.jp/list00460.html",
+    "filename": "d0949dc47bc8e293.html",
+    "sha256": "5fe5f859348e69a079f64a48a9a231443548715640c821e03cf0b233e95cef95",
+    "fetched_at": "2026-07-12T11:09:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c5c663e9c4dd979d": {
+    "url": "https://www.city.koshi.lg.jp/list00463.html",
+    "filename": "c5c663e9c4dd979d.html",
+    "sha256": "6f09c7707b43e4ffb993fb8928c31442d13eec307a5e629693700339ce80bb63",
+    "fetched_at": "2026-07-12T11:09:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "59660f3cde4e8492": {
+    "url": "https://www.city.koshi.lg.jp/kiji00320336/index.html",
+    "filename": "59660f3cde4e8492.html",
+    "sha256": "686ca726669e38378af458b4ed06eb504e2cd8319a9f480c2b5836ae92912d73",
+    "fetched_at": "2026-07-12T11:10:09Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "825196ecb3eb35e7": {
+    "url": "https://www.city.koshi.lg.jp/kiji00321016/index.html",
+    "filename": "825196ecb3eb35e7.html",
+    "sha256": "734235aba41566c818a7bfe9f548915d3f0ef2378886ff56531eee2e826ed5c6",
+    "fetched_at": "2026-07-12T11:10:11Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "933bf43fe144d09c": {
+    "url": "https://www.city.koshi.lg.jp/kiji00320337/index.html",
+    "filename": "933bf43fe144d09c.html",
+    "sha256": "e22cf1b49bd18aa8f0307316d2efda7954a6a0dfc6d6004efb2309c7d8e00d65",
+    "fetched_at": "2026-07-12T11:10:13Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bf5def46ab85b7b6": {
+    "url": "https://www.city.koshi.lg.jp/kiji00320335/index.html",
+    "filename": "bf5def46ab85b7b6.html",
+    "sha256": "241ec93360cc07fbea62b10decea5e99b00d56ac1da407999b2865be8a45a52a",
+    "fetched_at": "2026-07-12T11:10:15Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d78cd9b85dd20435": {
+    "url": "https://www.city.koshi.lg.jp/kiji00320334/index.html",
+    "filename": "d78cd9b85dd20435.html",
+    "sha256": "d9ea239ab7caa83bf353f3ca076252b789ac18751ec90f072acf453376bd0038",
+    "fetched_at": "2026-07-12T11:10:17Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

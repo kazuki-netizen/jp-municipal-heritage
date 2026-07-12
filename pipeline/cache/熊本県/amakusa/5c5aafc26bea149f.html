@@ -1,0 +1,2573 @@
+﻿
+<!DOCTYPE html>
+<html lang="ja">
+<head id="ctl00_Head1"><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	市指定歴史資料 / 天草市
+</title>
+<script type="text/javascript" language="JavaScript">
+<!--
+    function enterCancel(event)
+    {
+        if (event.keyCode == 13)
+        {
+            var elem;
+            if(event.srcElement)
+            {
+                elem = event.srcElement;
+            }
+            else
+            {
+                elem = event.target;
+            }
+            if(elem.type!='submit' && elem.type!='textarea' && elem.tagName!='A' && elem.tagName!='a' && elem.tagName!='area' && elem.tagName!='AREA') /* 2011/04/04 a tag OK */
+            {
+                var useMapFlg = false;
+                if (elem.tagName == "img" || elem.tagName == "IMG") {
+                    if (elem.useMap) {
+                        useMapFlg = true;
+                    }
+                }
+                if (!useMapFlg) {
+                    if (event.preventDefault) 
+                    {
+                        event.preventDefault();
+                    } 
+                    else 
+                    {
+                        event.returnValue = false;
+                    }
+                }
+            }
+        }
+    }
+    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientShown(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="hidden";
+                });
+            }catch(err){
+            }
+        }
+    }    
+    /* Same Func is available in AjaxCalForIE6*/
+    function ajaxCalOnClientHidden(){
+        /*IE6 does not have "maxHeight"*/
+        if (typeof document.documentElement.style.maxHeight == "undefined") {
+            try{
+                $$("select").each(function(_itm){
+                    _itm.style.visibility="visible";
+                });
+            }catch(err){
+            }
+        }
+    }
+    
+    function clickButton(id, event) {
+        if (event.keyCode == 13)
+        {
+            document.getElementById(id).click();
+
+            if (event.preventDefault) 
+            {
+                event.preventDefault();
+            } 
+            else 
+            {
+                event.returnValue = false;
+            }
+        }
+    }
+    
+    function checkValue(obj) {
+        var keyword = document.getElementById(obj).value;
+
+        keyword = keyword.replace(/^[\s　]+|[\s　]$/g, "");
+        if (keyword.length == 0) {
+            alert('検索キーワードを入力してください。');
+            return false;
+        }
+
+        searchResult(keyword);
+        return false;
+    }
+//-->
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+JP:wght@100;400;500;700;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"/>
+<!-- cloudDeliverdFont start -->
+<!-- cloudDeliverdFont end -->
+<link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/default.css" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/stylesheet.css" id="css_stylesheet" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/stylesheetforsp.css" id="css_stylesheet_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/migration.css" id="css_Migration" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/hpkiji/designcss/design01.css" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/fontsizen.css" id="css_fontsize" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/uiw.css" id="css_color" rel="stylesheet" type="text/css" media="print, screen and (min-width: 481px)" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/uiw.css" id="css_color_sp" rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" /><link id="ctl00_minicalendar_css" href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/minicalendar.css" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><script id="ctl00_jquery_min_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/jquery.min.js"></script><script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/js.cookie.js"></script><script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/setcookie.js"></script><script id="ctl00_pubfunc_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/pubfunc.js"></script><script id="ctl00_jquery_rwdImageMaps_min_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/jquery.rwdimagemaps.min.js"></script><script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/jquery-ui.js"></script><script id="ctl00_jquery_easing_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/jquery.easing.1.3.js"></script><script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/jquery.scrollfollow.js"></script><script id="ctl00_floatHeader_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/floatheader.js"></script><link id="ctl00_floatHeader_css" href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/floatheader.css" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/default_body.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/keepsavepage.js"></script><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/keepsavepage.css" id="css_keepSavePage" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/stylesheet.css" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/fontsizen.css" id="css_fontsize_ie8" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/uiw.css" id="css_color_ie8" rel="stylesheet" type="text/css" /><link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/html5_block.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/html5shiv-printshiv.js"></script>
+<![endif]-->
+<script type='text/javascript'>
+var elementContainerId = "container";
+var elementPankuzuId = "pankuzu";
+var elementPankuzuInnerId = "pankuzu-inner";
+var sideboardRootUrl = "//www.city.amakusa.kumamoto.jp/dynamic/";
+var sideboardPortalDsp_flg = true;
+var sideboardPortalDspPrm = {
+"sbkbn": "1"
+}
+var sideboardTopicsDsp_flg = true;
+var sideboardTopicsDspPrm = {
+"sbkbn": "2"
+}
+var sideboardDigestDsp_flg = true;
+var sideboardDigestDspPrm = {
+"sbkbn": "3"
+}
+var sideboardCountdownDsp_flg = false;
+var sideboardCountdownKbn = "4";
+</script><script id="ctl00_web-fonts-with-css_js_all_min_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script><script id="ctl00_SideBoard_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/sideboard.js"></script><script id="ctl00_SideBoardApi_js" type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/sideboardapi.js"></script><link id="ctl00_web-fonts-with-css_css_all_min_css" href="//www.city.amakusa.kumamoto.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet" type="text/css" /><link id="ctl00_SideBoard_css" href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/sideboard.css" rel="stylesheet" type="text/css" />
+<!-- google analytics start -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBMFP1F43R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBMFP1F43R');
+  gtag('config', 'UA-52877357-1');
+</script>
+
+<!-- google analytics end -->
+<script id="ctl00_siteSearchVer2_js" type="text/javascript" src="https://www.city.amakusa.kumamoto.jp/dynamic/common/js/sitesearchver2.js"></script><meta property="og:type" content="article" /><meta id="ctl00_MetaOGPTitle" property="og:title" content="市指定歴史資料" /><meta property="og:image" content="https://www.city.amakusa.kumamoto.jp/dynamic/common/images/ogp/og_image.png" /><meta property="og:url" content="https://www.city.amakusa.kumamoto.jp/list00793.html" /><meta property="og:description" content="市指定歴史資料 / 天草市" /><meta property="og:site_name" content="天草市" /><meta property="og:locality" content="Amakusa-Shi" /><meta property="og:region" content="Kumamoto" /><meta property="og:country-name" content="Japan" /></head>
+<body class="haikei">
+
+<form name="aspnetForm" method="post" action="./list.aspx?c_id=3&amp;class_id=793&amp;class_set_id=1" id="aspnetForm" enctype="multipart/form-data" tabindex="1" onkeydown="enterCancel(event||window.event);">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CCC976A2" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAQ+GEPK51KP2GHOtVO7eParr/kCtIPg/ZD0i99J79UCIXqi3h4Wlhf4O3vFCjIILWHiw/Wl7GYxqMny95u3KwW1rSsGWwJhkV1rt0SWJ6eoUkltAeVP//Fo5gTXOmP5Otk=" />
+</div>
+
+<div class="Navigation"><ul><li><a href="#GlobalNavigationBlock" tabindex="1">ヘッダーをスキップ</a></li><li><a href="#mainBlock" tabindex="1">本文へジャンプ</a></li></ul></div>
+
+
+
+
+<!-- allheader start  -->
+
+<!--[if lt IE 9]>
+<link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<span id="top"></span>
+<link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/header/top1.css" rel="stylesheet" type="text/css" /><div id="headerArea">
+	
+<link href="//www.city.amakusa.kumamoto.jp/dynamic/common/web-fonts-with-css/css/all.min.css" rel="stylesheet">
+<script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/web-fonts-with-css/js/all.min.js"></script>
+<script>
+    jQuery.noConflict();
+
+
+    //　ナビゲーションメニュー開閉
+    function nabiMenuOpneClose() {
+        window.scrollTo(0, 0);
+        jQuery("#top_mokuteki").toggleClass("active");
+        jQuery("#overlay").toggleClass("open");
+        if (jQuery("#top_mokuteki").hasClass("active")) {
+            jQuery("body").addClass("no-scroll");
+            //jQuery("#top_mokuteki").addClass("active");
+            jQuery(".top_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("no-scroll");
+            //jQuery("#top_mokuteki").removeClass("active");
+            jQuery(".top_head_wp").removeClass("active");
+        }
+    };
+
+    //　検索用メニュー開閉
+    function searchMenuOpneClose() {
+        window.scrollTo(0, 0);
+        jQuery("#top_searchMenu").toggleClass("active");
+        jQuery("#searchMenu_overlay").toggleClass("open");
+        if (jQuery("#top_searchMenu").hasClass("active")) {
+            jQuery("body").addClass("no-scroll");
+            jQuery(".searchMenu_wp").addClass("active");
+            jQuery("#searchMenu_overlay .search_area input").focus();
+            jQuery("#searchMenu_overlay .search_area .searchBox").focus();
+        } else {
+            jQuery("body").removeClass("no-scroll");
+            jQuery(".searchMenu_wp").removeClass("active");
+        }
+    };
+
+    //　アクセシビリティメニュー開閉
+    function accMenuOpneClose() {
+        jQuery("#accessibility").toggleClass("active");
+        jQuery("#overlay_acc").toggleClass("open");       
+        if (jQuery("#accessibility").hasClass("active")) {
+            jQuery("body").addClass("scroll");
+            jQuery(".acce_head_wp").addClass("active");
+        } else {
+            jQuery("body").removeClass("scroll");
+            jQuery(".acce_head_wp").removeClass("active");
+        }
+    };
+    jQuery(function () {
+        jQuery(document).on('click', function (e) {
+            if (!jQuery(e.target).closest('#acc').length && !jQuery(e.target).closest('#accessibility').length) {
+                // 外側をクリックした場合
+                if (jQuery("#accessibility").hasClass("active")) {
+                    // メニューが開いている場合
+                    // メニューを閉じる
+                    jQuery("#accessibility").removeClass("active");
+                    jQuery("#overlay_acc").removeClass("open");
+                    jQuery("body").removeClass("scroll");
+                    jQuery(".acce_head_wp").removeClass("active");
+                }
+            }
+        });
+    });
+
+</script>
+
+
+<div class="clear"></div>
+<div id="headerAreaDef">
+    <div class="stripe"></div>
+    <input type="submit" name="ctl00$ctl35$Dmy" value="" onclick="return false;" id="ctl00_ctl35_Dmy" style="height:0px;width:0px;position: absolute; top: -100px;" />
+    <!-- rect start -->
+    <map id="header_img" name="header_img">
+        <area shape="rect" alt="天草市トップへ" coords="1,3,509,105" href="https://www.city.amakusa.kumamoto.jp/default.html" />
+    </map>
+    <!-- rect end -->
+
+    
+
+    <div id="header">
+        <div id="hd_header_SP"><a href="https://www.city.amakusa.kumamoto.jp/default.html"><img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/headerimgm/head_sp.png" alt="日本の宝島 天草市" title=""></a></div>
+
+        <!-- header start -->
+        <h1 id="hd_header">
+            <img id="imgHeader" usemap="#header_img" alt="" src="//www.city.amakusa.kumamoto.jp/common/upload/common/0_6_header_tthrs7i6.png" alt="日本の宝島　天草市" style="border-width:0px;" />
+            
+
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+
+    function dspGlobalMenu() {
+        var menuDiv = document.getElementById("naviContainerSP");
+        var img = document.getElementById("menuImg");
+        if (menuDiv.style.display == "block") {
+            closeGlobalMenu();
+        } else {
+            menuDiv.style.display = "block";
+                //img.src = "//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/hb_close.png";
+            }
+        }
+
+        function closeGlobalMenu() {
+            var menuDiv = document.getElementById("naviContainerSP");
+            var img = document.getElementById("menuImg");
+            if (menuDiv.style.display == "block") {
+                menuDiv.style.display = "none";
+            //img.src = "//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/hb_open.png";
+        }
+    }
+
+    jQuery("#menuImg").click(function () {
+        jQuery("#menuImg").toggleClass('active');
+        dspGlobalMenu();
+    });
+});
+</script>
+
+
+    <div id="headMenu">
+        <div id="menuImg" class="openbtn"><span></span><span></span><span></span></div>
+    </div>
+    
+    <!-- メニュー -->
+    <div id="naviContainerSP" style="display:none;">
+        <div class="naviAreaSP_upper"></div>
+        <div id="naviAreaSP">
+            <ul id="navi_listSP">
+                    <li class="navi_tab  " id="navi_tabSP_601">
+                        <div>
+                            <a href="//www.city.amakusa.kumamoto.jp/list00601.html">
+                                
+                                <p>くらし・手続き</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_602">
+                        <div>
+                            <a href="//www.city.amakusa.kumamoto.jp/list00602.html">
+                                
+                                <p>健康・福祉</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_603">
+                        <div>
+                            <a href="//www.city.amakusa.kumamoto.jp/list00603.html">
+                                
+                                <p>子育て・教育</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab now " id="navi_tabSP_604">
+                        <div>
+                            <a href="//www.city.amakusa.kumamoto.jp/list00604.html">
+                                
+                                <p>観光・産業・しごと</p>
+                            </a>
+                        </div>
+                     </li>
+                
+                    <li class="navi_tab  " id="navi_tabSP_605">
+                        <div>
+                            <a href="//www.city.amakusa.kumamoto.jp/list00605.html">
+                                
+                                <p>市に関する情報</p>
+                            </a>
+                        </div>
+                     </li>
+                </ul>
+
+            
+                    <ul id="asc_navi_listSP">
+                        <li><a href="https://www.city.amakusa.kumamoto.jp/dynamic/asc/entry/pub/default.aspx?c_id=40">大会・合宿お問合せ</a></li>
+                        <li><a href="https://www.city.amakusa.kumamoto.jp/kiji0035713/index.html">補助金の手続き</a></li>
+                        <li><a href="https://www.city.amakusa.kumamoto.jp/dynamic/asc/entry/pub/default.aspx?c_id=41">協力・参加者募集フォーム</a></li>
+                        <li class="border_none"><a href="https://www2.city.amakusa.kumamoto.jp/shisetuyoyaku/content/asp/default.asp">スポーツ施設検索・予約</a></li>
+                    </ul>
+
+
+            <ul id="shiyuuzaisan_navi_listSP">
+                        <li><a href="https://www.city.amakusa.kumamoto.jp/dynamic//shiyuzaisan/entry/pub/default.aspx?c_id=48"><img src="https://www.city.amakusa.kumamoto.jp/dynamic//shiyuzaisan/common/images/shiyuzaisan/icon_otoiawase.png" alt=" " title="">お問い合わせ</a></li>
+                        
+                    </ul>
+
+        </div>
+    </div>
+
+        </h1>
+        
+        <div class="SP_search"><a id="toggle" href="javascript:void(0)" onclick="javascript:searchMenuOpneClose();" tabindex="1" aria-label="検索"><i class="fa-solid fa-magnifying-glass my-blue"></i></a></div>
+        <!-- header end -->
+    <div id="headerMenu">
+        <div class="Flang">
+            <!-- foreign language start -->
+            
+<script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        // メニュー用
+        jQuery('.select-box01 #normal a').focus(function () {
+            jQuery(this).siblings('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).siblings('.sub-menu').removeClass('focused');
+        });
+
+        // サブメニュー用
+        jQuery('.sub-menu a').focus(function () {
+            jQuery(this).parents('.sub-menu').addClass('focused');
+        }).blur(function () {
+            jQuery(this).parents('.sub-menu').removeClass('focused');
+        });
+    });
+</script>
+
+<!-- 翻訳メニュー -->
+<div class="select-box01" tabIndex="-1">
+    <ul id="normal" class="dropmenu" tabIndex="-1">
+        <li><a lang="en" href="#" class="topmenu" tabindex="1"><i class="fas fa-globe my-blue"></i> Foreign Language</a>
+            <ul class="sub-menu">
+                <li><a translate="no" lang="en" href="https://www-city-amakusa-kumamoto-jp-e.athp.transer.com/list00793.html" target="_blank" class="topsub" tabindex="1">English&nbsp;<img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/newwin.gif" alt="Open in a new window" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://www-city-amakusa-kumamoto-jp-c.athp.transer.com/list00793.html" target="_blank" tabindex="1">中文(简化字)&nbsp;<img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/newwin.gif" alt="在新视窗中开启" title=""></a></li>
+                <li><a translate="no" lang="zh" href="https://www-city-amakusa-kumamoto-jp-t.athp.transer.com/list00793.html" target="_blank" tabindex="1">中文(繁體字)&nbsp;<img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/newwin.gif" alt="在新視窗中開啟" title=""></a></li>
+                <li><a translate="no" lang="ko" href="https://www-city-amakusa-kumamoto-jp-k.athp.transer.com/list00793.html" target="_blank" tabindex="1">한국어&nbsp;<img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/newwin.gif" alt="다른 창으로 엽니 다" title=""></a></li>
+                
+            </ul>
+        </li>
+    </ul>
+</div>
+
+            <!-- foreign language end -->
+        </div>
+        <div class="accessibility"><a id="acc" href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1">アクセシビリティ</a></div>
+        <div class="opening"><a href="//www.city.amakusa.kumamoto.jp/index.html"><i class="fas fa-reply fa-lg my-blue fa-lg"></i> オープニング</a></div>
+        <div class="bousai"><a href="//www.city.amakusa.kumamoto.jp/bousai/default.html"><img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/btn_bousai.png" alt="防災"　title=""></a></div>
+
+                <div class="head_search">
+            
+                    
+                    
+<div name="searchver2-input" class="searchver2-input" data-api_url="https://amakusasearch.kumamoto-net.ne.jp/public_api/"><!--フォームの表示箇所--></div>
+                
+        </div>
+
+
+        <div class="clear"></div>
+    </div>
+    <!-- グローバルナビゲーション -->
+    <div id="GlobalNavigationBlock" tabindex="1">
+        <div class="Navigation">
+            <ul>
+                <li><a href="#mainContent" tabindex="1">グローバルナビゲーションをスキップ</a></li>
+            </ul>
+        </div>
+        <!-- global navigation start -->
+        
+
+<script type="text/javascript">
+    var open_id = "";
+    var leave_exe_flg = true;
+    jQuery.noConflict();
+    jQuery(function () {
+
+        var setPopNaviArea,setHideNaviArea;
+
+        jQuery("li.navi_tab,ul.g_navi").on({
+            'mouseenter': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                if(leave_exe_flg || open_id != id) 
+                {
+                    clearTimeout(setHideNaviArea);
+
+                    setPopNaviArea = setTimeout(function () {
+                        jQuery("li.navi_tab").each(function () {
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                            (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                        });
+                        jQuery("ul.g_navi").each(function () {
+                            (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                        });
+                        open_id = id; 
+                    }, 400); 
+                }
+                else
+                {
+                    if(!leave_exe_flg && jQuery(this).attr("id") == "navi_tab_" + id)
+                    {
+                        closePopMenu(id);
+                    }
+                }
+            },
+            'mouseleave': function () {
+                if(!leave_exe_flg)
+                {
+                    return false;
+                }
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                    open_id = "";
+                }, 50);
+            },
+
+            'focusin': function () {
+
+                var id = jQuery(this).attr("id");
+
+                if (jQuery(this).hasClass("navi_tab")) {
+                    id = id.replace("navi_tab_", "");
+                } else if (jQuery(this).hasClass("g_navi")) {
+                    id = id.replace("g_navi_", "");
+                }
+
+                clearTimeout(setHideNaviArea);
+
+                setPopNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").each(function () {
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("sankaku") : jQuery(this).removeClass("sankaku");
+                        (jQuery(this).attr("id") == "navi_tab_" + id) ? jQuery(this).addClass("selected") : jQuery(this).removeClass("selected");
+                    });
+                    jQuery("div.g_navi").each(function () {
+                        (jQuery(this).attr("id") == "g_navi_" + id) ? jQuery(this).show() : jQuery(this).hide();
+                    });
+                }, 1);
+            },
+            'focusout': function () {
+
+                clearTimeout(setPopNaviArea);
+
+                setHideNaviArea = setTimeout(function () {
+                    jQuery("li.navi_tab").removeClass("sankaku");
+                    jQuery("li.navi_tab").removeClass("selected");
+                    jQuery("ul.g_navi").hide();
+                }, 1);
+            }
+        });
+
+        if (jQuery("#globalNavigationData").length) {
+            var classid = jQuery("#globalNavigationData").attr("data-classid");
+            var parentid = jQuery("#globalNavigationData").attr("data-parentid");
+            var topid = jQuery("#globalNavigationData").attr("data-topid");
+
+            jQuery('[data-global="' + classid + '"]').addClass("now");
+            if (parentid > 0) {
+                jQuery('[data-ul-global="' + parentid + '"]').show();
+            }
+            if (topid > 0) {
+                jQuery('[data-global="' + topid + '"]').addClass("now");
+            }
+        }
+    });
+    function openCMenu(targetid)
+    {
+        jQuery("ul.childmenu").each(function () {
+            var parentid = jQuery(this).attr("data-ul-global");
+            if(parentid == targetid)
+            {
+                jQuery(this).toggle();
+            }
+            else
+            {
+                jQuery(this).hide()
+            }
+        });
+    }
+    function closePopMenu(targetid)
+    {
+        setTimeout(function () {
+            jQuery("li#navi_tab_" + targetid).removeClass("sankaku");
+            jQuery("li#navi_tab_" + targetid).removeClass("selected");
+            jQuery("ul#g_navi_" + targetid).hide();
+            open_id = "";
+        }, 10);
+    }
+
+    jQuery(window).on('load', function () {
+        var nvObj = jQuery('#naviContainer');
+        var setMaxHeight = jQuery(window).innerHeight() - (nvObj.offset().top + nvObj.outerHeight(true) + 5);
+        //console.log('setMaxHeight=' + setMaxHeight);
+        jQuery('#popNaviArea ul.g_navi').each(function () {
+            jQuery(this).css('max-height', setMaxHeight + 'px');
+            jQuery(this).css('overflow-y', 'auto');
+        });
+    });
+
+</script>
+
+
+    <div id="naviContainer">
+        <div id="naviArea">
+    <ul id="navi_list">
+            <li class="navi_tab  " id="navi_tab_601"
+                data-global="601">
+                <div>
+                    <a href="//www.city.amakusa.kumamoto.jp/list00601.html" tabindex="10" >
+                        <p id="navi_tab_text_601">くらし・手続き</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_602"
+                data-global="602">
+                <div>
+                    <a href="//www.city.amakusa.kumamoto.jp/list00602.html" tabindex="49" >
+                        <p id="navi_tab_text_602">健康・福祉</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_603"
+                data-global="603">
+                <div>
+                    <a href="//www.city.amakusa.kumamoto.jp/list00603.html" tabindex="69" >
+                        <p id="navi_tab_text_603">子育て・教育</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  " id="navi_tab_604"
+                data-global="604">
+                <div>
+                    <a href="//www.city.amakusa.kumamoto.jp/list00604.html" tabindex="102" >
+                        <p id="navi_tab_text_604">観光・産業・しごと</p>
+                    </a>
+                </div>
+             </li>
+        
+            <li class="navi_tab  navi_tab_last" id="navi_tab_605"
+                data-global="605">
+                <div>
+                    <a href="//www.city.amakusa.kumamoto.jp/list00605.html" tabindex="134" >
+                        <p id="navi_tab_text_605">市に関する情報</p>
+                    </a>
+                </div>
+             </li>
+        </ul>
+        </div>
+    
+        <div id="popNaviArea">
+        
+            <ul class="g_navi " id="g_navi_601" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="606">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00606.html" tabindex="11" >届出・各種証明</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="606">
+                        
+                        
+                                <li
+                                    data-global="635">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00635.html" tabindex="12" >戸籍・住民登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="636">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00636.html" tabindex="13" >住所変更（転出入・転居）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="638">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00638.html" tabindex="14" >証明書の発行・印鑑登録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="639">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00639.html" tabindex="15" >マイナンバー</a>
+                                </li>
+                            
+                                <li
+                                    data-global="640">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00640.html" tabindex="16" >パスポート</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1605">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01605.html" tabindex="17" >電子申請</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="607">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00607.html" tabindex="18" >税金</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="607">
+                        
+                        
+                                <li
+                                    data-global="641">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00641.html" tabindex="19" >市民税・固定資産税など</a>
+                                </li>
+                            
+                                <li
+                                    data-global="642">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00642.html" tabindex="20" >証明書の発行</a>
+                                </li>
+                            
+                                <li
+                                    data-global="643">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00643.html" tabindex="21" >納付方法</a>
+                                </li>
+                            
+                                <li
+                                    data-global="644">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00644.html" tabindex="22" >ふるさと納税（ふるさと応援寄附）</a>
+                                </li>
+                            
+                                <li
+                                    data-global="645">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00645.html" tabindex="23" >相談</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="608">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00608.html" tabindex="24" >住まい・生活・環境</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="608">
+                        
+                        
+                                <li
+                                    data-global="646">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00646.html" tabindex="25" >住宅・土地・景観</a>
+                                </li>
+                            
+                                <li
+                                    data-global="647">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00647.html" tabindex="26" >道路・上下水道・河川港湾</a>
+                                </li>
+                            
+                                <li
+                                    data-global="648">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00648.html" tabindex="27" >公共施設・公有財産</a>
+                                </li>
+                            
+                                <li
+                                    data-global="649">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00649.html" tabindex="28" >動物・ペット</a>
+                                </li>
+                            
+                                <li
+                                    data-global="650">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00650.html" tabindex="29" >ごみ・衛生</a>
+                                </li>
+                            
+                                <li
+                                    data-global="651">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00651.html" tabindex="30" >移住・定住</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="609">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00609.html" tabindex="31" >まちづくり・防災</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="609">
+                        
+                        
+                                <li
+                                    data-global="652">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00652.html" tabindex="32" >地域づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="653">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00653.html" tabindex="33" >市民活動</a>
+                                </li>
+                            
+                                <li
+                                    data-global="654">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00654.html" tabindex="34" >交通安全・防犯</a>
+                                </li>
+                            
+                                <li
+                                    data-global="655">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00655.html" tabindex="35" >公共交通</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1538">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01538.html" tabindex="36" >相談・消費生活センター</a>
+                                </li>
+                            
+                                <li
+                                    data-global="656">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00656.html" tabindex="37" >防災・防災サイト</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="610">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00610.html" tabindex="38" >生涯学習</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="610">
+                        
+                        
+                                <li
+                                    data-global="657">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00657.html" tabindex="39" >男女共同参画・人権</a>
+                                </li>
+                            
+                                <li
+                                    data-global="658">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00658.html" tabindex="40" >図書館</a>
+                                </li>
+                            
+                                <li
+                                    data-global="659">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00659.html" tabindex="41" >公民館</a>
+                                </li>
+                            
+                                <li
+                                    data-global="660">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00660.html" tabindex="42" >社会教育施設</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1612">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01612.html" tabindex="43" >博物館</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="611">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00611.html" tabindex="44" >スポーツ</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="611">
+                        
+                        
+                                <li
+                                    data-global="661">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00661.html" tabindex="45" >体育施設</a>
+                                </li>
+                            
+                                <li
+                                    data-global="662">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00662.html" tabindex="46" >大会・合宿誘致</a>
+                                </li>
+                            
+                                <li
+                                    data-global="663">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00663.html" tabindex="47" >大会出場者・補助金</a>
+                                </li>
+                            
+                                <li
+                                    data-global="664">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00664.html" tabindex="48" >スポーツイベント</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_602" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="612">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00612.html" tabindex="50" >健康保険・年金</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="612">
+                        
+                        
+                                <li
+                                    data-global="665">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00665.html" tabindex="51" >国民健康保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="666">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00666.html" tabindex="52" >後期高齢者医療</a>
+                                </li>
+                            
+                                <li
+                                    data-global="667">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00667.html" tabindex="53" >国民年金</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="613">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00613.html" tabindex="54" >福祉・介護</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="613">
+                        
+                        
+                                <li
+                                    data-global="668">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00668.html" tabindex="55" >高齢者支援・介護保険</a>
+                                </li>
+                            
+                                <li
+                                    data-global="670">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00670.html" tabindex="56" >障がい者支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="671">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00671.html" tabindex="57" >生活支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="672">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00672.html" tabindex="58" >地域支援</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="614">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00614.html" tabindex="59" >医療・病院</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="614">
+                        
+                        
+                                <li
+                                    data-global="673">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00673.html" tabindex="60" >救急・休日在宅医</a>
+                                </li>
+                            
+                                <li
+                                    data-global="674">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00674.html" tabindex="61" >病院・診療所</a>
+                                </li>
+                            
+                                <li
+                                    data-global="675">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00675.html" tabindex="62" >感染症の情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1726">
+                                    
+                                    <a href="https://www.city.amakusa.kumamoto.jp/amakusahp/" tabindex="63" target="_blank">天草市立病院のホームページ&nbsp;<img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="615">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00615.html" tabindex="64" >大人の健診・予防接種</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="615">
+                        
+                        
+                                <li
+                                    data-global="677">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00677.html" tabindex="65" >健康づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="678">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00678.html" tabindex="66" >健康診断</a>
+                                </li>
+                            
+                                <li
+                                    data-global="679">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00679.html" tabindex="67" >予防接種</a>
+                                </li>
+                            
+                                <li
+                                    data-global="680">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00680.html" tabindex="68" >健康相談</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_603" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="616">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00616.html" tabindex="70" >妊娠・出産</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="616">
+                        
+                        
+                                <li
+                                    data-global="681">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00681.html" tabindex="71" >母子健康手帳</a>
+                                </li>
+                            
+                                <li
+                                    data-global="682">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00682.html" tabindex="72" >産前・産後ケア</a>
+                                </li>
+                            
+                                <li
+                                    data-global="683">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00683.html" tabindex="73" >出産育児一時金などの手当・助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="684">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00684.html" tabindex="74" >不妊治療</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="617">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00617.html" tabindex="75" >乳幼児（０～６歳）</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="617">
+                        
+                        
+                                <li
+                                    data-global="685">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00685.html" tabindex="76" >0～2歳</a>
+                                </li>
+                            
+                                <li
+                                    data-global="686">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00686.html" tabindex="77" >３～５歳</a>
+                                </li>
+                            
+                                <li
+                                    data-global="687">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00687.html" tabindex="78" >保育園・幼稚園</a>
+                                </li>
+                            
+                                <li
+                                    data-global="688">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00688.html" tabindex="79" >子育て情報</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="618">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00618.html" tabindex="80" >小・中学校</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="618">
+                        
+                        
+                                <li
+                                    data-global="689">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00689.html" tabindex="81" >小学校・中学校</a>
+                                </li>
+                            
+                                <li
+                                    data-global="690">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00690.html" tabindex="82" >学校給食</a>
+                                </li>
+                            
+                                <li
+                                    data-global="691">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00691.html" tabindex="83" >就学援助などの助成制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="692">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00692.html" tabindex="84" >就学支援・就学手続</a>
+                                </li>
+                            
+                                <li
+                                    data-global="693">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00693.html" tabindex="85" >学童保育・児童クラブ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="694">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00694.html" tabindex="86" >教育委員会</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="619">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00619.html" tabindex="87" >高校・専門学校・大学</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="619">
+                        
+                        
+                                <li
+                                    data-global="695">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00695.html" tabindex="88" >高等学校</a>
+                                </li>
+                            
+                                <li
+                                    data-global="696">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00696.html" tabindex="89" >本渡看護専門学校</a>
+                                </li>
+                            
+                                <li
+                                    data-global="697">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00697.html" tabindex="90" >大学連携</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="620">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00620.html" tabindex="91" >子どもの健診・予防接種</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="620">
+                        
+                        
+                                <li
+                                    data-global="698">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00698.html" tabindex="92" >健康づくり</a>
+                                </li>
+                            
+                                <li
+                                    data-global="699">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00699.html" tabindex="93" >健康診断</a>
+                                </li>
+                            
+                                <li
+                                    data-global="700">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00700.html" tabindex="94" >予防接種</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="621">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00621.html" tabindex="95" >子育て支援</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="621">
+                        
+                        
+                                <li
+                                    data-global="701">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00701.html" tabindex="96" >相談・各種制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="702">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00702.html" tabindex="97" >ひとり親家庭</a>
+                                </li>
+                            
+                                <li
+                                    data-global="703">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00703.html" tabindex="98" >子どもの発育・発達</a>
+                                </li>
+                            
+                                <li
+                                    data-global="704">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00704.html" tabindex="99" >児童手当などの手当・助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1546">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01546.html" tabindex="100" >障がいのある子どもへの支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1547">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01547.html" tabindex="101" >子どもの居場所・関係団体</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_604" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="622">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00622.html" tabindex="103" >観光情報</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="622">
+                        
+                        
+                                <li
+                                    data-global="705">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00705.html" tabindex="104" >観光情報・イベント</a>
+                                </li>
+                            
+                                <li
+                                    data-global="706">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00706.html" tabindex="105" >観光施設</a>
+                                </li>
+                            
+                                <li
+                                    data-global="707">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00707.html" tabindex="106" >世界遺産</a>
+                                </li>
+                            
+                                <li
+                                    data-global="708">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00708.html" tabindex="107" >パンフレット・ガイドブック</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1672">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01672.html" tabindex="108" >天草フィルムコミッション</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="623">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00623.html" tabindex="109" >歴史・文化</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="623">
+                        
+                        
+                                <li
+                                    data-global="1548">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01548.html" tabindex="110" >文化・芸術施設</a>
+                                </li>
+                            
+                                <li
+                                    data-global="709">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00709.html" tabindex="111" >文化財）指定種別から見る</a>
+                                </li>
+                            
+                                <li
+                                    data-global="710">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00710.html" tabindex="112" >文化財）指定区分から見る</a>
+                                </li>
+                            
+                                <li
+                                    data-global="711">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00711.html" tabindex="113" >文化財）地域から見る</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="624">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00624.html" tabindex="114" >農林水産業</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="624">
+                        
+                        
+                                <li
+                                    data-global="712">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00712.html" tabindex="115" >農業・林業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="713">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00713.html" tabindex="116" >水産業</a>
+                                </li>
+                            
+                                <li
+                                    data-global="714">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00714.html" tabindex="117" >就農・就業支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="715">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00715.html" tabindex="118" >補助金・助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="716">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00716.html" tabindex="119" >農業委員会</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="625">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00625.html" tabindex="120" >商工業</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="625">
+                        
+                        
+                                <li
+                                    data-global="717">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00717.html" tabindex="121" >支援・制度</a>
+                                </li>
+                            
+                                <li
+                                    data-global="718">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00718.html" tabindex="122" >補助金・助成</a>
+                                </li>
+                            
+                                <li
+                                    data-global="719">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00719.html" tabindex="123" >商工業振興</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="626">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00626.html" tabindex="124" >企業誘致・雇用・労働</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="626">
+                        
+                        
+                                <li
+                                    data-global="721">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00721.html" tabindex="125" >企業誘致</a>
+                                </li>
+                            
+                                <li
+                                    data-global="722">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00722.html" tabindex="126" >就労・雇用支援</a>
+                                </li>
+                            
+                                <li
+                                    data-global="723">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00723.html" tabindex="127" >人材育成講座</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="627">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00627.html" tabindex="128" >入札・契約</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="627">
+                        
+                        
+                                <li
+                                    data-global="724">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00724.html" tabindex="129" >発注予定・入札結果</a>
+                                </li>
+                            
+                                <li
+                                    data-global="725">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00725.html" tabindex="130" >公募型指名競争入札・プロポーザル情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="726">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00726.html" tabindex="131" >工事等の入札・契約関係</a>
+                                </li>
+                            
+                                <li
+                                    data-global="727">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00727.html" tabindex="132" >物品・業務委託等の入札・契約情報</a>
+                                </li>
+                            
+                                <li
+                                    data-global="728">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00728.html" tabindex="133" >各種規定</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+            <ul class="g_navi " id="g_navi_605" style="display:none;">
+            
+            
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="628">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00628.html" tabindex="135" >市の紹介</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="628">
+                        
+                        
+                                <li
+                                    data-global="729">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00729.html" tabindex="136" >市の概要</a>
+                                </li>
+                            
+                                <li
+                                    data-global="730">
+                                    
+                                    <a href="https://www.city.amakusa.kumamoto.jp/kiji0036068/index.html" tabindex="137" >交通アクセス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="731">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00731.html" tabindex="138" >統計データ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="732">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00732.html" tabindex="139" >姉妹都市・友好都市</a>
+                                </li>
+                            
+                                <li
+                                    data-global="733">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00733.html" tabindex="140" >組織機構</a>
+                                </li>
+                            
+                                <li
+                                    data-global="734">
+                                    
+                                    <a href="http://www2.city.amakusa.kumamoto.jp/reiki/reiki_menu.html" tabindex="141" target="_blank">例規集&nbsp;<img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="629">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00629.html" tabindex="142" >市長室</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="629">
+                        
+                        
+                                <li
+                                    data-global="735">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00735.html" tabindex="143" >市長メッセージ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="736">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00736.html" tabindex="144" >市長プロフィール</a>
+                                </li>
+                            
+                                <li
+                                    data-global="737">
+                                    
+                                    <a href="https://www2.city.amakusa.kumamoto.jp/migration/intraschedule/pub/default.asp?c_id=85" tabindex="145" target="_blank">市長のスケジュール&nbsp;<img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/newwin_navi.gif" alt="別ウインドウで開きます" title="" /></a>
+                                </li>
+                            
+                                <li
+                                    data-global="738">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00738.html" tabindex="146" >施政方針</a>
+                                </li>
+                            
+                                <li
+                                    data-global="739">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00739.html" tabindex="147" >活動報告・記者会見</a>
+                                </li>
+                            
+                                <li
+                                    data-global="740">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00740.html" tabindex="148" >交際費</a>
+                                </li>
+                            
+                                <li
+                                    data-global="1671">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01671.html" tabindex="149" >市長コラム（広報紙に毎月掲載）</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="630">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00630.html" tabindex="150" >市議会</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="630">
+                        
+                        
+                                <li
+                                    data-global="1552">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list01552.html" tabindex="151" >天草市議会</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="631">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00631.html" tabindex="152" >施策・計画・財政</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="631">
+                        
+                        
+                                <li
+                                    data-global="747">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00747.html" tabindex="153" >計画・施策</a>
+                                </li>
+                            
+                                <li
+                                    data-global="748">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00748.html" tabindex="154" >予算・決算</a>
+                                </li>
+                            
+                                <li
+                                    data-global="749">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00749.html" tabindex="155" >財政状況</a>
+                                </li>
+                            
+                                <li
+                                    data-global="750">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00750.html" tabindex="156" >指定管理者制度</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="632">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00632.html" tabindex="157" >広報・広聴・広報紙</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="632">
+                        
+                        
+                                <li
+                                    data-global="751">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00751.html" tabindex="158" >トピックス</a>
+                                </li>
+                            
+                                <li
+                                    data-global="752">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00752.html" tabindex="159" >お問い合わせ</a>
+                                </li>
+                            
+                                <li
+                                    data-global="753">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00753.html" tabindex="160" >情報公開・各種会議記録</a>
+                                </li>
+                            
+                                <li
+                                    data-global="754">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00754.html" tabindex="161" >市政だより天草</a>
+                                </li>
+                            
+                                <li
+                                    data-global="755">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00755.html" tabindex="162" >公式SNS</a>
+                                </li>
+                            
+                                <li
+                                    data-global="756">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00756.html" tabindex="163" >パブリックコメント</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="633">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00633.html" tabindex="164" >監査・選挙</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="633">
+                        
+                        
+                                <li
+                                    data-global="757">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00757.html" tabindex="165" >監査</a>
+                                </li>
+                            
+                                <li
+                                    data-global="758">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00758.html" tabindex="166" >選挙</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="navi_child ">
+                        <h3 class="navi_child_name " data-global="634">
+                            
+                            <a href="//www.city.amakusa.kumamoto.jp/list00634.html" tabindex="167" >採用・募集</a>
+                        </h3>
+                        <ul class="childmenu" data-ul-global="634">
+                        
+                        
+                                <li
+                                    data-global="759">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00759.html" tabindex="168" >職員採用</a>
+                                </li>
+                            
+                                <li
+                                    data-global="760">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00760.html" tabindex="169" >会計年度任用職員採用</a>
+                                </li>
+                            
+                                <li
+                                    data-global="761">
+                                    
+                                    <a href="//www.city.amakusa.kumamoto.jp/list00761.html" tabindex="170" >その他募集</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+            </ul>
+        
+        </div>
+        
+    </div>
+
+<input type="hidden" name="ctl00$ctl35$GlobalNavigation$HidErrMsg" id="ctl00_ctl35_GlobalNavigation_HidErrMsg" />
+
+        <div id="globalNavigationData" data-classid="" data-parentid="" data-topid=""></div>
+        <div id="ctl00_ctl35_globalNavigationData"></div>
+        <!-- global navigation end -->
+    </div>
+            <div class="clear"></div>
+    <a name="mainContent"></a>
+
+
+    </div>
+
+    <div class="clear"></div>
+    <!-- アクセシビリティメニュー start -->
+    <div id="accessibility">
+        <div class="acce_head_wp">
+            <div class="overlay_acc" id="overlay_acc">
+                <div id="accmenu_close">
+                    <div><a href="javascript:void(0)" onclick="javascript:accMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-3x"></i></span></a></div>
+                </div>
+                <div class="acc_wp clearfix">
+                    <div id="mainFontSizeSel">
+                        <span>文字サイズ変更</span>
+                        <a href="#top" data-select="拡大" onclick="change_size('fontSizeB')" tabindex="1">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/white-mozi-l.gif" alt="拡大" title="" /></a><a href="#top" data-select="標準" onclick="change_size('fontSizeN')" tabindex="1"><img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/white-mozi-m.gif" alt="標準" title="" /></a>
+                    </div>
+                    <div id="changeHaikei">
+                        <span>背景色変更</span>
+                        <a href="#top" data-select="B" onclick="changeSiteIro('B')" tabindex="1">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/udbtn_blue.gif" alt="青" title="" /></a><a href="#top" data-select="K" onclick="changeSiteIro('K')" tabindex="1"><img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/udbtn_black.gif" alt="黒" title="" /></a><a href="#top" data-select="W" onclick="changeSiteIro('W')" tabindex="1"><img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/udbtn_white.gif" alt="白" title="" /></a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<!-- ナビゲーションメニュー start -->
+<div id="top_mokuteki">
+    <div class="top_head_wp">
+        <div class="overlay" id="overlay">
+            <div id="navimenu_close">
+                <div><a href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1" aria-label="閉じる"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+            </div>
+            <div class="mokuteki_wrap">
+                <div class="mokuteki_title"><h2 class="mokuteki_wp_title mokuteki_tit_icon04"><i class="fa-solid fa-flag"></i>&nbsp;&nbsp;目的から探す</h2></div>
+                <div class="mokuteki_menu">
+                    <div class="search_area">
+                        
+                                
+                                
+<div name="searchver2-input" class="searchver2-input" data-api_url="https://amakusasearch.kumamoto-net.ne.jp/public_api/"><!--フォームの表示箇所--></div>
+                                                           
+                        <br />
+                        <a href="//www.city.amakusa.kumamoto.jp/list01574.html"><i class="fas fa-angle-right fa-fw my-white"></i> 情報が見つからないときは</a>
+                    </div>
+                    <div class="mokuteki_btn_area">
+                        <a href="//www.city.amakusa.kumamoto.jp/classset002.html"><div class="mokuteli_btn"><i class="fas fa-users fa-2x"></i><br />組織から探す</div></a>
+                        <a href="//www.city.amakusa.kumamoto.jp/sitemap.html"><div class="mokuteli_btn"><i class="fas fa-sitemap fa-2x"></i><br />サイトマップから探す</div></a>
+                        <a href="//www.city.amakusa.kumamoto.jp/classset001.html"><div class="mokuteli_btn"><i class="far fa-folder-open fa-2x"></i><br />分類から探す</div></a>
+                    </div>
+                </div>
+                <div class="life_wrap">
+                    <div class="mokuteki_title01"><h3><i class="fas fa-bookmark"></i>&nbsp;&nbsp;ライフイベントから探す</h3></div>
+             <div class="life_eventArea">
+                <ul id="life_mokuteki">
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00301.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item01.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>妊娠・出産</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00302.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item02.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>育児</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00303.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item03.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>教育</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00304.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item04.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>仕事</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00305.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item05.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>結婚・離婚</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00306.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item06.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>引越し</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00307.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item07.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>住まい</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00308.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item08.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>障がい・介護</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00309.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item09.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>事故・病気</a>
+                    </li>
+                    <li>
+                        <a href="//www.city.amakusa.kumamoto.jp/list00310.html">
+                            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/life_item10.png" alt=" " title=""><br />
+                            <i class="fas fa-arrow-circle-right fa-fw"></i>おくやみ</a>
+                    </li>
+                </ul>
+
+                <div class="clear"></div>
+            </div>
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+
+
+
+<div id="top_searchMenu">
+    <div class="searchMenu_wp">
+        <div id="searchMenu_overlay" class="overlay">
+            <div id="searchMenu_close">
+                <div><a href="javascript:void(0)" onclick="javascript:searchMenuOpneClose();" tabindex="1"><span><i class="far fa-window-close fa-2x"></i></span></a></div>
+            </div>
+            <div class="searchMenu_wrap">
+                <div class="searchMenu_title">何をお探しですか？</div>
+                <div class="search_area">
+                    
+                            
+                            
+<div name="searchver2-input" class="searchver2-input" data-api_url="https://amakusasearch.kumamoto-net.ne.jp/public_api/"><!--フォームの表示箇所--></div>
+                        
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+
+
+<div id="headerAreaDef_margin"></div>
+<div class="btn_bar">
+    <div class="bar_item">
+       <a id="toggle" href="javascript:void(0)" onclick="javascript:nabiMenuOpneClose();" tabindex="1">
+        <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/btn_mokuteki.png" alt="目的から探す" title="" />
+     </a>
+
+    </div>
+</div>
+
+
+<a name="mainContent"></a>
+</div><!-- allheader end  -->
+<div id="pankuzuBlock">
+    <div id="pankuzu"><div class="pankuzu-inner"><ul class="pankuzu-item">
+<li><a href="https://www.city.amakusa.kumamoto.jp/default.html" class='sizeA' >ホーム</a></li>
+<li><a href="//www.city.amakusa.kumamoto.jp/classset001.html" class='sizeA' >分類から探す</a></li>
+<li><a href="//www.city.amakusa.kumamoto.jp/list00604.html" class='sizeA' >観光・産業・しごと</a></li>
+<li><a href="//www.city.amakusa.kumamoto.jp/list00623.html" class='sizeA' >歴史・文化</a></li>
+<li><a href="//www.city.amakusa.kumamoto.jp/list00709.html" class='sizeA' >文化財）指定種別から見る</a></li>
+<li><a href="//www.city.amakusa.kumamoto.jp/list00763.html" class='sizeA' >歴史資料</a></li>
+<li>市指定歴史資料</li>
+</ul>
+</div></div>
+</div>
+
+
+<div id="container">
+
+
+
+
+
+<!-- sideArea start -->
+
+<!-- sideArea end -->
+
+
+<div id="mainBlock">
+    <span id="maincont"></span>
+    <div id="cont_body">
+
+        <div class="preview_label"></div>
+        
+<script src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/jquery.autopager-1.0.0.js" type="text/javascript"></script>
+
+
+
+
+
+<div style="text-align:center;"></div>
+
+<div class="wideMenu">
+
+<h1 class="classTitle">
+    市指定歴史資料
+
+    
+</h1>
+
+
+
+
+
+
+
+
+<div id="rightBanArea" data-topid="0" data-classid="793" data-dspclass="1" data-preview="OFF"></div>
+<div class="clear"></div>
+
+
+
+
+
+
+ 
+
+
+
+
+
+    <div class="kijiArea kanrenKijiArea KijiAreaType5">
+        
+       
+                
+        <div class="kensu" style="display:none;">全6件</div>
+        
+        <ul class="kijilist KijiListType5 fullKijiList">
+            <li class="loadbox">
+<div class="mainblock_imgttl"><div class="img_l"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031429/index.html"><img src="https://www.city.amakusa.kumamoto.jp/kiji0031429/3_1429_digest1_pikk8msi.jpg" alt="徒党禁止高札の画像" title="" /></a></div><div class="ttl_r"><div class="ttl"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031429/index.html" id="loadboxlisttop1">徒党禁止高札</a></div><div class="upd_date">2026年1月5日更新</div></div></div><div class="clear"></div></li>
+<li class="loadbox">
+<div class="mainblock_imgttl"><div class="img_l"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031470/index.html"><img src="https://www.city.amakusa.kumamoto.jp/dynamic/common/images/noimg_11.png" alt="高浜八幡宮社宝「天草伊豆守鎮種献納軍旗」の画像" title="" /></a></div><div class="ttl_r"><div class="ttl"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031470/index.html">高浜八幡宮社宝「天草伊豆守鎮種献納軍旗」</a></div><div class="upd_date">2025年3月10日更新</div></div></div><div class="clear"></div></li>
+<li class="loadbox">
+<div class="mainblock_imgttl"><div class="img_l"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031589/index.html"><img src="https://www.city.amakusa.kumamoto.jp/kiji0031589/3_1589_digest1_uqw7usdz.jpg" alt="あぶみ（一対）の画像" title="" /></a></div><div class="ttl_r"><div class="ttl"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031589/index.html">あぶみ（一対）</a></div><div class="upd_date">2025年3月3日更新</div><div class="gaiyou"> 「四郎乱物語」に瀬戸で寺沢勢と一揆軍が死闘を尽くし数人の武将が討死したと記録しています。その時の武将のつけた鐙で３００年を経て、昭和３４…</div></div></div><div class="clear"></div></li>
+<li class="loadbox">
+<div class="mainblock_imgttl"><div class="img_l"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031428/index.html"><img src="https://www.city.amakusa.kumamoto.jp/kiji0031428/3_1428_digest1_pu17iq70.jpg" alt="ロザリオと壺の画像" title="" /></a></div><div class="ttl_r"><div class="ttl"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031428/index.html">ロザリオと壺</a></div><div class="upd_date">2024年2月5日更新</div><div class="gaiyou">　潜伏キリシタンが信仰に用いたと考えられるロザリオ。河浦町﨑津小高浜の海岸工事に際し発見されました。中国産白磁の壺の中に、ロザリオが納めら…</div></div></div><div class="clear"></div></li>
+<li class="loadbox">
+<div class="mainblock_imgttl"><div class="img_l"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031588/index.html"><img src="https://www.city.amakusa.kumamoto.jp/kiji0031588/3_1588_digest1_usn5ns2r.jpg" alt="高札の画像" title="" /></a></div><div class="ttl_r"><div class="ttl"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031588/index.html">高札</a></div><div class="upd_date">2020年6月18日更新</div><div class="gaiyou"> 正徳５年（１７１６）同文の回状が各庄屋に廻され、それによって天草に２６本の高札が立てられました。その中の１本と言われています。切支丹禁制…</div></div></div><div class="clear"></div></li>
+<li class="loadbox">
+<div class="mainblock_imgttl"><div class="img_l"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031590/index.html"><img src="https://www.city.amakusa.kumamoto.jp/dynamic/common/images/noimg_11.png" alt="鈴木明神伝碑の画像" title="" /></a></div><div class="ttl_r"><div class="ttl"><a href="https://www.city.amakusa.kumamoto.jp/kiji0031590/index.html">鈴木明神伝碑</a></div><div class="upd_date">2020年6月18日更新</div><div class="gaiyou"> 天草・島原の乱後天草は天領となり、代代官鈴木重成公は荒廃した天草の復興に全力をあげました。この碑は文化８年（1811）建立、撰文は魚沼国…</div></div></div><div class="clear"></div></li>
+
+        </ul>
+        
+        <div class="clear"></div>
+        <div class="more" id="nextload1" style=" display:none;">
+            <a href=""  rel="next1">もっと見る</a>
+        </div>
+        <div id="loadmoreajaxloader1" style="display: none;text-align:center;">
+            <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/loading.gif" alt="ロード中" />
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="hideMenu">
+    
+        <ul id="classMenuArea">
+        
+            <li class="">
+                <a href="//www.city.amakusa.kumamoto.jp/list00792.html">国指定歴史資料</a>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow792"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(792);">
+                        <img id="arrow792" class="naviSpreadBtn" src="//www.city.amakusa.kumamoto.jp/dynamic/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub792" style="display:none;">
+                
+            </li>
+        
+            <li class="selected">
+                <span>市指定歴史資料</span>
+                
+                <div class="div_arrow" style="visibility:hidden;">
+                    <a name="arrow793"
+                        href="Javascript:void(0)"
+                        style="border-left:none;"  
+                        onclick="openCloseMenu(793);">
+                        <img id="arrow793" class="naviSpreadBtn" src="//www.city.amakusa.kumamoto.jp/dynamic/hpkiji/images/btnplus.png" alt="プラスボタン" width="25" height="25" />
+                    </a>
+                </div>
+            </li>
+            
+            <li id="classMenuAreaSub793" style="display:none;">
+                
+            </li>
+        
+        </ul>
+        
+
+    
+
+    
+    
+    
+
+    
+    <div id="leftBanArea" data-topid="0" data-classid="793" data-dspclass="1" data-preview="OFF"></div>
+</div>
+<div class="clear"></div>
+
+<div id="footerSoegakiArea"></div>
+
+<div id="accessCountClassContents"
+    data-classsetid="1"
+    data-classid="793"
+    data-topid="0"
+    data-preview="OFF"></div>
+
+
+
+
+<script type="text/javascript">
+jQuery(function() {
+
+    //autopagerの実行関数
+    jQuery.autopager({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox',
+        
+        // もっと見るリンク
+    	link: 'a[rel=next1]',
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload1').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadboxlisttop' + pgNo)[0]) jQuery('#loadboxlisttop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadboxlisttop1')[0]) jQuery('#loadboxlisttop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload1').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader1').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next1]').click(function(){
+        jQuery.autopager('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+    
+    //autopagerの実行関数
+    jQuery.autopager2({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox2',
+
+        // もっと見るリンク
+    	link: 'a[rel=next2]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload2').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox2listtop' + pgNo)[0]) jQuery('#loadbox2listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox2listtop1')[0]) jQuery('#loadbox2listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+	        //added feature to disable 'もっと見る'
+		    if(next.url ===undefined){
+                jQuery('#nextload2').css('display', 'none'); // 次ページのリンクを非表示にする
+                jQuery('#loadmoreajaxloader2').css('display', 'none');   // ローディング画像を非表示する
+		    }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next2]').click(function(){
+        jQuery.autopager2('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+    
+
+    //autopagerの実行関数
+    jQuery.autopager3({
+
+        // スクロールで自動読込を停止
+        autoLoad: false,
+        
+        // 読み込むコンテンツの枠
+        content: '.loadbox3',
+
+        // もっと見るリンク
+        link: 'a[rel=next3]',
+
+
+        // 読み込みが開始された時に発生するイベント
+        start: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'block'); // ローディング画像を表示する
+            jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+        },
+
+        // 読み込み完了後に発生するイベント
+        load: function(current, next){
+            jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+            jQuery('#nextload3').css('display', 'block'); // 次ページのリンクを表示する
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 start
+            // 読み込み一覧の先頭にfocus
+            // cssName + "listtop" + pageNo
+            var pgNo = 1;
+            if(current.url !==undefined){
+                var arg = new Object;
+                var pair=current.url.split('?')[1].split('&');
+                for(var i=0;pair[i];i++) {
+                    var kv = pair[i].split('=');
+                    if(kv[0]=="pg") pgNo=kv[1];
+                }
+                if(jQuery('#loadbox3listtop' + pgNo)[0]) jQuery('#loadbox3listtop' + pgNo).focus(); // 
+            }else{
+                if(jQuery('#loadbox3listtop1')[0]) jQuery('#loadbox3listtop1').focus(); // 
+            }
+            // 2017/01/24 アクセシビリティ対応 一覧先頭ID付与 end
+
+
+            //added feature to disable 'もっと見る'
+            if(next.url ===undefined){
+                jQuery('#loadmoreajaxloader3').css('display', 'none');   // ローディング画像を非表示する
+                jQuery('#nextload3').css('display', 'none'); // 次ページのリンクを非表示にする
+            }
+
+        }
+    });
+
+    // 読込むボタンをクリックした時に実行される関数
+    jQuery('a[rel=next3]').click(function(){
+        jQuery.autopager3('load'); // 次ページのコンテンツを読み込み
+        return false;
+    });
+});
+</script>
+
+<script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/setcontents.js"></script>
+<script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/layoutadjustment.js"></script>
+<script type="text/javascript" language="javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        var set = new setContents();
+        set.rootUrl = "https://www.city.amakusa.kumamoto.jp/dynamic/";
+
+        
+        jQuery("#rightMiniCalArea, #leftMiniCalArea").each(function () {
+            var miniCalendarPrm = {
+                "c_id": jQuery(this).attr("data-categoryid"),
+                "class_id": jQuery(this).attr("data-classid")
+            }
+            set.miniCalendar(this, miniCalendarPrm);
+        });
+
+        
+        jQuery(".LeftArea #leftBanArea, .wideMenu #rightBanArea").each(function () {
+            var bannerPrm = {
+                "top_id": jQuery(this).attr("data-topid"),
+                "class_id": jQuery(this).attr("data-classid"),
+                "dspClassFlg": jQuery(this).attr("data-dspclass"),
+                "preview": jQuery(this).attr("data-preview")
+            }
+            set.banner(this, bannerPrm);
+        });
+
+        
+        var footerSoegakiPrm = {
+            "newWinOpnFlg": "True"
+        }
+        set.footerSoegaki("#footerSoegakiArea", footerSoegakiPrm);
+
+        var accessCountPrm = {
+            "class_set_id": jQuery("#accessCountClassContents").attr("data-classsetid"),
+            "class_id": jQuery("#accessCountClassContents").attr("data-classid"),
+            "top_id": jQuery("#accessCountClassContents").attr("data-topid"),
+            "preview": jQuery("#accessCountClassContents").attr("data-preview")
+        }
+        set.accessCountClassContents(accessCountPrm);
+    });
+
+    function checkClassCssType(color){
+        jQuery("#css_class").attr("disabled", (color == "W") ? false : true);
+    }
+
+    /******************************************
+    * メニュー折り畳み
+    *******************************************/
+    function openCloseMenu(mode){
+        if(jQuery('#classMenuAreaSub' + mode).css('display') == 'none'){
+            jQuery('#classMenuAreaSub' + mode).css('display','block');
+            jQuery('#arrow' + mode).attr("src", "http://www.city.amakusa.kumamoto.jp/dynamic/hpkiji/images/btnMinus.png");
+            jQuery('#arrow' + mode).attr("alt", "マイナスボタン");  
+        }
+        else{
+            jQuery('#classMenuAreaSub' + mode).css('display','none');
+            jQuery('#arrow' + mode).attr("src", "http://www.city.amakusa.kumamoto.jp/dynamic/hpkiji/images/btnPlus.png"); 
+            jQuery('#arrow' + mode).attr("alt", "プラスボタン");  
+            //            jQuery('#arrow' + mode).text('↓');
+        }
+    }
+</script>
+        
+
+     </div> <!-- cont_body end -->
+</div> <!-- mainBlock end -->
+
+<!-- sideboard start -->
+
+<div id="sideborad_area">
+    <div id="sideBoardWrapper">
+        <div id="sideBoardBlock" tabindex="-1">
+            <div id="sideBoardContainer">
+
+                
+                <div id="sideboardJuyoOshirase" class="artlist">
+                    <h2><i class="fas fa-exclamation-circle fa-lg"></i> 重要なお知らせ</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardCountdown" class="artlist">
+                    <h2><i class="fas fa-bell"></i>カウントダウン</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardDigest" class="artlist">
+                    <h2><i class="fas fa-bell"></i>ダイジェスト（旧トピックス）</h2>
+                </div>
+                <div class="clear"></div>
+
+                
+                <div id="sideboardTopics" class="artlist">
+                    <h2><i class="fas fa-bell"></i> トピックス</h2>
+                </div>
+                <div class="clear"></div>
+                
+                
+                <div id="mokutekikarasagasu" class="sagasu">
+                    <h2><i class="fas fa-flag"></i> 情報をさがす</h2>
+	                <ul>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.amakusa.kumamoto.jp/classset002.html">組織から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.amakusa.kumamoto.jp/classset001.html">分類から</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.amakusa.kumamoto.jp/sitemap.html">サイトマップから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.amakusa.kumamoto.jp/classset003.html">ライフイベントから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.amakusa.kumamoto.jp/dynamic/ranking/pub/default.aspx?c_id=19">ランキングから</a></li>
+                        <li><i class="fas fa-chevron-circle-right"></i> <a href="https://www.city.amakusa.kumamoto.jp/dynamic/hpkiji/pub/calendar.aspx?c_id=3">イベントカレンダーから</a></li>
+	                </ul>
+                </div>
+
+                <div class="clear"></div>
+
+                
+                <div id="mitsukaranaitoki">
+                    <div>
+                        <a href="https://www.city.amakusa.kumamoto.jp/list01574.html"><i class="fas fa-question-circle fa-lg fa-fw"></i> 情報が見つからないときは</a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<input type="hidden" name="ctl00$SideBoard$HidErrMsg" id="ctl00_SideBoard_HidErrMsg" />
+<!-- sideboard end -->
+<div class="clear"></div>
+</div>
+
+
+<!-- allfooter start  -->
+
+
+
+
+
+
+
+<div class="indent"></div>
+<div id="pagetop">
+    <a href="#top">ページの先頭へ</a></div>
+
+<div id="footerbtn" style="display:none;">
+    
+    
+</div>
+
+
+    
+
+
+
+<span id="ctl00_LblCopyrights"></span>
+
+
+<!--[if lt IE 9]>
+<link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="//www.city.amakusa.kumamoto.jp/dynamic/common/css/footer/top1.css" rel="stylesheet" type="text/css" /><div id="footerArea">
+	<!-- footer menu start -->
+
+
+
+
+<!-- footer menu end -->
+
+<!-- site info start -->
+<div id="topbtn">
+    <a href="#">
+        <img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/top.png" alt="このページの先頭へ" title=""></a>
+</div>
+
+<div id="siteinfo">
+
+    <div id="toiawasewaku">
+    <div id="toiawase">
+    <div class="footerimg"><img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/shimbol.png" alt="天草市" title="">
+        <div class="number">法人番号  9000020432156</div>
+        <div class="mail"><a href="//www.city.amakusa.kumamoto.jp/list00752.html"><i class="far fa-envelope my-white"></i> お問い合わせ</a></div></div>
+
+        <div class="add">
+                〒863-8631&nbsp;
+                熊本県天草市東浜町8番1号&nbsp;&nbsp;<br />
+                電話番号:<span class="tel"><span class="teltoon"><a href="tel:0969-23-1111">0969-23-1111</a></span><span class="teltooff">0969-23-1111</span></span>&nbsp;&nbsp;
+                Fax:0969-24-3501&nbsp;&nbsp;
+                
+            
+            <div class="time">業務時間：月曜～金曜日の午前8時30分～午後5時15分<br />
+（ただし、土日・祝日、12月29日～翌年1月3日を除く）</div>
+        </div>
+        <div class="map"><img src="//www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/map.png" alt="天草市マップ" title=""></div>
+        
+        <div class="clear"></div>
+        <!-- フッターボタン -->
+    
+        
+        
+<div class="clear"></div>
+</div></div>
+
+<div class="clear"></div>
+<div id="footerMenu">
+<!-- 問合せ先 -->
+
+        <ul id="footertextlink">
+            <li><a href="//www.city.amakusa.kumamoto.jp/kiji003167/index.html">庁舎案内</a></li>
+            <li>｜</li>
+            <li><a href="//www.city.amakusa.kumamoto.jp/list00730.html">交通アクセス</a></li>
+            <li>｜</li>
+            <li><a href="//www.city.amakusa.kumamoto.jp/kiji0032352/index.html">個人情報の取扱い</a></li>
+            <li>｜</li>
+            <li><a href="//www.city.amakusa.kumamoto.jp/dynamic/link_m/pub/default.aspx?c_id=20">リンク集</a></li>
+            <li>｜</li>
+            <li><a href="//www.city.amakusa.kumamoto.jp/sitemap.html">サイトマップ</a></li>
+        </ul>
+        <div class="clear"></div>
+</div>
+
+<!-- copyright -->
+<div id="cp" lang="en">
+    © 2023  Amakusa City.
+</div>
+</div>
+
+
+<!-- site info end -->
+
+</div>
+<!-- allfooter end  -->
+
+<input type="hidden" name="fontResize" id="fontResize" value="" />
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var sitesearch_config = {
+SEARCH_ROOT: 'https://www.city.amakusa.kumamoto.jp/dynamic/search/pub/Default.aspx?c_id=2',
+API_ROOT: 'https://amakusasearch.kumamoto-net.ne.jp/public_api/',
+};
+var sitesearch_ssurl = 'https://amakusasearch.kumamoto-net.ne.jp/site_search_input_only/';
+var sitesearch_jsurl = sitesearch_ssurl + 'index-input.0c27b256.js';
+var sitesearch_cssurl = sitesearch_ssurl + 'index-input.dbd7ad3a.css';
+sitesearch_req.open('GET', sitesearch_ssurl, true);
+sitesearch_req.send(null);
+//]]>
+</script>
+</form>
+<noscript>本サイトは一部のページ・機能にJavascriptを使用しております。</noscript>
+
+<script type="text/javascript" src="//www.city.amakusa.kumamoto.jp/dynamic/common/js/ajaxcalforie6.js"></script>
+
+
+
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+
+        // 画面リサイズ時telto変更
+        var styleSheetSpWidth = 480;
+        var timer = false;
+        jQuery(window).resize(function () {
+            if (timer !== false) {
+                clearTimeout(timer);
+            }
+            timer = setTimeout(function () {
+                //画面サイズ切り分け
+                if(styleSheetSpWidth > window.innerWidth){
+                    //SP teltoあり
+                    jQuery('.teltoon').css('display', 'inline-block');
+                    jQuery('.teltooff').css('display', 'none');
+                }else{
+                    //PC teltoなし
+                    jQuery('.teltoon').css('display', 'none');
+                    jQuery('.teltooff').css('display', 'inline-block');
+                }
+            }, 200);
+        });
+
+        function searchResult(keyword) {
+            jQuery.ajax({
+                type: 'POST',
+                cache: false,
+                url: '//www.city.amakusa.kumamoto.jp/dynamic/common/handler/registersearchkeyword.ashx',
+                data: {
+                    "c_id": "2",
+                    "q": keyword,
+                    "nowurl": location.href
+                }
+            }).done(function (response) {
+                eval(response);
+            });
+        }
+
+        var pankuzu_flg = false;
+        function pankuzu_openclose(kbn) {
+            if (!pankuzu_flg) {
+                jQuery("#pankuzu-more, #footerPankuzu-more").hide();
+                jQuery("#pankuzu-close, #footerPankuzu-close").show();
+                jQuery(".pankuzu-toggle").show();
+                pankuzu_flg = true;
+            }
+            else {
+                jQuery("#pankuzu-more, #footerPankuzu-more").show();
+                jQuery("#pankuzu-close, #footerPankuzu-close").hide();
+                jQuery(".pankuzu-toggle").hide();
+                pankuzu_flg = false;
+            }
+        }
+
+        jQuery(function () {
+            jQuery('img[usemap]').rwdImageMaps();
+        });
+    </script>
+    
+    <script type="text/javascript" language="javascript">
+        jQuery(function () {
+            var fn = new setCookie();
+            fn.rootUrl = "https://www.city.amakusa.kumamoto.jp/dynamic/";
+            fn.topFlg = "False";
+            fn.topCategoryRootFolder = "";
+            fn.fontSizeCookieName = "FONT_SIZE";
+            fn.colorCookieName = "COLOR";
+
+            fn.fontSizeIconArr = setFontSizeIconArr();
+            fn.loadFontSize();
+            fn.loadColor();
+
+            
+            var prm = {
+                "top_id": "",
+                "dspTopFlg": "OFF"
+            }
+            setFloatHeader(prm, "//www.city.amakusa.kumamoto.jp/dynamic/");
+            
+        });
+
+        function setFontSizeIconArr() {
+            var fontSizeIconArr = {
+                "標準": { size: "fontSizeN", on: "https://www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/black-mozi-m.gif", off: "https://www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/white-mozi-m.gif" },
+                "拡大": { size: "fontSizeB", on: "https://www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/black-mozi-l.gif", off: "https://www.city.amakusa.kumamoto.jp/dynamic/common/images/top1/white-mozi-l.gif" },
+            };
+
+            return fontSizeIconArr;
+        }
+    </script>
+    
+</body>
+</html>

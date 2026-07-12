@@ -6,5 +6,13 @@
     "fetched_at": "2026-07-12T09:36:25Z",
     "http_status": 200,
     "format": "html"
+  },
+  "handbook_pdf": {
+    "url": "https://www.town.nagasu.lg.jp/nagasutown/switch/2020/kiji0036566/3_6566_5917_up_hh0m3a4p.pdf",
+    "filename": "handbook.pdf",
+    "sha256": "f19bad0ad088c43090d3eb39262d489ee4b059d69adf269d4da854fd49fb9043",
+    "fetched_at": "2026-07-12T10:45:00Z",
+    "http_status": 200,
+    "format": "pdf"
   }
 }

@@ -6,5 +6,13 @@
     "fetched_at": "2026-07-12T09:36:10Z",
     "http_status": 200,
     "format": "html"
+  },
+  "6190eb2804c70b9e": {
+    "url": "https://www.city.yamaga.kumamoto.jp/kiji00396/3_96_11829_up_ktyrydo6.pdf",
+    "filename": "6190eb2804c70b9e.pdf",
+    "sha256": "2e4ac34c6eab0cb1e498ba948f700808db5a4738b5b12fbe54dff25a857b48f8",
+    "fetched_at": "2026-07-12T10:51:36Z",
+    "http_status": 200,
+    "format": "pdf"
   }
 }

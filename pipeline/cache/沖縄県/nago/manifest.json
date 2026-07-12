@@ -1,0 +1,18 @@
+{
+  "b6e1c6f4eee117c0": {
+    "url": "https://www.city.nago.okinawa.jp/about/cultural",
+    "filename": "b6e1c6f4eee117c0.html",
+    "sha256": "cb5a31066b8aa1006d3171aed4e2d22f436ec89e24a00df01cf0a56ec2a9fdd4",
+    "fetched_at": "2026-07-12T11:13:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "9b119efb05220c6b": {
+    "url": "https://www.city.nago.okinawa.jp/about/cultural/file_contents/20250901.pdf",
+    "filename": "9b119efb05220c6b.pdf",
+    "sha256": "e20ec5c01d4d5b7bdd8caa181b02c64239c6065a9e4ac91283a90bec87d2010f",
+    "fetched_at": "2026-07-12T11:14:00Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

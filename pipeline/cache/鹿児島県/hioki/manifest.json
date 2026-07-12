@@ -1,0 +1,314 @@
+{
+  "d9fa9ee42ba97e6e": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/shisekimap.html",
+    "filename": "d9fa9ee42ba97e6e.html",
+    "sha256": "51d736636bca2f1208bdbb33a84f2e4a9a6e4b645c8ed1501042e7fe369747f6",
+    "fetched_at": "2026-07-12T10:59:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "398ac724a5121854": {
+    "url": "https://www.city.hioki.kagoshima.jp/kouho/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/index.html",
+    "filename": "398ac724a5121854.html",
+    "sha256": "97b1f92ddf9f40b03c2375d50afbd336da927d4a6d2be1ff5943f58cb31fa46c",
+    "fetched_at": "2026-07-12T11:34:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "48ab4c43278d0668": {
+    "url": "https://www.city.hioki.kagoshima.jp/kouho/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/index.html",
+    "filename": "48ab4c43278d0668.html",
+    "sha256": "89e709882a65919e8381513779c1364f24681c375c2bc86560c0783668fc4507",
+    "fetched_at": "2026-07-12T11:34:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "df186d48183bb67c": {
+    "url": "https://www.city.hioki.kagoshima.jp/kouho/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/index.html",
+    "filename": "df186d48183bb67c.html",
+    "sha256": "642a9394cce48a081fcf01d4101403791208599e3060788d0da8191b524bfec5",
+    "fetched_at": "2026-07-12T11:34:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "18aa3188477485ec": {
+    "url": "https://www.city.hioki.kagoshima.jp/kouho/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/index.html",
+    "filename": "18aa3188477485ec.html",
+    "sha256": "214803b7d229ec81e85825350055135847c22979d69f5aa7d62dbbcbf405512a",
+    "fetched_at": "2026-07-12T11:34:46Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6df772db7e03c0f8": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/yakkoso.html",
+    "filename": "6df772db7e03c0f8.html",
+    "sha256": "a9780ef6f2cee19a2ca942a9999bc17a919ae57ab47a22f0cec23a6adcd18d5b",
+    "fetched_at": "2026-07-12T11:35:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "70b6bfe3059ac945": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/ichiuzizxyou.html",
+    "filename": "70b6bfe3059ac945.html",
+    "sha256": "781b9282ad98044323e6043c9b5ab189bfb23f92272712b160354e45676c3301",
+    "fetched_at": "2026-07-12T11:35:57Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f07def86c812156c": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/hachimanjinja.html",
+    "filename": "f07def86c812156c.html",
+    "sha256": "7f6a151b2fc3cefe24341be409610dddac9bae1c96dc16455335bb37559b8628",
+    "fetched_at": "2026-07-12T11:36:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42e5528b0484027c": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/izakuzixyou.html",
+    "filename": "42e5528b0484027c.html",
+    "sha256": "29caf2b01e8c76084c242102c737d770dfae4d80ed7ecfb7b38eac85f3113521",
+    "fetched_at": "2026-07-12T11:36:01Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "37ef73d2aa0406f0": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/yunomotonotanokami.html",
+    "filename": "37ef73d2aa0406f0.html",
+    "sha256": "5cf4f7cf5f5c6c9b5ffc8ac93b3572ea006e4669266ce0de09d9e1c380e61616",
+    "fetched_at": "2026-07-12T11:36:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "baa9b64e8f89efd4": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/otahatsudensho.html",
+    "filename": "baa9b64e8f89efd4.html",
+    "sha256": "5e217aec6cb8f6314f75b535841e8c82ec2d978a29f4907bbb4a70f31103b077",
+    "fetched_at": "2026-07-12T11:36:06Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "28437b780387723e": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/daijoji.html",
+    "filename": "28437b780387723e.html",
+    "sha256": "9df8b60c8adce9a948a39a6ec11ee30a807f5e97942e5c4b3f196c443b12ddda",
+    "fetched_at": "2026-07-12T11:36:08Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0cecb2ec3ba520b4": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/jorakuin.html",
+    "filename": "0cecb2ec3ba520b4.html",
+    "sha256": "227c97f28045f165ba9a69fdf973739be1c66f25b55e4bd3027d895e31797907",
+    "fetched_at": "2026-07-12T11:36:10Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "a3c5ca832b25c9d7": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/youbonotanokami.html",
+    "filename": "a3c5ca832b25c9d7.html",
+    "sha256": "b076c8aa0f9663aa9b4f0e26e06964d88add4ddebf198a91dafd4f1cee70d56e",
+    "fetched_at": "2026-07-12T11:36:12Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bc90d3c283cc355e": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/otataikoodori.html",
+    "filename": "bc90d3c283cc355e.html",
+    "sha256": "a6f594fdaf44fccf6806fbac9d7f10a4444b9a2e80609dd140fa6d6b6e6f0d5f",
+    "fetched_at": "2026-07-12T11:36:14Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "5b425186bbae49b7": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/onimarujinja.html",
+    "filename": "5b425186bbae49b7.html",
+    "sha256": "752d58d77b03b12b230f4ee0002dfb589ea7c74355508979c1dbfd5a72d23f8d",
+    "fetched_at": "2026-07-12T11:36:16Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "73f1317e1707a9fd": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/kamemarujoato.html",
+    "filename": "73f1317e1707a9fd.html",
+    "sha256": "a0c3e632e9bb5f83061b0744094a006fa16d54ae5254979feded615d4a812ebb",
+    "fetched_at": "2026-07-12T11:36:18Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c6a1aedb231730c6": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/miyamasatsumayakaigama.html",
+    "filename": "c6a1aedb231730c6.html",
+    "sha256": "924fc61e93bc7a2e77c42fd6e23dd25aed71bb139087e437127d3b63b510da17",
+    "fetched_at": "2026-07-12T11:36:20Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "58ae9b714ecac03b": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/tokushigetaikoodori.html",
+    "filename": "58ae9b714ecac03b.html",
+    "sha256": "5838e61b1b25077ae55f68546f052f127729232b505b95f8d4538291deeb6ffb",
+    "fetched_at": "2026-07-12T11:36:22Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "bad2645a261a0e36": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/onrinjiato.html",
+    "filename": "bad2645a261a0e36.html",
+    "sha256": "c9c929e3287d87e99024d89344a278223aecb55b02656460093076aa0dbba1dd",
+    "fetched_at": "2026-07-12T11:36:24Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e96a18fefff1ced6": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/izakutaikoodori.html",
+    "filename": "e96a18fefff1ced6.html",
+    "sha256": "688f591515227fa193445a15b4cd8c863795f99994e7a32e0422f4e267654ea3",
+    "fetched_at": "2026-07-12T11:36:26Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c499a5e3410dfdfe": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/tatsuhisakobochiato.html",
+    "filename": "c499a5e3410dfdfe.html",
+    "sha256": "177f88c1b687cb59e9781823d1e60c0d5dae1c5709a8dbdcbf47362bb929eed3",
+    "fetched_at": "2026-07-12T11:36:28Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "944f3a0d01eec3d5": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/shimazuyoshihirokogoshintai.html",
+    "filename": "944f3a0d01eec3d5.html",
+    "sha256": "426af9f72661936d58b6ee3788fe6931816c31955417c8fa359b4679e57a5b62",
+    "fetched_at": "2026-07-12T11:36:30Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "78dd69bb8bdd0644": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/jinkoinato.html",
+    "filename": "78dd69bb8bdd0644.html",
+    "sha256": "4dfa125b6248996f58ba2676fda5f8de1885e0958287904c7cd34650262c588a",
+    "fetched_at": "2026-07-12T11:36:32Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "28db1476c7cf9ec0": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/nakatajirinotanokami.html",
+    "filename": "28db1476c7cf9ec0.html",
+    "sha256": "5ed14e49e64f56bf8dedff3e8938e2d860f7654add847d0f37ca7992ec126c0b",
+    "fetched_at": "2026-07-12T11:36:34Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "527fd5820fa47515": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/douzainobochi.html",
+    "filename": "527fd5820fa47515.html",
+    "sha256": "c6c9d5d93a91b080bf219b4b514be88e0bd1c7038dfdd941e604e3114513e19d",
+    "fetched_at": "2026-07-12T11:36:36Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ef5ac2d2cbac90b5": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/ijuinyuishoki.html",
+    "filename": "ef5ac2d2cbac90b5.html",
+    "sha256": "8c46802a92cedf801bac844b4f3b7aee366d9f4fd3d58acb0c5b85b0f879c6f6",
+    "fetched_at": "2026-07-12T11:36:38Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "21e9a98676d1f2c4": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/kagoshimazukaato.html",
+    "filename": "21e9a98676d1f2c4.html",
+    "sha256": "4ff5db67ddf174699e8809e84e10b76351d77d7bab6baa9cff69cf8f5d64f942",
+    "fetched_at": "2026-07-12T11:36:40Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b15766351a321bf0": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/myoon12gaku.html",
+    "filename": "b15766351a321bf0.html",
+    "sha256": "a39bd649f616c551d9dbb388fa0b81adf5286377ed770c90dcc6271681b63e56",
+    "fetched_at": "2026-07-12T11:36:42Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "03b48696d9fbf66d": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/komainu-nio.html",
+    "filename": "03b48696d9fbf66d.html",
+    "sha256": "27225fbd8521e3bae239c65d6ee64ceabffd34ac3a4ceb23cdc65d402b3bd95c",
+    "fetched_at": "2026-07-12T11:36:44Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ae8ea6380a2dfb29": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/hondakyodainobohi.html",
+    "filename": "ae8ea6380a2dfb29.html",
+    "sha256": "ee0a46a7235b722202ec1b5721f250c5881183cf41e7431bd08cd3cddc5a21f5",
+    "fetched_at": "2026-07-12T11:36:46Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "47ef3bcd789ab911": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/iwayakannon.html",
+    "filename": "47ef3bcd789ab911.html",
+    "sha256": "b722c2c14584350bfd3289847b6e2839a79dadd386edee787094e773a16e28f6",
+    "fetched_at": "2026-07-12T11:36:48Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "148bcacd2c2c9563": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/yabusame.html",
+    "filename": "148bcacd2c2c9563.html",
+    "sha256": "a10b44cb31df965f48bc97d57a962254b183559f31eba528c8face600101ba30",
+    "fetched_at": "2026-07-12T11:36:50Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ce79b21fd9f51b46": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/gohonmatsugamaato.html",
+    "filename": "ce79b21fd9f51b46.html",
+    "sha256": "8d6e9d77675fd87dfe82fde2f5a9f5c304112587c38b8c48a48e47dfdfb605df",
+    "fetched_at": "2026-07-12T11:36:52Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "09eb482d1206b3f2": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/baigakuji.html",
+    "filename": "09eb482d1206b3f2.html",
+    "sha256": "805ad6eeeb22542a98fe36f40ffe0af578d9a0c160e95f21b5aec00833f6af35",
+    "fetched_at": "2026-07-12T11:36:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "17787cc9190db3b1": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/hiyoshi/yamadanotanokami.html",
+    "filename": "17787cc9190db3b1.html",
+    "sha256": "25a459439e0ee4300a324233e558210a23f86ad988668cee25f57638dce23863",
+    "fetched_at": "2026-07-12T11:36:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "0ca687d37b1fbf3c": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/fukiage/kurokawadoketsu.html",
+    "filename": "0ca687d37b1fbf3c.html",
+    "sha256": "75ab0a8c5e9999c53eaf8f66ae7913311284d4381a4b421307598271a3e07575",
+    "fetched_at": "2026-07-12T11:36:58Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "16d709fdb96e55d5": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/higashiichiki/nankinsarayamagamaato.html",
+    "filename": "16d709fdb96e55d5.html",
+    "sha256": "7f00bd5dd7607e1d659b7190da1e98e23e037ef5e357dd39f947be4614bf5699",
+    "fetched_at": "2026-07-12T11:37:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "88ffd9478a57c8c0": {
+    "url": "https://www.city.hioki.kagoshima.jp/bunkazai/kurashi/kosodate-kyoiku/shakaikyoiku/bunkazai/ijuin/owataribashikinenhi.html",
+    "filename": "88ffd9478a57c8c0.html",
+    "sha256": "6a0f6cf34b94f4c6b4b9d6504c7422d7fd4d0473f34a82aa2118537b4d6b6d45",
+    "fetched_at": "2026-07-12T11:37:02Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

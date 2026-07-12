@@ -1,0 +1,18 @@
+{
+  "29ef72ee1b852860": {
+    "url": "http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/shishitei.html",
+    "filename": "29ef72ee1b852860.html",
+    "sha256": "29e7da3cefc468b4af0e23b88c598ffd6d0f2e21f1039b1688416203b9abf3ec",
+    "fetched_at": "2026-07-12T10:59:17Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "48c63e3607545644": {
+    "url": "http://www.city.aira.lg.jp/bunkazai/kanko/bunka/bunkazai/shisihiteiyuukei.html",
+    "filename": "48c63e3607545644.html",
+    "sha256": "f7d506108df26f5dcf148ecd3fe354024ae440ed1f1bd8aacc42b821c7399145",
+    "fetched_at": "2026-07-12T10:59:19Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

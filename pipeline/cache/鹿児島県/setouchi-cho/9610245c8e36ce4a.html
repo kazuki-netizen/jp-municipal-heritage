@@ -1,0 +1,632 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>文化財の紹介（文化財一覧） | 瀬戸内町立図書館ホームページ</title>
+<link href="basicstyle.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="mouseover.js"></script>
+</head>
+<body lang="ja" id="page">
+<table border="0" width="1000" cellpadding="0" cellspacing="0" class="header001">
+  <tbody>
+    <tr>
+      <td><a name="pagetop"></a><a href="index.html"><img src="images/header.jpg" width="1000" height="65" border="0" alt="瀬戸内町立図書館・郷土館"></a></td>
+    </tr>
+    </tbody>
+</table>
+<table border="0" width="1000" cellpadding="0" cellspacing="0">
+  <tbody>
+      <tr>
+      <td  colspan="5"><img src="images/space.gif" width="1" height="10" border="0" alt=""></td>
+    </tr>
+    <tr>
+<td valign="top"><img src="images/space.gif" width="20" height="1" border="0" alt=""></td>
+      <td valign="top"><a href="index.html" onmouseover="imgOn('img1'); return true" onmouseout="imgOff('img1')"><img src="images/menu01_off.gif" width="265" height="51" border="0" alt="ホーム" name="img1"></a><br>
+        <a href="aboutsite.html" onmouseover="imgOn('img2'); return true" onmouseout="imgOff('img2')"><img src="images/menu02_off.gif" width="265" height="51" border="0" alt="利用案内" name="img2"></a><br>
+        <a href="guidance.html" onmouseover="imgOn('img3'); return true" onmouseout="imgOff('img3')"><img src="images/menu03_off.gif" width="265" height="51" border="0" alt="館内の案内図" name="img3"></a><br>
+        <a href="calendar.html" onmouseover="imgOn('img4'); return true" onmouseout="imgOff('img4')"><img src="images/menu04_off.gif" width="265" height="51" border="0" alt="図書館暦" name="img4"></a><br>
+        <a href="bm.html" onmouseover="imgOn('img5'); return true" onmouseout="imgOff('img5')"><img src="images/menu05_off.gif" width="265" height="51" border="0" alt="移動図書館「かけはし号」" name="img5"></a><br>
+        <a href="https://www2.setouchi-lib.jp/WebOpac/webopac/index.do" target="_blank" onmouseover="imgOn('img6'); return true" onmouseout="imgOff('img6')"><img src="images/menu06_off.gif" width="265" height="51" border="0" alt="蔵書検索・予約" name="img6"></a><br>        <a href="https://www2.setouchi-lib.jp/WebOpac/webopac/searchgenre.do?type=1" target="_blank" onmouseover="imgOn('img7'); return true" onmouseout="imgOff('img7')"><img src="images/menu07_off.gif" width="265" height="51" border="0" alt="新着図書" name="img7"></a><br>
+       <a href="https://www2.setouchi-lib.jp/WebOpac/webopac/usermenu.do" target="_blank" onmouseover="imgOn('img15'); return true" onmouseout="imgOff('img15')"><img src="images/menu15_off.gif" width="265" height="51" border="0" alt="利用照会" name="img15"></a><br>
+       <a href="web01.html" target="_self" onmouseover="imgOn('img16'); return true" onmouseout="imgOff('img16')"><img src="images/menu16_off.gif" width="265" height="51" border="0" alt="インターネット予約利用登録" name="img16"></a><br>
+
+        <a href="event.html" onmouseover="imgOn('img8'); return true" onmouseout="imgOff('img8')"><img src="images/menu08_off.gif" width="265" height="51" border="0" alt="行事・催し" name="img8"></a><br>
+        <a href="assets.html"><img src="images/menu09_on.gif" width="265" height="51" border="0" alt="文化財の紹介"></a><br>
+        <a href="occurrence_l.html" onmouseover="imgOn('img10'); return true" onmouseout="imgOff('img10')"><img src="images/menu10_off.gif" width="265" height="51" border="0" alt="図書館のできごと" name="img10"></a><br>
+        <a href="occurrence_m.html" onmouseover="imgOn('img11'); return true" onmouseout="imgOff('img11')"><img src="images/menu11_off.gif" width="265" height="51" border="0" alt="郷土誌の海" name="img11"></a><br>
+        <a href="letter_m.html" onmouseover="imgOn('img12'); return true" onmouseout="imgOff('img12')"><img src="images/menu12_off.gif" width="265" height="51" border="0" alt="埋蔵文化財だより" name="img12"></a><br>
+        <a href="publication.html" onmouseover="imgOn('img13'); return true" onmouseout="imgOff('img13')"><img src="images/menu13_off.gif" width="265" height="51" border="0" alt="図書館・郷土館の刊行物" name="img13"></a><br>        <a href="link.html" onmouseover="imgOn('img14'); return true" onmouseout="imgOff('img14')"><img src="images/menu14_off.gif" width="265" height="51" border="0" alt="リンク" name="img14"></a><br>
+        <a href="mailto:setokyo@setouchi-lib.jp" onmouseover="imgOn('img17'); return true" onmouseout="imgOff('img17')"><img src="images/menu17_off.gif" width="265" height="51" border="0" alt="問い合わせ" name="img17"></a><br>
+      </td>
+      <td><img src="images/space.gif" width="20" height="1" border="0" alt=""></td>
+      <td valign="top">
+      <table border="0" width="665" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td>
+            <h1>文化財の紹介（国指定文化財）</h1>
+            <div class="basicmain"><ul>
+              <li><a href="assets_j1.html">イントロダクション</a>
+                <li><a href="assets_j2.html">歴史・伝説・民俗あれこれ（考古・民俗行事）</a>
+                <li><a href="assets_j3.html">歴史・文化・民俗あれこれ（伝説・歴史・戦跡）</a>
+              <li><a href="assets_j4.html">指定文化財（町指定文化財）</a>
+                <li><a href="assets_j5.html">指定文化財（国指定文化財）</a>
+                <li>文化財一覧
+              </ul></div>
+            <h2>文化財一覧</h2>
+            <h3>⒈ 国指定文化財</h3>
+            <div class="basicmain">
+              ≪民俗文化財≫
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■無形民俗文化財</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">国指定重要無形民俗文化財<br>
+                    諸鈍芝居(シバヤ)</td>
+                    <td class="tbasic">諸鈍</td>
+                    <td class="tbasic">諸鈍芝居保存会</td>
+                    <td class="tbasic">昭和51年5月4日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">県指定無形民俗文化財<br>
+                    油井の豊年踊り</td>
+                    <td class="tbasic">油井</td>
+                    <td class="tbasic">油井豊年踊り保存会</td>
+                    <td class="tbasic">昭和58年4月13日</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="basic" style="text-align : right;" align="right"><a href="#pagetop">ページ上部へ戻る</a></div>
+            <h3>2．県指定文化財</h3>
+            <div class="basicmain">
+              ≪有形民俗文化財≫
+              <table border="0" width="90%">
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">サジ（久慈）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">サジ（嘉入）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">首飾り（伊子茂）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">首飾り（嘉入）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">玉ハベラ</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">首飾り・袋</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">胴衣</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">大袖衣（嘉入）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">大袖衣（嘉入）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">大袖衣（久慈）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">ミガキ（神扇）（久慈）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">ミガキ（神扇）（嘉入）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">丸櫃</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">平成15年4月22日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              ≪天然記念物≫
+              <table border="0" width="90%">
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">請島のウケユリ自生地</td>
+                    <td class="tbasic">瀬戸内町池地</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成20年4月22日</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="basic" style="text-align : right;" align="right"><a href="#pagetop">ページ上部へ戻る</a></div>
+            <h3>3．町指定文化財</h3>
+            <div class="basicmain">
+              ≪有形文化財≫
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■建造物</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">西家住宅(石垣含む)</td>
+                    <td class="tbasic">伊子茂</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■絵画</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">屏風絵６画</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■彫刻</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">龍樋</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■工芸品</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">漢方医療器具</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">昭和53年12月15日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">種子島銃3挺</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">陣笠3蓋</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">香炉台</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">酒瓶3本(陶芸品)</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">酒瓶3本(錫製)</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">化粧箱</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">書類保管庫</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">ノロの祭具(ガラス玉織)</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">敷物2枚(西洋織物)</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">食器一式(ウフビリャー)</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">柱掛</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">昭和56年5月13日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">シャム南蛮壺</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">西　鐵夫</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■古文書</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">検地帳</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">目録</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">系図</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">瀬戸内西間切西掟職辞令書</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">タル宛得分規定辞令書2通</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">ネタチ宛得分規定辞令書3通</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■考古資料</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">類須恵器</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">昭和53年12月15日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">二重口縁面縄東洞式土器</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">嘉徳式土器2口</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">面縄前庭式土器</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">嘉徳ⅠＡ式土器</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">嘉徳Ⅱ式土器</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              ≪民俗文化財≫
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■有形民俗文化財</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">嘉入ノロ祭祀具（ガラス玉2口･シーシ玉･ミガキ（神扇）･神衣3着）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">与路ノロ祭祀具（ミガキ）（神扇））</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">網野子ノロ祭祀具（サハリ（鉦）2口）</td>
+                    <td class="tbasic">町立郷土館</td>
+                    <td class="tbasic">町教委</td>
+                    <td class="tbasic">平成10年5月6日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■無形民俗文化財</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">アンドンデー</td>
+                    <td class="tbasic">網野子</td>
+                    <td class="tbasic">網野子保存会</td>
+                    <td class="tbasic">昭和53年12月15日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              ≪記念物≫
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■史跡</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">垣漁跡</td>
+                    <td class="tbasic">木慈</td>
+                    <td class="tbasic">木慈集落</td>
+                    <td class="tbasic">昭和53年12月15日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■名勝</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">ホノホシ海岸</td>
+                    <td class="tbasic">蘇刈浦底</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">昭和53年12月15日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">手久崎</td>
+                    <td class="tbasic">木慈東側岬</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">昭和53年12月15日</td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <table border="0" width="90%">
+                <caption align="left" class="basic">■天然記念物</caption>
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">デイゴ並木</td>
+                    <td class="tbasic">諸鈍</td>
+                    <td class="tbasic">諸鈍集落</td>
+                    <td class="tbasic">昭和53年12月15日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">ウケジママルバネクワガタ</td>
+                    <td class="tbasic">池地</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成8年11月6日</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="basic" style="text-align : right;" align="right"><a href="#pagetop">ページ上部へ戻る</a></div>
+            <h3>4．国指定登録有形文化財</h3>
+            <div class="basicmain">
+              <table border="0" width="90%">
+                <tbody>
+                  <tr>
+                    <th class="thbasic">名称</th>
+                    <th class="thbasic">所在地</th>
+                    <th class="thbasic">所有者等</th>
+                    <th class="thbasic">指定日</th>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">古仁屋小学校旧奉安殿</td>
+                    <td class="tbasic">古仁屋小勝原</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成18年8月3日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">節子小中学校旧奉安殿</td>
+                    <td class="tbasic">節子</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成18年8月3日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">池地小中学校旧奉安殿</td>
+                    <td class="tbasic">池地</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成18年8月3日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">薩川小学校旧奉安殿</td>
+                    <td class="tbasic">薩川</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成18年8月3日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">須子茂小学校旧奉安殿</td>
+                    <td class="tbasic">須子茂</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成18年8月3日</td>
+                  </tr>
+                  <tr>
+                    <td class="tbasic">旧木慈小学校旧奉安殿</td>
+                    <td class="tbasic">木慈</td>
+                    <td class="tbasic">瀬戸内町</td>
+                    <td class="tbasic">平成18年8月3日</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="basic" style="text-align : right;" align="right"><a href="#pagetop">ページ上部へ戻る</a></div>
+            <br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+      <td valign="top"><img src="images/space.gif" width="20" height="1" border="0" alt=""></td>
+    </tr>
+  </tbody>
+</table>
+<div class="footer_c">
+  <table border="0" width="1000" cellpadding="0" cellspacing="0" class="footer_sbackimg">
+    <tbody>
+      <tr>
+        <td>
+          <img src="images/footer.gif" width="1000" height="94" border="0" alt="瀬戸内町立図書館郷土館 〒894-1508 鹿児島県大島郡瀬戸内町古仁屋1283-17 Tel 0997-72-3799 Fax 0997-72-3999 Copyright Setouchi Town Library,Setouchi Municipal Museum. All right reserved.">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</body>
+</html>
