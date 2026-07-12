@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>垣屋播磨守光成(宗管)の五輪塔 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>垣屋播磨守光成(宗管)の五輪塔</h1>
+    <p class="jmh-id">JMH-313025-0008</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>鳥取県</dd>
+      <dt>市町村</dt><dd>岩美町</dd>
+      <dt>指定区分</dt><dd>町指定</dd>
+      <dt>大分類</dt><dd>記念物(史跡・名勝・天然記念物)</dd>
+      <dt>小分類</dt><dd>史跡</dd>
+      <dt>指定年月日</dt><dd>1995-09-26</dd>
+      <dt>所在地</dt><dd>浦富字新町南側1537</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>指定文化財一覧（町指定[19件]区分）、所有者等: 町浦富</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.iwami.gr.jp/secure/5145/shiteibunkazai.pdf" target="_blank" rel="noopener">https://www.iwami.gr.jp/secure/5145/shiteibunkazai.pdf</a><br>
+      形式: pdf &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"垣屋播磨守光成(宗管)の五輪塔" (JMH-313025-0008), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.581898, 134.32663], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.581898, 134.32663]).addTo(m);
+  </script>
+</body>
+</html>

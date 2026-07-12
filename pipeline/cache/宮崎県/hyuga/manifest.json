@@ -1,0 +1,18 @@
+{
+  "4f220055539c8870": {
+    "url": "https://www.hyugacity.jp/bunkazai/index.php",
+    "filename": "4f220055539c8870.html",
+    "sha256": "750969f24b16ad5a6a10bbcce58f2f42ac62e6412f3f83a0ba2102eaea63cf0d",
+    "fetched_at": "2026-07-12T10:19:07Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d29838b310e786eb": {
+    "url": "https://www.hyugacity.jp/tempimg/20240318155123.pdf",
+    "filename": "d29838b310e786eb.pdf",
+    "sha256": "646874bf27e26a873b19cbbac0530d837fbca3b04e91069ee95812e3cf42582c",
+    "fetched_at": "2026-07-12T10:19:10Z",
+    "http_status": 200,
+    "format": "pdf"
+  }
+}

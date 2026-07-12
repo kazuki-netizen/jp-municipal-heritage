@@ -1,0 +1,18 @@
+{
+  "ec20607336a2f360": {
+    "url": "https://www.city.nichinan.lg.jp/soshikikarasagasu/shogaigakushuka/2/780.html",
+    "filename": "ec20607336a2f360.html",
+    "sha256": "fbf820d2fe8ef6f9ae3781869f173cb114efbc354a84b2671c4e3f80ecb0a498",
+    "fetched_at": "2026-07-12T10:19:04Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:05Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

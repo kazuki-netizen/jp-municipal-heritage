@@ -1,0 +1,18 @@
+{
+  "0945f9037fd1da58": {
+    "url": "https://www.town.kijo.lg.jp/kankou_bunka_supo-tu/rekisi_bunkazai/bunkazai/index.html",
+    "filename": "0945f9037fd1da58.html",
+    "sha256": "1168f119c3a438807120011167e03759c0a3aced8a6fd9d284792474e5f987b3",
+    "fetched_at": "2026-07-12T10:19:19Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:20Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

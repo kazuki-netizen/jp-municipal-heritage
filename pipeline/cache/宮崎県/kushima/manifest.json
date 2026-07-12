@@ -1,0 +1,18 @@
+{
+  "f47ffcf766869fea": {
+    "url": "https://www.city.kushima.lg.jp/enjoy/bunka/upload/ea31b075a972b48e953ced5421c2a195db1c7c6b.pdf",
+    "filename": "f47ffcf766869fea.pdf",
+    "sha256": "a1deeea444b29efd6bc2a95f174032735eef09a6e3e3088ed9e08511d22a013d",
+    "fetched_at": "2026-07-12T10:19:11Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "35185df2ba0644b0": {
+    "url": "https://www.city.kushima.lg.jp/enjoy/bunka/cat2/post.html",
+    "filename": "35185df2ba0644b0.html",
+    "sha256": "8ec21da0fce6cc03407232ea99381099c76b4a326126514ffa996d3a9543743a",
+    "fetched_at": "2026-07-12T10:19:13Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

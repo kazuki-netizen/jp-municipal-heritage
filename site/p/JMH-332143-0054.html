@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>勝山藩関係資料 — jp-municipal-heritage</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+<body>
+  <nav><a href="../index.html">← マップへ戻る</a></nav>
+  <main>
+    <h1>勝山藩関係資料</h1>
+    <p class="jmh-id">JMH-332143-0054</p>
+    <dl class="meta">
+      <dt>都道府県</dt><dd>岡山県</dd>
+      <dt>市町村</dt><dd>真庭市</dd>
+      <dt>指定区分</dt><dd>市指定</dd>
+      <dt>大分類</dt><dd>有形文化財</dd>
+      <dt>小分類</dt><dd>歴史資料</dd>
+      <dt>指定年月日</dt><dd>1967-04-06</dd>
+      <dt>所在地</dt><dd>三田; 勝山; 勝山郷土資料館寄託(個人); 勝山郷土資料館寄託(化生寺); 月田; 横部</dd>
+    </dl>
+    <section class="description">
+      <h2>解説</h2>
+      <p>真庭市指定文化財 No.48「勝山藩関係資料」（枝番1-7の関連資料一括、内訳: 鞍(1具, 勝山郷土資料館寄託(個人), 個人, 1967-04-06); 野焚(1対, 勝山郷土資料館寄託(化生寺), 化生寺, 1967-04-06); 駕籠(1台, 勝山, 化生寺, 1967-04-06); 毘次侯の詩碑(1基, 横部, 真庭市, 1971-04-15); 扁額「遍照金剛」(1面, 三田, 観音寺, 1972-02-24); 木造扁額「天満宮」(1面, 勝山, 安養寺, 1972-02-24); 扁額「四箴」(1面, 月田, 真庭市, 2004-06-17)）</p>
+    </section>
+    <section class="source">
+      <h2>出典</h2>
+      <p><a href="https://www.city.maniwa.lg.jp/uploaded/attachment/37669.pdf" target="_blank" rel="noopener">https://www.city.maniwa.lg.jp/uploaded/attachment/37669.pdf</a><br>
+      形式: pdf &middot; 取得日: 2026-07-12</p>
+    </section>
+    <section class="cite">
+      <h2>引用</h2>
+      <div class="cite-block">"勝山藩関係資料" (JMH-332143-0054), jp-municipal-heritage, CC-BY 4.0, retrieved 2026-07-12.</div>
+    </section>
+  </main>
+  <div id="mini-map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script>
+    var m = L.map('mini-map').setView([35.080498, 133.687576], 15);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(m);
+    L.marker([35.080498, 133.687576]).addTo(m);
+  </script>
+</body>
+</html>

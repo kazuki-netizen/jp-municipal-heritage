@@ -1,0 +1,18 @@
+{
+  "490a732372eb9f2a": {
+    "url": "https://www.vill.morotsuka.miyazaki.jp/kanko-bunka/rekishi-bunkazai/753.html",
+    "filename": "490a732372eb9f2a.html",
+    "sha256": "52a5afcb16234fa32325e2b33d014b54b14bd38ad209ae2b6102d92dab684d20",
+    "fetched_at": "2026-07-12T10:19:25Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "42095087719295c4": {
+    "url": "https://www.miyazaki-archive.jp/d-museum/mch/s/bunka/ichiran03.html",
+    "filename": "42095087719295c4.html",
+    "sha256": "9e7c2a4e0893b5715f164e3c6ae6bff118d0e0a358278439e3852ae1243038c8",
+    "fetched_at": "2026-07-12T10:19:26Z",
+    "http_status": 200,
+    "format": "html"
+  }
+}

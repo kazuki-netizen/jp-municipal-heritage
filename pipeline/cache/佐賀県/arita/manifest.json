@@ -6,5 +6,45 @@
     "fetched_at": "2026-07-12T08:33:40Z",
     "http_status": 200,
     "format": "html"
+  },
+  "15c4dcbc40000533": {
+    "url": "https://www.town.arita.lg.jp/rekishi/list00679.html",
+    "filename": "15c4dcbc40000533.html",
+    "sha256": "4d36ab831acdc1238e9f3fa6a7482d6c01ae90fc652e6673cb97ad29a40cd14e",
+    "fetched_at": "2026-07-12T10:38:51Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8d7cc0c49c5b76ff": {
+    "url": "https://www.town.arita.lg.jp/rekishi/list00681.html",
+    "filename": "8d7cc0c49c5b76ff.html",
+    "sha256": "759f364ce25863455e90d67951ed46bcbc7180739ef96eaee4093f2b4f57e6d4",
+    "fetched_at": "2026-07-12T10:38:54Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6243a2f5e6cc50cb": {
+    "url": "https://www.town.arita.lg.jp/rekishi/list00682.html",
+    "filename": "6243a2f5e6cc50cb.html",
+    "sha256": "c4345eb8a2e582da262e5bf52c2f0caed5a01af69f869f0bf2c4101d852c4467",
+    "fetched_at": "2026-07-12T10:38:56Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "915c9b4ca05a46d0": {
+    "url": "https://www.town.arita.lg.jp/rekishi/list00683.html",
+    "filename": "915c9b4ca05a46d0.html",
+    "sha256": "d6d39b85f32a1449d292da1755315a6071fcd910c71f981feb4cacf5fa01b618",
+    "fetched_at": "2026-07-12T10:38:59Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c18f6d93c8178229": {
+    "url": "https://www.town.arita.lg.jp/rekishi/list00684.html",
+    "filename": "c18f6d93c8178229.html",
+    "sha256": "596855920fcb753aaa7606db276701b1bbc40634e9b92df557dedd91b2994b72",
+    "fetched_at": "2026-07-12T10:39:02Z",
+    "http_status": 200,
+    "format": "html"
   }
 }

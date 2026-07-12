@@ -6,5 +6,29 @@
     "fetched_at": "2026-07-12T08:33:33Z",
     "http_status": 200,
     "format": "pdf"
+  },
+  "8e8e2b400187d36a": {
+    "url": "https://www.city.taku.lg.jp/uploaded/attachment/1444.pdf",
+    "filename": "8e8e2b400187d36a.pdf",
+    "sha256": "afb84b4443f5f72e2247c7fec6b1ae9f88c1362278b1045cb7f504f908408bd6",
+    "fetched_at": "2026-07-12T10:41:20Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "e69dfde979a66220": {
+    "url": "https://www.city.taku.lg.jp/uploaded/attachment/1445.pdf",
+    "filename": "e69dfde979a66220.pdf",
+    "sha256": "97d7d2a2553f606708baefaab19e07c2ea3a7003f3bb274e38f77b3d81b0a813",
+    "fetched_at": "2026-07-12T10:41:23Z",
+    "http_status": 200,
+    "format": "pdf"
+  },
+  "b109baeeac820125": {
+    "url": "https://www.city.taku.lg.jp/uploaded/attachment/1446.pdf",
+    "filename": "b109baeeac820125.pdf",
+    "sha256": "411b81922a9c27976d2998a3e9ba83b26cd43253f093ccd8d0f02bc895c4f5ac",
+    "fetched_at": "2026-07-12T10:41:26Z",
+    "http_status": 200,
+    "format": "pdf"
   }
 }

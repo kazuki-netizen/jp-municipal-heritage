@@ -14,5 +14,149 @@
     "fetched_at": "2026-07-12T07:30:18Z",
     "http_status": 200,
     "format": "pdf"
+  },
+  "1e93197123262e0c": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/list83-297.html",
+    "filename": "1e93197123262e0c.html",
+    "sha256": "0e44aeb8fb757331091c4da2e5974ce85042bd935344bedaa6742c54edef6d41",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "16be71f839a0a9b9": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4520.html",
+    "filename": "16be71f839a0a9b9.html",
+    "sha256": "2fced868a42919509d5e37149b47123c9d34a6edf343c18da987b32b875b0939",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "ce8927b31d301d5f": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4521.html",
+    "filename": "ce8927b31d301d5f.html",
+    "sha256": "8d2be13fe17bdf7e60905ae29f6d6ca0d6505b192995421616a689c252c32c71",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "b32496f4cad7e530": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4522.html",
+    "filename": "b32496f4cad7e530.html",
+    "sha256": "09177b70d4ba290bb55cc5bb19415c6d9942ea720183cb2388313bbc82237026",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f3053f05aac56fce": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4524.html",
+    "filename": "f3053f05aac56fce.html",
+    "sha256": "ef738654d3efe075b21e38e7e4fac7c5af9ffff23e7ab11b0b4209ec865f4974",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "f619881aeb8dc39e": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4525.html",
+    "filename": "f619881aeb8dc39e.html",
+    "sha256": "a6c992d3fa180d910164631658fb8a3bee5bc9defc60f1ac166cbde70e30560b",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "e08bb46c485a8bfe": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4526.html",
+    "filename": "e08bb46c485a8bfe.html",
+    "sha256": "e8bc27b35fe7a10f2817ac7f1f36fddf9a5040c4326d9799f9ad031830a37f51",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "d805a8acae0aa08f": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4527.html",
+    "filename": "d805a8acae0aa08f.html",
+    "sha256": "940ba7764deae73f8066991aa0d2cd3858a39cb34595edf93f14372c6ca9bb0e",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "8871d89a0b79529d": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4530.html",
+    "filename": "8871d89a0b79529d.html",
+    "sha256": "79e2b7746b0b75c4f69047d1b2e39b9f391a09f68dd2eeec8381df68e4c22d68",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "473a7530a81978b5": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4532.html",
+    "filename": "473a7530a81978b5.html",
+    "sha256": "be448598cd1db5beddaa89bcd11394107c0816efb78871c75cb13ec8198be49a",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "3c684b1120583b86": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4533.html",
+    "filename": "3c684b1120583b86.html",
+    "sha256": "1b9b77d24668599a6bfbc437f20e63132cc5044650698b930a8ea1f321721f4c",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "4c3f90779d2bd089": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4534.html",
+    "filename": "4c3f90779d2bd089.html",
+    "sha256": "3814e770e6114299ac32e74693f057a1b7b8a669ce06102c11a7ab065cef9830",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "c1c480c8e251c3c0": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4535.html",
+    "filename": "c1c480c8e251c3c0.html",
+    "sha256": "bcdf7eeceef5d3e5607d2df24f6e70549e1d51b89c90abf57a8e95d494911f49",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "6b1ce0a0d23d1036": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4536.html",
+    "filename": "6b1ce0a0d23d1036.html",
+    "sha256": "672d6e37f7bdc8f2978a1a5f45246e36014f05131a25d6a788eaaa59911eab7d",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cfbb319743501aee": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4724.html",
+    "filename": "cfbb319743501aee.html",
+    "sha256": "0d81e5249301dc8488601c454052dae79d18316b7c3460e3838627c2d5b8ff54",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "eb4290daab7f28b4": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4727.html",
+    "filename": "eb4290daab7f28b4.html",
+    "sha256": "c9f46baaf430826c64ff707025896dde111b92846272e74204a60b0cdc360a5a",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "1148750b9bb5944f": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/4728.html",
+    "filename": "1148750b9bb5944f.html",
+    "sha256": "2eca2e06bb18112dc07d3e8fa9daff85507fec724fb8108ccbf9986a3f9e4d1f",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
+  },
+  "cf77af1f62bc51aa": {
+    "url": "https://www.town.manno.lg.jp/site/bunkazai/5356.html",
+    "filename": "cf77af1f62bc51aa.html",
+    "sha256": "7059913c55ede97bfdb4201053af6a3f41fcaa1081df0a18f3fd950408a11f21",
+    "fetched_at": "2026-07-12T22:55:00Z",
+    "http_status": 200,
+    "format": "html"
   }
 }
