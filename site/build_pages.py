@@ -11,6 +11,7 @@ Usage:
 import json
 import os
 import sys
+from urllib.parse import urlsplit
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "site", "p")
@@ -49,6 +50,22 @@ def esc(s):
             .replace('"', "&quot;"))
 
 
+def safe_http_url(value):
+    """Return a link-safe absolute HTTP(S) URL, or an empty string."""
+    if not value:
+        return ""
+    value = str(value).strip()
+    try:
+        parsed = urlsplit(value)
+    except ValueError:
+        return ""
+    if parsed.scheme.lower() not in ("http", "https") or not parsed.netloc:
+        return ""
+    if parsed.username or parsed.password:
+        return ""
+    return value
+
+
 def render(row, coords):
     name = row.get("name", "")
     jmh_id = row.get("jmh_id", "")
@@ -61,6 +78,7 @@ def render(row, coords):
     location = row.get("location", "")
     description = row.get("description")
     source_url = row.get("source_url", "")
+    source_href = safe_http_url(source_url)
     source_format = row.get("source_format", "")
     fetched_at = (row.get("fetched_at") or "")[:10]
 
@@ -95,6 +113,10 @@ def render(row, coords):
     if location:
         location_row = f"\n      <dt>所在地</dt><dd>{esc(location)}</dd>"
 
+    source_link = (f'<a href="{esc(source_href)}" target="_blank" '
+                   f'rel="noopener noreferrer">{esc(source_url)}</a>'
+                   if source_href else esc(source_url))
+
     return f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -122,7 +144,7 @@ def render(row, coords):
     </section>
     <section class="source">
       <h2>出典</h2>
-      <p><a href="{esc(source_url)}" target="_blank" rel="noopener">{esc(source_url)}</a><br>
+      <p>{source_link}<br>
       形式: {esc(source_format)} &middot; 取得日: {fetched_at}</p>
     </section>
     <section class="cite">
