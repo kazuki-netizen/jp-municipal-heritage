@@ -78,6 +78,15 @@ and sometimes nothing at all. This project unifies them into one clean, document
 | [`site/index.html`](site/index.html) | Static Leaflet map of the dataset (prefecture filter included). |
 | [`notes/`](notes/) | Working notes from the pilot (schema-fit analysis, raw coverage log). |
 
+## API
+
+A static, CORS-open JSON API (v1) is available at
+`https://jp-municipal-heritage.vercel.app/api/v1/` — no auth, no rate limit.
+`index.json` lists all 47 prefectures; `prefectures/<slug>.json` breaks a
+prefecture down by municipality; `municipalities/<muni_code>.json` returns full
+records (English translation included where available). See [`API.md`](API.md)
+for the full endpoint reference, curl examples, and bulk-download options.
+
 ## Data at a glance
 
 - **78,515 designations total** across all forty-seven prefectures of Japan — national coverage complete.
