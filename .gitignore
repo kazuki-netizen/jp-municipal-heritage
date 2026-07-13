@@ -45,3 +45,5 @@ notes/
 # --- Agent scratch scripts (must never be committed: may contain local paths) ---
 pipeline/scratch_*
 scratch_*.py
+data/aomori_part_*.jsonl
+data/*_parts/

@@ -1,3 +1,9 @@
+> **⚠️ Historical snapshot (v1, Iwate only).** This document describes the initial
+> 2026-07-03 Iwate release (1,778 rows). The dataset has since grown to all 47
+> prefectures — 78,515 rows as of v17.1 (Iwate itself is now 1,972 rows). For
+> current per-prefecture coverage, see the tables in [README.md](../README.md).
+> Per-prefecture collection notes live in `pipeline/out/<prefecture>/_coverage*.md`.
+
 # Coverage — 岩手県 市町村指定文化財
 
 Snapshot date: 2026-07-03. Dataset: `data/iwate.jsonl` (**1,778 rows**).

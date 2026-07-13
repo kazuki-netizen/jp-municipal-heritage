@@ -1,3 +1,7 @@
+> **⚠️ Historical snapshot (v1, Iwate only).** Source listing for the initial
+> 2026-07-03 Iwate release. Current per-row provenance is in the `source_url`
+> field of each record in `data/<pref>.jsonl`.
+
 # Sources — 岩手県 市町村指定文化財
 
 Per-municipality provenance for `data/iwate.jsonl`. One row per municipality that

@@ -4,7 +4,7 @@
 [JSON Lines](https://jsonlines.org/): one JSON object per line,
 one municipality-designated cultural property (市町村指定文化財) per object. UTF-8.
 `data/{pref}.csv` has the identical columns (UTF-8 with BOM). `data/{pref}.geojson`
-and `data/all.geojson` (combined, all fourteen prefectures) carry the same fields inside each
+and `data/all.geojson` (combined, all 47 prefectures) carry the same fields inside each
 feature's `properties`, plus a derived `geo_precision`.
 
 ## Fields (v1)

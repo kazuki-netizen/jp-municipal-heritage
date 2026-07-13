@@ -180,7 +180,7 @@ curl -s -H "x-api-key: $KEY" https://jp-municipal-heritage.vercel.app/api/v1/mun
 ```
 
 The `en` block is present only for prefectures with an English translation
-layer (`data/i18n/*_en.jsonl` — 18 prefectures as of this writing; check the
+layer (`data/i18n/*_en.jsonl` — 20 prefectures as of this writing; check the
 `en_available` flag per prefecture in `index.json`). Rows without a translation
 simply omit the key — do not assume its presence.
 

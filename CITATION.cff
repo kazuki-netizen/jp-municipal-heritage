@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and state the release tag you used."
+title: "jp-municipal-heritage: a unified dataset of municipally designated cultural properties in Japan"
+type: dataset
+authors:
+  - name: "jp-municipal-heritage project"
+repository-code: "https://github.com/kazuki-netizen/jp-municipal-heritage"
+url: "https://jp-municipal-heritage.vercel.app"
+license: CC-BY-4.0
+version: v17.1
+date-released: 2026-07-13
+abstract: >-
+  Municipally designated cultural properties (市区町村指定文化財) across all 47
+  prefectures of Japan, compiled from official municipal publications into a
+  unified schema with stable identifiers (jmh_id). v17.1 contains 78,515
+  designations across 1,375 municipalities, plus an English metadata layer for
+  20 prefectures. Data is CC-BY-4.0; site/pipeline code is MIT.
