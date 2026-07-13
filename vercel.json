@@ -4,9 +4,10 @@
   ],
   "headers": [
     {
-      "source": "/api/(.*)",
+      "source": "/api/v1/(.*)",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Headers", "value": "x-api-key, content-type" },
         { "key": "Content-Type", "value": "application/json; charset=utf-8" },
         { "key": "Cache-Control", "value": "public, max-age=3600" }
       ]

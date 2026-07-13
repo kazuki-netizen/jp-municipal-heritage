@@ -81,11 +81,16 @@ and sometimes nothing at all. This project unifies them into one clean, document
 ## API
 
 A static, CORS-open JSON API (v1) is available at
-`https://jp-municipal-heritage.vercel.app/api/v1/` — no auth, no rate limit.
+`https://jp-municipal-heritage.vercel.app/api/v1/`. **An API key is required**
+— free and issued instantly: `POST /api/signup` with `{"email": "you@example.com"}`
+returns your key, which you send as an `x-api-key` header (no verification
+email; re-signing up with the same email returns the same key).
 `index.json` lists all 47 prefectures; `prefectures/<slug>.json` breaks a
 prefecture down by municipality; `municipalities/<muni_code>.json` returns full
-records (English translation included where available). See [`API.md`](API.md)
-for the full endpoint reference, curl examples, and bulk-download options.
+records (English translation included where available). Bulk files under
+`/data/*` (JSONL/CSV/GeoJSON) and the map site remain keyless. See
+[`API.md`](API.md) for the full endpoint reference, curl examples, and
+bulk-download options.
 
 ## Data at a glance
 

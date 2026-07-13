@@ -2,18 +2,82 @@
 
 A read-only, CDN-cached JSON API over the jp-municipal-heritage dataset: 78,515
 municipality-designated cultural properties (市町村指定文化財) across all 47
-Japanese prefectures. No auth, no rate limit, no server — every endpoint is a
-static file served from Vercel's edge with `Access-Control-Allow-Origin: *`.
+Japanese prefectures. Every endpoint is a static file served from Vercel's edge
+with `Access-Control-Allow-Origin: *`. **An API key is required** for
+`/api/*` — signup is free, instant, and needs only an email address (see
+[Authentication](#authentication)). Bulk files under `/data/*` and the map site
+remain keyless.
 
-日本語: 全国47都道府県・78,515件の市町村指定文化財データを、認証・レート制限なしの
-静的JSON APIとして公開しています。サーバーレス（Vercelの静的配信＋CDNキャッシュ）で、
-CORSは全オリジン許可です。
+日本語: 全国47都道府県・78,515件の市町村指定文化財データを、静的JSON API
+（Vercel静的配信＋CDNキャッシュ、CORS全オリジン許可）として公開しています。
+`/api/*` の利用には**APIキーが必要**です（メールアドレスを登録すると無料で即時発行
+—下記「Authentication」参照）。`/data/*` の一括ダウンロードと地図サイトはキー不要です。
 
 ## Base URL
 
 ```
 https://jp-municipal-heritage.vercel.app
 ```
+
+## Authentication
+
+All `/api/v1/*` endpoints require an API key. Get one instantly — no
+verification email, no dashboard, no payment:
+
+```bash
+# 1. Sign up (returns your key immediately)
+curl -s -X POST https://jp-municipal-heritage.vercel.app/api/signup \
+  -H "content-type: application/json" \
+  -d '{"email": "you@example.com"}'
+```
+
+```json
+{
+  "email": "you@example.com",
+  "key": "eW91QGV4YW1wbGUuY29tLj...",
+  "usage": {
+    "header": "x-api-key: <key>",
+    "query": "?key=<key>",
+    "example": "curl -s -H \"x-api-key: <key>\" https://jp-municipal-heritage.vercel.app/api/v1/index.json"
+  }
+}
+```
+
+```bash
+# 2. Call the API with the key (header — recommended)
+curl -s -H "x-api-key: $KEY" \
+  https://jp-municipal-heritage.vercel.app/api/v1/index.json
+
+# ...or as a query parameter
+curl -s "https://jp-municipal-heritage.vercel.app/api/v1/index.json?key=$KEY"
+```
+
+Details / notes:
+
+- **Instant issuance, no verification email (v1 trade-off).** The email is
+  format-checked only. Signing up again with the same email always returns the
+  same key, so a lost key is recovered by simply signing up again.
+- The key is a signed token that encodes your email address (base64url) — treat
+  it as semi-private and don't publish it. Prefer the `x-api-key` header over
+  `?key=` so the key doesn't end up in URL logs and caches.
+- Requests without a valid key get `401` with a machine-readable pointer:
+
+  ```json
+  { "error": "Missing API key. ...", "signup": "/api/signup", "docs": "https://github.com/kazuki-netizen/jp-municipal-heritage/blob/main/API.md" }
+  ```
+
+- Only `/api/*` is protected. `/data/*` (bulk JSONL/CSV/GeoJSON) and the map
+  site need no key.
+
+日本語: `/api/v1/*` の全エンドポイントでAPIキーが必要です。
+`POST /api/signup` にJSONボディ `{"email": "..."}` を送ると、その場でキーが
+返ります（v1の割り切りとして**確認メールは送信されません**。メールは形式チェック
+のみ）。同じメールアドレスで再登録すると常に同じキーが返るため、キーを紛失した
+場合は再登録してください。キーは `x-api-key` ヘッダ（推奨）または `?key=`
+クエリで送ります。キーにはメールアドレスがbase64urlで埋め込まれているため、
+公開の場に貼らないでください。キー無しのリクエストは上記形式の `401`
+（`signup` / `docs` フィールド付き）を返します。`/data/*` と地図サイトは
+引き続きキー不要です。
 
 ## Endpoints
 
@@ -23,7 +87,7 @@ Dataset overview: total row count and the list of all 47 prefectures with their
 row counts and drill-down URLs.
 
 ```bash
-curl -s https://jp-municipal-heritage.vercel.app/api/v1/index.json
+curl -s -H "x-api-key: $KEY" https://jp-municipal-heritage.vercel.app/api/v1/index.json
 ```
 
 ```json
@@ -47,7 +111,7 @@ name used throughout this repo (`iwate`, `aomori`, `tokyo`, `okinawa`, ...) — 
 the `slug` field in `index.json` for the full list.
 
 ```bash
-curl -s https://jp-municipal-heritage.vercel.app/api/v1/prefectures/iwate.json
+curl -s -H "x-api-key: $KEY" https://jp-municipal-heritage.vercel.app/api/v1/prefectures/iwate.json
 ```
 
 ```json
@@ -77,7 +141,7 @@ prefecture endpoint rather than constructing keys yourself.
 ください。
 
 ```bash
-curl -s https://jp-municipal-heritage.vercel.app/api/v1/municipalities/032018.json | python3 -m json.tool | head -30
+curl -s -H "x-api-key: $KEY" https://jp-municipal-heritage.vercel.app/api/v1/municipalities/032018.json | python3 -m json.tool | head -30
 ```
 
 ```json
@@ -143,7 +207,8 @@ curl -s https://jp-municipal-heritage.vercel.app/data/iwate.jsonl
 curl -s https://jp-municipal-heritage.vercel.app/data/all.geojson
 ```
 
-`/data/*` is CORS-open (`Access-Control-Allow-Origin: *`) the same as `/api/*`.
+`/data/*` is CORS-open (`Access-Control-Allow-Origin: *`) and, unlike `/api/*`,
+requires **no API key**.
 See [`SCHEMA.md`](SCHEMA.md) for the full file list (`data/{pref}.jsonl`,
 `data/{pref}.csv`, `data/{pref}.geojson`).
 
