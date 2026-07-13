@@ -20,6 +20,6 @@ for no,name,cat,sub,date in rows:
         "designation":"町指定","designated_date":date,"location":None,
         "description":f"町指定文化財第{no}号",
         "source_url":url,"source_format":"html","fetched_at":"2026-07-12T00:00:00Z"})
-with open("/Users/user/bunkazai/pipeline/out/福岡県/hisayama.jsonl","w",encoding="utf-8") as f:
+with open("./pipeline/out/福岡県/hisayama.jsonl","w",encoding="utf-8") as f:
     for r in out: f.write(json.dumps(r,ensure_ascii=False)+"\n")
 print(len(out))

@@ -1,6 +1,6 @@
 {
   "batch_id": "msgbatch_012ByQeE1aXUAf9iJXcC6Gi4",
-  "in_path": "/Users/user/bunkazai/data/hokkaido.jsonl",
+  "in_path": "./data/hokkaido.jsonl",
   "n_rows": 464,
   "n_requests": 12,
   "chunk_size": 40,

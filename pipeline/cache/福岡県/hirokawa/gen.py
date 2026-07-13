@@ -27,6 +27,6 @@ for name,cat,sub,date,loc in rows:
     out.append({"pref":"福岡県","municipality":"広川町","name":name,"category":cat,"subcategory":sub,
         "designation":"町指定","designated_date":date,"location":loc,"description":None,
         "source_url":url,"source_format":"pdf","fetched_at":"2026-07-12T00:00:00Z"})
-with open("/Users/user/bunkazai/pipeline/out/福岡県/hirokawa.jsonl","w",encoding="utf-8") as f:
+with open("./pipeline/out/福岡県/hirokawa.jsonl","w",encoding="utf-8") as f:
     for r in out: f.write(json.dumps(r,ensure_ascii=False)+"\n")
 print(len(out))

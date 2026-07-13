@@ -77,7 +77,7 @@ for no,name,cat,sub,date,loc,note in rows:
         "source_url":url,"source_format":"pdf","fetched_at":"2026-07-12T00:00:00Z"
     })
 
-with open("/Users/user/bunkazai/pipeline/out/福岡県/miyama.jsonl","w",encoding="utf-8") as f:
+with open("./pipeline/out/福岡県/miyama.jsonl","w",encoding="utf-8") as f:
     for r in out:
         f.write(json.dumps(r,ensure_ascii=False)+"\n")
 print(len(out))

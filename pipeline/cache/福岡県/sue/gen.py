@@ -32,6 +32,6 @@ for no,name,cat,sub,loc in rows:
         "designation":"町指定","designated_date":None,"location":(None if loc=="None" else loc),
         "description":f"町指定文化財一覧No.{no}",
         "source_url":url,"source_format":"html","fetched_at":"2026-07-12T00:00:00Z"})
-with open("/Users/user/bunkazai/pipeline/out/福岡県/sue.jsonl","w",encoding="utf-8") as f:
+with open("./pipeline/out/福岡県/sue.jsonl","w",encoding="utf-8") as f:
     for r in out: f.write(json.dumps(r,ensure_ascii=False)+"\n")
 print(len(out))

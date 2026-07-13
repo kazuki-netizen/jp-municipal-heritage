@@ -41,3 +41,7 @@ data/ichinoseki_old_rows.jsonl
 data/morioka_raw.txt
 notes/
 .vercel
+
+# --- Agent scratch scripts (must never be committed: may contain local paths) ---
+pipeline/scratch_*
+scratch_*.py

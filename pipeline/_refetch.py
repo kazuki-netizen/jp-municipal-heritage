@@ -21,7 +21,7 @@ def fetch(url):
     # curl with UA, follow redirects, 20s timeout
     p = subprocess.run(
         ["curl", "-sL", "-m", "20", "-A",
-         "Mozilla/5.0 (bunkazai-dataset research; contact redacted@example.com)",
+         "Mozilla/5.0 (bunkazai-dataset research; contact: https://github.com/kazuki-netizen/jp-municipal-heritage/issues)",
          "-w", "%{http_code}", "-o", "/tmp/_rf.body", url],
         capture_output=True, text=True)
     code = p.stdout.strip()[-3:] if p.stdout.strip() else "000"
