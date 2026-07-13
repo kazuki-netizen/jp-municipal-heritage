@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>API key — jp-municipal-heritage</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; background: #fafafa; color: #222; }
+    main { max-width: 640px; margin: 0 auto; padding: 32px 16px 64px; }
+    h1 { font-size: 20px; margin: 0 0 4px; }
+    .sub { font-size: 13px; color: #666; margin: 0 0 20px; line-height: 1.6; }
+    .sub a { color: #2a6; }
+    .card { background: #fff; border: 1px solid #e2e2e2; border-radius: 8px; padding: 20px; }
+    label { display: block; font-size: 12px; font-weight: 600; margin: 0 0 4px; color: #333; }
+    input[type=email] { width: 100%; padding: 8px 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 4px; }
+    button { margin-top: 12px; padding: 8px 18px; font-size: 14px; border: none; border-radius: 4px; background: #2a6; color: #fff; cursor: pointer; }
+    button:disabled { background: #9c9; cursor: wait; }
+    .note { font-size: 12px; color: #666; line-height: 1.7; margin-top: 16px; }
+    #result { display: none; margin-top: 20px; }
+    #error { display: none; margin-top: 12px; font-size: 13px; color: #c00; }
+    .keybox { display: flex; gap: 8px; align-items: stretch; margin: 6px 0 14px; }
+    .keybox code { flex: 1 1 auto; font-size: 12px; background: #f4f4f4; border: 1px solid #ddd; border-radius: 4px; padding: 8px; word-break: break-all; }
+    .keybox button { margin: 0; flex: 0 0 auto; }
+    pre { font-size: 12px; background: #f4f4f4; border: 1px solid #ddd; border-radius: 4px; padding: 10px; overflow-x: auto; }
+    h2 { font-size: 14px; margin: 18px 0 6px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Get a free API key / APIキーの発行</h1>
+    <p class="sub">
+      Instant and free — just an email address. No verification email is sent; signing up again
+      with the same email returns the same key.<br>
+      メールアドレスを入力するとその場でキーが発行されます（無料・確認メールなし）。
+      同じメールアドレスで再発行すると常に同じキーが返るため、紛失時は再入力してください。<br>
+      Docs: <a href="https://github.com/kazuki-netizen/jp-municipal-heritage/blob/main/API.md">API.md</a>
+      &middot; <a href="index.html">Map 地図に戻る</a>
+    </p>
+
+    <div class="card">
+      <form id="form">
+        <label for="email">Email メールアドレス</label>
+        <input type="email" id="email" required maxlength="254" placeholder="you@example.com" autocomplete="email" />
+        <button type="submit" id="submit">Issue key / キーを発行</button>
+      </form>
+      <div id="error"></div>
+
+      <div id="result">
+        <h2>Your API key / あなたのAPIキー</h2>
+        <div class="keybox">
+          <code id="key"></code>
+          <button type="button" id="copy">Copy</button>
+        </div>
+        <h2>Usage / 使い方</h2>
+        <pre id="example"></pre>
+        <p class="note">
+          Send the key as an <code>x-api-key</code> header (recommended) or a <code>?key=</code>
+          query parameter. Only <code>/api/v1/*</code> requires a key — bulk files under
+          <code>/data/*</code> and this map site stay keyless.<br>
+          キーは <code>x-api-key</code> ヘッダ（推奨）または <code>?key=</code> クエリで送ります。
+          キーが必要なのは <code>/api/v1/*</code> のみで、<code>/data/*</code> のバルクデータと
+          地図サイトはキー不要です。<br>
+          Note: the key encodes your email address (base64url) — do not post it publicly.<br>
+          注意: キーにはメールアドレスが埋め込まれています。公開の場に貼らないでください。
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    const form = document.getElementById('form');
+    const btn = document.getElementById('submit');
+    const errBox = document.getElementById('error');
+
+    form.addEventListener('submit', async (ev) => {
+      ev.preventDefault();
+      errBox.style.display = 'none';
+      document.getElementById('result').style.display = 'none';
+      btn.disabled = true;
+      try {
+        const r = await fetch('../api/signup', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ email: document.getElementById('email').value.trim() })
+        });
+        const data = await r.json();
+        if (!r.ok || !data.key) {
+          throw new Error(data.error || ('Request failed (HTTP ' + r.status + ')'));
+        }
+        document.getElementById('key').textContent = data.key;
+        document.getElementById('example').textContent =
+          'curl -s -H "x-api-key: ' + data.key + '" \\\n' +
+          '  https://jp-municipal-heritage.vercel.app/api/v1/index.json';
+        document.getElementById('result').style.display = 'block';
+      } catch (e) {
+        errBox.textContent = e.message || String(e);
+        errBox.style.display = 'block';
+      } finally {
+        btn.disabled = false;
+      }
+    });
+
+    document.getElementById('copy').addEventListener('click', async () => {
+      const key = document.getElementById('key').textContent;
+      try {
+        await navigator.clipboard.writeText(key);
+        document.getElementById('copy').textContent = 'Copied!';
+        setTimeout(() => { document.getElementById('copy').textContent = 'Copy'; }, 1500);
+      } catch { /* clipboard unavailable (e.g. non-secure context) — key is selectable */ }
+    });
+  </script>
+</body>
+</html>
