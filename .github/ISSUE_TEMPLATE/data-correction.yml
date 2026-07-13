@@ -1,0 +1,43 @@
+name: データ訂正の報告 / Data correction
+description: 文化財データの誤り・古い情報・指定解除などを報告する / Report wrong, outdated, or de-designated entries
+title: "[data] "
+labels: ["data-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ご報告ありがとうございます。自治体職員・研究者・市民どなたからの報告も歓迎します。
+        Thank you! Reports from municipal staff, researchers, and citizens are all welcome.
+  - type: input
+    id: jmh_id
+    attributes:
+      label: JMH ID または文化財名 / JMH ID or property name
+      description: 詳細ページのURL末尾（例 JMH-032013-0001）か、名称と市町村名
+      placeholder: JMH-032013-0001 / 報恩寺の五百羅漢（盛岡市）
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 報告の種類 / Type
+      options:
+        - 情報が古い（名称・所在地・指定日など） / Outdated info
+        - 誤り / Incorrect info
+        - 指定解除された / De-designated
+        - 新規指定が載っていない / Missing new designation
+        - その他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 内容 / Details
+      description: 正しい情報と、可能なら根拠（自治体ページのURL・広報・告示番号など）
+      placeholder: 例）2025年4月に名称が「〜」に変更されました。出典：https://…
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 根拠URL / Source URL（任意 optional）
+      placeholder: https://www.city.example.lg.jp/...

@@ -112,3 +112,6 @@ section.source a {
   margin-bottom: 24px;
   overflow: hidden;
 }
+
+.report { margin-top: 24px; font-size: 12px; }
+.report a { color: #888; }

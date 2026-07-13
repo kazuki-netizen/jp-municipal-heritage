@@ -129,6 +129,7 @@ def render(row, coords):
       <h2>引用</h2>
       <div class="cite-block">{cite}</div>
     </section>
+    <p class="report"><a href="https://github.com/kazuki-netizen/jp-municipal-heritage/issues/new?template=data-correction.yml&amp;title=%5Bdata%5D+{esc(jmh_id)}" target="_blank" rel="noopener">情報の誤り・更新を報告する / Report a correction</a></p>
   </main>{mini_map_html}
 </body>
 </html>
