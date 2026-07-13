@@ -2,11 +2,13 @@
 """Build static JSON API v1 for jp-municipal-heritage.
 
 Reads data/{pref}.jsonl (47 prefectures) and data/i18n/{pref}_en.jsonl
-(where present) and writes a static, CDN-friendly JSON tree under api/v1/:
+(where present) and writes a static, CDN-friendly JSON tree under apidata/v1/
+(served publicly as /api/v1/ via a rewrite in vercel.json; the api/ directory
+itself is reserved for Vercel serverless functions such as api/signup.ts):
 
-  api/v1/index.json
-  api/v1/prefectures/<slug>.json
-  api/v1/municipalities/<key>.json
+  apidata/v1/index.json
+  apidata/v1/prefectures/<slug>.json
+  apidata/v1/municipalities/<key>.json
 
 <key> is the 6-digit JIS municipality code when it can be resolved via
 site/muni_codes.json ("pref+municipality" key preferred, bare municipality
@@ -28,7 +30,7 @@ from datetime import datetime, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
 I18N_DIR = os.path.join(DATA_DIR, "i18n")
-API_DIR = os.path.join(ROOT, "api", "v1")
+API_DIR = os.path.join(ROOT, "apidata", "v1")
 
 PREFS = [
     "hokkaido", "aomori", "iwate", "miyagi", "akita", "yamagata", "fukushima",

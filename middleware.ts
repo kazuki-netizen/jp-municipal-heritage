@@ -8,8 +8,12 @@
 // Scope: /api/* only. The map site (/site/*) and bulk files (/data/*) stay
 // open. /api/signup is exempt (it is the key-issuing endpoint itself).
 
+// /apidata/* is the physical location of the static JSON tree (the public
+// URL /api/v1/* rewrites to it — Vercel reserves the api/ directory for
+// serverless functions, so static files cannot be served from there). It is
+// matched here too so the rewrite target cannot be used to bypass the check.
 export const config = {
-  matcher: "/api/:path*",
+  matcher: ["/api/:path*", "/apidata/:path*"],
 };
 
 const DOCS_URL =

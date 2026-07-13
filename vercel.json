@@ -2,6 +2,9 @@
   "redirects": [
     { "source": "/", "destination": "/site/index.html" }
   ],
+  "rewrites": [
+    { "source": "/api/v1/:path*", "destination": "/apidata/v1/:path*" }
+  ],
   "headers": [
     {
       "source": "/api/v1/(.*)",
