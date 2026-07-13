@@ -54,13 +54,12 @@ npx -y vercel@latest deploy --prod --yes --archive=tgz
 ## 4. よく使うコマンド
 
 ```bash
-# ID付与（★重要: site/assign_ids.py の PREFS 定数は14県分のみで古い。
-#   新規追加した県は明示的に県名を渡すこと。省略するとPREFS内しか処理されない）
-python3 site/assign_ids.py                      # デフォルトPREFS（14県）
+# ID付与（site/assign_ids.py の PREFS 定数は47県に更新済み。build_data.py と同一の並び）
+python3 site/assign_ids.py                      # デフォルトPREFS（全47県）
 python3 site/assign_ids.py iwate okinawa         # 対象県を明示
 
 # 派生ファイル再生成（csv/geojson、geocodeはGSI住所検索APIをキャッシュ付きで利用）
-python3 site/build_data.py                       # 全県（同様にPREFS定数は要確認・要更新）
+python3 site/build_data.py                       # 全県
 python3 site/build_data.py --csv-only            # ネットワーク無し、csvのみ
 python3 site/build_data.py iwate                 # 単県（all.geojsonを上書きする点に注意）
 
