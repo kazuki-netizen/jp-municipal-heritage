@@ -46,6 +46,15 @@
       </form>
       <div id="error"></div>
 
+      <div id="sent" style="display:none; margin-top:16px; font-size:13px; line-height:1.7; color:#262;">
+        ✅ Your API key has been emailed to <b id="sent-email"></b>. If it doesn't arrive
+        within a few minutes, check your spam folder and try again — re-signing up always
+        re-sends the same key.<br>
+        APIキーを <b id="sent-email-ja"></b> 宛にメールで送信しました。数分待っても届かない
+        場合は迷惑メールフォルダを確認のうえ、もう一度お試しください（再発行しても同じキーが
+        届きます）。
+      </div>
+
       <div id="result">
         <h2>Your API key / あなたのAPIキー</h2>
         <div class="keybox">
@@ -77,16 +86,24 @@
       ev.preventDefault();
       errBox.style.display = 'none';
       document.getElementById('result').style.display = 'none';
+      document.getElementById('sent').style.display = 'none';
       btn.disabled = true;
       try {
+        const email = document.getElementById('email').value.trim();
         const r = await fetch('../api/signup', {
           method: 'POST',
           headers: { 'content-type': 'application/json' },
-          body: JSON.stringify({ email: document.getElementById('email').value.trim() })
+          body: JSON.stringify({ email })
         });
         const data = await r.json();
-        if (!r.ok || !data.key) {
+        if (!r.ok || (!data.key && !data.sent)) {
           throw new Error(data.error || ('Request failed (HTTP ' + r.status + ')'));
+        }
+        if (data.sent) {
+          document.getElementById('sent-email').textContent = email;
+          document.getElementById('sent-email-ja').textContent = email;
+          document.getElementById('sent').style.display = 'block';
+          return;
         }
         document.getElementById('key').textContent = data.key;
         document.getElementById('example').textContent =

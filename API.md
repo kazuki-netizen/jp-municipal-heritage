@@ -22,7 +22,9 @@ https://jp-municipal-heritage.vercel.app
 ## Authentication
 
 All `/api/v1/*` endpoints require an API key. Get one instantly — no
-verification email, no dashboard, no payment. Either use the web form at
+dashboard, no payment. When email delivery is configured, the key is sent to
+your inbox (which doubles as address verification); otherwise it is returned
+directly in the response. Either use the web form at
 <https://jp-municipal-heritage.vercel.app/site/apikey.html> or curl:
 
 ```bash
