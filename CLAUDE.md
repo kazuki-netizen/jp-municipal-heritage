@@ -49,6 +49,12 @@ npx -y vercel@latest deploy --prod --yes --archive=tgz
 
 **(d) スクレイピングは受動的のみ。** GETのみ・自治体サイトあたり最低 2.5秒以上の間隔・robots.txt 遵守・能動スキャン/認証試行は一切行わない（ユーザーの全プロジェクト共通の絶対制約でもある）。robots.txt で禁止されたパスは取得を見送り、その旨を coverage に明記する（例: 一自治体分をクロール見送りにした実績あり）。
 
+**(e') PII混入防止（2026-07-13のPII除去作業の再発防止）。**
+- **`git add -A` / `git add .` 禁止。** コミット対象は必ずパスを明示する（4節のデプロイ手順どおり）。
+- 使い捨てスクリプトは `pipeline/scratch_*` に置く（.gitignore済み、コミット不可）。
+- コミット前に `git diff --cached | grep -c "/Users/"` が0であることを確認。ローカル絶対パス・メールアドレス・Vercelチームスラッグをコミット内容に含めない。連絡先はrepoのissues URLを使う。
+- 2026-07-13にgit filter-repoで全履歴からローカルパス・メールを抹消済み（バックアップ: `~/bunkazai-backup-20260713.git`）。古いクローンからのpushは汚染を復活させるため禁止。
+
 **(e) `build_data.py` の多重起動禁止。** 実行前に `ps aux | grep build_data` で生存確認。単県モード（`build_data.py <pref>`）は `data/all.geojson` を上書きしてしまう罠があるため、全県ビルドと混在させない。
 
 ## 4. よく使うコマンド
