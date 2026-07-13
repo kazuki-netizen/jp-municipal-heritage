@@ -1,0 +1,52 @@
+# --- Python env / caches ---
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# --- Build cache (regenerable; not part of the published dataset) ---
+site/geocode_cache.json
+
+# --- Scratch / working files at repo root ---
+scratchpad_build.log
+scratchpad_*.html
+scratch_*.html
+iwate_bunka.html
+kamaishi_shitei.html
+reiki08.html
+reiki0704.html
+build_final.py
+parse_lib.py
+
+# --- Raw per-municipality extraction intermediates under data/ ---
+# The published dataset is only data/iwate.jsonl (+ generated iwate.csv / iwate.geojson).
+# Everything below is raw source captures and build scaffolding kept locally, not published.
+data/details/
+data/*.pdf
+data/*.html
+data/*_raw.txt
+data/*_raw.csv
+data/oshu_raw.csv
+data/kitakami_raw.csv
+data/build.py
+data/build_batch_A.py
+data/batch_*.jsonl
+data/part_*.jsonl
+data/morioka.jsonl
+data/hanamaki.jsonl
+data/kitakami.jsonl
+data/oshu.jsonl
+data/ichinoseki.jsonl
+data/ichinoseki_old_rows.jsonl
+data/morioka_raw.txt
+notes/
+.vercel
+
+# --- Agent scratch scripts (must never be committed: may contain local paths) ---
+pipeline/scratch_*
+scratch_*.py
+
+# --- Never deploy pipeline internals (scrape cache / scratch / build internals) ---
+pipeline/
+CLAUDE.md
+.gitignore
